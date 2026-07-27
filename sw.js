@@ -1,12 +1,10 @@
 /* Lagrer oppskriftene på enheten, slik at appen virker uten nett. */
-var CACHE = 'oppskrifter-v2';
+var CACHE = 'oppskrifter-v3';
 var FILES = ['./', './index.html', './manifest.webmanifest'];
 
 self.addEventListener('install', function(e){
   e.waitUntil(
     caches.open(CACHE).then(function(c){
-      /* hver fil legges inn for seg, slik at én som mangler
-         ikke stopper resten */
       return Promise.all(FILES.map(function(f){
         return c.add(f).catch(function(){});
       }));
