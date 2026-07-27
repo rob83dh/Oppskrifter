@@ -274,13 +274,27 @@ CHIPS.forEach(function(c){
 });
 
 grp.options[0].textContent = 'Alle grupper (' + R.length + ')';
+var ogType = document.createElement('optgroup');
+ogType.label = 'Type';
 ORDER.forEach(function(cat){
   var n = R.filter(function(r){ return r.ka.indexOf(cat) >= 0; }).length;
   if(!n) return;
   var o=document.createElement('option');
   o.value=cat; o.textContent=PLURAL[cat]+' ('+n+')';
-  grp.appendChild(o);
+  ogType.appendChild(o);
 });
+grp.appendChild(ogType);
+
+var nLett = R.filter(function(r){ return r.kc; }).length;
+if(nLett){
+  var ogUtvalg = document.createElement('optgroup');
+  ogUtvalg.label = 'Utvalg';
+  var o2 = document.createElement('option');
+  o2.value = '__lett';
+  o2.textContent = 'Lett og proteinrik (' + nLett + ')';
+  ogUtvalg.appendChild(o2);
+  grp.appendChild(ogUtvalg);
+}
 
 function render(){
   var t1=terms(q1.value), t2=terms(q2.value), t3=terms(q3.value);
@@ -288,7 +302,8 @@ function render(){
   var active = t1.length||t2.length||t3.length||g;
 
   var res = R.filter(function(r){
-    return (!g || r.ka.indexOf(g) >= 0) && hits(r.nt,t1) && hits(r.ni,t2) && hits(r.nk,t3);
+    var iGruppe = !g || (g === '__lett' ? !!r.kc : r.ka.indexOf(g) >= 0);
+    return iGruppe && hits(r.nt,t1) && hits(r.ni,t2) && hits(r.nk,t3);
   });
   grp.classList.toggle('has', !!g);
 
@@ -309,7 +324,7 @@ function render(){
   }
 
   var html='';
-  var buckets = g ? [[g, res]] : ORDER.map(function(cat){
+  var buckets = (g && PLURAL[g]) ? [[g, res]] : ORDER.map(function(cat){
     return [cat, res.filter(function(r){ return r.k===cat; })];
   });
 
