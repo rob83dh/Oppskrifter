@@ -602,8 +602,8 @@ function tegnHandleliste(){
      + '<button id="egen-pluss" type="button" aria-label="Legg til">+</button></div>';
 
   h += '<div class="shopbar">'
-     + '<button class="prim" id="sh-del" type="button">Del som tekst</button>'
-     + '<button class="prim" id="sh-lenke" type="button">Del som lenke</button>'
+     + '<button class="prim" id="sh-lenke" type="button">Del listen</button>'
+     + '<button id="sh-del" type="button">Del som tekst</button>'
      + (harForrige() ? '<button id="sh-forrige" type="button">Tilbake til min egen liste</button>' : '')
      + '<button id="sh-huk" type="button">Fjern alle kryss</button>'
      + '</div>';
@@ -1108,7 +1108,7 @@ document.getElementById('shop-body').addEventListener('click', function(e){
     } else if (navigator.clipboard && navigator.clipboard.writeText){
       navigator.clipboard.writeText(u).then(function(){
         e.target.textContent = 'Lenke kopiert!';
-        setTimeout(function(){ e.target.textContent = 'Del som lenke'; }, 1800);
+        setTimeout(function(){ e.target.textContent = 'Del listen'; }, 1800);
       });
     }
     return;
