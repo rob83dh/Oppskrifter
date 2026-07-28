@@ -184,6 +184,7 @@ body.reading .kurvtall, body.shopping .kurvtall{display:none}
 .retter .por{color:var(--ink2); font-size:12.5px; white-space:nowrap}
 .retter .fjern{margin-left:auto; color:var(--ink2); font-size:17px; line-height:1;
   cursor:pointer; padding:0 3px}
+.hint{font-size:12.5px; color:var(--ink2); margin:-4px 0 14px; line-height:1.45}
 .vgr{font-size:11px; letter-spacing:.09em; text-transform:uppercase; color:var(--ink2);
   font-weight:600; margin:20px 0 6px}
 .vare{
@@ -433,12 +434,14 @@ CHIPS.forEach(function(c){
 
 /* ---------- handleliste ---------- */
 var KURVN = 'oppskrifter-handleliste';
+var FORRIGE = 'oppskrifter-handleliste-forrige';
 var KURV = {};      /* id -> valgt porsjonstall */
 var AVHUKET = {};   /* varenokkel -> 1 */
 var EGNE = [];      /* egne linjer: {t: tekst, d: avhuket} */
+var FJERNET = {};   /* varenokkel -> 1, ting man har hjemme */
 try{
   var lk = localStorage.getItem(KURVN);
-  if(lk){ var o = JSON.parse(lk); KURV = o.k || {}; AVHUKET = o.a || {}; EGNE = o.e || []; }
+  if(lk){ var o = JSON.parse(lk); KURV = o.k || {}; AVHUKET = o.a || {}; EGNE = o.e || []; FJERNET = o.f || {}; }
 }catch(e){}
 
 function kurvListe(){
@@ -446,7 +449,7 @@ function kurvListe(){
 }
 function iKurv(id){ return KURV[id] !== undefined; }
 function lagreKurv(){
-  try{ localStorage.setItem(KURVN, JSON.stringify({k:KURV, a:AVHUKET, e:EGNE})); }catch(e){}
+  try{ localStorage.setItem(KURVN, JSON.stringify({k:KURV, a:AVHUKET, e:EGNE, f:FJERNET})); }catch(e){}
 }
 function vekslKurv(id, porsjoner){
   if(iKurv(id)) delete KURV[id];
@@ -488,18 +491,35 @@ function reisNavn(n){
   s = s.replace(/\s+/g, ' ').trim();
   return s || n.trim();
 }
-var BASIS = ['salt','pepper','sort pepper','svart pepper','nykvernet sort pepper',
-  'salt og pepper','flaksalt','havsalt','vann','kaldt vann','varmt vann','lunkent vann',
-  'olje','olivenolje','ekstra virgin olivenolje','rapsolje','n\u00f8ytral olje','frityrolje',
-  'matolje','sm\u00f8r','sukker','str\u00f8sukker','hvetemel'];
+var SUKKERMELOLJE = new RegExp('(^|\\s)\\S*(sukker|mel|olje)$');
+var PULVER = new RegExp('(^|\\s)\\S*(pulver|frø|flak)$');
+var TORKET = new RegExp('(^|\\s)(tørket|tørkede|malt|malte)(\\s|$)');
+var BASIS = ['salt','pepper','vann','sm\u00f8r','olje','melis','farin','maisenna','potetmel',
+  'kanelstang','kanelstenger','kardemommekapsler','vaniljestang',
+  'natron','vaniljeekstrakt','vaniljesukker','pepperkorn','chiliflak','sesamfr\u00f8'];
+/* t\u00f8rre krydder som praktisk talt alltid st\u00e5r i skapet */
+var KRYDDER = ['kanel','kardemomme','nellik','nellikspiker','muskat','muskatn\u00f8tt',
+  'gurkemeie','alleh\u00e5nde','laurb\u00e6r','laurb\u00e6rblad','laurb\u00e6rblader','spisskummen',
+  'oregano','karri','curry','cayennepepper','sumak','zaatar','garam masala',
+  'stjerneanis','sennepsfr\u00f8','safran','five spice','tacokrydder'];
+function slutter(k, ord){
+  return k === ord || (k.length > ord.length && k.slice(-(ord.length + 1)) === ' ' + ord);
+}
 function erBasis(k){
-  for(var i=0;i<BASIS.length;i++){
-    if(k === BASIS[i]) return true;
-    if(k.indexOf(BASIS[i] + ' ') === 0) return true;
-    /* fanger «strøkne ss salt» og «nymalt grov svart pepper» */
-    if(k.length > BASIS[i].length
-       && k.slice(-(BASIS[i].length + 1)) === ' ' + BASIS[i]) return true;
+  /* ferske urter og gr\u00f8nnsaker skal aldri havne her */
+  if(k.indexOf('fersk') >= 0 || k.indexOf('frisk') >= 0) return false;
+  var i;
+  for(i=0;i<BASIS.length;i++){
+    if(k === BASIS[i] || k.indexOf(BASIS[i] + ' ') === 0 || slutter(k, BASIS[i])) return true;
   }
+  for(i=0;i<KRYDDER.length;i++){
+    if(k === KRYDDER[i] || slutter(k, KRYDDER[i])) return true;
+  }
+  /* alle typer sukker, mel og olje */
+  if(SUKKERMELOLJE.test(k)) return true;
+  /* pulver, fr\u00f8 og flak, og alt som er t\u00f8rket, malt eller st\u00f8tt */
+  if(PULVER.test(k)) return true;
+  if(TORKET.test(k)) return true;
   return false;
 }
 
@@ -545,7 +565,11 @@ function tegnHandleliste(){
   h += '</ul></div>';
   }
 
+  h += '<div class="hint">Trykk \u00d7 p\u00e5 det du har hjemme fra f\u00f8r.</div>';
+
   var alle = byggListe();
+  var antFjernet = alle.filter(function(v){ return FJERNET[v.key]; }).length;
+  alle = alle.filter(function(v){ return !FJERNET[v.key]; });
   var hoved = alle.filter(function(v){ return !erBasis(v.n.toLowerCase()); });
   var basis = alle.filter(function(v){ return  erBasis(v.n.toLowerCase()); });
 
@@ -553,7 +577,8 @@ function tegnHandleliste(){
     var m = v.tall && v.m > 0 ? (skrivTall(v.m) + (v.e ? ' ' + v.e : '')) : '';
     return '<div class="vare' + (AVHUKET[v.key] ? ' av' : '') + '" data-k="' + esc(v.key) + '">'
       + (m ? '<span class="mgd">' + esc(m) + '</span>' : '')
-      + '<span class="nvn">' + esc(v.n) + '</span></div>';
+      + '<span class="nvn">' + esc(v.n) + '</span>'
+      + '<span class="slett" data-har="' + esc(v.key) + '" title="Har hjemme">&times;</span></div>';
   }
   if(hoved.length) h += '<div class="vgr">Handle (' + hoved.length + ')</div>' + hoved.map(rad).join('');
   if(basis.length) h += '<div class="vgr">Har du sannsynligvis (' + basis.length + ')</div>' + basis.map(rad).join('');
@@ -566,13 +591,17 @@ function tegnHandleliste(){
   });
   h += '<div class="egenrad">'
      + '<input id="egen-inn" type="text" autocomplete="off" enterkeyhint="done"'
-     + ' placeholder="Husk avis, 1 liter \u00f8l, sjekk ferskt br\u00f8d \u2026">'
+     + ' placeholder="Legg til varer utenom oppskrift \u2026">'
      + '<button id="egen-pluss" type="button" aria-label="Legg til">+</button></div>';
 
   h += '<div class="shopbar">'
-     + '<button class="prim" id="sh-del" type="button">Del listen</button>'
-     + '<button id="sh-huk" type="button">Fjern avhuking</button>'
-     + '<button id="sh-tom" type="button">T\u00f8m listen</button></div>';
+     + '<button class="prim" id="sh-del" type="button">Del som tekst</button>'
+     + '<button class="prim" id="sh-lenke" type="button">Del som lenke</button>'
+     + (antFjernet ? '<button id="sh-tilbake" type="button">Hent tilbake '
+        + antFjernet + ' fjernet</button>' : '')
+     + (harForrige() ? '<button id="sh-forrige" type="button">Tilbake til min egen liste</button>' : '')
+     + '<button id="sh-huk" type="button">Fjern alle kryss</button>'
+     + '</div>';
   el.innerHTML = h;
 }
 
@@ -582,7 +611,7 @@ function listeSomTekst(){
     var r = finn(id);
     t += '\u2022 ' + r.t + ' (' + KURV[id] + ' ' + r.u + ')\n';
   });
-  var alle = byggListe();
+  var alle = byggListe().filter(function(v){ return !FJERNET[v.key]; });
   var hoved = alle.filter(function(v){ return !erBasis(v.n.toLowerCase()); });
   var basis = alle.filter(function(v){ return  erBasis(v.n.toLowerCase()); });
   function blokk(tittel, liste){
@@ -591,7 +620,7 @@ function listeSomTekst(){
     liste.forEach(function(v){
       if(AVHUKET[v.key]) return;
       var m = v.tall && v.m > 0 ? (skrivTall(v.m) + (v.e ? ' ' + v.e : '') + ' ') : '';
-      s += '- ' + m + v.n + '\n';
+      s += '\u2610 ' + m + v.n + '\n';
     });
     return s;
   }
@@ -599,9 +628,51 @@ function listeSomTekst(){
   var egne = EGNE.filter(function(v){ return !v.d; });
   if(egne.length){
     t += '\nEGNE VARER\n';
-    egne.forEach(function(v){ t += '- ' + v.t + '\n'; });
+    egne.forEach(function(v){ t += '\u2610 ' + v.t + '\n'; });
   }
   return t;
+}
+
+/* pakker listen inn i en lenke – bare id-er og egne varer,
+   for mottakeren har alle oppskriftene i sin egen app */
+function tilB64(str){
+  return btoa(unescape(encodeURIComponent(str)))
+    .replace(/\+/g, '-').replace(/\//g, '_').replace(/=+$/, '');
+}
+function fraB64(str){
+  var s = str.replace(/-/g, '+').replace(/_/g, '/');
+  while(s.length % 4) s += '=';
+  return decodeURIComponent(escape(atob(s)));
+}
+function harForrige(){
+  try{ return !!localStorage.getItem(FORRIGE); }catch(e){ return false; }
+}
+function hentForrige(){
+  try{
+    var o = JSON.parse(localStorage.getItem(FORRIGE));
+    KURV = o.k || {}; AVHUKET = o.a || {}; EGNE = o.e || []; FJERNET = o.f || {};
+    localStorage.removeItem(FORRIGE); lagreKurv();
+  }catch(e){}
+}
+function lagLenke(){
+  var pakke = {k:KURV, e:EGNE, f:FJERNET};
+  var base = location.href.split('#')[0];
+  return base + '#h=' + tilB64(JSON.stringify(pakke));
+}
+function lesLenke(){
+  var h = location.hash || '';
+  if(h.indexOf('#h=') !== 0) return false;
+  try{
+    var o = JSON.parse(fraB64(h.slice(3)));
+    /* har mottakeren en liste fra før, tas den vare på så den kan hentes tilbake */
+    if(kurvListe().length || EGNE.length){
+      try{ localStorage.setItem(FORRIGE, JSON.stringify({k:KURV, a:AVHUKET, e:EGNE, f:FJERNET})); }catch(e){}
+    }
+    KURV = o.k || {}; EGNE = o.e || []; FJERNET = o.f || {}; AVHUKET = {};
+    lagreKurv();
+    try{ history.replaceState(null, '', location.href.split('#')[0]); }catch(e){}
+    return true;
+  }catch(e){ return false; }
 }
 
 function apneHandleliste(){
@@ -970,9 +1041,21 @@ document.getElementById('shop-body').addEventListener('keydown', function(e){
 document.getElementById('shop-body').addEventListener('click', function(e){
   if(e.target.id === 'egen-pluss'){ leggTilEgen(); return; }
 
+  if(e.target.id === 'sh-forrige'){
+    hentForrige(); tegnKurvTall(); tegnHandleliste(); render(); return;
+  }
+  if(e.target.id === 'sh-tilbake'){
+    FJERNET = {}; lagreKurv(); tegnHandleliste(); return;
+  }
+
   var sl = e.target.closest ? e.target.closest('.slett') : null;
   if(sl){
     e.stopPropagation();
+    var har = sl.getAttribute('data-har');
+    if(har !== null){
+      FJERNET[har] = 1; delete AVHUKET[har];
+      lagreKurv(); tegnHandleliste(); return;
+    }
     EGNE.splice(parseInt(sl.getAttribute('data-slett'), 10), 1);
     lagreKurv(); tegnKurvTall(); tegnHandleliste(); return;
   }
@@ -991,11 +1074,24 @@ document.getElementById('shop-body').addEventListener('click', function(e){
     if (AVHUKET[k]) delete AVHUKET[k]; else AVHUKET[k] = 1;
     v.classList.toggle('av', !!AVHUKET[k]); lagreKurv(); return;
   }
-  if (e.target.id === 'sh-tom'){
-    KURV = {}; AVHUKET = {}; EGNE = []; lagreKurv(); tegnKurvTall(); tegnHandleliste(); render(); return;
-  }
   if (e.target.id === 'sh-huk'){
     AVHUKET = {}; EGNE.forEach(function(v){ v.d = 0; }); lagreKurv(); tegnHandleliste(); return;
+  }
+  if (e.target.id === 'sh-lenke'){
+    var u = lagLenke();
+    if (location.protocol === 'file:'){
+      alert('Deling som lenke virker bare fra nettversjonen, ikke fra en fil p\u00e5 maskinen.');
+      return;
+    }
+    if (navigator.share){
+      navigator.share({title:'Handleliste', text:'Handleliste', url:u}).catch(function(){});
+    } else if (navigator.clipboard && navigator.clipboard.writeText){
+      navigator.clipboard.writeText(u).then(function(){
+        e.target.textContent = 'Lenke kopiert!';
+        setTimeout(function(){ e.target.textContent = 'Del som lenke'; }, 1800);
+      });
+    }
+    return;
   }
   if (e.target.id === 'sh-del'){
     var tekst = listeSomTekst();
@@ -1004,7 +1100,7 @@ document.getElementById('shop-body').addEventListener('click', function(e){
     } else if (navigator.clipboard && navigator.clipboard.writeText){
       navigator.clipboard.writeText(tekst).then(function(){
         e.target.textContent = 'Kopiert!';
-        setTimeout(function(){ e.target.textContent = 'Del listen'; }, 1600);
+        setTimeout(function(){ e.target.textContent = 'Del som tekst'; }, 1600);
       });
     }
     return;
@@ -1086,8 +1182,15 @@ window.addEventListener('scroll', function(){
 }, {passive:true});
 
 oppdaterFavValg();
+/* en delt lenke kan komme inn både som full innlasting og som hash-endring
+   (hvis siden allerede er åpen), så vi lytter på begge */
+window.addEventListener('hashchange', function(){
+  if(lesLenke()){ tegnKurvTall(); render(); apneHandleliste(); }
+});
+var fraLenke = lesLenke();
 tegnKurvTall();
 render();
+if(fraLenke) apneHandleliste();
 })();
 </script>
 <script>
