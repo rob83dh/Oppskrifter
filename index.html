@@ -153,6 +153,12 @@ main{padding:14px 14px 40px; max-width:900px; margin:0 auto}
 body.shopping header, body.shopping main, body.shopping #detail{display:none}
 body.shopping #shop{display:block}
 body.shopping .tosearch{display:none}
+body.gjest #shop-back{display:none}
+body.gjest .kurvtall{display:none}
+.gjestbunn{margin:26px 0 0; font-size:12px; color:var(--ink2); text-align:center; line-height:1.5}
+.gjestbunn button{
+  font:inherit; font-size:12px; color:var(--ink2); background:none; border:0;
+  text-decoration:underline; cursor:pointer; padding:2px 4px}
 .kurvknapp{
   display:inline-flex; align-items:center; gap:6px; flex:0 0 auto;
   font:inherit; font-size:12.5px; padding:5px 11px; cursor:pointer;
@@ -436,6 +442,8 @@ CHIPS.forEach(function(c){
 /* ---------- handleliste ---------- */
 var KURVN = 'oppskrifter-handleliste';
 var FORRIGE = 'oppskrifter-handleliste-forrige';
+var GJEST = false;   /* satt når listen kom inn via en delt lenke */
+var PUSHET = false;  /* om vi la på et historikksteg da listen ble åpnet */
 var KURV = {};      /* id -> valgt porsjonstall */
 var AVHUKET = {};   /* varenokkel -> 1 */
 var EGNE = [];      /* egne linjer: {t: tekst, d: avhuket} */
@@ -601,6 +609,11 @@ function tegnHandleliste(){
      + ' placeholder="Legg til varer utenom oppskrift \u2026">'
      + '<button id="egen-pluss" type="button" aria-label="Legg til">+</button></div>';
 
+  if(GJEST){
+    h += '<div class="gjestbunn">Delt handleliste.<br>'
+       + '<button id="sh-gjestut" type="button">\u00c5pne oppskriftssamlingen</button></div>';
+  }
+
   h += '<div class="shopbar">'
      + '<button class="prim" id="sh-lenke" type="button">Del listen</button>'
      + '<button id="sh-del" type="button">Del som tekst</button>'
@@ -677,6 +690,7 @@ function lesLenke(){
       try{ localStorage.setItem(FORRIGE, JSON.stringify({k:KURV, a:AVHUKET, e:EGNE, f:FJERNET})); }catch(e){}
     }
     KURV = o.k || {}; EGNE = o.e || []; FJERNET = o.f || {}; AVHUKET = {};
+    GJEST = true;
     lagreKurv();
     try{ history.replaceState(null, '', location.href.split('#')[0]); }catch(e){}
     return true;
@@ -687,8 +701,19 @@ function apneHandleliste(){
   tegnHandleliste();
   document.body.classList.remove('reading');
   document.body.classList.add('shopping');
+  document.body.classList.toggle('gjest', GJEST);
   window.scrollTo(0, 0);
-  try{ history.pushState({s:1}, '', ''); }catch(e){}
+  /* i gjestemodus legger vi ikke på et historikksteg – tilbakeknappen
+     skal føre ut av siden, ikke inn i oppskriftssamlingen */
+  PUSHET = false;
+  if(!GJEST){ try{ history.pushState({s:1}, '', ''); PUSHET = true; }catch(e){} }
+}
+function avsluttGjest(){
+  GJEST = false;
+  document.body.classList.remove('gjest');
+  /* nå skal tilbakeknappen føre til søket, ikke ut av siden */
+  if(!PUSHET){ try{ history.pushState({s:1}, '', ''); PUSHET = true; }catch(e){} }
+  tegnHandleliste(); tegnKurvTall();
 }
 
 /* ---------- favoritter ---------- */
@@ -1025,10 +1050,12 @@ dKurv.onclick = function(){
 /* ---------- handlelisteskjermen ---------- */
 document.getElementById('kurvtall').onclick = apneHandleliste;
 document.getElementById('shop-back').onclick = function(){
-  try{ history.back(); }catch(e){ lukkHandleliste(); }
+  if(PUSHET){ try{ history.back(); return; }catch(e){} }
+  lukkHandleliste();
 };
 function lukkHandleliste(){
-  document.body.classList.remove('shopping');
+  GJEST = false;
+  document.body.classList.remove('shopping', 'gjest');
   tegnKurvTall(); render();
 }
 function oppdaterTellere(){
@@ -1063,6 +1090,7 @@ document.getElementById('shop-body').addEventListener('keydown', function(e){
 document.getElementById('shop-body').addEventListener('click', function(e){
   if(e.target.id === 'egen-pluss'){ leggTilEgen(); return; }
 
+  if(e.target.id === 'sh-gjestut'){ avsluttGjest(); return; }
   if(e.target.id === 'sh-forrige'){
     hentForrige(); tegnKurvTall(); tegnHandleliste(); render(); return;
   }
