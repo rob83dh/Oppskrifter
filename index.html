@@ -185,8 +185,9 @@ body.reading .kurvtall, body.shopping .kurvtall{display:none}
 .retter .fjern{margin-left:auto; color:var(--ink2); font-size:17px; line-height:1;
   cursor:pointer; padding:0 3px}
 .hint{font-size:12.5px; color:var(--ink2); margin:-4px 0 14px; line-height:1.45}
-.vgr{font-size:11px; letter-spacing:.09em; text-transform:uppercase; color:var(--ink2);
-  font-weight:600; margin:20px 0 6px}
+.vgr{font-size:13.5px; letter-spacing:.08em; text-transform:uppercase; color:var(--ink);
+  font-weight:700; margin:28px 0 0; padding-bottom:7px;
+  border-bottom:2.5px solid var(--ink)}
 .vare{
   display:flex; gap:10px; align-items:baseline; padding:9px 2px;
   border-bottom:1px solid var(--line); cursor:pointer; font-size:15.5px}
@@ -565,25 +566,31 @@ function tegnHandleliste(){
   h += '</ul></div>';
   }
 
-  h += '<div class="hint">Trykk \u00d7 p\u00e5 det du har hjemme fra f\u00f8r.</div>';
+  h += '<div class="hint">Trykk p\u00e5 varer du ikke vil ha med. Utstrekede linjer blir ikke med p\u00e5 listen.</div>';
 
   var alle = byggListe();
-  var antFjernet = alle.filter(function(v){ return FJERNET[v.key]; }).length;
-  alle = alle.filter(function(v){ return !FJERNET[v.key]; });
   var hoved = alle.filter(function(v){ return !erBasis(v.n.toLowerCase()); });
   var basis = alle.filter(function(v){ return  erBasis(v.n.toLowerCase()); });
 
-  function rad(v){
+  function rad(v, g){
     var m = v.tall && v.m > 0 ? (skrivTall(v.m) + (v.e ? ' ' + v.e : '')) : '';
-    return '<div class="vare' + (AVHUKET[v.key] ? ' av' : '') + '" data-k="' + esc(v.key) + '">'
+    return '<div class="vare' + (AVHUKET[v.key] ? ' av' : '') + '" data-g="' + g
+      + '" data-k="' + esc(v.key) + '">'
       + (m ? '<span class="mgd">' + esc(m) + '</span>' : '')
-      + '<span class="nvn">' + esc(v.n) + '</span>'
-      + '<span class="slett" data-har="' + esc(v.key) + '" title="Har hjemme">&times;</span></div>';
+      + '<span class="nvn">' + esc(v.n) + '</span></div>';
   }
-  if(hoved.length) h += '<div class="vgr">Handle (' + hoved.length + ')</div>' + hoved.map(rad).join('');
-  if(basis.length) h += '<div class="vgr">Har du sannsynligvis (' + basis.length + ')</div>' + basis.map(rad).join('');
+  function tell(liste){
+    var n = 0;
+    liste.forEach(function(v){ if(!AVHUKET[v.key]) n++; });
+    return n;
+  }
+  if(hoved.length) h += '<div class="vgr" id="vgr-h">Handle (' + tell(hoved) + ')</div>'
+    + hoved.map(function(v){ return rad(v, 'h'); }).join('');
+  if(basis.length) h += '<div class="vgr" id="vgr-b">Har du sannsynligvis (' + tell(basis) + ')</div>'
+    + basis.map(function(v){ return rad(v, 'b'); }).join('');
 
-  h += '<div class="vgr">Egne varer' + (EGNE.length ? ' (' + EGNE.length + ')' : '') + '</div>';
+  var egneIgjen = EGNE.filter(function(v){ return !v.d; }).length;
+  h += '<div class="vgr" id="vgr-e">Egne varer' + (EGNE.length ? ' (' + egneIgjen + ')' : '') + '</div>';
   EGNE.forEach(function(v, i){
     h += '<div class="vare egen' + (v.d ? ' av' : '') + '" data-e="' + i + '">'
        + '<span class="nvn">' + esc(v.t) + '</span>'
@@ -597,8 +604,6 @@ function tegnHandleliste(){
   h += '<div class="shopbar">'
      + '<button class="prim" id="sh-del" type="button">Del som tekst</button>'
      + '<button class="prim" id="sh-lenke" type="button">Del som lenke</button>'
-     + (antFjernet ? '<button id="sh-tilbake" type="button">Hent tilbake '
-        + antFjernet + ' fjernet</button>' : '')
      + (harForrige() ? '<button id="sh-forrige" type="button">Tilbake til min egen liste</button>' : '')
      + '<button id="sh-huk" type="button">Fjern alle kryss</button>'
      + '</div>';
@@ -611,17 +616,20 @@ function listeSomTekst(){
     var r = finn(id);
     t += '\u2022 ' + r.t + ' (' + KURV[id] + ' ' + r.u + ')\n';
   });
-  var alle = byggListe().filter(function(v){ return !FJERNET[v.key]; });
+  var alle = byggListe();
   var hoved = alle.filter(function(v){ return !erBasis(v.n.toLowerCase()); });
   var basis = alle.filter(function(v){ return  erBasis(v.n.toLowerCase()); });
   function blokk(tittel, liste){
     if(!liste.length) return '';
     var s = '\n' + tittel + '\n';
+    var noe = false;
     liste.forEach(function(v){
       if(AVHUKET[v.key]) return;
       var m = v.tall && v.m > 0 ? (skrivTall(v.m) + (v.e ? ' ' + v.e : '') + ' ') : '';
       s += '\u2610 ' + m + v.n + '\n';
+      noe = true;
     });
+    if(!noe) return '';
     return s;
   }
   t += blokk('HANDLE', hoved) + blokk('HAR DU SANNSYNLIGVIS', basis);
@@ -1023,6 +1031,20 @@ function lukkHandleliste(){
   document.body.classList.remove('shopping');
   tegnKurvTall(); render();
 }
+function oppdaterTellere(){
+  var h = document.getElementById('vgr-h'),
+      bb = document.getElementById('vgr-b'),
+      e = document.getElementById('vgr-e');
+  function antall(g){
+    return document.querySelectorAll('.vare[data-g="' + g + '"]:not(.av)').length;
+  }
+  if(h)  h.textContent  = 'Handle (' + antall('h') + ')';
+  if(bb) bb.textContent = 'Har du sannsynligvis (' + antall('b') + ')';
+  if(e && EGNE.length){
+    e.textContent = 'Egne varer (' + document.querySelectorAll('.vare.egen:not(.av)').length + ')';
+  }
+}
+
 function leggTilEgen(){
   var inn = document.getElementById('egen-inn');
   if(!inn) return;
@@ -1044,18 +1066,10 @@ document.getElementById('shop-body').addEventListener('click', function(e){
   if(e.target.id === 'sh-forrige'){
     hentForrige(); tegnKurvTall(); tegnHandleliste(); render(); return;
   }
-  if(e.target.id === 'sh-tilbake'){
-    FJERNET = {}; lagreKurv(); tegnHandleliste(); return;
-  }
 
   var sl = e.target.closest ? e.target.closest('.slett') : null;
   if(sl){
     e.stopPropagation();
-    var har = sl.getAttribute('data-har');
-    if(har !== null){
-      FJERNET[har] = 1; delete AVHUKET[har];
-      lagreKurv(); tegnHandleliste(); return;
-    }
     EGNE.splice(parseInt(sl.getAttribute('data-slett'), 10), 1);
     lagreKurv(); tegnKurvTall(); tegnHandleliste(); return;
   }
@@ -1063,7 +1077,7 @@ document.getElementById('shop-body').addEventListener('click', function(e){
   if(eg){
     var i = parseInt(eg.getAttribute('data-e'), 10);
     EGNE[i].d = EGNE[i].d ? 0 : 1;
-    eg.classList.toggle('av', !!EGNE[i].d); lagreKurv(); return;
+    eg.classList.toggle('av', !!EGNE[i].d); lagreKurv(); oppdaterTellere(); return;
   }
 
   var f = e.target.closest ? e.target.closest('.fjern') : null;
@@ -1072,7 +1086,7 @@ document.getElementById('shop-body').addEventListener('click', function(e){
   if (v){
     var k = v.getAttribute('data-k');
     if (AVHUKET[k]) delete AVHUKET[k]; else AVHUKET[k] = 1;
-    v.classList.toggle('av', !!AVHUKET[k]); lagreKurv(); return;
+    v.classList.toggle('av', !!AVHUKET[k]); lagreKurv(); oppdaterTellere(); return;
   }
   if (e.target.id === 'sh-huk'){
     AVHUKET = {}; EGNE.forEach(function(v){ v.d = 0; }); lagreKurv(); tegnHandleliste(); return;
@@ -1095,8 +1109,13 @@ document.getElementById('shop-body').addEventListener('click', function(e){
   }
   if (e.target.id === 'sh-del'){
     var tekst = listeSomTekst();
+    /* uten title – noen mottakerapper tar bare det ene feltet og kutter resten */
     if (navigator.share){
-      navigator.share({title:'Handleliste', text:tekst}).catch(function(){});
+      navigator.share({text:tekst}).catch(function(){
+        if (navigator.clipboard && navigator.clipboard.writeText){
+          navigator.clipboard.writeText(tekst);
+        }
+      });
     } else if (navigator.clipboard && navigator.clipboard.writeText){
       navigator.clipboard.writeText(tekst).then(function(){
         e.target.textContent = 'Kopiert!';
