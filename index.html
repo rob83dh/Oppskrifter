@@ -1097,8 +1097,14 @@ document.getElementById('shop-body').addEventListener('click', function(e){
       alert('Deling som lenke virker bare fra nettversjonen, ikke fra en fil p\u00e5 maskinen.');
       return;
     }
+    /* bare selve lenken – SMS og andre apper som tar imot étt felt,
+       plukker ellers tekstfeltet og kaster lenken */
     if (navigator.share){
-      navigator.share({title:'Handleliste', text:'Handleliste', url:u}).catch(function(){});
+      navigator.share({text:u}).catch(function(){
+        if (navigator.clipboard && navigator.clipboard.writeText){
+          navigator.clipboard.writeText(u);
+        }
+      });
     } else if (navigator.clipboard && navigator.clipboard.writeText){
       navigator.clipboard.writeText(u).then(function(){
         e.target.textContent = 'Lenke kopiert!';
