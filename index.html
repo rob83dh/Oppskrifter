@@ -173,7 +173,14 @@ body.gjest .kurvtall{display:none}
   background:var(--accent); color:var(--paper);
   box-shadow:0 6px 20px rgba(0,0,0,.22)}
 .kurvtall.on{display:inline-flex}
-body.reading .kurvtall, body.shopping .kurvtall{display:none}
+body.shopping .kurvtall{display:none}
+/* inne i en oppskrift krymper knappen til ikon og antall,
+   så den dekker minst mulig av teksten mens du lager mat */
+.kurvtall svg{width:17px; height:17px; flex:0 0 auto}
+body.reading .kurvtall .ktx, body.reading .kurvtall .ktall{display:none}
+body.reading .kurvtall{padding:0; gap:0; bottom:22px;
+  width:46px; height:46px; justify-content:center; border-radius:50%}
+body.reading .kurvtall svg{width:20px; height:20px}
 .cardtop .kurvikon{flex:0 0 auto; font-size:15px; line-height:1; color:var(--line);
   padding:2px 2px 3px; border-radius:6px; transition:color .12s, transform .12s}
 .cardtop .kurvikon.on{color:var(--accent)}
@@ -354,7 +361,7 @@ article ol li strong{color:var(--accent)}
 
 <section id="detail" aria-live="polite">
   <div class="back">
-    <button class="backbtn" id="back" type="button">&larr; Tilbake til søket</button>
+    <button class="backbtn" id="back" type="button">&larr; Tilbake</button>
     <button class="vaken" id="vaken" type="button" aria-pressed="false">
       <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4"
            stroke-linecap="round"><circle cx="12" cy="12" r="4"/><path d="M12 2v2M12 20v2M2 12h2M20 12h2M4.9 4.9l1.4 1.4M17.7 17.7l1.4 1.4M19.1 4.9l-1.4 1.4M6.3 17.7l-1.4 1.4"/></svg>
@@ -388,7 +395,7 @@ article ol li strong{color:var(--accent)}
 
 <section id="shop">
   <div class="dtop">
-    <button class="backbtn" id="shop-back" type="button">&larr; Tilbake til søket</button>
+    <button class="backbtn" id="shop-back" type="button">&larr; Tilbake</button>
   </div>
   <div class="shead"><h1>Handleliste</h1></div>
   <div id="shop-body"></div>
@@ -478,12 +485,20 @@ function vekslKurv(id, porsjoner){
   else KURV[id] = porsjoner || (finn(id) ? finn(id).b : 0);
   lagreKurv(); tegnKurvTall();
 }
+var KURVIKON = '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2"'
+  + ' stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">'
+  + '<path d="M3 4h2l2.4 10.4a2 2 0 0 0 2 1.6h7.3a2 2 0 0 0 2-1.5L20.5 8H6"/>'
+  + '<circle cx="10" cy="20" r="1.4"/><circle cx="17.5" cy="20" r="1.4"/></svg>';
 function tegnKurvTall(){
   var n = kurvListe().length;
   var b = document.getElementById('kurvtall');
-  b.textContent = n === 1 ? 'Handleliste (1 rett)' : 'Handleliste (' + n + ' retter)';
+  var kort = document.body.classList.contains('reading');
+  var ord = n === 1 ? '1 rett' : n + ' retter';
+  b.innerHTML = KURVIKON + '<span class="ktx">Handleliste </span>'
+              + '<span class="ktall">(' + (kort ? n : ord) + ')</span>';
+  b.setAttribute('aria-label', 'Handleliste, ' + ord);
   b.classList.toggle('on', n > 0 || EGNE.length > 0);
-  if(!n && EGNE.length) b.textContent = 'Handleliste';
+  if(!n && EGNE.length) b.innerHTML = KURVIKON + '<span class="ktx">Handleliste</span>';
 }
 
 /* deler en ingredienslinje i mengde, enhet og navn */
@@ -1022,6 +1037,7 @@ function openRecipe(id, fraListe){
   visRecipe(r);
   document.body.classList.add('reading');
   open = true;
+  tegnKurvTall();
   visTips();
   try { history.pushState({r:id}, '', ''); } catch(e){}
 }
@@ -1034,6 +1050,7 @@ function tilbake(){
   } else {
     document.body.classList.remove('reading');
     open = false;
+    tegnKurvTall();
     slippVaken();
     window.scrollTo(0, scrollY);
   }

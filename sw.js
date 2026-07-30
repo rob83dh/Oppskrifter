@@ -1,5 +1,5 @@
 /* Lagrer oppskriftene på enheten, slik at appen virker uten nett. */
-var CACHE = 'oppskrifter-v52';
+var CACHE = 'oppskrifter-v55';
 var FILES = ['./', './index.html', './manifest.webmanifest'];
 
 self.addEventListener('install', function(e){
