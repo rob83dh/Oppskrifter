@@ -248,6 +248,10 @@ body.reading #detail{display:block}
 /* liten boble som forklarer skjermknappen til den er tatt i bruk */
 .back{position:relative}
 .vtips{position:absolute;top:calc(100% + 9px);right:0;z-index:5;background:#fff;
+  /* boblen er ren opplysning og skal aldri stå i veien: trykk går rett
+     gjennom til Favoritt- og Handleliste-knappene under, og samme trykk
+     lukker boblen via lytteren på document */
+  pointer-events:none;
   color:#243b38;border:1px solid var(--line);border-radius:10px;padding:7px 11px;
   font-size:13px;line-height:1.35;max-width:15.5rem;box-shadow:0 6px 18px rgba(0,0,0,.13);
   cursor:pointer;animation:vtipsInn .22s ease-out}
@@ -1264,17 +1268,39 @@ function slippVaken(){
   tegnVaken();
   if (vLock){ vLock.release().catch(function(){}); vLock = null; }
 }
-/* boblen vises hver gang en oppskrift åpnes, og forsvinner
-   av seg selv etter sju sekunder eller når du trykker på den */
-var vTips = document.getElementById('vtips');
+/* boblen vises hver gang en oppskrift åpnes, og forsvinner av seg selv
+   etter sju sekunder, når du scroller, eller når du trykker hvor som helst */
+var vTips = document.getElementById('vtips'), vTipsY = 0;
+function tipsScroll(){
+  /* åpning av en oppskrift scroller til toppen, og den bevegelsen skal
+     ikke telle. Derfor kreves et reelt utslag fra der boblen kom opp. */
+  if (Math.abs(window.pageYOffset - vTipsY) > 8) skjulTips();
+}
 function skjulTips(){
   if (vTips){ clearTimeout(vTips._t); vTips.hidden = true; }
+  window.removeEventListener('scroll', tipsScroll);
+  document.removeEventListener('pointerdown', skjulTips, true);
+  document.removeEventListener('touchstart', skjulTips, true);
+  document.removeEventListener('mousedown', skjulTips, true);
 }
 function visTips(){
   if (!vTips || !vBtn.classList.contains('kan') || vOnsket) return;
   vTips.hidden = false;
   clearTimeout(vTips._t);
-  vTips._t = setTimeout(skjulTips, 7000);
+  vTips._t = setTimeout(skjulTips, 5000);
+  /* lytterne kobles på først etter at trykket som åpnet oppskriften er
+     ferdig – ellers ville det samme trykket lukket boblen umiddelbart */
+  setTimeout(function(){
+    if (vTips.hidden) return;
+    vTipsY = window.pageYOffset;
+    window.addEventListener('scroll', tipsScroll, {passive:true});
+    if ('PointerEvent' in window){
+      document.addEventListener('pointerdown', skjulTips, true);
+    } else {
+      document.addEventListener('touchstart', skjulTips, true);
+      document.addEventListener('mousedown', skjulTips, true);
+    }
+  }, 0);
 }
 if (vTips) vTips.onclick = skjulTips;
 
