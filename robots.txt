@@ -1,2 +1,10 @@
+# Samlingen skal ikke dukke opp i søk. Det styres av noindex-taggen
+# i index.html, ikke herfra.
+#
+# Merk: her står det med vilje ingen Disallow. Blokkerer man crawling,
+# får Google aldri lest noindex-taggen, og en side som allerede er
+# indeksert blir liggende. Crawlerne må slippe inn for å se beskjeden
+# om å holde seg unna.
+
 User-agent: *
-Disallow: /
+Allow: /
