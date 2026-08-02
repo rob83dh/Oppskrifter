@@ -1,0 +1,557 @@
+<!DOCTYPE html>
+<html lang="no">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="robots" content="noindex, nofollow, noarchive">
+<meta name="theme-color" content="#0E5B54">
+<title>I dag</title>
+<style>
+:root{--paper:#E9EFE8;--card:#FFF;--ink:#131A15;--muted:#5B6A5E;--accent:#0E5B54;
+ --amber:#9A6512;--line:#D3DCD1;--varsel:#8C2F1E;--gjort:#2E7D5B;
+ --shadow:0 1px 2px rgba(19,26,21,.06),0 6px 18px rgba(19,26,21,.05);
+ --serif:Georgia,"Iowan Old Style","Times New Roman",serif;
+ --sans:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Arial,sans-serif;
+ --mono:ui-monospace,"SF Mono",Menlo,Consolas,monospace}
+*{box-sizing:border-box}html,body{margin:0;padding:0}
+body{background:var(--paper);color:var(--ink);font-family:var(--sans);font-size:16px;
+ line-height:1.5;-webkit-text-size-adjust:100%;
+ padding-bottom:calc(40px + env(safe-area-inset-bottom))}
+.wrap{max-width:620px;margin:0 auto;padding:0 14px}
+
+/* --- datolinje --- */
+.datolinje{display:flex;align-items:center;gap:10px;
+ padding:calc(12px + env(safe-area-inset-top,0px)) 0 12px}
+.pil{flex:0 0 40px;height:40px;border:1px solid var(--line);background:var(--card);
+ border-radius:50%;font-size:17px;color:var(--accent);cursor:pointer;line-height:1}
+.pil:disabled{opacity:.3;cursor:default}
+.pil:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
+.dtxt{flex:1;text-align:center}
+.dtxt b{display:block;font-family:var(--serif);font-size:26px;letter-spacing:-.02em;line-height:1.1}
+.dtxt span{font-family:var(--mono);font-size:11px;letter-spacing:.09em;
+ text-transform:uppercase;color:var(--muted)}
+.idag{display:inline-block;margin-left:7px;padding:1px 7px;border-radius:999px;
+ background:var(--accent);color:#fff;font-size:9px;letter-spacing:.09em}
+
+/* --- kort --- */
+.blokk{font-family:var(--mono);font-size:10px;letter-spacing:.13em;text-transform:uppercase;
+ color:var(--muted);margin:20px 0 8px}
+.kort{background:var(--card);border:1px solid var(--line);border-radius:12px;
+ padding:14px 15px;margin-bottom:9px;box-shadow:var(--shadow)}
+.kort.ferdig{background:#F2F6F1}
+.rad{display:flex;align-items:flex-start;gap:12px}
+.hake{flex:0 0 26px;height:26px;border:2px solid var(--line);border-radius:7px;
+ background:none;cursor:pointer;padding:0;position:relative;margin-top:1px}
+.hake:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
+.hake.på{background:var(--gjort);border-color:var(--gjort)}
+.hake.på::after{content:"";position:absolute;left:8px;top:3px;width:6px;height:12px;
+ border:solid #fff;border-width:0 2.5px 2.5px 0;transform:rotate(42deg)}
+.midt{flex:1;min-width:0}
+.tit{font-family:var(--serif);font-size:19px;line-height:1.25}
+.kort.ferdig .tit{text-decoration:line-through;color:var(--muted)}
+.und{font-family:var(--mono);font-size:11px;color:var(--muted);margin-top:3px}
+.mer{flex:0 0 30px;height:30px;border:1px solid var(--line);background:none;
+ border-radius:50%;color:var(--accent);font-size:18px;cursor:pointer;line-height:1;padding:0}
+.mer:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
+.tall{display:flex;gap:15px;margin-top:8px}
+.tall i{font-style:normal;font-family:var(--mono);font-size:11px;color:var(--muted)}
+.tall i b{font-family:var(--serif);font-size:15px;font-weight:normal;color:var(--ink)}
+
+/* --- utfelling --- */
+.ut{display:none;margin-top:12px;padding-top:12px;border-top:1px solid var(--line)}
+.ut.åpen{display:block}
+.notat{padding-left:11px;border-left:2px solid var(--accent);font-size:13.5px;
+ color:var(--muted);margin-bottom:12px}
+ul.deler{margin:0;padding-left:17px;font-size:14px}
+ul.deler li{margin-bottom:3px}
+ol.steg{margin:11px 0 0;padding-left:0;list-style:none;counter-reset:s}
+ol.steg li{counter-increment:s;position:relative;padding-left:29px;margin-bottom:8px;font-size:14px}
+ol.steg li::before{content:counter(s);position:absolute;left:0;top:1px;font-family:var(--mono);
+ font-size:10px;color:var(--accent);border:1px solid var(--accent);border-radius:50%;
+ width:19px;height:19px;display:flex;align-items:center;justify-content:center}
+
+/* --- ovelser --- */
+.ov{display:flex;align-items:center;gap:9px;padding:9px 0;border-bottom:1px solid var(--line)}
+.ov:last-child{border-bottom:0}
+.ovn{flex:1;font-size:14.5px;line-height:1.3}
+.sett{display:flex;gap:5px}
+.s{width:25px;height:25px;border-radius:50%;border:1px solid var(--accent);background:none;
+ color:var(--accent);font-family:var(--mono);font-size:10px;cursor:pointer;padding:0}
+.s.på{background:var(--accent);color:#fff}
+.s:focus-visible{outline:2px solid var(--accent);outline-offset:1px}
+.kg{width:56px;padding:5px 6px;border:1px solid var(--line);border-radius:6px;
+ font-family:var(--mono);font-size:13px;text-align:right;background:var(--paper);color:var(--ink)}
+.kg:focus{outline:none;border-color:var(--accent)}
+.enh{font-family:var(--mono);font-size:10px;color:var(--muted);width:16px}
+.tom{font-size:14px;color:var(--varsel);padding:4px 0}
+.ov.par-start{border-bottom:0;padding-bottom:4px}
+.ov.par-start,.ov.par-slutt{border-left:2px solid var(--amber);padding-left:10px;margin-left:-12px}
+.ov.par-slutt{padding-top:4px}
+.parmerk{font-family:var(--mono);font-size:9px;letter-spacing:.09em;text-transform:uppercase;
+ color:var(--amber);margin-top:2px}
+.mangler-kg{border-color:var(--varsel)}
+.pvelg{display:flex;align-items:center;gap:9px;margin-bottom:12px;flex-wrap:wrap}
+.pvelg span{font-family:var(--mono);font-size:10px;letter-spacing:.1em;
+ text-transform:uppercase;color:var(--muted)}
+.pknapp{display:flex;border:1px solid var(--line);border-radius:999px;overflow:hidden}
+.pknapp button{border:0;background:var(--card);color:var(--muted);font-family:var(--mono);
+ font-size:11px;letter-spacing:.06em;padding:6px 13px;cursor:pointer}
+.pknapp button.på{background:var(--accent);color:#fff}
+.pknapp button:focus-visible{outline:2px solid var(--accent);outline-offset:-2px}
+.ingtab{width:100%;border-collapse:collapse;font-size:14px;margin-top:4px}
+.ingtab td{padding:5px 6px 5px 0;border-bottom:1px solid var(--line);vertical-align:top}
+.ingtab td.m{font-family:var(--mono);white-space:nowrap;text-align:right;
+ padding-right:12px;width:74px}
+.ingtab td.m.x2{color:var(--accent);font-weight:bold}
+.delnavn{font-family:var(--mono);font-size:10px;letter-spacing:.11em;text-transform:uppercase;
+ color:var(--accent);margin:14px 0 2px}
+.rest{padding-left:11px;border-left:2px solid var(--gjort);font-size:14px;color:var(--muted)}
+ul.deler li.fast{color:var(--accent);font-weight:600}
+.faner{display:flex;gap:22px;padding:calc(12px + env(safe-area-inset-top,0px)) 0 0;
+ border-bottom:1px solid var(--line);margin-bottom:2px}
+.faner button{background:none;border:0;padding:0 0 11px;cursor:pointer;font-family:var(--mono);
+ font-size:12px;letter-spacing:.09em;text-transform:uppercase;color:var(--muted);
+ border-bottom:2px solid transparent;margin-bottom:-1px}
+.faner button.på{color:var(--accent);border-bottom-color:var(--accent)}
+.faner button:focus-visible{outline:2px solid var(--accent);outline-offset:3px}
+.skjult{display:none}
+.avd{font-family:var(--mono);font-size:10px;letter-spacing:.12em;text-transform:uppercase;
+ color:var(--accent);margin:16px 0 6px}
+.vare{display:flex;align-items:flex-start;gap:11px;padding:9px 0;border-bottom:1px solid var(--line)}
+.vare:last-child{border-bottom:0}
+.vare.av .vn{text-decoration:line-through;color:var(--muted)}
+.vhake{flex:0 0 22px;height:22px;border:2px solid var(--line);border-radius:6px;background:none;
+ cursor:pointer;padding:0;position:relative;margin-top:2px}
+.vhake.på{background:var(--gjort);border-color:var(--gjort)}
+.vhake.på::after{content:"";position:absolute;left:6px;top:2px;width:5px;height:10px;
+ border:solid #fff;border-width:0 2.5px 2.5px 0;transform:rotate(42deg)}
+.vn{flex:1;font-size:15px;line-height:1.3}
+.vm{font-family:var(--mono);font-size:11px;color:var(--muted);white-space:nowrap}
+.vhvor{font-family:var(--mono);font-size:10px;color:var(--muted);margin-top:2px}
+.basisord{display:flex;flex-wrap:wrap;gap:6px}
+.basisord span{font-size:13px;padding:4px 10px;border:1px solid var(--line);
+ border-radius:999px;color:var(--muted)}
+.vaken{display:flex;align-items:center;gap:8px;margin-top:12px;padding:9px 13px;
+ border:1px solid var(--line);border-radius:999px;background:var(--card);cursor:pointer;
+ font-family:var(--mono);font-size:11px;letter-spacing:.09em;text-transform:uppercase;
+ color:var(--muted)}
+.vaken.på{background:var(--accent);border-color:var(--accent);color:#fff}
+.vaken:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
+.kildep{font-family:var(--mono);font-size:10px;letter-spacing:.05em;color:var(--muted);
+ margin-top:9px;padding-top:8px;border-top:1px solid var(--line)}
+
+/* --- mal for lop --- */
+.mal{display:flex;gap:18px;flex-wrap:wrap}
+.mal div{display:flex;flex-direction:column}
+.mal i{font-style:normal;font-family:var(--mono);font-size:9px;letter-spacing:.1em;
+ text-transform:uppercase;color:var(--muted)}
+.mal b{font-family:var(--serif);font-size:17px;font-weight:normal}
+
+/* --- avvik og maling --- */
+textarea{width:100%;min-height:76px;padding:11px 12px;border:1px solid var(--line);
+ border-radius:9px;font-family:inherit;font-size:14.5px;background:var(--card);
+ color:var(--ink);resize:vertical}
+textarea:focus{outline:none;border-color:var(--accent)}
+.lagret{font-family:var(--mono);font-size:10px;letter-spacing:.09em;text-transform:uppercase;
+ color:var(--gjort);height:13px;margin-top:5px}
+.malfelt{display:flex;gap:9px}
+.malfelt label{flex:1;display:flex;flex-direction:column;gap:4px;
+ font-family:var(--mono);font-size:10px;letter-spacing:.1em;text-transform:uppercase;color:var(--muted)}
+.malfelt input{padding:10px 11px;border:1px solid var(--line);border-radius:9px;
+ font-family:var(--serif);font-size:19px;background:var(--card);color:var(--ink)}
+.malfelt input:focus{outline:none;border-color:var(--accent)}
+
+/* --- dagsoppsummering --- */
+.sum{background:var(--card);border:1px solid var(--line);border-radius:12px;
+ padding:13px 15px;box-shadow:var(--shadow);display:flex;gap:20px;flex-wrap:wrap}
+.sum div{display:flex;flex-direction:column}
+.sum i{font-style:normal;font-family:var(--mono);font-size:9px;letter-spacing:.1em;
+ text-transform:uppercase;color:var(--muted)}
+.sum b{font-family:var(--serif);font-size:21px;font-weight:normal}
+.sum b.under{color:var(--amber)}
+footer{margin-top:26px;padding-top:14px;border-top:1px solid var(--line);
+ font-size:12.5px;color:var(--muted)}
+</style>
+</head>
+<body><div class="wrap">
+
+<div class="faner" id="faner">
+  <button data-s="dag" class="på">I dag</button>
+  <button data-s="innkjop">Innkjøp</button>
+</div>
+
+<div id="del-dag">
+<div class="datolinje">
+  <button class="pil" id="forrige" aria-label="Forrige dag">&#8249;</button>
+  <div class="dtxt"><b id="dagnavn"></b><span id="dagdato"></span></div>
+  <button class="pil" id="neste" aria-label="Neste dag">&#8250;</button>
+</div>
+
+<div id="innhold"></div>
+</div>
+
+<div id="del-innkjop" class="skjult">
+  <div class="blokk">Må kjøpes — uke 2</div>
+  <div id="kjopliste"></div>
+  <div class="blokk">Har du nok av</div>
+  <div id="harliste"></div>
+  <div class="blokk">Basisvarer — sjekk at de finnes</div>
+  <div class="kort" id="basisliste"></div>
+</div>
+
+<footer>
+  Uke 2 &middot; 3.–9. august 2026. Avkryssing, vekter og notater lagres på denne
+  enheten og deles ikke. Måltidene er 700 kcal fra retten pluss 300 i tilbehør;
+  søndag 1200. Proteinmålet er 165 g.
+</footer>
+</div>
+
+<script>
+var U = {"uke": 2, "fra": "2026-08-03", "til": "2026-08-09", "dager": [{"dato": "2026-08-03", "navn": "Mandag", "sted": "Kontor", "maltider": [{"id": "lunsj", "navn": "Lunsj — salatdisken", "kl": "10:00", "kc": 850, "pr": 50, "deler": ["150 g protein", "250 g grønt", "150 g karbo — halvannen neve", "én bit varmmat", "15 g dressing", "1 skive brød"]}, {"id": "shake", "navn": "Shake", "kl": "15:00", "kc": 300, "pr": 48, "deler": ["50 g Whey-80 vanilje", "3 dl melk"]}, {"id": "middag", "navn": "127 Kremet hvitløkskylling", "kl": "20:00", "kc": 1116, "pr": 93, "rett": "127", "oppskrift": "127", "porsjoner": 1, "kokknotat": "Enkel porsjon. Tirsdag lages det dobbelt."}], "okter": [{"tittel": "Styrke — bein", "undertittel": "SATS på vei hjem fra jobb · 70 min", "type": "styrke", "notat": "Beinøkta ligger mandag for å ha seks dager til Østmarka. SATS på vei hjem har lavere terskel enn å skifte til løpetøy hjemme.", "ovelser": [{"n": "Booty builder", "sett": 3, "reps": 10, "kg": 70}, {"n": "Leg extension", "sett": 3, "reps": 10, "kg": 54}, {"n": "Innside lår", "sett": 3, "reps": 10, "kg": 73}, {"n": "Utside lår", "sett": 3, "reps": 10, "kg": 70}, {"n": "Beinpress · 30 tåhev etter hvert sett", "sett": 3, "reps": 10, "kg": 109}, {"n": "Hamstring curl", "sett": 3, "reps": 10, "kg": 39}]}]}, {"dato": "2026-08-04", "navn": "Tirsdag", "sted": "Hjemmekontor", "maltider": [{"id": "lunsj", "navn": "L4 Overnight oats", "kl": "11:30", "kc": 798, "pr": 69, "deler": ["70 g havregryn", "2,5 dl melk", "10 g chiafrø", "250 g skyr", "25 g proteinpulver", "100 g bær", "15 g valnøtter"], "steg": ["Lages mandag kveld: havregryn, melk og chiafrø i glass med lokk, godt rørt.", "Om morgenen: rør pulveret inn i skyren for seg, vend det inn.", "Bær og valnøtter på først ved servering."]}, {"id": "shake", "navn": "Shake", "kl": "etter økta", "kc": 300, "pr": 48, "deler": ["50 g Whey-80 vanilje", "3 dl melk"]}, {"id": "middag", "navn": "7 Pad Kra Pao — lag dobbelt", "kl": "20:00", "kc": 766, "pr": 60, "rett": "7", "oppskrift": "7", "porsjoner": 2, "kokknotat": "Dobbel: én porsjon i dag, én til onsdag. To hele poser ris."}], "okter": [{"tittel": "Styrke — superset", "undertittel": "14–16 · 70 min", "type": "styrke", "notat": "Trettien sett totalt — ukas lengste økt i antall sett. Roingen tar ni av dem fordi den kjøres i tre varianter. Supersettet til slutt går uten pause mellom skulderpress og curl.", "ovelser": [{"n": "Cable flyes", "sett": 3, "reps": 10, "kg": 15}, {"n": "Kabelflyes nedenfra", "sett": 3, "reps": 10, "kg": 7}, {"n": "Trisepspress", "sett": 3, "reps": 10, "kg": 17.5}, {"n": "Face pull", "sett": 3, "reps": 10, "kg": 17}, {"n": "Sittende roing — begge hender", "sett": 3, "reps": 10, "kg": 35}, {"n": "Sittende roing — venstre arm", "sett": 3, "reps": 10, "kg": 35}, {"n": "Sittende roing — høyre arm", "sett": 3, "reps": 10, "kg": 35}, {"n": "Seated shoulder press, manualer", "sett": 3, "reps": 10, "kg": 0, "par": "start", "merk": "Rett over på curl uten pause"}, {"n": "Sittende dumbbell curl", "sett": 3, "reps": 10, "kg": 0, "par": "slutt", "merk": "Pause etter dette settet"}]}]}, {"dato": "2026-08-05", "navn": "Onsdag", "sted": "Kontor", "maltider": [{"id": "lunsj", "navn": "Lunsj — salatdisken", "kl": "10:00", "kc": 850, "pr": 50, "deler": ["150 g protein", "250 g grønt", "150 g karbo", "én bit varmmat", "15 g dressing", "1 skive brød"]}, {"id": "shake", "navn": "Shake", "kl": "15:00", "kc": 300, "pr": 48, "deler": ["50 g Whey-80 vanilje", "3 dl melk"]}, {"id": "middag", "navn": "Pad Kra Pao — rest", "kl": "19:45", "kc": 766, "pr": 60, "rett": "7", "oppskrift": "7", "porsjoner": 0, "kokknotat": "Rest fra i går. Varmes i panne på fem minutter."}], "okter": [{"tittel": "Rolig løp, 7 km", "undertittel": "Morgen · før jobb", "type": "lop", "notat": "Skal være 6:15–6:30 per km, ikke raskere. Forrige onsdag sto det 6:00–6:15 og ble 5:46 med snittpuls 160. Kjennes oppvarmingen tung, kutt til 5 km — boksingen er den viktigste av de to.", "mal": {"Distanse": "7 km", "Tempo": "6:15–6:30 /km", "Puls": "under 150"}}, {"tittel": "HIIT-boksing", "undertittel": "18:15 · ca. 42 min", "type": "annet", "notat": "Ni øvelser, 45 sek arbeid og 20 sek pause, tre runder med 90 sek mellom. 27 arbeidsintervaller, cirka 20 minutter reell arbeidstid.", "mal": {"Runder": "3", "Arbeid": "45 sek", "Pause": "20 sek"}}], "forberedelse": {"tittel": "Legg bønnene i bløt", "tekst": "110 g tørkede hvite bønner i rikelig kaldt vann før du legger deg. De dobler vekten over natten. Kok dem torsdag formiddag i 1–1½ time mens du er på hjemmekontor — de skal være møre, ikke utkokte. Da slipper du å kjøpe boks, og kiloen i skapet rekker til ni middager."}}, {"dato": "2026-08-06", "navn": "Torsdag", "sted": "Hjemmekontor", "maltider": [{"id": "lunsj", "navn": "L2 Eggerøre med røkelaks", "kl": "11:30", "kc": 802, "pr": 70, "deler": ["3 egg", "80 g røkelaks", "2 skiver brød", "10 g smør", "200 g cottage cheese", "100 g tomat"], "steg": ["Visp eggene lett med salt. Ikke pisk.", "Smelt smøret i kald panne på svak varme, hell i eggene før det bruser.", "Rør sakte i 3–4 min. Eggene skal være blanke når pannen tas av.", "Rist brødet, legg på eggerøren, laksen i strimler over."]}, {"id": "shake", "navn": "Shake", "kl": "etter økta", "kc": 300, "pr": 48, "deler": ["50 g Whey-80 vanilje", "3 dl melk"]}, {"id": "middag", "navn": "146 Harissakylling — lag dobbelt", "kl": "20:00", "kc": 978, "pr": 79, "rett": "146", "oppskrift": "146", "porsjoner": 2, "kokknotat": "Dobbel: én porsjon i dag, én til fredag."}], "okter": [{"tittel": "Styrke — bryst og rygg", "undertittel": "14–16 · 70 min", "type": "styrke", "notat": "", "ovelser": [{"n": "Kombimaskin, øvre rygg", "sett": 3, "reps": 10, "kg": 47}, {"n": "Kombimaskin, bryst", "sett": 4, "reps": 10, "kg": 54}, {"n": "Roing i kabel", "sett": 3, "reps": 10, "kg": 66}, {"n": "Benkpress", "sett": 3, "reps": 8, "kg": 60}, {"n": "Skråbenk, manualer", "sett": 3, "reps": 8, "kg": 22}, {"n": "Nedtrekk, øvre rygg", "sett": 3, "reps": 10, "kg": 60}]}]}, {"dato": "2026-08-07", "navn": "Fredag", "sted": "Kontor", "maltider": [{"id": "lunsj", "navn": "Lunsj — salatdisken", "kl": "10:00", "kc": 850, "pr": 50, "deler": ["150 g protein", "250 g grønt", "150 g karbo", "én bit varmmat", "15 g dressing", "1 skive brød"]}, {"id": "middag", "navn": "Harissakylling — rest", "kl": "15:15", "kc": 978, "pr": 79, "rett": "146", "oppskrift": "146", "porsjoner": 0, "kokknotat": "Rest fra i går. Spis 15:15, ut 16:00."}, {"id": "shake", "navn": "Shake — etter kinoen", "kl": "19:30", "kc": 300, "pr": 48, "deler": ["50 g Whey-80 vanilje", "3 dl melk"]}], "okter": [{"tittel": "Fri", "undertittel": "Ingen økt", "type": "fri", "notat": "Kino 16:45 — hjemmefra senest 16:00."}]}, {"dato": "2026-08-08", "navn": "Lørdag", "sted": "—", "maltider": [{"id": "frokost", "navn": "Frokost", "kl": "09:00", "kc": 550, "pr": 35, "deler": ["3 egg", "40 g bacon", "2 skiver brød", "tomat"]}, {"id": "lunsj", "navn": "Lunsj", "kl": "13:00", "kc": 500, "pr": 30, "deler": ["Fritt, men hold deg rundt 500 kcal"]}, {"id": "shake", "navn": "Shake", "kl": "16:00", "kc": 300, "pr": 48, "deler": ["50 g Whey-80 vanilje", "3 dl melk"]}, {"id": "middag", "navn": "142 Lasagne alla Norma — hel form", "kl": "19:00", "kc": 1035, "pr": 50, "rett": "142", "oppskrift": "142", "porsjoner": 2, "kokknotat": "Hel form. Én porsjon i dag, én til søndag."}], "okter": [{"tittel": "Fri, eventuelt 3–4 km", "undertittel": "Etter dagsform", "type": "fri", "notat": "Ikke alkohol i kveld — Østmarka i morgen. Ikke boksing denne lørdagen; den kommer inn fast fra 15. august."}]}, {"dato": "2026-08-09", "navn": "Søndag", "sted": "Østmarka", "maling": true, "maltider": [{"id": "for", "navn": "Før start", "kl": "–60 min", "kc": 200, "pr": 5, "deler": ["1 skive brød med honning", "kaffe"]}, {"id": "frokost", "navn": "Etter turen", "kl": "", "kc": 550, "pr": 35, "deler": ["3 egg", "2 skiver brød", "200 g cottage cheese", "frukt"]}, {"id": "shake", "navn": "Shake", "kl": "", "kc": 300, "pr": 48, "deler": ["50 g Whey-80 vanilje", "3 dl melk"]}, {"id": "middag", "navn": "Lasagne — rest", "kl": "19:00", "kc": 1200, "pr": 55, "rett": "142", "oppskrift": "142", "porsjoner": 0, "kokknotat": "Rest fra i går. Tjue minutter i ovnen mens du dusjer."}], "okter": [{"tittel": "Østmarka 22,6 km", "undertittel": "563 høydemeter", "type": "lop", "notat": "Ikke et løp — en kontrollert langtur med startnummer. 39 % lengre enn forrige søndag; hoppet er det som betyr noe, ikke tida. Gå bakkene om det trengs.", "mal": {"Distanse": "22,6 km", "Puls": "145–150", "Høydemeter": "563"}}]}], "oppskrifter": {"127": {"navn": "Kremet hvitløkskylling – Simple Home Edit sin versjon", "ki": "Nicole Maguire / Simple Home Edit (simplehomeedit.com), også i boken Simple Dinners Every Day s. 116", "kilde_p": 4, "varianter": {"1": [{"t": "250 g kyllingbryst — 1 × 250 g, delt vannrett i tynnere fileter", "x": true}, {"t": "¼ ts salt", "x": false}, {"t": "0,1 ts nykvernet sort pepper", "x": false}, {"t": "¼ ts søtt paprikapulver", "x": false}, {"t": "¼ ts løkpulver", "x": false}, {"t": "¼ ts tørket timian", "x": false}, {"t": "9 g hvetemel", "x": false}, {"t": "¼ ss olivenolje", "x": false}, {"t": "¼ ss usaltet smør", "x": false}, {"t": "¼ ss usaltet smør", "x": false}, {"t": "¼ ss fersk hvitløk, finhakket", "x": false}, {"t": "30 ml kyllingkraft", "x": false}, {"t": "75 ml kremfløte", "x": false}, {"t": "¼ ts dijonsennep", "x": false}, {"t": "12 g revet parmesan", "x": false}, {"t": "Saltflak og nykvernet sort pepper etter smak", "x": false}, {"t": "¼ ss finhakket bladpersille", "x": false}, {"t": "Sitronbåter", "x": false}, {"t": "60 g tørr ris — ½ pose", "x": true}, {"t": "200 g dampede grønnsaker", "x": true}], "2": [{"t": "500 g kyllingbryst — 2 × 250 g, delt vannrett i tynnere fileter", "x": true}, {"t": "½ ts salt", "x": false}, {"t": "⅛ ts nykvernet sort pepper", "x": false}, {"t": "½ ts søtt paprikapulver", "x": false}, {"t": "½ ts løkpulver", "x": false}, {"t": "½ ts tørket timian", "x": false}, {"t": "18 g hvetemel", "x": false}, {"t": "½ ss olivenolje", "x": false}, {"t": "½ ss usaltet smør", "x": false}, {"t": "½ ss usaltet smør", "x": false}, {"t": "½ ss fersk hvitløk, finhakket", "x": false}, {"t": "60 ml kyllingkraft", "x": false}, {"t": "150 ml kremfløte", "x": false}, {"t": "½ ts dijonsennep", "x": false}, {"t": "25 g revet parmesan", "x": false}, {"t": "Saltflak og nykvernet sort pepper etter smak", "x": false}, {"t": "½ ss finhakket bladpersille", "x": false}, {"t": "Sitronbåter", "x": false}, {"t": "120 g tørr ris — 1 pose", "x": true}, {"t": "400 g dampede grønnsaker", "x": true}], "3": [{"t": "750 g kyllingbryst — 3 × 250 g, delt vannrett i tynnere fileter", "x": true}, {"t": "¾ ts salt", "x": false}, {"t": "0,2 ts nykvernet sort pepper", "x": false}, {"t": "¾ ts søtt paprikapulver", "x": false}, {"t": "¾ ts løkpulver", "x": false}, {"t": "¾ ts tørket timian", "x": false}, {"t": "25 g hvetemel", "x": false}, {"t": "¾ ss olivenolje", "x": false}, {"t": "¾ ss usaltet smør", "x": false}, {"t": "¾ ss usaltet smør", "x": false}, {"t": "¾ ss fersk hvitløk, finhakket", "x": false}, {"t": "95 ml kyllingkraft", "x": false}, {"t": "225 ml kremfløte", "x": false}, {"t": "¾ ts dijonsennep", "x": false}, {"t": "40 g revet parmesan", "x": false}, {"t": "Saltflak og nykvernet sort pepper etter smak", "x": false}, {"t": "¾ ss finhakket bladpersille", "x": false}, {"t": "Sitronbåter", "x": false}, {"t": "180 g tørr ris — 1½ pose", "x": true}, {"t": "600 g dampede grønnsaker", "x": true}]}, "steg": [{"t": "Panér kyllingen. Dryss filetene med salt, pepper, paprikapulver, løkpulver og timian. Press dem ned i melet så alle sider er jevnt dekket."}, {"t": "Stek kyllingen. Varm olivenoljen og 1 ss smør i en stor, dyp panne på middels sterk varme. Stek filetene 5–6 minutter, til de akkurat er gjennomstekte, og snu én gang halvveis."}, {"t": "Ta kyllingen ut på et fat."}, {"t": "Start sausen. Ha den andre spiseskjeen smør i samme panne. Når det er smeltet, tilsett hvitløken og rør i 30 sekunder."}, {"t": "Kok inn. Hell i kyllingkraften og kok 1–2 minutter, til den er redusert til minst det halve. Rør inn fløten og dijonsennepen, skru ned til middels varme, og la det småkoke 2 minutter, til sausen har tyknet litt."}, {"t": "Fullfør. Rør inn parmesanen, smak til, og legg kyllingen tilbake i pannen i 2–3 minutter, til den er gjennomvarm."}, {"t": "Server med potetmos, ris eller pasta og dampede grønnsaker, med persille og en skvett sitron over."}], "hvorfor": "Fløte og parmesan gjør retten fet. Halv pose ris og grønnsaker ved siden av er nok."}, "7": {"navn": "Andy Cooks sin Pad Kra Pao", "ki": "Andy Cooks (andy-cooks.com)", "kilde_p": 4, "varianter": {"1": [{"t": "200 g kyllingkjøttdeig — 1 × 200 g", "x": true}, {"t": "1 hvitløksfedd", "x": false}, {"t": "½ thaichili (bird's eye)", "x": false}, {"t": "¼ stor rød chili", "x": false}, {"t": "¼ bunt hellig basilikum (thaibasilikum eller vanlig basilikum kan brukes)", "x": false}, {"t": "½ ss fiskesaus", "x": false}, {"t": "0,4 ts sukker", "x": false}, {"t": "5 g olje til steking (mengde lagt til.)", "x": false}, {"t": "Saften av ¼ lime", "x": false}, {"t": "½ thaichili, tynt skivet", "x": false}, {"t": "¼ ss fiskesaus", "x": false}, {"t": "⅛ ts sukker", "x": false}, {"t": "1 egg", "x": false}, {"t": "60 g tørr ris — ½ pose", "x": true}, {"t": "200 g grønnsaker", "x": true}, {"t": "6 g olje til grønnsakene", "x": true}], "2": [{"t": "400 g kyllingkjøttdeig — 2 × 200 g", "x": true}, {"t": "2 hvitløksfedd", "x": false}, {"t": "1 thaichili (bird's eye)", "x": false}, {"t": "½ stor rød chili", "x": false}, {"t": "½ bunt hellig basilikum (thaibasilikum eller vanlig basilikum kan brukes)", "x": false}, {"t": "1 ss fiskesaus", "x": false}, {"t": "¾ ts sukker", "x": false}, {"t": "10 g olje til steking (mengde lagt til.)", "x": false}, {"t": "Saften av ½ lime", "x": false}, {"t": "1 thaichili, tynt skivet", "x": false}, {"t": "½ ss fiskesaus", "x": false}, {"t": "¼ ts sukker", "x": false}, {"t": "2 egg", "x": false}, {"t": "120 g tørr ris — 1 pose", "x": true}, {"t": "400 g grønnsaker", "x": true}, {"t": "12 g olje til grønnsakene", "x": true}], "3": [{"t": "600 g kyllingkjøttdeig — 3 × 200 g", "x": true}, {"t": "3 hvitløksfedd", "x": false}, {"t": "1½ thaichili (bird's eye)", "x": false}, {"t": "¾ stor rød chili", "x": false}, {"t": "¾ bunt hellig basilikum (thaibasilikum eller vanlig basilikum kan brukes)", "x": false}, {"t": "1½ ss fiskesaus", "x": false}, {"t": "1⅛ ts sukker", "x": false}, {"t": "15 g olje til steking (mengde lagt til.)", "x": false}, {"t": "Saften av ¾ lime", "x": false}, {"t": "1½ thaichili, tynt skivet", "x": false}, {"t": "¾ ss fiskesaus", "x": false}, {"t": "0,4 ts sukker", "x": false}, {"t": "3 egg", "x": false}, {"t": "180 g tørr ris — 1½ pose", "x": true}, {"t": "600 g grønnsaker", "x": true}, {"t": "18 g olje til grønnsakene", "x": true}]}, "steg": [{"t": "Støt chilipastaen. Ha hvitløk, 2 thaichili og den store røde chilien (grovhakket) i en morter. Støt til en pasta – den kan godt være litt grov."}, {"t": "Lag dippen. Bland limejuice, 2 tynt skivede thaichili, 1 ss fiskesaus og ½ ts sukker. Sett til side."}, {"t": "Stek kyllingen. Varm en wok eller stor panne på sterk varme. Ha i 1 ss olje, og når den er varm, stek kyllingen i 2–3 minutter."}, {"t": "Tilsett pastaen. Ha chili-hvitløkspastaen i pannen og rør raskt. Tilsett så fiskesaus og sukker."}, {"t": "Kok inn. Stek videre i 2 minutter. Tilsett vann én spiseskje av gangen hvis det tørker ut. Dette skal ikke være en våt wok – kyllingen skal bare være godt dekket av saus."}, {"t": "Basilikum til slutt. De siste 30 sekundene: ha i basilikumen og vend raskt. Ta pannen av varmen."}, {"t": "Server. Kylling og jasminris, med prik nam pla ved siden av og et sprøstekt egg på toppen."}], "hvorfor": "Retten er mager: 444 kcal med kjøttdeig, egg og wokolje. Ris og grønnsaker ved siden av bringer den til 766. Det er lavere enn de andre middagene, og det er greit — kalorier er et ukesnitt."}, "146": {"navn": "Harissakylling med kremete bønner", "ki": "Rajjekost / @rajjekost (TikTok, 28. august 2025)", "kilde_p": 3, "varianter": {"1": [{"t": "250 g kyllinglårfilet — 1 × 250 g", "x": true}, {"t": "⅓ ss tørket oregano", "x": false}, {"t": "0,2 ts malt spisskummen — 1 krm", "x": false}, {"t": "0,2 ss harissapasta", "x": false}, {"t": "⅔ ss olivenolje", "x": false}, {"t": "Saften fra 0,2 sitron", "x": false}, {"t": "Salt og sort pepper", "x": false}, {"t": "55 g tørkede hvite bønner — bløtlagt over natten og kokt møre", "x": true}, {"t": "85 g cherrytomater", "x": false}, {"t": "1 hvitløksfedd, finhakket", "x": false}, {"t": "⅓ ss harissapasta", "x": false}, {"t": "20 g fersk spinat", "x": false}, {"t": "0,3 dl kremfløte", "x": false}, {"t": "Saften fra 0,2 sitron", "x": false}, {"t": "Fersk koriander til pynt", "x": false}, {"t": "70 g brød ved siden av", "x": true}], "2": [{"t": "500 g kyllinglårfilet — 2 × 250 g", "x": true}, {"t": "⅔ ss tørket oregano", "x": false}, {"t": "⅓ ts malt spisskummen — 1 krm", "x": false}, {"t": "⅓ ss harissapasta", "x": false}, {"t": "1⅓ ss olivenolje", "x": false}, {"t": "Saften fra ⅓ sitron", "x": false}, {"t": "Salt og sort pepper", "x": false}, {"t": "110 g tørkede hvite bønner — bløtlagt over natten og kokt møre", "x": true}, {"t": "165 g cherrytomater", "x": false}, {"t": "1 hvitløksfedd, finhakket", "x": false}, {"t": "⅔ ss harissapasta", "x": false}, {"t": "45 g fersk spinat", "x": false}, {"t": "0,7 dl kremfløte", "x": false}, {"t": "Saften fra ⅓ sitron", "x": false}, {"t": "Fersk koriander til pynt", "x": false}, {"t": "140 g brød ved siden av", "x": true}], "3": [{"t": "750 g kyllinglårfilet — 3 × 250 g", "x": true}, {"t": "1 ss tørket oregano", "x": false}, {"t": "½ ts malt spisskummen — 2 krm", "x": false}, {"t": "½ ss harissapasta", "x": false}, {"t": "2 ss olivenolje", "x": false}, {"t": "Saften fra ½ sitron", "x": false}, {"t": "Salt og sort pepper", "x": false}, {"t": "165 g tørkede hvite bønner — bløtlagt over natten og kokt møre", "x": true}, {"t": "250 g cherrytomater", "x": false}, {"t": "2 hvitløksfedd, finhakket", "x": false}, {"t": "1 ss harissapasta", "x": false}, {"t": "65 g fersk spinat", "x": false}, {"t": "1 dl kremfløte", "x": false}, {"t": "Saften fra ½ sitron", "x": false}, {"t": "Fersk koriander til pynt", "x": false}, {"t": "210 g brød ved siden av", "x": true}]}, "steg": [{"t": "Marinér kyllingen. Bland alle krydderne, harissapastaen og olivenoljen i en bolle. Legg i kyllinglårfiletene og bland godt så alle bitene er dekket. La dem marinere i kjøleskapet så lenge som mulig, gjerne over natten."}, {"t": "Stek kyllingen. Varm en stekepanne med litt olje og stek kyllingen på middels varme til den har fin gyllen overflate og er gjennomstekt. Ta den opp og sett til side."}, {"t": "Start sausen. Bruk samme panne. Del tomatene og finhakk hvitløken. Stek tomater og hvitløk i pannen og la det putre til tomatene begynner å mykne."}, {"t": "Krydre sausen. Rør inn harissapastaen og la den riste i pannen i ca. 1 minutt. Tilsett bønnene (se notat), spinaten og fløten, og la sausen koke i 5 minutter."}, {"t": "Smak til og server. Smak sausen til med salt, pepper og saften fra den andre sitronhalvdelen. Legg kyllingen tilbake i pannen sammen med kraften den har avgitt, og bland rundt."}, {"t": "Topp med fersk koriander og en skvett olivenolje før servering."}], "hvorfor": "Bønnene er sausen, ikke tilbehøret — de tykner den mens de koker, og de er rettens karbohydrat. Derfor holder 70 g brød som tilbehør. Tørkede bønner fra skapet i stedet for boks: 110 g tørt gir de 266 g avrente som to porsjoner trenger."}, "142": {"navn": "Lasagne alla Norma med salsicciaragù", "ki": "Rajjekost / @rajjekost (TikTok, 21. juli 2025)", "kilde_p": 6, "varianter": {"1": [{"t": "85 g aubergine", "x": false}, {"t": "40 g ricotta", "x": false}, {"t": "1 hvitløksfedd (bare 3 brukes – se notat)", "x": false}, {"t": "1 egg", "x": false}, {"t": "0,2 sitron", "x": false}, {"t": "200 g salsicciafarse — 1 × 200 g", "x": true}, {"t": "0,2 sjalottløk", "x": false}, {"t": "⅓ ss tomatpuré", "x": false}, {"t": "85 g passerte tomater", "x": false}, {"t": "0,2 dl ekstra virgin olivenolje", "x": false}, {"t": "35 g revet parmesan", "x": false}, {"t": "⅓ mozzarella", "x": false}, {"t": "0,2 potte fersk basilikum", "x": false}, {"t": "Lasagneplater, ferske eller tørkede (mengde ikke oppgitt)", "x": false}, {"t": "En klype sukker (brukes aldri i fremgangsmåten – se notat)", "x": false}, {"t": "Salt og sort pepper", "x": false}], "2": [{"t": "165 g aubergine", "x": false}, {"t": "85 g ricotta", "x": false}, {"t": "1 hvitløksfedd (bare 3 brukes – se notat)", "x": false}, {"t": "1 egg", "x": false}, {"t": "⅓ sitron", "x": false}, {"t": "400 g salsicciafarse — 2 × 200 g", "x": true}, {"t": "⅓ sjalottløk", "x": false}, {"t": "⅔ ss tomatpuré", "x": false}, {"t": "165 g passerte tomater", "x": false}, {"t": "0,3 dl ekstra virgin olivenolje", "x": false}, {"t": "65 g revet parmesan", "x": false}, {"t": "⅔ mozzarella", "x": false}, {"t": "⅓ potte fersk basilikum", "x": false}, {"t": "Lasagneplater, ferske eller tørkede (mengde ikke oppgitt)", "x": false}, {"t": "En klype sukker (brukes aldri i fremgangsmåten – se notat)", "x": false}, {"t": "Salt og sort pepper", "x": false}], "3": [{"t": "250 g aubergine", "x": false}, {"t": "125 g ricotta", "x": false}, {"t": "2 hvitløksfedd (bare 3 brukes – se notat)", "x": false}, {"t": "1 egg", "x": false}, {"t": "½ sitron", "x": false}, {"t": "600 g salsicciafarse — 3 × 200 g", "x": true}, {"t": "½ sjalottløk", "x": false}, {"t": "1 ss tomatpuré", "x": false}, {"t": "250 g passerte tomater", "x": false}, {"t": "0,5 dl ekstra virgin olivenolje", "x": false}, {"t": "100 g revet parmesan", "x": false}, {"t": "1 mozzarella", "x": false}, {"t": "½ potte fersk basilikum", "x": false}, {"t": "Lasagneplater, ferske eller tørkede (mengde ikke oppgitt)", "x": false}, {"t": "En klype sukker (brukes aldri i fremgangsmåten – se notat)", "x": false}, {"t": "Salt og sort pepper", "x": false}]}, "steg": [{"del": "Auberginen"}, {"t": "Salt den. Skjær auberginen i skiver på langs, ca. 1 cm tykke. Salt skivene rikelig og legg dem i et dørslag over en stor bolle. La dem ligge i minst én time så væsken trekkes ut. Skyll skivene og tørk dem svært godt med kjøkkenpapir."}, {"t": "Stek den. Varm rikelig med olivenolje i en stor stekepanne og stek skivene gyllne på begge sider. Tilsett mer olje ved behov. La dem renne godt av på kjøkkenpapir."}, {"del": "Salsicciaragù"}, {"t": "Brun salsicciaen. Varm ekstra virgin olivenolje i en stor kjele. Ha i salsicciafarsen og brun den til den har fin farge og er gjennomstekt."}, {"t": "Fres smaksbunnen. Tilsett 3 finhakkede hvitløksfedd og den finhakkede sjalottløken. La det putre på middels varme, med omrøring innimellom, til løken er gyllen – ca. 5 minutter."}, {"t": "Tomat i. Rør inn tomatpuréen og «rist» den under omrøring i 1 minutt. Hell i de passerte tomatene og knus dem lett med en tresleiv. Krydre med salt og pepper, og rør inn noen basilikumblader."}, {"t": "La sausen trekke. Kok opp, og la den deretter småkoke på lav varme, med omrøring innimellom, til den har tyknet litt. Smak til med salt og pepper."}, {"del": "Bygging og steking"}, {"t": "Ricottafyllet. Bland ricotta med halvparten av parmesanen – spar resten til lagene – og egget. Smak til med sitronsaft, salt og pepper."}, {"t": "Bygg lasagnen. Sett ovnen på 190 °C. Smør en ildfast form. Bre ut et tynt lag ricottafyll i bunnen. Legg på det første laget lasagneplater og dekk pastaen med litt mer ricottafyll."}, {"t": "Fortsett i lag. Legg på et lag stekte auberginskiver. Topp med ca. 3 ss ragù, noen biter mozzarella, litt parmesan og noen basilikumblader. Fortsett å veksle lag på lag til ingrediensene er brukt opp. Avslutt med et raust lag revet mozzarella, parmesan og basilikum."}, {"t": "Stek. Dekk formen med aluminiumsfolie og stek i 30 minutter. Fjern folien og stek videre i 15 minutter, til overflaten er gyllen og boblende."}, {"t": "La den hvile i 20 minutter før du skjærer opp. Da holder den bedre sammen."}], "hvorfor": "Treffer målet alene. Salat ved siden av om du vil."}}};
+var INN = {"kjop": [{"v": "Kyllingbryst", "m": "250 g (1 filet)", "a": "kjott", "hvor": "Man · 127"}, {"v": "Kyllingkjøttdeig", "m": "400 g", "a": "kjott", "hvor": "Tir+Ons · 7"}, {"v": "Kyllinglårfilet", "m": "500 g", "a": "kjott", "hvor": "Tor+Fre · 146"}, {"v": "Salsicciafarse", "m": "400 g", "a": "kjott", "hvor": "Lør+Søn · 142"}, {"v": "Røkelaks", "m": "80 g", "a": "kjott", "hvor": "Tor · lunsj L2"}, {"v": "Bacon", "m": "40 g", "a": "kjott", "hvor": "Lør · frokost"}, {"v": "Kremfløte", "m": "1 boks", "a": "meieri", "hvor": "Man · 127 · Tor+Fre · 146"}, {"v": "Parmesan, revet", "m": "80 g", "a": "meieri", "hvor": "Man · 127 · Lør+Søn · 142"}, {"v": "Ricotta", "m": "1 beger", "a": "meieri", "hvor": "Lør+Søn · 142"}, {"v": "Mozzarella", "m": "har 750 g i fryser", "a": "meieri", "hvor": "Lør+Søn · 142"}, {"v": "Melk", "m": "2 liter", "a": "meieri", "hvor": "Shaker + overnight oats"}, {"v": "Smør", "m": "1 pakke", "a": "meieri", "hvor": "Flere"}, {"v": "Aubergine", "m": "170 g", "a": "frukt", "hvor": "Lør+Søn · 142"}, {"v": "Cherrytomater", "m": "165 g", "a": "frukt", "hvor": "Tor+Fre · 146"}, {"v": "Tomat", "m": "200 g", "a": "frukt", "hvor": "Man · 127 · Tor · lunsj"}, {"v": "Fersk spinat", "m": "45 g", "a": "frukt", "hvor": "Tor+Fre · 146"}, {"v": "Sitron", "m": "2 stk", "a": "frukt", "hvor": "146 og 142"}, {"v": "Lime", "m": "1 stk", "a": "frukt", "hvor": "Tir+Ons · 7"}, {"v": "Fersk basilikum", "m": "1 potte", "a": "frukt", "hvor": "7 og 142"}, {"v": "Fersk koriander", "m": "1 potte", "a": "frukt", "hvor": "Tor+Fre · 146"}, {"v": "Thaichili", "m": "3 stk", "a": "frukt", "hvor": "Tir+Ons · 7"}, {"v": "Rød chili", "m": "1 stk", "a": "frukt", "hvor": "Tir+Ons · 7"}, {"v": "Frisk persille", "m": "1 potte", "a": "frukt", "hvor": "Man · 127"}, {"v": "Bær, frosne", "m": "200 g", "a": "frys", "hvor": "Tir · lunsj L4"}, {"v": "Brød", "m": "1 stk", "a": "brod", "hvor": "Lunsj, frokost, tilbehør 146"}, {"v": "Lasagneplater", "m": "1 pakke", "a": "torr", "hvor": "Lør+Søn · 142"}, {"v": "Valnøtter", "m": "30 g", "a": "torr", "hvor": "Tir · lunsj L4"}, {"v": "Chiafrø", "m": "20 g", "a": "torr", "hvor": "Tir · lunsj L4"}, {"v": "Passerte tomater", "m": "170 g", "a": "torr", "hvor": "Lør+Søn · 142"}, {"v": "Harissapasta", "m": "1 glass", "a": "krydder", "hvor": "Tor+Fre · 146"}, {"v": "Dijonsennep", "m": "1 glass", "a": "krydder", "hvor": "Man · 127"}, {"v": "Kyllingkraft", "m": "1 flaske eller terning", "a": "krydder", "hvor": "Man · 127"}], "har": [{"v": "Kyllingfilet", "m": "10 stk à 250 g", "n": "trenger 1"}, {"v": "Toro Jasminris", "m": "19½ pose", "n": "trenger 3 poser"}, {"v": "Hvite bønner, tørkede", "m": "1000 g", "n": "trenger 110 g — legges i bløt onsdag kveld"}, {"v": "Mozzarella Cubetti", "m": "750 g i fryser", "n": "trenger ca. 200 g"}, {"v": "Majesty bacon", "m": "7 pakker à 140 g", "n": "trenger 1"}, {"v": "Whey-80 vanilje", "m": "4 kg", "n": "trenger ca. 400 g"}, {"v": "Tomatpuré", "m": "140 g", "n": "trenger 10 g"}], "basis": ["Egg", "Skyr naturell", "Cottage cheese", "Havregryn", "Hvitløk", "Gulløk", "Rødløk", "Sjalottløk", "Poteter", "Olivenolje", "Fiskesaus", "Oregano", "Spisskummen", "Basilikum, tørket", "Koriander, tørket", "Chiliflak", "Sukker", "Hvetemel", "Salt og pepper", "Eldorado Bukettgrønnsaker", "Eldorado Aspargesbønner", "Eldorado Amerikansk blanding"], "avd": {"frukt": "Frukt og grønt", "kjott": "Kjøtt og fisk", "meieri": "Meieri", "brod": "Brød", "torr": "Tørrvarer", "krydder": "Krydder og olje", "frys": "Frys"}, "rekke": ["frukt", "kjott", "meieri", "brod", "torr", "krydder", "frys"]};
+var LAGER = {};
+try { LAGER = JSON.parse(localStorage.getItem('dag-uke2') || '{}'); } catch(e) { LAGER = {}; }
+function lagre(){
+  try { localStorage.setItem('dag-uke2', JSON.stringify(LAGER)); } catch(e) {}
+}
+function hent(n, standard){ return (n in LAGER) ? LAGER[n] : standard; }
+function sett(n, v){ LAGER[n] = v; lagre(); }
+
+var MND = ['januar','februar','mars','april','mai','juni','juli',
+           'august','september','oktober','november','desember'];
+function idagIndeks(){
+  var n = new Date(), s = n.getFullYear() + '-' +
+      String(n.getMonth()+1).padStart(2,'0') + '-' + String(n.getDate()).padStart(2,'0');
+  for (var i = 0; i < U.dager.length; i++) if (U.dager[i].dato === s) return i;
+  return s < U.dager[0].dato ? 0 : U.dager.length - 1;
+}
+var IDAG = idagIndeks(), n = IDAG;
+
+function esc(s){
+  return String(s).replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;');
+}
+function komma(x){ return String(x).replace('.', ','); }
+
+function mengde(v, enh, f){
+  if (!v) return '';
+  var x = v * f;
+  var vis = (Math.round(x * 10) / 10);
+  return komma(String(vis)) + (enh ? ' ' + enh : '');
+}
+
+function oppskriftHTML(t, dato){
+  var o = U.oppskrifter[t.oppskrift];
+  var nk = 'pors-' + dato;
+  var f = hent(nk, t.porsjoner || 1);
+  var h = '';
+
+  if (!t.porsjoner){
+    h += '<div class="rest">' + esc(t.kokknotat) + '</div>';
+  } else {
+    if (t.kokknotat) h += '<div class="notat">' + esc(t.kokknotat) + '</div>';
+    h += '<div class="pvelg"><span>Lag</span><div class="pknapp">'
+       + '<button data-pors="' + nk + '|1" class="' + (f === 1 ? 'på' : '') + '">1</button>'
+       + '<button data-pors="' + nk + '|2" class="' + (f === 2 ? 'på' : '') + '">2 &mdash; dobbel</button>'
+       + '<button data-pors="' + nk + '|3" class="' + (f === 3 ? 'på' : '') + '">3</button>'
+       + '</div><span>porsjoner</span></div>';
+  }
+
+  var vis = String(t.porsjoner ? f : 1);
+  var lin = o.varianter[vis];
+  h += '<div class="delnavn">Ingredienser</div><ul class="deler">';
+  for (var i = 0; i < lin.length; i++)
+    h += '<li' + (lin[i].x ? ' class="fast"' : '') + '>' + esc(lin[i].t) + '</li>';
+  h += '</ul>';
+  if (o.hvorfor) h += '<div class="notat" style="margin-top:11px">' + esc(o.hvorfor) + '</div>';
+  h += '<div class="kildep">Kilden er skrevet for ' + o.kilde_p + ' porsjoner &middot; '
+     + esc(o.ki) + '</div>';
+
+  var ol = false;
+  for (var j = 0; j < o.steg.length; j++){
+    var st = o.steg[j];
+    if (st.del){
+      if (ol){ h += '</ol>'; ol = false; }
+      h += '<div class="delnavn">' + esc(st.del) + '</div>';
+    } else {
+      if (!ol){ h += '<ol class="steg">'; ol = true; }
+      h += '<li>' + esc(st.t) + '</li>';
+    }
+  }
+  if (ol) h += '</ol>';
+  if ('wakeLock' in navigator)
+    h += '<button class="vaken" data-vaken="1">\u2600 Skjerm på</button>';
+  return h;
+}
+
+function tegnInnkjop(){
+  var h = '', k = INN.kjop;
+  for (var a = 0; a < INN.rekke.length; a++){
+    var avd = INN.rekke[a], v = k.filter(function(x){ return x.a === avd; });
+    if (!v.length) continue;
+    h += '<div class="kort"><div class="avd">' + esc(INN.avd[avd]) + '</div>';
+    for (var i = 0; i < v.length; i++){
+      var nk = 'kjop-' + v[i].v, av = hent(nk, false);
+      h += '<div class="vare' + (av ? ' av' : '') + '">'
+         + '<button class="vhake' + (av ? ' på' : '') + '" data-vare="' + esc(nk)
+         + '" aria-label="Kryss av ' + esc(v[i].v) + '"></button>'
+         + '<span class="vn">' + esc(v[i].v)
+         + '<div class="vhvor">' + esc(v[i].hvor) + '</div></span>'
+         + '<span class="vm">' + esc(v[i].m) + '</span></div>';
+    }
+    h += '</div>';
+  }
+  document.getElementById('kjopliste').innerHTML = h;
+
+  var h2 = '<div class="kort">';
+  for (var j = 0; j < INN.har.length; j++)
+    h2 += '<div class="vare"><span class="vn">' + esc(INN.har[j].v)
+        + '<div class="vhvor">' + esc(INN.har[j].n) + '</div></span>'
+        + '<span class="vm">' + esc(INN.har[j].m) + '</span></div>';
+  document.getElementById('harliste').innerHTML = h2 + '</div>';
+
+  var h3 = '<div class="basisord">';
+  for (var b = 0; b < INN.basis.length; b++) h3 += '<span>' + esc(INN.basis[b]) + '</span>';
+  document.getElementById('basisliste').innerHTML = h3 + '</div>';
+}
+
+/* ---- skjermlås ---- */
+var vaken = null;
+async function taVaken(){
+  try {
+    vaken = await navigator.wakeLock.request('screen');
+    vaken.addEventListener('release', tegnVaken);
+  } catch(e) { vaken = null; }
+  tegnVaken();
+}
+function slippVaken(){
+  if (vaken) { vaken.release(); vaken = null; }
+  tegnVaken();
+}
+function tegnVaken(){
+  var k = document.querySelectorAll('[data-vaken]');
+  for (var i = 0; i < k.length; i++){
+    k[i].classList.toggle('på', !!vaken);
+    k[i].textContent = vaken ? '\u2600 Skjerm av' : '\u2600 Skjerm på';
+  }
+}
+document.addEventListener('visibilitychange', function(){
+  if (vaken !== null && document.visibilityState === 'visible') taVaken();
+});
+
+function tegn(){
+  var d = U.dager[n], h = '';
+  var dd = d.dato.split('-');
+  document.getElementById('dagnavn').textContent = d.navn;
+  document.getElementById('dagdato').innerHTML =
+    parseInt(dd[2],10) + '. ' + MND[parseInt(dd[1],10)-1] + ' &middot; ' + esc(d.sted)
+    + (n === IDAG ? '<span class="idag">I DAG</span>' : '');
+  document.getElementById('forrige').disabled = (n === 0);
+  document.getElementById('neste').disabled = (n === U.dager.length - 1);
+
+  /* ---- trening ---- */
+  h += '<div class="blokk">Trening' + (d.okter.length > 1 ? ' — to økter' : '') + '</div>';
+  for (var oi = 0; oi < d.okter.length; oi++){
+    var o = d.okter[oi], nokt = 'okt-' + d.dato + '-' + oi, ok = hent(nokt, false);
+    h += '<div class="kort' + (ok ? ' ferdig' : '') + '">'
+       +   '<div class="rad">'
+       +     '<button class="hake' + (ok ? ' på' : '') + '" data-hake="' + nokt
+       +       '" aria-label="Merk økta som gjennomført"></button>'
+       +     '<div class="midt"><div class="tit">' + esc(o.tittel) + '</div>'
+       +       '<div class="und">' + esc(o.undertittel || '') + '</div></div>';
+    if (o.ovelser || o.mal || o.notat)
+      h += '<button class="mer" data-ut="okt' + oi + '" aria-label="Vis detaljer">+</button>';
+    h += '</div><div class="ut" id="ut-okt' + oi + '">';
+    if (o.notat) h += '<div class="notat">' + esc(o.notat) + '</div>';
+    if (o.mal){
+      h += '<div class="mal">';
+      for (var k in o.mal)
+        h += '<div><i>' + esc(k) + '</i><b>' + esc(o.mal[k]) + '</b></div>';
+      h += '</div>';
+    }
+    if (o.ovelser){
+      if (!o.ovelser.length){
+        h += '<div class="tom">Øvelsene mangler. Skriv dem inn, så legges de fast.</div>';
+      } else {
+        for (var i = 0; i < o.ovelser.length; i++){
+          var e = o.ovelser[i], nk = 'kg-' + d.dato + '-' + oi + '-' + i, vekt = hent(nk, e.kg);
+          var klass = 'ov' + (e.par ? ' par-' + e.par : '');
+          h += '<div class="' + klass + '"><span class="ovn">' + esc(e.n)
+             + '<br><span class="und">' + e.sett + ' &times; ' + e.reps + '</span>'
+             + (e.merk ? '<div class="parmerk">' + esc(e.merk) + '</div>' : '')
+             + '</span><span class="sett">';
+          for (var st = 1; st <= e.sett; st++){
+            var ns = 'sett-' + d.dato + '-' + oi + '-' + i + '-' + st;
+            h += '<button class="s' + (hent(ns,false) ? ' på' : '') + '" data-sett="'
+               + ns + '">' + st + '</button>';
+          }
+          h += '</span><input class="kg' + (vekt ? '' : ' mangler-kg')
+             + '" type="number" inputmode="decimal" step="0.5" value="'
+             + (vekt || '') + '" placeholder="?" data-kg="' + nk
+             + '" aria-label="Vekt i kilo for ' + esc(e.n) + '">'
+             + '<span class="enh">kg</span></div>';
+        }
+      }
+    }
+    h += '</div></div>';
+  }
+
+  /* ---- maltider ---- */
+  h += '<div class="blokk">Mat</div>';
+  var sumk = 0, sump = 0;
+  for (var m = 0; m < d.maltider.length; m++){
+    var t = d.maltider[m], nm = 'mat-' + d.dato + '-' + t.id, spist = hent(nm, false);
+    if (spist){ sumk += t.kc; sump += t.pr; }
+    h += '<div class="kort' + (spist ? ' ferdig' : '') + '">'
+       +   '<div class="rad">'
+       +     '<button class="hake' + (spist ? ' på' : '') + '" data-hake="' + nm
+       +       '" aria-label="Merk som spist"></button>'
+       +     '<div class="midt"><div class="tit">' + esc(t.navn) + '</div>'
+       +       '<div class="und">' + esc(t.kl || '') + '</div>'
+       +       '<div class="tall"><i><b>' + t.kc + '</b> kcal</i>'
+       +         '<i><b>' + t.pr + '</b> g protein</i></div></div>'
+       +     '<button class="mer" data-ut="mat' + m + '" aria-label="Vis oppskrift">+</button>'
+       +   '</div><div class="ut" id="ut-mat' + m + '">';
+    if (t.oppskrift){
+      h += oppskriftHTML(t, d.dato);
+    } else {
+      if (t.ris) h += '<div class="notat">Ris: ' + esc(t.ris) + '</div>';
+      h += '<ul class="deler">';
+      for (var j = 0; j < t.deler.length; j++) h += '<li>' + esc(t.deler[j]) + '</li>';
+      h += '</ul>';
+      if (t.steg){
+        h += '<ol class="steg">';
+        for (var g = 0; g < t.steg.length; g++) h += '<li>' + esc(t.steg[g]) + '</li>';
+        h += '</ol>';
+      }
+    }
+    if (t.tilb) h += '<div class="notat" style="margin-top:12px;margin-bottom:0">Mangler '
+       + t.tilb + ' kcal opp til dagens mål. Fyll med ris, potet, brød eller grønnsaker i olje.</div>';
+    h += '</div></div>';
+  }
+
+  var malk = (d.dato === '2026-08-09') ? 2500 : 2400;
+  h += '<div class="sum">'
+     +   '<div><i>Spist i dag</i><b' + (sumk < malk * 0.6 ? ' class="under"' : '')
+     +     '>' + sumk + ' kcal</b></div>'
+     +   '<div><i>Protein</i><b' + (sump < 100 ? ' class="under"' : '') + '>'
+     +     sump + ' g</b></div>'
+     +   '<div><i>Mål</i><b>' + malk + ' / 165 g</b></div>'
+     + '</div>';
+
+  /* ---- forberedelse til i morgen ---- */
+  if (d.forberedelse){
+    var nf = 'forb-' + d.dato, gjort = hent(nf, false);
+    h += '<div class="blokk">Før du legger deg</div>'
+       + '<div class="kort' + (gjort ? ' ferdig' : '') + '"><div class="rad">'
+       +   '<button class="hake' + (gjort ? ' på' : '') + '" data-hake="' + nf
+       +     '" aria-label="Merk som gjort"></button>'
+       +   '<div class="midt"><div class="tit">' + esc(d.forberedelse.tittel) + '</div>'
+       +     '<div class="notat" style="margin-top:8px;margin-bottom:0">'
+       +     esc(d.forberedelse.tekst) + '</div></div>'
+       + '</div></div>';
+  }
+
+  /* ---- soendagsmaling ---- */
+  if (d.maling){
+    h += '<div class="blokk">Søndagsmåling — om morgenen, før frokost</div>'
+       + '<div class="kort"><div class="malfelt">'
+       + '<label>Vekt (kg)<input type="number" inputmode="decimal" step="0.1" '
+       +   'value="' + esc(hent('vekt-' + d.dato, '')) + '" data-felt="vekt-' + d.dato + '"></label>'
+       + '<label>Midje (cm)<input type="number" inputmode="decimal" step="0.5" '
+       +   'value="' + esc(hent('midje-' + d.dato, '')) + '" data-felt="midje-' + d.dato + '"></label>'
+       + '</div></div>';
+  }
+
+  /* ---- avvik ---- */
+  h += '<div class="blokk">Avvik og notater</div>'
+     + '<div class="kort">'
+     +   '<textarea data-notat="notat-' + d.dato + '" placeholder="Hva ble spist eller droppet? '
+     +     'Hva var godt, hva var det ikke? Hvordan kjentes økta?">'
+     +     esc(hent('notat-' + d.dato, '')) + '</textarea>'
+     +   '<div class="lagret" id="lagret-status"></div>'
+     + '</div>';
+
+  document.getElementById('innhold').innerHTML = h;
+}
+
+/* ---- hendelser ---- */
+document.addEventListener('click', function(e){
+  var b = e.target.closest('button');
+  if (!b) return;
+  if (b.id === 'forrige' && n > 0){ n--; tegn(); return; }
+  if (b.id === 'neste' && n < U.dager.length - 1){ n++; tegn(); return; }
+  if (b.dataset.hake){
+    var v = !hent(b.dataset.hake, false);
+    sett(b.dataset.hake, v);
+    tegn();
+    return;
+  }
+  if (b.dataset.sett){
+    sett(b.dataset.sett, !hent(b.dataset.sett, false));
+    b.classList.toggle('på');
+    return;
+  }
+  if (b.dataset.s){
+    var alle = document.querySelectorAll('#faner button');
+    for (var q = 0; q < alle.length; q++) alle[q].classList.remove('på');
+    b.classList.add('på');
+    document.getElementById('del-dag').classList.toggle('skjult', b.dataset.s !== 'dag');
+    document.getElementById('del-innkjop').classList.toggle('skjult', b.dataset.s !== 'innkjop');
+    if (b.dataset.s === 'innkjop') tegnInnkjop();
+    return;
+  }
+  if (b.dataset.vare){
+    sett(b.dataset.vare, !hent(b.dataset.vare, false));
+    tegnInnkjop();
+    return;
+  }
+  if (b.dataset.vaken){
+    if (vaken) slippVaken(); else taVaken();
+    return;
+  }
+  if (b.dataset.pors){
+    var bit = b.dataset.pors.split('|');
+    sett(bit[0], parseInt(bit[1], 10));
+    var apne = [];
+    document.querySelectorAll('.ut.åpen').forEach(function(x){ apne.push(x.id); });
+    tegn();
+    apne.forEach(function(id){
+      var boks = document.getElementById(id);
+      if (boks){
+        boks.classList.add('åpen');
+        var kn = document.querySelector('[data-ut="' + id.replace('ut-','') + '"]');
+        if (kn) kn.textContent = '\u2013';
+      }
+    });
+    return;
+  }
+  if (b.dataset.ut){
+    var boks = document.getElementById('ut-' + b.dataset.ut);
+    if (boks){
+      var åpen = boks.classList.toggle('åpen');
+      b.textContent = åpen ? '\u2013' : '+';
+    }
+    return;
+  }
+});
+
+document.addEventListener('change', function(e){
+  if (e.target.dataset.kg)   sett(e.target.dataset.kg, parseFloat(e.target.value) || 0);
+  if (e.target.dataset.felt) sett(e.target.dataset.felt, e.target.value);
+});
+
+var tid = null;
+document.addEventListener('input', function(e){
+  if (!e.target.dataset.notat) return;
+  clearTimeout(tid);
+  var nk = e.target.dataset.notat, v = e.target.value;
+  tid = setTimeout(function(){
+    sett(nk, v);
+    var s = document.getElementById('lagret-status');
+    if (s){ s.textContent = 'Lagret'; setTimeout(function(){ s.textContent = ''; }, 1600); }
+  }, 400);
+});
+
+tegn();
+</script>
+</body></html>
