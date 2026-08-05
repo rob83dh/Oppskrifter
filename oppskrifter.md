@@ -1,6 +1,6 @@
 # Oppskriftssamling
 
-Sist oppdatert: 27. juli 2026 · 148 hovedretter, 15 sjømat, 33 supper, 33 tilbehør, 26 saus/marinade, 24 småretter, 11 desserter, 6 bakverk, 9 brød, 5 grunnoppskrifter
+Sist oppdatert: 5. august 2026 · **542 oppskrifter** · 180 hovedretter, 78 tilbehør, 66 saus/marinade, 58 supper, 37 småretter, 34 desserter, 31 grunnoppskrifter, 25 salater, 28 sjømat, 16 frokost, 13 brød, 7 bakverk
 
 ## Innhold
 
@@ -11,7 +11,7 @@ Sist oppdatert: 27. juli 2026 · 148 hovedretter, 15 sjømat, 33 supper, 33 tilb
 | # | Hovedrett | Type | Kjøkken | Tid | Porsjoner |
 |---|------|------|---------|-----|-----------|
 | 1 | [Kremet krydret miso-ramen med kylling](#1-kremet-krydret-miso-ramen-med-kylling) | Suppe | Japansk | 30 min | 2 |
-| 6 | [Misosuppe](#6-misosuppe) | Hovedrett | Japansk | 10 min | 2 |
+| 6 | [Misosuppe](#6-misosuppe) | Suppe | Japansk | 10 min | 2 |
 | 8 | [Tonkatsu](#8-tonkatsu) | Hovedrett | Japansk | 25 min | 2 |
 | 16 | [Kremet miso-ramen med tofu](#16-kremet-miso-ramen-med-tofu) | Suppe | Japansk-inspirert | 25 min | 4 |
 | 20 | [Klassisk shoyu-ramen](#20-klassisk-shoyu-ramen) | Suppe | Japansk | 15 min + 1 time | 2 |
@@ -27,8 +27,8 @@ Sist oppdatert: 27. juli 2026 · 148 hovedretter, 15 sjømat, 33 supper, 33 tilb
 | 56 | [Katsu curry](#56-katsu-curry) | Hovedrett | Japansk | 25 min | 4 |
 | 79 | [Katsu curry – Andy Cooks sin versjon](#79-katsu-curry--andy-cooks-sin-versjon) | Hovedrett | Japansk | ca. 1 t | 4 |
 | 86 | [Karaage – japansk friturstekt kylling](#86-karaage--japansk-friturstekt-kylling) | Hovedrett | Japansk | 25 min + marinering | 3 |
-| 89 | [Miso-laks](#89-miso-laks) | Hovedrett | Japansk | 15 min | 2 |
-| 99 | [Misosuppe – CJ Eats sin versjon](#99-misosuppe--cj-eats-sin-versjon) | Hovedrett | Japansk | 15 min | 4 |
+| 89 | [Miso-laks](#89-miso-laks) | Hovedrett · Sjømat | Japansk | 15 min | 2 |
+| 99 | [Misosuppe – CJ Eats sin versjon](#99-misosuppe--cj-eats-sin-versjon) | Suppe | Japansk | 15 min | 4 |
 | B1 | [Hot cross shokupan – krydret japansk melkebrød](#b1-hot-cross-shokupan--krydret-japansk-melkebrød) | Brød | Japansk-britisk | ca. 4½ t | 1 brød |
 | S7 | [Imomochi – japansk potetmochi](#s7-imomochi--japansk-potetmochi) | Smårett | Japansk | ca. 30 min | 6–7 stykker |
 | S8 | [Sprø risbiter med laks](#s8-sprø-risbiter-med-laks) | Smårett | Japansk-inspirert | 35 min + 1 t i fryseren | 8 stykker |
@@ -37,12 +37,15 @@ Sist oppdatert: 27. juli 2026 · 148 hovedretter, 15 sjømat, 33 supper, 33 tilb
 | 128 | [Tonkatsu – Miwa sin versjon](#128-tonkatsu--miwa-sin-versjon) | Hovedrett | Japansk | 25 min | 2 |
 | S20 | [Japansk tunfisksandwich](#s20-japansk-tunfisksandwich) | Smårett | Japansk-inspirert | 10 min | 4 |
 | T39 | [Sesamdressing til kålsalat](#t39-sesamdressing-til-kålsalat) | Saus/Marinade | Japansk | 5 min | ca. ½ dl |
-| G7 | [Dashi](#g7-dashi) | Grunnoppskrift | Japansk | 30 min | ca. 1 liter |
+| G21 | [Dashi](#g21-dashi) | Grunnoppskrift | Japansk | 30 min | ca. 1 liter |
 | G18 | [Furikake](#g18-furikake) | Grunnoppskrift | Japansk | 10 min | ca. 1,5 dl |
 | S25 | [Onigiri](#s25-onigiri) | Smårett | Japansk | 30 min | 8 stykker |
 | 181 | [Rotgrønnsaker bakt i miso-smør](#181-rotgrønnsaker-bakt-i-miso-smør) | Hovedrett | Japansk-inspirert | 1 t | 4 |
 | D26 | [Dorayaki](#d26-dorayaki) | Dessert | Japansk | 40 min | 8 stykker |
 | D27 | [Mochi-is](#d27-mochi-is) | Dessert | Japansk | 45 min + frysing | 10 stykker |
+| G13 | [Hellstrøms tempurarøre](#g13-hellstrøms-tempurarøre) | Grunnoppskrift | Japansk | ca. 5 min | ca. 4 porsjoner |
+| T134 | [Hellstrøms japanske ris](#t134-hellstrøms-japanske-ris) | Tilbehør | Japansk | ca. 50 min | 4–6 |
+| T141 | [Momofukus soyaegg](#t141-momofukus-soyaegg) | Tilbehør | Japansk-inspirert | 20 min + 2–6 timers marinering | 6 egg |
 
 #### Koreansk
 
@@ -108,6 +111,13 @@ Sist oppdatert: 27. juli 2026 · 148 hovedretter, 15 sjømat, 33 supper, 33 tilb
 | 149 | [Sprø honning- og hvitløkskylling – Rajjekost sin versjon](#149-sprø-honning--og-hvitløkskylling--rajjekost-sin-versjon) | Hovedrett | Kinesisk-inspirert | ca. 35 min | 2 |
 | T45 | [Chiliolje – Chef Jack Ovens sin versjon](#t45-chiliolje--chef-jack-ovens-sin-versjon) | Saus/Marinade | Kinesisk-inspirert | 10 min | ca. 4 dl |
 | T48 | [Crispy chilimajones](#t48-crispy-chilimajones) | Saus/Marinade | Asiatisk-inspirert | 10 min | ca. 3 dl |
+| B18 | [Tangzhong-brød](#b18-tangzhong-brød) | Brød | Kinesisk | ca. 3 t | 1 brød |
+| 190 | [Pannestekt kylling i soyasaus](#190-pannestekt-kylling-i-soyasaus) | Hovedrett | Kinesisk | ca. 20 min | 2 |
+| 191 | [Sprøstekt svinesideflesk i airfryer (siu yuk) – PattyPlates sin versjon](#191-sprøstekt-svinesideflesk-i-airfryer-siu-yuk--pattyplates-sin-versjon) | Hovedrett | Kantonesisk | 1 t 10 min | 4–6 |
+| 192 | [Sprøstekt svinesideflesk – Andy Cooks sin versjon](#192-sprøstekt-svinesideflesk--andy-cooks-sin-versjon) | Hovedrett | Kantonesisk | 1½ t + natten over | 6 |
+| G11 | [Hellstrøms bao-deig](#g11-hellstrøms-bao-deig) | Grunnoppskrift | Kinesisk | ca. 2 t | 8–10 bao |
+| S37 | [Char siu bao-fyll med kjøttdeig](#s37-char-siu-bao-fyll-med-kjøttdeig) | Smårett | Kinesisk | 20 min | 8 bao |
+| 209 | [One-pot hainansk kylling og ris](#209-one-pot-hainansk-kylling-og-ris) | Hovedrett | Hainansk-amerikansk | ca. 45 min | 2 |
 
 #### Thai
 
@@ -118,12 +128,12 @@ Sist oppdatert: 27. juli 2026 · 148 hovedretter, 15 sjømat, 33 supper, 33 tilb
 | 7 | [Andy Cooks sin Pad Kra Pao](#7-andy-cooks-sin-pad-kra-pao) | Hovedrett | Thai | 35 min | 4 |
 | 26 | [Yam Nua – thai biffsalat](#26-yam-nua--thai-biffsalat) | Salat | Thai | 30 min | 2 |
 | 27 | [Pad Thai](#27-pad-thai) | Hovedrett | Thai | 30 min | 2 |
-| 39 | [Rød karri-dumplingsuppe med reker](#39-rød-karri-dumplingsuppe-med-reker) | Hovedrett | Thai-inspirert | ca. 30 min | 4 |
-| 40 | [Rød karri-dumplingsuppe med kylling – RealChefPaul sin versjon](#40-rød-karri-dumplingsuppe-med-kylling--realchefpaul-sin-versjon) | Hovedrett | Thai-inspirert | ca. 25 min | 2–3 |
-| 41 | [Rød karri-dumplingsuppe med kylling – saltnpiipa sin versjon](#41-rød-karri-dumplingsuppe-med-kylling--saltnpiipa-sin-versjon) | Hovedrett | Thai-inspirert | ca. 20–25 min | 4 |
-| 43 | [Tom yum-suppe med hjemmelagde dumplings](#43-tom-yum-suppe-med-hjemmelagde-dumplings) | Hovedrett | Thai-inspirert | ca. 1 t | 2–3 |
-| 45 | [Rød karri-dumplingsuppe med kylling – Brendan Pang sin versjon](#45-rød-karri-dumplingsuppe-med-kylling--brendan-pang-sin-versjon) | Hovedrett | Thai-inspirert | ca. 25 min | 4 |
-| 51 | [Mango- og kokoskarri med laks](#51-mango--og-kokoskarri-med-laks) | Hovedrett | Thai-inspirert | 30 min + 2 t marinering | 2 |
+| 39 | [Rød karri-dumplingsuppe med reker](#39-rød-karri-dumplingsuppe-med-reker) | Hovedrett · Suppe | Thai-inspirert | ca. 30 min | 4 |
+| 40 | [Rød karri-dumplingsuppe med kylling – RealChefPaul sin versjon](#40-rød-karri-dumplingsuppe-med-kylling--realchefpaul-sin-versjon) | Hovedrett · Suppe | Thai-inspirert | ca. 25 min | 2–3 |
+| 41 | [Rød karri-dumplingsuppe med kylling – saltnpiipa sin versjon](#41-rød-karri-dumplingsuppe-med-kylling--saltnpiipa-sin-versjon) | Hovedrett · Suppe | Thai-inspirert | ca. 20–25 min | 4 |
+| 43 | [Tom yum-suppe med hjemmelagde dumplings](#43-tom-yum-suppe-med-hjemmelagde-dumplings) | Hovedrett · Suppe | Thai-inspirert | ca. 1 t | 2–3 |
+| 45 | [Rød karri-dumplingsuppe med kylling – Brendan Pang sin versjon](#45-rød-karri-dumplingsuppe-med-kylling--brendan-pang-sin-versjon) | Hovedrett · Suppe | Thai-inspirert | ca. 25 min | 4 |
+| 51 | [Mango- og kokoskarri med laks](#51-mango--og-kokoskarri-med-laks) | Hovedrett · Sjømat | Thai-inspirert | 30 min + 2 t marinering | 2 |
 | 76 | [Green curry med kylling](#76-green-curry-med-kylling) | Hovedrett | Thai | ca. 35 min | 4 |
 | 85 | [Larb gai – laotisk-thailandsk kyllingsalat](#85-larb-gai--laotisk-thailandsk-kyllingsalat) | Salat | Laotisk-thailandsk | 20 min | 4 som tilbehør |
 | 100 | [Green curry med kylling – Zena's Kitchen sin versjon](#100-green-curry-med-kylling--zenas-kitchen-sin-versjon) | Hovedrett | Thai | 1 t | 4 |
@@ -135,6 +145,7 @@ Sist oppdatert: 27. juli 2026 · 148 hovedretter, 15 sjømat, 33 supper, 33 tilb
 | T1 | [Prik Nam Pla](#t1-prik-nam-pla) | Saus/Marinade | Thai | 10 min | ca. 1 dl |
 | T35 | [Sweet chili-marinade](#t35-sweet-chili-marinade) | Saus/Marinade | Thai-inspirert | 5 min + marinering | ca. 1 dl |
 | 148 | [One-pot kylling med gul karri og ris](#148-one-pot-kylling-med-gul-karri-og-ris) | Hovedrett | Thai-inspirert | ca. 35 min | 4 |
+| 189 | [Grønn kyllingcurry med paprika og squash](#189-grønn-kyllingcurry-med-paprika-og-squash) | Hovedrett · Suppe | Thai | 45–60 min | 4 |
 
 #### Vietnamesisk
 
@@ -152,6 +163,7 @@ Sist oppdatert: 27. juli 2026 · 148 hovedretter, 15 sjømat, 33 supper, 33 tilb
 | # | Hovedrett | Type | Kjøkken | Tid | Porsjoner |
 |---|------|------|---------|-----|-----------|
 | 34 | [Sanbeiji-kylling](#34-sanbeiji-kylling) | Hovedrett | Taiwansk | 35 min | 2 |
+| S35 | [Gua bao – braisert svinesideflesk](#s35-gua-bao--braisert-svinesideflesk) | Smårett | Taiwansk | ca. 2 t | 6–8 |
 
 #### Malaysisk
 
@@ -163,9 +175,12 @@ Sist oppdatert: 27. juli 2026 · 148 hovedretter, 15 sjømat, 33 supper, 33 tilb
 
 | # | Hovedrett | Type | Kjøkken | Tid | Porsjoner |
 |---|------|------|---------|-----|-----------|
-| 44 | [Kokoskarri med laks](#44-kokoskarri-med-laks) | Hovedrett | Indisk-inspirert | ca. 30 min | 4 |
+| 44 | [Kokoskarri med laks](#44-kokoskarri-med-laks) | Hovedrett · Sjømat | Indisk-inspirert | ca. 30 min | 4 |
 | G19 | [Garam masala](#g19-garam-masala) | Grunnoppskrift | Indisk | 15 min | ca. 1 dl |
 | 179 | [Saag paneer](#179-saag-paneer) | Hovedrett | Indisk | 45 min | 4 |
+| T65 | [Hellstrøms basmatiris](#t65-hellstrøms-basmatiris) | Tilbehør | Indisk | ca. 35 min | 4 |
+| 201 | [Kylling tikka masala](#201-kylling-tikka-masala) | Hovedrett | Indisk | ca. 1 t + marinering | 4–5 |
+| 202 | [Kylling korma](#202-kylling-korma) | Hovedrett | Indisk | ca. 50 min | 4 |
 
 #### Øvrig asiatisk
 
@@ -174,18 +189,22 @@ Sist oppdatert: 27. juli 2026 · 148 hovedretter, 15 sjømat, 33 supper, 33 tilb
 | 2 | [Honning-, sitron- og hvitløkskylling](#2-honning--sitron--og-hvitløkskylling) | Hovedrett | Asiatisk-inspirert | ca. 25 min | 2 |
 | S1 | [Dumplings i rød karri- og kokossaus](#s1-dumplings-i-rød-karri--og-kokossaus) | Smårett | Asiatisk-inspirert | 20 min | 2 |
 | 10 | [Chilinudler med peanøttsmør og kjøttdeig](#10-chilinudler-med-peanøttsmør-og-kjøttdeig) | Hovedrett | Asiatisk-inspirert | 15 min | 2 |
-| 11 | [Dumplings i spicy peanøtt-udonsuppe](#11-dumplings-i-spicy-peanøtt-udonsuppe) | Hovedrett | Asiatisk-inspirert | 25 min | 2 |
+| 11 | [Dumplings i spicy peanøtt-udonsuppe](#11-dumplings-i-spicy-peanøtt-udonsuppe) | Hovedrett · Suppe | Asiatisk-inspirert | 25 min | 2 |
 | S2 | [Crispy dumplings med kylling](#s2-crispy-dumplings-med-kylling) | Smårett | Asiatisk | ca. 1 time | 4 |
 | 52 | [Spicy peanøttnudler](#52-spicy-peanøttnudler) | Hovedrett | Asiatisk-inspirert | ca. 10 min | 1 |
 | 55 | [Kyllingstrimler i chili- og sesamsaus](#55-kyllingstrimler-i-chili--og-sesamsaus) | Hovedrett | Asiatisk-inspirert | ca. 35 min | 2–3 |
-| 83 | [Honningglasert laks med hvitløk](#83-honningglasert-laks-med-hvitløk) | Hovedrett | Asiatisk-inspirert | 20 min | 2 |
+| 83 | [Honningglasert laks med hvitløk](#83-honningglasert-laks-med-hvitløk) | Hovedrett · Sjømat | Asiatisk-inspirert | 20 min | 2 |
 | 108 | [Hoisinsvin med chilimajones](#108-hoisinsvin-med-chilimajones) | Hovedrett | Asiatisk-inspirert | ca. 25 min + frysing | 3–4 |
 | 125 | [Sprø kylling i sweet chili-saus](#125-sprø-kylling-i-sweet-chili-saus) | Hovedrett | Asiatisk-inspirert | 20 min | 4 |
 | D1 | [Mango sago](#d1-mango-sago) | Dessert | Sørøstasiatisk | 20 min | 6 |
 | S6 | [Sushikopper med reker](#s6-sushikopper-med-reker) | Smårett | Asiatisk-inspirert | 25 min | 6 stykker |
 | 129 | [Honning- og hvitløkskylling – kokkelise sin versjon](#129-honning--og-hvitløkskylling--kokkelise-sin-versjon) | Hovedrett | Asiatisk-inspirert | ca. 30 min | 2–3 |
-| G15 | [Kokt ris](#g15-kokt-ris) | Grunnoppskrift | Asiatisk | 25 min | 4 |
+| T131 | [Kokt ris](#t131-kokt-ris) | Tilbehør | Asiatisk | 25 min | 4 |
 | SA1 | [Pokebowl](#sa1-pokebowl) | Salat | Hawaiiansk | 20 min | 2 |
+| T107 | [Hellstrøms vinaigrette med soya](#t107-hellstrøms-vinaigrette-med-soya) | Saus/Marinade | Asiatisk-inspirert | 5 min | ca. 1 dl |
+| T116 | [Hellstrøms soyasmørsaus](#t116-hellstrøms-soyasmørsaus) | Saus/Marinade | Fransk-japansk | 10 min | 4 |
+| S36 | [Bao-fyll med sprø kylling](#s36-bao-fyll-med-sprø-kylling) | Smårett | Asiatisk-inspirert | 35 min | 4 |
+| 205 | [Honning- og hvitløksglasert svinesideflesk](#205-honning--og-hvitløksglasert-svinesideflesk) | Hovedrett | Asiatisk-inspirert | 30 min | 3–4 (ikke oppgitt i kilden) |
 
 ### Italiensk
 
@@ -234,9 +253,9 @@ Sist oppdatert: 27. juli 2026 · 148 hovedretter, 15 sjømat, 33 supper, 33 tilb
 | B15 | [Ciabattarundstykker – liten porsjon](#b15-ciabattarundstykker--liten-porsjon) | Brød | Italiensk | ca. 2 t | 2 stykker |
 | 167 | [Lasagne alla bolognese](#167-lasagne-alla-bolognese) | Hovedrett | Italiensk | ca. 1½ t | 6 |
 | 170 | [Ossobuco alla milanese](#170-ossobuco-alla-milanese) | Hovedrett | Italiensk | ca. 3 t | 6 |
-| G9 | [Pizzadeig](#g9-pizzadeig) | Grunnoppskrift | Italiensk | 15 min + heving | 1 stor pizza |
-| G10 | [Marinara – tomatsausbase](#g10-marinara--tomatsausbase) | Grunnoppskrift | Italiensk | 45 min | ca. 1 liter |
-| G12 | [Semolinapasta](#g12-semolinapasta) | Grunnoppskrift | Italiensk | 15 min + hvile | 4 |
+| G6 | [Pizzadeig](#g6-pizzadeig) | Grunnoppskrift | Italiensk | 15 min + heving | 1 stor pizza |
+| T125 | [Marinara – tomatsausbase](#t125-marinara--tomatsausbase) | Saus/Marinade | Italiensk | 45 min | ca. 1 liter |
+| G3 | [Semolinapasta](#g3-semolinapasta) | Grunnoppskrift | Italiensk | 15 min + hvile | 4 |
 | S26 | [Frittata i langpanne](#s26-frittata-i-langpanne) | Smårett | Italiensk | 40 min | 8 |
 | SA3 | [Pastasalat med pesto](#sa3-pastasalat-med-pesto) | Salat | Italiensk | 25 min | 4 |
 | S30 | [Focacciasandwich](#s30-focacciasandwich) | Smårett | Italiensk | 15 min | 4 |
@@ -247,11 +266,28 @@ Sist oppdatert: 27. juli 2026 · 148 hovedretter, 15 sjømat, 33 supper, 33 tilb
 | D20 | [Panna cotta med gelétopping](#d20-panna-cotta-med-gelétopping) | Dessert | Italiensk | 25 min + kjøling | 6 |
 | D24 | [Semifreddo med pistasj](#d24-semifreddo-med-pistasj) | Dessert | Italiensk | 30 min + frysing | 8 |
 | D25 | [Affogato](#d25-affogato) | Dessert | Italiensk | 3 min | 4 |
-| G23 | [Pizzasaus](#g23-pizzasaus) | Grunnoppskrift | Italiensk-inspirert | 1 t 15 min + siling | ca. 6 dl |
-| G24 | [Korttidshevet pizzadeig](#g24-korttidshevet-pizzadeig) | Grunnoppskrift | Italiensk | 25 min + heving | 4 deigballer |
-| G26 | [Pizzadeig med 48 timers heving](#g26-pizzadeig-med-48-timers-heving) | Grunnoppskrift | Italiensk | 30 min + heving | 4 deigballer |
-| G27 | [Hjemmelaget mozzarella](#g27-hjemmelaget-mozzarella) | Grunnoppskrift | Italiensk | ca. 1 t 40 min | ca. 500 g |
+| T128 | [Pizzasaus](#t128-pizzasaus) | Saus/Marinade | Italiensk-inspirert | 1 t 15 min + siling | ca. 6 dl |
+| G7 | [Korttidshevet pizzadeig](#g7-korttidshevet-pizzadeig) | Grunnoppskrift | Italiensk | 25 min + heving | 4 deigballer |
+| G8 | [Pizzadeig med 48 timers heving](#g8-pizzadeig-med-48-timers-heving) | Grunnoppskrift | Italiensk | 30 min + heving | 4 deigballer |
+| G17 | [Hjemmelaget mozzarella](#g17-hjemmelaget-mozzarella) | Grunnoppskrift | Italiensk | ca. 1 t 40 min | ca. 500 g |
 | 188 | [Safranrisotto med kylling](#188-safranrisotto-med-kylling) | Hovedrett | Italiensk | ca. 45 min | 4 |
+| G10 | [Hellstrøms gnocchi](#g10-hellstrøms-gnocchi) | Grunnoppskrift | Italiensk | ca. 45 min | 2–3 |
+| 194 | [Hellstrøms risotto](#194-hellstrøms-risotto) | Hovedrett | Italiensk | ca. 25 min | 4 |
+| G9 | [Hellstrøms pizzadeig](#g9-hellstrøms-pizzadeig) | Grunnoppskrift | Italiensk | 3½ t | ca. 4 pizzaer |
+| G5 | [Hellstrøms grønne pastadeig](#g5-hellstrøms-grønne-pastadeig) | Grunnoppskrift | Italiensk | 40 min | 2 |
+| S34 | [Hellstrøms polentasticks](#s34-hellstrøms-polentasticks) | Smårett | Italiensk | 30 min + natten over | ca. 20 stykker |
+| G4 | [Hellstrøms pastadeig](#g4-hellstrøms-pastadeig) | Grunnoppskrift | Italiensk | ca. 40 min | 2 |
+| T75 | [Hellstrøms soltørkede tomater](#t75-hellstrøms-soltørkede-tomater) | Tilbehør | Italiensk | ca. 3½ t | ca. 4 dl |
+| T90 | [Hellstrøms pestosmør](#t90-hellstrøms-pestosmør) | Saus/Marinade | Italiensk | 10 min | ca. 3 dl |
+| T100 | [Hellstrøms pesto](#t100-hellstrøms-pesto) | Saus/Marinade | Italiensk | 10 min | ca. 2 dl |
+| T101 | [Hellstrøms pesto med smør](#t101-hellstrøms-pesto-med-smør) | Saus/Marinade | Italiensk | 10 min | ca. 2,5 dl |
+| T102 | [Hellstrøms gremolata](#t102-hellstrøms-gremolata) | Saus/Marinade | Italiensk | 10 min | ca. 1 dl |
+| T108 | [Hellstrøms vinaigrette med balsamico](#t108-hellstrøms-vinaigrette-med-balsamico) | Saus/Marinade | Italiensk | 5 min | ca. ¾ dl |
+| T115 | [Hellstrøms tomatsaus](#t115-hellstrøms-tomatsaus) | Saus/Marinade | Italiensk | ca. 30 min | ca. 5 dl |
+| SU23 | [Hellstrøms parmesansuppe](#su23-hellstrøms-parmesansuppe) | Suppe | Italiensk | ca. 45 min | 4 |
+| SU26 | [Hellstrøms blomkålsuppe med parmesan](#su26-hellstrøms-blomkålsuppe-med-parmesan) | Suppe | Italiensk-inspirert | ca. 45 min | 4 |
+| 203 | [Krepsehale capellini](#203-krepsehale-capellini) | Hovedrett · Sjømat | Fransk-italiensk | ca. 2 t | 4 |
+| 204 | [Pasta med hvitløkssmør](#204-pasta-med-hvitløkssmør) | Hovedrett | Italiensk-amerikansk | 20 min | 2 |
 
 ### Østlig middelhav
 
@@ -267,19 +303,26 @@ Sist oppdatert: 27. juli 2026 · 148 hovedretter, 15 sjømat, 33 supper, 33 tilb
 | T60 | [Baba ganoush](#t60-baba-ganoush) | Tilbehør | Østlig middelhav | ca. 1 t | ca. 4 dl |
 | T61 | [Kısır](#t61-kısır) | Tilbehør · Salat | Tyrkisk | 30 min | 6 |
 | G20 | [Za'atar](#g20-zaatar) | Grunnoppskrift | Østlig middelhav | 10 min | ca. 1,5 dl |
-| G21 | [Labneh](#g21-labneh) | Grunnoppskrift | Østlig middelhav | 10 min + siling | ca. 4 dl |
+| T133 | [Labneh](#t133-labneh) | Tilbehør | Østlig middelhav | 10 min + siling | ca. 4 dl |
 | F1 | [Shakshuka](#f1-shakshuka) | Frokost | Østlig middelhav | 35 min | 4 |
 | SA2 | [Kikertsalat med sitron og persille](#sa2-kikertsalat-med-sitron-og-persille) | Salat | Østlig middelhav | 15 min | 4 |
 | SA4 | [Couscoussalat med granateple og mynte](#sa4-couscoussalat-med-granateple-og-mynte) | Salat | Nordafrikansk | 20 min | 4 |
 | SA6 | [Linsesalat med feta og ristet spisskummen](#sa6-linsesalat-med-feta-og-ristet-spisskummen) | Salat | Østlig middelhav | 35 min | 4 |
 | 180 | [Fylte paprika med ris, pinjekjerner og urter](#180-fylte-paprika-med-ris-pinjekjerner-og-urter) | Hovedrett | Østlig middelhav | 1½ t | 4 |
+| T64 | [Hellstrøms couscous](#t64-hellstrøms-couscous) | Tilbehør | Østlig middelhav | 1 t | 4 |
+| T78 | [Hellstrøms kikerter med spisskummen – hummus eller suppe](#t78-hellstrøms-kikerter-med-spisskummen--hummus-eller-suppe) | Tilbehør | Nordafrikansk | ca. 2½ t + bløtlegging | 4 |
+| T79 | [Hellstrøms gulrøtter bakt med spisskummen](#t79-hellstrøms-gulrøtter-bakt-med-spisskummen) | Tilbehør | Nordafrikansk | ca. 45 min | 4 |
+| T89 | [Hellstrøms sitron i salt](#t89-hellstrøms-sitron-i-salt) | Tilbehør | Nordafrikansk | 10 min + flere uker | 4–6 sitroner |
+| T103 | [Hellstrøms tzatziki](#t103-hellstrøms-tzatziki) | Saus/Marinade | Gresk | 25 min | 4 |
+| 206 | [Smashed beef kabob med agurkyoghurt](#206-smashed-beef-kabob-med-agurkyoghurt) | Hovedrett | Persisk-inspirert | 25 min | 4 (ikke oppgitt i kilden) |
+| SU33 | [Kylling- og linsesuppe med sitronyoghurt](#su33-kylling--og-linsesuppe-med-sitronyoghurt) | Suppe | Persisk-inspirert | ca. 1 t 15 min | 6 (ikke oppgitt i kilden) |
 
 ### Vestlig
 
 | # | Hovedrett | Type | Kjøkken | Tid | Porsjoner |
 |---|------|------|---------|-----|-----------|
 | 33 | [Kremet soppkylling](#33-kremet-soppkylling) | Hovedrett | Vestlig | 30 min | 2 |
-| 75 | [Pannestekt laks med tzatziki og ris (lavFODMAP)](#75-pannestekt-laks-med-tzatziki-og-ris-lavfodmap) | Hovedrett | Norsk-gresk | ca. 30 min | 2 |
+| 75 | [Pannestekt laks med tzatziki og ris (lavFODMAP)](#75-pannestekt-laks-med-tzatziki-og-ris-lavfodmap) | Hovedrett · Sjømat | Norsk-gresk | ca. 30 min | 2 |
 | 93 | [Taco-salatbowl med kylling](#93-taco-salatbowl-med-kylling) | Salat | Meksikansk-inspirert | 25 min | 4 |
 | 94 | [Fajitasalat med kylling](#94-fajitasalat-med-kylling) | Salat | Meksikansk-inspirert | ca. 30 min | 2 |
 | 96 | [Sprø kyllingstrimler i airfryer](#96-sprø-kyllingstrimler-i-airfryer) | Hovedrett | Amerikansk | ca. 25 min | 3–4 |
@@ -299,10 +342,10 @@ Sist oppdatert: 27. juli 2026 · 148 hovedretter, 15 sjømat, 33 supper, 33 tilb
 | 118 | [Hachis parmentier – fransk cottage pie](#118-hachis-parmentier--fransk-cottage-pie) | Hovedrett | Fransk | ca. 4½ t | 6 |
 | 119 | [Langstekt oksehale](#119-langstekt-oksehale) | Hovedrett | Vestlig | ca. 5 t | 4 |
 | 120 | [Chili sin carne](#120-chili-sin-carne) | Hovedrett | Tex-Mex | 1 t | 4 |
-| 121 | [Helstekt kylling med hvitløk – Hellstrøm sin versjon](#121-helstekt-kylling-med-hvitløk--hellstrøm-sin-versjon) | Hovedrett | Fransk | ca. 1½ t | 4 |
+| 121 | [Hellstrøms helstekte kylling med hvitløk](#121-hellstrøms-helstekte-kylling-med-hvitløk) | Hovedrett | Fransk | ca. 1½ t | 4 |
 | 122 | [Braiserte kyllingtacos](#122-braiserte-kyllingtacos) | Hovedrett | Tex-Mex | ca. 50 min | 4–6 |
 | 126 | [Kyllingquesadillas](#126-kyllingquesadillas) | Hovedrett | Meksikansk-inspirert | 20 min | 4 |
-| 123 | [Kjøttboller i tomatsaus – Hellstrøm sin versjon](#123-kjøttboller-i-tomatsaus--hellstrøm-sin-versjon) | Hovedrett | Norsk | ca. 1½ t | 8–10 |
+| 123 | [Hellstrøms kjøttboller i tomatsaus](#123-hellstrøms-kjøttboller-i-tomatsaus) | Hovedrett | Norsk | ca. 1½ t | 8–10 |
 | 124 | [Steak Diane](#124-steak-diane) | Hovedrett | Fransk | ca. 25 min | 2 |
 | 112 | [Hvitløks- og urtekylling med ovnsbakte gulrøtter og potetmos](#112-hvitløks--og-urtekylling-med-ovnsbakte-gulrøtter-og-potetmos) | Hovedrett | Amerikansk | ca. 40 min | 4 |
 | 113 | [Braisert oksehale med mac and cheese, søtpotet og grønnkål](#113-braisert-oksehale-med-mac-and-cheese-søtpotet-og-grønnkål) | Hovedrett | Amerikansk | ca. 3½ t | 4 |
@@ -331,7 +374,7 @@ Sist oppdatert: 27. juli 2026 · 148 hovedretter, 15 sjømat, 33 supper, 33 tilb
 | SU10 | [Kyllingsuppe med pasta og grønnsaker](#su10-kyllingsuppe-med-pasta-og-grønnsaker) | Suppe | Fransk | 35 min | 4 |
 | SU11 | [Fransk løksuppe – Géraldine sin versjon](#su11-fransk-løksuppe--géraldine-sin-versjon) | Suppe | Fransk | 1 t 15 min | 4 |
 | SU13 | [Vegetarisk linsegryte](#su13-vegetarisk-linsegryte) | Suppe | Fransk | 40 min | 4 |
-| G3 | [Majones](#g3-majones) | Grunnoppskrift | Fransk | 10 min | ca. 3,5 dl |
+| T122 | [Majones](#t122-majones) | Saus/Marinade | Fransk | 10 min | ca. 3,5 dl |
 | T14 | [Chimichurri](#t14-chimichurri) | Saus/Marinade | Argentinsk | 10 min | ca. 1,5 dl |
 | T15 | [Aioli](#t15-aioli) | Saus/Marinade | Provençalsk | 20 min | ca. 1 dl |
 | T17 | [Fondantpoteter](#t17-fondantpoteter) | Tilbehør | Fransk | 1 t 10 min | 4 |
@@ -415,21 +458,21 @@ Sist oppdatert: 27. juli 2026 · 148 hovedretter, 15 sjømat, 33 supper, 33 tilb
 | B11 | [Enkle baguetter](#b11-enkle-baguetter) | Brød | Fransk-inspirert | ca. 2 t | 2 baguetter |
 | B12 | [Baguetter med damp](#b12-baguetter-med-damp) | Brød | Fransk | ca. 2½ t | 2 baguetter |
 | B14 | [Proteinbrød](#b14-proteinbrød) | Brød | Norsk | ca. 1 t | 1 brød |
-| G4 | [Saltkaramellsaus](#g4-saltkaramellsaus) | Grunnoppskrift | Vestlig | 20 min | ca. 3 dl |
-| G5 | [Tortillas med gresk yoghurt](#g5-tortillas-med-gresk-yoghurt) | Grunnoppskrift | Vestlig | ca. 50 min | 16 små eller 8 store |
+| T123 | [Saltkaramellsaus](#t123-saltkaramellsaus) | Saus/Marinade | Vestlig | 20 min | ca. 3 dl |
+| G14 | [Tortillas med gresk yoghurt](#g14-tortillas-med-gresk-yoghurt) | Grunnoppskrift | Vestlig | ca. 50 min | 16 små eller 8 store |
 | 168 | [Biff stroganoff](#168-biff-stroganoff) | Hovedrett | Russisk | ca. 2½ t | 4–6 |
 | 169 | [Braisert lammeskank med gremolata](#169-braisert-lammeskank-med-gremolata) | Hovedrett | Vestlig | ca. 3½ t | 4 |
 | 171 | [Ungarsk gulasj](#171-ungarsk-gulasj) | Suppe | Ungarsk | ca. 3½ t | 6 |
 | 172 | [Carne asada](#172-carne-asada) | Hovedrett | Meksikansk | 25 min + marinering | 4 |
 | 173 | [Blanquette de veau](#173-blanquette-de-veau) | Hovedrett | Fransk | ca. 2 t | 4 |
-| G6 | [Kyllingkraft](#g6-kyllingkraft) | Grunnoppskrift | Vestlig | ca. 4 t | ca. 2 liter |
-| G8 | [Bechamel](#g8-bechamel) | Grunnoppskrift | Fransk | 20 min | ca. 1 liter |
-| G11 | [Grønnsakskraft](#g11-grønnsakskraft) | Grunnoppskrift | Vestlig | 1 t | ca. 2 liter |
-| G13 | [Syltet rødløk](#g13-syltet-rødløk) | Grunnoppskrift | Vestlig | 20 min | ca. 4 dl |
-| G14 | [Hurtigsylting av agurk og gulrot](#g14-hurtigsylting-av-agurk-og-gulrot) | Grunnoppskrift | Vestlig | 15 min | ca. 5 dl |
-| G16 | [Konfitert hvitløk](#g16-konfitert-hvitløk) | Grunnoppskrift | Vestlig | 1 t | ca. 3 dl |
-| G17 | [Brunet smør og ghee](#g17-brunet-smør-og-ghee) | Grunnoppskrift | Vestlig | 15 min | ca. 2 dl |
-| G22 | [Vinaigrette](#g22-vinaigrette) | Grunnoppskrift | Fransk | 5 min | ca. 1,5 dl |
+| G22 | [Kyllingkraft](#g22-kyllingkraft) | Grunnoppskrift | Vestlig | ca. 4 t | ca. 2 liter |
+| T124 | [Bechamel](#t124-bechamel) | Saus/Marinade | Fransk | 20 min | ca. 1 liter |
+| G30 | [Grønnsakskraft](#g30-grønnsakskraft) | Grunnoppskrift | Vestlig | 1 t | ca. 2 liter |
+| T129 | [Syltet rødløk](#t129-syltet-rødløk) | Tilbehør | Vestlig | 20 min | ca. 4 dl |
+| T130 | [Hurtigsylting av agurk og gulrot](#t130-hurtigsylting-av-agurk-og-gulrot) | Tilbehør | Vestlig | 15 min | ca. 5 dl |
+| T132 | [Konfitert hvitløk](#t132-konfitert-hvitløk) | Tilbehør | Vestlig | 1 t | ca. 3 dl |
+| T126 | [Brunet smør og ghee](#t126-brunet-smør-og-ghee) | Saus/Marinade | Vestlig | 15 min | ca. 2 dl |
+| T127 | [Vinaigrette](#t127-vinaigrette) | Saus/Marinade | Fransk | 5 min | ca. 1,5 dl |
 | F2 | [Amerikanske pannekaker](#f2-amerikanske-pannekaker) | Frokost | Amerikansk | 20 min | 2 |
 | F3 | [Fransk eggerøre](#f3-fransk-eggerøre) | Frokost | Fransk | 15 min | 2 |
 | F4 | [Eggs Benedict](#f4-eggs-benedict) | Frokost | Amerikansk | 30 min | 2 |
@@ -463,76 +506,181 @@ Sist oppdatert: 27. juli 2026 · 148 hovedretter, 15 sjømat, 33 supper, 33 tilb
 | 185 | [Nachos med kjøttdeig og chorizo](#185-nachos-med-kjøttdeig-og-chorizo) | Hovedrett | Tex-Mex | ca. 40 min | 4 |
 | T62 | [Hasselbackpoteter – Matprat sin versjon](#t62-hasselbackpoteter--matprat-sin-versjon) | Tilbehør | Svensk | ca. 55 min | 4 |
 | B17 | [Eltefritt landbrød](#b17-eltefritt-landbrød) | Brød | Norsk | 20 min + heving | 1 brød |
-| G25 | [Maistortillas](#g25-maistortillas) | Grunnoppskrift | Meksikansk | 30 min + hvile | 12 stykker |
+| G15 | [Maistortillas](#g15-maistortillas) | Grunnoppskrift | Meksikansk | 30 min + hvile | 12 stykker |
 | S32 | [Jalapeño-poppers](#s32-jalapeño-poppers) | Smårett | Amerikansk | 60 min | 4 |
 | 186 | [Langtidsstekt ribbe](#186-langtidsstekt-ribbe) | Hovedrett | Norsk | ca. 7 t + salting | 6–8 |
 | T63 | [Pommes frites](#t63-pommes-frites) | Tilbehør | Fransk | ca. 1 t + tørketid | 4 |
 | SJ16 | [Ovnsbakt laks med poteter, grønnsaker og pesto](#sj16-ovnsbakt-laks-med-poteter-grønnsaker-og-pesto) | Sjømat | Nordisk | ca. 50 min | 4 |
 | 187 | [Lammeskank i rødvin](#187-lammeskank-i-rødvin) | Hovedrett | Middelhavsinspirert | ca. 3½ t | 4 |
+| S33 | [Pizzasnurrer](#s33-pizzasnurrer) | Smårett | Amerikansk | 25 min | 12 stykker |
+| D32 | [Mini-ostekaker med Biscoff](#d32-mini-ostekaker-med-biscoff) | Dessert | Amerikansk | 25 min + kjøling | 6 |
+| D33 | [Biscoff-ostekake](#d33-biscoff-ostekake) | Dessert | Amerikansk | 20 min + kjøling | 16 |
+| D34 | [Ostekake med saltkaramell](#d34-ostekake-med-saltkaramell) | Dessert | Norsk | 30 min + kjøling | 10 |
+| 193 | [Estragonkylling](#193-estragonkylling) | Hovedrett | Fransk | ca. 30 min | 2 |
+| F12 | [Hellstrøms franske eggerøre](#f12-hellstrøms-franske-eggerøre) | Frokost | Fransk | ca. 10 min | 1 |
+| F13 | [Hellstrøms franske omelett](#f13-hellstrøms-franske-omelett) | Frokost | Fransk | ca. 5 min | 1 |
+| F14 | [Hellstrøms tortilla-omelett](#f14-hellstrøms-tortilla-omelett) | Frokost | Spansk | ca. 15 min | 2 |
+| F15 | [3–6–9 minutters egg](#f15-hellstrøms-369-minutters-egg) | Frokost · Tilbehør | Fransk | 3–9 min | Etter behov |
+| F16 | [Hellstrøms posjerte egg](#f16-hellstrøms-posjerte-egg) | Frokost · Tilbehør | Fransk | ca. 10 min | 4 |
+| G12 | [Hellstrøms pannekakerøre](#g12-hellstrøms-pannekakerøre) | Grunnoppskrift | Norsk | ca. 20 min | ca. 12 pannekaker |
+| G16 | [Hellstrøms tacolefser](#g16-hellstrøms-tacolefser) | Grunnoppskrift | Meksikansk | ca. 30 min | ca. 25 lefser |
+| B19 | [Hellstrøms hamburgerbrød](#b19-hellstrøms-hamburgerbrød) | Brød | Amerikansk | ca. 2 t | ca. 16 brød |
+| T66 | [Hellstrøms potetgrateng](#t66-hellstrøms-potetgrateng) | Tilbehør | Fransk | ca. 1 t 15 min | 4 |
+| T67 | [Hellstrøms mandelpotetpuré](#t67-hellstrøms-mandelpotetpuré) | Tilbehør | Fransk | ca. 30 min | 4 |
+| T68 | [Hellstrøms bakte poteter](#t68-hellstrøms-bakte-poteter) | Tilbehør | Vestlig | ca. 1 t | 4 |
+| T69 | [Hellstrøms pommes frites](#t69-hellstrøms-pommes-frites) | Tilbehør | Fransk | ca. 40 min + bløtlegging og nedkjøling | 4 |
+| T70 | [Hellstrøms potetkake](#t70-hellstrøms-potetkake) | Tilbehør | Sveitsisk-fransk | ca. 25 min | 2 |
+| T71 | [Hellstrøms franske potetpannekaker](#t71-hellstrøms-franske-potetpannekaker) | Tilbehør | Fransk | ca. 45 min | ca. 12 pannekaker |
+| T72 | [Hellstrøms potetsalat](#t72-hellstrøms-potetsalat) | Tilbehør · Salat | Fransk | ca. 30 min | 4 |
+| T73 | [Hellstrøms ratatouille](#t73-hellstrøms-ratatouille) | Tilbehør | Provençalsk | ca. 1 t 15 min | 8 |
+| T74 | [Hellstrøms rødkål med fiken](#t74-hellstrøms-rødkål-med-fiken) | Tilbehør | Norsk | ca. 45 min | 6 |
+| T76 | [Hellstrøms grønne linser](#t76-hellstrøms-grønne-linser) | Tilbehør | Fransk | ca. 1 t | 4 |
+| T77 | [Hellstrøms grønne ertepuré](#t77-hellstrøms-grønne-ertepuré) | Tilbehør | Fransk | ca. 10 min | 4 |
+| T80 | [Hellstrøms gulrøtter med ingefær og koriander](#t80-hellstrøms-gulrøtter-med-ingefær-og-koriander) | Tilbehør | Norsk | ca. 25 min | 4 |
+| SA7 | [Hellstrøms cæsarsalat](#sa7-hellstrøms-cæsarsalat) | Salat | Amerikansk | ca. 20 min | 4 |
+| T81 | [Hellstrøms kantareller](#t81-hellstrøms-kantareller) | Tilbehør | Fransk | ca. 20 min | 4 |
+| T82 | [Hellstrøms løkkompott](#t82-hellstrøms-løkkompott) | Tilbehør | Fransk | ca. 1 t | ca. 4 dl |
+| T83 | [Hellstrøms paprikakompott](#t83-hellstrøms-paprikakompott) | Tilbehør | Provençalsk | ca. 45 min | 4 |
+| T84 | [Hellstrøms auberginekompott](#t84-hellstrøms-auberginekompott) | Tilbehør | Middelhavsinspirert | ca. 1 t | 4 |
+| T85 | [Hellstrøms saltbakte sjalottløk](#t85-hellstrøms-saltbakte-sjalottløk) | Tilbehør | Fransk | ca. 40 min | 4 |
+| T86 | [Hellstrøms purreløk](#t86-hellstrøms-purreløk) | Tilbehør | Fransk | ca. 15 min | 4 |
+| T87 | [Hellstrøms hvitløkspuré](#t87-hellstrøms-hvitløkspuré) | Tilbehør | Fransk | ca. 40 min | ca. 2 dl |
+| T88 | [Hellstrøms syltede rødløk](#t88-hellstrøms-syltede-rødløk) | Tilbehør | Vestlig | ca. 10 min | ca. 6 dl |
+| T91 | [Hellstrøms ansjossmør](#t91-hellstrøms-ansjossmør) | Saus/Marinade | Fransk | 10 min + kjøling | ca. 130 g |
+| T92 | [Hellstrøms vierge-saus](#t92-hellstrøms-vierge-saus) | Saus/Marinade | Fransk | ca. 40 min | 6 |
+| T93 | [Hellstrøms tartarsaus](#t93-hellstrøms-tartarsaus) | Saus/Marinade | Fransk | 15 min | 6–8 |
+| T94 | [Hellstrøms cæsardressing](#t94-hellstrøms-cæsardressing) | Saus/Marinade | Amerikansk | 10 min | ca. 6 dl |
+| T95 | [Hellstrøms ananas- og mangosalsa](#t95-hellstrøms-ananas--og-mangosalsa) | Saus/Marinade | Meksikansk-inspirert | 15 min | 4 |
+| T96 | [Hellstrøms guacamole](#t96-hellstrøms-guacamole) | Saus/Marinade | Meksikansk | 15 min | ca. 5 dl |
+| T97 | [Hellstrøms spinatsaus](#t97-hellstrøms-spinatsaus) | Saus/Marinade | Fransk | 15 min | 4 |
+| SU19 | [Hellstrøms squashsuppe](#su19-hellstrøms-squashsuppe) | Suppe | Fransk | ca. 30 min | 4 |
+| T98 | [Hellstrøms salsa verde](#t98-hellstrøms-salsa-verde) | Saus/Marinade | Meksikansk-inspirert | 10 min | 8–10 |
+| T99 | [Hellstrøms sennepssaus](#t99-hellstrøms-sennepssaus) | Saus/Marinade | Norsk | 15 min | 4 |
+| T104 | [Hellstrøms aioli](#t104-hellstrøms-aioli) | Saus/Marinade | Provençalsk | 10 min | ca. 3,5 dl |
+| T105 | [Hellstrøms majones](#t105-hellstrøms-majones) | Saus/Marinade | Fransk | 10 min | ca. 3 dl |
+| T106 | [Hellstrøms grønne olje](#t106-hellstrøms-grønne-olje) | Saus/Marinade | Fransk | 15 min | ca. 2 dl |
+| T109 | [Hellstrøms franske vinaigrette med dijon](#t109-hellstrøms-franske-vinaigrette-med-dijon) | Saus/Marinade | Fransk | 5 min | ca. 1,2 dl |
+| T110 | [Hellstrøms franske vinaigrette med kajenne](#t110-hellstrøms-franske-vinaigrette-med-kajenne) | Saus/Marinade | Fransk | 5 min | ca. 4 dl |
+| T111 | [Hellstrøms persillesmør](#t111-hellstrøms-persillesmør) | Saus/Marinade | Fransk | 15 min + kjøling | ca. 300 g |
+| T112 | [Hellstrøms rødvinssmør](#t112-hellstrøms-rødvinssmør) | Saus/Marinade | Fransk | ca. 40 min + kjøling | ca. 350 g |
+| T113 | [Hellstrøms beurre noisette](#t113-hellstrøms-beurre-noisette) | Saus/Marinade | Fransk | 5 min | ca. 80 g |
+| T114 | [Hellstrøms beurre blanc](#t114-hellstrøms-beurre-blanc) | Saus/Marinade | Fransk | ca. 20 min | 4 |
+| T117 | [Hellstrøms béarnaisesaus](#t117-hellstrøms-béarnaisesaus) | Saus/Marinade | Fransk | ca. 30 min | 4 |
+| T118 | [Hellstrøms brune saus](#t118-hellstrøms-brune-saus) | Saus/Marinade | Norsk | ca. 30 min | ca. 5 dl |
+| T119 | [Hellstrøms fløtesaus](#t119-hellstrøms-fløtesaus) | Saus/Marinade | Fransk | ca. 25 min | 4 |
+| T120 | [Hellstrøms universalsaus](#t120-hellstrøms-universalsaus) | Saus/Marinade | Fransk-asiatisk | 5 min | ca. 1 dl |
+| T121 | [Hellstrøms bechamelsaus](#t121-hellstrøms-bechamelsaus) | Saus/Marinade | Fransk | 20 min | ca. 8 dl |
+| SU20 | [Hellstrøms blåskjellsuppe](#su20-hellstrøms-blåskjellsuppe) | Suppe · Sjømat | Fransk | ca. 25 min | 2 |
+| SU21 | [Hellstrøms løksuppe](#su21-hellstrøms-løksuppe) | Suppe | Fransk | ca. 1 t | 4 |
+| SU22 | [Hellstrøms rødbetsuppe](#su22-hellstrøms-rødbetsuppe) | Suppe | Nordisk | ca. 1 t | 4 |
+| SU24 | [Hellstrøms gazpacho](#su24-hellstrøms-gazpacho) | Suppe | Spansk | ca. 45 min + kjøling | 6 |
+| SU25 | [Hellstrøms tomatsuppe](#su25-hellstrøms-tomatsuppe) | Suppe | Vestlig | ca. 1½ t | 4 |
+| SU27 | [Hellstrøms gulrotsuppe](#su27-hellstrøms-gulrotsuppe) | Suppe | Fransk-inspirert | ca. 45 min | 4 |
+| SU28 | [Hellstrøms sjampinjongsuppe](#su28-hellstrøms-sjampinjongsuppe) | Suppe | Fransk | ca. 45 min | 4 |
+| SU29 | [Hellstrøms aspargessuppe](#su29-hellstrøms-aspargessuppe) | Suppe | Fransk | ca. 40 min | 4 |
+| G25 | [Hellstrøms kalvekraft](#g25-hellstrøms-kalvekraft) | Grunnoppskrift | Fransk | ca. 8 t | ca. 2 l |
+| G24 | [Hellstrøms mørke kyllingkraft](#g24-hellstrøms-mørke-kyllingkraft) | Grunnoppskrift | Fransk | ca. 1½ t | ca. 1 l |
+| G23 | [Hellstrøms lyse kyllingkraft](#g23-hellstrøms-lyse-kyllingkraft) | Grunnoppskrift | Fransk | 1–3 t | ca. 1 l |
+| G26 | [Hellstrøms fiskekraft](#g26-hellstrøms-fiskekraft) | Grunnoppskrift | Fransk | 1–2 t | ca. 2 l |
+| G27 | [Hellstrøms blåskjellkraft](#g27-hellstrøms-blåskjellkraft) | Grunnoppskrift | Fransk | ca. 15 min | ca. 5 dl |
+| G28 | [Hellstrøms skalldyrkraft](#g28-hellstrøms-skalldyrkraft) | Grunnoppskrift | Fransk | ca. 50 min | ca. 1 l |
+| G29 | [Hellstrøms kortbuljong – court bouillon](#g29-hellstrøms-kortbuljong--court-bouillon) | Grunnoppskrift | Fransk | ca. 30 min | ca. 1,2 l |
+| G31 | [Hellstrøms grønnsakkraft](#g31-hellstrøms-grønnsakkraft) | Grunnoppskrift | Vestlig | 1–2 t | ca. 2 l |
+| 199 | [Medisterkaker](#199-medisterkaker) | Hovedrett | Norsk | 40–60 min | 4–6 |
+| 200 | [Pinnekjøtt](#200-pinnekjøtt) | Hovedrett | Norsk | ca. 3 t + 30 t utvanning | 5 |
+| SU30 | [Kremet fiskesuppe](#su30-kremet-fiskesuppe) | Suppe · Sjømat | Norsk | 20–40 min | 4 |
+| SU31 | [Hummerbisque](#su31-hummerbisque) | Suppe · Sjømat | Fransk | ca. 1½ t | 4 |
+| SU32 | [Skalldyrbisque med sjøkreps og reker](#su32-skalldyrbisque-med-sjøkreps-og-reker) | Suppe · Sjømat | Fransk | ca. 2 t | 2 |
+| 207 | [Cottage pie](#207-cottage-pie) | Hovedrett | Britisk | ca. 1½ t | 6 (ikke oppgitt i kilden) |
+| 208 | [Chipotle bowl](#208-chipotle-bowl) | Hovedrett | Meksikansk-inspirert | 45 min + minst 15 min marinering | 4 (ikke oppgitt i kilden) |
+| T142 | [Ovnsristet elote](#t142-ovnsristet-elote) | Tilbehør | Meksikansk-inspirert | 45 min | 4 |
+| 210 | [Proteinbowl med airfryer-poteter, kjøttdeig og cottage cheese](#210-proteinbowl-med-airfryer-poteter-kjøttdeig-og-cottage-cheese) | Hovedrett | Amerikansk | ca. 25 min | 1 |
 
 > Dumplingsrettene S1–S5 sto tidligere også som hovedrett (nr. 9, 17, 28, 37 og 46). Oppskriftene står nå i sin helhet under S-nummeret.
 
 ---
+| 195 | [Kjøttkaker med kålstuing](#195-kjøttkaker-med-kålstuing) | Hovedrett | Norsk | 40–60 min | 4 |
+| 196 | [Fårikål](#196-fårikål) | Hovedrett | Norsk | ca. 2½ t | 4 |
+| 197 | [Lapskaus](#197-lapskaus) | Hovedrett | Norsk | ca. 2 t | 4 |
+| B20 | [Vafler](#b20-vafler) | Bakverk | Norsk | 20–40 min + 30 min svelling | ca. 10 plater |
+| SJ17 | [Hjemmelagede fiskekaker](#sj17-hjemmelagede-fiskekaker) | Sjømat | Norsk | 40–60 min | 4 |
+| T135 | [Kokte poteter](#t135-kokte-poteter) | Tilbehør | Norsk | 25 min | 4 |
+| T136 | [Ertepuré](#t136-ertepuré) | Tilbehør | Norsk | 15 min | 4 |
+| T137 | [Rørte tyttebær](#t137-rørte-tyttebær) | Tilbehør | Norsk | 10 min + 1 døgn | ca. 5 dl |
+| T138 | [Surkål](#t138-surkål) | Tilbehør | Norsk | ca. 1 t | 6–8 |
+| 198 | [Fiskegrateng](#198-fiskegrateng) | Hovedrett · Sjømat | Norsk | 40–60 min | 4 |
+| T139 | [Potetmos](#t139-potetmos) | Tilbehør | Vestlig | 30 min | 4 |
+| T140 | [Ostedipp med chèvre og rømme](#t140-ostedipp-med-chèvre-og-rømme) | Saus/Marinade | Norsk | 15 min | ca. 4 dl |
 
 ## Lett og proteinrik
 
-51 retter under 700 kcal med minst 30 g protein per porsjon. Beregnet fra ingredienslistene, ikke vurdert for hånd — listen genereres på nytt hver gang makroene kjøres.
+63 retter under 700 kcal med minst 30 g protein per porsjon. Beregnet fra ingredienslistene med `naering.py` – listen genereres på nytt, ikke vedlikeholdes for hånd. Tallene er anslag med rundt 15 % usikkerhet, siden kokesvinn, merkevarer og uveide ingredienser slår inn. **314 av samlingens 509 oppskrifter lar seg beregne**; av de øvrige mangler 101 porsjonsangivelse (mest sauser og tilbehør), 53 har ingen proteinkilde, og 41 har en ingrediens `naering.py` ikke kjenner. 95 er tatt med selv om den ligger like under proteingrensen.
 
-| # | Rett | kcal | Protein | Oppvarming |
-|---|------|------|---------|------------|
-| 96 | [Sprø kyllingstrimler i airfryer](#96-sprø-kyllingstrimler-i-airfryer) | 490 | 67.7 g | dårlig |
-| SJ13 | [Tunfisk- og tomatsuppe](#sj13-tunfisk--og-tomatsuppe) | 408 | 54.0 g | god |
-| 114 | [Proteinrik pizza med yoghurtbunn](#114-proteinrik-pizza-med-yoghurtbunn) | 639 | 74.8 g | god |
-| 55 | [Kyllingstrimler i chili- og sesamsaus](#55-kyllingstrimler-i-chili--og-sesamsaus) | 521 | 58.5 g | god |
-| 134 | [Poulet à la moutarde – kremet dijonkylling](#134-poulet-à-la-moutarde--kremet-dijonkylling) | 410 | 45.5 g | god |
-| 56 | [Katsu curry](#56-katsu-curry) | 504 | 50.6 g | dårlig |
-| S15 | [Tuna melt med avokadodressing](#s15-tuna-melt-med-avokadodressing) | 594 | 58.0 g | ukjent |
-| 107 | [Ovnsstekt svinekam med dijon og rosmarin](#107-ovnsstekt-svinekam-med-dijon-og-rosmarin) | 540 | 53.0 g | god |
-| 159 | [Birria – Daniela sin versjon](#159-birria--daniela-sin-versjon) | 574 | 55.8 g | ukjent |
-| 139 | [Sprø rissalat med kylling og gochujangmajones](#139-sprø-rissalat-med-kylling-og-gochujangmajones) | 570 | 54.6 g | dårlig |
-| 150 | [Sumakkylling med havrerissalat og hvitløksyoghurt](#150-sumakkylling-med-havrerissalat-og-hvitløksyoghurt) | 460 | 42.7 g | dårlig |
-| SJ10 | [Amok – kambodsjansk fiskekarri](#sj10-amok--kambodsjansk-fiskekarri) | 338 | 30.1 g | god |
-| 122 | [Braiserte kyllingtacos](#122-braiserte-kyllingtacos) | 378 | 33.2 g | god |
-| 123 | [Kjøttboller i tomatsaus – Hellstrøm sin versjon](#123-kjøttboller-i-tomatsaus--hellstrøm-sin-versjon) | 372 | 32.1 g | god |
-| 137 | [Chili con carne – Andy Cooks sin versjon](#137-chili-con-carne--andy-cooks-sin-versjon) | 552 | 46.8 g | god |
-| 105 | [Pot roast – braisert høyrygg med rotgrønnsaker](#105-pot-roast--braisert-høyrygg-med-rotgrønnsaker) | 689 | 57.6 g | god |
-| SJ6 | [Koreanske laksebiter](#sj6-koreanske-laksebiter) | 663 | 51.8 g | god |
-| 26 | [Yam Nua – thai biffsalat](#26-yam-nua--thai-biffsalat) | 431 | 33.0 g | dårlig |
-| 90 | [Sesamkylling (sesame chicken)](#90-sesamkylling-sesame-chicken) | 616 | 45.3 g | god |
-| 117 | [Kremet hvitløks- og paprikakylling](#117-kremet-hvitløks--og-paprikakylling) | 698 | 50.8 g | god |
-| 93 | [Taco-salatbowl med kylling](#93-taco-salatbowl-med-kylling) | 463 | 33.7 g | dårlig |
-| 34 | [Sanbeiji-kylling](#34-sanbeiji-kylling) | 684 | 49.8 g | god |
-| 115 | [Boeuf bourguignon](#115-boeuf-bourguignon) | 578 | 41.9 g | god |
-| 136 | [Chili- og limekylling](#136-chili--og-limekylling) | 636 | 45.3 g | god |
-| 89 | [Miso-laks](#89-miso-laks) | 691 | 48.6 g | god |
-| 88 | [Kyllingwok med blandede grønnsaker](#88-kyllingwok-med-blandede-grønnsaker) | 639 | 44.9 g | god |
-| 77 | [Yam Nua – Andy Cooks sin versjon](#77-yam-nua--andy-cooks-sin-versjon) | 686 | 46.6 g | god |
-| SU17 | [Kremet hvitbønnesuppe med parmesan](#su17-kremet-hvitbønnesuppe-med-parmesan) | 518 | 34.5 g | god |
-| 143 | [Spaghetti med kremet squashsaus og blåskjell](#143-spaghetti-med-kremet-squashsaus-og-blåskjell) | 520 | 34.8 g | god |
-| 146 | [Harissakylling med kremete bønner](#146-harissakylling-med-kremete-bønner) | 619 | 40.9 g | god |
-| 21 | [Shio-ramen](#21-shio-ramen) | 557 | 37.0 g | god |
-| 7 | [Andy Cooks sin Pad Kra Pao](#7-andy-cooks-sin-pad-kra-pao) | 581 | 37.0 g | god |
-| 126 | [Kyllingquesadillas](#126-kyllingquesadillas) | 689 | 42.9 g | ukjent |
-| 95 | [Cottage cheese-salat med finhakkede grønnsaker](#95-cottage-cheese-salat-med-finhakkede-grønnsaker) | 655 | 40.9 g | dårlig |
-| 24 | [Sjømat-ramen](#24-sjømat-ramen) | 615 | 37.7 g | god |
-| SU16 | [Hvitbønnegryte med tomat og spinat](#su16-hvitbønnegryte-med-tomat-og-spinat) | 574 | 34.8 g | god |
-| 144 | [One-pot risoni med reker og fetaost](#144-one-pot-risoni-med-reker-og-fetaost) | 606 | 36.6 g | god |
-| 98 | [Kinesiske grønne bønner med svinekjøttdeig](#98-kinesiske-grønne-bønner-med-svinekjøttdeig) | 505 | 30.4 g | god |
-| 57 | [Korean fried chicken](#57-korean-fried-chicken) | 581 | 33.6 g | god |
-| 83 | [Honningglasert laks med hvitløk](#83-honningglasert-laks-med-hvitløk) | 697 | 40.3 g | god |
-| 74 | [Porchetta](#74-porchetta) | 636 | 35.9 g | ukjent |
-| 131 | [Kremet kylling med gnocchi](#131-kremet-kylling-med-gnocchi) | 607 | 33.6 g | god |
-| SU7 | [Minestrone](#su7-minestrone) | 593 | 30.8 g | god |
-| SJ11 | [Lohikeitto – finsk laksesuppe](#sj11-lohikeitto--finsk-laksesuppe) | 672 | 34.4 g | god |
-| 59 | [Krydrede lammekjøttboller med agurk- og yoghurtsaus](#59-krydrede-lammekjøttboller-med-agurk--og-yoghurtsaus) | 695 | 35.4 g | god |
-| 4 | [Pad Kra Pao](#4-pad-kra-pao) | 652 | 32.7 g | god |
-| 44 | [Kokoskarri med laks](#44-kokoskarri-med-laks) | 628 | 31.6 g | god |
-| 29 | [Ovnsstekt koreansk kylling](#29-ovnsstekt-koreansk-kylling) | 671 | 33.1 g | god |
-| 10 | [Chilinudler med peanøttsmør og kjøttdeig](#10-chilinudler-med-peanøttsmør-og-kjøttdeig) | 642 | 30.9 g | god |
-| 80 | [Korean beef bowl – koreansk kjøttdeig med gochujangsaus](#80-korean-beef-bowl--koreansk-kjøttdeig-med-gochujangsaus) | 699 | 31.4 g | god |
-| 147 | [Sprø peruansk kylling med ají verde og maissalsa](#147-sprø-peruansk-kylling-med-ají-verde-og-maissalsa) | 694 | 30.4 g | dårlig |
-
----
+| # | Rett | kcal | Protein |
+|---|------|------|---------|
+| 96 | [Sprø kyllingstrimler i airfryer](#96-sprø-kyllingstrimler-i-airfryer) | 620 | 77.1 g |
+| 107 | [Ovnsstekt svinekam med dijon og rosmarin](#107-ovnsstekt-svinekam-med-dijon-og-rosmarin) | 676 | 76.8 g |
+| 116 | [Birria – meksikansk braisert oksekjøtt](#116-birria--meksikansk-braisert-oksekjøtt) | 674 | 68.3 g |
+| 139 | [Sprø rissalat med kylling og gochujangmajones](#139-sprø-rissalat-med-kylling-og-gochujangmajones) | 553 | 66.7 g |
+| 134 | [Poulet à la moutarde – kremet dijonkylling](#134-poulet-à-la-moutarde--kremet-dijonkylling) | 539 | 65.6 g |
+| 193 | [Estragonkylling](#193-estragonkylling) | 580 | 64.2 g |
+| 34 | [Sanbeiji-kylling](#34-sanbeiji-kylling) | 596 | 61.5 g |
+| 88 | [Kyllingwok med blandede grønnsaker](#88-kyllingwok-med-blandede-grønnsaker) | 566 | 61.4 g |
+| 150 | [Sumakkylling med havrerissalat og hvitløksyoghurt](#150-sumakkylling-med-havrerissalat-og-hvitløksyoghurt) | 650 | 60.5 g |
+| 170 | [Ossobuco alla milanese](#170-ossobuco-alla-milanese) | 650 | 57.7 g |
+| 81 | [Yuk sung – kinesiske salatwraps med kyllingkjøttdeig](#81-yuk-sung--kinesiske-salatwraps-med-kyllingkjøttdeig) | 574 | 57.4 g |
+| 89 | [Miso-laks](#89-miso-laks) | 579 | 52.6 g |
+| 77 | [Yam Nua – Andy Cooks sin versjon](#77-yam-nua--andy-cooks-sin-versjon) | 547 | 51.4 g |
+| 125 | [Sprø kylling i sweet chili-saus](#125-sprø-kylling-i-sweet-chili-saus) | 384 | 50.5 g |
+| 126 | [Kyllingquesadillas](#126-kyllingquesadillas) | 644 | 49.0 g |
+| 146 | [Harissakylling med kremete bønner](#146-harissakylling-med-kremete-bønner) | 617 | 48.0 g |
+| 55 | [Kyllingstrimler i chili- og sesamsaus](#55-kyllingstrimler-i-chili--og-sesamsaus) | 537 | 47.7 g |
+| 171 | [Ungarsk gulasj](#171-ungarsk-gulasj) | 602 | 47.2 g |
+| 174 | [Bulgogi](#174-bulgogi) | 475 | 47.1 g |
+| SJ6 | [Koreanske laksebiter](#sj6-koreanske-laksebiter) | 493 | 46.6 g |
+| 117 | [Kremet hvitløks- og paprikakylling](#117-kremet-hvitløks--og-paprikakylling) | 496 | 46.1 g |
+| 144 | [One-pot risoni med reker og fetaost](#144-one-pot-risoni-med-reker-og-fetaost) | 646 | 46.0 g |
+| 137 | [Chili con carne – Andy Cooks sin versjon](#137-chili-con-carne--andy-cooks-sin-versjon) | 669 | 44.8 g |
+| 48 | [Japansk karri-udon med kylling](#48-japansk-karri-udon-med-kylling) | 614 | 44.1 g |
+| 75 | [Pannestekt laks med tzatziki og ris (lavFODMAP)](#75-pannestekt-laks-med-tzatziki-og-ris-lavfodmap) | 608 | 43.9 g |
+| 189 | [Grønn kyllingcurry med paprika og squash](#189-grønn-kyllingcurry-med-paprika-og-squash) | 454 | 43.8 g |
+| 85 | [Larb gai – laotisk-thailandsk kyllingsalat](#85-larb-gai--laotisk-thailandsk-kyllingsalat) | 355 | 42.2 g |
+| 57 | [Korean fried chicken](#57-korean-fried-chicken) | 619 | 41.5 g |
+| 7 | [Andy Cooks sin Pad Kra Pao](#7-andy-cooks-sin-pad-kra-pao) | 537 | 40.8 g |
+| 53 | [Koreansk kyllingburger](#53-koreansk-kyllingburger) | 504 | 40.6 g |
+| 190 | [Pannestekt kylling i soyasaus](#190-pannestekt-kylling-i-soyasaus) | 490 | 40.3 g |
+| SJ16 | [Ovnsbakt laks med poteter, grønnsaker og pesto](#sj16-ovnsbakt-laks-med-poteter-grønnsaker-og-pesto) | 620 | 39.4 g |
+| 35 | [Char siu-kylling](#35-char-siu-kylling) | 374 | 39.2 g |
+| 26 | [Yam Nua – thai biffsalat](#26-yam-nua--thai-biffsalat) | 386 | 38.8 g |
+| 127 | [Kremet hvitløkskylling – Simple Home Edit sin versjon](#127-kremet-hvitløkskylling--simple-home-edit-sin-versjon) | 600 | 38.7 g |
+| 78 | [Panang curry med svinefilet](#78-panang-curry-med-svinefilet) | 603 | 38.5 g |
+| S22 | [Spicy cæsarwrap med kylling](#s22-spicy-cæsarwrap-med-kylling) | 610 | 38.5 g |
+| 86 | [Karaage – japansk friturstekt kylling](#86-karaage--japansk-friturstekt-kylling) | 426 | 38.4 g |
+| SJ7 | [Ovnsbakt laks med purre](#sj7-ovnsbakt-laks-med-purre) | 685 | 37.0 g |
+| 54 | [Teriyakikylling – Genius Eats sin versjon](#54-teriyakikylling--genius-eats-sin-versjon) | 444 | 36.4 g |
+| 24 | [Sjømat-ramen](#24-sjømat-ramen) | 679 | 36.2 g |
+| 122 | [Braiserte kyllingtacos](#122-braiserte-kyllingtacos) | 298 | 36.1 g |
+| 103 | [Chili con carne](#103-chili-con-carne) | 382 | 35.8 g |
+| 93 | [Taco-salatbowl med kylling](#93-taco-salatbowl-med-kylling) | 436 | 35.3 g |
+| 87 | [Beef and broccoli – oksekjøtt i wok med brokkoli](#87-beef-and-broccoli--oksekjøtt-i-wok-med-brokkoli) | 385 | 33.6 g |
+| 135 | [Kylling- og pølsegryte med bønner og grønnsaker](#135-kylling--og-pølsegryte-med-bønner-og-grønnsaker) | 440 | 33.6 g |
+| 140 | [Kuru fasulye yahni – tyrkisk hvitbønnegryte](#140-kuru-fasulye-yahni--tyrkisk-hvitbønnegryte) | 639 | 33.3 g |
+| 44 | [Kokoskarri med laks](#44-kokoskarri-med-laks) | 517 | 33.2 g |
+| SJ11 | [Lohikeitto – finsk laksesuppe](#sj11-lohikeitto--finsk-laksesuppe) | 615 | 33.1 g |
+| 43 | [Tom yum-suppe med hjemmelagde dumplings](#43-tom-yum-suppe-med-hjemmelagde-dumplings) | 648 | 32.7 g |
+| 12 | [Kyllingpho](#12-kyllingpho) | 300 | 32.6 g |
+| 76 | [Green curry med kylling](#76-green-curry-med-kylling) | 528 | 32.4 g |
+| SJ8 | [Tunfisk- og hvitbønnesalat](#sj8-tunfisk--og-hvitbønnesalat) | 556 | 32.3 g |
+| SJ10 | [Amok – kambodsjansk fiskekarri](#sj10-amok--kambodsjansk-fiskekarri) | 388 | 32.1 g |
+| 51 | [Mango- og kokoskarri med laks](#51-mango--og-kokoskarri-med-laks) | 554 | 32.0 g |
+| 149 | [Sprø honning- og hvitløkskylling – Rajjekost sin versjon](#149-sprø-honning--og-hvitløkskylling--rajjekost-sin-versjon) | 407 | 31.8 g |
+| 10 | [Chilinudler med peanøttsmør og kjøttdeig](#10-chilinudler-med-peanøttsmør-og-kjøttdeig) | 632 | 31.2 g |
+| SJ4 | [Krydret marinert laks](#sj4-krydret-marinert-laks) | 441 | 31.0 g |
+| 114 | [Proteinrik pizza med yoghurtbunn](#114-proteinrik-pizza-med-yoghurtbunn) | 317 | 30.7 g |
+| 112 | [Hvitløks- og urtekylling med ovnsbakte gulrøtter og potetmos](#112-hvitløks--og-urtekylling-med-ovnsbakte-gulrøtter-og-potetmos) | 437 | 30.2 g |
+| 142 | [Lasagne alla Norma med salsicciaragù](#142-lasagne-alla-norma-med-salsicciaragù) | 609 | 30.2 g |
+| S15 | [Tuna melt med avokadodressing](#s15-tuna-melt-med-avokadodressing) | 476 | 30.2 g |
+| 95 | [Cottage cheese-salat med finhakkede grønnsaker](#95-cottage-cheese-salat-med-finhakkede-grønnsaker) | 301 | 28.8 g |
 
 ## 1. Kremet krydret miso-ramen med kylling
 
@@ -812,7 +960,7 @@ En strammere versjon av [Pad Kra Pao](#4-pad-kra-pao) lenger opp i dokumentet. H
 - 1 bunt hellig basilikum (thaibasilikum eller vanlig basilikum kan brukes)
 - 2 ss fiskesaus
 - 1½ ts sukker
-- Olje til steking
+- 20 g olje til steking *(mengde lagt til.)*
 
 **Prik nam pla (dipp)**
 - Saften av 1 lime
@@ -1607,7 +1755,7 @@ Grillet biff i en syrlig, sterk dressing med masse friske urter og ristet rismel
 **Biff**
 - 300 g flankestek, nyreskjell (hanger steak) eller entrecôte
 - Salt
-- Litt olje til steking
+- 10 g olje til steking *(mengde lagt til.)*
 
 **Dressing**
 - 3 hvitløksfedd
@@ -1662,7 +1810,7 @@ Enkel pad thai med kylling og fritert tofu. «Lettere enn du tror», som hun skr
 - \*150 g fritert tofu (eller fast tofu)
 - 1 stor sjalottløk
 - 2 egg
-- Olje til steking
+- 12 g olje til steking *(mengde lagt til.)*
 
 **Saus**
 - 1 ss tamarindpasta
@@ -1934,7 +2082,7 @@ Stekte kyllinglår i en fløtesaus med sopp, hvitløk og parmesan. Ingen asiatis
 - 3 kyllinglår med skinn, uten bein
 - Salt og pepper
 - Maisenna, til vending
-- Olje, til steking
+- 12 g olje, til steking *(mengde lagt til.)*
 
 **Soppsaus**
 - 2 ss smør
@@ -2220,7 +2368,7 @@ Rekedumplings i en kokosbasert rød karrisuppe kokt på fiskebuljong, toppet med
 - **Bruk kokosmelk på boks med fullt fettinnhold**, ikke kokosdrikk fra kartong.
 - **20 dumplings på fire personer** blir fem hver. Skal suppen være hovedrett for sultne, øk til 6–8 per person og suppen tilsvarende.
 - **Denne mot [nr. 40](#40-rød-karri-dumplingsuppe-med-kylling--realchefpaul-sin-versjon):** denne er kraftigere, kokt på fiskebuljong med dobbelt så mye væske og toppet med bløtkokt egg. Nr. 40 er lettere og mer urtepreget, med ingefær, lime og friske blader.
-- **Denne er den eneste karrisuppen i samlingen på fiskebuljong.** Se også [S1](#s1-dumplings-i-rød-karri--og-kokossaus), [nr. 11](#11-dumplings-i-spicy-peanøtt-udonsuppe), [nr. 40](#40-rød-karri-dumplingsuppe-med-kylling--realchefpaul-sin-versjon), [nr. 41](#41-rød-karri-dumplingsuppe-med-kylling--saltnpiipa-sin-versjon), [nr. 43](#43-tom-yum-suppe-med-hjemmelagde-dumplings) og [nr. 45](#45-rød-karri-dumplingsuppe-med-kylling--brendan-pang-sin-versjon).
+- **Denne er den eneste karrisuppen i samlingen på fiskebuljong.** Se også de øvrige dumplingsuppene: [med kokossaus (S1)](#s1-dumplings-i-rød-karri--og-kokossaus), [med peanøtt (nr. 11)](#11-dumplings-i-spicy-peanøtt-udonsuppe), [RealChefPauls versjon (nr. 40)](#40-rød-karri-dumplingsuppe-med-kylling--realchefpaul-sin-versjon), [saltnpiipas versjon (nr. 41)](#41-rød-karri-dumplingsuppe-med-kylling--saltnpiipa-sin-versjon), [tom yum (nr. 43)](#43-tom-yum-suppe-med-hjemmelagde-dumplings) og [Brendan Pangs original (nr. 45)](#45-rød-karri-dumplingsuppe-med-kylling--brendan-pang-sin-versjon).
 
 ---
 
@@ -2275,7 +2423,7 @@ Lettere og mer aromatisk enn de øvrige karri-dumplingsuppene i samlingen: mindr
 - **Bruk kokosmelk på boks**, ikke kokosdrikk fra kartong.
 - **Steker du dumplingene separat** før de går i suppen, får du sprø bunn. Kokt i suppen slik kilden gjør, blir alt mykt.
 - **Denne mot [nr. 39](#39-rød-karri-dumplingsuppe-med-reker):** nr. 39 er kraftigere, kokt på fiskebuljong med dobbelt så mye væske og toppet med bløtkokt egg. Denne er lettere og mer urtepreget, med ingefær, lime og friske blader. Samme grunnidé, tydelig ulikt resultat.
-- **Denne er en nedskalert og friskere variant av [nr. 45](#45-rød-karri-dumplingsuppe-med-kylling--brendan-pang-sin-versjon)**, som er Brendan Pangs original. Halv væskemengde, langt mindre karripasta, og ingefær, lime og friske urter i tillegg. Se også [S1](#s1-dumplings-i-rød-karri--og-kokossaus), [nr. 11](#11-dumplings-i-spicy-peanøtt-udonsuppe), [nr. 39](#39-rød-karri-dumplingsuppe-med-reker), [nr. 41](#41-rød-karri-dumplingsuppe-med-kylling--saltnpiipa-sin-versjon) og [nr. 43](#43-tom-yum-suppe-med-hjemmelagde-dumplings).
+- **Denne er en nedskalert og friskere variant av [Brendan Pangs original (nr. 45)](#45-rød-karri-dumplingsuppe-med-kylling--brendan-pang-sin-versjon)**. Halv væskemengde, langt mindre karripasta, og ingefær, lime og friske urter i tillegg. Se også de øvrige dumplingsuppene: [med kokossaus (S1)](#s1-dumplings-i-rød-karri--og-kokossaus), [med peanøtt (nr. 11)](#11-dumplings-i-spicy-peanøtt-udonsuppe), [med reker (nr. 39)](#39-rød-karri-dumplingsuppe-med-reker), [saltnpiipas versjon (nr. 41)](#41-rød-karri-dumplingsuppe-med-kylling--saltnpiipa-sin-versjon) og [tom yum (nr. 43)](#43-tom-yum-suppe-med-hjemmelagde-dumplings).
 
 ---
 
@@ -2322,7 +2470,7 @@ Den kraftigste av karri-dumplingsuppene i samlingen: mest karripasta, mest væsk
 - **Steker du dumplingene separat**, får du sprø bunn mot suppen. Kokt i suppen blir alt mykt.
 - **Næringsinnhold oppgitt i kilden**, per porsjon: 610 kcal, 18 g protein, 29 g fett, 50 g karbohydrat.
 - **Karrisuppene skiller seg slik:** denne er størst og kraftigst med kyllingkraft og mye pasta. [Nr. 39](#39-rød-karri-dumplingsuppe-med-reker) bruker fiskebuljong og toppes med bløtkokt egg. [Nr. 40](#40-rød-karri-dumplingsuppe-med-kylling--realchefpaul-sin-versjon) er den letteste, med halv væskemengde og friske urter. Denne og nr. 40 har samme opphav — begge oppgir Brendan Pang som inspirasjon — noe som forklarer likheten.
-- **Denne er praktisk talt identisk med [nr. 45](#45-rød-karri-dumplingsuppe-med-kylling--brendan-pang-sin-versjon)**, Brendan Pangs original: samme mengde karripasta, kraft, kokosmelk, sukker, fiskesaus og wontons, med bare små justeringer i løk, hvitløk og ingefær. Originalen har i tillegg forfatterens egen fremgangsmåte, som mangler her. Bruk nr. 45 hvis du skal lage retten — denne beholdes fordi den navngir karripastamerket. Se også [S1](#s1-dumplings-i-rød-karri--og-kokossaus), [nr. 11](#11-dumplings-i-spicy-peanøtt-udonsuppe), [nr. 39](#39-rød-karri-dumplingsuppe-med-reker), [nr. 40](#40-rød-karri-dumplingsuppe-med-kylling--realchefpaul-sin-versjon) og [nr. 43](#43-tom-yum-suppe-med-hjemmelagde-dumplings).
+- **Denne er praktisk talt identisk med [Brendan Pangs original (nr. 45)](#45-rød-karri-dumplingsuppe-med-kylling--brendan-pang-sin-versjon)**: samme mengde karripasta, kraft, kokosmelk, sukker, fiskesaus og wontons, med bare små justeringer i løk, hvitløk og ingefær. Originalen har i tillegg forfatterens egen fremgangsmåte, som mangler her. Bruk nr. 45 hvis du skal lage retten — denne beholdes fordi den navngir karripastamerket. Se også de øvrige dumplingsuppene: [med kokossaus (S1)](#s1-dumplings-i-rød-karri--og-kokossaus), [med peanøtt (nr. 11)](#11-dumplings-i-spicy-peanøtt-udonsuppe), [med reker (nr. 39)](#39-rød-karri-dumplingsuppe-med-reker), [RealChefPauls versjon (nr. 40)](#40-rød-karri-dumplingsuppe-med-kylling--realchefpaul-sin-versjon) og [tom yum (nr. 43)](#43-tom-yum-suppe-med-hjemmelagde-dumplings).
 
 ---
 
@@ -2433,7 +2581,7 @@ Syrlig tom yum-kraft rundet av med kokosmelk, med hjemmelagde svinedumplings i. 
 - **Kokosmelken gjør dette til en tom kha-variant** snarere enn klassisk tom yum, som er klar. Vil du ha den tradisjonelle versjonen, sløyf kokosmelken og øk vannet tilsvarende.
 - **Koker du dumplingene i suppen**, blir kraften uklar av stivelsen fra arkene. Kok dem separat hvis du vil beholde den klar.
 - **30 dumplings er mer enn to–tre porsjoner trenger.** Overskuddet fryses rått på brett og pakkes i pose når de er faste.
-- **Den eneste dumplingsuppen i samlingen med tom yum-base**, og den eneste der dumplingene lages fra bunnen sammen med suppa. Se også [S1](#s1-dumplings-i-rød-karri--og-kokossaus), [nr. 11](#11-dumplings-i-spicy-peanøtt-udonsuppe), [nr. 39](#39-rød-karri-dumplingsuppe-med-reker), [nr. 40](#40-rød-karri-dumplingsuppe-med-kylling--realchefpaul-sin-versjon), [nr. 41](#41-rød-karri-dumplingsuppe-med-kylling--saltnpiipa-sin-versjon) og [nr. 45](#45-rød-karri-dumplingsuppe-med-kylling--brendan-pang-sin-versjon).
+- **Den eneste dumplingsuppen i samlingen med tom yum-base**, og den eneste der dumplingene lages fra bunnen sammen med suppa. Se også de øvrige dumplingsuppene: [med kokossaus (S1)](#s1-dumplings-i-rød-karri--og-kokossaus), [med peanøtt (nr. 11)](#11-dumplings-i-spicy-peanøtt-udonsuppe), [med reker (nr. 39)](#39-rød-karri-dumplingsuppe-med-reker), [RealChefPauls versjon (nr. 40)](#40-rød-karri-dumplingsuppe-med-kylling--realchefpaul-sin-versjon), [saltnpiipas versjon (nr. 41)](#41-rød-karri-dumplingsuppe-med-kylling--saltnpiipa-sin-versjon) og [Brendan Pangs original (nr. 45)](#45-rød-karri-dumplingsuppe-med-kylling--brendan-pang-sin-versjon).
 
 ---
 
@@ -2540,7 +2688,7 @@ Originalen som de to andre karri-dumplingsuppene i samlingen bygger på. Kraften
 - **Limesaften i etter kokingen.** Syren forsvinner ved varme.
 - **Sukker og fiskesaus er oppgitt «etter smak»** i originalen, med mengder som utgangspunkt. Karripastaer varierer i både salt og sødme, så smak før du har i alt.
 - **Dette er kilden de andre bygger på.** [Nr. 41](#41-rød-karri-dumplingsuppe-med-kylling--saltnpiipa-sin-versjon) har praktisk talt identiske mengder — samme 4 ss pasta, samme 950 ml kraft, samme 400 ml kokosmelk, samme sukker og fiskesaus, samme 24 wontons — med bare små justeringer i løk, hvitløk og ingefær. [Nr. 40](#40-rød-karri-dumplingsuppe-med-kylling--realchefpaul-sin-versjon) er en nedskalert og friskere variant. Skal du lage én av de tre, er dette originalen med forfatterens egen fremgangsmåte.
-- Se også de øvrige dumplingrettene i saus eller suppe: [S1](#s1-dumplings-i-rød-karri--og-kokossaus), [nr. 11](#11-dumplings-i-spicy-peanøtt-udonsuppe), [nr. 39](#39-rød-karri-dumplingsuppe-med-reker) og [nr. 43](#43-tom-yum-suppe-med-hjemmelagde-dumplings).
+- Se også de øvrige dumplingrettene i saus eller suppe: [dumplings i rød karri- og kokossaus (S1)](#s1-dumplings-i-rød-karri--og-kokossaus), [dumplings i spicy peanøtt-udonsuppe (nr. 11)](#11-dumplings-i-spicy-peanøtt-udonsuppe), [rød karri-dumplingsuppe med reker (nr. 39)](#39-rød-karri-dumplingsuppe-med-reker) og [tom yum-suppe med hjemmelagde dumplings (nr. 43)](#43-tom-yum-suppe-med-hjemmelagde-dumplings).
 
 ---
 
@@ -2702,7 +2850,7 @@ Sideflesk i skiver stekes i panna, spises som ssam i salatblader med hvitløk og
 - Salatblader og perillablader (kkaennip) til ssam
 - 4–6 hvitløksfedd, i skiver
 - ca. 200 g kimchi
-- 3 dl kald, kokt ris *(står ikke i kildens ingrediensliste)*
+- 3 dl kald, kokt ris — ca. 1,2 dl tørr ris *(står ikke i kildens ingrediensliste)*
 - Tangpulver (gimgaru)
 - Sesamolje
 - Gressløk *(valgfritt)*
@@ -3016,7 +3164,7 @@ Japansk karri av ferdige karriterninger, med løk, potet og gulrot, servert ved 
 - 1 ss olje
 - 115 g japansk karriblanding (½ pakke à 230 g)
 - 800 ml vann
-- 4 porsjoner kokt ris, varm
+- 4 porsjoner kokt ris, varm — ca. 300 g tørr ris, se [kokt ris (T131)](#t131-kokt-ris)
 - 4 kyllingschnitzler, skåret i 2,5 cm brede strimler *(egen oppskrift — se notat)*
 
 **Tilbehør**
@@ -4028,7 +4176,7 @@ Hverdagsmiddag der tilbehøret er poenget: en lavFODMAP-tzatziki uten hvitløk, 
 - 2 biter laksefilet — regn ca. 150 g per person *(mengde lagt til)*
 - Ønsket mengde ris, gjerne fullkornsris, villris eller råris — ca. 150 g tørr ris til to *(mengde lagt til)*
 - 2 tomater, eller annen ønsket salat
-- Litt smør eller olje til steking *(står bare i fremgangsmåten, ikke i kildens ingrediensliste)*
+- 12 g smør eller olje til steking *(mengde lagt til – står bare i fremgangsmåten)*
 - Salt og nykvernet pepper til laksen *(står bare i fremgangsmåten)*
 
 **Tzatziki**
@@ -4132,7 +4280,7 @@ Klassisk grønn karri – *gaeng kiew waan* (แกงเขียวหวา�
 - **«Kiew waan» betyr søtgrønn, ikke søt karri.** Retten skal ikke smake søtt – sukkeret er der for balansen. Kilden forklarer at «søt» sannsynligvis viser til den myke, pastellgrønne fargen.
 - **Serveres tradisjonelt med jasminris**, men er like vanlig over risvermicelli (*kanom jeen*). Da vil du ha **vietnamesisk** risvermicelli, de runde stengene, kokt 7–10 minutter og avkjølt i kaldt vann. Japansk somen fungerer også, og trenger bare 2 minutter.
 - **Holdbarhet:** opptil en uke i kjøleskap, og den varmes greit i mikro. Auberginene kan bli overkokte ved oppvarming, så vær forsiktig med varmen.
-- **Dette er samlingens første ekte thailandske karri.** De røde karri-dumplingsuppene ([nr. 39](#39-rød-karri-dumplingsuppe-med-reker), [40](#40-rød-karri-dumplingsuppe-med-kylling--realchefpaul-sin-versjon), [41](#41-rød-karri-dumplingsuppe-med-kylling--saltnpiipa-sin-versjon) og [45](#45-rød-karri-dumplingsuppe-med-kylling--brendan-pang-sin-versjon)) er thai-inspirerte hverdagsretter som hopper over fritingen av pastaen. Steg 3 her er nettopp det de mangler, og grepet lar seg overføre.
+- **Dette er samlingens første ekte thailandske karri.** De røde karri-dumplingsuppene – [med reker (nr. 39)](#39-rød-karri-dumplingsuppe-med-reker), [RealChefPauls versjon (40)](#40-rød-karri-dumplingsuppe-med-kylling--realchefpaul-sin-versjon), [saltnpiipas versjon (41)](#41-rød-karri-dumplingsuppe-med-kylling--saltnpiipa-sin-versjon) og [Brendan Pangs original (45)](#45-rød-karri-dumplingsuppe-med-kylling--brendan-pang-sin-versjon) er thai-inspirerte hverdagsretter som hopper over fritingen av pastaen. Steg 3 her er nettopp det de mangler, og grepet lar seg overføre.
 - **Thaibasilikum går også i** [Pad Kra Pao](#4-pad-kra-pao) og [Andy Cooks sin versjon](#7-andy-cooks-sin-pad-kra-pao) – kjøper du en bunt, har du bruk for resten.
 
 ---
@@ -4157,7 +4305,7 @@ En enklere og mildere thai biffsalat enn [nr. 26](#26-yam-nua--thai-biffsalat): 
 - ½ bunt mynte, plukket — ca. 15 g *(mengde lagt til)*
 - Saften av 1 lime
 - En klype chiliflak
-- Litt nøytral olje til steking *(lagt til – kilden griller, se notat)*
+- 10 g nøytral olje til steking *(mengde lagt til – kilden griller, se notat)*
 
 ### Fremgangsmåte
 
@@ -4337,7 +4485,7 @@ Hverdagsbowle på 20 minutter: kjøttdeig av storfe stekt med løk og hvitløk, 
 - 1 ts sesamfrø (til pynt)
 - Ris til 2 — ca. 150 g tørr ris *(kilden sier «2 cups» – se notat)*
 - 2 bok choy — ca. 200 g *(vekt lagt til)*
-- Litt nøytral olje til steking *(står bare i fremgangsmåten – lagt til)*
+- 10 g nøytral olje til steking *(mengde lagt til.)*
 
 **Woksaus**
 - 3 ss lys soyasaus
@@ -4390,7 +4538,7 @@ Kyllingkjøttdeig woket med finhakkede grønnsaker i en saus av østerssaus og t
 - 1 ts ingefærpuré eller finrevet ingefær
 - 4 hvitløksfedd, finhakket
 - 4 ss knuste peanøtter
-- Litt nøytral olje til steking *(mangler i kilden – lagt til)*
+- 12 g nøytral olje til steking *(mengde lagt til.)*
 
 **Saus**
 - 1 ss østerssaus
@@ -4446,7 +4594,7 @@ Kinesisk husmannskost i sin reneste form: myke eggerøreputer vendt tilbake i to
 - 1 ss lys soyasaus
 - ½ ts sesamolje
 - ca. 80 ml vann *(står bare i fremgangsmåten – ⅓ cup)*
-- Litt nøytral olje til steking *(mangler i kilden – lagt til)*
+- 10 g nøytral olje til steking *(mengde lagt til.)*
 - Kokt ris til 2 — ca. 2 dl tørr ris *(kilden oppgir 2 cups kokt ris)*
 
 ### Fremgangsmåte
@@ -4487,7 +4635,7 @@ Laks stekt gyllen, vendt i en klissete glasur av honning, soya, riseddik og hvit
 - 2 laksefileter uten bein, eller laks i terninger *(kilden spriker – se notat)*
 - 1 ss cajunkrydder
 - Salt og pepper *(står bare i fremgangsmåten – lagt til)*
-- Litt nøytral olje til steking *(mangler i kilden – lagt til)*
+- 10 g nøytral olje til steking *(mengde lagt til.)*
 - 1 bok choy — ca. 100 g baby bok choy *(vekt og type lagt til)*
 - Kokt ris til 2 — ca. 2 dl tørr ris *(kilden sier «2 cups rice» – se notat)*
 - Sesamfrø til pynt
@@ -4538,7 +4686,7 @@ Kinesisk takeaway-stekt ris i sin enkleste form: dagsgammel ris, egg, løk og er
 
 ### Ingredienser
 
-- 2 cups dagsgammel kokt hvit ris, helst langkornet — ca. 330 g *(kokt, ikke rå – se notat)*
+- 2 cups dagsgammel kokt hvit ris, helst langkornet — ca. 330 g kokt, tilsvarer ca. 130 g tørr ris *(kokt, ikke rå – se notat)*
 - 2 store egg, sammenvispet
 - ½ liten gul løk, i små terninger
 - 2 ss frosne erter og gulrøtter, tint *(valgfritt)*
@@ -4681,7 +4829,7 @@ Kyllinglår marinert i sake, soya og ingefær, vendt i potetmel og friturstekt t
 - **Sake er ikke bare smak.** Kilden forklarer at den tar bort den rå kyllinglukten og holder kjøttet saftig gjennom stekingen. Har du den ikke: 1 del shaoxingvin til 3 deler vann, altså 1 ss shaoxing og 3 ss vann per ¼ cup sake. Alkoholfritt går også – bare vann – men da mister du en del av effekten.
 - **Kyllinglår, ikke bryst.** Låret tåler frityren og blir saftig; bryst blir tørt. Skjær bitene like store, ellers blir de ferdige til ulik tid.
 - **Karaage er ikke katsu.** Forskjellen, som kilden forklarer godt: karaage er protein vendt i mel eller stivelse og friturstekt, mens katsu er en flat kotelett panert i egg og panko. Samlingen har begge – se [tonkatsu](#8-tonkatsu) og [katsu curry](#56-katsu-curry).
-- **Kewpie-majones er lagd på bare eggeplommer**, som majonesen i [G3](#g3-majones). Vil du komme nær den hjemme, bytt sitronsaften der mot riseddik. Ferdigkjøpt kewpie fås i asiatiske butikker, det samme gjelder shichimi togarashi.
+- **Kewpie-majones er lagd på bare eggeplommer**, som majonesen i [T122](#t122-majones). Vil du komme nær den hjemme, bytt sitronsaften der mot riseddik. Ferdigkjøpt kewpie fås i asiatiske butikker, det samme gjelder shichimi togarashi.
 - **Næringsberegningen ser ut til å utelate frityroljen.** 6,4 g fett for friturstekt kylling er ikke troverdig. Karbohydrat- og natriumtallene er derimot rimelige.
 - **Kilden spriker litt om oljedybden:** brødteksten sier 2–3 tommer, oppskriftskortet «omtrent 2 tommer». 5–7 cm er greit – bitene skal flyte fritt.
 - **Holdbarhet:** 3–4 dager i kjøleskap, helt avkjølt før den settes inn. Varmes best opp i frityr, airfryer eller ovn på rist – aldri i mikro.
@@ -4718,7 +4866,7 @@ Takeaway-klassikeren *jiè lán niú*. Tynt skåret flankestek marineres med nat
 - 450 g brokkoli i buketter
 - 1 ss finhakket hvitløk (ca. 2 fedd)
 - 1 ss finhakket ingefær (ca. 2,5 cm)
-- Nøytral olje til woking
+- 25 g nøytral olje til woking *(mengde lagt til.)*
 - Ristede sesamfrø *(valgfritt)*
 
 ### Fremgangsmåte
@@ -4781,7 +4929,7 @@ Takeaway-wok med *velvetet* kyllingbryst og forvellede grønnsaker i en tykk, bl
 - 450 g blandede grønnsaker etter eget valg, i passende biter *(kilden bruker brokkoli, gulrot, paprika, squash, sopp og sukkererter)*
 - 1 ss finhakket hvitløk (2–3 fedd)
 - 1 ss finhakket ingefær (ca. 2,5 cm)
-- Nøytral olje til steking
+- 20 g nøytral olje til steking *(mengde lagt til.)*
 
 ### Fremgangsmåte
 
@@ -4937,7 +5085,7 @@ Varm ris, en boks koreansk tunfisk i chilisaus, et sprøstekt egg og litt sesamo
 
 ### Ingredienser
 
-- ca. 3,5 dl kokt hvit ris, varm
+- ca. 3,5 dl kokt hvit ris, varm — ca. 1,4 dl tørr ris
 - 1 boks koreansk tunfisk med chilisaus, ca. 100–150 g *(boksstørrelse ikke oppgitt – se notat)*
 - 1 stort egg + olje til steking *(valgfritt, men anbefalt)*
 - 1 ss ristet sesamolje *(se notat)*
@@ -4986,7 +5134,7 @@ Kyllinglår i store biter marinert i gochujang, gochugaru og sukker, stekt til d
 - 8 kyllinglårfileter uten skinn, i store biter (ca. 900 g)
 
 **Bollen**
-- 9,5 dl kokt hvit ris, eller annet korn
+- 9,5 dl kokt hvit ris, eller annet korn — ca. 3,8 dl tørr ris
 - 1 hode romanosalat, i biter og vasket
 - 1 stor gulrot, skrelt og revet
 - 1 slangeagurk, skivet
@@ -5547,7 +5695,7 @@ Storfekjøtt i terninger braisert i tre timer med chorizo, en lang liste tørre 
 - 4 ts paprikapulver
 - 2 ts røkt paprikapulver
 - 3 ts spisskummen
-- Ekstra virgin olivenolje til bruning
+- 20 g ekstra virgin olivenolje til bruning *(mengde lagt til.)*
 - Salt
 - 1 liter oksekraft
 
@@ -5616,7 +5764,7 @@ Hel kylling gnidd inn med urtesmør av hvitløk, sitronskall og rosmarin – bå
 - **Lokket brukes aldri.** Gryta fungerer her som stekeform – den holder på varmen og samler sjyen rundt grønnsakene, men den skal stå åpen hele veien. Samme observasjon som i [potetpavéen (T18)](#t18-potetpavé) og [shokupanen (B1)](#b1-hot-cross-shokupan--krydret-japansk-melkebrød): oppskrifter oppgir ofte utstyr med lokk uten at lokket har en rolle.
 - **Timian står i ingredienslisten, men ikke i urtesmøret.** Kilden hakker bare rosmarin i smøret; timianen havner i hulrommet sammen med de øvrige urtene. Begge deler i smøret fungerer godt om du foretrekker det.
 - **Smøret under skinnet er det som betyr mest.** Utvendig smør renner av; smør mellom skinn og bryst blir liggende og holder det magre brystkjøttet saftig gjennom hele stekingen. Løsne skinnet forsiktig med fingrene fra åpningen ved brystbeinet.
-- **Potetene blir myke, ikke sprø.** De ligger under fuglen i over en time og suger til seg smør og sjy – godt, men ikke sprøstekt. Vil du ha farge på dem, del dem i grove biter og la gryta stå på nederste rille. Andre potettyper og teknikker finner du i [T17](#t17-fondantpoteter), [T18](#t18-potetpavé) og [T23](#t23-potetbåter-i-airfryer).
+- **Potetene blir myke, ikke sprø.** De ligger under fuglen i over en time og suger til seg smør og sjy – godt, men ikke sprøstekt. Vil du ha farge på dem, del dem i grove biter og la gryta stå på nederste rille. Andre potettyper og teknikker finner du i [fondantpoteter (T17)](#t17-fondantpoteter), [potetpavé (T18)](#t18-potetpavé) og [potetbåter i airfryer (T23)](#t23-potetbåter-i-airfryer).
 - **Kyllingen må tørkes godt** før smøret går på. Vått skinn blir aldri sprøtt, uansett hvor høy starttemperaturen er.
 - **De 15 minuttene på 245 °C er hele poenget** med starten: de setter farge og starter skinnet, før den lange, mildere stekingen tar over. Ikke hopp over dem – og ikke la kyllingen stå der lenger, for smøret svir seg.
 - **Temperaturene er omregnet fra fahrenheit:** 475 °F = 245 °C, 350 °F = 175 °C, 165 °F = 74 °C.
@@ -5811,7 +5959,7 @@ Tynne skiver svinenakke stekt sprø og glasert i en hoisinsaus av brunt sukker, 
 - **Frysing før skjæring er samme triks som i** [nr. 87](#87-beef-and-broccoli--oksekjøtt-i-wok-med-brokkoli) **og** [nr. 88](#88-kyllingwok-med-blandede-grønnsaker). En time i fryseren gjør kjøttet fast nok til jevne, tynne skiver.
 - **Svinenakke er riktig stykke.** Den har fettmarmorering nok til å tåle sterk varme uten å bli tørr – svinekam eller filet ville blitt seigt i samme panne. Kilden åpner for kylling, storfe eller tofu i stedet.
 - **«Må være Kikkoman» er forfatterens egen presisering**, og den gjentas for begge sausene. Kikkoman er naturlig brygget japansk soya, mildere og rundere enn kinesisk. Andre japanske merker fungerer, men kinesisk lys soya gir en tydelig saltere og skarpere saus.
-- **Majonesen bør være hjemmelaget** eller amerikansk. Norsk majones er søtere og mildere enn amerikansk, og gir en flatere chilimajones. Samlingen har [G3](#g3-majones) hvis du vil lage den selv – da treffer du kildens intensjon best.
+- **Majonesen bør være hjemmelaget** eller amerikansk. Norsk majones er søtere og mildere enn amerikansk, og gir en flatere chilimajones. Samlingen har [T122](#t122-majones) hvis du vil lage den selv – da treffer du kildens intensjon best.
 - **Er chilimajonesen for sterk, spe med mer majones**, sier kilden. Doble gjerne porsjonen; den er god til det meste.
 - **Risen står bare i serveringssteget.** Sett den over før kjøttet stekes – hele resten går på under ti minutter.
 - **Kjøttet skal stekes ferdig før sausen går i.** Sausen skal glasere, ikke koke kjøttet – derfor skrus varmen ned først, så sukkeret ikke svir seg.
@@ -6127,7 +6275,7 @@ Pizzabunn av gresk yoghurt, selvhevende mel og proteinpulver – ingen gjær og 
 **Bunnen**
 - 2,4 dl gresk yoghurt naturell, mager
 - 2,4 dl selvhevende mel *(eller 2,4 dl hvetemel + 1½ ts bakepulver + ½ ts salt – se notat)*
-- 1 måleskje nøytralt proteinpulver, myse eller erteprotein (25 g)
+- 70 g nøytralt proteinpulver, myse eller erteprotein — ca. 2½ måleskje *(økt fra 25 g – se notat)*
 
 **Toppingen**
 - 1,2 dl pizzasaus
@@ -6185,7 +6333,7 @@ Høyrygg marinert et døgn i rødvin med grønnsaker og urter, brunet og braiser
 - 200 g sjampinjong
 - 15 stjerneløk *(se notat)*
 - 200 g bacon
-- Smør og olje til steking
+- 20 g smør og olje til steking *(mengde lagt til.)*
 - 1 ss soyasaus
 - Salt og pepper *(mangler i ingredienslisten)*
 - Hakket persille *(mangler i ingredienslisten)*
@@ -6222,7 +6370,6 @@ Høyrygg marinert et døgn i rødvin med grønnsaker og urter, brunet og braiser
 - **Soyasausen er ikke tradisjonell**, men gir farge og umami. Samme grep som i [den ungarske soppsuppen (SU9)](#su9-ungarsk-soppsuppe).
 - **Høyrygg er riktig stykke** – bindevevet brytes ned til gelatin over halvannen time. Se samme poeng i [pot roast (nr. 105)](#105-pot-roast--braisert-høyrygg-med-rotgrønnsaker), og motsatt valg i [chili con carne (nr. 103)](#103-chili-con-carne).
 - **En hel flaske rødvin** er 750 ml, og halvparten kan byttes med oksekraft slik kilden åpner for. Da blir retten mildere og mindre syrlig.
-- **Samlingens femte braisering**, og den tredje Hellstrøm-oppskriften ved siden av [kyllingsuppen (SU4)](#su4-eyvind-hellstrøms-kyllingsuppe-med-karri) og [løksuppen (SU5)](#su5-fransk-løksuppe).
 
 ---
 
@@ -6301,7 +6448,7 @@ Kyllingbryst delt i tynne fileter, vendt i krydret mel og stekt gyllent, med en 
 - 150 ml kyllingkraft
 - 150 ml kremfløte
 - 15 g persille, hakket
-- Olje til steking *(mangler i ingredienslisten)*
+- 18 g olje til steking *(mengde lagt til.)*
 
 ### Fremgangsmåte
 
@@ -6464,7 +6611,7 @@ Den kjøttfrie utgaven av chili con carne: løk og paprika freset med tørket kr
 - 1 ts brunt sukker
 - 1 liter kokte sorte bønner *(brune eller hvite fungerer også)*
 - Persille og/eller koriander
-- Olje til steking *(mengde ikke oppgitt)*
+- 15 g olje til steking *(mengde lagt til.)*
 - Salt
 
 **Til servering**
@@ -6499,7 +6646,7 @@ Den kjøttfrie utgaven av chili con carne: løk og paprika freset med tørket kr
 
 ---
 
-## 121. Helstekt kylling med hvitløk – Hellstrøm sin versjon
+## 121. Hellstrøms helstekte kylling med hvitløk
 
 **Kilde:** Eyvind Hellstrøm, gjengitt på matmaset.blogspot.com · **Kjøkken:** Fransk · **Tid:** ca. 1½ time *(ikke oppgitt i kilden – se notat)* · **Porsjoner:** 4 *(ikke oppgitt i kilden)*
 
@@ -6537,7 +6684,6 @@ Den franske klassikeren med førti hvitløksfedd: feddene trekkes møre i smør 
 - **250 g smør til én kylling er mye**, og det er meningen. Halvparten går til hvitløken og bruningen, halvparten til den avsluttende sausen.
 - **Norske kyllinger er ofte mindre enn 2 kg** – vanlig størrelse er 1,1–1,5 kg. Da kortes ovnstiden til 40–50 minutter, men styr etter termometeret.
 - **Samlingens andre helstekte kylling.** [Nr. 104](#104-helstekt-kylling-med-urtesmør) bruker urtesmør under skinnet og steker i gryte over grønnsaker; denne bygger alt på hvitløk og smør.
-- **Fjerde Hellstrøm-oppskrift** i samlingen, ved siden av [SU4](#su4-eyvind-hellstrøms-kyllingsuppe-med-karri), [SU5](#su5-fransk-løksuppe) og [nr. 115](#115-boeuf-bourguignon).
 
 ---
 
@@ -6601,7 +6747,7 @@ Kyllinglår gnidd inn med en krydderblanding, brunet og braisert i kraft og sals
 
 ---
 
-## 123. Kjøttboller i tomatsaus – Hellstrøm sin versjon
+## 123. Hellstrøms kjøttboller i tomatsaus
 
 **Kilde:** Eyvind Hellstrøm, *Hellstrøm rydder opp – hjemme*, gjengitt på lettmedhjemmelaget.blogspot.com · **Kjøkken:** Norsk · **Tid:** ca. 1½ time *(ikke oppgitt i kilden)* · **Porsjoner:** 8–10 *(ikke oppgitt – se notat)*
 
@@ -6618,7 +6764,7 @@ Saftige kjøttboller av karbonadedeig og svinekjøttdeig med bløtlagt loff, og 
 - 1 ts salt
 - ½ ts pepper
 - Litt revet muskatnøtt
-- Smør eller olje til steking *(mangler i ingredienslisten)*
+- 20 g smør eller olje til steking *(mengde lagt til.)*
 
 **Tomatsausen**
 - 200 g svinekjøttdeig
@@ -6659,7 +6805,6 @@ Saftige kjøttboller av karbonadedeig og svinekjøttdeig med bløtlagt loff, og 
 - **Sausen inneholder kjøtt.** Med 200 g svinekjøttdeig i tillegg til bollene er dette nærmere en kjøttsaus enn en ren tomatsaus – og den mikses glatt til slutt, så kjøttet forsvinner inn i konsistensen.
 - **Vanntrikset ved forming** er verdt å ta med seg: våte hender gjør at farsen ikke setter seg fast, og bollene blir jevne uten at du trenger å rulle dem lenge.
 - **Karbonadedeig er magert** (ca. 6 % fett) – de 200 g svinekjøttdeigen er det som gir bollene saftighet. Ikke bytt den ut med mer karbonadedeig.
-- **Femte Hellstrøm-oppskrift** i samlingen, ved siden av [SU4](#su4-eyvind-hellstrøms-kyllingsuppe-med-karri), [SU5](#su5-fransk-løksuppe), [nr. 115](#115-boeuf-bourguignon) og [nr. 121](#121-helstekt-kylling-med-hvitløk--hellstrøm-sin-versjon).
 
 ---
 
@@ -6726,7 +6871,7 @@ Kyllingbiter vendt i en røre av egg, maisenna og krydder, stekt sprø i panne, 
 - ½ ts nykvernet sort pepper
 - 1 egg
 - 60 g maisenna
-- Olje til steking *(se notat)*
+- 25 g olje til steking *(mengde lagt til.)* *(se notat)*
 
 **Sausen**
 - 1 ts fersk hvitløk, finhakket
@@ -6819,7 +6964,7 @@ Kyllinglår i terninger krydret med paprika, spisskummen og oregano, stekt med r
 - **Skal du lage mange**, hold dem varme på et brett i ovnen på **100 °C varmluft**, løst dekket med folie. Da holder de seg i opptil en time.
 - **Tilbehøret finnes i samlingen:** [pico de gallo (T20)](#t20-pico-de-gallo) og [mango- og avokadosalsa (T25)](#t25-mango--og-avokadosalsa).
 - **En leser tilsetter 1 ss chipotle i adobo** i kyllingen, med forfatterens tilslutning. Se [nr. 94](#94-fajitasalat-med-kylling) om tilgjengelighet i Norge.
-- **Samlingens fjerde meksikansk-inspirerte kyllingrett**, ved siden av [nr. 93](#93-taco-salatbowl-med-kylling), [nr. 94](#94-fajitasalat-med-kylling) og [nr. 122](#122-braiserte-kyllingtacos).
+- **Samlingens fjerde meksikansk-inspirerte kyllingrett**, ved siden av [taco-salatbowl med kylling (nr. 93)](#93-taco-salatbowl-med-kylling), [fajitasalat med kylling (nr. 94)](#94-fajitasalat-med-kylling) og [braiserte kyllingtacos (nr. 122)](#122-braiserte-kyllingtacos).
 
 ---
 
@@ -6925,7 +7070,7 @@ Tonkatsu etter en rolig hjemmekokkmetode: kjøttet legges i **kald** olje og var
 - **Svinenakke er riktig kjøtt her.** Japanerne kaller det *kata rosu*, og fettmarmoreringen tåler den lange, lave stekingen bedre enn indrefilet. Nakkekoteletter fås overalt i Norge. Vil du ha den magrere varianten, se [nr. 8](#8-tonkatsu).
 - **Samlingen har ingen oppskrift på tonkatsu-saus.** *(Lagt til.)* Den lages enkelt: 3 ss ketchup, 2 ss worcestershiresaus, 1 ss soyasaus og 1 ts sukker røres sammen. Ferdigkjøpt Bulldog-saus er standarden og fås i asiatiske butikker i Oslo.
 - **Kålen bør ligge i isvann.** Strimle den så tynt du klarer og la den ligge 10 minutter i isvann før servering, så blir den sprø og mister litt av den rå kålsmaken. Samme poeng som i [nr. 8](#8-tonkatsu).
-- **Ichiju-sansai-serveringen** kilden anbefaler er dampet ris, misosuppe – se [nr. 6](#6-misosuppe) eller [nr. 99](#99-misosuppe--cj-eats-sin-versjon) – og en syrlig pickles ved siden av. [T3 soyamarinert agurk](#t3-soyamarinert-agurk) fungerer godt til dette.
+- **Ichiju-sansai-serveringen** kilden anbefaler er dampet ris, misosuppe – se [den enkle versjonen (nr. 6)](#6-misosuppe) eller [CJ Eats sin versjon (nr. 99)](#99-misosuppe--cj-eats-sin-versjon) – og en syrlig pickles ved siden av. [Soyamarinert agurk (T3)](#t3-soyamarinert-agurk) fungerer godt til dette.
 - **Rester holder seg 2 dager i kjøleskap** i tett boks. Varm dem i ovn eller airfryer, aldri i mikro – paneringen blir bløt. Alternativt kan koteletten skjæres opp og bli til katsudon, eller brukes i [katsu curry](#56-katsu-curry).
 
 ---
@@ -6941,7 +7086,7 @@ Kyllingoverlår med sprøstekt skinn i en klissete honning-soya-glasur, med ovns
 **Kylling**
 - 600 g kyllingoverlår med skinn og ben
 - Salt og kvernet pepper
-- Olje til steking
+- 12 g olje til steking *(mengde lagt til.)*
 
 **Saus**
 - 2 ss smør
@@ -6954,7 +7099,7 @@ Kyllingoverlår med sprøstekt skinn i en klissete honning-soya-glasur, med ovns
 **Tilbehør**
 - 250 g brokkolini
 - 2 vårløk, finsnittet
-- Olje og salt til brokkolinien
+- 15 g olje og salt til brokkolinien *(mengde lagt til.)*
 - Ris til servering
 
 ### Fremgangsmåte
@@ -6975,7 +7120,7 @@ Kyllingoverlår med sprøstekt skinn i en klissete honning-soya-glasur, med ovns
 - **Riseddik og limesaft er ikke likeverdige.** Riseddik gir en rundere, nøytral syre; lime gir friskhet og aroma i tillegg. Lime kler chiliflakene bedre, riseddik holder retten nærmere det kinesiske uttrykket. Sammenlign med [nr. 2](#2-honning--sitron--og-hvitløkskylling), som bruker sitronskall til samme formål.
 - **Hell av fettet før smøret.** Kyllingskinn avgir mye fett, og glasuren blir fettskilt og blank i stedet for klissete hvis du lar det ligge igjen. Kilden nevner det, og det er verdt å ta på alvor.
 - **Brokkolini** selges også som aspargesbrokkoli eller bimi, og fås ikke overalt i Norge. Vanlig brokkoli i små buketter fungerer fint på samme temperatur, men trenger 12–14 minutter i stedet for 8. Kilden skriver forresten «brokkolien» i fremgangsmåten – det er samme grønnsak.
-- **Beslektede oppskrifter i samlingen:** [nr. 2](#2-honning--sitron--og-hvitløkskylling) er den samme ideen med panert lår og sitronskall, [nr. 31](#31-honningkylling) er den friterte kinesiske takeaway-varianten, og [nr. 83](#83-honningglasert-laks-med-hvitløk) bruker samme glasur på laks.
+- **Beslektede oppskrifter i samlingen:** [honning-, sitron- og hvitløkskylling (nr. 2)](#2-honning--sitron--og-hvitløkskylling) er den samme ideen med panert lår og sitronskall, [honningkylling (nr. 31)](#31-honningkylling) er den friterte kinesiske takeaway-varianten, og [honningglasert laks med hvitløk (nr. 83)](#83-honningglasert-laks-med-hvitløk) bruker samme glasur på laks.
 - **Rester:** sausen stivner i kjøleskapet og blir seig – varm den forsiktig med en skvett vann. Skinnet blir uansett ikke sprøtt igjen.
 
 ---
@@ -7090,7 +7235,7 @@ Krydret kyllinglår på toppen av gnocchi i en fløtesaus med pancetta, sopp og 
 - **Kjernetemperatur:** 75 °C for kyllinglår. Lår tåler godt å gå litt over, og bindevevet blir bedre av det – motsatt av bryst. 5 minutter per side stemmer for lår på 80–100 g.
 - **Kyllingen skal ligge hel oppå**, ikke røres inn i sausen. Det gir kontrast mellom den svidde overflaten og den kremete gnocchien. Vil du strekke retten til flere, skjær lårene i skiver ved servering.
 - **100 g babyspinat ser ut som altfor mye** i pannen, men koker inn til nesten ingenting. Ha den i i to omganger hvis pannen er full.
-- **Beslektede oppskrifter:** [nr. 33](#33-kremet-soppkylling) er samme kombinasjon av kylling, sopp og fløte uten gnocchi, [nr. 66](#66-kremet-pestognocchi) er gnocchi i kremet saus uten kjøtt, og [SU1](#su1-marry-me-chicken-suppe-med-gnocchi) er den samme grunnideen laget som suppe.
+- **Beslektede oppskrifter:** [kremet soppkylling (nr. 33)](#33-kremet-soppkylling) er samme kombinasjon av kylling, sopp og fløte uten gnocchi, [kremet pestognocchi (nr. 66)](#66-kremet-pestognocchi) er gnocchi i kremet saus uten kjøtt, og [marry me chicken-suppe med gnocchi (SU1)](#su1-marry-me-chicken-suppe-med-gnocchi) er den samme grunnideen laget som suppe.
 - **Best samme dag.** Gnocchi blir bløt og grøtete i kjøleskapet, og sausen stivner. Skal du ha rester, lag halv mengde gnocchi og kok resten fersk neste gang.
 
 ---
@@ -7201,7 +7346,7 @@ Fransk klassiker: melvendt kyllingbryst i en saus av sjalottløk, hvitvin, kraft
 - 4 kyllingbryst uten skinn
 - Hvetemel til vending — ca. 3–4 ss *(mangler i kildens ingrediensliste, se notat)*
 - Salt og sort pepper
-- Olivenolje
+- 20 g olivenolje *(mengde lagt til.)*
 - 4 sjalottløk, finhakket
 - 2 hvitløksfedd, finhakket
 - 120 ml tørr hvitvin
@@ -7233,8 +7378,8 @@ Fransk klassiker: melvendt kyllingbryst i en saus av sjalottløk, hvitvin, kraft
 - **Uten alkohol:** forfatteren svarer selv at du bare kan hoppe over vinen og deglasere med kraften. Da mister sausen litt syre – kompenser med en skvett sitron til slutt.
 - **Sitronen er oppført som pynt**, men saften er faktisk nyttig i en så rik saus. Press litt over hvert stykke ved servering.
 - **Kyllinglår fungerer utmerket** og blir saftigere, sier forfatteren – men trenger lengre tid under lokk, regn 15 minutter. Hun foreslår også torsk eller laks i samme saus.
-- **Beslektede oppskrifter:** [nr. 130](#130-kremet-hvitløks--og-sennepskylling--chef-jack-ovens-sin-versjon) er samme rett i australsk drakt, med to sennepstyper, estragon og løk i bunnen. Denne er renere og mer klassisk fransk: sjalottløk, vin, timian, én sennep. Se også [nr. 117](#117-kremet-hvitløks--og-paprikakylling) og [nr. 127](#127-kremet-hvitløkskylling--simple-home-edit-sin-versjon) for de amerikanske variantene med parmesan.
-- **Tilbehør:** forfatteren serverer den med rosmarinpoteter. [T17 fondantpoteter](#t17-fondantpoteter) eller [T23 potetbåter i airfryer](#t23-potetbåter-i-airfryer) fungerer like godt, og sausen trenger noe å samle seg i.
+- **Beslektede oppskrifter:** [Chef Jack Ovens sin versjon (nr. 130)](#130-kremet-hvitløks--og-sennepskylling--chef-jack-ovens-sin-versjon) er samme rett i australsk drakt, med to sennepstyper, estragon og løk i bunnen. Denne er renere og mer klassisk fransk: sjalottløk, vin, timian, én sennep. Se også [med paprika (nr. 117)](#117-kremet-hvitløks--og-paprikakylling) og [Simple Home Edit sin versjon (nr. 127)](#127-kremet-hvitløkskylling--simple-home-edit-sin-versjon) for de amerikanske variantene med parmesan.
+- **Tilbehør:** forfatteren serverer den med rosmarinpoteter. [Fondantpoteter (T17)](#t17-fondantpoteter) eller [potetbåter i airfryer (T23)](#t23-potetbåter-i-airfryer) fungerer like godt, og sausen trenger noe å samle seg i.
 - **Kan lages på forhånd.** Varm forsiktig opp igjen på lav varme; kremete sauser tykner i kjøleskapet, så spe med litt kraft eller fløte.
 
 ---
@@ -7325,8 +7470,8 @@ Kyllinglår i en marinade av lime, honning, spisskummen og cayenne, grillet og f
 - **Saltingen først ved servering er et uvanlig valg.** Salt i marinaden ville krydret kjøttet dypere, og syre og salt fungerer godt sammen. Sannsynligvis holder han saltet utenfor fordi den innkokte glasuren konsentrerer alt som er i marinaden. Kompromiss: salt kyllingen lett før marinering – ca. ½ ts per 500 g – og avslutt med flaksalt over den ferdige glasuren. *(Lagt til.)*
 - **Hold igjen halvparten av korianderen.** Friske urter i en tre timers syrlig marinade blir mørke og mister aromaen. Bruk halvparten i marinaden og strø resten over rett før servering. *(Lagt til.)*
 - **Løkgranulat** heter det samme i norske butikker, men selges også som løkpulver. De er ikke helt like – granulatet er grovere og løser seg langsommere opp – men i en marinade som denne spiller det ingen rolle.
-- **Marinaden fungerer alene.** Den hører hjemme i samme familie som [T33 BBQ-marinade](#t33-bbq-marinade) og [T36 jamaicansk jerk-marinade](#t36-jamaicansk-jerk-marinade), og kan brukes på svinekoteletter, reker eller blomkål. Denne mengden dekker rundt 1,2 kg kjøtt.
-- **Tilbehør:** [T20 pico de gallo](#t20-pico-de-gallo) eller [T25 mango- og avokadosalsa](#t25-mango--og-avokadosalsa) balanserer både styrken og sødmen godt. Se også [nr. 94](#94-fajitasalat-med-kylling) for samme smaksbilde i salatform.
+- **Marinaden fungerer alene.** Den hører hjemme i samme familie som [BBQ-marinade (T33)](#t33-bbq-marinade) og [jamaicansk jerk-marinade (T36)](#t36-jamaicansk-jerk-marinade), og kan brukes på svinekoteletter, reker eller blomkål. Denne mengden dekker rundt 1,2 kg kjøtt.
+- **Tilbehør:** [pico de gallo (T20)](#t20-pico-de-gallo) eller [mango- og avokadosalsa (T25)](#t25-mango--og-avokadosalsa) balanserer både styrken og sødmen godt. Se også [fajitasalat med kylling (nr. 94)](#94-fajitasalat-med-kylling) for samme smaksbilde i salatform.
 
 ---
 
@@ -7387,7 +7532,7 @@ Hverdagsversjonen av chili con carne: kjøttdeig i stedet for grytekjøtt, og 45
 - **Sammenlign med [nr. 103](#103-chili-con-carne).** Den bruker storfe i terninger, tre timers braisering, chorizo og mørk sjokolade, og gir 6–8 porsjoner. Denne er hverdagsversjonen: kjøttdeig, 45 minutter, og all dybden hentet fra ancho og chipotle i stedet for tid. Begge er gode – valget står mellom en søndagsgryte og en tirsdag.
 - **Salt tre ganger.** Kilden salter kjøttdeigen ved bruning, tilsetter en klype i punkt 6 og smaker til på slutten. Det er riktig framgangsmåte, men husk at oksekraft på boks eller terning allerede er salt – vær forsiktig underveis og gjør jobben til slutt.
 - **Blir bedre dagen etter**, som alle chiligryter, og lar seg fryse i porsjoner.
-- **Tilbehør:** [T20 pico de gallo](#t20-pico-de-gallo) eller [T25 mango- og avokadosalsa](#t25-mango--og-avokadosalsa), som også har oppskrift på hjemmelagde tortillachips. Se [nr. 120](#120-chili-sin-carne) for den vegetariske varianten.
+- **Tilbehør:** [pico de gallo (T20)](#t20-pico-de-gallo) eller [mango- og avokadosalsa (T25)](#t25-mango--og-avokadosalsa), som også har oppskrift på hjemmelagde tortillachips. Se [chili sin carne (nr. 120)](#120-chili-sin-carne) for den vegetariske varianten.
 
 ---
 
@@ -7400,7 +7545,7 @@ Kylling og sopp i en melkebasert saus bygget på jevning – altså en béchamel
 ### Ingredienser
 
 - 2 kyllingbryst, delt vannrett i tynnere fileter
-- Olje til steking
+- 12 g olje til steking *(mengde lagt til.)*
 - ½ stor løk, finhakket
 - 250 g sopp, i skiver *(mengde lagt til)*
 - 4–5 hvitløksfedd, finhakket
@@ -7433,6 +7578,7 @@ Kylling og sopp i en melkebasert saus bygget på jevning – altså en béchamel
 - **Dette er en melkesaus, ikke en fløtesaus** – det er hovedforskjellen fra [nr. 33](#33-kremet-soppkylling) og [nr. 127](#127-kremet-hvitløkskylling--simple-home-edit-sin-versjon), som begge bruker kremfløte. Melkesausen er lettere og billigere, men den skiller seg lettere ved høy varme, den danner snerk hvis den står, og den tykner merkbart mens den hviler. Vil du ha den fyldigere uten å gå over til ren fløte, bytt 1 dl av melken mot kremfløte.
 - **Pastaen mangler i ingredienslisten**, selv om retten serveres over nudler i videoen. Regn 250 g til denne saltmengden. Ta vare på en øse kokevann og spe sausen med det – stivelsen binder den til pastaen. *(Lagt til.)*
 - **Filetert kyllingbryst trenger 3–4 minutter per side** på middels sterk varme. Kjernetemperatur 70 °C. Kilden sier bare «once ready», som er lite å gå etter – bryst går fra ferdig til tørt på et par minutter.
+- **Proteinpulveret er økt fra 25 til 70 gram.** Med kildens mengde gir pizzaen 22 g protein per porsjon, som ikke holder til å kalles proteinrik. 70 g bringer den til 31 g. Til gjengjeld blir deigen tørrere – spe med 1–2 ss yoghurt eller vann til den er smidig, og regn med en fastere bunn enn originalen. *(Endret.)*
 - **Beslektet:** [nr. 33](#33-kremet-soppkylling) er den samme retten laget med fløte og parmesan, og [nr. 64](#64-fettuccine-boscaiola) er soppasta i italiensk utgave.
 
 ---
@@ -7446,7 +7592,7 @@ Salat der kokt ris stekes tørr og sprø i ovnen og brukes som crunch i stedet f
 ### Ingredienser
 
 **Sprø ris**
-- 125 g kokt hvit ris, gjerne dagen gammel
+- 125 g kokt hvit ris, gjerne dagen gammel — ca. 50 g tørr ris
 - 1 ts chiliolje
 - ½ ts sesamolje
 - ½ ss soyasaus *(fremgangsmåten sier 1 ss – se notat)*
@@ -7491,7 +7637,7 @@ Salat der kokt ris stekes tørr og sprø i ovnen og brukes som crunch i stedet f
 - **Gresk yoghurt med 10 % fett** gir en rundere dressing enn 0 %, som blir tynn og sur. Skyr fungerer, men er syrligere og tykkere – spe med en skje vann.
 - **Edamame** fås frossen i asiatiske butikker og hos Meny. Kok dem 3–5 minutter og avkjøl før de går i salaten. Du skal ha den utbelgede varianten.
 - **Vårløkmengden er ikke oppgitt.** Regn 2 stilker.
-- **Beslektet:** [T6 koreansk sterk agurksalat](#t6-koreansk-sterk-agurksalat-oi-muchim) bruker samme smaksbilde på agurken alene, og [S8 sprø risbiter med laks](#s8-sprø-risbiter-med-laks) er den japanske tilnærmingen til sprø ris.
+- **Beslektet:** [koreansk sterk agurksalat (T6)](#t6-koreansk-sterk-agurksalat-oi-muchim) bruker samme smaksbilde på agurken alene, og [sprø risbiter med laks (S8)](#s8-sprø-risbiter-med-laks) er den japanske tilnærmingen til sprø ris.
 
 ---
 
@@ -7537,7 +7683,7 @@ Hvite bønner og cherrytomater i en base av løk som er kokt ned til syltetøyko
 - **Smak til med salt på slutten.** De ¾ ts flaksalt er beregnet for løken alene, og bønnene trenger sitt eget. Flaksalt veier mindre enn fint salt per teskje – bruker du vanlig bordsalt, halver mengden.
 - **Brødet fortjener oppmerksomhet.** Retten er tenkt som *yahni på toast*: godt surdeigsbrød, ristet, gnidd med et halvt hvitløksfedd og med en skvett olivenolje over. Serveres den som gryte i stedet, passer ris eller bulgur.
 - **Retten er vegansk** slik den står, og blir bedre dagen etter. Den lar seg fryse, men bønnene blir mykere.
-- **Beslektet:** [SU16 hvitbønnegryte med tomat og spinat](#su16-hvitbønnegryte-med-tomat-og-spinat) er den italienske slektningen med samme grunnidé, og [T40 hummus](#t40-hummus) hører til samme kjøkken.
+- **Beslektet:** [hvitbønnegryte med tomat og spinat (SU16)](#su16-hvitbønnegryte-med-tomat-og-spinat) er den italienske slektningen med samme grunnidé, og [hummus (T40)](#t40-hummus) hører til samme kjøkken.
 
 ---
 
@@ -7587,7 +7733,7 @@ Kikerter ovnsstekt til de er sprø, vendt i en klissete gochujangsaus og servert
 - **Gochujangstyrken varierer mye mellom merker.** Koreanske bokser er merket med et varmenivå fra 1 til 5. Er du usikker, start med ½ ss og smak deg opp.
 - **Airfryer er raskere:** 190 °C i 15–18 minutter, med risting av kurven et par ganger underveis. *(Alternativ lagt til.)*
 - **Retten er vegansk** med agave- eller lønnesirup, og gir en full måltidsporsjon med ris. Som tilbehør eller snacks rekker den til fire.
-- **Beslektet:** [nr. 32 kremet gochujang-kokoskylling](#32-kremet-gochujang-kokoskylling) og [T12 yangnyeomjang](#t12-yangnyeomjang--koreansk-dippsaus) bruker samme smaksbilde, og [nr. 139](#139-sprø-rissalat-med-kylling-og-gochujangmajones) har den samme utfordringen med å holde noe sprøtt.
+- **Beslektet:** [kremet gochujang-kokoskylling (nr. 32)](#32-kremet-gochujang-kokoskylling) og [yangnyeomjang (T12)](#t12-yangnyeomjang--koreansk-dippsaus) bruker samme smaksbilde, og [sprø rissalat med kylling og gochujangmajones (nr. 139)](#139-sprø-rissalat-med-kylling-og-gochujangmajones) har den samme utfordringen med å holde noe sprøtt.
 
 ---
 
@@ -7651,7 +7797,7 @@ En krysning mellom melanzane alla parmigiana og lasagne, med en ragù av salsicc
 - **Ricotta salata er den tradisjonelle osten i alla Norma** – en fast, saltet og tørket ricotta som rives over pastaen til slutt. Her er den byttet mot fersk ricotta i et fyll, som er nødvendig for å få lagene til å henge sammen, men gjør retten mildere og kremere enn originalen. *(Bakgrunn lagt til.)*
 - **Hvilingen på 20 minutter er ikke valgfri.** Uten den flyter lagene ut på tallerkenen. Kilden har rett, og en time er enda bedre om du har tid.
 - **Bedre dagen etter.** Kilden fremhever selv at retten kan forberedes dagen før. Bygg den ferdig, dekk til og sett kaldt – legg da på 10–15 minutter ekstra steketid, siden den går kald i ovnen.
-- **Beslektede oppskrifter:** [nr. 72 lasagna](#72-lasagna) er den klassiske med kjøttragù og bechamel og tar rundt 6 timer, [nr. 65 langtidskokt oksragù](#65-langtidskokt-oksragù) og [nr. 73 tagliatelle al ragù](#73-tagliatelle-al-ragù) er de langkokte ragùene i samlingen. [G1](#g1-master-pasta-dough--grunndeig-til-fersk-eggpasta) gir ferske plater om du vil lage dem selv.
+- **Beslektede oppskrifter:** [lasagna (nr. 72)](#72-lasagna) er den klassiske med kjøttragù og bechamel og tar rundt 6 timer, [langtidskokt oksragù (nr. 65)](#65-langtidskokt-oksragù) og [tagliatelle al ragù (nr. 73)](#73-tagliatelle-al-ragù) er de langkokte ragùene i samlingen. [Master pasta dough – grunndeig til fersk eggpasta (G1)](#g1-master-pasta-dough--grunndeig-til-fersk-eggpasta) gir ferske plater om du vil lage dem selv.
 
 ---
 
@@ -7707,7 +7853,7 @@ Squash kokt myk og mikset til en glatt, grønn krem som legger seg rundt pastaen
 - **Pastaen skal koke ferdig i pannen.** Derfor «svært al dente» – de siste minuttene skjer i kremen, der pastaen suger til seg smak i stedet for vann. Regn 2 minutter kortere enn pakken sier.
 - **Ingen ost.** Det er riktig og bevisst: i italiensk tradisjon kommer det ikke revet ost på pasta med skalldyr. *(Bakgrunn lagt til.)*
 - **3 dl hvitvin er mye til 500 g skjell**, men det meste damper av under lokket og resten kokes inn. Bruk en vin du ville drukket – den er en hovedsmak her.
-- **Beslektet:** [nr. 70 pasta med asparges og pancetta](#70-pasta-med-asparges-og-pancetta) og [nr. 61 ndujapasta](#61-ndujapasta) bruker samme teknikk med å fullføre pastaen i sausen.
+- **Beslektet:** [pasta med asparges og pancetta (nr. 70)](#70-pasta-med-asparges-og-pancetta) og [ndujapasta (nr. 61)](#61-ndujapasta) bruker samme teknikk med å fullføre pastaen i sausen.
 
 ---
 
@@ -7762,7 +7908,7 @@ Risoni kokt rett i tomatsausen i én panne, med stekte reker vendt inn til slutt
 - **Dill og basilikum sammen er et uvanlig, men bevisst valg** – dillen trekker retten mot det greske, basilikumen mot det italienske. Begge skal på helt til slutt, uten varmebehandling.
 - **Som matboks** blir risonien mykere over natten og suger opp resten av væsken. Lag den litt løsere enn du ellers ville, og hold rekene og fetaen utenfor til oppvarming hvis du kan. *(Lagt til.)*
 - **Risoni** heter også orzo og selges under begge navn i norske butikker. Den er pasta, ikke ris, tross formen.
-- **Beslektet:** [SU12 kremet tortellinisuppe](#su12-kremet-tortellinisuppe-med-grønnsaker) og [nr. 135](#135-kylling--og-pølsegryte-med-bønner-og-grønnsaker) bruker samme enpanneprinsipp, og [SJ14](#sj14-puttanesca-torsk-med-hvitløksbrød) samme middelhavsspiskammer med sjømat.
+- **Beslektet:** [kremet tortellinisuppe (SU12)](#su12-kremet-tortellinisuppe-med-grønnsaker) og [kylling- og pølsegryte med bønner og grønnsaker (nr. 135)](#135-kylling--og-pølsegryte-med-bønner-og-grønnsaker) bruker samme enpanneprinsipp, og [puttanesca-torsk med hvitløksbrød (SJ14)](#sj14-puttanesca-torsk-med-hvitløksbrød) samme middelhavsspiskammer med sjømat.
 
 ---
 
@@ -7793,7 +7939,7 @@ Hvit asparges trukket i en søtet, syrlig lake, servert med sprøstekt shiitake 
 - Sherryeddik
 - Soyasaus
 - Pepper
-- Olje til steking
+- 15 g olje til steking *(mengde lagt til.)*
 
 **Hollandaise**
 - 250 g smør
@@ -7819,12 +7965,12 @@ Hvit asparges trukket i en søtet, syrlig lake, servert med sprøstekt shiitake 
 - **Vannmengden i hollandaisen mangler.** Regn **2 ss** til fire plommer. Vannet er der for å hindre at plommene stivner for raskt. *(Lagt til.)*
 - **Cayennepepperen står i lista, men brukes aldri.** Den hører hjemme helt til slutt, sammen med saltet – en knivsodd er nok, og den er standard i klassisk hollandaise. *(Ført inn.)*
 - **Vannbad er tryggere enn direkte varme.** Kilden åpner for begge, men eggeplommer stivner over ca. 70 °C, og «direkte på platen på middels varme» er en rask vei til eggerøre. Bruk vannbad første gang, og ta bollen av varmen med jevne mellomrom.
-- **Skiller hollandaisen seg**, visp en ny eggeplomme med 1 ss vann i en ren bolle og spe den skilte sausen ned i den, litt om gangen. Samme redningsteknikk som for majones i [G3](#g3-majones). *(Lagt til.)*
+- **Skiller hollandaisen seg**, visp en ny eggeplomme med 1 ss vann i en ren bolle og spe den skilte sausen ned i den, litt om gangen. Samme redningsteknikk som for majones i [T122](#t122-majones). *(Lagt til.)*
 - **1 liter lake dekker knapt 700 g asparges.** Aspargesen skal ligge helt under væske for å koke jevnt. Bruk en vid, lav kjele, eller lag halvannen porsjon lake. *(Presisering lagt til.)*
 - **Sukkeret i laken er ikke for å gjøre retten søt** – det balanserer den lette bitterheten som er hvit asparges' særtrekk. Tysk og svensk tradisjon gjør det samme. Ikke kutt det.
 - **Sherryeddik og soya til soppen er uten mengder.** Regn **1 ts av hver** til 150 g shiitake, tilsatt helt til slutt i pannen så det damper av mot varmen.
-- **Shiitake må stekes tørt først.** Som all sopp avgir den mye vann – ha den i tørr, varm panne til væsken er borte, og tilsett så oljen. Ellers blir den seig i stedet for sprø. Samme prinsipp som i [T43 kantarellsaus](#t43-kantarellsaus). *(Lagt til.)*
-- **Hvit asparges er sesongvare i Norge**, i praksis fra slutten av april til midten av juni, importert fra Tyskland og Nederland. Den fås hos Meny og i grønnsakshandler. Grønn asparges kan brukes, men trenger bare 3–4 minutter og skal ikke skrelles – da er det en annen rett. Se [SJ9](#sj9-ovnsbakt-laks-med-grønn-asparges) og [nr. 110 aspargespai](#110-aspargespai-med-fersk-geitost).
+- **Shiitake må stekes tørt først.** Som all sopp avgir den mye vann – ha den i tørr, varm panne til væsken er borte, og tilsett så oljen. Ellers blir den seig i stedet for sprø. Samme prinsipp som i [kantarellsaus (T43)](#t43-kantarellsaus). *(Lagt til.)*
+- **Hvit asparges er sesongvare i Norge**, i praksis fra slutten av april til midten av juni, importert fra Tyskland og Nederland. Den fås hos Meny og i grønnsakshandler. Grønn asparges kan brukes, men trenger bare 3–4 minutter og skal ikke skrelles – da er det en annen rett. Se [ovnsbakt laks med grønn asparges (SJ9)](#sj9-ovnsbakt-laks-med-grønn-asparges) og [aspargespai (nr. 110)](#110-aspargespai-med-fersk-geitost).
 - **Laken kan gjenbrukes.** Sil den og bruk den som base i en suppe eller risotto – den er full av aspargessmak. *(Lagt til.)*
 
 ---
@@ -7876,7 +8022,7 @@ Kyllinglårfilet marinert i harissa og oregano, stekt i panne, og servert i en s
 - **Kjernetemperatur 75 °C** for kyllinglår. Filetene er tynne og trenger 4–5 minutter per side på middels varme.
 - **Marinering over natten er verdt det**, men syre fra sitronen over mange timer gjør overflaten på kjøttet melen. Vil du marinere lenger enn 12 timer, hold sitronsaften utenfor og press den i rett før steking. *(Presisering lagt til.)*
 - **Store hvite bønner** er butterbeans eller cannellini, som selges under begge navn i norske butikker. En 400 g boks gir rundt 240 g avrent.
-- **Beslektet:** [nr. 32 kremet gochujang-kokoskylling](#32-kremet-gochujang-kokoskylling) har nøyaktig samme oppbygging med en sterk paste, kylling og noe kremet, og [nr. 140 kuru fasulye yahni](#140-kuru-fasulye-yahni--tyrkisk-hvitbønnegryte) og [SU16](#su16-hvitbønnegryte-med-tomat-og-spinat) er de vegetariske bønnegrytene i samlingen.
+- **Beslektet:** [kremet gochujang-kokoskylling (nr. 32)](#32-kremet-gochujang-kokoskylling) har nøyaktig samme oppbygging med en sterk paste, kylling og noe kremet, og [kuru fasulye yahni (nr. 140)](#140-kuru-fasulye-yahni--tyrkisk-hvitbønnegryte) og [hvitbønnegryte med tomat og spinat (SU16)](#su16-hvitbønnegryte-med-tomat-og-spinat) er de vegetariske bønnegrytene i samlingen.
 
 ---
 
@@ -7942,7 +8088,7 @@ Kyllinglår med skinn stekt under lodd til skinnet er knallsprøtt, servert på 
 - **Rekkefølgen i punkt 4 er stram.** Maisen skal i pannen med kyllingfettet *etter* at kyllingen er tatt ut, altså mens den hviler. Rist derfor maisen i en annen tørr panne først, så alt er klart når kyllingen kommer ut. *(Praktisk merknad lagt til.)*
 - **Feta er ikke peruansk**, men er en grei erstatning for queso fresco. Den er saltere og fastere – bruk gjerne litt mindre enn kilden oppgir.
 - **4 ts spisskummen og 4 ts paprikapulver er mye** til fire lår, men det er riktig for stilen. Peruansk grillkylling er tydelig krydret.
-- **Beslektet:** [T47 guacamole](#t47-guacamole) og [T25 mango- og avokadosalsa](#t25-mango--og-avokadosalsa) hører til samme familie av friske grønne tilbehør, og [nr. 136 chili- og limekylling](#136-chili--og-limekylling) bruker en beslektet marinade med spisskummen og lime.
+- **Beslektet:** [guacamole (T47)](#t47-guacamole) og [mango- og avokadosalsa (T25)](#t25-mango--og-avokadosalsa) hører til samme familie av friske grønne tilbehør, og [chili- og limekylling (nr. 136)](#136-chili--og-limekylling) bruker en beslektet marinade med spisskummen og lime.
 
 ---
 
@@ -7997,7 +8143,7 @@ Ris ristet i kyllingfettet, kokt i kokosmelk med gul karripasta, med kyllingen l
 - **Pannen må være vid og ha tettsluttende lokk.** Er lokket løst, damper væsken av og risen blir ikke ferdig. En sautépanne eller støpejernsgryte er riktig redskap.
 - **Rist karripastaen med risen, ikke bare rør den inn.** Punkt 3 gjør nettopp dette, og det er et godt grep: pastaen inneholder tørre krydder som trenger fett og varme for å gi fra seg aroma.
 - **Toppingen skal lages helt til slutt.** Avokado i limesaft holder seg noen minutter, men brunes hvis den står. *(Lagt til.)*
-- **Beslektet:** [nr. 78 panang curry](#78-panang-curry-med-svinefilet) og [SU3 thai karri-kyllingnudelsuppe](#su3-thai-karri-kyllingnudelsuppe) bruker samme type pasta, [nr. 48](#48-japansk-karri-udon-med-kylling) er den japanske karrivarianten, og [nr. 144](#144-one-pot-risoni-med-reker-og-fetaost) er samme enpanneprinsipp med pasta.
+- **Beslektet:** [panang curry (nr. 78)](#78-panang-curry-med-svinefilet) og [thai karri-kyllingnudelsuppe (SU3)](#su3-thai-karri-kyllingnudelsuppe) bruker samme type pasta, [japansk karri-udon med kylling (nr. 48)](#48-japansk-karri-udon-med-kylling) er den japanske karrivarianten, og [one-pot risoni med reker og fetaost (nr. 144)](#144-one-pot-risoni-med-reker-og-fetaost) er samme enpanneprinsipp med pasta.
 
 ---
 
@@ -8012,7 +8158,7 @@ Kyllinglår marinert i østerssaus og shaoxingvin, vendt i maisenna og stekt spr
 **Kylling**
 - 2 kyllinglårfileter, gjerne med skinn, utbeinet
 - ½ dl maisenna
-- Nøytral olje til steking
+- 15 g nøytral olje til steking *(mengde lagt til.)*
 
 **Marinade**
 - 2 ss finhakket hvitløk
@@ -8027,7 +8173,7 @@ Kyllinglår marinert i østerssaus og shaoxingvin, vendt i maisenna og stekt spr
 - 1 helt hvitløkshode, finhakket
 - 3 ss lys soyasaus
 - 3 ss honning
-- En skvett nøytral olje
+- 8 g nøytral olje *(mengde lagt til.)*
 
 **Servering**
 - Jasminris
@@ -8051,7 +8197,7 @@ Kyllinglår marinert i østerssaus og shaoxingvin, vendt i maisenna og stekt spr
 - **Ingen salt noe sted, og det er riktig.** Soyasaus og østerssaus står for saltet i marinaden, og sausen har 3 ss soya til. Ikke tilsett mer.
 - **Shaoxingvin** fås i asiatiske butikker på Grønland og Tøyen. Tørr sherry er kildens eget alternativ og fungerer godt.
 - **Risen står oppført under marinaden**, som er en formateringsfeil i kilden – den hører til servering. Mengde er ikke oppgitt; regn 1,5 dl tørr jasminris til to porsjoner. *(Avvik notert.)*
-- **Sammenlign med de tre andre honningkyllingene i samlingen:** [nr. 2](#2-honning--sitron--og-hvitløkskylling) bruker sitronskall og paprika og lager sausen i samme panne, [nr. 31](#31-honningkylling) er frityrstekt takeaway-stil, og [nr. 129](#129-honning--og-hvitløkskylling--kokkelise-sin-versjon) bruker lår med bein og ovnsbakt brokkolini. Denne er den mest hvitløksdrevne av dem, og den eneste der sausen ikke kokes. Se også [nr. 125 sprø kylling i sweet chili-saus](#125-sprø-kylling-i-sweet-chili-saus).
+- **Sammenlign med de tre andre honningkyllingene i samlingen:** [honning-, sitron- og hvitløkskylling (nr. 2)](#2-honning--sitron--og-hvitløkskylling) bruker sitronskall og paprika og lager sausen i samme panne, [honningkylling (nr. 31)](#31-honningkylling) er frityrstekt takeaway-stil, og [honning- og hvitløkskylling – kokkelise sin versjon (nr. 129)](#129-honning--og-hvitløkskylling--kokkelise-sin-versjon) bruker lår med bein og ovnsbakt brokkolini. Denne er den mest hvitløksdrevne av dem, og den eneste der sausen ikke kokes. Se også [sprø kylling i sweet chili-saus (nr. 125)](#125-sprø-kylling-i-sweet-chili-saus).
 
 ---
 
@@ -8123,7 +8269,7 @@ Krydret kyllinglår i ovn, servert på en kornsalat med hurtigsyltet rødløk, a
 - **Rist pistasjnøttene** i tørr panne et par minutter før de hakkes. Det er en liten jobb med stor effekt.
 - **Kornsalaten er best lunken.** Bland den mens havrerisen fortsatt har varme igjen, så trekker den til seg sitron og olje.
 - **Kilden kaller retten «orientalisk».** Den er nærmere levantinsk – sumak, koriander, spisskummen og yoghurt er libanesisk og syrisk kjøkken. Den lar seg variere i det uendelige, som forfatteren sier: bytt kornet, grønnsakene eller nøttene etter sesong.
-- **Beslektet:** [nr. 59 krydrede lammekjøttboller med agurk- og yoghurtsaus](#59-krydrede-lammekjøttboller-med-agurk--og-yoghurtsaus) er samme kjøkken, og [T40 hummus](#t40-hummus) passer ved siden av.
+- **Beslektet:** [krydrede lammekjøttboller med agurk- og yoghurtsaus (nr. 59)](#59-krydrede-lammekjøttboller-med-agurk--og-yoghurtsaus) er samme kjøkken, og [hummus (T40)](#t40-hummus) passer ved siden av.
 
 ---
 
@@ -8172,11 +8318,11 @@ Risotto med carnaroliris, sopp stekt for seg og ristede hasselnøtter, avsluttet
 - **Tregaffel i stedet for sleiv** er ikke en særhet: en gaffel rører uten å mose kornene mot kjelekanten, slik en sleiv gjør. Risottoen slipper stivelse uten å bli grøt.
 - **5–10 minutters hvile er i lengste laget.** Klassisk mantecatura hviler 1–2 minutter under lokk. Ti minutter gjør risottoen stivere og mindre flytende – *all'onda*, «bølgende», er målet. Gå for **5 minutter**, og spe med en skje varm kraft hvis den har satt seg. *(Justering lagt til.)*
 - **50 g smør brukes to steder** – i mantecaturaen og til soppen. Det er lite til begge deler; ta gjerne 75 g totalt og del likt. *(Presisering lagt til.)*
-- **600 g sopp må stekes i puljer.** Alt på én gang gir damping i stedet for bruning. Tørr panne først til væsken er borte, så smøret i. Samme prinsipp som i [T43 kantarellsaus](#t43-kantarellsaus).
+- **600 g sopp må stekes i puljer.** Alt på én gang gir damping i stedet for bruning. Tørr panne først til væsken er borte, så smøret i. Samme prinsipp som i [kantarellsaus (T43)](#t43-kantarellsaus).
 - **Salt helt til slutt.** Buljongterninger, parmesan og salsiccia er alle salte, og risottoen koker inn.
 - **Gni skallet av hasselnøttene** mens de er varme, i et kjøkkenhåndkle. Skallet er bittert.
 - **Sitron og basilikum er ikke tradisjonelt i en sopprisotto**, men fungerer – syren løfter en ellers tung rett. Begge går i helt til slutt, av varmen.
-- **Beslektet:** [nr. 67 risotto med asparges, spinat og sitron](#67-risotto-med-asparges-spinat-og-sitron) er samlingens andre risotto, og [nr. 33](#33-kremet-soppkylling) og [nr. 64](#64-fettuccine-boscaiola) bruker samme sopp-teknikk.
+- **Beslektet:** [risotto med asparges, spinat og sitron (nr. 67)](#67-risotto-med-asparges-spinat-og-sitron) er samlingens andre risotto, og [kremet soppkylling (nr. 33)](#33-kremet-soppkylling) og [fettuccine Boscaiola (nr. 64)](#64-fettuccine-boscaiola) bruker samme sopp-teknikk.
 
 ---
 
@@ -8197,7 +8343,7 @@ Vegetarisk hovedrett bygget i lag: en glatt krem av geitost og mascarpone i bunn
 - 1 sitron, saft og skall
 - Honning *(mengde ikke oppgitt)*
 - Bladpersille, finhakket
-- Smør
+- 12 g smør *(mengde lagt til.)*
 - Olivenolje
 - Salt og pepper
 
@@ -8212,18 +8358,18 @@ Vegetarisk hovedrett bygget i lag: en glatt krem av geitost og mascarpone i bunn
 
 ### Notater
 
-- **Kantarellene må i tørr panne først.** Kilden sier «stek hardt i litt olje», men sopp med olje fra start koker i sin egen væske og blir seig. Tørr panne til all væsken er dampet bort, *så* oljen og smøret. Samme presisering som i [T43 kantarellsaus](#t43-kantarellsaus). *(Lagt til.)*
+- **Kantarellene må i tørr panne først.** Kilden sier «stek hardt i litt olje», men sopp med olje fra start koker i sin egen væske og blir seig. Tørr panne til all væsken er dampet bort, *så* oljen og smøret. Samme presisering som i [kantarellsaus (T43)](#t43-kantarellsaus). *(Lagt til.)*
 - **15 minutter på 200 °C gir ikke gjennomstekt spisskål.** Halve hoder er tykke i stilken, og du får farge på snittflaten lenge før midten er myk. To løsninger: brun snittflaten i panne først og gi kålen 20–25 minutter i ovnen etterpå, eller del den i båter på 3–4 cm i stedet for halve hoder. Kilden viser selv til at fargen er målet, men mørheten er like viktig. *(Korreksjon lagt til.)*
 - **Rå rødbeter trenger 35–40 minutter**, ikke bare «til de har fått fin farge». Kildens parentes om at forkokte går raskere er nøkkelen – med forkokte holder 15 minutter, altså samme tid som kålen. Bruker du rå, må de inn en halvtime før. Ferdigkokte rødbeter i vakuumpakning fås i alle norske butikker. *(Presisering lagt til.)*
 - **Mengder mangler på tre ingredienser.** Regn **50 g marconamandler**, **1 ss honning** til rødbetene og **1 potte persille**. Geitosten er oppgitt som «1 rund», altså en hel chèvre-rull på 100–120 g. *(Lagt til.)*
 - **Å skjære bort kantene på geitosten er ikke pirk.** Den hvite muggskorpen gir en tydelig sopp- og ammoniakksmak som blir dominerende når osten mikses glatt. Skjær den bort på alle sider.
 - **1 : 1 geitost og mascarpone er riktig balanse.** Mascarponen demper syrligheten og gjør kremen glatt; ren geitost blir både for sur og for kornete til å bre utover en tallerken. Er kremen for tykk, spe med en skje fløte. *(Lagt til.)*
-- **Marconamandler** er spanske, rundere og mykere enn vanlige mandler, og selges ferdig ristede og saltede i delikatessebutikker. Vanlige mandler fungerer, men rist dem selv – se [S12 friterte saltmandler](#s12-friterte-saltmandler-almendras-fritas).
+- **Marconamandler** er spanske, rundere og mykere enn vanlige mandler, og selges ferdig ristede og saltede i delikatessebutikker. Vanlige mandler fungerer, men rist dem selv – se [friterte saltmandler (S12)](#s12-friterte-saltmandler-almendras-fritas).
 - **Sitronen brukes to steder**, skallet på kålen og saften i soppen, men er oppført én gang. Én sitron holder til begge. *(Presisering.)*
 - **Rødbeter farger av på alt.** De skal ligge for seg på brettet, ikke sammen med kålen, ellers blir hele retten rosa. Kilden løser det ved å bruke ulike deler av ovnen; bruk to brett.
 - **Anrettingen er en tallerkenrett, ikke et fat.** Kremen i bunnen fungerer som saus – bre den utover med baksiden av en skje, ikke som en klatt.
 - **Retten er vegetarisk, ikke vegansk** – geitost, mascarpone og smør. Vil du gjøre den vegansk, er det egentlig en annen rett; en hummus- eller cashewbase i bunnen er nærmeste vei. *(Lagt til.)*
-- **Beslektet:** [T43 kantarellsaus](#t43-kantarellsaus) og [nr. 151 sopprisotto](#151-sopprisotto-med-salsiccia-og-hasselnøtter) bruker samme sopp, og [nr. 110 aspargespai med fersk geitost](#110-aspargespai-med-fersk-geitost) samme ost.
+- **Beslektet:** [kantarellsaus (T43)](#t43-kantarellsaus) og [sopprisotto (nr. 151)](#151-sopprisotto-med-salsiccia-og-hasselnøtter) bruker samme sopp, og [aspargespai med fersk geitost (nr. 110)](#110-aspargespai-med-fersk-geitost) samme ost.
 
 ---
 
@@ -8268,7 +8414,7 @@ Rask tomatpasta som får preg av kapers, oliven og fersk chili, avsluttet med mo
 - **900 g tomat til 400 g pasta er rikelig.** Det gir en tydelig saus-tung rett, mer napolitansk enn romersk. Vil du ha den strammere, bruk 400 g passata og behold cherrytomatene.
 - **Chilitypen er ikke oppgitt.** Én fersk rød chili med frø gir tydelig, men ikke sterk hete. Tørkede chiliflak fungerer – ½ ts – men mangler den friske fruktigheten.
 - **De to desiliterne pastavann er nøkkelen til kremet saus.** Stivelsen binder olje og tomat til en emulsjon. Ha alltid mer klart enn du tror du trenger.
-- **Beslektet:** [nr. 61 ndujapasta](#61-ndujapasta) og [nr. 97 spicy vodka pasta](#97-spicy-vodka-pasta) er samlingens andre sterke tomatpastaer, og [nr. 143](#143-spaghetti-med-kremet-squashsaus-og-blåskjell) bruker samme teknikk med å fullføre pastaen i sausen.
+- **Beslektet:** [ndujapasta (nr. 61)](#61-ndujapasta) og [spicy vodka pasta (nr. 97)](#97-spicy-vodka-pasta) er samlingens andre sterke tomatpastaer, og [spaghetti med kremet squashsaus og blåskjell (nr. 143)](#143-spaghetti-med-kremet-squashsaus-og-blåskjell) bruker samme teknikk med å fullføre pastaen i sausen.
 
 ---
 
@@ -8319,7 +8465,7 @@ Kyllingterninger brunet raskt og lagt til side, risoni kokt i samme panne med so
 - **«2 krm» er svensk kryddmått, altså 2 ml** – i overkant av en tredjedels teskje. Regn ½ ts. *(Omregning lagt til.)*
 - **Både italiensk krydderblanding og oregano** er med, til sammen 4 ts. Blandinger inneholder allerede oregano, så dette er en dobling. Det er ikke feil, men vet du at blandingen din er oreganotung, kutt den separate oreganoen til 1 ts.
 - **Som matboks tykner retten kraftig over natten.** Risoni fortsetter å suge væske i kjøleskapet. Lag den løsere enn du ville servert den, og spe med en skvett vann ved oppvarming. *(Lagt til.)*
-- **Beslektet:** [nr. 144 one-pot risoni med reker og fetaost](#144-one-pot-risoni-med-reker-og-fetaost) er samme metode med sjømat og uten fløte, [nr. 148](#148-one-pot-kylling-med-gul-karri-og-ris) er den thailandske varianten med ris, og [SU1 marry me chicken-suppe med gnocchi](#su1-marry-me-chicken-suppe-med-gnocchi) bruker samme kombinasjon av kylling, soltørket tomat og fløte.
+- **Beslektet:** [one-pot risoni med reker og fetaost (nr. 144)](#144-one-pot-risoni-med-reker-og-fetaost) er samme metode med sjømat og uten fløte, [one-pot kylling med gul karri og ris (nr. 148)](#148-one-pot-kylling-med-gul-karri-og-ris) er den thailandske varianten med ris, og [marry me chicken-suppe med gnocchi (SU1)](#su1-marry-me-chicken-suppe-med-gnocchi) bruker samme kombinasjon av kylling, soltørket tomat og fløte.
 
 ---
 
@@ -8381,7 +8527,7 @@ Risotto alla milanese med sjømat: safran, carnaroliris og en gremolata av persi
 - **Dill i en italiensk risotto er nordisk frihet**, ikke tradisjon – men den kler både reker og sitron godt. Gremolataen her er dessuten en oljebasert variant; den klassiske er tørr og består bare av persille, sitronskall og hvitløk.
 - **Salt sist.** Buljongterninger og parmesan gjør retten salt av seg selv.
 - **Rist pistasjnøttene** i tørr panne før hakking hvis de ikke allerede er ristede.
-- **Beslektet:** [nr. 151 sopprisotto](#151-sopprisotto-med-salsiccia-og-hasselnøtter) og [nr. 67 risotto med asparges, spinat og sitron](#67-risotto-med-asparges-spinat-og-sitron) er samlingens andre risottoer, og [T14 chimichurri](#t14-chimichurri) er den argentinske slektningen til gremolataen.
+- **Beslektet:** [sopprisotto (nr. 151)](#151-sopprisotto-med-salsiccia-og-hasselnøtter) og [risotto med asparges, spinat og sitron (nr. 67)](#67-risotto-med-asparges-spinat-og-sitron) er samlingens andre risottoer, og [chimichurri (T14)](#t14-chimichurri) er den argentinske slektningen til gremolataen.
 
 ---
 
@@ -8429,7 +8575,7 @@ Kyllingbryst panert i panko og sesamfrø, fritert sprøtt, over romanosalat med 
 
 - **Kilden gir bare fremgangsmåte for kyllingen.** Overskriften sier «såhär tillagar du kycklingen», og der stopper det – verken dressingen eller selve salaten har noen trinn. Punkt 3 og 4 er ført inn. *(Mangel notert.)*
 - **Ansjosen må moses helt.** Hele fileter rørt i majones gir salte klumper i stedet for jevn umami. Mos dem med baksiden av en kniv mot skjærefjølen, gjerne med litt salt som slipemiddel, til det blir en pasta. Dette er den ingrediensen som gjør en cæsardressing til en cæsardressing. *(Lagt til.)*
-- **Ekte cæsardressing lages på eggeplomme og olje**, ikke ferdig majones – men majonesbasen er den vanlige snarveien og fungerer godt her. Vil du lage den fra bunnen, se [G3](#g3-majones) og pisk inn ansjos, hvitløk og parmesan til slutt. Merk at originalen heller ikke inneholder sitronskall; det gir en friskere, mer moderne dressing. *(Bakgrunn lagt til.)*
+- **Ekte cæsardressing lages på eggeplomme og olje**, ikke ferdig majones – men majonesbasen er den vanlige snarveien og fungerer godt her. Vil du lage den fra bunnen, se [T122](#t122-majones) og pisk inn ansjos, hvitløk og parmesan til slutt. Merk at originalen heller ikke inneholder sitronskall; det gir en friskere, mer moderne dressing. *(Bakgrunn lagt til.)*
 - **Sesamfrø i paneringen er ikke klassisk cæsar**, men fungerer – de rister seg i frityren og gir nøttesmak. Vær oppmerksom på at de brenner raskere enn pankoen; hold deg til 180 °C og ikke lenger enn de tre minuttene. *(Presisering lagt til.)*
 - **3 minutter forutsetter tynne fileter.** «Del kyllingbrystet längs mitten» betyr vannrett, til to tynnere fileter – ikke i to like tykke halvdeler. Er de tykkere enn 1,5 cm, blir de rå i midten. Kjernetemperatur **70 °C**. *(Presisering lagt til.)*
 - **Salatens mengder mangler helt.** Regn **2 romanosalathoder**, **¼ rødløk** tynt skivet og **50 g parmesan** til fire porsjoner. *(Lagt til.)*
@@ -8438,7 +8584,7 @@ Kyllingbryst panert i panko og sesamfrø, fritert sprøtt, over romanosalat med 
 - **Dressingen tykner i kjøleskapet.** Den ene spiseskjeen vann er der for å tynne den ut; trenger du mer, spe med vann, ikke sitron – ellers blir den for syrlig.
 - **Vend salaten i dressingen rett før servering.** Romanosalat faller sammen i løpet av minutter.
 - **Kilden oppgir et bestemt majonesmerke.** Enhver god majones fungerer; norsk majones er søtere enn amerikansk, så smak til med litt ekstra sitron hvis du bruker den. *(Presisering lagt til.)*
-- **Beslektet:** [nr. 96 sprø kyllingstrimler i airfryer](#96-sprø-kyllingstrimler-i-airfryer) er en lettere vei til samme sprø kylling, og [T42 Chicken tender dip](#t42-chicken-tender-dip-canes-saus) er en annen majonesbasert dressing i samme sjanger.
+- **Beslektet:** [sprø kyllingstrimler i airfryer (nr. 96)](#96-sprø-kyllingstrimler-i-airfryer) er en lettere vei til samme sprø kylling, og [Chicken tender dip (T42)](#t42-chicken-tender-dip-canes-saus) er en annen majonesbasert dressing i samme sjanger.
 
 ---
 
@@ -8525,14 +8671,14 @@ Seks ingredienser og ingen saus i egentlig forstand – sesamfrø, sitron, pecor
 - **Fremgangsmåten er rekonstruert, ikke gjengitt.** Kilden består utelukkende av en ingrediensliste. Rekkefølgen følger teknikken for cacio e pepe, som denne retten i praksis er en variant av. Verifiser gjerne mot videoen. *(Merknad lagt til.)*
 - **Pecorinoen må ikke møte for høy varme.** Dette er hele fallgruven i denne typen pasta: osten klumper seg og trekker tråder hvis pannen er glovarm. Ta pannen av platen, og bruk kokevann som er varmt, ikke kokende. Se de to cacio e pepe-oppskriftene i samlingen – [nr. 62](#62-cacio-e-pepe--vincenzos-plate-sin-versjon) og [nr. 68](#68-cacio-e-pepe--serious-eats-sin-versjon) – som begge går grundig inn på nettopp dette.
 - **Sitronsaften helt til slutt, aldri før osten er smeltet.** Syre får pecorinoen til å skille seg. Kildens ingrediensliste sier bare «zest + juice» uten å skille dem; skallet går i tidlig for aromaen, saften på slutten for friskheten. *(Presisering lagt til.)*
-- **Del sesamfrøene i to.** Knuste frø gir smak til sausen, hele gir tekstur på toppen. Knuser du alt, forsvinner crunchen; knuser du ingenting, triller frøene bare av pastaen. Samme poeng som i [T39 sesamdressing](#t39-sesamdressing-til-kålsalat). *(Lagt til.)*
+- **Del sesamfrøene i to.** Knuste frø gir smak til sausen, hele gir tekstur på toppen. Knuser du alt, forsvinner crunchen; knuser du ingenting, triller frøene bare av pastaen. Samme poeng som i [sesamdressing (T39)](#t39-sesamdressing-til-kålsalat). *(Lagt til.)*
 - **Sesamfrø brenner på sekunder.** Ta dem ut av pannen i det de dufter, og hell dem over i en kald skål – ettervarmen i pannen fortsetter å riste dem.
 - **Spaghettoni er valgt med hensikt.** Den tykkere tråden gir mer tyggemotstand og tåler den kraftige røringen sausen krever. Vanlig spaghetti fungerer, men bucatini eller tonnarelli er enda nærmere.
 - **Salt pastavannet lettere enn vanlig.** 100 g pecorino er svært salt, og vannet blir en del av sausen.
 - **Pecorino romano, ikke parmesan.** Pecorino er saltere, skarpere og laget på sauemelk – det er den syrligheten som møter sitronen. Parmesan fungerer, men gir en rundere og mindre spennende rett.
 - **Riv osten så fint du klarer.** Grovrevet ost smelter ujevnt og klumper seg. Bruk den fineste siden av rivjernet, eller en microplane.
 - **Ha rikelig med kokevann klart.** Sausen tykner mens den står, og du trenger mer enn du tror. Fire desiliter er ikke for mye.
-- **Beslektet:** [nr. 62](#62-cacio-e-pepe--vincenzos-plate-sin-versjon) og [nr. 68](#68-cacio-e-pepe--serious-eats-sin-versjon) er samme teknikk i klassisk form, og [nr. 69 carbonara](#69-carbonara) bygger på samme emulsjonsprinsipp.
+- **Beslektet:** [cacio e pepe – Vincenzo's Plate sin versjon (nr. 62)](#62-cacio-e-pepe--vincenzos-plate-sin-versjon) og [cacio e pepe – Serious Eats sin versjon (nr. 68)](#68-cacio-e-pepe--serious-eats-sin-versjon) er samme teknikk i klassisk form, og [carbonara (nr. 69)](#69-carbonara) bygger på samme emulsjonsprinsipp.
 
 ---
 
@@ -8647,8 +8793,8 @@ Kjøttdeig presset tynt utover en tortilla og stekt til den blir en kjøttskorpe
 - **Cheddar mot amerikansk ost.** Big Mac bruker prosessert amerikansk ost, som smelter jevnt og ikke skiller seg. Cheddar smaker mer, men blir lettere oljete. Smelteost i skiver er nærmest originalen – se [SU18](#su18-tomatsuppe-med-grilled-cheese--rajjekost-sin-versjon).
 - **Salaten skal på til slutt, aldri i pannen.** Isbergsalat mister sprøheten på sekunder mot varm ost. Strimle den tynt og hold den kald.
 - **Finhakket løk mangler.** En ekte Big Mac har rehydrert tørket løk mellom kjøtt og saus. Løkpulveret i sausen dekker delvis, men 2 ss finhakket rå løk gir det siste. *(Forslag lagt til.)*
-- **Sausen blir bedre av å hvile.** Løk- og hvitløkspulver trenger tid til å suge til seg væske – lag den først, gjerne en time før. Samme poeng som i [T42 Chicken tender dip](#t42-chicken-tender-dip-canes-saus).
-- **Beslektet:** [nr. 126 kyllingquesadillas](#126-kyllingquesadillas) bruker samme panneteknikk med tortilla og smeltet ost, og [T42](#t42-chicken-tender-dip-canes-saus) er samlingens andre amerikanske majonessaus.
+- **Sausen blir bedre av å hvile.** Løk- og hvitløkspulver trenger tid til å suge til seg væske – lag den først, gjerne en time før. Samme poeng som i [Chicken tender dip (T42)](#t42-chicken-tender-dip-canes-saus).
+- **Beslektet:** [kyllingquesadillas (nr. 126)](#126-kyllingquesadillas) bruker samme panneteknikk med tortilla og smeltet ost, og [chicken tender dip (Cane's-saus) (T42)](#t42-chicken-tender-dip-canes-saus) er samlingens andre amerikanske majonessaus.
 
 ---
 
@@ -8695,7 +8841,7 @@ Vårrisotto der erter, aspargesstilker og ramsløk kokes og mikses til en knallg
 - **Puréen skal i sent.** Kokes den lenge, mister den den grønne fargen og blir olivenfarget. Rør den inn de siste 2–3 minuttene.
 - **Mascarponen er valgfri** – den står i ingredienslisten uten forbehold, men fremgangsmåten sier «if using». Med den blir risottoen tydelig kremere og mildere.
 - **Aspargesen deles i to bruksområder:** stilkene i puréen, toppene som pynt. Knekk stilkene der de naturlig brekker, og bruk den nedre delen til puréen.
-- **Beslektet:** [nr. 67 risotto med asparges, spinat og sitron](#67-risotto-med-asparges-spinat-og-sitron) er nærmeste slektning, og [nr. 151](#151-sopprisotto-med-salsiccia-og-hasselnøtter) og [nr. 155](#155-safranrisotto-med-reker-og-pistasjnøtter) er samlingens andre risottoer. Se [nr. 145](#145-hvit-asparges-med-shiitake-og-brunet-hollandaise) for hvit asparges.
+- **Beslektet:** [risotto med asparges, spinat og sitron (nr. 67)](#67-risotto-med-asparges-spinat-og-sitron) er nærmeste slektning, og [sopprisotto med salsiccia og hasselnøtter (nr. 151)](#151-sopprisotto-med-salsiccia-og-hasselnøtter) og [safranrisotto med reker og pistasjnøtter (nr. 155)](#155-safranrisotto-med-reker-og-pistasjnøtter) er samlingens andre risottoer. Se [hvit asparges med shiitake og brunet hollandaise (nr. 145)](#145-hvit-asparges-med-shiitake-og-brunet-hollandaise) for hvit asparges.
 
 ---
 
@@ -8733,7 +8879,7 @@ Bechamel med tre oster og svart trøffelpasta, gratinert til den er gyllen. Kort
 - **Trøffelpasta er dyrt, og 3–4 ss er mye.** Start med 2 ss og smak – trøffelaroma blir fort dominerende og kjemisk. De fleste rimelige trøffelpastaene er smaksatt med syntetisk 2,4-ditiapentan, ikke ekte trøffel; les innholdsfortegnelsen. *(Bakgrunn lagt til.)*
 - **Ta pannen av varmen før ostene går i.** Kilden sier det ikke, men ost i kokende bechamel skiller seg og blir trådete. *(Lagt til.)*
 - **Salt mangler helt.** Ost og trøffelpasta bidrar, men smak til – en bechamel uten salt er flat. Litt revet muskat hører også hjemme her.
-- **Sammenlign med [nr. 106 mac and cheese](#106-mac-and-cheese)**, som tar 45 minutter og er den grundige versjonen. Denne er hverdagsvarianten med et luksuriøst tilskudd.
+- **Sammenlign med [mac and cheese (nr. 106)](#106-mac-and-cheese)**, som tar 45 minutter og er den grundige versjonen. Denne er hverdagsvarianten med et luksuriøst tilskudd.
 
 ---
 
@@ -8773,7 +8919,7 @@ Liten britisk kyllingpai med bacon, purre og sopp i en fløtesaus med grovkornet
 
 ### Notater
 
-- **Kyllingen må være ferdig kokt.** Kilden sier «shredded chicken» uten å nevne det – dette er en restemat-oppskrift. Bruk restene fra [nr. 104 helstekt kylling](#104-helstekt-kylling-med-urtesmør) eller [nr. 121](#121-helstekt-kylling-med-hvitløk--hellstrøm-sin-versjon), eller kjøp ferdig grillet kylling. **1 neve er ca. 100 g.** *(Kritisk presisering lagt til.)*
+- **Kyllingen må være ferdig kokt.** Kilden sier «shredded chicken» uten å nevne det – dette er en restemat-oppskrift. Bruk restene fra [helstekt kylling (nr. 104)](#104-helstekt-kylling-med-urtesmør) eller [Hellstrøms helstekte kylling med hvitløk (nr. 121)](#121-hellstrøms-helstekte-kylling-med-hvitløk), eller kjøp ferdig grillet kylling. **1 neve er ca. 100 g.** *(Kritisk presisering lagt til.)*
 - **Eggen til pensling mangler i ingredienslisten.** *(Rettelse.)*
 - **Kald panne til baconet er riktig teknikk.** Fettet smelter langsomt ut i stedet for at kjøttet svir seg, og du får både sprøtt bacon og et fett å steke grønnsakene i. Kilden gjør det bevisst.
 - **Fyllet bør avkjøles før butterdeigen legges på.** Varmt fyll smelter smøret i deigen før den kommer i ovnen, og lokket blir flatt i stedet for luftig. La det stå 15 minutter. *(Lagt til.)*
@@ -8824,8 +8970,8 @@ Pasta alla Norma uten pastaen: aubergine, tomat og hvitløk, med smørbønner i 
 - **Ricotta salata er det som mangler.** I en ekte alla Norma rives den saltede, tørkede ricottaen over til slutt. Cashewparmesan er den veganske erstatningen kilden foreslår, uten å oppgi oppskrift: **100 g cashewnøtter, 3 ss næringsgjær, 1 ts salt og ½ ts hvitløkspulver** kjørt til smuler i foodprosessor. *(Oppskrift lagt til.)*
 - **Hvitløken skives, ikke hakkes.** Kilden er spesifikk. Skiver blir myke og søte i sausen i stedet for å forsvinne, og det passer stilen.
 - **Retten er vegansk** slik den står.
-- **Serveres på ristet surdeigsbrød** – kilden merker innlegget med #beansontoast. Se [B13 focaccia](#b13-focaccia-på-én-dag) eller [B12 baguetter](#b12-baguetter-med-damp). Den fungerer også som pastasaus, og da er den i praksis en pasta alla Norma med bønner i.
-- **Beslektet:** [nr. 142 lasagne alla Norma](#142-lasagne-alla-norma-med-salsicciaragù) er samme grunnidé i lasagneform, [SU16](#su16-hvitbønnegryte-med-tomat-og-spinat) og [nr. 140](#140-kuru-fasulye-yahni--tyrkisk-hvitbønnegryte) er samlingens andre bønnegryter.
+- **Serveres på ristet surdeigsbrød** – kilden merker innlegget med #beansontoast. Se [focaccia (B13)](#b13-focaccia-på-én-dag) eller [baguetter (B12)](#b12-baguetter-med-damp). Den fungerer også som pastasaus, og da er den i praksis en pasta alla Norma med bønner i.
+- **Beslektet:** [lasagne alla Norma (nr. 142)](#142-lasagne-alla-norma-med-salsicciaragù) er samme grunnidé i lasagneform, [hvitbønnegryte med tomat og spinat (SU16)](#su16-hvitbønnegryte-med-tomat-og-spinat) og [kuru fasulye yahni – tyrkisk hvitbønnegryte (nr. 140)](#140-kuru-fasulye-yahni--tyrkisk-hvitbønnegryte) er samlingens andre bønnegryter.
 
 ---
 
@@ -8869,7 +9015,7 @@ Bolognesisk lasagne har tre komponenter og ingen ost mellom lagene bortsett fra 
 - **Grønne plater er originalen.** I Bologna brukes spinatpasta, som er grovere og holder bedre på sausen. Har du fersk pastadeig fra [G1](#g1-master-pasta-dough--grunndeig-til-fersk-eggpasta), kan du gjøre den om med 100 g spinat kokt, klemt tørr og most inn i eggeblandingen. *(Lagt til.)*
 - **Muskat i bechamelen** er standard i klassisk fransk og italiensk kjøkken, og er det som skiller en bechamel fra en hvit saus. Vær forsiktig – ¼ ts holder til en liter.
 - **Holdbarhet:** 3 døgn kjøleskap. Tåler frysing både før og etter steking. Fryst usteikt: rett fra fryseren på 180 °C i **75 minutter** med folie, deretter 15 uten.
-- **Beslektet:** [nr. 73](#73-tagliatelle-al-ragù) er ragùen og pastavarianten av samme saus, [nr. 142](#142-lasagne-alla-norma-med-salsicciaragù) er samme form med aubergine, og [nr. 65](#65-langtidskokt-oksragù) er samlingens grovere ragù på hele kjøttbiter.
+- **Beslektet:** [tagliatelle al Ragù (nr. 73)](#73-tagliatelle-al-ragù) er ragùen og pastavarianten av samme saus, [lasagne alla Norma med salsicciaragù (nr. 142)](#142-lasagne-alla-norma-med-salsicciaragù) er samme form med aubergine, og [langtidskokt oksragù (nr. 65)](#65-langtidskokt-oksragù) er samlingens grovere ragù på hele kjøttbiter.
 
 ---
 
@@ -8888,7 +9034,7 @@ Høyrygg i strimler surret møre i to timer, og en saus av rømme, fløte, dijon
 - 2 ss røkt paprikapulver
 - 1 ss sukker
 - 6 dl kalvekraft
-- Smør til steking
+- 15 g smør til steking *(mengde lagt til.)*
 - Salt og pepper
 
 **Sausen**
@@ -8902,7 +9048,7 @@ Høyrygg i strimler surret møre i to timer, og en saus av rømme, fløte, dijon
 **Til slutt**
 - 300 g sjampinjong, i skiver
 - 1 ss sitronsaft
-- Smør til steking
+- 15 g smør til steking *(mengde lagt til.)*
 
 ### Fremgangsmåte
 
@@ -9048,7 +9194,7 @@ Kalveskank i tykke skiver, melet og brunet, braisert i hvitvin og tomat til kjø
 - **Kilden tilbyr eplejuice i stedet for vin.** Det fungerer, men gir en tydelig søtere saus. Vil du unngå alkohol og beholde syren, bruk buljong og en spiseskje hvitvinseddik i stedet. *(Lagt til.)*
 - **Gremolata lages rett før servering.** Rå hvitløk og revet sitronskall taper seg i løpet av en time.
 - **Holdbarhet:** 3 døgn kjøleskap, 3 måneder fryser. Bedre dag to. Avkjøl kjøttet i sausen.
-- **Beslektet:** [nr. 169](#169-braisert-lammeskank-med-gremolata) bruker samme teknikk og samme gremolata på lam, [nr. 105](#105-pot-roast--braisert-høyrygg-med-rotgrønnsaker) er den amerikanske slektningen, og [nr. 151](#151-sopprisotto-med-salsiccia-og-hasselnøtter) viser risottoteknikken til tilbehøret.
+- **Beslektet:** [braisert lammeskank med gremolata (nr. 169)](#169-braisert-lammeskank-med-gremolata) bruker samme teknikk og samme gremolata på lam, [pot roast – braisert høyrygg med rotgrønnsaker (nr. 105)](#105-pot-roast--braisert-høyrygg-med-rotgrønnsaker) er den amerikanske slektningen, og [sopprisotto med salsiccia og hasselnøtter (nr. 151)](#151-sopprisotto-med-salsiccia-og-hasselnøtter) viser risottoteknikken til tilbehøret.
 
 ---
 
@@ -9144,7 +9290,7 @@ Tynt kjøtt marinert i lime, appelsin, hvitløk og koriander, stekt hardt og kor
 - **Pannen skal ryke.** Er den ikke varm nok, slipper kjøttet væske og koker. Stek i to omganger hvis pannen er liten.
 - **Hviletiden på 10 minutter** gjelder selv for tynt kjøtt. Skjærer du med en gang, renner saften ut på fjøla i stedet for å bli i kjøttet.
 - **Holdbarhet:** 2 døgn kjøleskap. Kjøttet blir seigt ved oppvarming – spis det heller kaldt i salat dagen etter.
-- **Beslektet:** [nr. 122](#122-braiserte-kyllingtacos) er den langtidskokte motsatsen med samme servering, [T20](#t20-pico-de-gallo) og [T47](#t47-guacamole) hører til samme bord, og [G5](#g5-tortillas-med-gresk-yoghurt) er tortillaene.
+- **Beslektet:** [braiserte kyllingtacos (nr. 122)](#122-braiserte-kyllingtacos) er den langtidskokte motsatsen med samme servering, [pico de gallo (T20)](#t20-pico-de-gallo) og [guacamole (T47)](#t47-guacamole) hører til samme bord, og [tortillas med gresk yoghurt (G14)](#g14-tortillas-med-gresk-yoghurt) er tortillaene.
 
 ---
 
@@ -9253,7 +9399,7 @@ Tynne skiver mørt storfe i en marinade av revet pære, løk, hvitløk, ingefær
 - **Kull slår alt annet.** Maangchi begrunner det: marinaden og fettet drypper ned på kullene, brenner opp der og kommer tilbake som røyk over kjøttet. Innendørs er støpejern nest best.
 - **Vegetarvariant:** samme marinade, men bytt kjøttet med 10–12 store tørkede shiitake, bløtlagt i varmt vann i noen timer, klemt tørre og skåret tynt. Det står i kilden.
 - **Holdbarhet:** kjøttet kan ligge i marinaden 2 døgn i kjøleskap, eller fryses ferdig marinert i 3 måneder. Stekt bulgogi bør spises samme dag.
-- **Beslektet:** [nr. 58](#58-korean-bbq-lamb) er samme prinsipp på lam, [T12](#t12-yangnyeomjang--koreansk-dippsaus) og [T7](#t7-kimchi) hører til bordet, og [T6](#t6-koreansk-sterk-agurksalat-oi-muchim) er den friske motvekten.
+- **Beslektet:** [korean BBQ Lamb (nr. 58)](#58-korean-bbq-lamb) er samme prinsipp på lam, [yangnyeomjang – koreansk dippsaus (T12)](#t12-yangnyeomjang--koreansk-dippsaus) og [kimchi (T7)](#t7-kimchi) hører til bordet, og [koreansk sterk agurksalat (oi muchim) (T6)](#t6-koreansk-sterk-agurksalat-oi-muchim) er den friske motvekten.
 
 ---
 
@@ -9314,7 +9460,7 @@ Aubergine i lag med tomatsaus, parmesan og basilikum. Den lange saltingen av aub
 
 - 1,2 kg aubergine, i skiver på 1 cm
 - 2 ss salt til salting
-- 1 liter marinara, se [G10](#g10-marinara--tomatsausbase)
+- 1 liter marinara, se [T125](#t125-marinara--tomatsausbase)
 - 250 g mozzarella, revet og godt avrent
 - 150 g revet parmesan
 - 1 stor bunt basilikum
@@ -9339,7 +9485,7 @@ Aubergine i lag med tomatsaus, parmesan og basilikum. Den lange saltingen av aub
 - **Hvilen på 20 minutter** gjelder her som i lasagne. Skjæres den varm, sklir lagene fra hverandre.
 - **Ingen paneringsmel.** Den amerikanske versjonen paneres og friteres. Den italienske er bare aubergine, saus og ost.
 - **Holdbarhet:** 4 døgn kjøleskap, 3 måneder fryser. Klart bedre dag to.
-- **Beslektet:** [nr. 142](#142-lasagne-alla-norma-med-salsicciaragù) og [nr. 164](#164-beans-alla-norma--siciliansk-aubergine--og-bønnegryte) bruker samme grønnsak i samme kjøkken, og [nr. 167](#167-lasagne-alla-bolognese) er samme lagteknikk.
+- **Beslektet:** [lasagne alla Norma med salsicciaragù (nr. 142)](#142-lasagne-alla-norma-med-salsicciaragù) og [beans alla Norma – siciliansk aubergine- og bønnegryte (nr. 164)](#164-beans-alla-norma--siciliansk-aubergine--og-bønnegryte) bruker samme grønnsak i samme kjøkken, og [lasagne alla bolognese (nr. 167)](#167-lasagne-alla-bolognese) er samme lagteknikk.
 
 ---
 
@@ -9442,7 +9588,7 @@ Spinat kokt ned til en tykk, mørkegrønn saus med paneer stekt gyllen. Paneeren
 
 - 500 g fersk spinat *(eller 400 g frossen, tint og klemt tørr)*
 - 400 g paneer, i terninger på 2 cm
-- 3 ss ghee eller nøytral olje, se [G17](#g17-brunet-smør-og-ghee)
+- 3 ss ghee eller nøytral olje, se [T126](#t126-brunet-smør-og-ghee)
 - 1 løk, finhakket
 - 4 hvitløksfedd, most
 - 1 ss revet ingefær
@@ -9569,7 +9715,7 @@ Gulrot, pastinakk og sellerirot bakt til kantene karamelliserer, vendt i et smø
 - **220 °C.** Rotgrønnsaker trenger høy varme for å få farge før de blir bløte innvendig.
 - **Resten av smøret inn rått** til slutt. Det gir en frisk misosmak ved siden av den bakte.
 - **Holdbarhet:** 4 døgn kjøleskap. Varmes best i panne, ikke mikro.
-- **Beslektet:** [nr. 6](#6-misosuppe) og [G7](#g7-dashi) bruker samme spiskammer, og [T23](#t23-potetbåter-i-airfryer) er samme teknikk på potet.
+- **Beslektet:** [misosuppe (nr. 6)](#6-misosuppe) og [dashi (G21)](#g21-dashi) bruker samme spiskammer, og [potetbåter i airfryer (T23)](#t23-potetbåter-i-airfryer) er samme teknikk på potet.
 
 ---
 
@@ -9671,7 +9817,7 @@ Lasagne uten tomat. Sopp stekt i to omganger, bechamel og parmesan. Soppen må s
 - 800 g blandet sopp *(sjampinjong, kantarell, østerssopp)*, i skiver
 - 30 g tørket steinsopp
 - 250 g lasagneplater
-- 1 liter bechamel, se [G8](#g8-bechamel)
+- 1 liter bechamel, se [T124](#t124-bechamel)
 - 120 g revet parmesan
 - 3 ss olivenolje
 - 50 g smør
@@ -9698,9 +9844,9 @@ Lasagne uten tomat. Sopp stekt i to omganger, bechamel og parmesan. Soppen må s
 - **I omganger.** En full panne senker temperaturen, og da koker den uansett. To eller tre omganger er verdt tiden.
 - **Tørket steinsopp gjør jobben tomaten ellers ville gjort.** Den gir dybden en hvit lasagne trenger for ikke å smake bare fløte.
 - **Bløtvannet er kraft.** Sil det gjennom et papir for å fjerne sand, og bruk det.
-- **Bechamelen skal være løs.** Se [G8](#g8-bechamel) – platene trekker til seg mye væske.
+- **Bechamelen skal være løs.** Se [T124](#t124-bechamel) – platene trekker til seg mye væske.
 - **Holdbarhet:** 3 døgn kjøleskap, 3 måneder fryser.
-- **Beslektet:** [nr. 167](#167-lasagne-alla-bolognese) er kjøttvarianten med samme teknikk, [G8](#g8-bechamel) er sausen, og [nr. 151](#151-sopprisotto-med-salsiccia-og-hasselnøtter) bruker samme soppbehandling.
+- **Beslektet:** [lasagne alla bolognese (nr. 167)](#167-lasagne-alla-bolognese) er kjøttvarianten med samme teknikk, [bechamel (T124)](#t124-bechamel) er sausen, og [sopprisotto med salsiccia og hasselnøtter (nr. 151)](#151-sopprisotto-med-salsiccia-og-hasselnøtter) bruker samme soppbehandling.
 
 ---
 
@@ -9725,7 +9871,7 @@ Kjøttsaus med chorizo, korianderfrø og fennikelfrø, lagt i lag med nachochips
 - 1 ts chilipulver *(eventuelt litt mer)*
 - 2 dl knuste hermetiske tomater
 - Salt og pepper
-- Olje til steking
+- 15 g olje til steking *(mengde lagt til.)*
 
 **Gratineringen**
 - 1 pose nachochips *(ca. 175–200 g – se notat)*
@@ -9766,7 +9912,7 @@ Kjøttsaus med chorizo, korianderfrø og fennikelfrø, lagt i lag med nachochips
 - **Toppingen er i praksis en pico de gallo** med avokado ved siden av. Se [T20](#t20-pico-de-gallo) hvis du vil lage den i større porsjon.
 - **Tiden er ikke oppgitt i kilden.** Regn 40 minutter. *(Lagt til.)*
 - **Holdbarhet:** ferdig nachos må spises med en gang – chipsen bløtner i løpet av minutter. Kjøttsausen holder 3 døgn i kjøleskap og 3 måneder i fryser, og er dermed verdt å lage dobbel porsjon av.
-- **Beslektet:** [T20](#t20-pico-de-gallo) og [T47](#t47-guacamole) hører til samme bord, [nr. 122](#122-braiserte-kyllingtacos) og [nr. 160](#160-big-mac-tacos) er samlingens andre tex-mex-retter, og [G5](#g5-tortillas-med-gresk-yoghurt) er tortillaene.
+- **Beslektet:** [pico de gallo (T20)](#t20-pico-de-gallo) og [guacamole (T47)](#t47-guacamole) hører til samme bord, [braiserte kyllingtacos (nr. 122)](#122-braiserte-kyllingtacos) og [big Mac tacos (nr. 160)](#160-big-mac-tacos) er samlingens andre tex-mex-retter, og [tortillas med gresk yoghurt (G14)](#g14-tortillas-med-gresk-yoghurt) er tortillaene.
 
 ---
 
@@ -9864,7 +10010,7 @@ Sju timer i ovnen, fra 170 ned til 90 og opp igjen til 210. Metoden bygger på e
 - **Følg med de siste tjue minuttene.** Fra 210 °C til grillfunksjon er det liten margin mellom perfekt poffet svor og svidd.
 - **Kraften i formen** blir til sjysaus, med grønnsakene som har trukket i den siden klokka 15.
 - **Holdbarhet:** 3 døgn i kjøleskap. Oppvarmet ribbe får aldri skorpen tilbake – skjær den heller i skiver og stek dem sprø i panne.
-- **Beslektet:** [nr. 107](#107-ovnsstekt-svinekam-med-dijon-og-rosmarin) er samme dyr i kortversjon, og [T62](#t62-hasselbackpoteter--matprat-sin-versjon) eller [T50](#t50-pommes-anna) hører til bordet.
+- **Beslektet:** [ovnsstekt svinekam med dijon og rosmarin (nr. 107)](#107-ovnsstekt-svinekam-med-dijon-og-rosmarin) er samme dyr i kortversjon, og [hasselbackpoteter – Matprat sin versjon (T62)](#t62-hasselbackpoteter--matprat-sin-versjon) eller [pommes Anna (T50)](#t50-pommes-anna) hører til bordet.
 
 ---
 
@@ -9884,7 +10030,7 @@ Skankene gnis inn med hele krydder knust i morter, brunes, og bakes tre timer p�
 - 1 ss tørket oregano
 - 1 ss chiliflak
 - 6 hvitløksfedd
-- Olje til bruning
+- 15 g olje til bruning *(mengde lagt til.)*
 - 2 løk
 - 2,5 dl rødvin
 - 2 gulrøtter, hakket
@@ -9916,7 +10062,7 @@ Skankene gnis inn med hele krydder knust i morter, brunes, og bakes tre timer p�
 - **«1 tomat» er uklart i kilden.** Mengden står oppgitt uten enhet. Én fersk tomat er lite til fire skanker – én boks hermetiske tomater er også en rimelig lesning. Her er det ført som én fersk tomat, i tråd med at retten skal være tørr. *(Presisert.)*
 - **Tilbehør fra kilden:** bakte rotgrønnsaker, eller smørkokte gulrøtter.
 - **Holdbarhet:** 3 døgn kjøleskap, 3 måneder fryser. Braiserte retter blir bedre dag to.
-- **Beslektet:** [nr. 169](#169-braisert-lammeskank-med-gremolata) er samlingens andre lammeskank, med gremolata i stedet for rødvin, [nr. 105](#105-pot-roast--braisert-høyrygg-med-rotgrønnsaker) bruker samme teknikk på storfe, og [T17](#t17-fondantpoteter) hører til bordet.
+- **Beslektet:** [braisert lammeskank med gremolata (nr. 169)](#169-braisert-lammeskank-med-gremolata) er samlingens andre lammeskank, med gremolata i stedet for rødvin, [pot roast – braisert høyrygg med rotgrønnsaker (nr. 105)](#105-pot-roast--braisert-høyrygg-med-rotgrønnsaker) bruker samme teknikk på storfe, og [fondantpoteter (T17)](#t17-fondantpoteter) hører til bordet.
 
 ---
 
@@ -9941,7 +10087,7 @@ Kyllingbrystene bankes flate og glaseres med innkokt balsamico i pannen. Risotto
 - 3 kvister timian, pluss 2 til pynt
 - Ca. 12 tråder safran, eller safranpulver
 - 150 ml tørr hvitvin
-- 7,5–10 dl varm grønnsakkraft, se [G11](#g11-grønnsakskraft)
+- 7,5–10 dl varm grønnsakkraft, se [G30](#g30-grønnsakskraft)
 - 80 g smør
 - 80 g pecorino, revet
 - ½ radicchio *(rosensalat)*, eller ruccola eller spinat
@@ -9979,12 +10125,354 @@ Kyllingbrystene bankes flate og glaseres med innkokt balsamico i pannen. Risotto
 - **Radicchio helt på slutten.** Tre minutter er nok til at den mykner, men ikke så lenge at bitterheten koker bort. Den er motvekten til smør, ost og safran.
 - **Safran i tråder gir mer** enn pulver, men kilden aksepterer begge. Legg trådene gjerne i litt av den varme kraften først.
 - **Holdbarhet:** risotto er dårlig restemat – den stivner. Spis den nylaget, eller lag arancini av restene.
-- **Beslektet:** [nr. 155](#155-safranrisotto-med-reker-og-pistasjnøtter) er samlingens andre safranrisotto, med reker, og [nr. 151](#151-sopprisotto-med-salsiccia-og-hasselnøtter), [nr. 67](#67-risotto-med-asparges-spinat-og-sitron) og [nr. 161](#161-risotto-med-ramsløk-erter-og-asparges) er de øvrige. [G11](#g11-grønnsakskraft) er kraften.
+- **Beslektet:** [safranrisotto med reker og pistasjnøtter (nr. 155)](#155-safranrisotto-med-reker-og-pistasjnøtter) er samlingens andre safranrisotto, og [sopprisotto med salsiccia og hasselnøtter (nr. 151)](#151-sopprisotto-med-salsiccia-og-hasselnøtter), [risotto med asparges, spinat og sitron (nr. 67)](#67-risotto-med-asparges-spinat-og-sitron) og [risotto med ramsløk, erter og asparges (nr. 161)](#161-risotto-med-ramsløk-erter-og-asparges) er de øvrige. [Grønnsakskraft (G30)](#g30-grønnsakskraft) er kraften.
 
 ---
 
 
-# Sjømat
+## 189. Grønn kyllingcurry med paprika og squash
+
+**Kilde:** Trine Sandberg / Trines matblogg (trinesmatblogg.no) · **Kjøkken:** Thai · **Tid:** 45–60 min · **Porsjoner:** 4
+
+Tynnere enn en klassisk grønn curry – kilden kaller den selv en suppe – og bygget rundt grønnsaker du får tak i overalt. Karripastaen freses i kokosfettet fra toppen av boksen, som er det som får smaken ut av den.
+
+### Ingredienser
+
+- 500 g kyllingfilet, i strimler
+- 1 boks kokosmelk, fet type *(400 g)*
+- 1 rødløk, i tynne båter
+- 2 ss grønn karripasta *(smak til)*
+- 1 grønn chili, i tynne skiver *(eventuelt rød)*
+- 1 ss finrevet ingefær
+- 2 stilker sitrongress
+- 2½ dl kyllingkraft, se [G22](#g22-kyllingkraft)
+- 1 ss soyasaus *(smak til)*
+- 1 ss fiskesaus *(smak til)*
+- 1 lime *(smak til)*
+- Sukker *(smak til)*
+- 1 rød paprika, i strimler
+- ½ squash, i staver *(eller aubergine)*
+- 3 vårløk, finsnittet
+- Fersk koriander
+- Ris, risnudler eller annet tilbehør til 4
+
+### Fremgangsmåte
+
+1. **Skjær opp kylling og grønnsaker** slik at du har alt klart før du begynner. Kok risen etter anvisningen på pakken.
+2. **Stek kyllingstrimlene raskt** i litt nøytral olje, men **ikke så lenge at de blir gjennomstekte.** Ta dem opp og sett til side. Stek gjerne i to omganger.
+3. **Ha 2 ss av kokosfettet** – det øverste, faste laget i boksen – i en gryte eller panne med høye kanter.
+4. **Fres løken i et par minutter.** Tilsett chili, ingefær og sitrongress, og fres videre i **1 minutt**. Knus den brede enden av sitrongresset med baksiden av en kniv og skjær stilkene i grove biter.
+5. **Tilsett karripastaen** og la den surre i **et par minutter**.
+6. **Hell i kyllingkraft og resten av kokosmelken**, og gi det et oppkok.
+7. **Smak til** med soyasaus, fiskesaus, limesaft og sukker.
+8. **Tilsett paprika og squash** og la det trekke i **5–8 minutter**.
+9. **Ha i kyllingen** og la den trekke i **ca. 5 minutter**, til den er gjennomkokt og grønnsakene er møre.
+10. **Rett før servering:** tilsett vårløken.
+11. **Server umiddelbart** med fersk koriander, en limebåt og nykokt ris.
+
+### Notater
+
+- **Kokosfettet er ikke en detalj.** Karripasta må freses i fett for å gi fra seg smaken – aromastoffene er fettløselige, ikke vannløselige. Fettet som legger seg øverst i en boks fet kokosmelk er det beste du har til dette. Kilden advarer eksplisitt: bruker du lettkokosmelk, finnes ikke det laget, og da må du erstatte det med nøytral olje.
+- **Karripasta varierer voldsomt i styrke** mellom merker. To spiseskjeer er utgangspunktet, ikke en fasit – kilden ber deg smake deg fram første gang.
+- **Kyllingen stekes bare halvveis** og legges til side, slik at den ikke blir overkokt mens grønnsakene trekker. Kilden gir et alternativ: sløyf stekingen helt og legg rå kylling i sammen med paprika og squash, og la det trekke i ca. 10 minutter. Da blir kjøttet mørere, men du mister stekesmaken.
+- **Fire ting smakes til samtidig:** soyasaus for salt, fiskesaus for umami, lime for syre og sukker for balanse. Det er den thailandske firkanten, og den er verdt å justere i små trinn.
+- **Sitrongresset spises ikke.** Det ligger i for smakens skyld og plukkes ut på tallerkenen, eller før servering.
+- **Uten fiskesaus:** øk soyasausen tilsvarende. Du mister noe dybde, men retten bærer det.
+- **Suppe eller curry?** Kilden kaller den suppe hele veien og har den under suppe på bloggen, selv om tittelen sier curry. Med 2,5 dl kraft i tillegg til kokosmelken er den tynnere enn en klassisk grønn curry. Den er derfor ført som begge deler her. *(Presisert.)*
+- **Holdbarhet:** 3 døgn kjøleskap. Fryser greit, men squashen blir bløt.
+- **Beslektet:** [green curry (nr. 76)](#76-green-curry-med-kylling) og [Zena's Kitchen sin versjon (nr. 100)](#100-green-curry-med-kylling--zenas-kitchen-sin-versjon) er samlingens andre grønne curryer med kylling, [thai karri-kyllingnudelsuppe (SU3)](#su3-thai-karri-kyllingnudelsuppe) er samme kjøkken som suppe, og [kyllingkraft (G22)](#g22-kyllingkraft) er kraften.
+
+---
+
+
+## 190. Pannestekt kylling i soyasaus
+
+**Kilde:** Khin's Kitchen (Instagram-reel, 7200 likes) · **Kjøkken:** Kinesisk · **Tid:** ca. 20 min *(ikke oppgitt i kilden)* · **Porsjoner:** 2 *(ikke oppgitt i kilden)*
+
+Kyllinglår med skinn, melet bare på skinnsiden, stekt sprø og glasert i en saus av soya, østerssaus og to spiseskjeer hvitløk. Ferdig på et kvarter, og hele smaken ligger i de siste to minuttene når sausen koker inn rundt kjøttet.
+
+### Ingredienser
+
+- 2 kyllinglår uten bein, med skinn, ca. 240 g til sammen
+- Salt og pepper
+- 1 ss hvetemel
+- 1 ss nøytral olje
+
+**Saus**
+- 2 ss finhakket hvitløk
+- 2 ss soyasaus
+- 1 ss østerssaus
+- 1 ts sukker
+- 1 ts ristet sesamolje
+- 1 ss vann
+
+### Fremgangsmåte
+
+1. **Krydre kyllinglårene** med salt og pepper.
+2. **Vend et tynt lag hvetemel på skinnsiden**, ikke på kjøttsiden.
+3. **Rør sammen soyasaus, østerssaus, sesamolje, vann og sukker** i en liten skål. Hvitløken skal ikke i her – se notat.
+4. **Stek kyllingen i oljen med skinnsiden ned først**, **3–4 minutter per side**, til den er gyllen og sprø.
+5. **Ha i den hakkede hvitløken** og rør i noen sekunder.
+6. **Hell over sausen** og la den koke til den tykner og legger seg som et lag rundt kyllingen.
+7. **Skjær kyllingen i skiver** og server med ris og grønnsaker. Hell den resterende sausen over.
+
+### Notater
+
+- **Melet skal bare på skinnsiden.** Det er det som gjør skinnet sprøtt og gir sausen noe å tykne på. Melerer du hele biten, forsegler du kjøttsiden også, og da slipper den ikke ut saften som blir til saus.
+- **Hvitløken står under «saus» i ingredienslisten, men skal ikke i saussbollen.** Den freses for seg i pannen rett før sausen helles over. Blandes den inn i den kalde sausen, får den aldri stekt seg og blir rå og skarp. *(Presisert – kildens gruppering er misvisende.)*
+- **To spiseskjeer hvitløk til 240 g kylling er mye**, og det er meningen. Hvitløken er retten, ikke en detalj.
+- **Sausen tykner uten maisenna.** Sukkeret karamelliserer og melet fra skinnet løses ut i væsken. Det holder for denne mengden – ikke tilsett jevning.
+- **Skinnsiden ned først** og la den ligge i fred i tre–fire minutter. Snur du for tidlig, slipper skinnet ikke pannen og du river det av.
+- **Verken tid eller porsjoner er oppgitt i kilden.** 240 g kylling gir to porsjoner med ris ved siden av, og retten tar rundt tjue minutter. *(Lagt til.)*
+- **Holdbarhet:** 2 døgn kjøleskap. Skinnet mister sprøheten – skjær kyllingen i skiver og varm den i panne, ikke mikro.
+- **Beslektet:** [bok choy med østerssaus og sprø hvitløk (T16)](#t16-bok-choy-med-østerssaus-og-sprø-hvitløk) bruker samme saus på grønnsaker, [kokt ris (T131)](#t131-kokt-ris) er risen, og [one-pot kylling med gul karri og ris (nr. 148)](#148-one-pot-kylling-med-gul-karri-og-ris) er samme hverdagsprinsipp i én panne.
+
+---
+
+
+## 191. Sprøstekt svinesideflesk i airfryer (siu yuk) – PattyPlates sin versjon
+
+**Kilde:** Patrick Kong / PattyPlates (pattyplates.com) · **Kjøkken:** Kantonesisk · **Tid:** 1 time 10 min · **Porsjoner:** 4–6
+
+Samlingens tredje siu yuk, og den skiller seg på én ting: eggehvite i saltskorpen. Skorpen trekker ut fuktigheten fra svoren og løftes av i ett stykke når den er ferdig. Ellers samme totimersprinsipp som de to andre.
+
+### Ingredienser
+
+- 1 kg svinesideflesk med svor, uten bein
+- 1 eggehvite
+- 1,2 dl grovt salt *(ca. 150 g)*
+- 5 g nøytral olje til pensling *(mengde lagt til.)*
+
+**Glasur**
+- 1 ss hoisinsaus
+- 1 ts shaoxingvin *(eller tørr sherry)*
+
+**Tørrkrydder**
+- 2 ts salt
+- 2 ts sukker
+- 1 ss fivespice
+- 1 ts hvitløkspulver
+- 1 ts hvit pepper
+
+### Fremgangsmåte
+
+1. **Prikk hull over hele svoren med en gaffel.** Vær nøye med å ikke stikke gjennom til kjøttet.
+2. **Snitt kjøttsiden** med grunne kutt, ca. **0,5 cm dype med 2,5 cm mellomrom**.
+3. **Rør sammen hoisinsaus og shaoxingvin**, og pensle det over kjøttsiden.
+4. **Bland tørrkrydderet** og gni det jevnt inn på kjøttsiden.
+5. **Pakk bunnen og sidene inn i aluminiumsfolie**, slik at bare svoren er bar.
+6. **Rør grovt salt og eggehvite til en pasta** og dekk hele svoren med den.
+7. **Sett kjøttet i airfryeren med svoren opp** og stek på **93 °C i 30–40 minutter.** Dette tørker ut skinnet.
+8. **Fjern saltskorpen** og pensle svoren med nøytral olje.
+9. **Stek videre på 200 °C i 30–40 minutter**, til svoren er gyllen og sprø.
+10. **La kjøttet hvile i 10 minutter** før du skjærer det.
+11. **Server** med dampet ris og hoisinsaus, kinesisk sennep eller en enkel eddikdipp.
+
+### Notater
+
+- **Eggehviten er det smarte grepet.** Den binder saltet til et skall som løftes av i ett stykke når det er ferdig. Med salt alene måtte du plukket korn ut av svoren etterpå.
+- **Prikk mange hull, ikke dype.** Flere små hull gir mer bobler i svoren. Stikker du gjennom til kjøttet, presses kjøttsaften opp i skinnet og fukter det – og da blir det aldri sprøtt. Kildens viktigste råd.
+- **Folien beskytter kjøttet** mens svoren får full varme. Uten den tørker kjøttsiden ut i løpet av den siste halvtimen.
+- **Har du tid, la kjøttet stå udekket i kjøleskapet over natten** etter krydringen. Tørr svor er hele forutsetningen, og kjøleskapet har tørrere luft enn kjøkkenet.
+- **To temperaturer, to oppgaver.** 93 °C tørker skinnet, 200 °C får det til å poppe. Samme prinsipp som i [nr. 186](#186-langtidsstekt-ribbe), men presset fra sju timer ned til én – der bruker du ovn og vannbad, her tørr sirkulerende luft.
+- **Shaoxingvin er kinesisk risvin.** Tørr sherry er den vanlige erstatningen, og forskjellen er liten i så små mengder.
+- **Grovt salt, ikke fint.** Til en saltskorpe er det volumet som teller, ikke vekten – finkornet salt gir en tettere og saltere skorpe som trekker for hardt.
+- **Oppvarming:** 190 °C i airfryer i 5–7 minutter gir sprøheten tilbake. Mikrobølgeovn ødelegger svoren.
+- **Holdbarhet:** 3 døgn i tett boks i kjøleskap, ifølge kilden.
+- **Slik skiller de tre siu yuk-oppskriftene seg.** [Nr. 42](#42-sprøstekt-svinesideflesk-siu-yuk) er ovnsversjonen med tolv timers tørking i kjøleskap – mest arbeid, best resultat. [Nr. 133](#133-sprøstekt-svinesideflesk-i-airfryer-siu-yuk--cj-eats-sin-versjon) er samme airfryermetode som denne, men med eddik på svoren og saltskorpe uten eggehvite. Denne skiller seg med **eggehviten i skorpen** og en **hoisinglasur på kjøttsiden**, som de to andre ikke har. *(Presisert.)*
+- **Beslektet:** [siu yuk (nr. 42)](#42-sprøstekt-svinesideflesk-siu-yuk) og [CJ Eats sin versjon (nr. 133)](#133-sprøstekt-svinesideflesk-i-airfryer-siu-yuk--cj-eats-sin-versjon) er de andre versjonene, [langtidsstekt ribbe (nr. 186)](#186-langtidsstekt-ribbe) er den norske langtidsversjonen av samme råvare, [potetbåter i airfryer (T23)](#t23-potetbåter-i-airfryer) er den andre airfryerretten, og [kokt ris (T131)](#t131-kokt-ris) er risen.
+
+---
+
+
+## 192. Sprøstekt svinesideflesk – Andy Cooks sin versjon
+
+**Kilde:** Andy Hearnden / Andy Cooks (Instagram, 54 700 likes, 6. august 2025) · **Kjøkken:** Kantonesisk · **Tid:** 1½ time + natten over · **Porsjoner:** 6 *(ikke oppgitt i kilden)*
+
+Samlingens fjerde sprøstekte sideflesk, og den eneste som **forveller kjøttet først**. Et minutt i kokende vann strammer svoren og skyller bort urenheter, og deretter tørkes den over natten. I ovnen står det vann i brettet som beskytter kjøttet mens svoren får varmen.
+
+### Ingredienser
+
+- 1,5 kg svinesideflesk med svor
+- 3 ts shaoxingvin
+- ½ ts kinesisk femkrydder
+- ½ ts hvitløkspulver
+- 2 ts fint havsalt
+- 1 ts sukker
+- ¼ ts malt hvit pepper
+- Olivenolje
+- Havsalt, ekstra til svoren
+- 250 ml vann til brettet
+
+**Til servering**
+- Dampet ris, se [T131](#t131-kokt-ris)
+- Dampede asiatiske grønnsaker
+- Dipp av soyasaus og svart eddik
+
+### Fremgangsmåte
+
+**Forvelling**
+
+1. **Kok opp rikelig vann** i en vid kjele på middels sterk varme – nok til å dekke kjøttet.
+2. **Legg i kjøttet med svoren ned** og kok i **1 minutt**, til svoren skifter farge.
+3. **Snu forsiktig** og kok **30 sekunder** til.
+4. **Over i en stor bolle med isvann.** Skrap av eventuelt rusk på overflaten med en skarp kniv.
+5. **Tørk kjøttet med papir** og legg det med svoren opp på en rist over et brett.
+
+**Snitting og krydring**
+
+6. **Prikk svoren** med tannpirker eller kjøttbanker til det er hull over hele flaten.
+7. **Dryss over litt av havsaltet** og gni det inn i svoren.
+8. **Snu kjøttet** og snitt kjøttsiden med dype kutt på kryss og tvers, så det dannes ruter.
+9. **Dryss shaoxingvinen** over hele kjøttsiden.
+10. **Bland femkrydder, hvitløkspulver, salt, sukker og pepper**, og gni det inn i kjøttet og ned i snittene.
+11. **Tørk rent med papir** og sett kjøttet i kjøleskapet **over natten** for å tørke.
+
+**Steking**
+
+12. **Forvarm ovnen til 190 °C varmluft.**
+13. **Gni svoren med litt olje** og et jevnt lag ekstra havsalt.
+14. **Hell 250 ml vann i bunnen av brettet** og sett det i ovnen. **Skru ned til 170 °C** og stek i **1 time**.
+15. **Øk til 200 °C** og stek videre i **30 minutter**, til svoren er sprø.
+16. **La kjøttet hvile i minst 30 minutter.**
+17. **Skjær opp etter snittene** og server med ris, dampede grønnsaker og dippen.
+
+### Notater
+
+- **Forvellingen er det som skiller denne fra de tre andre.** Ett minutt med svoren ned strammer den og løsner urenheter, og isvannet stopper kokingen umiddelbart så kjøttet ikke begynner å steke. De andre går rett på tørking.
+- **Vann i brettet, ikke saltskorpe på svoren.** [Nr. 42](#42-sprøstekt-svinesideflesk-siu-yuk), [nr. 133](#133-sprøstekt-svinesideflesk-i-airfryer-siu-yuk--cj-eats-sin-versjon) og [nr. 191](#191-sprøstekt-svinesideflesk-i-airfryer-siu-yuk--pattyplates-sin-versjon) bygger alle en skorpe av salt på svoren som trekker ut fuktighet. Her rives saltet bare inn, og fuktigheten styres i stedet nedenfra: vannet i brettet damper og holder kjøttet saftig mens den tørre varmen ovenfra jobber på svoren.
+- **Tørk rent før kjøleskapet.** Krydderet skal ligge i snittene, ikke på overflaten – rester av fuktig marinade hindrer svoren i å tørke.
+- **190 °C, så ned til 170 straks brettet er inne.** Den ekstra varmen kompenserer for temperaturfallet når ovnsdøren åpnes. Samme grep som i [nr. 186](#186-langtidsstekt-ribbe) og [B18](#b18-tangzhong-brød).
+- **Tretti minutters hvile, ikke ti.** Dette er den lengste hviletiden blant sideflesk-oppskriftene, og det er mulig her fordi svoren har fått en halvtime på 200 °C og tåler å stå. Kjøttet blir tydelig saftigere.
+- **Dype snitt i kjøttsiden, ikke i svoren.** Rutene er der for at krydderet skal komme til, og for at du skal ha noe å skjære etter til slutt.
+- **Holdbarhet:** 3 døgn kjøleskap. Varm skivene i panne eller airfryer – svoren tåler ikke mikrobølgeovn.
+- **Beslektet:** [siu yuk (nr. 42)](#42-sprøstekt-svinesideflesk-siu-yuk), [CJ Eats sin versjon (nr. 133)](#133-sprøstekt-svinesideflesk-i-airfryer-siu-yuk--cj-eats-sin-versjon) og [PattyPlates sin versjon (nr. 191)](#191-sprøstekt-svinesideflesk-i-airfryer-siu-yuk--pattyplates-sin-versjon) er de andre versjonene, og [langtidsstekt ribbe (nr. 186)](#186-langtidsstekt-ribbe) er den norske langtidsvarianten.
+
+---
+
+
+## 193. Estragonkylling
+
+**Kilde:** Andy Hearnden / Andy Cooks (Instagram, 56 500 likes, 15. juni 2023) · **Kjøkken:** Fransk · **Tid:** ca. 30 min *(ikke oppgitt i kilden)* · **Porsjoner:** 2
+
+Kyllingbryst med skinn, stekt til det er nesten gjennomstekt fra skinnsiden alene, med en saus av sjalottløk, hvitvin, fløte og estragon. Alt skjer i én panne, og kyllingen legges tilbake i sausen mens den koker inn.
+
+### Ingredienser
+
+- 2 kyllingbryst med skinn
+- 2 banansjalottløk, i tynne skiver
+- 1 sitron
+- 1 liten bunt estragon
+- 12 g olivenolje *(mengde lagt til.)*
+- Salt og pepper
+- 125 ml tørr hvitvin
+- 100 ml kremfløte
+
+**Til servering**
+- Potetmos eller dampede småpoteter
+- Dampede grønnsaker
+
+### Fremgangsmåte
+
+1. **Salt kyllingbrystene på skinnsiden.**
+2. **Ha en god skvett olivenolje i en tykkbunnet panne** og legg kyllingen i med **skinnsiden ned**. **Skru så på middels sterk varme.** Se notat om kald panne.
+3. **Stek på skinnsiden** til den har god gyllen farge. På dette tidspunktet skal kyllingen være **nesten gjennomstekt**.
+4. **Snu kyllingen** og stek **2 minutter** til. Ta den ut og sett til side.
+5. **Ha sjalottløken i pannen** og surr den i **3–4 minutter**.
+6. **Legg kyllingen tilbake med skinnsiden opp** og **deglaser pannen med hvitvinen**.
+7. **Når vinen er redusert til det halve**, rør inn fløten.
+8. **Smak til sausen** med saft og revet skall av sitronen, nykvernet sort pepper og hakket estragon.
+9. **Server** med potetmos eller dampede småpoteter og grønnsaker.
+
+### Notater
+
+- **Kyllingen legges i kald panne, og varmen skrus på etterpå.** Dette er lett å lese forbi i steg 2, men det er hele grunnen til at skinnet blir sprøtt. Fettet under skinnet smelter gradvis i stedet for å møte en glovarm panne og trekke seg sammen, og skinnet får tid til å slippe fettet før det bruner seg.
+- **Nesten gjennomstekt fra skinnsiden alene.** Derfor bare to minutter på kjøttsiden. Snur du for tidlig, må kjøttsiden ta jobben, og da blir brystet tørt før skinnet er ferdig.
+- **Bare skinnsiden saltes.** Salt på kjøttsiden trekker ut væske som havner i pannen og bremser bruningen.
+- **Estragonen inn helt til slutt**, sammen med sitronen. Kokt estragon mister det meste av aromaen, og det er den som er retten.
+- **Sitronsaften etter fløten**, ikke før. Syre i fløte som fortsatt koker kan få den til å skille seg.
+- **Banansjalottløk** er den lange, avlange typen. Vanlig sjalottløk fungerer like godt – regn 3–4 små.
+- **Verken tid eller porsjoner er oppgitt i kilden.** To kyllingbryst gir to porsjoner, og retten tar rundt tretti minutter. *(Lagt til.)*
+- **Holdbarhet:** 2 døgn kjøleskap. Skinnet mister sprøheten, så skjær kyllingen i skiver og varm den forsiktig i sausen.
+- **Beslektet:** [kremet hvitløks- og sennepskylling – Chef Jack Ovens sin versjon (nr. 130)](#130-kremet-hvitløks--og-sennepskylling--chef-jack-ovens-sin-versjon) og [kremet kylling med gnocchi (nr. 131)](#131-kremet-kylling-med-gnocchi) er samlingens andre kremede kyllingretter i panne, og [fondantpoteter (T17)](#t17-fondantpoteter) er et alternativt tilbehør.
+
+---
+
+
+## 194. Hellstrøms risotto
+
+**Kilde:** Eyvind Hellstrøm, *Grunnboka* (Cappelen Damm, 2025) · **Kjøkken:** Italiensk · **Tid:** ca. 25 min · **Porsjoner:** 4
+
+Hellstrøms risotto spes med **kokende vann**, ikke kraft. Smaken kommer fra smør, parmesan og sitron, og mengden fett er betydelig.
+
+### Ingredienser
+
+- 200 g risottoris
+- 6 dl kokende vann
+- 100 g smør
+- 50–100 g parmesan
+- 1 dl olivenolje
+- Saften fra 1 sitron
+- Salt
+
+### Fremgangsmåte
+
+1. **Fres risen i litt olivenolje** til den blir blank og gjennomvarm.
+2. **Spe med kokende vann, litt etter litt**, etter hvert som risen absorberer vannet, og **rør konstant**.
+3. **Etter ca. 10–12 minutter** tilsettes smøret og revet parmesan.
+4. **Bland godt** og tilsett saften fra sitronen.
+5. **Smak til med salt.**
+6. **Spe ut med mer vann** hvis risottoen er for tykk. **Den bør ha konsistens som en god og tyktflytende risgrøt.**
+
+### Notater
+
+- **Vann, ikke kraft.** Dette skiller oppskriften fra alle de fem risottoene i samlingen. Poenget er at parmesan, smør og sitron skal stå fram rent, uten kraftens dybde. Det er en bevisst nedstripping, ikke en forglemmelse.
+- **1 dl olivenolje og 100 g smør til 200 g ris** er svært mye fett. Det er også hele grunnen til at retten er kremet uten fløte.
+- **«Tyktflytende risgrøt» er målet.** Står risottoen stille på tallerkenen, er den for tørr. Den skal flyte langsomt utover.
+- **Kokende vann, ikke varmt.** Kaldt eller lunkent vann stopper kokingen hver gang du heller på, og risen slipper stivelsen ujevnt.
+- **Røringen er ikke overtro.** Kornene gnir mot hverandre og frigjør stivelse, og det er stivelsen som binder retten.
+- **Beslektet:** Samlingens risottoretter er [med asparges (nr. 67)](#67-risotto-med-asparges-spinat-og-sitron), [sopprisotto (nr. 151)](#151-sopprisotto-med-salsiccia-og-hasselnøtter), [med reker (nr. 155)](#155-safranrisotto-med-reker-og-pistasjnøtter), [med ramsløk (nr. 161)](#161-risotto-med-ramsløk-erter-og-asparges) og [med kylling (nr. 188)](#188-safranrisotto-med-kylling) – alle bruker kraft.
+
+---
+
+## 166. Pytt i panne
+
+**Kilde:** Egen · **Kjøkken:** Norsk · **Tid:** 25 min · **Porsjoner:** 2
+
+Resterett, ikke en oppskrift med fasit. Mengdene under er et grunnforhold å regne fra – bytt ut proteinet og grønnsakene med det som faktisk ligger i kjøleskapet. Poteten, løken og egget er det som holder retten sammen.
+
+### Ingredienser
+
+- 600 g kokte poteter, kalde, i terninger på 1,5 cm *(se notat)*
+- 300 g protein fra rester *(stekt kjøtt, pølse, kylling, bacon – se notat)*
+- 1 løk, i terninger
+- 2 egg
+- 2 ss smør
+- 1 ss nøytral olje
+- Salt og sort pepper
+- Persille eller gressløk, hakket *(valgfritt)*
+
+### Fremgangsmåte
+
+1. **Poteten må være kald.** Bruk gårsdagens kokte poteter, eller kok dem og la dem kjølne helt. Varme poteter går i grøt – se notat.
+2. **Stek poteten først**, i olje i en vid panne på god varme, **8–10 minutter**. Rør lite. Den skal få stå i ro og danne skorpe. Ta den opp.
+3. **Stek løken** i litt av smøret til den er myk og har fått farge, **4–5 minutter**.
+4. **Stek proteinet** raskt i samme panne, bare til det er varmt og har fått litt stekeflate. Er det allerede stekt, holder **2–3 minutter**.
+5. **Alt sammen i pannen** med resten av smøret. Vend forsiktig, smak til med salt og rikelig pepper, og la det stå i ro et par minutter til det er gjennomvarmt.
+6. **Stek eggene** i en egen panne, og legg dem over ved servering.
+
+### Notater
+
+- **Kald potet er hele forskjellen.** Stivelsen setter seg når poteten kjølner, og da tåler terningene å stekes uten å falle fra hverandre. Bruker du nykokt varm potet, får du potetmos med biter i. Dette er den eneste regelen i retten som ikke kan bøyes.
+- **Stek delene hver for seg.** Fristelsen er å ha alt i pannen samtidig, men da faller temperaturen, ingenting bruner, og du koker maten i stedet for å steke den. Fire minutter ekstra gir en helt annen rett.
+- **Ikke overfyll pannen.** Er den full, damper maten. Lag heller to omganger.
+- **Proteinet er fritt** og er hele poenget med retten. Rester av stekt kjøtt, kjøttpølse, kylling, bacon, eller en blanding. Er det allerede tilberedt, skal det bare varmes – da kommer det i sist.
+- **Grønnsaker som haster hører hjemme her.** Paprika, gulrot, sopp, purre eller kål i terninger stekes sammen med løken. Dette er retten som fanger opp det som ellers ville blitt kastet.
+- **Egget er ikke pynt.** Den rennende plommen binder retten sammen og gjør den til et måltid i stedet for en blanding av rester.
+- Med 300 g blandet stekt kjøtt lander den grovt på **740 kcal og 35 g protein per porsjon**. Er proteinet magert – kylling framfor pølse – går kaloriene ned og proteinet opp.
+- Sammen med [nr. 165](#165-hvite-bønner-i-tomat-med-protein-fra-fryseren) er dette retten som lages uten å handle.
+
+---
 
 ## 165. Hvite bønner i tomat med protein fra fryseren
 
@@ -10028,48 +10516,797 @@ Lagerrett. Bønner, tomat, løk og krydder står permanent i skapet, og proteine
 - **Retten er svært mager i forhold til proteinet.** Med 350 g kylling lander den grovt på **700 kcal og 60 g protein per porsjon** – altså godt under en normal middagsramme, men med fullt proteininnhold. Det gjør den til retten å velge på en dag som har gått for høyt tidligere. På en vanlig dag serverer du brød eller en kokt potet ved siden av.
 - **Sort pepper og en skvett god olivenolje over ved servering** gjør uforholdsmessig mye. Retten er ellers ganske flat.
 - **Tåler oppvarming godt** og blir bedre dagen etter. Egner seg for dobbel porsjon.
-- Samme bønnemetode som [nr. 103 chili con carne](#103-chili-con-carne). Se også [nr. 166 pytt i panne](#166-pytt-i-panne), den andre retten som er bygget for å lages av det du har.
+- Samme bønnemetode som [chili con carne (nr. 103)](#103-chili-con-carne). Se også [pytt i panne (nr. 166)](#166-pytt-i-panne), den andre retten som er bygget for å lages av det du har.
 
 ---
 
-## 166. Pytt i panne
+## 195. Kjøttkaker med kålstuing
 
-**Kilde:** Egen · **Kjøkken:** Norsk · **Tid:** 25 min · **Porsjoner:** 2
+**Kilde:** Matprat (matprat.no) · **Kjøkken:** Norsk · **Tid:** 40–60 min · **Porsjoner:** 4
 
-Resterett, ikke en oppskrift med fasit. Mengdene under er et grunnforhold å regne fra – bytt ut proteinet og grønnsakene med det som faktisk ligger i kjøleskapet. Poteten, løken og egget er det som holder retten sammen.
+Norsk hverdagsmat i sin reneste form: kjøttdeigfarse formet til kaker, brunet i panne og trukket ferdig i brun saus. Kålstuingen er hvit jevning spedd med kålens eget kokevann. Kilden er tydelig på ett punkt — **både kjøttdeig og væske skal være kjøleskapskalde** når farsen røres, ellers binder den ikke.
 
 ### Ingredienser
 
-- 600 g kokte poteter, kalde, i terninger på 1,5 cm *(se notat)*
-- 300 g protein fra rester *(stekt kjøtt, pølse, kylling, bacon – se notat)*
-- 1 løk, i terninger
-- 2 egg
-- 2 ss smør
-- 1 ss nøytral olje
-- Salt og sort pepper
-- Persille eller gressløk, hakket *(valgfritt)*
+**Kjøttkakene**
+- 400 g kjøttdeig av storfe, kald
+- 1 ts salt
+- ¼ ts pepper
+- ¼ ts malt muskat
+- ¼ ts malt ingefær
+- 2 ss potetmel
+- 1,5 dl vann eller melk, kaldt
+
+**Brun saus**
+- 4 ss smør
+- 4 ss hvetemel
+- 1 liter kjøttkraft eller buljong
+
+**Kålstuing**
+- 700 g hodekål
+- 4 ss smør
+- 4 ss hvetemel
+- 4,5 dl kokevann fra kålen
+- 2 dl melk
+- ¼ ts malt muskat
+
+**Tilbehør**
+- 8 poteter
+- Rørte tyttebær
 
 ### Fremgangsmåte
 
-1. **Poteten må være kald.** Bruk gårsdagens kokte poteter, eller kok dem og la dem kjølne helt. Varme poteter går i grøt – se notat.
-2. **Stek poteten først**, i olje i en vid panne på god varme, **8–10 minutter**. Rør lite. Den skal få stå i ro og danne skorpe. Ta den opp.
-3. **Stek løken** i litt av smøret til den er myk og har fått farge, **4–5 minutter**.
-4. **Stek proteinet** raskt i samme panne, bare til det er varmt og har fått litt stekeflate. Er det allerede stekt, holder **2–3 minutter**.
-5. **Alt sammen i pannen** med resten av smøret. Vend forsiktig, smak til med salt og rikelig pepper, og la det stå i ro et par minutter til det er gjennomvarmt.
-6. **Stek eggene** i en egen panne, og legg dem over ved servering.
+1. **Sett over potetene** og kok dem møre.
+2. **Kjør farsen i foodprosessor.** Ha alle ingrediensene til kjøttkakene i bollen og kjør **10–20 sekunder**, til farsen er jevn og fin.
+3. **Eller rør den for hånd:** rør saltet godt inn i kjøttdeigen først, deretter krydder og potetmel, og spe med væsken litt om gangen.
+4. **Form runde kaker** med en skje, hånden og kaldt vann.
+5. **Stek kakene i smør** i middels varm panne, **ca. 2 minutter på hver side**, til de har fin bruning.
+6. **Lag den brune sausen.** Smelt smøret i en kjele, tilsett melet og brun det over svak varme til blandingen er nøttebrun. Spe med varm kraft, rør godt mellom hver gang. La sausen småkoke i **ca. 10 minutter** og smak til med salt og pepper.
+7. **Legg kakene i sausen** og la dem trekke **ca. 10 minutter**, til de er gjennomkokte.
+8. **Kok kålen.** Del den i terninger og kok i lettsaltet vann i **ca. 15 minutter**.
+9. **Lag kålstuingen.** Smelt smør i en kjele, tilsett melet, og spe med kokevannet fra kålen og melken til du får en litt tykk konsistens. Kok **ca. 5 minutter**, smak til med muskat, salt og pepper, og vend inn kålen.
 
 ### Notater
 
-- **Kald potet er hele forskjellen.** Stivelsen setter seg når poteten kjølner, og da tåler terningene å stekes uten å falle fra hverandre. Bruker du nykokt varm potet, får du potetmos med biter i. Dette er den eneste regelen i retten som ikke kan bøyes.
-- **Stek delene hver for seg.** Fristelsen er å ha alt i pannen samtidig, men da faller temperaturen, ingenting bruner, og du koker maten i stedet for å steke den. Fire minutter ekstra gir en helt annen rett.
-- **Ikke overfyll pannen.** Er den full, damper maten. Lag heller to omganger.
-- **Proteinet er fritt** og er hele poenget med retten. Rester av stekt kjøtt, kjøttpølse, kylling, bacon, eller en blanding. Er det allerede tilberedt, skal det bare varmes – da kommer det i sist.
-- **Grønnsaker som haster hører hjemme her.** Paprika, gulrot, sopp, purre eller kål i terninger stekes sammen med løken. Dette er retten som fanger opp det som ellers ville blitt kastet.
-- **Egget er ikke pynt.** Den rennende plommen binder retten sammen og gjør den til et måltid i stedet for en blanding av rester.
-- Med 300 g blandet stekt kjøtt lander den grovt på **740 kcal og 35 g protein per porsjon**. Er proteinet magert – kylling framfor pølse – går kaloriene ned og proteinet opp.
-- Sammen med [nr. 165](#165-hvite-bønner-i-tomat-med-protein-fra-fryseren) er dette retten som lages uten å handle.
+- **Kaldt binder, lunkent skiller seg.** Kilden legger vekt på at både kjøttdeig og væske skal rett fra kjøleskapet. Fettet i deigen må holde seg fast mens saltet trekker ut proteinet som binder farsen — blir det for varmt, skiller vannet seg ut under steking.
+- **Saltet først når du rører for hånd.** Rekkefølgen i punkt 3 er ikke tilfeldig: saltet alene i kjøttdeigen løser ut proteinene. Slenger du alt oppi samtidig, får du en løsere farse.
+- **Kakene skal ikke stekes ferdig i panna.** To minutter per side gir bare farge. Resten skjer i sausen, som samtidig tilfører smak begge veier.
+- **En liter kraft er mye saus.** Det er med vilje — kakene skal ligge i den. Vil du ha tykkere saus, kok den lenger før kakene går i, ikke etterpå.
+- **Kyllingkjøttdeig fungerer.** Kilden nevner det selv. Den har 7–9 % fett og behandles helt likt.
+- **Beslektet:** [Hellstrøms brune saus (T118)](#t118-hellstrøms-brune-saus) er den franske skolens versjon av sausen, [Hellstrøms kjøttboller i tomatsaus (nr. 123)](#123-hellstrøms-kjøttboller-i-tomatsaus) er samme farseprinsipp i annen retning, og [pytt i panne (nr. 166)](#166-pytt-i-panne) er det du lager av restene.
 
 ---
+
+## 196. Fårikål
+
+**Kilde:** Matprat (matprat.no) · **Kjøkken:** Norsk · **Tid:** ca. 2½ t koking · **Porsjoner:** 4
+
+Norges nasjonalrett siden 1972, og trolig den enkleste retten i hele samlingen: kjøtt og kål lagvis i en gryte, salt og hel pepper mellom lagene, vann i bunnen, lokk på. To og en halv time senere løsner kjøttet fra beinet. **Ingen bruning, ingen fond, ingen krydder utover salt og pepper.**
+
+### Ingredienser
+
+- 1,5 kg fårikålkjøtt av lam, med bein
+- 1,5 kg hodekål
+- 2 ts salt
+- 4 ts hel pepper
+- 3 dl vann
+
+**Tilbehør**
+- Kokte poteter
+
+### Fremgangsmåte
+
+1. **Del hodekålen i båter.**
+2. **Legg kjøtt og kål lagvis i gryta.** Start med kjøtt nederst, **fettsiden ned**. Strø salt og hel pepper mellom lagene. Pepperkornene kan legges i en pepperholder om du vil slippe å tygge dem.
+3. **Hell på vannet.** Kok opp, legg på lokk og senk varmen.
+4. **La fårikålen trekke i ca. 2½ time**, til kjøttet løsner fra beinet.
+
+### Notater
+
+- **Fettsiden ned i bunnen.** Fettet smelter og blir til kokekraften. Snur du kjøttet, får du tørrere bunn og fetere overflate.
+- **Tre desiliter vann ser altfor lite ut.** Det er det ikke — kålen inneholder mye væske og trekker den ut i løpet av den første halvtimen. Fyller du på mer vann, tynner du ut hele retten.
+- **Vil du jevne den**, strø 1–2 ss hvetemel per fire porsjoner mellom lagene. Kilden nevner det som valgfritt; tradisjonen er delt.
+- **Fårekjøtt trenger lenger tid enn lam.** Bruker du får, koker du kjøttet en time på forhånd før du legger opp lagene.
+- **Bedre dagen etter.** Kok den gjerne dagen før. Er den kald, kan du løfte av fettlaget som legger seg på toppen.
+- **Beslektet:** [lammeskank i rødvin (nr. 187)](#187-lammeskank-i-rødvin) og [braisert lammeskank med gremolata (nr. 169)](#169-braisert-lammeskank-med-gremolata) er lam med motsatt tilnærming — der bygges smaken opp med bruning og vin, her tas alt bort.
+
+---
+
+## 197. Lapskaus
+
+**Kilde:** Matprat (matprat.no) · **Kjøkken:** Norsk · **Tid:** ca. 2 t · **Porsjoner:** 4
+
+Brun lapskaus: høyrygg brunet i smør, trukket mørt i kraft, og så rotgrønnsaker og potet i samme gryte til alt går i oppløsning i kantene. **Væsken skal stå rett under grønnsakene**, ikke over — det er forskjellen på lapskaus og suppe.
+
+### Ingredienser
+
+- 800 g benfri høyrygg av storfe, eventuelt bog
+- 2 ss smør, til steking
+- 10 dl vann
+- 1 kjøttbuljongterning
+- 800 g potet, i terninger
+- 3 gulrøtter, i terninger
+- 150 g kålrot, i terninger
+- 150 g persillerot, i terninger
+- ½ purre, i ringer
+- 1 ts salt
+- ½ ts grovmalt pepper
+
+### Fremgangsmåte
+
+1. **Skjær kjøttet i terninger og brun det i flere omganger** i varm panne med smør. Du kan også brune det rett i gryta du skal koke i.
+2. **Ha kjøttet i gryta** med vann og buljongterning, eller bruk en god kraft. Kok opp og senk varmen — kjøttet skal bare trekke. **La det trekke ca. 1½ time**, til det er mørt.
+3. **Skrell og skjær grønnsakene i terninger.** Skyll purren godt og del den i ringer.
+4. **Ha grønnsakene i gryta.** Væsken skal stå **rett under** grønnsakene. Er det for lite, spe med litt vann.
+5. **Kok opp og la det småkoke** på middels varme til grønnsakene er godt møre, **ca. 15 minutter**. Legg purren i helt mot slutten så den holder fargen.
+6. **Smak til med salt og pepper.**
+
+### Notater
+
+- **Bruning i flere omganger, ikke alt på én gang.** Legger du hele kiloen i panna samtidig, faller temperaturen og kjøttet koker i sin egen væske i stedet for å brune. Da mister du hele smaksgrunnlaget.
+- **Halvannen time før grønnsakene.** Høyrygg er full av bindevev som må brytes ned. Går grønnsakene i for tidlig, koker de i stykker lenge før kjøttet er mørt.
+- **Potetene skal gå litt i oppløsning.** Det er de som jevner lapskausen. Derfor er det ingen meljevning i oppskriften.
+- **Purren helt til slutt.** Femten minutter er nok til at den blir grå. Ett minutt er nok til at den blir mør.
+- **Lys lapskaus** er samme rett med lettsaltet svinekjøtt i stedet for høyrygg.
+- **Beslektet:** [boeuf bourguignon (nr. 115)](#115-boeuf-bourguignon) er den franske slektningen med vin og bacon, og [pot roast – braisert høyrygg med rotgrønnsaker (nr. 105)](#105-pot-roast--braisert-høyrygg-med-rotgrønnsaker) bruker samme stykke kjøtt helt i stedet for i terninger.
+
+---
+
+## 198. Fiskegrateng
+
+**Kilde:** Matprat (matprat.no) · **Kjøkken:** Norsk · **Tid:** 40–60 min · **Porsjoner:** 4
+
+Hvit saus, kokt fisk, makaroni og purre, bundet med eggeplommer og luftet med stivpiskede eggehviter. **Eggehvitene er det som skiller en fiskegrateng fra en fiskegryte i form** — de gjør den luftig i stedet for kompakt. Retten er bygget for rester av gårsdagens fiskemiddag.
+
+### Ingredienser
+
+- 2 ss smør
+- 3 ss hvetemel
+- 4 dl melk
+- ½ ts malt muskat
+- ca. 200 g seifilet eller annen kokt fisk
+- 100 g makaroni
+- 3 egg
+- ½ purre, i tynne ringer
+- 1 ss smør, til formen
+- 2 ss griljermel
+- Salt og pepper
+
+### Fremgangsmåte
+
+1. **Smelt smøret på svak varme**, tilsett hvetemelet og rør blandingen jevn.
+2. **Spe med melken** litt om gangen og rør godt mellom hver gang. La sausen småkoke i **ca. 5 minutter**. Smak til med muskat, salt og pepper, og ta kjelen av varmen.
+3. **Kok fisken** om den er rå. Del den i mindre biter med fingrene.
+4. **Kok makaronien** etter anvisning på pakken.
+5. **Skill eggene.** Visp eggeplommene inn i sausen én og én. Bland inn fisk, makaroni og purre.
+6. **Stivpisk eggehvitene** og vend dem forsiktig inn.
+7. **Varm ovnen til 200 °C.** Smør en ildfast form, hell i blandingen, dryss over griljermel og stek **litt lavt i ovnen i 40 minutter**, til gratengen er gjennomstekt og gyllen.
+
+### Notater
+
+- **Sausen må være avkjølt før eggeplommene går i.** Kjelen skal av varmen i punkt 2 av en grunn: plommer koagulerer rundt 65 °C, og i varm saus får du eggerøre i stedet for binding.
+- **Vend, ikke rør, eggehvitene.** Luften du nettopp pisket inn er hele poenget. Rør du kraftig, faller den sammen og gratengen blir tung.
+- **Formen skal stå lavt i ovnen.** Varmen nedenfra setter bunnen før overflaten brenner. Står den høyt, blir griljermelet svart før midten er stivnet.
+- **Røkt fisk gir mye.** Kilden nevner det: litt røkt fisk blandet inn løfter hele retten. Ren røkelaks blir for dominerende.
+- **Har du lite fisk**, spe på med gulrotterninger, frosne erter eller blomkål. Gratengen tåler det godt.
+- **Beslektet:** [hjemmelagede fiskekaker (SJ17)](#sj17-hjemmelagede-fiskekaker) bruker samme råvare rå, og [kokte poteter (T135)](#t135-kokte-poteter) med brunet smør er det klassiske tilbehøret.
+
+---
+
+## 199. Medisterkaker
+
+**Kilde:** Matprat (matprat.no) · **Kjøkken:** Norsk · **Tid:** 40–60 min · **Porsjoner:** 4–6
+
+Medisterdeig eltet seig med salt, spedd med kald melk til den blir lys og luftig, formet med skje og brunet i smør. **Alt skal være kaldt** — deig, melk, bolle. Det er den ene betingelsen som avgjør om kakene blir saftige eller smuldrer.
+
+### Ingredienser
+
+**Medisterkakene**
+- 1 kg medisterdeig
+- 3 ts salt
+- 5 ss potetmel
+- 5 dl melk, kald
+- ¾ ts pepper
+- ½ ts malt muskat
+- ¼ ts malt ingefær
+- 4 ss smør, til steking
+
+**Eple og svisker**
+- 4 epler
+- 200 g svisker
+- 1 ss smør, til steking
+
+### Fremgangsmåte
+
+1. **Ha medisterdeigen i en bolle og tilsett salt.** Elt for hånd eller i maskin til deigen blir seig — den skal henge igjen på fingrene når du tar litt mellom to fingre.
+2. **Spe med kald melk i flere omganger** og rør deigen godt mellom hver gang. **Tilsett potetmel og krydder når du har spedd inn to tredeler av melken.** Rør godt, og fortsett å spe med resten.
+3. **Form runde kaker med skje** og brun dem i smør i en middels varm stekepanne.
+4. **Trekk dem ferdig** i vann, kraft eller buljong, eller varm dem i stekeovnen til de er gjennomstekte.
+5. **Del eplene i båter** og stek dem sammen med sviskene i en panne med smør.
+
+### Notater
+
+- **Salt før melk, alltid.** Saltet trekker ut de saltløselige proteinene i kjøttet, og det er de som binder melken. Sper du før deigen er seig, skiller farsen seg og kakene blir grynete.
+- **Kaldt er ikke et tips, det er kravet.** Kilden åpner med det: alle råvarene skal ha samme temperatur og være så kalde som mulig. Blir farsen varm under eltingen, smelter fettet ut og bindingen ryker.
+- **Fem desiliter melk til én kilo deig virker mye.** Det er meningen. Medisterkaker skal være løse og lyse, ikke faste som kjøttkaker — forskjellen på de to rettene ligger nettopp i væskemengden.
+- **Bruningen er farge, ikke steking.** Kakene er for tykke til å bli gjennomstekte i panna uten at overflaten brenner. Derfor trekkes de ferdig etterpå.
+- **Beslektet:** [kjøttkaker med kålstuing (nr. 195)](#195-kjøttkaker-med-kålstuing) er den faste slektningen med mindre væske, og medisterkakene serveres med [surkål (T138)](#t138-surkål), [kokte poteter (T135)](#t135-kokte-poteter), [ertepuré (T136)](#t136-ertepuré) og [Hellstrøms brune saus (T118)](#t118-hellstrøms-brune-saus). Til jul går de sammen med [langtidsstekt ribbe (nr. 186)](#186-langtidsstekt-ribbe).
+
+---
+
+## 200. Pinnekjøtt
+
+**Kilde:** Matprat (matprat.no) · **Kjøkken:** Norsk · **Tid:** ca. 3 t + 30 timers utvanning · **Porsjoner:** 5
+
+Saltet og tørket lammeribbe, vannet ut og dampet over pinner til kjøttet slipper beina. Kilden koker det ned til to tall: **30–3.** Tretti timers utvanning, tre timers damping.
+
+### Ingredienser
+
+**Pinnekjøttet**
+- 2 kg pinnekjøtt, ca. 400 g per person
+- 500 g vossakorv, 1 ring
+
+**Rotmos**
+- 1,25 kg kålrot
+- 2 gulrøtter
+- 1 potet
+- 3 ss smør
+- 1 dl kremfløte
+- ca. 2 ts salt
+- ½ ts pepper
+
+### Fremgangsmåte
+
+1. **Vann ut pinnekjøttet i rikelig med vann i ca. 30 timer**, i romtemperatur. Kjøper du ferdig utvannet pinnekjøtt, beregner du ca. 600 g per person og hopper over dette punktet.
+2. **Legg en metallrist eller bjørkepinner uten bark i bunnen av en vid kjele.** Fyll på vann så det står i høyde med risten.
+3. **Legg pinnekjøttet over og sett på lokk.** Kok opp, senk varmen og la det trekke ved **85–95 °C i ca. 3 timer**, til kjøttet løsner fra beina. Pass på så det ikke koker tørt — fyll eventuelt på med mer vann.
+4. **Damp vossakorven** sammen med pinnekjøttet de siste 15 minuttene.
+5. **Skrell kålrot, gulrot og potet.** Del i grove biter og kok dem møre i lettsaltet vann. Hell av kokevannet og mos grønnsakene.
+6. **Ha i smør og fløte.** Smak til med salt og pepper, og eventuelt litt revet muskat.
+7. **Vil du ha farge**, legg pinnekjøttet på rist over langpanne og sett det høyt i ovnen på sterk varme eller under grillen i **ca. 5 minutter**. Følg godt med.
+
+### Notater
+
+- **Utvanningen er ikke en formalitet.** Kjøttet er konservert med salt og tørking. Tretti timer gir det tilbake væskebalansen *og* fjerner saltet — kutter du tiden, får du en middag ingen kommer gjennom. Lunkent vann går raskere enn kaldt.
+- **85–95 °C, ikke koking.** Fossekok river kjøttet fra hverandre og gjør det tørt. Det skal dampe, ikke koke — derfor risten.
+- **Vossakorven i de siste 15 minuttene.** Den er allerede kokt og skal bare bli varm. Går den i tidlig, sprekker skinnet og fettet renner ut i kjelen.
+- **Kokesjyen er sausen.** Den er salt og konsentrert etter tre timer, og trenger ingenting annet. Server den ved siden av.
+- **Nødløsning hvis du har glemt utvanningen:** legg kjøttet i kaldt vann, varm sakte til kokepunktet og la det trekke til kjøttet slipper beina. Det blir saltere enn vanlig. Kilden anbefaler ekstra drikkevarer.
+- **Beslektet:** [rørte tyttebær (T137)](#t137-rørte-tyttebær) og [surkål (T138)](#t138-surkål) er det faste tilbehøret, og [kokte poteter (T135)](#t135-kokte-poteter) — gjerne mandelpoteter — går ved siden av rotmosen. [Fårikål (nr. 196)](#196-fårikål) bruker samme dyr i fersk tilstand.
+
+---
+
+## 201. Kylling tikka masala
+
+**Kilde:** Nagi Maehashi / RecipeTin Eats (recipetineats.com) · **Kjøkken:** Indisk · **Tid:** ca. 1 t + 3–24 timers marinering · **Porsjoner:** 4–5
+
+Yoghurtmarinert kyllinglår svidd hardt i tørr panne, i en saus som freses lag på lag og til slutt kjøres helt glatt. **Svimerkene og stavmikseren er hele retten** — det ene erstatter tandooren, det andre gir den silkeglatte sausen restaurantene har.
+
+### Ingredienser
+
+**Marinade**
+- 600 g kyllinglårfilet, i terninger på 3 cm
+- 1,2 dl gresk yoghurt, gjerne full fett
+- 6 fedd hvitløk, finrevet
+- 1 ss revet ingefær
+- 1 ts garam masala
+- 1 ts salt
+- 1 ts malt spisskummen
+- 1 ts malt koriander
+- 1 ts paprikapulver
+- 1 ss nøytral olje
+- ⅛ ts cayennepepper
+- 2 ts sitronsaft
+- 1 klype sort pepper
+- 1–2 ss nøytral olje, til steking
+
+**Krydder til sausen**
+- 2 ts gurkemeie
+- 1 ss garam masala
+- 2 ts malt koriander
+- 1 ts malt spisskummen
+- ⅛ ts malt kardemomme
+- ⅛ ts cayennepepper
+
+**Saus**
+- 65 ml nøytral olje — ca. 4 ss *(Flagget: kilden skriver 3 ss, som er 45 ml.)*
+- 30 g smør eller ghee
+- 1 løk, finhakket
+- 1 ts salt
+- 2 ss revet ingefær
+- 6 fedd hvitløk, finrevet
+- 1 ss paprikapulver, ikke røkt
+- 400 ml passata
+- 400 ml vann
+- 100 ml kremfløte
+- 1 ts sukker
+- 50 g smør eller ghee
+
+### Fremgangsmåte
+
+1. **Bland alt til marinaden unntatt kyllingen** i en bolle. Vend inn kyllingen så alle bitene er dekket. Dekk til og sett kaldt **minst 3 timer, helst over natten**.
+2. **Varm 1 ss olje i en slippbelagt panne på sterk varme til det ryker.** Legg i halvparten av kyllingen i ett lag og la den ligge i **2 minutter**, til den er svidd. Snu hver bit og svi den andre siden. Den trenger ikke være gjennomstekt. Ta ut.
+3. **Skrap ut de svidde restene i panna og kast dem.** Tilsett mer olje og stek resten av kyllingen.
+4. **Tørk ut panna med tørkepapir**, eller flytt over i en gryte — du trenger lokk. Senk til middels sterk varme.
+5. **Ha i olje og de 30 gram smør.** Når smøret er smeltet, tilsett løk, ingefær og salt. **Stek under stadig omrøring i 5–7 minutter**, til ingefæren begynner å gulne og løken lukter søtt. Den må ikke brenne.
+6. **Senk til middels varme.** Tilsett hvitløk og paprikapulver og stek **2 minutter**.
+7. **Tilsett krydderne til sausen** og stek **2 minutter** til under omrøring.
+8. **Ha i passata og vann.** Kok opp, legg på lokk og senk varmen. **La det småkoke i 15 minutter**, rør av og til.
+9. **Hell sausen over i en bolle og kjør den helt glatt med stavmikser.** Ikke hopp over dette.
+10. **Ha sausen tilbake i panna.** Rør inn fløte, sukker og de 50 gram smør til smøret er smeltet.
+11. **Vend inn kyllingen** og la det småkoke noen minutter til den er gjennomstekt. Dryss eventuelt over en klype ekstra garam masala helt til slutt.
+
+### Notater
+
+- **Lårfilet, ikke bryst.** Varmen som skal til for å få svimerker, tørker ut bryst før overflaten rekker å svi seg. Kilden er tydelig på dette.
+- **Blendingen er det som skiller hjemmelaget fra restaurant.** Løken er stekt til den er søt, ingefæren og hvitløken er freset — kjører du alt glatt, går de smakene inn i sausen i stedet for å ligge som biter. Kilden kaller det steget som gjorde hele forskjellen.
+- **Ikke blend rykende varm saus i en tett blender.** Trykket kan løfte lokket. Stavmikser i bolle, eller la sausen kjølne først.
+- **Ikke kutt i oljen og smøret.** Kilden testet det: rikheten forsvinner. Det høres voldsomt ut, men fordelt på fem porsjoner er det under 2 ss per person.
+- **Tikka masala mot butter chicken:** forskjellen er svimerkene på kyllingen og en kraftigere, mer sammensatt saus. Butter chicken har ingen av delene.
+- **Beslektet:** [garam masala (G19)](#g19-garam-masala) er krydderblandingen som går igjen i begge krydderlistene, [Hellstrøms basmatiris (T65)](#t65-hellstrøms-basmatiris) er risen ved siden av, og [kylling korma (nr. 202)](#202-kylling-korma) er den milde motsatsen uten tomat.
+
+---
+
+## 202. Kylling korma
+
+**Kilde:** Swasthi Shreekanth / Swasthi's Recipes (indianhealthyrecipes.com) · **Kjøkken:** Indisk · **Tid:** ca. 50 min · **Porsjoner:** 4
+
+Nordindisk korma i mogulsk stil: kylling marinert i yoghurt, og en saus bygget av karamelliserte løk og nøtter kjørt glatt med mer yoghurt. **Tomat hører ikke hjemme her** — syren kommer fra yoghurten, og det er nettopp det som skiller korma fra tikka masala.
+
+### Ingredienser
+
+**Marinade**
+- 500 g kylling, helst med bein
+- 3 ss yoghurt
+- 1 ss ingefær- og hvitløkspasta, eller ½ ss finrevet av hver
+- ¼ ts gurkemeie
+- 1 ts kashmiri chilipulver, eller paprikapulver
+- 1 ts garam masala
+- ½ ts salt
+
+**Løk- og nøttepuré**
+- 1½ ss ghee eller nøytral olje
+- 2 grønne kardemommekapsler
+- 2 gule løk, i skiver — ca. 2,4 dl *(Omregnet fra 1 cup.)*
+- 10 hele cashewnøtter eller mandler, eller 5 av hver
+- 0,6 dl yoghurt
+
+**Til gryta**
+- 1–2 ss ghee eller nøytral olje
+- 1 laurbærblad
+- 4 nellikspiker
+- 5 cm kanelstang
+- 1 kardemommekapsel
+- 1–2 grønne chili, delt på langs
+- 1,2 dl varmt vann, mer ved behov
+- ¼ ts salt
+- ½–¾ ts garam masala
+- 1½ ts malt koriander
+- ¼ ts kashmiri chilipulver, for farge
+- 2 ss frisk koriander, finhakket
+
+### Fremgangsmåte
+
+1. **Bland kyllingen med yoghurt, ingefær og hvitløk, gurkemeie, salt, chilipulver og garam masala.** Vend godt så alt er dekket. Dekk til og sett til side, eller kjøl over natten.
+2. **Varm ghee i en panne og ha i 2 kardemommekapsler og løken.** Stek under jevnlig omrøring til løken er gyllenbrun og karamellisert, **10–12 minutter**. Den må ikke svi seg.
+3. **Ta panna av varmen og ha i nøttene.** La det kjølne helt.
+4. **Kjør løk, nøtter og yoghurt til en helt glatt puré.** Har du en svak blender, bløtlegg nøttene i varmt vann i 30 minutter først, eller kjør med ½ dl ekstra vann — da dropper du tilsvarende vann i punkt 6.
+5. **Varm ghee i samme panne** og ha i laurbærblad, kanel, nellik og kardemomme. Når de begynner å frese, tilsett grønn chili og den marinerte kyllingen. **Stek på middels varme i 5–6 minutter**, til lukten av rå ingefær og hvitløk er borte.
+6. **Tilsett løkpuréen, salt, malt koriander, garam masala og chilipulver.** Rør inn det varme vannet og kok opp.
+7. **Legg på lokk og la det trekke på middels lav varme** til kyllingen er gjennomkokt og du ser spor av olje på overflaten. Er sausen for tykk, spe med varmt vann. Er den for tynn, kok den inn uten lokk på sterk varme noen minutter.
+8. **Smak til og dryss over frisk koriander.**
+
+### Notater
+
+- **Løken er hele smaksgrunnlaget.** Tolv minutter høres lenge ut, men det er der sødmen og dybden kommer fra. Blek løk gir en blek korma, og ingen mengde krydder retter det opp.
+- **Nøttene skal i etter at varmen er av.** De skal bare varmes gjennom i restvarmen. Fresner du dem, blir de bitre og pureen grå.
+- **Ingen stivelse.** Kremetheten kommer fra yoghurt og nøttepuré alene. Maisenna gjør den slimete.
+- **Bein gir bedre korma.** Kraften fra beina trekker ut i sausen mens den koker. Bruk du kyllingbryst, tørker det lett ut — lår er tryggere.
+- **Kylling korma mot kylling tikka masala:** korma har ingen tomat og ingen svimerker. Legger du i mye tomat, ender du opp med tikka masala.
+- **Rose- eller kewravann** nevnes i kilden som en valgfri avslutning. Noen dråper gir en blomsteraktig duft. Swasthi bruker det selv bare i lammekorma.
+- **Beslektet:** [kylling tikka masala (nr. 201)](#201-kylling-tikka-masala) er den kraftige motsatsen med tomat, [garam masala (G19)](#g19-garam-masala) er krydderblandingen som går i både marinaden og gryta, og [Hellstrøms basmatiris (T65)](#t65-hellstrøms-basmatiris) er risen ved siden av.
+
+---
+
+## 203. Krepsehale capellini
+
+**Kilde:** Simen Vatne (simenvatne.no) · **Kjøkken:** Fransk-italiensk · **Tid:** ca. 2 t · **Porsjoner:** 4
+
+Sjøkreps bakt i smør med timian og dill, servert på capellini vendt i en bisque kokt av krepseskallene. **Skallene du ellers ville kastet er hele sausen** — de gir både farge, sødme og kropp.
+
+### Ingredienser
+
+**Krepsehalene**
+- 4 store sjøkreps, hele
+- 50 g smør
+- 1 fedd hvitløk
+- 1 kvast timian
+- 1 ts hakket dill
+- 1 ss sitronsaft
+
+**Skalldyrbisque og capellini**
+- Skall fra sjøkrepsene
+- 10 reker
+- Eventuelle rester av skalldyr
+- 2 dl hvitvin
+- 3 fedd hvitløk
+- 3 sjalottløk
+- 3 ss hakkede tomater
+- 5 dl vann
+- 3 dl fløte
+- 320 g capellini *(kilden sier «ønsket mengde» – se notat.)*
+- Salt og pepper
+- Friske urter eller vårløk, til pynt
+
+### Fremgangsmåte
+
+1. **Rens krepsehalene, men la den nederste delen av skallet være igjen.** Lag små snitt i undersiden av halen så den ligger flatt.
+2. **Smelt smøret** og bland inn hvitløk, timian, dill og sitronsaft.
+3. **Pensle marinaden over krepsehalene** og bak dem i ovnen på **160 °C i 6–7 minutter**.
+4. **Ha alle ingrediensene til bisquen unntatt fløten i en gryte** — skall, reker, eventuelle rester av skalldyr, hvitvin, hvitløk, sjalottløk, tomater og vann — og kok opp.
+5. **Reduser til omtrent halvparten av væsken er igjen.**
+6. **Sil kraften** så det ikke er spor av skall igjen.
+7. **Tilsett fløten og kok opp.** Reduser til tre fjerdedeler er igjen i kjelen, og smak til med salt og pepper.
+8. **Kok capellinien** med litt salt og olivenolje.
+9. **Hell bisquen over den ferdige pastaen** og rør sammen.
+10. **Pynt med friske urter eller vårløk** og legg krepsehalene på toppen.
+
+### Notater
+
+- **«Karamellisert» skjer ikke i fremgangsmåten.** Undertittelen lover en karamellisert skalldyrbisque, men punkt 4 legger alt kaldt i gryta og koker opp. En bisque får fargen og dybden sin av at skallene freses i fett først — astaxanthin er fettløselig og blir igjen i skallene om de bare kokes i vann. **Fres skallene og rekene i smør eller olivenolje i 3–4 minutter før væsken går i.** Da svarer retten til navnet sitt. *(Flagget.)*
+- **Silingen er ikke pirk.** Kilden ber om at det ikke er spor av skall igjen, og med capellini på under en millimeter er det riktig: et skallfragment i en så tynn pasta merkes umiddelbart. Sil gjennom finmasket sil, gjerne to ganger.
+- **Seks til sju minutter på 160 °C er kort og lavt med vilje.** Sjøkreps er ferdig når kjøttet så vidt har satt seg og fortsatt er blankt i midten. Ett minutt for mye gir tørt, trevlete kjøtt — det er den vanligste feilen med skalldyr.
+- **Capellini koker på under to minutter.** Den skal i bisquen med det samme; blir den stående, suger den til seg all sausen og klumper seg. Ha alt annet ferdig før pastaen går i vannet.
+- **Olivenolje i kokevannet hindrer ikke klumping.** Oljen legger seg på pastaen og gjør at sausen fester dårligere. Kilden gjør det likevel, og her betyr det lite siden bisquen røres i umiddelbart — men rikelig vann og omrøring de første sekundene virker bedre. *(Flagget.)*
+- **Mengden pasta er ikke oppgitt.** Regn 80 g tørr capellini per person. *(Lagt til.)*
+- **Ingen salt i krepsemarinaden.** Salt smørblandingen lett før du pensler. *(Lagt til.)*
+- **«3 ss hakkede tomater»** tilsvarer omtrent én middels tomat. De er der for syre og farge, ikke for tomatsmak.
+- **Beslektet:** [Hellstrøms skalldyrkraft (G28)](#g28-hellstrøms-skalldyrkraft) gjør nettopp det denne oppskriften hopper over — freser skallene først — og kan brukes som bisquebase, [sjøkreps med cowboysmør (SJ1)](#sj1-sjøkreps-med-cowboysmør) er samlingens andre sjøkrepsrett, og [safranrisotto med reker og pistasjnøtter (nr. 155)](#155-safranrisotto-med-reker-og-pistasjnøtter) bygger på samme idé om å bruke skalldyrkraft som smaksbunn. Samlingens to bisquesupper er [hummerbisque (SU31)](#su31-hummerbisque) og [med sjøkreps og reker (SU32)](#su32-skalldyrbisque-med-sjøkreps-og-reker).
+
+---
+
+## 204. Pasta med hvitløkssmør
+
+**Kilde:** Emma Laperruque, Food52 (food52.com) · **Kjøkken:** Italiensk-amerikansk · **Tid:** 20 min · **Porsjoner:** 2
+
+Tre ingredienser: pasta, smør og **et helt hvitløkhode**. Det er ikke en trykkfeil — kilden er tydelig på at mengden er poenget. Hvitløk som freses gyllen i smør går fra skarp til rund og nøtteaktig, og blir en smak det er vanskelig å overdrive.
+
+### Ingredienser
+
+- 1 helt hvitløkhode, finhakket — ca. 10–12 fedd
+- 225 g pasta, gjerne fusilli, rigatoni eller cavatappi
+- 55 g usaltet smør
+- Salt til pastavannet
+
+**Valgfritt, høyst tre av dem**
+- Grovhakket persille, basilikum eller timian
+- Chiliflak eller nykvernet pepper
+- Revet parmesan eller pecorino
+
+### Fremgangsmåte
+
+1. **Sett over en gryte med vann.** Skrell og finhakk hvitløken mens det koker opp.
+2. **Salt vannet godt** og kok pastaen al dente etter anvisningen på pakken.
+3. **Smelt smøret** i en liten kjele på middels til middels lav varme, og tilsett hvitløken. **Fres i 3–7 minutter**, til hvitløken akkurat er gyllen. Rør eller sving kjelen innimellom.
+4. **Ta kjelen av varmen med én gang** hvitløken er gyllen — den går fra gyllen og søt til brun og bitter på kort tid.
+5. **Løft pastaen over i smøret** med hullsleiv eller tang, ikke i dørslag. **Ta vare på kokevannet.**
+6. **Vend alt sammen** og spe med pastavann til sausen er silkeaktig. Den tykner mens den står, så legg deg på den blaute siden.
+7. **Topp med det du vil ha** av det valgfrie, og server med én gang.
+
+### Notater
+
+- **Et helt hvitløkhode til to porsjoner er meningen.** Fresingen fjerner skarpheten, og det som blir igjen er sødme og nøttesmak. Halverer du mengden, får du smørpasta med et hint av hvitløk — en annen og kjedeligere rett.
+- **Kilden emulgerer ikke sausen, og det er verdt å vite.** Oppskriften sier at smøret skal av varmen og over i serveringsbollen før pastavannet kommer i. **Da får du ikke en ekte emulsjon** — bare smør og vann som ligger side om side og skiller seg i bunnen av bollen. Vil du ha silkeaktig saus, hold i stedet kjelen på svak varme mens du vender pastaen og spe pastavannet litt om gangen under kraftig bevegelse. Stivelsen i vannet binder da smørfettet til en glatt saus. *(Flagget — kildens metode virker, men gir tynnere resultat.)*
+- **Kokevannet er halve oppskriften.** Hell aldri pastaen i dørslag her. Stivelsen som har løsnet under kokingen er det eneste bindemiddelet i sausen.
+- **Timingen på hvitløken er stram.** Tre til sju minutter er et vidt spenn fordi det avhenger av varmen, men vinduet mellom gyllen og brent er lite. Står du i tvil, ta den av tidlig — restvarmen i kjelen jobber videre.
+- **Har du bare saltet smør**, reduser saltet i pastavannet og smak til på slutten.
+- **Pastaformen betyr noe.** Kilden foretrekker former med hulrom — fusilli, rigatoni, cavatappi — der hvitløksbitene setter seg fast. Lange former fungerer, men da glir mye av hvitløken ned i bollen.
+- **Høyst tre av tilleggene.** Det er kildens egen regel, og den er god: hele poenget er at smør og hvitløk skal bære retten alene.
+- **Beslektet:** [cacio e pepe – Vincenzo's Plate sin versjon (nr. 62)](#62-cacio-e-pepe--vincenzos-plate-sin-versjon) og [Serious Eats sin versjon (nr. 68)](#68-cacio-e-pepe--serious-eats-sin-versjon) bygger på samme prinsipp med enda færre ingredienser, og der er emulgeringen selve teknikken. [Sesam- og sitronpasta (nr. 158)](#158-sesam--og-sitronpasta) er den nøtteaktige slektningen.
+
+---
+
+## 205. Honning- og hvitløksglasert svinesideflesk
+
+**Kilde:** @foodiligence (TikTok, 9. juli) · **Kjøkken:** Asiatisk-inspirert · **Tid:** 30 min · **Porsjoner:** 3–4 (ikke oppgitt i kilden)
+
+Svinesideflesk i biter, stekt **helt uten olje** til fettet er smeltet ut og bitene er gyllene, og så glasert i honning, soya og mirin. Fettet du heller av er hemmeligheten — uten det blir glasuren fet og løs i stedet for blank og klebrig.
+
+### Ingredienser
+
+- 450 g svinesideflesk, i biter
+- 3 ss honning
+- 2 ss soyasaus
+- 1 ss mirin
+- 4 hvitløksfedd, finhakket
+- ½ ts chiliflak
+- En skvett vann (hindrer at glasuren brenner)
+- Salt og pepper (valgfritt)
+- 1 ts maisenna rørt ut i 1 ss kaldt vann (mengde lagt til)
+
+### Fremgangsmåte
+
+1. **Rør sausen:** bland honning, soyasaus, mirin, hvitløk, chiliflak og vann til det er jevnt. Sett til side.
+2. **Skjær sideflesket i biter** og legg dem i en **kald panne uten olje**.
+3. **Stek til bitene er gyllene** og mesteparten av fettet har smeltet ut.
+4. **Hell av fettet.**
+5. **Ha sausen i samme panne** og la den boble opp.
+6. **Rør inn maisennablandingen** og la glasuren tykne rundt bitene.
+
+### Notater
+
+- **Ingen olje i panna.** Sideflesk er rundt halvparten fett, og det smelter ut av seg selv. Tilsetter du olje, får du en fettpøl som aldri lar bitene bli sprø.
+- **Start i kald panne.** Da rekker fettet å smelte før overflaten setter seg. Legger du bitene i glovarm panne, brenner utsiden mens innsiden fortsatt er seig.
+- **Fettet må helles av før sausen kommer i.** Dette er punktet som avgjør retten. Blir fettet igjen, kan ikke honningen feste seg til kjøttet — den flyter oppå og glasuren skiller seg.
+- **Kilden oppgir ikke mengde maisenna.** En teskje utrørt i en spiseskje kaldt vann er nok til denne mengden saus. *(Lagt til.)*
+- **Vannet er ikke for smakens skyld.** Honning brenner ved lav temperatur, og skvetten vann gir deg noen sekunders margin før glasuren blir bitter.
+- **Beslektet:** [char siu-kylling (nr. 35)](#35-char-siu-kylling) bruker samme søt-salte prinsipp på et magrere kjøtt, og [gua bao – braisert svinesideflesk (S35)](#s35-gua-bao--braisert-svinesideflesk) tar samme råvare i motsatt retning med lang, våt varme.
+
+---
+
+## 206. Smashed beef kabob med agurkyoghurt
+
+**Kilde:** Zaynab Issa for NYT Cooking, via @foodiligence (TikTok, 5. juli) · **Kjøkken:** Persisk-inspirert · **Tid:** 25 min · **Porsjoner:** 4 (ikke oppgitt i kilden)
+
+Kjøttdeig som slippes i store, ujevne klumper i glovarm støpejernspanne og **får ligge helt i ro i seks til åtte minutter**. Det er slik du får skorpe i stedet for grå kjøttdeig. Valnøtter og tørket frukt ristes med til slutt, og alt legges over kald agurkyoghurt.
+
+### Ingredienser
+
+**Agurkyoghurten**
+- 480 ml gresk yoghurt
+- 2 små agurker, finhakket
+- 3 ss mynte, hakket
+- 1 stort hvitløksfedd, revet
+- 2 ts salt, delt
+
+**Kjøttet**
+- 450 g kjøttdeig av storfe, gjerne 20 % fett
+- 1 liten gul løk, finhakket
+- ½ ts malt gurkemeie
+- Rikelig med sort pepper
+- 30 g valnøtter, halve
+- 2 ss tranebær (se notat)
+
+**Til servering**
+- Granateplesirup (valgfritt)
+- Friske mynteblader
+- Varmet pitabrød eller kokt ris
+
+### Fremgangsmåte
+
+1. **Rør agurkyoghurten:** bland yoghurt, agurk, hakket mynte og hvitløk i en bolle. Sett den kaldt til servering.
+2. **Bland kjøttet:** rør kjøttdeig, løk, gurkemeie, **1 ts av saltet** og rikelig med sort pepper godt sammen.
+3. **Varm en stor støpejernspanne** på middels høy varme til den er **veldig varm**.
+4. **Slipp kjøttet ned i panna i store, ujevne klumper** og **la det ligge helt i ro i 6–8 minutter**, til bunnen er mørk og sprø.
+5. **Vend kjøttet med en tresleiv** og del opp de største bitene.
+6. **Rør inn valnøtter og tranebær** og stek videre **2–3 minutter**, til kjøttet er gjennomstekt og nøttene ristet.
+7. **Smak til den kalde yoghurten** med det siste teskjeen salt, og bre den utover et serveringsfat.
+8. **Legg det sprø kjøttet oppå**, og avslutt med granateplesirup, friske mynteblader og pita eller ris.
+
+### Notater
+
+- **Ikke rør i seks til åtte minutter.** Dette er hele teknikken. Kjøttdeig som røres, slipper væske og koker; kjøttdeig som ligger i ro mot glovarmt jern, danner skorpe. Fristelsen til å røre er stor — la være.
+- **Panna må være ordentlig varm før kjøttet går i.** Er den lunken, begynner kjøttet å avgi væske før overflaten forsegles, og du får aldri skorpen.
+- **Kilden motsier seg selv om tørket frukt.** Ingredienslisten sier tranebær, mens fremgangsmåten sier rosiner. Begge fungerer — tranebær gir mer syre, rosiner mer sødme. *(Flagget.)*
+- **Saltet er delt i to med vilje.** Én teskje i kjøttet, én i yoghurten. Salter du alt i kjøttet, blir yoghurten flau og mister rollen som motvekt.
+- **Yoghurten skal være kald mot varmt kjøtt.** Kontrasten er poenget. Rører du den lun, blir retten ensartet og mister spennet.
+- **20 % fett er ikke tilfeldig.** Magrere kjøttdeig gir mindre skorpe og tørrere resultat, siden det er fettet som steker overflaten.
+- **Beslektet:** [kylling- og linsesuppe med sitronyoghurt (SU33)](#su33-kylling--og-linsesuppe-med-sitronyoghurt) bruker samme grep med syrlig yoghurt mot noe varmt og jordaktig, og [Hellstrøms tzatziki (T103)](#t103-hellstrøms-tzatziki) er den greske slektningen til agurkyoghurten.
+
+---
+
+## 207. Cottage pie
+
+**Kilde:** Grossy Pelosi for NYT Cooking, via @foodiligence (TikTok, 28. juni) · **Kjøkken:** Britisk · **Tid:** ca. 1½ t · **Porsjoner:** 6 (ikke oppgitt i kilden)
+
+Kjøttdeig i tykk sjy under et lokk av parmesanpotetmos, stekt til overflaten er gyllen. **Alt skjer i én panne** — kjøttet stekes, tas ut, grønnsakene freses i det samme fettet, og potetmosen bres rett over før formen går i ovnen.
+
+### Ingredienser
+
+**Kjøttlaget**
+- 900 g kjøttdeig av storfe
+- 2 ss smør
+- 1 gul løk, finhakket
+- 120 ml stangselleri, i terninger
+- 120 ml gulrot, i terninger
+- 3 hvitløksfedd, finhakket
+- 2 ss tomatpuré
+- 60 ml hvetemel
+- 480 ml oksekraft
+- 120 ml tørr rødvin
+- 120 ml frosne erter
+- 2 ss worcestershiresaus
+- 4 kvister timian
+- 2 tørkede laurbærblad
+- Salt og pepper
+
+**Potetlokket**
+- 1,1 kg poteter
+- 120 ml helmelk
+- 5 ss smør, delt
+- 180 ml revet parmesan, delt
+
+### Fremgangsmåte
+
+1. **Varm ovnen til 175 °C** og sett en ovnsfast panne på rundt 30 cm over middels varme.
+2. **Stek kjøttdeigen** med en klype salt i **5–7 minutter**, til den akkurat har mistet det rosa. Løft kjøttet over i en bolle med hullsleiv, og **la 1 ts fett bli igjen i panna**.
+3. **I samme panne:** ha i smør, løk, stangselleri, gulrot og en klype salt. Stek **5 minutter**.
+4. **Rør inn hvitløk og tomatpuré** og stek **1 minutt**. Rør så inn melet.
+5. **Tilsett kraft, rødvin, erter, worcestershiresaus, timian, laurbærblad og 1 ts salt og pepper.** La det småkoke **7–10 minutter**, til det er tykt som sjy.
+6. **Fjern timian og laurbærblad**, vend kjøttet tilbake, og sett pannen til side.
+7. **Kok potetene** i rikelig saltet vann i **15 minutter**, til en kniv går lett gjennom. Hell av vannet.
+8. **Mos potetene i kjelen** med melken, **4 ss av smøret** og **120 ml av parmesanen**, til de akkurat er kremete.
+9. **Bre potetmosen helt utover kjøttet** i panna. Drypp over det siste smøret og strø over resten av parmesanen.
+10. **Stek 30 minutter**, til overflaten er gyllen og det bobler i kantene. **La stå 10 minutter** før servering.
+
+### Notater
+
+- **Kjøttet skal ut av panna før grønnsakene inn.** Steker du alt sammen, koker grønnsakene i kjøttsaften i stedet for å frese. Den ene teskjeen fett som blir igjen er nok til å frese i, og bærer smaken videre.
+- **Melet må freses før væsken kommer i.** Det ene minuttet med tomatpuré og deretter mel gjør at melsmaken forsvinner og jevningen blir ren. Slenger du melet i sammen med kraften, får du klumper og rå melsmak.
+- **«Tykt som sjy» er målet, ikke tiden.** Sju til ti minutter er et anslag. Er blandingen fortsatt løs, koker du videre — potetlokket synker ned i en tynn sjy.
+- **Parmesanen er delt i to.** To tredjedeler i mosen, en tredjedel på toppen. Den på toppen er den som gir gyllen skorpe.
+- **Hvilen på ti minutter er ikke valgfri.** Rett ut av ovnen renner sjyen ut når du skjærer. Ti minutter lar den sette seg.
+- **Denne mot [hachis parmentier (nr. 118)](#118-hachis-parmentier--fransk-cottage-pie):** samme idé, ulikt land. Den franske bruker vanligvis kokt kjøtt fra gårsdagens gryte og en enklere potetmos. Denne er engelsk: rå kjøttdeig, rødvin, worcestershire og parmesan i mosen. Den franske er sparsommelig, denne er rikere.
+- **Beslektet:** [potetmos (T139)](#t139-potetmos) forklarer teknikken bak lokket, og [lapskaus (nr. 197)](#197-lapskaus) er den norske slektningen til kjøttlaget.
+
+---
+
+## 208. Chipotle bowl
+
+**Kilde:** @foodiligence (TikTok, 11. juni) · **Kjøkken:** Meksikansk-inspirert · **Tid:** 45 min + minst 15 min marinering · **Porsjoner:** 4 (ikke oppgitt i kilden)
+
+Hjemmelaget utgave av kjederetten: chipotlemarinert kylling, korianderris med lime, maissalsa og bønner i samme bolle. **Hele boksen med chipotle i adobo brukes** — all sausen pluss fire chilier.
+
+### Ingredienser
+
+**Chipotlekyllingen**
+- 4–6 kyllinglårfileter
+- 1 boks chipotle i adobo à 200 g — all sausen og 4 chilier
+- 4 hvitløksfedd, finhakket
+- 2 ss olivenolje
+- 1 ss chilipulver
+- 1 ts malt spisskummen
+- 1 ts tørket oregano
+- 1 ts sort pepper
+- 120 ml vann
+
+**Maissalsaen**
+- 1 pose frossen søtmais
+- 1 jalapeño, i terninger
+- ¼ rødløk, i terninger
+- 60 ml koriander, hakket
+- Salt og pepper
+
+**Korianderrisen**
+- Kokt ris, kokt med 1 laurbærblad
+- 1 potte koriander, finhakket
+- Saften fra 2 lime
+- 2 ss smør og 2 ss olje
+- Salt
+
+**Resten**
+- 1 boks sorte bønner eller pintobønner
+- Seterrømme
+
+### Fremgangsmåte
+
+1. **Marinér kyllingen:** bland kyllinglårene med alle krydderne, hvitløk, olje, chipotlechiliene, hele adobosausen og vannet. **La stå minst 15 minutter, gjerne over natten.**
+2. **Stek kyllingen** på middels høy varme til den er svidd i kantene og gjennomstekt. **La den hvile**, og skjær den så i terninger.
+3. **Maissalsa:** varm maisen i mikrobølgeovn i **2 minutter**, og bland med jalapeño, rødløk, koriander, salt og pepper.
+4. **Korianderris:** kok risen med et laurbærblad. Når den er ferdig, løsne den med gaffel og bland inn koriander, limesaft, smør, olje og salt.
+5. **Toppingene:** visp rømmen kraftig til den er glatt. Varm bønnene.
+6. **Sett sammen bollene.**
+
+### Notater
+
+- **Hele boksen adobo, ikke bare chiliene.** Sausen er der mesteparten av smaken sitter — røkt, syrlig og søt på samme tid. Bruker du bare chiliene, mister du grunnlaget.
+- **Fire chilier er et utgangspunkt.** Chipotle i adobo varierer kraftig i styrke mellom merker. Er du usikker, start med to og smak på marinaden.
+- **Kyllinglår, ikke bryst.** Marinaden er syrlig og steketiden høy — bryst blir tørt før det får farge. Lår tåler begge deler.
+- **La kyllingen hvile før du skjærer.** Skjærer du den rett fra panna, renner saften ut på fjøla i stedet for å bli i kjøttet.
+- **Laurbærbladet i riskokingen** er et lite grep som gir risen en bunn å hvile på. Det merkes ikke som laurbær, bare som at risen smaker mer.
+- **Rømmen vispes glatt.** Det er forskjellen på en klump på toppen og et lag som fordeler seg. Tar ti sekunder.
+- **Kilden oppgir ikke risemengde.** Regn ca. 300 g tørr ris til fire porsjoner, se [kokt ris (T131)](#t131-kokt-ris). *(Lagt til.)*
+- **Beslektet:** [taco-salatbowl med kylling (nr. 93)](#93-taco-salatbowl-med-kylling) og [rød chimichurri-kyllingbowl (nr. 101)](#101-rød-chimichurri-kyllingbowl) er samme format med andre smaker, og [ovnsristet elote (T142)](#t142-ovnsristet-elote) hører til samme bord.
+
+## 209. One-pot hainansk kylling og ris
+
+**Kilde:** dougdoesdelicious (TikTok) · **Kjøkken:** Hainansk-amerikansk (Hainanese chicken rice, one-pot-versjon) · **Tid:** ca. 45 min *(ikke oppgitt i kilden)* · **Porsjoner:** 2
+
+Forenklet, alt-i-én-gryte-utgave av hainansk kylling og ris: kylling og ris kokes sammen i samme gryte, og retten serveres med en ingefær-vårløksaus og en hvitløks-chilisaus. Kilden presenterer den som en «jukselapp» for en 19-personers one-pot-utfordring på Food Network.
+
+### Ingredienser
+
+**Kylling**
+- 2 kyllinglårfileter (450 g)
+- 2 ts sesamolje (5 g)
+- ¼ ts salt (1,5 g)
+
+**Ris**
+- 1⅔ cup jasminris (200 g) *(se notat om mengde)*
+- 6 fedd hvitløk (15 g)
+- 1 cm ingefær (15 g)
+- 2 vårløk (30 g)
+- 3 dl kyllingbuljong (300 g)
+- 1 ts kyllingbuljongpulver (5 g)
+- ½ ts gurkemeiepulver (1 g)
+
+**Ingefær-vårløksaus**
+- 1 cm ingefær (15 g)
+- 1 vårløk (15 g)
+- 1 ts sesamolje (5 g)
+- Salt (1 g)
+- 2 ss nøytral olje (25 g)
+
+**Hvitløks-chilisaus**
+- 6 fedd hvitløk (15 g)
+- 1 cm ingefær (15 g)
+- 2 ss sambal oelek (25 g)
+- 2 ss sriracha (25 g)
+- 1 ss kyllingbuljong (15 g)
+- 1 ts limesaft (5 g)
+- 2 ts sukker (10 g)
+
+**Servering**
+- 1 slangeagurk (100 g)
+- Koriander
+- Vårløk
+
+### Fremgangsmåte
+
+1. **Krydre kyllingen.** Legg kyllinglårene i en bolle og bland med sesamolje og salt.
+2. **Sett gryta.** Ha jasminris, hvitløk, ingefær, vårløk, kyllingbuljong, kyllingbuljongpulver og gurkemeiepulver i en gryte. Risen skal ikke skylles først.
+3. **Legg kyllingen på toppen** av risen i gryta.
+4. **Kok opp**, skru ned til svak varme, og la det småkoke med lokk på i **20 minutter**, eller til væsken er helt trukket inn.
+5. **Lag sausene mens gryta koker.** Start med ingefær-vårløksausen: ha ingefær, vårløk og salt i en bolle.
+6. **Varm sesamolje og nøytral olje** i en panne til den er het – helst til oljen så vidt begynner å småboble eller ryke litt. **Følg med hele tiden**, slik at oljen ikke tar fyr.
+7. **Hell den varme oljen** over ingefær og vårløk i bollen, og rør sammen.
+8. **Lag hvitløks-chilisausen:** bland hvitløk, ingefær, sambal oelek, sriracha, kyllingbuljong, limesaft og sukker i en bolle.
+9. **Ta kyllingen ut** når de 20 minuttene er over, og skjær i skiver eller server hel. La risen hvile i gryta i **10 minutter til**. Server en øse ris med kylling, begge sausene, og gjerne agurk, koriander og/eller vårløk på toppen.
+
+### Notater
+
+- **Rismengden i kilden virker lav.** 1⅔ cup jasminris oppgis som 200 g, men jasminris veier normalt rundt 300–330 g per 1⅔ cup. Grammvekten fra kilden er beholdt her, men vær obs på at forholdet mellom ris og væske kan bli annerledes enn ventet – bruk gjerne 300 g ris hvis du følger en vanlig ris-til-væske-ratio, og juster væskemengden tilsvarende.
+- **Ingen salting av selve risen** utover det som følger med buljongen og buljongpulveret – smak til underveis om ønskelig.
+- **«No need to» i kilden** ser ut til å referere til at risen ikke trenger skylles før den går i gryta.
+- **Sambal oelek** er brukt som oversettelse av «sambal» i kilden; bruk gjerne den sambalvarianten du har for hånden.
+- **One-pot-prinsippet:** kylling og ris kokes i samme gryte samtidig, i motsetning til en tradisjonell hainansk kylling og ris der buljongen først trekkes med kyllingen og risen kokes separat i den samme buljongen etterpå.
+
+## 210. Proteinbowl med airfryer-poteter, kjøttdeig og cottage cheese
+
+**Kilde:** Max Cooks (TikTok) · **Kjøkken:** Amerikansk · **Tid:** ca. 25 min *(ikke oppgitt i kilden)* · **Porsjoner:** 1
+
+Enkel proteinrik bowl bygget på airfryer-poteter, brunet kjøttdeig, cottage cheese og syltet jalapeño. Kilden oppgir næringsinnhold for hele retten: 575 kcal, 51 g protein, 15 g fett, 59 g karbohydrater, 9 g fiber.
+
+### Ingredienser
+
+- 350 g poteter, i terninger
+- 170 g kjøttdeig
+- 75 g cottage cheese (2 % fett)
+- Syltet jalapeño, etter smak
+
+### Fremgangsmåte
+
+1. **Skjær potetene i terninger** og airfry i **15–20 minutter**, til gyldne og møre. *(Temperatur, olje og krydder er ikke oppgitt i kilden.)*
+2. **Brun kjøttdeigen** i en panne til den er gjennomstekt og har fått litt farge.
+3. **Sett sammen bowlen:** poteter i bunnen, kjøttdeig på toppen, en klatt cottage cheese, og avslutt med syltet jalapeño.
+
+### Notater
+
+- **Kilden oppgir ingen krydder, salt, pepper eller steikefett** til hverken potetene eller kjøttdeigen. Smak til selv – litt salt og en nøytral olje til potetene anbefales.
+- **Næringsinnhold fra kilden** (for hele retten): 575 kcal, 51 g protein, 15 g fett, 59 g karbohydrater, 9 g fiber.
+- **Ingen porsjonsangivelse i kilden** – ut fra mengden (350 g poteter, 170 g kjøttdeig) er dette regnet som én stor porsjon.
+- **Fett på cottage cheese:** kilden bruker 2 % fett-variant; en annen fettprosent vil endre næringstallene noe.
+
+
+
+---
+
+
+
+
+
+
+# Sjømat
 
 ## SJ1. Sjøkreps med cowboysmør
 
@@ -10081,7 +11318,7 @@ Sjøkrepshaler delt på langs, stekt i panne eller på grill, og pensles med et 
 
 - 8–12 sjøkrepshaler, delt på langs *(mengde lagt til)*
 - Salt og pepper
-- Litt olje til steking *(lagt til)*
+- 12 g olje til steking *(mengde lagt til.)*
 
 **Cowboysmør** *(alle mengder lagt til – kilden lister bare ingrediensene)*
 - 200 g smør, romtemperert
@@ -10211,7 +11448,7 @@ Laks i biter, krydret og panert i panko, stekt sprø i airfryer og vendt i en gl
 - **«Sweet paprika» er vanlig edelsøt paprikapulver**, ikke røkt. Røkt paprika ville dratt retten i samme retning som chipotlen og gjort den ensformig.
 - **190 °C er omregnet fra 380 °F.** Går airfryeren din bare til 200, er det uansett innenfor. Merk at 8–10 minutter gir godt gjennomstekt laks – vil du ha den saftigere i midten, sjekk allerede etter 6 minutter. Til sprøstekte biter er noe mer gjennomsteking en del av formatet, i motsetning til [de hele filetene i samlingen](#89-miso-laks).
 - **Uten airfryer:** stekeovn på **220 °C varmluft** i 10–12 minutter på rist med langpanne under, snu halvveis, og pensle bitene godt med olje. *(Lagt til.)*
-- **Sausen er en yoghurtmajones.** Halvparten gresk yoghurt og halvparten majones gir kremethet uten at den blir så tung som ren majones. Har du [G3](#g3-majones) i kjøleskapet, fungerer den utmerket her.
+- **Sausen er en yoghurtmajones.** Halvparten gresk yoghurt og halvparten majones gir kremethet uten at den blir så tung som ren majones. Har du [T122](#t122-majones) i kjøleskapet, fungerer den utmerket her.
 - **Sausen holder** 3–4 dager i kjøleskap i tett glass, og blir bedre etter et par timer når chipotlen har fått satt seg. *(Lagt til.)*
 
 ---
@@ -10294,7 +11531,7 @@ Alt på ett brett: laks, småpoteter og grønne bønner med olivenolje, sitron o
 - **Sausen er nesten ikke en saus.** 150 g blåmuggost mot 2 ss rømme gir en tykk pasta, ikke noe som lar seg helle. Kildens mengder står urørt, men vil du ha den skjebar: rør inn 2–3 ss rømme til, eller varm den forsiktig med en skvett melk til den er hellbar. Ikke kok den – blåmuggost skiller seg lett.
 - **Blåmuggost varierer voldsomt i salt.** Norzola og Selbu Blå er milde, gorgonzola dolce enda mildere, mens roquefort er markert saltere. Med 150 g ost i sausen trenger du ikke salte den i det hele tatt – smak først.
 - **Norsk rømme er tykkere og fetere** enn amerikansk sour cream, og gjør sausen enda kompaktere. Bruk lettrømme, eller spe som beskrevet over.
-- **Ingen kjernetemperatur er oppgitt.** Laksen er saftigst på 48–52 °C, jf. [nr. 75](#75-pannestekt-laks-med-tzatziki-og-ris-lavfodmap) og [nr. 89](#89-miso-laks). Ti til tolv minutter på 200 °C treffer omtrent der for fileter på 2–3 cm.
+- **Ingen kjernetemperatur er oppgitt.** Laksen er saftigst på 48–52 °C, jf. [Nr. 75](#75-pannestekt-laks-med-tzatziki-og-ris-lavfodmap) og [nr. 89](#89-miso-laks). Ti til tolv minutter på 200 °C treffer omtrent der for fileter på 2–3 cm.
 - **125 g bønner til to er beskjedent**, men de skal bare være tilbehør ved siden av 300 g poteter. Vil du ha mer grønt, øk dem – de tåler samme steketid som laksen.
 - **Persillen kan gjerne deles i to:** halvparten i ovnen, halvparten strødd over ved servering. Fersk persille mister mye i ovnen. *(Lagt til.)*
 - **Samlingens niende lakserett**, og den eneste komplette ettbrettsmiddagen.
@@ -10371,7 +11608,7 @@ Purre og forkokte poteter bakt under bakepapir i en saus av crème fraîche, dij
 
 ### Notater
 
-- **Kilden advarer selv mot å overkoke laksen**, og det er den viktigste merknaden: fisken ettersteker etter at formen er ute av ovnen, så sjekk den **5 minutter før tiden**. Tjue minutter på 200 °C er i overkant for tynne fileter, særlig når de ligger på glovarme grønnsaker. Samlingens linje ellers er 48–52 °C i kjernen, jf. [nr. 75](#75-pannestekt-laks-med-tzatziki-og-ris-lavfodmap) og [nr. 89](#89-miso-laks).
+- **Kilden advarer selv mot å overkoke laksen**, og det er den viktigste merknaden: fisken ettersteker etter at formen er ute av ovnen, så sjekk den **5 minutter før tiden**. Tjue minutter på 200 °C er i overkant for tynne fileter, særlig når de ligger på glovarme grønnsaker. Samlingens linje ellers er 48–52 °C i kjernen, jf. [Nr. 75](#75-pannestekt-laks-med-tzatziki-og-ris-lavfodmap) og [nr. 89](#89-miso-laks).
 - **Grønnsakene forkokes og forstekes, laksen kommer sist.** Det er nettopp den trinndelingen jeg måtte legge til i [SJ5](#sj5-ovnsbakt-laks-med-poteter-bønner-og-blåmuggostsaus) – her er den innebygget fra start, og det er grunnen til at denne oppskriften faktisk går opp.
 - **Bakepapiret har en funksjon.** Det hindrer at purren bruner og tørker ut mens den blir mør, og holder på dampen fra vannet. Det tas av når laksen legges på, så fisken får direkte varme. Samme prinsipp som i [gratin dauphinois (T27)](#t27-gratin-dauphinois) fra samme forfatter.
 - **Vask purren grundig.** Jord setter seg mellom lagene og lar seg ikke skylle bort utenfra – skjær den i skiver først, og vask skivene i en bolle med vann.
@@ -10545,7 +11782,7 @@ Fisk i hjemmelaget *kroeung* – den kambodsjanske karripastaen – rørt med ko
 - 200 ml kremfløte
 - 1 bunt fersk dill — ca. 1 dl hakket *(mengde presisert)*
 - 1 sitron
-- Smør eller olivenolje til steking *(mengde ikke oppgitt)*
+- 20 g smør eller olivenolje til steking *(mengde lagt til.)*
 - Salt og pepper
 
 ### Fremgangsmåte
@@ -10695,7 +11932,7 @@ Torsk pochert i en grønnsakstung puttanesca-saus, alt i én ovnsfast panne, med
 - 1 ss balsamico
 - 2 sitronskiver *(mangler i kildens ingrediensliste)*
 - 30 g fetaost
-- Salt og olje til steking
+- 12 g salt og olje til steking *(mengde lagt til.)*
 
 **Hvitløksbrød**
 - ½ ciabatta, eller annet brød
@@ -10727,7 +11964,7 @@ Torsk pochert i en grønnsakstung puttanesca-saus, alt i én ovnsfast panne, med
 - **Frossen torsk må tines helt og tørkes godt.** Ellers avgir den vann i sausen under de siste 12 minuttene, og du sitter igjen med en tynn, blek puttanesca. Norsk skrei eller torskeloin fra ferskvaredisken er best. *(Lagt til.)*
 - **Pannen må tåle ovn.** Hele retten flyttes over uten omlasting – støpejern eller en stekepanne med metallhåndtak. Har du ikke det, hell sausen over i en ildfast form før fisken legges i.
 - **Persillepastaen i brødet er i praksis en persillade.** Den skal være grov, ikke pesto-glatt, og den trenger nok olje til å trekke inn i brødet. Ciabatta er valgt fordi den har store luftlommer som fanger opp blandingen.
-- **Beslektet:** [SJ13 tunfisk- og tomatsuppe](#sj13-tunfisk--og-tomatsuppe) og [SJ8 tunfisk- og hvitbønnesalat](#sj8-tunfisk--og-hvitbønnesalat) bruker samme middelhavsspiskammer – kapers, oliven, tomat.
+- **Beslektet:** [tunfisk- og tomatsuppe (SJ13)](#sj13-tunfisk--og-tomatsuppe) og [tunfisk- og hvitbønnesalat (SJ8)](#sj8-tunfisk--og-hvitbønnesalat) bruker samme middelhavsspiskammer – kapers, oliven, tomat.
 
 ---
 
@@ -10788,7 +12025,7 @@ Ovnsristede grønnsaker vendt i risoni med feta og oliven, med en sitron- og dij
 - **Auberginen trenger lengre tid enn paprikaen.** Skal alt bli ferdig samtidig, skjær auberginen litt mindre enn resten, eller gi den 8 minutters forsprang på brettet. *(Lagt til.)*
 - **«2 krm» er svensk kryddmått, altså 2 ml** – i overkant av en tredjedels teskje. Regn ½ ts.
 - **Salaten er bedre lunken enn kald.** Bland grønnsakene inn mens de fortsatt har varme igjen, så suger risonien opp dressingen. Rett fra kjøleskapet blir olivenoljen sløv og fetaen smakløs.
-- **Beslektet:** [nr. 144 one-pot risoni med reker og fetaost](#144-one-pot-risoni-med-reker-og-fetaost) bruker samme pasta i varm utgave, [SJ14 puttanesca-torsk](#sj14-puttanesca-torsk-med-hvitløksbrød) samme middelhavsspiskammer, og [T41](#t41-ovnsbakt-paprika--og-tomatsalat-med-bocconcini) samme ovnsristede paprika.
+- **Beslektet:** [one-pot risoni med reker og fetaost (nr. 144)](#144-one-pot-risoni-med-reker-og-fetaost) bruker samme pasta i varm utgave, [puttanesca-torsk (SJ14)](#sj14-puttanesca-torsk-med-hvitløksbrød) samme middelhavsspiskammer, og [ovnsbakt paprika- og tomatsalat med bocconcini (T41)](#t41-ovnsbakt-paprika--og-tomatsalat-med-bocconcini) samme ovnsristede paprika.
 
 ---
 
@@ -10837,6 +12074,43 @@ Alt i én form. Grønnsakene og potetene får et forsprang i ovnen med grønnsak
 - **Kilden bruker ferdig pesto** og oppgir samtidig sin egen: 1 potte basilikum, 2 ss pinjekjerner, 50 g revet parmesan, 3 fedd hvitløk og 1 dl olivenolje, kjørt i foodprosessor med oljen i tynn stråle til slutt. [T13](#t13-pesto) er samlingens versjon.
 - **Holdbarhet:** 2 døgn i kjøleskap. Laks tåler oppvarming dårlig – spis restene kalde, eller varm dem forsiktig på 150 °C.
 - **Beslektet:** [SJ5](#sj5-ovnsbakt-laks-med-poteter-bønner-og-blåmuggostsaus) er samme prinsipp med blåmuggostsaus i stedet for pesto, og [T13](#t13-pesto) er pestoen.
+
+---
+
+## SJ17. Hjemmelagede fiskekaker
+
+**Kilde:** Matprat (matprat.no) · **Kjøkken:** Norsk · **Tid:** 40–60 min · **Porsjoner:** 4
+
+Fiskefarse fra bunnen i foodprosessor: fisk og salt først, så krydder, potetmel og melk spedd inn i tynn stråle. **Alt må være iskaldt**, ellers sprekker farsen. Samme farse gir fiskekaker, fiskepudding eller fiskeboller — bare tilberedningen skiller.
+
+### Ingredienser
+
+- 800 g hyse- eller koljefilet, iskald
+- 2 ts salt
+- ½ ts malt hvit pepper
+- ½ ts revet muskatnøtt
+- 2 ss potetmel
+- 4 dl melk, fløte eller fløtemelk, iskald
+- 2 ss hakkede friske urter *(kan utelates)*
+- 15 g smør eller margarin til steking *(mengde lagt til.)*
+
+### Fremgangsmåte
+
+1. **Rens fisken for skinn og alle bein** og del den i biter. Ha fisken og saltet i foodprosessoren og kjør til saltet er godt blandet inn.
+2. **Tilsett pepper, muskat og halvparten av potetmelet.** Spe inn halvparten av melken i en tynn stråle mens maskinen går på middels hastighet. Tilsett resten av potetmelet og fortsett å spe.
+3. **Vil du ha helt fin farse**, kjør på høy hastighet noen sekunder. **Ikke kjør for lenge** — da sprekker den. Vil du ha grovere farse, spe på lavere hastighet, eller vend inn litt grovhakket fisk til slutt.
+4. **Vend inn urtene** om du vil ha dem.
+5. **Stek en liten prøvekake** og juster krydderet.
+6. **Form store kaker med en skje dyppet i kaldt vann.** Stek i smør i varm panne, **2–3 minutter på hver side**, til de er gylne. Klem dem litt flate med skjeen underveis.
+
+### Notater
+
+- **Saltet må inn i fisken før alt annet.** Salt løser ut myofibrillære proteiner som binder vann og fett. Slenger du alt oppi samtidig, blir farsen løs uansett hvor lenge du kjører.
+- **Fersk fisk binder bedre enn frossen.** Kilden er tydelig på dette. Frysing bryter cellevegger, og proteinene som skal binde farsen er allerede skadet når du tiner.
+- **Prøvekaken er ikke overflødig.** Farsen kan ikke smakes rå, og krydder i fiskefarse er vanskelig å dosere. Ett minutt i panna sparer deg for åtte kjedelige kaker.
+- **Samme farse, tre retter.** *Fiskepudding:* fyll en smurt brødform, bank ut luftlommene, sett i vannbad og stek på **125 °C i 40–45 minutter**. *Fiskeboller:* form med skje eller sprøytepose i vann som så vidt bobler, og la dem trekke **5–10 minutter**. Kraften kan brukes til saus.
+- **Andre fiskeslag går fint** — sei, lyr, torsk, laks, steinbit. Feit fisk gir mykere farse.
+- **Beslektet:** [ertepuré (T136)](#t136-ertepuré) og [kokte poteter (T135)](#t135-kokte-poteter) er det klassiske tilbehøret sammen med brunet løk, og [kjøttkaker med kålstuing (nr. 195)](#195-kjøttkaker-med-kålstuing) er samme farseprinsipp på kjøtt.
 
 ---
 
@@ -10932,11 +12206,11 @@ Frosne dumplings kokt rett i en rask rød karrikraft av kokosmelk, fiskesaus og 
 - **«Soup dumplings» er ikke det du vil ha her.** Uttrykket betyr *xiao long bao* – dumplings fylt med kraft i geléform, som er lagd for å dampes og spises hele. Legger du dem i kokende væske i tolv minutter, sprekker de og gir fra seg sin egen suppe. Bruk vanlige frosne dumplings, gyoza eller potstickers; det er nesten sikkert det kilden faktisk mener.
 - **Tolv minutter er lenge for frosne dumplings.** De fleste er ferdige på **6–8 minutter** i småkokende væske, og koker de lenger, går skinnet i oppløsning. Sjekk etter 6 minutter og styr etter fyllet, ikke etter klokka.
 - **Dette er mer saus enn suppe.** 1,2–1,8 dl kraft og 80 ml kokosmelk er i underkant av 2,5 dl væske til 8–10 dumplings, og de suger til seg en del underveis. Til sammenligning bruker [nr. 39](#39-rød-karri-dumplingsuppe-med-reker) og [nr. 45](#45-rød-karri-dumplingsuppe-med-kylling--brendan-pang-sin-versjon) langt mer. Vil du ha en reell suppe, doble kraften.
-- **Makrutlimeblader og limesaft er ikke det samme**, selv om kilden setter dem som alternativer. Bladene gir sitrusaroma uten syre; saften gir syre uten aroma. Har du begge, bruk begge – blader mens det koker, et par dråper saft ved servering. Frosne blader fra asiatisk butikk er nesten like gode som ferske, jf. [nr. 76](#76-green-curry-med-kylling).
+- **Makrutlimeblader og limesaft er ikke det samme**, selv om kilden setter dem som alternativer. Bladene gir sitrusaroma uten syre; saften gir syre uten aroma. Har du begge, bruk begge – blader mens det koker, et par dråper saft ved servering. Frosne blader fra asiatisk butikk er nesten like gode som ferske, jf. [Nr. 76](#76-green-curry-med-kylling).
 - **Karripastaens styrke varierer voldsomt mellom merker.** Én spiseskje av Mae Ploy er noe helt annet enn én spiseskje av en mild vestlig variant. Smak på kraften i punkt 2 før du går videre.
 - **80 ml kokosmelk av en 400 ml boks** gir mye til overs. Resten holder seg noen dager i kjøleskap i tett boks, eller kan fryses i isbitform.
 - **Ingen salt i oppskriften**, og det trengs ikke: fiskesausen og karripastaen er begge salte. Smak til slutt.
-- **Samlingens femte rød karri-dumplingsuppe.** De andre er [nr. 39 med reker](#39-rød-karri-dumplingsuppe-med-reker), [nr. 40](#40-rød-karri-dumplingsuppe-med-kylling--realchefpaul-sin-versjon), [nr. 41](#41-rød-karri-dumplingsuppe-med-kylling--saltnpiipa-sin-versjon) og [nr. 45](#45-rød-karri-dumplingsuppe-med-kylling--brendan-pang-sin-versjon), alle med kylling. Denne er den minste og raskeste – en enkeltporsjon snarere enn en gryte.
+- **Samlingens femte rød karri-dumplingsuppe.** De andre er [med reker (nr. 39)](#39-rød-karri-dumplingsuppe-med-reker), [RealChefPauls versjon (nr. 40)](#40-rød-karri-dumplingsuppe-med-kylling--realchefpaul-sin-versjon), [saltnpiipas versjon (nr. 41)](#41-rød-karri-dumplingsuppe-med-kylling--saltnpiipa-sin-versjon) og [Brendan Pangs original (nr. 45)](#45-rød-karri-dumplingsuppe-med-kylling--brendan-pang-sin-versjon), alle med kylling. Denne er den minste og raskeste – en enkeltporsjon snarere enn en gryte.
 
 ---
 
@@ -11000,7 +12274,7 @@ Nudelsuppe bygget på hjemmelaget rød karripasta, med kyllinglår kokt i krafte
 - **Nudlene kokes separat, og det er med hensikt.** Kilden forklarer det godt: koker du dem i suppen, tykner stivelsen kraften. Ferdigkokte udonnudler skylles kort i varmt vann; tørkede kokes til litt før al dente, siden de mykner videre i den varme suppen.
 - **600 g ferdigkokte udonnudler** er tre til fire pakker – de selges gjerne i 200 g-poser i asiatiske butikker.
 - **Kokoskrem, ikke kokosmelk.** Kilden er nøye her: se etter minst 60 % kokosekstrakt og få tilsetningsstoffer, og unngå lettvarianter. Kokoskremen skal være tykk og skjebar, ikke rennende.
-- **Rekepasta og galangal** fås i asiatiske butikker; galangal frossen er et fullgodt alternativ, jf. [nr. 78](#78-panang-curry-med-svinefilet). Ingefær er ikke en erstatning.
+- **Rekepasta og galangal** fås i asiatiske butikker; galangal frossen er et fullgodt alternativ, jf. [Nr. 78](#78-panang-curry-med-svinefilet). Ingefær er ikke en erstatning.
 - **Samlingens andre hjemmelagde thaikarripasta**, etter panangpastaen i [nr. 78](#78-panang-curry-med-svinefilet). Denne kjøres i blender i stedet for morter, hvilket er raskere, men gir en litt løsere pasta – ta den gjerne et hakk grovere hvis du vil ha mer tekstur i suppen.
 
 ---
@@ -11716,7 +12990,7 @@ Alt går i ovnen samtidig – tomater, paprika, chili, løk og et helt hvitløks
 - 8 skiver smelteost
 - 50 g grovrevet lagret ost
 - 50 g smør
-- Olje til steking
+- 15 g olje til steking *(mengde lagt til.)*
 
 ### Fremgangsmåte
 
@@ -11742,6 +13016,659 @@ Alt går i ovnen samtidig – tomater, paprika, chili, løk og et helt hvitløks
 - **Suppen fryser godt** uten fløten – rør den inn ved oppvarming. Smørbrødene må lages ferske.
 
 ---
+
+## SU19. Hellstrøms squashsuppe
+
+**Kilde:** Eyvind Hellstrøm, *Grunnboka* (Cappelen Damm, 2025) · **Kjøkken:** Fransk · **Tid:** ca. 30 min · **Porsjoner:** 4 *(ikke oppgitt i kilden)*
+
+To squash behandlet på hver sin måte: den ene kokes til suppe, den andre stekes i skiver og legges på toppen. Samme oppskrift gir saus hvis du kjører den tykkere.
+
+### Ingredienser
+
+**Suppen**
+- 2 squash
+- 1 løk
+- 2 hvitløkfedd
+- 4 ss smør
+- 4 ss olivenolje
+- Vann
+- Frisk timian
+- En knivspiss kajennepepper
+- Salt
+
+**Toppingen**
+- Olivenolje til steking
+- Finhakket timian
+- Salt
+
+### Fremgangsmåte
+
+1. **Fjern det harde i endene på squashene.** Skrell den ene på langs med potetskreller – behold litt av det grønne. Høvle den i tynne skiver på mandolin, eller del opp med kniv.
+2. **Skjær løken i strimler og fres den i en kjele med litt smør.**
+3. **Skrell hvitløkfeddene, knus dem med kniv** og tilsett i kjelen.
+4. **Ha i squashen og fres videre.** Tilsett olivenolje og la det frese på sterk varme. **Blandingen skal ikke ta farge.**
+5. **Hell på vann til det dekker** og la det koke kraftig i **8–10 minutter**.
+6. **Tilsett litt frisk timian og en knivspiss kajennepepper.**
+7. **Kjør med stavmikser til suppe- eller sauskonsistens**, juster med litt vann og tilsett smør. Smak til med salt.
+8. **Til toppingen:** skrell den andre squashen, del den på langs og skrap ut innmaten. Kutt i grove skiver.
+9. **Fres skivene i varm panne med litt olivenolje på middels varme.** De kan gjerne få litt farge, men skal ikke bli brent.
+10. **Dryss over salt og finhakket timian.** Ha suppen i en dyp skål og legg den stekte squashen på toppen.
+
+### Notater
+
+- **«Skal ikke ta farge» er instruksen som avgjør fargen på suppen.** Bruning av løk og squash gir en gråbrun suppe. Freses de klare, blir suppen lysegrønn. Det er derfor det står sterk varme *og* ingen farge – det krever at du rører.
+- **Innmaten skrapes bare ut av topping-squashen.** Den er vassen og gjør stekte skiver bløte. I suppen gjør den ingen skade, siden alt mikses.
+- **Litt grønt skall i suppen gir fargen.** Skreller du helt, blir den nesten hvit. Kilden ber deg bevisst beholde noe.
+- **Åtte til ti minutter er kort for en grønnsakssuppe**, og med vilje: squash er nesten bare vann og er ferdig når den er mør. Lengre koking gir bare mattere farge.
+- **Suppe eller saus avgjøres av vannmengden.** Kilden gir én oppskrift for begge. Til saus: kjør den tykkere og hopp over toppingen.
+- **Beslektet:** [T77](#t77-hellstrøms-grønne-ertepuré) er samme monteringsprinsipp med smør i en grønn grønnsak, og [nr. 143](#143-spaghetti-med-kremet-squashsaus-og-blåskjell) bruker squash som saus til pasta.
+
+---
+
+## SU20. Hellstrøms blåskjellsuppe
+
+**Kilde:** Eyvind Hellstrøm, *Grunnboka* (Cappelen Damm, 2025) · **Kjøkken:** Fransk · **Tid:** ca. 25 min · **Porsjoner:** 2
+
+Skjellene damper åpne på to minutter, kraften filtreres og monteres med smør og olje, og skummes opp med stavmikser rett før servering.
+
+### Ingredienser
+
+- 1 kg (1 nett) ferske blåskjell
+- 2 dl tørr hvitvin
+- 1 løk
+- 1 stilk stangselleri
+- 50 g meierismør
+- 1 dl olivenolje
+- Saften fra ½ sitron
+- 2 ss hakket persille
+
+### Fremgangsmåte
+
+1. **Skrell og finhakk løk og stangselleri.**
+2. **Skyll og rens blåskjellene** under rennende, kaldt vann.
+3. **Kok hvitvin i en kasserolle med løk og stangselleri**, tilsett de rå blåskjellene og kok under lokk i **ca. 2 minutter**, eller til de åpner seg.
+4. **Filtrer kraften.** Plukk muslingkjøttet ut av skjellene og legg det i dype, varme tallerkener.
+5. **Kok inn blåskjellkraften litt**, visp inn kaldt smør, olivenolje, sitronsaft og hakket persille.
+6. **Skum opp kraften med stavmikser** og øs den over blåskjellene ved servering.
+
+### Notater
+
+- **To minutter, ikke mer.** Blåskjell er ferdige i det de åpner seg. Ett minutt ekstra gjør dem seige, og det lar seg ikke rette opp.
+- **Kraften må filtreres.** Blåskjell bringer med seg sand uansett hvor godt de er skylt, og den samler seg i bunnen av kasserollen. Et klede eller kaffefilter er forskjellen på en fin og en grusete suppe.
+- **Oppskummingen er anretningen.** Stavmikseren pisker luft inn i den fettrike kraften og gir et lett skum i stedet for en tung saus. Det må gjøres i siste sekund – skummet faller sammen i løpet av minutter.
+- **Skjell som ikke åpner seg, kastes.** Kilden nevner det ikke, men regelen er absolutt. *(Lagt til.)*
+- **Ingen fløte.** Suppen er bygget på skjellkraft, vin og fett alene, og smaker langt renere av hav enn en kremet skjellsuppe.
+- **Beslektet:** [SJ13](#sj13-tunfisk--og-tomatsuppe) er samlingens andre sjømatsuppe, og [T114](#t114-hellstrøms-beurre-blanc) bruker samme montering med vin og smør.
+
+---
+
+## SU21. Hellstrøms løksuppe
+
+**Kilde:** Eyvind Hellstrøm, *Grunnboka* (Cappelen Damm, 2025) · **Kjøkken:** Fransk · **Tid:** ca. 1 t · **Porsjoner:** 4 *(ikke oppgitt i kilden)*
+
+Seks til åtte løk freset i olivenolje og kokt i kraft i en halvtime. Krutongene gratineres for seg og legges på til slutt.
+
+### Ingredienser
+
+- 6–8 løk
+- 1 l grønnsakkraft, kyllingkraft, soppkraft eller vann
+- 3–4 ss olivenolje
+- Salt
+
+**Til servering**
+
+- 20 brødkrutonger av lyst brød
+- 100 g smakfull ost, for eksempel Beaufort eller Comté
+
+### Fremgangsmåte
+
+1. **Skrell løken og skjær den i fine strimler.**
+2. **Fres den i varm olivenolje under omrøring** til den blir blank og lett gyllenbrun.
+3. **Tilsett kraft eller vann** og småkok på middels varme i **ca. 30 minutter**. Smak til med salt.
+4. **Skjær lyst brød uten skorpe i grove terninger**, vend dem i litt olivenolje og stek dem i ildfast form eller på stekebrett med bakepapir på **200 grader**, til de er gyllenbrune.
+5. **Dekk krutongene med skiver av ost** og la osten smelte over dem.
+6. **Server suppen i dype, varme tallerkener** og legg krutongene med smeltet ost på toppen.
+
+### Notater
+
+- **Ingen vin, ingen smør, ingen mel.** Dette er en langt enklere løksuppe enn den klassiske – olivenolje, løk og kraft. Sammenlign med [SU5](#su5-fransk-løksuppe), som er Hellstrøms egen gjengitte oppskrift med hvitvin, madeira og urtebukett. Samme kokk, to helt ulike supper.
+- **Krutongene gratineres separat.** Den klassiske metoden er å gratinere hele suppebollen under grillelementet. Her går osten på brødet alene, som gjør at krutongene holder seg sprø i stedet for å suge seg fulle.
+- **Lett gyllenbrun, ikke mørk.** Løken skal bare så vidt ta farge. Kraftig karamellisering ville gitt en mørkere og søtere suppe – det er [T82](#t82-hellstrøms-løkkompott) som gjør den jobben.
+- **Beaufort og Comté er begge alpeoster** med nøtteaktig smak og god smelteevne. Gruyère er nærmeste erstatning. *(Lagt til.)*
+- **Beslektet:** [SU5](#su5-fransk-løksuppe) og [SU11](#su11-fransk-løksuppe--géraldine-sin-versjon) er samlingens to andre løksupper.
+
+---
+
+## SU22. Hellstrøms rødbetsuppe
+
+**Kilde:** Eyvind Hellstrøm, *Grunnboka* (Cappelen Damm, 2025) · **Kjøkken:** Nordisk · **Tid:** ca. 1 t · **Porsjoner:** 4 *(ikke oppgitt i kilden)*
+
+Forkokte rødbeter med tomat, ingefær og vineddik. Serveres med en dillrømme rørt for seg.
+
+### Ingredienser
+
+- 300 g rødbeter, kokt eller bakt og uten skall
+- 1–2 gul løk eller salatløk
+- 3–4 middels store tomater
+- 2 ss olivenolje
+- ½ dl vineddik
+- 1 ss revet frisk ingefær
+- 1 ts sukker
+- 3 dl grønnsakbuljong eller vann
+- Salt og pepper
+
+**Dillrømme**
+
+- 4 ss seterrømme eller yoghurt
+- 1 liten bunt dill
+- Saften fra ½ sitron
+- Salt
+
+### Fremgangsmåte
+
+1. **Skrell og finhakk løken.**
+2. **Del tomatene i fire og skrap ut kjernene.** Hakk tomatkjøttet grovt. **Press kjernene gjennom en sil og ta vare på saften.**
+3. **Del rødbetene i ca. ½ cm tykke skiver** og deretter i mindre biter.
+4. **Skrell og riv ingefæren.**
+5. **Varm olivenolje i en kasserolle** og fres løken til den er blank.
+6. **Tilsett tomatkjøttet, revet ingefær, sukker og vineddik.** Kok inn.
+7. **Tilsett rødbetene og grønnsakbuljong eller vann.** La småkoke i **ca. 40 minutter**.
+8. **Smak til med salt og pepper.**
+9. **Bland seterrømme, hakket dill, sitronsaft og salt** og server en god skje på toppen.
+
+### Notater
+
+- **Rødbetene er allerede kokt når de går i.** De førti minuttene er til for at smakene skal møtes, ikke for å koke rotgrønnsaken mør. Bruker du rå rødbeter, må du regne med minst en time ekstra.
+- **Tomatkjernene siles og saften brukes.** Der de fleste oppskrifter kaster dem, er de her en gratis syrlig væske som går rett i suppen. Samme grep som i [T92](#t92-hellstrøms-vierge-saus).
+- **En halv desiliter vineddik er mye**, og det er poenget. Rødbet er svært søtt; uten kraftig syre blir suppen kvalmende. Sukkeret balanserer den andre veien.
+- **Ingefær i borsjtsj-familien** er kildens eget avvik og trekker suppen bort fra det østeuropeiske mot noe friskere.
+- **Rømmen røres for seg, ikke i suppen.** Blandet inn ville den blitt rosa og forsvunnet; på toppen er den både syre og kontrast.
+- **Beslektet:** [T74](#t74-hellstrøms-rødkål-med-fiken) bruker samme sur-søte balanse i en rød grønnsak.
+
+---
+
+## SU23. Hellstrøms parmesansuppe
+
+**Kilde:** Eyvind Hellstrøm, *Grunnboka* (Cappelen Damm, 2025) · **Kjøkken:** Italiensk · **Tid:** ca. 45 min · **Porsjoner:** 4 *(ikke oppgitt i kilden)*
+
+To hundre gram parmesan i to omganger, kokt ut i melk, fløte og kyllingkraft.
+
+### Ingredienser
+
+- 200 g parmesan
+- 1 gul løk eller salatløk
+- 2–3 ss olivenolje
+- ¼ l helmelk
+- ¼ l kremfløte
+- ½ l kyllingkraft, eller vann med buljongterning
+- 1 laurbærblad
+- 1 liten bouquet garni av frisk timian, rosmarin og estragon
+
+### Fremgangsmåte
+
+1. **Skrell og finhakk løken.** Fres den i olivenolje i en varm kasserolle til den er bløt og blank.
+2. **Grovhakk parmesanen med kniv.**
+3. **Tilsett urtene og halvparten av parmesanen** i kasserollen. Bland godt over varmen.
+4. **Tilsett melken, kremfløten og halvparten av buljongen.** La småkoke i **ca. 15 minutter** under omrøring.
+5. **Tilsett resten av parmesanen** og kok videre i **15 minutter**.
+6. **Plukk ut urtene** og kjør suppen med stavmikser til glatt konsistens.
+7. **Finjuster tykkelsen** med buljong eller vann.
+
+### Notater
+
+- **Osten deles i to porsjoner med hensikt.** Den første halvparten koker i en halvtime og smelter helt inn i væsken; den andre går i mot slutten og beholder mer av den friske parmesansmaken. Alt på én gang gir en flatere suppe.
+- **Grovhakket med kniv, ikke revet.** Revet parmesan klumper seg når den treffer varm væske. Biter smelter langsommere og jevnere.
+- **Konstant omrøring er ikke valgfritt.** Ost og melk brenner seg i bunnen i løpet av minutter, og brent parmesan ødelegger hele gryta.
+- **Denne bruker parmesanen selv, ikke skorpene.** Den vanlige italienske metoden er å koke ut oppsparte skorper. Her går 200 gram ost rett i – langt dyrere, og langt kraftigere.
+- **Kildens forslag til topping:** brødkrutonger, gressløk og stekt pancetta eller sideflesk.
+- **Beslektet:** [SU17](#su17-kremet-hvitbønnesuppe-med-parmesan) og [SU26](#su26-hellstrøms-blomkålsuppe-med-parmesan) er samlingens andre parmesansupper.
+
+---
+
+## SU24. Hellstrøms gazpacho
+
+**Kilde:** Eyvind Hellstrøm, *Grunnboka* (Cappelen Damm, 2025) · **Kjøkken:** Spansk · **Tid:** ca. 45 min + kjøling · **Porsjoner:** 6 *(ikke oppgitt i kilden)*
+
+Halvparten av tomatene bakes i ovnen før alt kjøres kaldt. Vannmelon kan erstatte vannet.
+
+### Ingredienser
+
+- ½ kg klasetomater
+- ½ kg cherrytomater
+- 2–3 hvitløkfedd
+- 1 salatløk
+- 2 røde paprika
+- 1 agurk
+- 50 g lyst brød uten skorpe
+- 1 dl olivenolje
+- 2 dl vann, eller ¼ vannmelon uten skall
+- Salt
+- Kajennepepper
+
+### Fremgangsmåte
+
+1. **Del cherrytomatene i to**, ha dem i en stekepanne med litt olivenolje, og sett dem i ovnen på **ca. 180 grader i ca. en halvtime**.
+2. **Rens hvitløk, løk, agurk og paprika.** Fjern kjernen i paprikaen.
+3. **Del klasetomatene i fire** og bland dem med de bakte cherrytomatene.
+4. **Del løken og agurken grovt.**
+5. **Kjør alt i blender** med vann eller vannmelon, brød og olivenolje til god konsistens.
+6. **Smak til med salt og kajennepepper.**
+7. **Sil suppen og sett den kaldt.**
+
+### Notater
+
+- **Halvparten av tomatene bakes, halvparten er rå.** Det er kildens avvik fra den spanske originalen, der alt er rått. Bakingen konsentrerer sukkeret og gir suppen en dybde rå tomater ikke har, mens de rå holder på friskheten.
+- **Brødet er ikke fyllstoff.** Det er emulgatoren som binder olje og tomatvann sammen, og som gir gazpacho den fløyelsaktige konsistensen. Uten brød skiller suppen seg i skålen.
+- **Vannmelon i stedet for vann** gir en søtere og lettere suppe. Det er den mest interessante varianten i oppskriften, og fungerer best i sesong.
+- **Silingen er nødvendig med skall og frø** fra to typer tomat og paprika. Uten den blir suppen kornete.
+- **Serveres godt kald.** Gazpacho som ikke er iskald oppleves som tomatsaus. Minst to timer i kjøleskap. *(Presisert.)*
+- **Beslektet:** [SU25](#su25-hellstrøms-tomatsuppe) er den varme tomatsuppen fra samme bok.
+
+---
+
+## SU25. Hellstrøms tomatsuppe
+
+**Kilde:** Eyvind Hellstrøm, *Grunnboka* (Cappelen Damm, 2025) · **Kjøkken:** Vestlig · **Tid:** ca. 1½ t · **Porsjoner:** 4 *(ikke oppgitt i kilden)*
+
+Fem ingredienser. En fjerdedel av tomatene tørkes i ovnen og brukes som garnityr; resten kjøres til juice.
+
+### Ingredienser
+
+- 1 l cherrytomater eller andre modne tomater
+- 8–10 hvitløkfedd
+- 1 l kyllingkraft, grønnsakkraft eller vann
+- ½ dl olivenolje
+- En klype salt
+
+### Fremgangsmåte
+
+1. **Del tomatene i to.** Ha **¼ av tomatene** i en stekepanne med litt olivenolje og et dryss salt, og tørk dem lett i varm ovn i **ca. 1 time**.
+2. **Skrell hvitløkfeddene**, del dem i to og fjern spiren. Kutt hvitløken fint og fres i olivenolje **uten at det blir brunt**.
+3. **Kjør resten av tomatene med stavmikser eller blender til juice.**
+4. **Kok juicen sammen med hvitløken** og tilsett kraft eller vann. Kok til god konsistens.
+5. **Kjør med stavmikser eller blender** og smak til med salt.
+6. **Sil suppen mens den er varm** og anrett med de tørkede tomatene.
+
+### Notater
+
+- **Åtte til ti hvitløkfedd i én suppe** er en enorm mengde, og det er hele karakteren. Freset forsiktig uten bruning blir hvitløken søt og nøtteaktig i stedet for skarp – bruner den seg, blir suppen bitter.
+- **Tomatene kokes aldri hele.** De kjøres til juice først, som betyr at suppen koker inn på minutter i stedet for i en time. Konsistensen styres av innkokingen alene.
+- **De tørkede tomatene er garnityr, ikke ingrediens.** De går ikke i suppen; de legges på toppen som konsentrert smak og tekstur.
+- **Silingen mens den er varm** er lettere enn kald – væsken er tynnere og renner raskere gjennom sikten.
+- **Beslektet:** Samlingens andre tomatsupper er [av ovnsbakte tomater (SU6)](#su6-tomatsuppe-av-ovnsbakte-tomater), [med grilled cheese (SU8)](#su8-tomatsuppe-med-grilled-cheese) og [Rajjekost sin versjon (SU18)](#su18-tomatsuppe-med-grilled-cheese--rajjekost-sin-versjon), og [Hellstrøms soltørkede tomater (T75)](#t75-hellstrøms-soltørkede-tomater) er tørketeknikken i full skala.
+
+---
+
+## SU26. Hellstrøms blomkålsuppe med parmesan
+
+**Kilde:** Eyvind Hellstrøm, *Grunnboka* (Cappelen Damm, 2025) · **Kjøkken:** Italiensk-inspirert · **Tid:** ca. 45 min · **Porsjoner:** 4 *(ikke oppgitt i kilden)*
+
+To skiver skjæres av blomkålen og stekes gyllenbrune som topping. Resten kokes ut i melk, fløte og parmesan.
+
+### Ingredienser
+
+- 1 blomkål på ca. 800 g
+- 100 g revet fersk parmesan
+- 3 dl helmelk
+- 1 dl kremfløte
+- ½ l grønnsakbuljong eller vann
+- 2–3 ss olivenolje
+- 1–2 ss smør
+- Salt
+- En knivspiss kajennepepper
+
+**Til servering**
+
+- 2 ss krutonger
+- 2 ss sprøstekt guanciale, pancetta eller saltet sideflesk
+- 1 ss finhakket gressløk
+
+### Fremgangsmåte
+
+1. **Skyll og rens blomkålen** for grønne blader, stilker og stamme. **Stammen skal brukes senere.**
+2. **Del blomkålen i to skiver på midten**, ca. 2 cm tykke, og stek lett på begge sider i olivenolje og smør til de er gyllenbrune.
+3. **Grovhakk resten av blomkålen** og fres i smør og olivenolje **uten at den tar farge**.
+4. **Tilsett revet parmesan, melk og kremfløte** og kok til det blir mørt.
+5. **Kjør massen i blender eller med stavmikser**, sil den gjennom en sikt og tilsett grønnsakbuljong eller vann til god konsistens.
+6. **Smak til med salt og kajennepepper.**
+7. **Hold suppen varm**, del de gyllenbrune blomkålskivene i fire og legg dem på toppen.
+8. **Dander med krutonger, sprøstekt guanciale og finhakket gressløk.**
+
+### Notater
+
+- **Samme blomkål, to behandlinger.** Skivene brunes for tekstur og Maillard-smak; resten freses fargeløst for at suppen skal holde seg hvit. Det er hele konstruksjonen.
+- **Stammen skal brukes.** Kilden er tydelig – den er den søteste delen av blomkålen og gir mest smak til suppen. De fleste kaster den.
+- **«Uten at den tar farge» styrer utseendet.** Brunet blomkål gir en beige suppe. Det smaker ikke dårligere, men kontrasten mot de gyllenbrune skivene forsvinner.
+- **Silingen fjerner fibrene.** Blomkål har en trevlete struktur som ikke lar seg mikse helt glatt. Sikten er forskjellen på en kremet og en kornete suppe.
+- **Guanciale er svinekjake**, fetere og mer aromatisk enn pancetta. Alle tre alternativene fungerer; guanciale er det mest smaksrike.
+- **Beslektet:** [SU23](#su23-hellstrøms-parmesansuppe) er parmesansuppen fra samme bok.
+
+---
+
+## SU27. Hellstrøms gulrotsuppe
+
+**Kilde:** Eyvind Hellstrøm, *Grunnboka* (Cappelen Damm, 2025) · **Kjøkken:** Fransk-inspirert · **Tid:** ca. 45 min · **Porsjoner:** 4 *(ikke oppgitt i kilden)*
+
+Gulrot med ingefær og saften av fire–fem pasjonsfrukt. Like god kald som varm, ifølge kilden.
+
+### Ingredienser
+
+- 10 middels store gulrøtter
+- 2 ss olivenolje
+- 20 g frisk ingefær
+- 4–5 pasjonsfrukt
+- 4 ss crème fraîche
+- Salt
+- Kajennepepper
+
+### Fremgangsmåte
+
+1. **Del pasjonsfrukten i to og skrap ut innholdet.** Kjør i kjøkkenmaskin med **2–3 ss vann** og sil bort steinene.
+2. **Skrell gulrøttene og del dem i tynne skiver.**
+3. **Fres dem i olivenolje** i en kasserolle og tilsett vann så det dekker.
+4. **Kok i ca. 30 minutter.**
+5. **Tilsett revet frisk ingefær, saften av pasjonsfrukten og crème fraîche**, og kjør i blender til glatt konsistens.
+6. **Juster med vann** til riktig konsistens og smak til med salt og kajennepepper.
+
+### Notater
+
+- **Pasjonsfrukt i gulrotsuppe er det uventede grepet**, og det fungerer fordi begge er søte og trenger syre. Frukten gir en skarp, tropisk syre som sitron ikke kan erstatte.
+- **Steinene må siles bort.** De er harde og bitre, og en blender knuser dem ikke. Vannet som tilsettes gjør silingen mulig – ren pasjonsfruktmasse er for tykk til å presse gjennom.
+- **Ingefæren går i etter kokingen.** Fersk ingefær mister det skarpe over tid i varme. Her er den rå når suppen mikses, og bittet er intakt.
+- **Både kald og varm, sier kilden.** Kald krever litt mer salt og syre, siden kulde demper smaksinntrykk. *(Lagt til.)*
+- **Beslektet:** [T79](#t79-hellstrøms-gulrøtter-bakt-med-spisskummen) og [T80](#t80-hellstrøms-gulrøtter-med-ingefær-og-koriander) er de andre gulrotrettene fra boka – sistnevnte bruker samme gulrot-og-ingefær-kombinasjon.
+
+---
+
+## SU28. Hellstrøms sjampinjongsuppe
+
+**Kilde:** Eyvind Hellstrøm, *Grunnboka* (Cappelen Damm, 2025) · **Kjøkken:** Fransk · **Tid:** ca. 45 min · **Porsjoner:** 4 *(ikke oppgitt i kilden)*
+
+Et halvt kilo sopp i to sorter. En fjerdedel stekes for seg som garnityr, resten kokes ut med sitronsaft.
+
+### Ingredienser
+
+- 250 g aromasopp
+- 250 g hvit sjampinjong
+- 2 salatløk
+- 2 sjalottløk
+- 1 dl olivenolje
+- 1 l grønnsakbuljong
+- Saften fra 1 sitron
+- Gressløk
+- Salt
+- Kajennepepper
+
+### Fremgangsmåte
+
+1. **Skrell og hakk løk og sjalottløk**, og fres i varm olivenolje.
+2. **Rens soppen, del den i mindre biter** og fres opp **¼ av den** i olivenolje. Sett til side.
+3. **Finhakk resten av soppen** og kok den sammen med løken.
+4. **Tilsett sitronsaft og grønnsakbuljong**, og kok i **ca. 30 minutter**.
+5. **Kjør suppen med stavmikser** til glatt konsistens.
+6. **Smak til med salt og kajennepepper.** Juster med litt vann hvis suppen er for tykk.
+7. **Fordel i dype, varme tallerkener** og dander med den stekte soppen og finhakket gressløk.
+
+### Notater
+
+- **To sopptyper med hver sin jobb.** Aromasopp har kraftigere smak og mørkere farge; hvit sjampinjong er mildere og holder suppen lys. Bare aromasopp gir en gråbrun suppe.
+- **En fjerdedel stekes og holdes utenfor.** Samme grep som i blomkål- og squashsuppen fra boka: samme råvare, to teksturer på tallerkenen.
+- **Sitronsaften går i før kokingen.** Syre tidlig holder på soppens lyse farge – sopp oksiderer og mørkner raskt i varme.
+- **Ingen fløte.** Suppen er bundet av soppen selv og av oljen. Det gir en renere soppsmak enn en kremet versjon.
+- **Beslektet:** [SU9](#su9-ungarsk-soppsuppe) er den paprikakryddrede soppsuppen, og [T81](#t81-hellstrøms-kantareller) er soppen som tilbehør.
+
+---
+
+## SU29. Hellstrøms aspargessuppe
+
+**Kilde:** Eyvind Hellstrøm, *Grunnboka* (Cappelen Damm, 2025) · **Kjøkken:** Fransk · **Tid:** ca. 40 min · **Porsjoner:** 4 *(ikke oppgitt i kilden)*
+
+Aspargesen kokes hel og avkjøles i isvann. Toppene spares og legges i suppen ved servering.
+
+### Ingredienser
+
+- 10–12 store grønne asparges
+- 2 middels store poteter
+- 1 purreløk
+- 1 løk
+- 100 g petits pois, frosne eller ferske
+- 1 liter grønnsakbuljong
+- 50 g parmesan
+- Olivenolje
+- Salt
+- Kajennepepper
+
+**Til servering**
+
+- Krutonger av landbrød
+- Aspargestoppene
+
+### Fremgangsmåte
+
+1. **Skrell aspargesen fra topp til rot** og knekk av 2–3 cm av roten. Skyll i kaldt vann.
+2. **Kok dem hele i ca. 6–7 minutter** i saltet vann.
+3. **Avkjøl i isvann.** Kutt dem fint, men **spar de hele toppene**.
+4. **Skrell poteter, løk og purreløk** og kutt fint. Fres i olivenolje til de er blanke og bløte.
+5. **Tilsett grønnsakbuljong og kok hurtig sammen.**
+6. **Når alt er gjennomkokt**, tilsett de grønne ertene, den kokte aspargesen og deretter parmesanen.
+7. **Kjør med stavmikser til glatt konsistens**, sil av og smak til med salt og kajennepepper.
+8. **Server med krutonger og aspargestopper.**
+
+### Notater
+
+- **Isvannet låser fargen.** Asparges går fra klart grønn til olivenbrun i løpet av minutter etter koking. Den brå nedkjølingen stopper prosessen og er grunnen til at suppen blir grønn i det hele tatt.
+- **«Kok hurtig sammen» er en fargeinstruks.** Jo lengre de grønne ingrediensene koker, desto mattere blir suppen. Poteten er der for å binde, ikke for å koke lenge.
+- **Ertene går i helt til slutt.** De trenger under et minutt og bidrar med både farge og sødme.
+- **Poteten er jevningen.** Uten mel eller fløte er det potetstivelsen som gir suppen kropp. To middels poteter til en liter buljong er forholdet.
+- **Aspargesskrellet kan kokes ut til kraft** i stedet for å kastes – det gir en langt kraftigere aspargessmak enn grønnsakbuljong. *(Lagt til.)*
+- **Beslektet:** [T77](#t77-hellstrøms-grønne-ertepuré) bruker samme erter, og [nr. 145](#145-hvit-asparges-med-shiitake-og-brunet-hollandaise) er samlingens andre aspargesrett med hollandaise.
+
+---
+
+## SU30. Kremet fiskesuppe
+
+**Kilde:** Matprat (matprat.no) · **Kjøkken:** Norsk · **Tid:** 20–40 min · **Porsjoner:** 4
+
+Fiskebuljong jevnet med melk og mel ristet sammen i et syltetøyglass, med laks og torsk som bare får trekke. **Fløten går i helt til slutt, etter at varmen er senket** — det er den detaljen som avgjør om suppen blir kremet eller skilt.
+
+### Ingredienser
+
+- 6 dl fiskebuljong, utblandet
+- 2 gulrøtter, i biter
+- 2 dl melk
+- 2 ss hvetemel
+- 200 g laks eller annen rød fisk
+- 200 g torskefilet eller annen hvit fisk
+- 1 dl frosne erter
+- 1 dl kremfløte
+- ½ ts salt
+- ½ ts pepper
+- 1 ss frisk gressløk
+
+### Fremgangsmåte
+
+1. **Kok opp fiskebuljongen** i en gryte og legg i gulrotbitene. La dem koke **3–4 minutter**.
+2. **Bland melk og hvetemel i et glass med skrulokk og rist godt.** Hell blandingen i buljongen mens du visper hele tiden. **La suppen småkoke i ca. 5 minutter.**
+3. **Senk temperaturen** og legg i fiskebitene og ertene. La suppen trekke **ca. 5 minutter**.
+4. **Rør inn fløten** og smak til med salt og pepper. Dryss over finklippet gressløk.
+
+### Notater
+
+- **Glasset med skrulokk er ikke et påfunn.** Mel rørt ut i kald melk med visp gir alltid klumper. Ristet i et lukket glass blir blandingen helt jevn på ti sekunder, og den kan helles rett i kokende buljong.
+- **Fem minutters koking etter jevningen.** Melet må koke ut, ellers smaker suppen mel. Kortere tid er den vanligste feilen.
+- **Fisken skal trekke, ikke koke.** Fire hundre gram fisk i terninger er ferdig på fem minutter under kokepunktet. Koker den, faller den fra hverandre og suppen blir grumsete.
+- **Rester av gårsdagens fisk fungerer utmerket.** Da hopper du over trekketiden og legger fisken i bare for å varme den.
+- **Reker og blåskjell** nevnes i kilden som et løft. De går i på samme tidspunkt som fisken.
+- **Beslektet:** [Hellstrøms fiskekraft (G26)](#g26-hellstrøms-fiskekraft) erstatter buljongterningen om du har tid, [fiskegrateng (nr. 198)](#198-fiskegrateng) bruker samme hvite jevning i ovnsform, og [hjemmelagede fiskekaker (SJ17)](#sj17-hjemmelagede-fiskekaker) tar den samme fisken rå.
+
+---
+
+## SU31. Hummerbisque
+
+**Kilde:** Gladkokken (gladkokken.no) · **Kjøkken:** Fransk · **Tid:** ca. 1½ t · **Porsjoner:** 4 *(ikke oppgitt i kilden)*
+
+Hummeren forvelles to minutter og kjøles brått i isvann, kjøttet plukkes ut og smørstekes, og skallene brunes hardt før de blir til kraft. **Bruningen av skallene er hele suppen** — den er forskjellen på en rød, søtlig bisque og et blekt fløtevann.
+
+### Ingredienser
+
+- 2 hummer
+- 15 g olje, til steking *(mengde lagt til.)*
+- 2 ss tomatpuré
+- 2 sjalottløk
+- 2 fedd hvitløk
+- 1 gulrot
+- 0,5 dl cognac
+- 2 dl hvitvin
+- 5 dl vann
+- 5 dl kremfløte
+- Cayennepepper
+- Sitronsaft
+- Salt og pepper
+- Fersk estragon
+- 15 g smør, til steking av hummerkjøttet *(mengde lagt til.)*
+
+### Fremgangsmåte
+
+1. **Kok opp rikelig med godt saltet vann** i en stor kjele. Legg hummeren i med hodet først og **kok den i 2 minutter**. Gjør klar en stor bolle med isvann imens.
+2. **Legg hummeren rett i isvannet.** Det stopper kokingen, og kjøttet slipper skallet lettere.
+3. **Del opp hummeren etter noen minutter.** Vri av halen, press den forsiktig flat med hånden til det knekker, og dra av skallet. Plukk ut mest mulig av klokjøttet. Del kroppen i to og skallet i mindre biter.
+4. **Varm olje i en stor stekepanne til den er skikkelig varm** og ha i alt skallet. **Stek på sterk varme til det er godt brunet.**
+5. **Tilsett tomatpuré og sjalottløk** og rør rundt.
+6. **Etter ca. 1 minutt heller du i cognacen og flamberer** med en fyrstikk.
+7. **Når flammene har slukket, hell i hvitvinen.** La den koke inn til omtrent halvparten før du tilsetter vann, hvitløk og gulrot.
+8. **La det koke i 30 minutter**, tilsett fløten, og **kok videre ca. 30 minutter** til suppen har riktig konsistens.
+9. **Sil suppen** og smak til med sitronsaft, cayennepepper, salt og pepper. *(Cayennepepperen står i ingredienslisten, men nevnes ikke i kildens fremgangsmåte – se notat.)*
+10. **Stek hummerkjøttet i smør** i en stekepanne.
+11. **Kjør suppen med stavmikser** rett før servering, så den blir luftig.
+12. **Hell opp i dype tallerkener**, legg i hummerkjøttet og dryss over finhakket estragon.
+
+### Notater
+
+- **De to minuttene er forvelling, ikke koking.** Hummeren skal bare så vidt slippe skallet — kjøttet stekes ferdig i smør til slutt. Koker du den gjennom nå, blir den overkokt to ganger.
+- **Isvannet er ikke for din skyld.** Restvarmen i et hummerskall fortsetter å steke kjøttet i flere minutter etter at du har tatt den opp. Brå nedkjøling er det eneste som stopper den.
+- **Skallene skal brunes hardt, ikke bare varmes.** Kilden er tydelig, og den har rett: fargestoffet i skalldyrskall er fettløselig og trekkes ut i oljen. Ren koking i vann gir en blek og tam kraft. Regn 5–8 minutter på sterk varme.
+- **Tomatpuréen skal freses med.** Ett minutt i varm panne tar bort den rå metallsmaken og setter fargen. Går den rett i væsken, smaker suppen tomatpuré.
+- **Flambering er valgfritt.** Poenget er å koke bort alkoholen; det klarer du like godt ved å la cognacen koke inn uten flamme. Vil du flambere, trekk pannen av platen, gjør det utenfor kjøkkenviften, og ha lokket klart. *(Lagt til.)*
+- **Kilden skriver «rom/cognac» i fremgangsmåten**, men ingredienslisten oppgir cognac. Bruk cognac — det er den klassiske. *(Flagget.)*
+- **Cayennepepperen mangler i fremgangsmåten.** Den er skrevet inn i punkt 9, der den hører hjemme. En knivsodd er nok; den skal gi varme, ikke styrke. *(Steget mangler i kilden – se notat.)*
+- **Stavmikseren kommer etter silingen, ikke før.** Det er et bevisst valg hos kilden: her handler det om å luftne den ferdige suppen, ikke om å presse mer smak ut av skallene. Vil du ha mest mulig ut av råvarene, kjør massen før du siler — men da må du sile grundig etterpå.
+- **Sil to ganger hvis du har tid.** Hummerskall splintrer, og biter som slipper gjennom ødelegger en ellers silkeglatt suppe. *(Lagt til.)*
+- **Beslektet:** [Hellstrøms skalldyrkraft (G28)](#g28-hellstrøms-skalldyrkraft) er den samme kraften uten fløte og cognac, og [skalldyrbisque med sjøkreps og reker (SU32)](#su32-skalldyrbisque-med-sjøkreps-og-reker) rister skallene i ovn og jevner med melk i stedet for fløte, og [krepsehale capellini (nr. 203)](#203-krepsehale-capellini) bruker en bisque som saus i stedet for suppe — der er bruningen utelatt helt, som notatene der forklarer. [Kremet fiskesuppe (SU30)](#su30-kremet-fiskesuppe) er den enkle hverdagsvarianten.
+
+---
+
+## SU32. Skalldyrbisque med sjøkreps og reker
+
+**Kilde:** Mats Høilund / Treningskokken (treningskokken.no) · **Kjøkken:** Fransk · **Tid:** ca. 2 t · **Porsjoner:** 2
+
+Skallene ristes i ovnen i stedet for i panne, og suppen jevnes med maisenna i melk i stedet for å kokes med fløte. **Kilden kaller det en norsk variant** — mildere og magrere enn den franske originalen, men med de samme smakene.
+
+### Ingredienser
+
+**Skalldyrene**
+- 6 kokte sjøkreps
+- 600 g reker med skall, eller tilsvarende mengde andre skalldyr
+- 2 ss olivenolje
+
+**Grønnsaker og krydder**
+- ½ bunt stangselleri
+- 3 gulrøtter
+- 1 purreløk
+- 2 løk
+- 3 fedd hvitløk
+- 2 store ss tomatpuré
+- ½ ts hel sort pepper *(enhet mangler i kilden – se notat.)*
+- 4 hele stjerneanis
+- 4 laurbærblad, helst ferske
+
+**Væske og smakstilsetning**
+- 0,5 dl cognac
+- 2 dl Noilly Prat, tørr sherry eller tørr hvitvin
+- ½ ts worcestershiresaus
+- 2 ss hvitvinseddik
+- Litt sitron
+- ca. 1 ss maisenna
+- ca. 1 dl helmelk eller lett matfløte
+- 1 neve friske urter — estragon, kjørvel, persille og gressløk passer fint
+- Salt
+
+### Fremgangsmåte
+
+1. **Rens skalldyrene.** Legg kjøttet til side og alt av skallene på et stekebrett. **Vend skallene i olivenoljen.** *(Oljen er ikke plassert i kilden – se notat.)*
+2. **Stek skallene på 200 °C varmluft i ca. 20 minutter**, til de har fått litt farge.
+3. **Hakk opp alle grønnsakene**, legg dem over på brettet sammen med skallene og **stek videre ca. 15 minutter**, til grønnsakene også har tatt farge.
+4. **Fres pepper, stjerneanis, laurbærblad og tomatpuré** i en stor gryte på middels varme i noen minutter.
+5. **Ha skall og grønnsaker i gryta** og rør rundt så tomatpuréen fordeler seg.
+6. **Hell i cognacen og tenn på.** Ikke hold hodet over gryta, og ikke ha den under kjøkkenviften.
+7. **Når cognacen har brent fra seg**, hell i Noilly Prat og kok **1 minutt**.
+8. **Hell over kaldt vann så det så vidt dekker alt.** Kok opp og **la det småputre i 90 minutter**.
+9. **Sil av**, ha suppen tilbake i gryta og **kok den inn til to tredeler er igjen**.
+10. **Smak til** med sitronsaft, worcestershiresaus og salt — og hvitvinseddik om du vil ha suppen syrligere.
+11. **Rør maisennaen ut i melken** og spe den inn i suppen under omrøring. Hold suppen varm på lav varme.
+12. **Varm skalldyrene raskt i stekepanne** med litt olivenolje, urter og litt sitronsaft.
+13. **Legg skalldyrene i bunnen av en dyp tallerken** og øs suppen over. Server med nystekt brød eller dampede grønnsaker ved siden av.
+
+### Notater
+
+- **Ovnen i stedet for panna er hovedgrepet.** Tretti–trettifem minutter på 200 °C varmluft gir jevnere farge på alt skallet samtidig, uten at du må steke i omganger. Det tar lengre tid enn panne, men er nesten umulig å svi.
+- **Grønnsakene kommer inn etter tjue minutter, ikke fra start.** De er fulle av vann og ville dampet skallene i stedet for å la dem tørrsteke. Rekkefølgen er hele poenget.
+- **Oljen er oppført, men aldri plassert.** To spiseskjeer hører hjemme på stekebrettet: fargestoffet i skalldyrskall er fettløselig, så helt tørre skall gir mindre farge i kraften. Det lille som trengs i punkt 12 kommer i tillegg. *(Presisert.)*
+- **Kaldt vann, ikke varmt.** Kilden er presis her. Kald væske trekker langsomt ut smaken mens den varmes opp; kokende vann setter proteinene med det samme og gir en grumsete kraft.
+- **Fire hele stjerneanis er mye.** Anisen er kraftig og tar lett over i en suppe som skal koke i halvannen time. Vil du ha den mer forsiktig, start med to. *(Justering lagt til.)*
+- **Enheten mangler på pepperen.** «½ hel sort pepper» gir ingen mening — det skal være ½ ts hele pepperkorn. *(Flagget.)*
+- **Maisenna i en bisque er utradisjonelt.** Klassisk bisque jevnes med ris kokt i kraften, eller av skallene selv. Her er maisenna og melk valgt bevisst for å holde fettet nede, og det fungerer — men suppen blir tynnere og mindre blank enn en fløtebisque. Skal du ha den rike varianten, dropp maisennaen og kok inn 3 dl fløte i stedet. *(Alternativ lagt til.)*
+- **Hvitvinseddiken står med mengde, men brukes «om du vil».** En leser har spurt om nettopp dette i kommentarfeltet. To spiseskjeer er maks — start med én og smak. *(Flagget.)*
+- **Sjøkrepsene er allerede kokte.** De skal bare varmes gjennom i punkt 12, ikke stekes. Ett minutt er nok.
+- **Noilly Prat** er fransk tørr vermut, og gir en urteaktig bitterhet tørr hvitvin ikke har. Den fås på Vinmonopolet og holder seg måneder i kjøleskap etter åpning. *(Lagt til.)*
+- **Beslektet:** Samlingen har tre bisquer. [Hummerbisque (SU31)](#su31-hummerbisque) bruner skallene i panne og koker inn 5 dl fløte — den rike ytterkanten. Denne rister dem i ovn og jevner med melk — den magre. [Krepsehale capellini (nr. 203)](#203-krepsehale-capellini) bruker bisquen som pastasaus, men hopper over bruningen helt. Se også [Hellstrøms skalldyrkraft (G28)](#g28-hellstrøms-skalldyrkraft), som er grunnkraften uten fløte.
+
+---
+
+## SU33. Kylling- og linsesuppe med sitronyoghurt
+
+**Kilde:** Andy Baraghani for NYT Cooking, via @foodiligence (TikTok, 23. november 2025) · **Kjøkken:** Persisk-inspirert · **Tid:** ca. 1 t 15 min · **Porsjoner:** 6 (ikke oppgitt i kilden)
+
+Røde linser som koker seg i oppløsning til suppa blir tykk av seg selv, med kyllinglår som trekkes fra hverandre og en neve friske urter rørt inn til slutt. **Løken skal karamelliseres dypt**, ikke bare mykne — det er hele smaksgrunnlaget. Sitronyoghurten på toppen er ikke pynt, men motvekten som gjør retten ferdig.
+
+### Ingredienser
+
+- 3 ss olivenolje
+- 2 store løk, tynt skivet
+- 6 hvitløksfedd, tynt skivet
+- 450 g kyllinglårfilet, uten skinn og bein
+- 290 g røde linser, skylt
+- 1 ts malt gurkemeie
+- 1,9 liter vann
+- Salt og rikelig med sort pepper
+
+**Til slutt**
+- 1 potte blandede friske urter — persille, dill og mynte, ca. 30 g
+- 240 ml yoghurt naturell, gjerne gresk
+- 2 ss sitronsaft
+
+### Fremgangsmåte
+
+1. **Varm olivenoljen i en stor gryte** og stek løken til den er **dypt karamellisert**. Dette tar tid — regn 25–35 minutter på middels varme.
+2. **Tilsett hvitløken** og la den mykne.
+3. **Ha i kylling, linser, gurkemeie, salt og rikelig med pepper.** Vend alt godt så det er dekket av krydderet.
+4. **Hell over vannet**, kok opp, og **la det småkoke til linsene har falt fra hverandre og kyllingen er gjennomkokt.**
+5. **Ta opp kyllingen og riv den i biter**, og ha den tilbake i gryta.
+6. **Rør inn urtene** og smak til med salt og pepper.
+7. **Rør sitronyoghurten:** bland yoghurt, sitronsaft og litt salt. Bruker du gresk yoghurt, spe med litt vann til den er skjebar.
+8. **Server suppa med en raus skje sitronyoghurt på toppen.**
+
+### Notater
+
+- **Karamelliseringen er ikke et forberedende steg, den er retten.** «Deeply caramelized» betyr brun og søt, ikke gyllen. Har du gjort det på ti minutter, har du ikke gjort det. Det er dette som gir dybden en suppe med bare fire hovedingredienser trenger.
+- **Røde linser skal falle fra hverandre.** De har ikke skall og går i oppløsning på 20–25 minutter. Det er slik suppa blir tykk uten fløte eller jevning. Bruker du grønne eller brune linser, holder de formen og du får en helt annen rett.
+- **Gurkemeie trenger fett og varme.** Punkt 3 vender krydderet i den varme oljen før væsken kommer i. Slenger du det i vannet i stedet, blir smaken flat og litt bitter.
+- **Urtene helt til slutt.** Persille, dill og mynte mister både farge og aroma på minutter i kokende suppe. De skal røres inn etter at gryta er av varmen.
+- **Sitronyoghurten er syren retten mangler.** Linser og karamellisert løk er søtt og jordaktig hele veien. Uten den friske toppen blir suppa tung. Ikke hopp over den, og ikke rør den inn i gryta — den skal ligge som et lag du blander inn selv.
+- **Kilden oppgir ikke antall porsjoner.** 1,9 liter vann, 450 g kylling og 290 g linser gir rikelig til seks. *(Anslått.)*
+- **Beslektet:** [vegetarisk linsegryte (SU13)](#su13-vegetarisk-linsegryte) er den kjøttfrie slektningen, [mujadara (nr. 175)](#175-mujadara) bruker samme karamelliserte løk som bærende smak, og [Hellstrøms grønne linser (T76)](#t76-hellstrøms-grønne-linser) viser hvordan linser oppfører seg når de skal holde formen.
+
+---
+
 
 # Tilbehør
 
@@ -12293,10 +14220,10 @@ Ekte aioli, uten egg. Hvitløken støtes til en helt glatt pasta i morter, og ol
 
 ### Notater
 
-- **Dette er ikke hvitløksmajones.** Det som selges og serveres som aioli i norske butikker og på de fleste restauranter, er majones tilsatt hvitløk. Ekte aioli inneholder ikke egg i det hele tatt – emulsjonen holdes sammen av hvitløkens eget slimstoff alene. Begge deler er gode sauser, men de er ikke samme sak, og denne er markert skarpere og mer hvitløksdrevet. Vil du ha varianten med egg, rør revet hvitløk inn i [majonesen i G3](#g3-majones).
+- **Dette er ikke hvitløksmajones.** Det som selges og serveres som aioli i norske butikker og på de fleste restauranter, er majones tilsatt hvitløk. Ekte aioli inneholder ikke egg i det hele tatt – emulsjonen holdes sammen av hvitløkens eget slimstoff alene. Begge deler er gode sauser, men de er ikke samme sak, og denne er markert skarpere og mer hvitløksdrevet. Vil du ha varianten med egg, rør revet hvitløk inn i [majonesen i G3](#t122-majones).
 - **Hvitløken må være helt glatt før noe annet skjer.** Gjenværende fibre og biter emulgerer ikke, og da får du olje med hvitløksbiter i stedet for en saus. Regn flere minutter i mortelen. Saltet er ikke bare smak her – det virker som slipemiddel og hjelper deg å bryte ned feddene.
 - **Rekkefølgen i kilden er den vanskeligste varianten.** Sitronsaften går i før oljen, altså før emulsjonen har tatt tak. Væske tidlig gjør en eggfri emulsjon mer ustabil, og tradisjonell allioli lages med hvitløk, salt og olje alene – syren kommer eventuelt til slutt. Følger du kilden og den ikke vil ta seg, er det nesten alltid dette som er årsaken. Hold da igjen halve sitronsaften til emulsjonen er etablert.
-- **Her er ekstra virgin olivenolje riktig valg**, i motsetning til i [majonesen](#g3-majones). Forskjellen er redskapet: en stavmikser sprenger olivenoljens polyfenoler og gjør den bitter, mens mortelen ikke gjør det. Bruk en olje du liker smaken av – den er halve retten.
+- **Her er ekstra virgin olivenolje riktig valg**, i motsetning til i [majonesen](#t122-majones). Forskjellen er redskapet: en stavmikser sprenger olivenoljens polyfenoler og gjør den bitter, mens mortelen ikke gjør det. Bruk en olje du liker smaken av – den er halve retten.
 - **Fjern den grønne spiren i feddene.** Hvitløk som har begynt å spire er bitter og harsk, og i en saus med fire fedd og ingenting å gjemme seg bak, kjennes det godt. Del feddet på langs og pirk ut kimen. Fersk, fast hvitløk gir også mer av slimstoffet som får emulsjonen til å holde.
 - **80 ml olje til 4 fedd er i overkant, men gjennomførbart.** Hvitløk alene emulgerer langt dårligere enn eggeplomme, og jo mer olje du presser inn, desto mer skjør blir sausen. Ta det virkelig langsomt de første 20 millilitrene.
 - **Slik redder du en skilt aioli:** støt et nytt fedd med salt i en ren morter, og spe den skilte blandingen ned i det, litt om gangen. Vil den fortsatt ikke, redder en eggeplomme den – men da har du hvitløksmajones, ikke aioli. *(Lagt til; kilden sier ingenting om hva du gjør når den skiller seg.)*
@@ -12493,10 +14420,10 @@ Potetsalat der potetene ikke er bløte. De forkokes hele, halveres og presses me
 - **Hellen må være glovarm før potetene går på.** Er den for kald, damper potetene i stedet for å karamellisere, og du får ingen farge. Oljen skal skimre og bevege seg med én gang den treffer. Og når potetene først ligger med snittflaten ned: **ikke rør dem** på de 3–4 minuttene. Flytter du dem tidlig, river du av skorpen før den har rukket å danne seg.
 - **Få har stekehelle på grillen i Norge.** En støpejernspanne på komfyren er kildens eget alternativ og fungerer fint, men da må du steke i flere omganger – potetene skal ligge i ett lag med plass rundt seg.
 - **Yuzujuice fås på flaske** i asiatiske butikker og hos spesialforhandlere. Finner du den ikke, foreslår kilden en blanding av ca. **60 % sitron, 20 % lime og 20 % grapefrukt**. Det treffer syren og det svake bitterstoffet, men ikke det blomsteraktige, som er hele poenget med yuzu.
-- **Denne majonesen er syrligere og løsere enn** [G3](#g3-majones). Samme metode og samme forfatter, men forholdet er et annet: 2 plommer til 50 ml syre og 200 ml olje, mot 2 plommer til 20 ml syre og 300 ml olje. Mye syre og lite olje gir en tynnere og mer skjør emulsjon – ta ekstra god tid i steg 4. Går den i stykker, gjelder samme redning: ny plomme i ren kanne, og den skilte blandingen spedd sakte ned i den.
+- **Denne majonesen er syrligere og løsere enn** [T122](#t122-majones). Samme metode og samme forfatter, men forholdet er et annet: 2 plommer til 50 ml syre og 200 ml olje, mot 2 plommer til 20 ml syre og 300 ml olje. Mye syre og lite olje gir en tynnere og mer skjør emulsjon – ta ekstra god tid i steg 4. Går den i stykker, gjelder samme redning: ny plomme i ren kanne, og den skilte blandingen spedd sakte ned i den.
 - **Ikke bruk olivenolje i majonesen.** Kilden er uttrykkelig om det her: smaken er for dominerende og emulsjonen kan bli bitter. Olivenoljen hører hjemme på potetene, ikke i sausen.
 - **Hvit pepper i majonesen** er et utseendevalg – sort pepper gir prikker i en ellers blank, lys saus. Smaken blir omtrent den samme.
-- **Rå eggeplomme** er uproblematisk med norske egg, jf. notatet i [G3](#g3-majones).
+- **Rå eggeplomme** er uproblematisk med norske egg, jf. notatet i [T122](#t122-majones).
 - **Oppbevaring:** hold sprøstekte poteter og majones i hver sin tette boks hvis du forbereder. Ferdig blandet holder salaten seg 2 dager i kjøleskap. Ikke frys den ferdige salaten – majonesen skiller seg ved tining og potetene blir dårlige.
 - **Planlegging:** forkok potetene og lag majonesen dagen før. Da er det bare sprøstekingen, avkjølingen og vendingen igjen, og det tar en drøy halvtime.
 - **Dette er motsatt av norsk potetsalat.** Den tradisjonelle er kokt, myk og kald. Her er hele poenget teksturkontrasten mellom sprø snittflate og myk kjerne – den tåler å stå ved siden av grillmat uten å forsvinne.
@@ -12578,7 +14505,7 @@ Trekkspillskårne agurker saltet og skylt, vendt i en dressing av riseddik, soya
 - **Tidsangivelsene går ikke helt opp heller** – 20 minutters forberedelse og 25 minutter totalt, mens saltingen alene tar 15. 25 minutter totalt er realistisk hvis du skjærer mens agurkene salter, altså ikke slik oppskriften er skrevet.
 - **Dressingen på først ved servering.** Kilden er tydelig i FAQ-en: du kan skjære agurkene og røre dressingen i forveien, men vender du dem sammen for tidlig, mister agurken spensten. Rester holder seg 2 dager, men blir vassere.
 - **Styrken justeres med chilioljen alene.** Vil du ha den mild, kutt ned eller sløyf den – resten av dressingen står støtt uten.
-- **Samlingen har nå tre agurktilbehør:** [T3 soyamarinert agurk](#t3-soyamarinert-agurk) er mildest og raskest, [T6 oi muchim](#t6-koreansk-sterk-agurksalat-oi-muchim) er koreansk og gochugarudrevet, og denne er eddiksterkest og chilioljebasert. Alle tre bygger på samme grep: salt, skyll, tørk.
+- **Samlingen har nå tre agurktilbehør:** [soyamarinert agurk (T3)](#t3-soyamarinert-agurk) er mildest og raskest, [oi muchim (T6)](#t6-koreansk-sterk-agurksalat-oi-muchim) er koreansk og gochugarudrevet, og denne er eddiksterkest og chilioljebasert. Alle tre bygger på samme grep: salt, skyll, tørk.
 - **Samme forfatter anbefaler den selv** til [Korean beef bowl](#80-korean-beef-bowl--koreansk-kjøttdeig-med-gochujangsaus).
 
 ---
@@ -12623,7 +14550,7 @@ Gai lan freses med skivet hvitløk, dampes kort under lokk og smakes til med sha
 - **Alt på planten kan spises** – blader, stilk og blomster.
 - **Vasking:** legg grønnsaken i en stor bolle med vann i noen minutter og rist den rundt som en malerkost. Gjenta én–to ganger med rent vann. Jorden sitter godt i bladfestene.
 - **Holdbarhet:** 3–4 dager i kjøleskap, avkjølt før den dekkes til. Som alle bladgrønnsaker taper den seg raskt på tekstur – dette er en rett å lage rett før servering.
-- **Samlingen har nå tre kinesiske grønnsakstilbehør:** denne, [T2 hvitløks-bok choy](#t2-hvitløks-bok-choy) og [T16 bok choy med østerssaus](#t16-bok-choy-med-østerssaus-og-sprø-hvitløk). Erstatningslisten i T2 nevnte gai lan – nå har den fått sin egen oppføring.
+- **Samlingen har nå tre kinesiske grønnsakstilbehør:** denne, [hvitløks-bok choy (T2)](#t2-hvitløks-bok-choy) og [bok choy med østerssaus (T16)](#t16-bok-choy-med-østerssaus-og-sprø-hvitløk). Erstatningslisten i T2 nevnte gai lan – nå har den fått sin egen oppføring.
 - **Samme forfatter står bak** [beef and broccoli](#87-beef-and-broccoli--oksekjøtt-i-wok-med-brokkoli) og [karaage](#86-karaage--japansk-friturstekt-kylling) i samlingen.
 
 ---
@@ -12682,7 +14609,7 @@ Samme rett som [T9](#t9-hvitløksbønner-din-tai-fung-stil), men en langt letter
 - 450 g grønne bønner
 - 2 ss finhakket hvitløk (4–5 fedd)
 - ½ ts salt *(litt mindre hvis du bruker fint salt)*
-- Nøytral olje med høyt røykpunkt
+- 15 g nøytral olje med høyt røykpunkt *(mengde lagt til.)*
 
 ### Fremgangsmåte
 
@@ -12727,7 +14654,7 @@ Fersk salsa av mango og avokado i terninger, med jalapeño, lime og koriander. I
 
 **Hjemmelagde tortillachips** *(valgfritt)*
 - 3 små hvetetortillaer
-- Sprayolje eller litt olje
+- 5 g sprayolje eller litt olje *(mengde lagt til.)*
 - Salt
 
 ### Fremgangsmåte
@@ -13155,12 +15082,12 @@ Kremet sesamdressing av typen som følger med tonkatsu og katsu på japanske res
 
 - **Knusingen er hele poenget.** Hele sesamfrø sitter ikke fast i dressingen og gir lite smak – de trenger å sprekke for at oljen skal komme ut. Har du ikke morter, kan du kjevle over dem i en frysepose eller finhakke dem med kniv. Dette er i praksis en enkel *goma-dressing*; restaurantversjonen bruker ofte ferdig sesampasta (*neri goma*) i stedet.
 - **Sesamfrø brenner raskt.** De går fra gylne til brente på under et halvminutt. Ta dem ut av pannen så snart de dufter, og hell dem over i en kald skål – ettervarmen i pannen fortsetter å riste dem. *(Lagt til.)*
-- **Kewpie er ikke det samme som norsk majones.** Den lages på bare eggeplommer og syres med riseddik i stedet for sitron, og har MSG i seg – derfor er den både rundere og mer umami. Bytter du til vanlig norsk majones, blir dressingen flatere; kompenser med noen dråper ekstra riseddik og et lite dryss salt. Se notatet i [nr. 47](#47-enkel-ramen-med-kylling--matkanalen-sin-versjon) om forskjellen, og [G3](#g3-majones) om du vil lage plommemajonesen selv – bytt sitronen mot riseddik, så nærmer du deg Kewpie.
+- **Kewpie er ikke det samme som norsk majones.** Den lages på bare eggeplommer og syres med riseddik i stedet for sitron, og har MSG i seg – derfor er den både rundere og mer umami. Bytter du til vanlig norsk majones, blir dressingen flatere; kompenser med noen dråper ekstra riseddik og et lite dryss salt. Se notatet i [nr. 47](#47-enkel-ramen-med-kylling--matkanalen-sin-versjon) om forskjellen, og [T122](#t122-majones) om du vil lage plommemajonesen selv – bytt sitronen mot riseddik, så nærmer du deg Kewpie.
 - **Ingen salt i oppskriften.** Soyasausen står for saltet, så smak til før du eventuelt tilsetter mer.
 - **1½ ts sukker er ganske søtt** for 2 ss majones, og det er med vilje – japansk kålsalatdressing ligger søtere enn norsk coleslaw. Vil du ha den mindre søt, start på 1 ts.
 - **Salt kålen først.** Strimle kålen tynt, dryss over ¼ ts salt, masser det inn og la den stå 5 minutter før du blander i dressingen. Da mykner den uten å bli vassen, og dressingen tynnes ikke ut på tallerkenen. Samme prinsipp som i [T4](#t4-sesamcoleslaw), som er en ferdig kålsalat med sesam og litt annen dressing.
 - **For tykk?** Spe med 1–2 ts vann til ønsket konsistens.
-- **Holdbarhet:** 4–5 dager i kjøleskap i tett glass. Kjøpt Kewpie er pasteurisert, så den tåler mer enn hjemmelaget majones – se [G3](#g3-majones), som bare holder 3–4 dager.
+- **Holdbarhet:** 4–5 dager i kjøleskap i tett glass. Kjøpt Kewpie er pasteurisert, så den tåler mer enn hjemmelaget majones – se [T122](#t122-majones), som bare holder 3–4 dager.
 - **Passer til** [tonkatsu](#8-tonkatsu) og [nr. 128](#128-tonkatsu--miwa-sin-versjon), [karaage](#86-karaage--japansk-friturstekt-kylling) og [katsu curry](#56-katsu-curry) – alt som er fritert og trenger noe friskt og kremet ved siden av.
 
 ---
@@ -13209,7 +15136,7 @@ Silkeglatt hummus fra hermetiske kikerter. To grep gjør hele forskjellen: kiker
 - **Ingen spisskummen.** Kilden bruker den ikke, og det er nærmere den levantinske originalen enn de fleste vestlige oppskrifter. Vil du ha den, er ½ ts nok.
 - **Tørkede kikerter gir bedre resultat**, men krever bløtlegging over natten og halvannen times koking. De fem minuttene med natron er snarveien som kompenserer et stykke på vei – ikke helt, men nok til hverdagsbruk.
 - **Konsistensen stivner i kjøleskapet.** Rør den løs med litt kaldt vann før servering. Holdbarhet 4–5 dager i tett boks; dekk overflaten med et lag olivenolje, så tørker den ikke ut.
-- **Passer til** [nr. 59 krydrede lammekjøttboller](#59-krydrede-lammekjøttboller-med-agurk--og-yoghurtsaus). Se også [T15 aioli](#t15-aioli) for den andre store hvitløksdippen i samlingen.
+- **Passer til** [krydrede lammekjøttboller (nr. 59)](#59-krydrede-lammekjøttboller-med-agurk--og-yoghurtsaus). Se også [aioli (T15)](#t15-aioli) for den andre store hvitløksdippen i samlingen.
 
 ---
 
@@ -13260,7 +15187,7 @@ Paprika stekt til skallet er svart, flådd og vendt med tomat, basilikum, hvitl�
 - **Paprikabasen kan lages på forhånd.** Uten ost og basilikum holder de flådde paprikaene med væsken sin **4–5 dager** i kjøleskap under et lag olivenolje. Da er salaten fem minutters arbeid på serveringsdagen. *(Lagt til.)*
 - **Ferdig grillet paprika på glass** er snarveien, men gir et helt annet resultat – den er syltet i eddik og lake, og du får ingen paprikaolje. Dropp den her.
 - **Varmluft går raskere.** 210 °C varmluft i 35–45 minutter tilsvarer kildens 230 °C over-/undervarme. *(Omregning lagt til.)*
-- **Beslektet:** [T13 pesto](#t13-pesto) bruker samme basilikum og hvitløk i konsentrert form, og [nr. 95](#95-cottage-cheese-salat-med-finhakkede-grønnsaker) er en annen frisk grønnsakssalat med ost.
+- **Beslektet:** [pesto (T13)](#t13-pesto) bruker samme basilikum og hvitløk i konsentrert form, og [cottage cheese-salat med finhakkede grønnsaker (nr. 95)](#95-cottage-cheese-salat-med-finhakkede-grønnsaker) er en annen frisk grønnsakssalat med ost.
 
 ---
 
@@ -13295,9 +15222,9 @@ Hjemmelaget utgave av dippsausen fra den amerikanske kyllingkjeden Raising Cane'
 - **Norsk ketchup er søtere enn den amerikanske utgaven** med redusert sukker. Finner du ikke en sukkerredusert variant, bruk vanlig og kutt eventuelt paprikapulveret litt, som også bidrar med sødme.
 - **Gresk yoghurt eller skyr?** Skyr er syrligere og tykkere og gir en spissere saus. Gresk yoghurt med 10 % fett ligger nærmest originalen. 0 % blir tynn og sur.
 - **Worcestershiresaus inneholder ansjos** og gjør sausen uegnet for vegetarianere. Det finnes vegetarvarianter i helsekostbutikker.
-- **Vil du lage majonesen selv**, se [G3](#g3-majones) – men da mister du poenget med den lette varianten, siden hjemmelaget majones er ren olje og eggeplomme.
+- **Vil du lage majonesen selv**, se [T122](#t122-majones) – men da mister du poenget med den lette varianten, siden hjemmelaget majones er ren olje og eggeplomme.
 - **Holdbarhet:** ca. 1 uke i kjøleskap i tett glass, begrenset av yoghurten.
-- **Passer til** [nr. 96 sprø kyllingstrimler i airfryer](#96-sprø-kyllingstrimler-i-airfryer), som er den norske hjemmeversjonen av nettopp det Cane's serverer, og til [T23 potetbåter i airfryer](#t23-potetbåter-i-airfryer).
+- **Passer til** [sprø kyllingstrimler i airfryer (nr. 96)](#96-sprø-kyllingstrimler-i-airfryer), som er den norske hjemmeversjonen av nettopp det Cane's serverer, og til [potetbåter i airfryer (T23)](#t23-potetbåter-i-airfryer).
 
 ---
 
@@ -13316,7 +15243,7 @@ Fløtesaus med kantareller, kalvefond og en skje solbærgelé. Kildens eneste te
 - 1 ss solbærgelé
 - 1 bunt gressløk, finsnittet
 - Salt og pepper
-- Smør til steking *(lagt til)*
+- 20 g smør til steking *(mengde lagt til.)*
 
 ### Fremgangsmåte *(rekonstruert – kilden oppgir ingen fremgangsmåte)*
 
@@ -13340,7 +15267,7 @@ Fløtesaus med kantareller, kalvefond og en skje solbærgelé. Kildens eneste te
 - **Ikke skyll kantareller i vann.** De suger til seg fuktighet og blir umulige å brune. Børst dem rene, og skjær bort det som ikke lar seg redde.
 - **Frosne kantareller** fungerer, men avgir mye mer væske – stek dem fra frossen i tørr panne og regn dobbelt så lang tid på steg 2. Tørkede kantareller bløtlegges, og bløtleggingsvannet siles og brukes i stedet for en del av fonden. *(Lagt til.)*
 - **Gressløken tåler ikke koking** – den blir grå og mister smaken. Helt til slutt, av varmen.
-- **Passer til** [nr. 119 langstekt oksehale](#119-langstekt-oksehale) og annet storfe, til [T17 fondantpoteter](#t17-fondantpoteter), eller som pastasaus. Sammenlign med [nr. 64 fettuccine Boscaiola](#64-fettuccine-boscaiola) og soppsausen i [nr. 33](#33-kremet-soppkylling), som begge løser samme oppgave uten fond.
+- **Passer til** [langstekt oksehale (nr. 119)](#119-langstekt-oksehale) og annet storfe, til [fondantpoteter (T17)](#t17-fondantpoteter), eller som pastasaus. Sammenlign med [fettuccine Boscaiola (nr. 64)](#64-fettuccine-boscaiola) og soppsausen i [kremet soppkylling (nr. 33)](#33-kremet-soppkylling), som begge løser samme oppgave uten fond.
 
 ---
 
@@ -13381,7 +15308,7 @@ Peppersaus laget i pannen rett etter biffen, så alt stekefettet og den brune bu
 - **Konjakk er den klassiske ingrediensen som mangler.** I en tradisjonell sauce au poivre deles pannen opp med 2–3 ss konjakk før kraften går i. Det gir dybde og en aroma peppersausen ellers ikke får. Anbefales. *(Lagt til.)*
 - **Bruk kremfløte på 38 %.** Matlagingsfløte har for lite fett til å tykne ved innkoking, og skiller seg lettere.
 - **Ikke tørk ut pannen etter biffen.** Fondet – de brune restene i bunnen – er halve smaken. Skrap dem løs når kraften går i.
-- **Beslektet:** [nr. 124 Steak Diane](#124-steak-diane) bygger samme type pannesaus med sennep og worcestershire, og [T14 chimichurri](#t14-chimichurri) er alternativet når du vil ha noe friskt i stedet for kremet til biffen. Passer godt sammen med [T17 fondantpoteter](#t17-fondantpoteter) eller [T18 potetpavé](#t18-potetpavé).
+- **Beslektet:** [Steak Diane (nr. 124)](#124-steak-diane) bygger samme type pannesaus med sennep og worcestershire, og [chimichurri (T14)](#t14-chimichurri) er alternativet når du vil ha noe friskt i stedet for kremet til biffen. Passer godt sammen med [fondantpoteter (T17)](#t17-fondantpoteter) eller [potetpavé (T18)](#t18-potetpavé).
 
 ---
 
@@ -13423,7 +15350,7 @@ Rask chiliolje der varm olje helles over tørre krydder og revet hvitløk og ing
 - **Soyasausen skal i etter at oljen har falt til ro**, ikke mens den fortsatt er glovarm – den er full av vann og spruter. Den forkorter også holdbarheten. Vil du ha lengst mulig holdbarhet, sløyf den.
 - **Bruk et rent og helt tørt glass.** Vanndråper i glasset gir kortere holdbarhet uansett hvor godt resten er gjort.
 - **Sammenlign med [T10](#t10-hvitløks-chiliolje-chili-crisp).** Den bruker 700 ml olje, frityrsteker hvitløk og sjalottløk til sprø biter og gir en liter chili crisp med tekstur. Denne er en fjerdedel så stor, tar ti minutter og gir en glatt, aromatisk olje uten crunch. Til dumplings og nudler vil de fleste foretrekke T10; denne er bedre som ren olje til å dryppe over ferdige retter.
-- **Brukes i** blant annet [nr. 52 spicy peanøttnudler](#52-spicy-peanøttnudler), [nr. 139 sprø rissalat](#139-sprø-rissalat-med-kylling-og-gochujangmajones) og [T5 dumplingsaus](#t5-dumplingsaus).
+- **Brukes i** blant annet [spicy peanøttnudler (nr. 52)](#52-spicy-peanøttnudler), [sprø rissalat (nr. 139)](#139-sprø-rissalat-med-kylling-og-gochujangmajones) og [dumplingsaus (T5)](#t5-dumplingsaus).
 
 ---
 
@@ -13444,7 +15371,7 @@ Sjalottløk kokt inn med hvitvin og kalvefond, fylt ut med fløte og satt med Sa
 - 1 potte bladpersille
 - 1 potte gressløk
 - Salt og pepper
-- Smør til steking *(lagt til)*
+- 15 g smør til steking *(mengde lagt til.)*
 
 ### Fremgangsmåte *(rekonstruert – se notat)*
 
@@ -13466,8 +15393,8 @@ Sjalottløk kokt inn med hvitvin og kalvefond, fylt ut med fløte og satt med Sa
 - **Ikke kok sausen etter at osten er i.** Blåmuggost skiller seg og blir kornete ved koking. Ta pannen ned på lav varme før osten smuldres i.
 - **Sitronen står i lista uten bruksanvisning.** Sannsynligvis saften, som skjærer gjennom fettet fra fløten og osten. Press i halve sitronen, smak, og juster. Litt revet skall på toppen ved servering løfter også. *(Tolkning lagt til.)*
 - **Urtene skal ikke koke.** Persille og gressløk blir grå og mister smaken – rør dem inn etter at pannen er tatt av varmen. To hele potter er mye, og gir en tydelig grønn saus; det er tilsiktet.
-- **Passer til biff, kjøttboller eller poteter.** Se [T17 fondantpoteter](#t17-fondantpoteter) og [T18 potetpavé](#t18-potetpavé). Samlingen har allerede en blåmuggostsaus i [SJ5](#sj5-ovnsbakt-laks-med-poteter-bønner-og-blåmuggostsaus), som er enklere og uten vinreduksjon.
-- **Beslektet:** [T43 kantarellsaus](#t43-kantarellsaus) og [T44 peppersaus](#t44-peppersaus-sauce-au-poivre) hører til samme familie – nordiske fløtesauser bygget på innkoking, uten jevning.
+- **Passer til biff, kjøttboller eller poteter.** Se [fondantpoteter (T17)](#t17-fondantpoteter) og [potetpavé (T18)](#t18-potetpavé). Samlingen har allerede en blåmuggostsaus i [ovnsbakt laks med poteter, bønner og blåmuggostsaus (SJ5)](#sj5-ovnsbakt-laks-med-poteter-bønner-og-blåmuggostsaus), som er enklere og uten vinreduksjon.
+- **Beslektet:** [kantarellsaus (T43)](#t43-kantarellsaus) og [peppersaus (T44)](#t44-peppersaus-sauce-au-poivre) hører til samme familie – nordiske fløtesauser bygget på innkoking, uten jevning.
 
 ---
 
@@ -13509,7 +15436,7 @@ Guacamole laget på klassisk vis i morter, der løk, chili og koriander støtes 
 - **Ingen hvitløk, ingen fløte, ingen krydderblanding.** Det er riktig for en klassisk guacamole – limen og saltet skal bære den. Motstå fristelsen.
 - **Modningen avgjør alt.** Avokadoen skal gi etter for et lett trykk ved stilken. Er den hard, hjelper ingen teknikk. Umodne avokadoer modner på benken i en papirpose med en banan, regn 1–2 døgn. *(Lagt til.)*
 - **Steinen i bollen holder ikke guacamolen grønn** – det er en myte. Det som faktisk virker, er å begrense lufttilgangen: press plastfolie helt ned mot overflaten, eller legg et tynt lag limesaft over. Uansett er guacamole best innen et par timer. *(Lagt til.)*
-- **Beslektet:** [T20 pico de gallo](#t20-pico-de-gallo) er den samme grunnideen uten avokado, og [T25 mango- og avokadosalsa](#t25-mango--og-avokadosalsa) inneholder også oppskrift på hjemmelagde tortillachips. Passer til [nr. 122 braiserte kyllingtacos](#122-braiserte-kyllingtacos) og [nr. 103 chili con carne](#103-chili-con-carne).
+- **Beslektet:** [pico de gallo (T20)](#t20-pico-de-gallo) er den samme grunnideen uten avokado, og [mango- og avokadosalsa (T25)](#t25-mango--og-avokadosalsa) inneholder også oppskrift på hjemmelagde tortillachips. Passer til [braiserte kyllingtacos (nr. 122)](#122-braiserte-kyllingtacos) og [chili con carne (nr. 103)](#103-chili-con-carne).
 
 ---
 
@@ -13538,15 +15465,15 @@ Majones pisket fra bunnen med sriracha og sprø chiliolje rørt inn i eggeplomme
 
 - **Chilioljen inneholder olje, og det påvirker emulsjonen.** En spiseskje sprø chiliolje er delvis fett som går inn i basen før den nøytrale oljen. Det er uproblematisk, men betyr at du bør helle den *jevne* oljen enda saktere de første 30 sekundene – emulsjonen er litt mer skjør enn i en ren majones. *(Presisering lagt til.)*
 - **De sprø bitene forsvinner delvis i vispingen.** Vil du beholde crunchen som navnet lover, hold igjen halvparten av chilioljen og vend den inn helt til slutt, uvispet. Da får du både farge og tekstur. *(Anbefaling lagt til.)*
-- **Stavmikser går raskere enn visp.** Kilden bruker visp, som fungerer, men krever 8–10 minutters kontinuerlig arbeid og en fuktig klut under bollen. Med stavmikser i et høyt, smalt glass er den ferdig på et halvminutt – se metoden i [G3](#g3-majones). *(Alternativ lagt til.)*
-- **Skiller den seg**, ha en fersk eggeplomme i en ren bolle og spe den skilte blandingen ned i den, litt om gangen, mens du visper. Samme redning som i [G3](#g3-majones).
+- **Stavmikser går raskere enn visp.** Kilden bruker visp, som fungerer, men krever 8–10 minutters kontinuerlig arbeid og en fuktig klut under bollen. Med stavmikser i et høyt, smalt glass er den ferdig på et halvminutt – se metoden i [T122](#t122-majones). *(Alternativ lagt til.)*
+- **Skiller den seg**, ha en fersk eggeplomme i en ren bolle og spe den skilte blandingen ned i den, litt om gangen, mens du visper. Samme redning som i [T122](#t122-majones).
 - **2–3 dl olje til 2 plommer er trygt.** Én plomme takler godt over 1,5 dl. Vil du ha den tykkere, gå mot 3 dl; er den for tykk, spe med romtemperert vann.
 - **Romtempererte plommer emulgerer lettere.** Ta dem ut 20 minutter før.
 - **Rå eggeplomme er uproblematisk i Norge** – norske egg har kontrollert salmonellastatus. Er du gravid eller har nedsatt immunforsvar, bruk pasteurisert eggeplomme.
-- **Lao Gan Ma** fås i asiatiske butikker på Grønland og Tøyen, og i noen større dagligvarebutikker. Samlingens egen [T10 hvitløks-chiliolje](#t10-hvitløks-chiliolje-chili-crisp) fungerer minst like godt her og har mer sprø løk i seg. [T45](#t45-chiliolje--chef-jack-ovens-sin-versjon) er glattere og gir mindre tekstur.
+- **Lao Gan Ma** fås i asiatiske butikker på Grønland og Tøyen, og i noen større dagligvarebutikker. Samlingens egen [hvitløks-chiliolje (T10)](#t10-hvitløks-chiliolje-chili-crisp) fungerer minst like godt her og har mer sprø løk i seg. [Chiliolje – Chef Jack Ovens sin versjon (T45)](#t45-chiliolje--chef-jack-ovens-sin-versjon) er glattere og gir mindre tekstur.
 - **Riseddik gjør denne til en slektning av Kewpie**, som også syres med riseddik i stedet for sitron. Se [T39](#t39-sesamdressing-til-kålsalat) og notatet i [nr. 47](#47-enkel-ramen-med-kylling--matkanalen-sin-versjon).
 - **Holdbarhet:** 3–4 dager i kjøleskap i tett glass, siden plommene er rå. Kortere enn ferdigkjøpt majones med sriracha rørt i.
-- **Passer til** [nr. 108 hoisinsvin med chilimajones](#108-hoisinsvin-med-chilimajones), [S8 sprø risbiter med laks](#s8-sprø-risbiter-med-laks) og [S6 sushikopper med reker](#s6-sushikopper-med-reker), som alle bruker sriracha rørt i ferdig majones – denne er oppgraderingen.
+- **Passer til** [hoisinsvin med chilimajones (nr. 108)](#108-hoisinsvin-med-chilimajones), [sprø risbiter med laks (S8)](#s8-sprø-risbiter-med-laks) og [sushikopper med reker (S6)](#s6-sushikopper-med-reker), som alle bruker sriracha rørt i ferdig majones – denne er oppgraderingen.
 
 ---
 
@@ -13589,7 +15516,7 @@ Mais stekt til den karamelliserer, blandet med rødløk, jalapeño og yoghurt, m
 - **Dette er en variant av mexicansk esquites** – maissalaten som selges i kopper på gaten, tradisjonelt med majones, chilipulver, lime og cotija-ost. Her er majonesen byttet mot yoghurt og cotijaen mot feta, som er den vanlige nordiske erstatningen. Vil du nærmere originalen, bland i 1 ss majones og dryss over chilipulver. *(Bakgrunn lagt til.)*
 - **Ingen chilipulver i oppskriften.** Jalapeñoen står for styrken, og den er mild i norske butikker. Et dryss røkt paprikapulver eller chipotlepulver på toppen løfter retten mye. *(Forslag lagt til.)*
 - **Best samme dag.** Maisen mister sprøheten og yoghurten tynnes ut av væsken fra løken over natten.
-- **Beslektet:** [T20 pico de gallo](#t20-pico-de-gallo), [T25 mango- og avokadosalsa](#t25-mango--og-avokadosalsa) og [T47 guacamole](#t47-guacamole) hører til samme bord. Maissalsaen i [nr. 147](#147-sprø-peruansk-kylling-med-ají-verde-og-maissalsa) er en tørrere variant av samme idé.
+- **Beslektet:** [pico de gallo (T20)](#t20-pico-de-gallo), [mango- og avokadosalsa (T25)](#t25-mango--og-avokadosalsa) og [guacamole (T47)](#t47-guacamole) hører til samme bord. Maissalsaen i [sprø peruansk kylling med ají verde og maissalsa (nr. 147)](#147-sprø-peruansk-kylling-med-ají-verde-og-maissalsa) er en tørrere variant av samme idé.
 
 ---
 
@@ -13623,9 +15550,9 @@ Fransk klassiker: hårtynne potetskiver lagt i lag med klaret smør, presset und
 - **Vanlig smør går ikke.** Melkeproteinene svir seg i løpet av to timer på 180 °C og gir bitter smak. Det er hele grunnen til klaringen.
 - **Pannen på toppen må tåle ovn.** Kilden sier bare «place a pan on top». Bruk en støpejernspanne eller en mindre ildfast form fylt med noe tungt – ikke en panne med plasthåndtak. *(Presisering lagt til.)*
 - **Salt lett i hvert lag.** Ti poteter er mye, og salter du bare på toppen, blir midten smakløs. Men det summerer seg fort – en klype per lag holder.
-- **Forskjellen fra [T18 potetpavé](#t18-potetpavé):** pavéen bakes i brødform, presses under vekt over natten, skjæres i porsjonsstykker og friteres sprø til slutt. Pommes Anna serveres rett fra formen som én kake. Pavé gir sprøere kanter og kan forberedes dagen før; Anna er langt enklere og ferdig samme dag. Se også [T17 fondantpoteter](#t17-fondantpoteter), som bruker fastkokende poteter av motsatt grunn.
+- **Forskjellen fra [potetpavé (T18)](#t18-potetpavé):** pavéen bakes i brødform, presses under vekt over natten, skjæres i porsjonsstykker og friteres sprø til slutt. Pommes Anna serveres rett fra formen som én kake. Pavé gir sprøere kanter og kan forberedes dagen før; Anna er langt enklere og ferdig samme dag. Se også [fondantpoteter (T17)](#t17-fondantpoteter), som bruker fastkokende poteter av motsatt grunn.
 - **Kilden oppgir ikke formstørrelse.** 1,8 kg potet trenger en form på ca. 20 × 25 cm for å gi en kake på 4–5 cm høyde. Blir laget tykkere, må steketiden opp.
-- **Passer til biff og stekt kjøtt.** Se [nr. 124 Steak Diane](#124-steak-diane) og [T44 peppersaus](#t44-peppersaus-sauce-au-poivre).
+- **Passer til biff og stekt kjøtt.** Se [Steak Diane (nr. 124)](#124-steak-diane) og [peppersaus (T44)](#t44-peppersaus-sauce-au-poivre).
 
 ---
 
@@ -13662,7 +15589,7 @@ Småpoteter snittet nesten helt gjennom, sprøstekt i airfryer og vendt i et sm�
 - **1 ss smør av 100 g er lite.** Kilden bruker bare en raus spiseskje til hele porsjonen og har åpenbart tenkt at resten fryses. Hvitløkssmøret holder seg **2 uker i kjøleskap** eller flere måneder i fryser – rull det i plastfolie som en pølse og skjær skiver ved behov. *(Presisering lagt til.)*
 - **Ovn fungerer også:** 200 °C i 35–40 minutter for rå poteter, 20–25 for forkokte. Airfryeren gir sprøere kanter, ovnen tar flere om gangen.
 - **Smøret skal på etter stekingen**, ikke før. Persille brenner og blir bitter på 200 °C, og hvitløk enda raskere.
-- **Beslektet:** [T23 potetbåter i airfryer](#t23-potetbåter-i-airfryer) er samme maskin og prinsipp, mens [T50 pommes Anna](#t50-pommes-anna) og [T18 potetpavé](#t18-potetpavé) er de arbeidskrevende ytterpunktene i samlingens potettilbehør.
+- **Beslektet:** [potetbåter i airfryer (T23)](#t23-potetbåter-i-airfryer) er samme maskin og prinsipp, mens [pommes Anna (T50)](#t50-pommes-anna) og [potetpavé (T18)](#t18-potetpavé) er de arbeidskrevende ytterpunktene i samlingens potettilbehør.
 
 ---
 
@@ -13693,16 +15620,16 @@ Fem ingredienser. Fløte, melk og revet brie blandes i en bolle, potetskivene ve
 
 - **Skivetykkelsen er ikke oppgitt.** Bruk mandolin og skjær **2–3 mm**. Tykkere skiver blir ikke møre på halvannen time, og ujevne skiver gir en grateng som er rå noen steder og grøtet andre. *(Lagt til.)*
 - **Potetene skal ikke skrelles etter kildens tekst**, men det står heller ikke at de skal. Skrell dem – skall i en fløtegrateng gir seige biter. *(Presisering lagt til.)*
-- **Å vende potetene i væsken før de legges i formen er hovedgrepet.** Hver skive blir dekket, og osten fordeler seg jevnt gjennom hele gratengen i stedet for bare på toppen. Det er raskere og mer pålitelig enn å helle væsken over etterpå, slik [T27 gratin dauphinois](#t27-gratin-dauphinois) gjør.
+- **Å vende potetene i væsken før de legges i formen er hovedgrepet.** Hver skive blir dekket, og osten fordeler seg jevnt gjennom hele gratengen i stedet for bare på toppen. Det er raskere og mer pålitelig enn å helle væsken over etterpå, slik [gratin dauphinois (T27)](#t27-gratin-dauphinois) gjør.
 - **430 ml væske til 2 kg potet er lite.** [T27](#t27-gratin-dauphinois) bruker 750 ml til 1,5 kg. Her kompenseres det delvis av at brien smelter og potetene selv avgir fuktighet under lokk – men gratengen blir tettere og mindre flytende. Vil du ha den kremere, øk melken til 200 ml. *(Sammenligning lagt til.)*
 - **Dekk formen de første 45 minuttene.** Kilden nevner ikke tildekking, men med så lite væske tørker toppen ut lenge før midten er ferdig. Folie eller bakepapir over, og av de siste 20–30 minuttene for å få farge. *(Lagt til.)*
-- **Melne poteter, ikke fastkokende.** Stivelsen er det som binder gratengen sammen. Beate, Kerrs Pink eller Pimpernel. Samme prinsipp som i [T50 pommes Anna](#t50-pommes-anna).
+- **Melne poteter, ikke fastkokende.** Stivelsen er det som binder gratengen sammen. Beate, Kerrs Pink eller Pimpernel. Samme prinsipp som i [pommes Anna (T50)](#t50-pommes-anna).
 - **Brie er ikke et opplagt valg i en grateng.** Den smelter til en tykk, litt trådete masse i stedet for å binde jevnt slik gruyère gjør, og skorpen kan gi en tydelig ammoniakknote i store mengder. Kilden sier «any soft cheese will work» – camembert, taleggio eller norsk Snøfrisk fungerer. Vil du ha en mer forutsigbar grateng, bruk 150 g gruyère eller emmental i stedet. *(Bakgrunn lagt til.)*
 - **Trøffelbrie fås i ostediskar og delikatessebutikker.** Har du vanlig brie, gir noen dråper trøffelolje til slutt en tilnærming – men vær forsiktig, den blir fort kunstig.
 - **Osten skal rives eller rives i biter**, ikke skjæres i skiver. Kilden sier «torn brie», altså revet med hendene – da smelter den jevnere.
 - **La gratengen hvile 10 minutter** før servering, så setter den seg og lar seg skjære.
 - **Kildens ramme er en konkurranse mot en annen kokk**, ikke en oppskriftsbeskrivelse – ta tittelen for det den er.
-- **Beslektet:** [T27 gratin dauphinois](#t27-gratin-dauphinois) er den klassiske franske versjonen med trukket fløte og valgfri ost, og [T50 pommes Anna](#t50-pommes-anna) og [T18 potetpavé](#t18-potetpavé) er variantene uten fløte i det hele tatt.
+- **Beslektet:** [gratin dauphinois (T27)](#t27-gratin-dauphinois) er den klassiske franske versjonen med trukket fløte og valgfri ost, og [pommes Anna (T50)](#t50-pommes-anna) og [potetpavé (T18)](#t18-potetpavé) er variantene uten fløte i det hele tatt.
 
 ---
 
@@ -13748,7 +15675,7 @@ Den rikeste av potetgratengene i samlingen: nesten en liter fløte og melk til e
 - **Maris Piper er britisk.** Norske motsvarigheter er **Beate, Kerrs Pink eller Pimpernel** – melne sorter der stivelsen binder gratengen. Fastkokende poteter gir skiver som ligger løst i fløten.
 - **Osten skal på til slutt, ikke fra start.** En time under folie brenner osten. Kilden sier ingenting om rekkefølgen, men det er slik det må gjøres.
 - **Timianen er delt med hensikt** – 3 ts trekkes i fløten, 1 ts strøs over til slutt for friskhet og farge. Det er kildens eget grep og verdt å følge.
-- **Samlingens potetgratenger:** [T27](#t27-gratin-dauphinois) er den mest balanserte og har fullstendig oppskrift, [T52](#t52-potetgrateng-med-trøffelbrie) er den enkleste med bare fem ingredienser, og denne er den rikeste. Se også [T50 pommes Anna](#t50-pommes-anna) og [T18 potetpavé](#t18-potetpavé) for versjonene uten fløte.
+- **Samlingens potetgratenger:** [den klassiske (T27)](#t27-gratin-dauphinois) er den mest balanserte og har fullstendig oppskrift, [med trøffelbrie (T52)](#t52-potetgrateng-med-trøffelbrie) er den enkleste med bare fem ingredienser, og denne er den rikeste. Se også [pommes Anna (T50)](#t50-pommes-anna) og [potetpavé (T18)](#t18-potetpavé) for versjonene uten fløte.
 
 ---
 
@@ -13784,7 +15711,7 @@ Kryssingen mellom de to potetkakene i samlingen: den tradisjonelle Pomme Anna og
 
 ### Notater
 
-- **Dette er mellomformen mellom [T50 pommes Anna](#t50-pommes-anna) og [T18 potetpavé](#t18-potetpavé)**, og kilden sier det selv. Fra Anna henter den lagvis pensling med klaret smør og urter mellom lagene; fra pavéen henter den pressingen over natten og friteringen. Steg 9 er valgfritt – stopper du der, har du i praksis en Pomme Anna med urter.
+- **Dette er mellomformen mellom [pommes Anna (T50)](#t50-pommes-anna) og [potetpavé (T18)](#t18-potetpavé)**, og kilden sier det selv. Fra Anna henter den lagvis pensling med klaret smør og urter mellom lagene; fra pavéen henter den pressingen over natten og friteringen. Steg 9 er valgfritt – stopper du der, har du i praksis en Pomme Anna med urter.
 - **165 °C i 2½ time er lavere og lengre enn de to andre.** [T50](#t50-pommes-anna) kjører 180 °C i 2 timer, [T18](#t18-potetpavé) 170 °C varmluft i 2 timer. Den lave temperaturen her er tilpasset at blokken skal presses etterpå og holde formen – jo mer skånsomt potetene er kokt, jo mindre faller de fra hverandre under kniven. *(Sammenligning lagt til.)*
 - **Potetene skal ikke skylles etter skjæring.** Kilden vasker dem hele, før skjæring, og det er riktig – overflatestivelsen på skivene er limet som binder lagene. Se den lengre diskusjonen i [T18](#t18-potetpavé). *(Presisering.)*
 - **Potetsorten er ikke oppgitt.** Bruk melne sorter – **Beate, Kerrs Pink eller Pimpernel**. Fastkokende poteter binder ikke, og blokken faller fra hverandre når du skjærer den. *(Erstatning lagt til.)*
@@ -13871,10 +15798,10 @@ Potetskiver friteres to ganger og blåser seg opp til hule, sprø puter. Én ing
 - **Beveg skivene under første fritering.** Rist pannen forsiktig eller skyv dem rundt med hullsleiv, så de ikke legger seg mot bunnen. Det er dette som får hinnen til å dannes jevnt. Regn **4–5 minutter**, til de er så vidt lyse. *(Tidsanslag lagt til.)*
 - **Skivene kan hvile mellom friteringene.** Etter første omgang kan de ligge avkjølt på bakepapir under et klede i flere timer før den siste. Praktisk hvis du lager mat til gjester. *(Lagt til.)*
 - **Andre fritering tar under et minutt.** 30–60 sekunder, med stadig bevegelse så de brunes jevnt.
-- **De faller ikke sammen igjen**, men blir bløte om de står. Server dem straks, gjerne med béarnaise eller en majonesbasert dipp – se [T48 crispy chilimajones](#t48-crispy-chilimajones).
+- **De faller ikke sammen igjen**, men blir bløte om de står. Server dem straks, gjerne med béarnaise eller en majonesbasert dipp – se [crispy chilimajones (T48)](#t48-crispy-chilimajones).
 - **Bruk termometer.** Både 150 og 190 °C må treffes ganske nøyaktig. Med to kjeler går det raskere enn å justere temperaturen på én.
 - **Retten oppsto etter sigende ved et uhell** i 1837, da et måltid på Pavillon Henri IV utenfor Paris ble utsatt fordi kongefølget ble forsinket av det nye damptoget, og potetene måtte friteres på nytt.
-- **Samlingens potetretter i vanskelighetsgrad:** [T51](#t51-hasselbackpoteter-med-hvitløkssmør) og [T55](#t55-hasselbackpoteter--gladkokken-sin-versjon) er de enkleste, [T52](#t52-potetgrateng-med-trøffelbrie) og [T53](#t53-gratin-dauphinois--mr-grubworks-sin-versjon) krever bare tid, [T50](#t50-pommes-anna), [T18](#t18-potetpavé) og [T54](#t54-pomme-anna-pavé--hybrid) krever presisjon og planlegging – og denne krever i tillegg flaks.
+- **Samlingens potetretter i vanskelighetsgrad:** [med hvitløkssmør (T51)](#t51-hasselbackpoteter-med-hvitløkssmør) og [Gladkokken sin versjon (T55)](#t55-hasselbackpoteter--gladkokken-sin-versjon) er de enkleste, [med trøffelbrie (T52)](#t52-potetgrateng-med-trøffelbrie) og [Mr Grubworks sin versjon (T53)](#t53-gratin-dauphinois--mr-grubworks-sin-versjon) krever bare tid, [pommes Anna (T50)](#t50-pommes-anna), [potetpavé (T18)](#t18-potetpavé) og [pomme Anna pavé (T54)](#t54-pomme-anna-pavé--hybrid) krever presisjon og planlegging – og denne krever i tillegg flaks.
 
 ---
 
@@ -13937,7 +15864,7 @@ Dauphinois som ender som pavé: hårtynne potetlag med trukket fløte og emmenta
 - **Ikke skyll potetskivene.** Kilden legger de hele potetene i vann før skjæring, ikke skivene etterpå – riktig, siden stivelsen på skivene er det som binder. Se [T18](#t18-potetpavé).
 - **Vekten skal være lett**, ikke tung. Kilden sier «light weight, a couple cans» – for hardt press klemmer fløten ut og gir en tørr blokk. Til forskjell fra [T18](#t18-potetpavé), der målet er en tettere pavé.
 - **«15 timer» er markedsføring.** Reell arbeidstid er 45 minutter; resten er fire timer i ovnen og en natt i kjøleskapet. Steg 1–10 kan gjøres på en ettermiddag.
-- **Samlingens fire dauphinois-varianter:** [T27](#t27-gratin-dauphinois) er den klassiske og enkleste, [T52](#t52-potetgrateng-med-trøffelbrie) den raskeste, [T53](#t53-gratin-dauphinois--mr-grubworks-sin-versjon) den rikeste, og denne den mest arbeidskrevende. Se også [T54](#t54-pomme-anna-pavé--hybrid), som bruker samme presseteknikk uten fløte.
+- **Samlingens fire dauphinois-varianter:** [den klassiske (T27)](#t27-gratin-dauphinois) er den enkleste, [med trøffelbrie (T52)](#t52-potetgrateng-med-trøffelbrie) den raskeste, [Mr Grubworks sin versjon (T53)](#t53-gratin-dauphinois--mr-grubworks-sin-versjon) den rikeste, og denne den mest arbeidskrevende. Se også [pomme Anna pavé (T54)](#t54-pomme-anna-pavé--hybrid), som bruker samme presseteknikk uten fløte.
 
 ---
 
@@ -13983,7 +15910,7 @@ Pavé betyr brostein på fransk, og beskriver retten godt. Potetskiver bakt i sm
 - **Maris Piper er britisk.** Norske motsvarigheter er **Beate, Kerrs Pink eller Pimpernel**. Forfatteren advarer selv mot fastkokende poteter, som mangler stivelsen som limer lagene.
 - **12 stykker fra en 20 cm form** blir små – ca. 5 × 6 cm. Regn dem som porsjonsstykker til fire–seks personer, ikke tolv.
 - **Kan lages to dager i forveien**, og uferdige stykker kan fryses innpakket i plastfolie. Det er hele poenget med metoden: alt utenom siste steking gjøres på forhånd.
-- **Samlingens fire pavé- og Anna-varianter:** [T18](#t18-potetpavé) friterer, [T50](#t50-pommes-anna) hopper over pressingen, [T54](#t54-pomme-anna-pavé--hybrid) bruker klaret smør og urter mellom lagene, og denne bruker kraft og ovn. [T57](#t57-gratin-dauphinois-på-15-timer--chef-romain-avril-sin-versjon) er den samme teknikken med fløte og ost.
+- **Samlingens fire pavé- og Anna-varianter:** [potetpavé (T18)](#t18-potetpavé) friterer, [pommes Anna (T50)](#t50-pommes-anna) hopper over pressingen, [pomme Anna pavé – hybrid (T54)](#t54-pomme-anna-pavé--hybrid) bruker klaret smør og urter mellom lagene, og denne bruker kraft og ovn. [Gratin dauphinois på 15 timer – Chef Romain Avril sin versjon (T57)](#t57-gratin-dauphinois-på-15-timer--chef-romain-avril-sin-versjon) er den samme teknikken med fløte og ost.
 
 ---
 
@@ -14025,8 +15952,8 @@ Hvitløksbrød der smøret er satt med achar masala – den indiske krydderbland
 - **Honningen er ikke en fjollete detalj.** Sødme mot salt og syrlig krydder er samme prinsipp som hot honey på pizza – den binder achar-krydderet og osten sammen. Prøv den før du avfeier den.
 - **Smøret rekker til langt mer enn én baguette.** 200 g smør pluss to hvitløkshoder gir rundt 300 g. Rull resten i plastfolie som en pølse og frys – det holder flere måneder og er utmerket på biff, poteter eller i pasta. *(Lagt til.)*
 - **Ovnsbak hvitløken i god tid.** De 45 minuttene pluss avkjøling er mesteparten av tiden i oppskriften. Bak gjerne flere hoder samtidig når ovnen først er på.
-- **Bak baguetten selv:** se [B9](#b9-ciabattabaguette-uten-elting), [B11](#b11-enkle-baguetter) eller [B12](#b12-baguetter-med-damp).
-- **Beslektet:** [T51 hasselbackpoteter med hvitløkssmør](#t51-hasselbackpoteter-med-hvitløkssmør) bruker et lignende hvitløkssmør, og persillepastaen i [SJ14](#sj14-puttanesca-torsk-med-hvitløksbrød) er den enkle varianten av samme idé.
+- **Bak baguetten selv:** se [ciabattabaguette uten elting (B9)](#b9-ciabattabaguette-uten-elting), [enkle baguetter (B11)](#b11-enkle-baguetter) eller [baguetter med damp (B12)](#b12-baguetter-med-damp).
+- **Beslektet:** [hasselbackpoteter med hvitløkssmør (T51)](#t51-hasselbackpoteter-med-hvitløkssmør) bruker et lignende hvitløkssmør, og persillepastaen i [puttanesca-torsk med hvitløksbrød (SJ14)](#sj14-puttanesca-torsk-med-hvitløksbrød) er den enkle varianten av samme idé.
 
 ---
 
@@ -14155,7 +16082,7 @@ Den enkleste av samlingens tre hasselbackvarianter: skrelte nypoteter, smør pen
 - **225 °C er høyt.** Sjekk etter 30 minutter. Blir toppen mørk før potetene er møre, dekk med folie.
 - **Porsjoner ikke oppgitt.** 12 poteter og 178 kcal per porsjon i kildens næringstabell tilsier 4. *(Lagt til.)*
 - **Holdbarhet:** best nystekt. Varmes 10 minutter på 200 °C.
-- **Beslektet:** [T51](#t51-hasselbackpoteter-med-hvitløkssmør) er varianten med hvitløkssmør og persille, [T55](#t55-hasselbackpoteter--gladkokken-sin-versjon) er den med smørskiver og timian, og [T50](#t50-pommes-anna) og [T18](#t18-potetpavé) er de arbeidskrevende potetrettene i samlingen.
+- **Beslektet:** [med hvitløkssmør (T51)](#t51-hasselbackpoteter-med-hvitløkssmør) er varianten med persille, [Gladkokken sin versjon (T55)](#t55-hasselbackpoteter--gladkokken-sin-versjon) er den med smørskiver og timian, og [pommes Anna (T50)](#t50-pommes-anna) og [potetpavé (T18)](#t18-potetpavé) er de arbeidskrevende potetrettene i samlingen.
 
 ---
 
@@ -14196,9 +16123,2729 @@ Tre stadier: koking, én fritering på 160 grader, og én på 190 rett før serv
 - **Alt bortsett fra den siste friteringen kan gjøres på forhånd** – dagen før, eller tidlig på dagen. Da står det bare tre minutter igjen når gjestene kommer. Dette er hele grunnen til at metoden er verdt bryet.
 - **16 store poteter til fire porsjoner** virker mye, men det er riktig for pommes frites.
 - **Holdbarhet:** ingen for de ferdige. Kokte og én gang friterte poteter holder et døgn i kjøleskap, eller kan fryses.
-- **Beslektet:** [T23](#t23-potetbåter-i-airfryer) er hverdagsvarianten, [T50](#t50-pommes-anna) og [T18](#t18-potetpavé) er de arbeidskrevende potetrettene, og [S31](#s31-friterte-mac-and-cheese-biter) og [S32](#s32-jalapeño-poppers) bruker samme frityrgryte.
+- **Beslektet:** [potetbåter i airfryer (T23)](#t23-potetbåter-i-airfryer) er hverdagsvarianten, [pommes Anna (T50)](#t50-pommes-anna) og [potetpavé (T18)](#t18-potetpavé) er de arbeidskrevende potetrettene, og [friterte mac and cheese-biter (S31)](#s31-friterte-mac-and-cheese-biter) og [jalapeño-poppers (S32)](#s32-jalapeño-poppers) bruker samme frityrgryte.
 
 ---
+
+## T64. Hellstrøms couscous
+
+**Kilde:** Eyvind Hellstrøm, *Grunnboka* (Cappelen Damm, 2025) · **Kjøkken:** Østlig middelhav · **Tid:** 1 time · **Porsjoner:** 4
+
+Væsken kokes opp med rødvinseddik og olivenolje før den helles over. Smaken går inn i kornet mens det sveller, ikke utenpå etterpå.
+
+### Ingredienser
+
+- 200 g couscous
+- 2 dl kokende vann
+- ½ dl rødvinseddik
+- ½ dl olivenolje
+- Saften fra ½ sitron
+- ½ ts Worcestershiresaus
+- ½ ts tabasco
+- Salt
+- Stekte eller rå grønnsaker og friske urter
+
+### Fremgangsmåte
+
+1. **Kok opp vann, rødvinseddik og olivenolje.**
+2. **Bland inn sitronsaft, tabasco og Worcestershiresaus**, og slå den kokende væsken over couscous-grynene.
+3. **Bland alt godt med en gaffel** og smak til med salt.
+4. **Dekk til kjelen med et klede** og la det stå og svelle i **ca. 1 time**.
+5. **Bland inn stekte eller rå grønnsaker** etter eget ønske.
+6. **Bland inn friske urter**, som mynte, persille eller koriander.
+
+### Notater
+
+- **Smaken går inn, ikke utenpå.** De fleste couscousoppskrifter bruker vann og dresser etterpå. Her koker eddiken og oljen med væsken, og kornet suger opp smaken mens det sveller. Forskjellen merkes gjennom hele retten i stedet for bare på overflaten.
+- **En time, ikke fem minutter.** Kilden gir couscousen langt mer tid enn pakningen. Resultatet er jevnere gjennomtrukne korn.
+- **Klede, ikke lokk.** Kledet slipper ut damp som ellers ville kondensert på lokket og dryppet ned igjen, og gjort couscousen klissete.
+- **Tabasco og Worcestershiresaus** er uvanlige i en couscous, men gjør en presis jobb: syre og umami i en rett som ellers er nokså nøytral.
+- **Kildens forslag til innblanding:** rosiner, pistasjnøtter, cashewnøtter, grønne kokte bønner, agurk eller squash i terninger.
+- **Beslektet:** [SA4](#sa4-couscoussalat-med-granateple-og-mynte) er couscous som salat, og [T61](#t61-kısır) er den tyrkiske bulgurslektningen.
+
+---
+
+## T65. Hellstrøms basmatiris
+
+**Kilde:** Eyvind Hellstrøm, *Grunnboka* (Cappelen Damm, 2025) · **Kjøkken:** Indisk · **Tid:** ca. 35 min · **Porsjoner:** 4
+
+Risen bakes i ovnen under lokk i stedet for å kokes på platen, og vendes med kaldt smør, nøtter og rosiner til slutt. Kilden kaller den et måltid i seg selv.
+
+### Ingredienser
+
+- 200 g basmatiris
+- 6 dl grønnsakbuljong eller kokosmelkvann
+- 1 liten kanelstang
+- 3–4 kardemommefrø
+- 2 ss pistasjnøtter
+- 1–2 ss pinjekjerner
+- 1–2 ss rosiner
+- 50 g meierismør
+- 2–3 hvitløkfedd
+- 2–3 sjalottløk
+- 3 ss olivenolje
+- Salt
+
+### Fremgangsmåte
+
+1. **Skyll risen godt i kaldt vann.**
+2. **Rens og finhakk sjalottløk og hvitløk**, og fres dette i olivenolje **uten at det tar farge**.
+3. **Tilsett risen** og bland godt over varmen.
+4. **Tilsett kokosmelkvann eller grønnsakbuljong og salt.**
+5. **Gi blandingen et oppkok**, ha på lokk, og **bak den på midterste rille på ca. 150 grader i ca. 20 minutter**.
+6. **Bland inn kaldt smør i terninger.**
+7. **Vend inn de andre ingrediensene.**
+
+### Notater
+
+- **Ovn i stedet for plate.** Varmen kommer fra alle kanter i stedet for bare nedenfra, og risen koker jevnt uten å svi seg i bunnen. Hundre og femti grader er lavt nok til at det aldri koker hardt.
+- **Løken skal ikke ta farge.** Bruning ville gitt en søt, karamellisert tone som konkurrerer med kardemomme og kanel. Her skal løken bare mykne.
+- **Kaldt smør i terninger til slutt.** Kaldt fett smelter langsomt inn i den varme risen og legger seg som en hinne rundt kornene i stedet for å samle seg i bunnen.
+- **Kanelstang og hele kardemommefrø**, ikke malt. Hele krydder gir en renere aroma og lar seg plukke ut.
+- **Beslektet:** [kokt ris (T131)](#t131-kokt-ris) og [Hellstrøms japanske ris (T134)](#t134-hellstrøms-japanske-ris) er samlingens andre risoppskrifter, og [mujadara (nr. 175)](#175-mujadara) er en beslektet krydret risrett.
+
+---
+
+## T66. Hellstrøms potetgrateng
+
+**Kilde:** Eyvind Hellstrøm, *Grunnboka* (Cappelen Damm, 2025) · **Kjøkken:** Fransk · **Tid:** ca. 1 t 15 min *(ikke oppgitt i kilden)* · **Porsjoner:** 4 *(ikke oppgitt i kilden)*
+
+Potetskivene forkokes i melk til blandingen tykner, før fløte og krydder går i. Gratengen står deretter på svak varme i minst 50 minutter.
+
+### Ingredienser
+
+- 500 g skrelte faste poteter
+- 2 dl helmelk
+- 1 dl kremfløte
+- 2 hvitløkfedd
+- 50 g meierismør
+- Salt
+- Revet muskatnøtt
+- Et dryss kajennepepper
+
+### Fremgangsmåte
+
+1. **Skjær potetene i skiver på ca. 2 mm.**
+2. **Ha dem i en kasserolle og hell i melk til det dekker.** Kok under omrøring i **ca. 10 minutter**, til blandingen får en tykkere konsistens.
+3. **Tilsett kremfløte, salt, revet muskatnøtt, finhakket hvitløk og kajennepepper.**
+4. **Smør en ildfast form**, ha i potetblandingen og legg kaldt smør i terninger på toppen.
+5. **Stek på 150 grader i 50 minutter eller mer**, til gratengen er gjennomstekt og gyllen.
+
+### Notater
+
+- **Forkokingen i melk er hele poenget.** Potetstivelsen løses ut og binder melken før gratengen går i ovnen. Uten trinnet må ovnen gjøre bindingsjobben alene, og da skiller fløten seg langt lettere.
+- **150 grader er lavt, og det er med vilje.** Kilden slår fast at jo svakere varme og jo lengre tid, jo bedre resultat. Høy varme koker fløten og gir en kornete overflate lenge før potetene er møre.
+- **2 mm er tynt nok til å bli mørt, tykt nok til å holde formen.** Tykkere skiver trenger lengre tid i ovnen; tynnere går i oppløsning allerede under forkokingen.
+- **Muskat og kajenne skal ikke kjennes hver for seg.** Begge er små mengder som løfter fløten fra flat til rund. Kjenner du dem tydelig, er det for mye.
+- **Kilden oppgir hverken tid eller antall.** 500 g poteter rekker til fire som tilbehør. *(Flagget.)*
+- **Beslektet:** [T52](#t52-potetgrateng-med-trøffelbrie) er samme rett uten forkoking, med brie i stedet for muskat.
+
+---
+
+## T67. Hellstrøms mandelpotetpuré
+
+**Kilde:** Eyvind Hellstrøm, *Grunnboka* (Cappelen Damm, 2025) · **Kjøkken:** Fransk · **Tid:** ca. 30 min *(ikke oppgitt i kilden)* · **Porsjoner:** 4 *(ikke oppgitt i kilden)*
+
+Potetene dampes tørre etter kokingen og knuses med ballongvisp i samme kasserolle. Melk og smør kokes opp for seg og vispes inn litt etter litt.
+
+### Ingredienser
+
+- 400 g skrelte mandelpoteter
+- 3–4 dl helmelk
+- 100 g meierismør
+- Salt
+
+### Fremgangsmåte
+
+1. **Kok potetene i saltet vann** til de er møre.
+2. **Slå av vannet og sett kasserollen tilbake på varmen.** Damp potetene raskt til de er tørre.
+3. **Ta kasserollen av varmen og knus potetene med en ballongvisp** i den samme kasserollen.
+4. **Kok opp melk og smør i en annen kasserolle**, og bland inn i potetene litt etter litt.
+5. **Visp godt til en konsistens som hverken er for fast eller for bløt.** Korriger eventuelt med litt mer melk.
+6. **Smak til med salt.**
+
+### Notater
+
+- **Damptrinnet avgjør resultatet.** Poteter som går rett fra kokevannet til vispen bærer med seg vann, og puréen blir tynn uansett hvor mye smør du tilsetter. De halvminuttene på varmen fjerner væsken før fettet skal inn.
+- **Melk og smør må være varme.** Kald væske i varme poteter stivner stivelsen og gir en klissete konsistens. Oppkoket er ikke et unødvendig ekstratrinn.
+- **Ballongvisp, ikke stavmikser.** Stavmikseren river opp stivelseskornene og gjør puréen limaktig i løpet av sekunder. Vispen knuser uten å piske.
+- **Puréen tykner når den står.** Regn med å spe med litt melk hvis den skal vente. *(Presisert.)*
+- **Kildens variantforslag:** svart oliven og piment d'Espelette · persille- eller hvitløksmør · rødløk, sylteløk og cornichons · gressløk og vårløk.
+- **Beslektet:** [T71](#t71-hellstrøms-franske-potetpannekaker) bruker samme potetpuré som utgangspunkt for en røre.
+
+---
+
+## T68. Hellstrøms bakte poteter
+
+**Kilde:** Eyvind Hellstrøm, *Grunnboka* (Cappelen Damm, 2025) · **Kjøkken:** Vestlig · **Tid:** ca. 1 t · **Porsjoner:** 4
+
+Potetene bakes hele i stekepanne på 220 grader, tømmes for innmat, som blandes med smør og crème fraîche og fylles tilbake i skallet.
+
+### Ingredienser
+
+- 4 store bakepoteter
+- 2 ss crème fraîche eller seterrømme
+- 50 g smør
+- Salt
+- Nykvernet svart pepper
+- Ost til topping
+- Bacon til topping *(valgfritt)*
+
+### Fremgangsmåte
+
+1. **Bak uskrelte poteter i en stekepanne** på midterste rille på **220 grader i ca. 50 minutter**. Størrelsen på potetene avgjør tiden.
+2. **Skjær av toppen** på de bakte potetene.
+3. **Skrap forsiktig ut potetinnmaten med en skje** uten å ødelegge skallet.
+4. **Bland inn crème fraîche eller seterrømme og smør** i potetmassen, og smak til med salt og pepper. Bland lett.
+5. **Fyll massen tilbake i potetskallet.**
+6. **Topp med ost og eventuelt bacon**, og sett potetene i ovnen noen minutter til osten har smeltet.
+
+### Notater
+
+- **Uskrelte og uten folie.** Skallet skal tørke ut i tørr ovnsvarme – det er det som gjør at det holder formen når du fyller det igjen. Folie damper skallet mykt og ødelegger hele konstruksjonen.
+- **«Bland lett» er en reell instruks.** Overarbeidet potetmasse blir seig av utløst stivelse. Vend akkurat til smøret er borte, ikke lenger.
+- **Størrelsen styrer tiden mer enn oppskriften gjør.** 50 minutter passer store bakepoteter; mindre poteter er ferdige på 35–40. Stikk med en tynn kniv – den skal gå gjennom uten motstand.
+- **Stekepanne i ovnen, ikke stekebrett.** Kilden bruker panne fordi den holder på varmen og gir undersiden av potetene en jevnere bunnvarme.
+- **Beslektet:** [T51](#t51-hasselbackpoteter-med-hvitløkssmør) og [T23](#t23-potetbåter-i-airfryer) er de andre helstekte potetene i samlingen.
+
+---
+
+## T69. Hellstrøms pommes frites
+
+**Kilde:** Eyvind Hellstrøm, *Grunnboka* (Cappelen Damm, 2025) · **Kjøkken:** Fransk · **Tid:** ca. 40 min aktivt + 10–12 timer bløtlegging + kjøling over natten · **Porsjoner:** 4 *(ikke oppgitt i kilden)*
+
+Strimlene vannes ut over natten, forkokes møre, tørkes, kjøles ned og friteres først til slutt. Salvie stekes i den samme oljen og blandes inn.
+
+### Ingredienser
+
+- 4–6 bakepoteter
+- 1 bunt frisk salvie *(ev. bladpersille eller rosmarin)*
+- Frityrolje (solsikkeolje)
+- Fint salt
+
+### Fremgangsmåte
+
+1. **Skrell potetene og skjær dem i tynne skiver, så i strimler.** Bruk kniv, mandolin eller begge deler.
+2. **Skyll strimlene under rennende vann i noen minutter.**
+3. **Legg dem i kaldt vann i 10–12 timer**, helst over natten. Dette vasker ut potetstivelsen.
+4. **Ta dem opp, ha dem i en kjele med varmt vann og gi et oppkok.** Kok i **8–10 minutter** til de er møre. De må ikke gå i oppløsning.
+5. **La potetene renne av og tørk dem forsiktig i et rent kjøkkenklede.**
+6. **Avkjøl og sett i kjøleskap over natten, eller legg dem i fryseren.** De skal være helt avkjølte før fritering.
+7. **Varm oljen til 170–180 grader** og stek strimlene til de er sprø og gyllenbrune, **ca. 4–5 minutter per runde**. Stek lite om gangen så temperaturen holder seg.
+8. **Legg dem på tørkepapir og dryss over fint salt.**
+9. **Stek frisk salvie, bladpersille eller rosmarin i den samme oljen** og bland med potetene. Server umiddelbart.
+
+### Notater
+
+- **Dette er en tredagersmetode i praksis.** Bløtlegging over natten, forkoking, nedkjøling over natten, og først da fritering. Kortslutter du noen av trinnene, får du vanlige pommes frites – som er greit, men da er det ikke denne oppskriften.
+- **Bløtleggingen fjerner overflatestivelse.** Stivelse på overflaten brunes før innsiden er ferdig, og gir en bitter, mørk skorpe. Rent vann etter timene i bløt betyr at jobben er gjort.
+- **Nedkjølingen er ikke bare praktisk.** Kalde strimler i varm olje gir en brå fordampning i det ytterste laget, og det er der sprøheten skapes. Lunkne strimler suger olje i stedet.
+- **Én runde av gangen.** Overfylt gryte senker oljetemperaturen, og da koker potetene i fett i stedet for å frityrsteke. Kilden er eksplisitt på konstant temperatur.
+- **Urtene til slutt, i samme olje.** De blir sprø på sekunder og gir fra seg aroma til oljen. Salvie tåler dette bedre enn de fleste urter; koriander gjør det ikke.
+- **Beslektet:** [T23](#t23-potetbåter-i-airfryer) er den raske motsatsen, og [T70](#t70-hellstrøms-potetkake) bruker de samme strimlene uten vann i det hele tatt.
+
+---
+
+## T70. Hellstrøms potetkake
+
+**Kilde:** Eyvind Hellstrøm, *Grunnboka* (Cappelen Damm, 2025) · **Kjøkken:** Sveitsisk-fransk · **Tid:** ca. 25 min · **Porsjoner:** 2 *(ikke oppgitt i kilden)*
+
+Rå potetstrimler presses for væske, aldri skylles, og stekes til en tynn kake som brettes som en omelett med gressløk inni.
+
+### Ingredienser
+
+- 2 bakepoteter
+- 1 bunt gressløk
+- 2 ss olje
+- 10 g litt smør *(mengde lagt til.)*
+- Salt
+
+### Fremgangsmåte
+
+1. **Skrell potetene og høvle dem på mandolin til tynne strimler.** Har du ikke mandolin, kutt i tynne skiver først og deretter i strimler med den skarpeste kniven du har.
+2. **Press potetene for væske i et klede.** De skal **ikke** skylles i vann.
+3. **Varm en vid stekepanne (ca. 30 cm) til middels varme** og tilsett olje og smør.
+4. **Legg strimlene i pannen og fordel dem utover** til et tynt lag som dekker hele pannen.
+5. **Dryss over salt og press lett med en gaffel** til alt henger sammen.
+6. **Stek videre på svak varme i ca. 10 minutter.** Finhakk gressløken imens.
+7. **Sjekk fargen på undersiden.** Når den er lett gyllenbrun, strø gressløken over.
+8. **Brett potetkaken i to som en omelett** og stek videre **ca. 5 minutter på hver side**.
+
+### Notater
+
+- **Ikke skyll potetene.** Kilden skriver det med store bokstaver, og grunnen er stivelsen: den er limet som holder kaken sammen. Skyller du den bort, faller kaken fra hverandre i pannen. Dette er stikk motsatt av [pommes frites](#t69-hellstrøms-pommes-frites), der stivelsen er fienden.
+- **Press ut væsken, behold stivelsen.** Kledet fjerner vannet uten å skylle bort det som binder. Vann i pannen damper potetene i stedet for å steke dem.
+- **Svak varme i ti minutter, ikke rask bruning.** Strimlene må bli møre tvers gjennom før overflaten får farge. Høy varme gir en brent bunn over rå poteter.
+- **Gressløken går på til slutt, ikke i deigen.** Finhakkede urter som steker i ti minutter blir svarte og bitre. Her ligger de beskyttet inne i bretten.
+- **Beslektet:** [S17](#s17-potetrösti-med-crème-fraîche-og-gochugaru) er samme prinsipp i énporsjonsformat med revet potet.
+
+---
+
+## T71. Hellstrøms franske potetpannekaker
+
+**Kilde:** Eyvind Hellstrøm, *Grunnboka* (Cappelen Damm, 2025) · **Kjøkken:** Fransk · **Tid:** ca. 45 min *(ikke oppgitt i kilden)* · **Gir:** ca. 12 pannekaker *(ikke oppgitt i kilden)*
+
+Potetpuré presset gjennom sikt, bygget ut til en røre med melk, mel, egg og eggehviter. Konsistensen skal ligne rømmegrøt, og de stekes i klaret smør.
+
+### Ingredienser
+
+- 500 g skrelte mandelpoteter
+- ½ dl melk
+- 3 ss hvetemel
+- 3 egg
+- 4 eggehviter
+- 3 ss crème fraîche eller seterrømme
+- 200 g klaret smør
+- Salt eller sukker
+
+### Fremgangsmåte
+
+1. **Kutt potetene i grove terninger og kok dem møre.**
+2. **Hell av kokevannet og sett kasserollen tilbake på platen** slik at all væske fordamper.
+3. **Press de kokte potetene gjennom sikt til fin puré.**
+4. **Bland først inn melken**, deretter melet, så eggene ett og ett, og til slutt eggehvitene. Arbeid med lett hånd.
+5. **Rør inn crème fraîche eller rømme til slutt.** Røren skal ha konsistens som rømmegrøt.
+6. **Stek i klaret smør i varm panne på begge sider**, og dryss over salt eller sukker.
+
+### Notater
+
+- **Rekkefølgen i innblandingen er ikke tilfeldig.** Melk først tynner puréen så melet lar seg røre inn uten klumper. Kommer melet i en tett puré, får du klumper du ikke blir kvitt.
+- **Sikt, ikke potetstapper.** Siktet gir en helt glatt masse uten fiberrester. Enhver ujevnhet i puréen blir en ujevnhet i pannekaken.
+- **Fire eggehviter i tillegg til tre hele egg** er det som gjør røren luftig uten å tilsette bakepulver. Hvitene skal blandes inn, ikke piskes stive – «lett hånd» er instruksen.
+- **Klaret smør tåler stekevarmen.** Vanlig smør inneholder melkeproteiner som svir seg lenge før pannekakene er gyllne. Se [T126](#t126-brunet-smør-og-ghee) for fremgangsmåten.
+- **Salt eller sukker avgjør hva retten er.** Kilden bruker den både som tilbehør til fugl og lyst kjøtt, som egen rett, og som dessert med sukker og bær.
+- **Beslektet:** [T67](#t67-hellstrøms-mandelpotetpuré) er puréen dette bygger på, og [G12](#g12-hellstrøms-pannekakerøre) er den vanlige pannekakerøren.
+
+---
+
+## T72. Hellstrøms potetsalat
+
+**Kilde:** Eyvind Hellstrøm, *Grunnboka* (Cappelen Damm, 2025) · **Kjøkken:** Fransk · **Tid:** ca. 30 min *(ikke oppgitt i kilden)* · **Porsjoner:** 4 *(ikke oppgitt i kilden)*
+
+Vårløken kokes med potetene de siste to minuttene, og salaten blandes med vinaigrette i stedet for majones.
+
+### Ingredienser
+
+- 500 g poteter (nypoteter)
+- 2–3 bunter vårløk
+- 1 rødløk
+- 1 hvitløkfedd
+- 4 ss fransk vinaigrette eller jalapeñosaus
+- 1 bunt gressløk eller friske urter som kjørvel, persille eller koriander
+- Ruccola
+- Salt og pepper
+
+### Fremgangsmåte
+
+1. **Skrell eller skrubb potetene og del dem i 2 eller 4.**
+2. **Rens vårløken og kutt den i mindre biter.**
+3. **Kok potetene i saltet vann til de er møre.** La vårløken koke med **de siste 2 minuttene**.
+4. **Avkjøl og bland inn knust hvitløkfedd og vinaigrette eller jalapeñosaus.**
+5. **Bland inn finhakkede friske urter til slutt** og smak til med salt og pepper.
+6. **Vend inn tynt strimlet rødløk og ruccola rett før servering.** *(Steget mangler i kilden – se notat.)* Ruccolaen helt til slutt, så den ikke faller sammen.
+
+### Notater
+
+- **Vårløken kokes, ikke bare strøs over.** To minutter tar bort råskarpheten uten å gjøre den grøtete, og løksmaken trekker inn i potetene mens begge deler fortsatt er varme.
+- **Vinaigretten skal på lunkne poteter.** Varm potet suger opp dressing; kald potet lar den ligge utenpå. Dette er forskjellen mellom en fransk og en majonesbasert potetsalat.
+- **Ruccola og rødløk står i ingredienslisten, men nevnes ikke i fremgangsmåten.** Begge er ment som rå innblanding rett før servering – rødløken tynt strimlet, ruccolaen vendt inn helt til slutt så den ikke faller sammen. *(Flagget og presisert.)*
+- **«Fransk vinaigrette / jalapeñosaus» er et enten–eller**, ikke begge deler. Vinaigretten gir den klassiske versjonen, jalapeñosausen en langt kraftigere salat.
+- **Beslektet:** [T19](#t19-sprø-potetsalat-med-yuzumajones) er motsatt tilnærming med majones og sprøstekte poteter, og [T127](#t127-vinaigrette) er dressingen denne bygger på.
+
+---
+
+## T73. Hellstrøms ratatouille
+
+**Kilde:** Eyvind Hellstrøm, *Grunnboka* (Cappelen Damm, 2025) · **Kjøkken:** Provençalsk · **Tid:** ca. 1 t 15 min *(ikke oppgitt i kilden)* · **Porsjoner:** 8
+
+Tomat og løk kokes ned til en kompott i en halvtime, mens aubergine, squash og paprika stekes hver for seg og blandes inn til slutt.
+
+### Ingredienser
+
+- 1 kg tomater av beste kvalitet
+- 300 g salatløk
+- 2 hvitløkfedd
+- 400 g aubergine
+- 400 g squash
+- 200 g grønn paprika
+- 1 bouquet garni (krydderkvast av persille, timian og laurbærblader)
+- Olivenolje
+- Salt og pepper
+
+### Fremgangsmåte
+
+1. **Skrell og finhakk løk og hvitløk.** Fres i olivenolje sammen med bouquet garni til løken blir blank og myk.
+2. **Forvell tomatene i kokende vann i ca. 30 sekunder**, ha dem i kaldt vann og dra av skinnet. Del dem i fire og ta ut kjernene.
+3. **Bland tomatene med løken og kok sammen i ca. 30 minutter**, til det blir en kompott. Ta pannen av varmen.
+4. **Kutt aubergine, paprika og squash i lengder på ca. 2,5 cm**, og stek dem **separat** i olivenolje i stekepanne eller jerngryte.
+5. **La dem renne av og bland dem forsiktig sammen med tomatkompotten.**
+6. **Smak til med salt og pepper.**
+
+### Notater
+
+- **Hver grønnsak stekes for seg.** De har helt ulik væskeavgivelse og steketid – aubergine suger olje og trenger tid, squash slipper vann og blir grøtete på minutter. Kastes de i samme panne, styrer den svakeste resultatet.
+- **Kompotten er basen, ikke en saus å helle over.** Halvtimen koker bort væsken fra tomatene og konsentrerer smaken. Kortere tid gir en vandig ratatouille uansett hvor godt grønnsakene er stekt.
+- **Tomatkjernene tas ut.** De er der mesteparten av vannet og syren sitter. Med kjernene i må kompotten koke langt lenger for å nå samme konsistens.
+- **La grønnsakene renne av før de blandes inn.** Oljen de er stekt i har gjort jobben sin; blir den med videre, legger den seg som et fettlag over retten.
+- **Bouquet garni fjernes ikke eksplisitt i kilden**, men skal tas ut sammen med stilkene før servering. *(Presisert.)*
+- **Beslektet:** [nr. 177](#177-ratatouille) er samlingens klassiske standardversjon, som steker grønnsakene separat etter samme prinsipp, men uten tomatkompott som base.
+
+---
+
+## T74. Hellstrøms rødkål med fiken
+
+**Kilde:** Eyvind Hellstrøm, *Grunnboka* (Cappelen Damm, 2025) · **Kjøkken:** Norsk · **Tid:** ca. 45 min *(ikke oppgitt i kilden)* · **Porsjoner:** 6 *(ikke oppgitt i kilden)*
+
+Rødkål kokt i rødvin og sherryeddik, med tørket fiken og dadler som eneste sødme. Ingen sukker.
+
+### Ingredienser
+
+- 1 liten rødkål
+- 1 rødløk
+- 4 tørkede fiken
+- 2 dadler
+- ½ dl sherryeddik
+- 2 dl rødvin
+- 1 dl olivenolje
+- Salt
+- Kajennepepper
+
+### Fremgangsmåte
+
+1. **Kutt rødkålen i 4 og deretter i tynne strimler.** Unngå de hvite, tykke stammene.
+2. **Skrell og kutt rødløken på samme måte.**
+3. **Fres rødløken i olivenolje til den er blank**, og rør inn kålen.
+4. **Tilsett fiken og dadler skåret i terninger** og bland godt.
+5. **Tilsett sherryeddik og rødvin.**
+6. **Kok i ca. 30 minutter** og arbeid sammen til en god tekstur.
+7. **Smak til med salt og kajennepepper.**
+
+### Notater
+
+- **Frukten erstatter sukkeret.** Norsk rødkål er tradisjonelt søtet med sukker og eddik hver for seg. Her kommer sødmen fra fiken og dadler, som samtidig bidrar med fiber og binder kraften mens den koker inn.
+- **De hvite stammene skal bort.** De er seige og blir aldri møre på samme tid som bladene, uansett hvor lenge kålen koker.
+- **Sherryeddik, ikke husholdningseddik.** Den er mildere og har en nøtteaktig dybde som tåler rødvinen. Vanlig eddik i samme mengde blir skarpt.
+- **En hel desiliter olivenolje** er mye for en kålrett, og den er ikke bare stekefett – den ligger igjen i den ferdige retten og gjør den blank og fyldig.
+- **Kilden kaller retten «Rødkål-fiken».** Navnet er utvidet her for å gjøre den søkbar. *(Presisert.)*
+- **Beslektet:** [T129](#t129-syltet-rødløk) er samme sur-søte prinsipp i kald utgave.
+
+---
+
+## T75. Hellstrøms soltørkede tomater
+
+**Kilde:** Eyvind Hellstrøm, *Grunnboka* (Cappelen Damm, 2025) · **Kjøkken:** Italiensk · **Tid:** ca. 3½ t · **Gir:** ca. 4 dl *(ikke oppgitt i kilden)*
+
+Tomatene tørkes i ovnen på 90 grader i tre timer. Prosessen gir en forsterket sursøt smak.
+
+### Ingredienser
+
+- 1 kg tomater
+- Olivenolje
+- Salt
+
+### Fremgangsmåte
+
+1. **Skyll og skrell tomatene.**
+2. **Del dem i to og skrap ut kjerner og innmat.**
+3. **Salt dem lett.**
+4. **Ha dem i en stor panne og ringle olivenolje over.**
+5. **Sett pannen i ovnen på 90 grader** og la tomatene tørke i **ca. 3 timer**.
+
+### Notater
+
+- **90 grader er tørking, ikke steking.** Over 100 grader begynner sukkeret å karamellisere og tomatene blir stekte i stedet for tørkede. Den sursøte konsentrasjonen kilden beskriver kommer av at vann fordamper langsomt mens alt annet blir stående.
+- **Kjernene må ut.** Det er der vannet sitter, og med dem i tar tørkingen langt lengre tid uten at smaken blir bedre.
+- **Ett kilo blir til overraskende lite.** Tomater er over 90 % vann, så regn med at volumet krymper til en brøkdel. Det er normalt.
+- **Oppbevaring:** i en beholder med lokk, dekket med litt ekstra olivenolje, i kjøleskap i noen dager. Oljen holder luften unna.
+- **Ikke soltørket i egentlig forstand.** Navnet er innarbeidet, men dette er ovnstørkede tomater – de blir myke og saftige, ikke lærharde som de tørre man kjøper i pose.
+- **Beslektet:** [T125](#t125-marinara--tomatsausbase) er den kokte tomatbasen, og [T41](#t41-ovnsbakt-paprika--og-tomatsalat-med-bocconcini) bruker samme konsentrasjonsprinsipp i en salat.
+
+---
+
+## T76. Hellstrøms grønne linser
+
+**Kilde:** Eyvind Hellstrøm, *Grunnboka* (Cappelen Damm, 2025) · **Kjøkken:** Fransk · **Tid:** ca. 1 t · **Porsjoner:** 4 *(ikke oppgitt i kilden)*
+
+Puy-linser kokt med kardemommefrø, montert med kaldt smør og en egen persillepuré, med separat stekte grønnsaker vendt inn til slutt.
+
+### Ingredienser
+
+- 150 g grønne linser «du Puy»
+- 3–4 kardemommefrø
+- 5 dl grønnsakbuljong eller vann
+- 2 salatløk
+- 2 gulrøtter
+- 1 squash
+- 1 stor bunt kruspersille
+- 50 g smør
+- ½ dl olivenolje
+- Gressløk eller andre milde urter til servering
+
+### Fremgangsmåte
+
+1. **Skyll linsene i kaldt vann** og kok dem sammen med kardemommefrøene i vann eller grønnsakbuljong på **svak varme i ca. 40 minutter**. Tilsett mer væske etter behov – linsene må ikke koke tørre.
+2. **Skrell og kutt grønnsakene i passende skiver.** Fres dem i olivenolje til de er møre, men fortsatt faste.
+3. **Plukk persillen for stilker og kok den i saltet vann i 5 minutter.** Avkjøl i kaldt vann og la den renne av.
+4. **Kjør persillen med litt vann til fin puré** i kjøkkenmaskin, og sett til side.
+5. **Når linsene er møre og det meste av væsken er fordampet**, tilsett kaldt smør under omrøring, deretter persillesausen og så grønnsakene.
+6. **Dryss gressløk eller andre milde urter over ved servering.**
+
+### Notater
+
+- **Du Puy-linser holder formen.** De er små, mørkegrønne og har et fastere skall enn vanlige grønne linser, som koker i stykker på førti minutter. Bytter du sort, kort ned tiden og sjekk underveis.
+- **Kardemomme i linser er uvanlig og med vilje.** Frøene gir en svak blomsteraktig tone som løfter en ellers jordnær rett. Hele frø, ikke malt – de skal kunne plukkes ut.
+- **Persillen kokes før den mikses.** Fem minutter i kokende vann bryter ned cellevegger nok til at puréen blir glatt i stedet for trevlet, og avkjølingen i kaldt vann låser fargen. Rå persille gir en mørk, grumsete saus.
+- **Kaldt smør monteres inn.** Smøret skal emulgere i restvæsken, ikke smelte i den. Kaldt fett i varm væske under omrøring gir en blank binding; romtemperert smør skiller seg.
+- **Kilden foreslår retten både alene** og til stekt lam, kalvelever, lammelever, nyrer, stekt fisk og skalldyr.
+- **Beslektet:** [SA6](#sa6-linsesalat-med-feta-og-ristet-spisskummen) er kald linserett, og [SU13](#su13-vegetarisk-linsegryte) er den varme gryten.
+
+---
+
+## T77. Hellstrøms grønne ertepuré
+
+**Kilde:** Eyvind Hellstrøm, *Grunnboka* (Cappelen Damm, 2025) · **Kjøkken:** Fransk · **Tid:** ca. 10 min · **Porsjoner:** 4 *(ikke oppgitt i kilden)*
+
+Frosne petits pois kokt i ett minutt og kjørt glatt med hundre gram smør.
+
+### Ingredienser
+
+- 400 g små erter, petits pois (frosne)
+- 100 g smør
+- Salt
+- Kajennepepper
+
+### Fremgangsmåte
+
+1. **Kok de frosne ertene i saltet vann i 1 minutt.**
+2. **Slå av vannet** og ha ertene i blender eller kjøkkenmaskin.
+3. **Del smøret i mindre terninger og ha det i.**
+4. **Kjør sammen til en glatt puré eller mos.**
+5. **Smak til med salt og kajennepepper.**
+
+### Notater
+
+- **Ett minutt, ikke mer.** Frosne erter er allerede forvellet før de fryses. Kokingen skal bare varme dem gjennom – lengre tid gjør fargen olivengrå og smaken flat.
+- **Petits pois, ikke vanlige erter.** De små er søtere og har tynnere skall, som gir en glattere puré uten at du må sile. Store erter etterlater skallrester.
+- **Frosne slår ferske her.** Erter mister sødme raskt etter høsting, og de fryses vanligvis innen timer. Dette er en av få grønnsaker der frossen er det faglig riktige valget.
+- **Hundre gram smør til fire hundre gram erter** er et forhold på én til fire. Det er en fransk puré, ikke en lett grønnsaksmos, og smøret er det som gjør den blank.
+- **Beslektet:** [T67](#t67-hellstrøms-mandelpotetpuré) er samme monteringsprinsipp med potet.
+
+---
+
+## T78. Hellstrøms kikerter med spisskummen – hummus eller suppe
+
+**Kilde:** Eyvind Hellstrøm, *Grunnboka* (Cappelen Damm, 2025) · **Kjøkken:** Nordafrikansk · **Tid:** ca. 2½ t + bløtlegging over natten · **Porsjoner:** 4 *(ikke oppgitt i kilden)*
+
+Tørkede kikerter kokt møre med løk, gulrot og ras el hanout, og kjørt glatt med kokevannet. Serveres som hummus eller tynnes ut til suppe.
+
+### Ingredienser
+
+- 100 g kikerter
+- 1 gulrot
+- 1 løk
+- 2 hvitløkfedd
+- 1 ss spisskummen
+- 1 ss ras el hanout
+- ½ ts malt nellik
+- 1 l vann eller grønnsakbuljong
+- Olivenolje
+- Sitronsaft
+- Salt
+
+### Fremgangsmåte
+
+1. **Legg kikertene i bløt i kaldt vann over natten.**
+2. **Skrell og finhakk løk, hvitløk og gulrot**, og fres i olivenolje.
+3. **Tilsett kikerter og krydder.**
+4. **Ha i vann eller grønnsakbuljong til det dekker kikertene.** Kok til de er møre og tilsett eventuelt litt mer vann underveis. Dette tar **ca. 2 timer** avhengig av kvaliteten på kikertene.
+5. **Smak til med salt og eventuelt mer spisskummen.**
+6. **Kjør kikerter og kokevann i kjøkkenmaskin til en glatt puré.**
+7. **Tilsett olivenolje og sitronsaft etter smak.**
+
+### Notater
+
+- **Ingen tahini.** Dette er ikke levantinsk hummus, men en nordafrikansk kikertpuré der ras el hanout og nellik gjør jobben tahinien ellers ville gjort. Forvent en helt annen smak enn butikkhummus.
+- **Kokevannet går i puréen.** Det er der stivelsen og krydderet har samlet seg. Heller du det ut og tilsetter friskt vann, mister du både binding og smak.
+- **To timer er et anslag, ikke en fasit.** Gamle tørkede kikerter kan bruke tre timer eller aldri bli helt møre. Kilden nevner dette selv – kvaliteten avgjør.
+- **Krydderet freses med grønnsakene før væsken.** Spisskummen, ras el hanout og nellik er alle fettløselige; noen sekunder i varm olje henter ut langt mer aroma enn to timer i kokevann ville gjort.
+- **100 g tørkede kikerter blir ca. 250 g kokte.** Det er en beskjeden mengde – dobler du den, dobler du også væsken. *(Presisert.)*
+- **Beslektet:** [SA2](#sa2-kikertsalat-med-sitron-og-persille) er kikerter kaldt, og [G19](#g19-garam-masala) er samlingens andre sammensatte krydderblanding.
+
+---
+
+## T79. Hellstrøms gulrøtter bakt med spisskummen
+
+**Kilde:** Eyvind Hellstrøm, *Grunnboka* (Cappelen Damm, 2025) · **Kjøkken:** Nordafrikansk · **Tid:** ca. 45 min *(ikke oppgitt i kilden)* · **Porsjoner:** 4 *(ikke oppgitt i kilden)*
+
+Gulrøttene kokes opp i blodappelsinsaft med spisskummen og koriander, og bakes ferdig under lokk.
+
+### Ingredienser
+
+- ½ kg gulrøtter (helst nye)
+- ½ dl olivenolje
+- 2–3 hvitløkfedd
+- 2–3 blodappelsiner
+- 1 ss spisskummen
+- ½ ss malt koriander
+- Frisk koriander eller persille
+
+### Fremgangsmåte
+
+1. **Skrell og kutt gulrøttene i staver eller skiver**, eller behold dem hele.
+2. **Varm olivenolje i en kasserolle**, tilsett hakket hvitløk og legg gulrøttene i blandingen et par minutter.
+3. **Bland spisskummen, malt koriander og finstrimlet skall fra 1 appelsin.**
+4. **Press saften fra alle appelsinene.**
+5. **Tilsett alt dette i kasserollen og kok opp.**
+6. **Dekk til med lokk eller aluminiumsfolie** og bak i ovn eller på plate i **ca. 30 minutter**.
+7. **Strø over frisk koriander eller persille.**
+
+### Notater
+
+- **Blodappelsin er syrligere enn vanlig appelsin.** Bruker du vanlig, blir retten merkbart søtere – kompenser med et par teskjeer sitronsaft.
+- **Skallet fra bare én appelsin, saften fra alle.** Skallet bærer de bitre oljene og blir dominerende i mengde; saften er væsken retten koker inn i.
+- **Lokket er nødvendig.** Uten det fordamper appelsinsaften før gulrøttene er møre, og du sitter igjen med tørre gulrøtter i en brent sirup.
+- **Kilden oppgir ikke ovnstemperatur.** 180 grader er et fornuftig utgangspunkt for 30 minutter under lokk. *(Flagget.)*
+- **Hele gulrøtter tar lengre tid enn staver.** Er de tykke, regn med 40–45 minutter.
+- **Beslektet:** [T80](#t80-hellstrøms-gulrøtter-med-ingefær-og-koriander) er den nordiske motsatsen med samme grønnsak.
+
+---
+
+## T80. Hellstrøms gulrøtter med ingefær og koriander
+
+**Kilde:** Eyvind Hellstrøm, *Grunnboka* (Cappelen Damm, 2025) · **Kjøkken:** Norsk · **Tid:** ca. 25 min *(ikke oppgitt i kilden)* · **Porsjoner:** 4 *(ikke oppgitt i kilden)*
+
+Gulrøttene kokes med revet ingefær i akkurat så mye vann at det er fordampet når de er ferdige, og monteres med kaldt smør.
+
+### Ingredienser
+
+- 500 g nye gulrøtter
+- 50 g frisk ingefær
+- 50 g smør
+- Persille eller koriander
+- Salt
+
+**Til servering**
+
+- Pepperrotsaus: hjemmelaget majones tilsatt 2–3 ss frisk pepperrot
+
+### Fremgangsmåte
+
+1. **Skrell eller skrap gulrøttene**, kutt dem i lengder eller behold dem hele.
+2. **Kok dem i vann sammen med revet ingefær og salt** til de er møre, men har litt tyggemotstand – «al dente».
+3. **Ikke bruk mer vann enn at det er fordampet når gulrøttene er ferdigkokt.**
+4. **Bland inn kaldt smør og persille, koriander eller annet.**
+5. **Server med pepperrotsaus ved siden av.**
+
+### Notater
+
+- **Vannmengden er selve teknikken.** Koker du gulrøttene i rikelig vann og heller av, går ingefærsmaken i vasken. Her skal væsken fordampe akkurat idet gulrøttene er ferdige, så alt som er kokt ut blir igjen på dem.
+- **Det krever at du følger med.** Metoden har ingen sikkerhetsmargin – for lite vann og de svir seg, for mye og du sitter igjen med en tynn kraft. Start med så vidt dekkende vann og spe om nødvendig.
+- **Kaldt smør til slutt binder restvæsken.** Det lille som er igjen i bunnen blir en blank glasur i stedet for å renne av.
+- **«Al dente» om gulrøtter er kildens egen formulering**, og den er presis: gulrøtter som er kokt helt myke mister både smak og tekstur.
+- **Pepperrotsausen er en majones**, ikke en fløtesaus. Se [T122](#t122-majones) for grunnoppskriften.
+- **Beslektet:** [T79](#t79-hellstrøms-gulrøtter-bakt-med-spisskummen) er den nordafrikanske motsatsen med samme grønnsak.
+
+---
+
+## T81. Hellstrøms kantareller
+
+**Kilde:** Eyvind Hellstrøm, *Grunnboka* (Cappelen Damm, 2025) · **Kjøkken:** Fransk · **Tid:** ca. 20 min · **Porsjoner:** 4 *(ikke oppgitt i kilden)*
+
+Kantarellene stekes tørre først, og monteres så med noen skjeer vann og kaldt smør til en blank sky rundt soppen.
+
+### Ingredienser
+
+- 500 g ferske kantareller
+- 2 hvitløkfedd
+- 2–3 ss olivenolje
+- 2–3 ss vann
+- 50 g smør
+- Saften fra ½ sitron
+- 2 ss hakket gressløk
+- 1 ss hakket persille
+- 1 ss hakket estragon
+- Salt
+
+### Fremgangsmåte
+
+1. **Rens kantarellene og fres dem i varm olivenolje** til væsken har fordampet og soppen er lettstekt og tørr.
+2. **Bland inn knust hvitløk og salt.**
+3. **Ha i 2–3 ss vann og kok opp.**
+4. **Visk inn kaldt smør i terninger.**
+5. **Smak til med sitronsaft, salt og friske, hakkede urter.**
+
+### Notater
+
+- **Soppen må stekes tørr før noe annet skjer.** Kantareller er fulle av vann, og tilsetter du fett eller væske før det har fordampet, koker de i stedet for å steke. Vent til pannen slutter å freser og soppen begynner å synge.
+- **Vannet er ikke en feil.** To–tre skjeer virker meningsløst rett etter at du har dampet bort væsken, men det er akkurat nok til at smøret kan emulgere i stedet for å skille seg. Uten det får du smeltet smør i bunnen.
+- **Hvitløken kommer sent.** Knust hvitløk i en varm, tørr panne brenner på et halvminutt og blir bitter. Her går den i etter at soppen er ferdigstekt.
+- **Estragon er det uvanlige valget.** Persille og gressløk er standard til sopp; estragonen trekker retten mot det franske og gir en anisaktig tone som kler kantarellenes pepperaktighet.
+- **Beslektet:** [T43](#t43-kantarellsaus) er samme sopp kokt ut til saus.
+
+---
+
+## T82. Hellstrøms løkkompott
+
+**Kilde:** Eyvind Hellstrøm, *Grunnboka* (Cappelen Damm, 2025) · **Kjøkken:** Fransk · **Tid:** ca. 1 t · **Gir:** ca. 4 dl *(ikke oppgitt i kilden)*
+
+To ingredienser og én time. Løk karamellisert på svak varme i olje og smør til den er bløt og gyllen.
+
+### Ingredienser
+
+- 4–6 middels store løk
+- Olivenolje til steking
+- 15 g smør til steking *(mengde lagt til.)*
+
+### Fremgangsmåte
+
+1. **Rens og snitt løken i fine strimler.**
+2. **Karamelliser løken på svak varme** i en blanding av olje og smør.
+3. **Hold moderat varme og god tid.** Det tar **ca. 1 time**. Løken skal være bløt og gyllen.
+
+### Notater
+
+- **Timen er ikke til forhandling.** Karamellisering er nedbrytning av sukker over tid, ikke bruning ved høy varme. Skrur du opp varmen for å spare tid, får du brent løk med rå kjerne – to helt ulike smaker som ikke lar seg redde.
+- **Olje og smør sammen, ikke ett av dem.** Oljen hever røykpunktet så smøret ikke svir seg gjennom hele timen, og smøret gir smaken. Bare olje blir flatt, bare smør blir svidd.
+- **Fine strimler, ikke terninger.** Strimler kollapser jevnt og blir til en sammenhengende kompott. Terninger holder formen og gir noe annet.
+- **Ikke rør for ofte.** Løken må få ligge i kontakt med bunnen for å ta farge. Rør hvert femte minutt, ikke hvert halvminutt. *(Presisert.)*
+- **Beslektet:** [SU5](#su5-fransk-løksuppe) bygger på den samme karamelliseringen.
+
+---
+
+## T83. Hellstrøms paprikakompott
+
+**Kilde:** Eyvind Hellstrøm, *Grunnboka* (Cappelen Damm, 2025) · **Kjøkken:** Provençalsk · **Tid:** ca. 45 min *(ikke oppgitt i kilden)* · **Porsjoner:** 4 *(ikke oppgitt i kilden)*
+
+Tre paprikaer svidd svarte med gassbrenner, skrubbet rene og kokt inn med løk til kompott.
+
+### Ingredienser
+
+- 1 rød paprika
+- 1 gul paprika
+- 1 grønn paprika
+- 2 løk
+- 2 hvitløkfedd
+- ½ dl olivenolje
+- Friske urter, f.eks. basilikum, salvie og timian
+- Salt og pepper
+
+### Fremgangsmåte
+
+1. **Skrell og kutt løken i strimler.** Varm litt olivenolje i en kasserolle og fres løken på middels varme.
+2. **Skrell og knus hvitløken** og bland den med løken.
+3. **Brenn paprikaen med gassbrenner til den er svart.**
+4. **Legg paprikaen i kaldt vann** og skrubb av så mye som mulig av det brente skinnet med en ren oppvaskbørste eller svamp.
+5. **Del paprikaen i 4 og fjern innmaten.** Kutt den i grove biter eller strimler og bland med løken.
+6. **Kok på middels varme under lokk i ca. 20 minutter**, til blandingen har fått kompottkonsistens.
+7. **Tilsett finhakkede friske urter og et dryss pepper**, og smak til med salt.
+
+### Notater
+
+- **Svartbrenningen er hele smaken.** Skinnet skal være helt sotet, ikke bare boblete. Røyken som trekker inn i fruktkjøttet er forskjellen mellom denne og en vanlig stuet paprika.
+- **Kaldt vann og børste, ikke plastpose.** Den vanlige metoden er å dampe paprikaen i pose så skinnet løsner. Kilden gjør det motsatte: kjøler ned og skrubber. Det gir renere fruktkjøtt og mindre av den bløte, dampede teksturen.
+- **Tre farger er ikke pynt.** Grønn paprika er umoden og bitter, rød er søtest, gul ligger imellom. Sammen gir de en dybde ingen av dem har alene.
+- **Salvie i en paprikarett er uvanlig** og typisk provençalsk. Den er kraftig – bruk færre blader enn av basilikum.
+- **Har du ikke gassbrenner**, går det an å svi paprikaen direkte på en gassflamme eller under grillelementet i ovnen til skinnet er svart hele veien rundt. *(Lagt til.)*
+- **Kilden foreslår den** som egen rett, og som tilbehør til posjert egg, grillet kylling og stekt fisk.
+- **Beslektet:** [T73](#t73-hellstrøms-ratatouille) bruker paprika i samme sjanger, og [T41](#t41-ovnsbakt-paprika--og-tomatsalat-med-bocconcini) er den kalde varianten.
+
+---
+
+## T84. Hellstrøms auberginekompott
+
+**Kilde:** Eyvind Hellstrøm, *Grunnboka* (Cappelen Damm, 2025) · **Kjøkken:** Middelhavsinspirert · **Tid:** ca. 1 t · **Porsjoner:** 4 *(ikke oppgitt i kilden)*
+
+Auberginene bakes hele til de kollapser, innmaten renner av i sil, og kokes så inn med smør, olje og sitron.
+
+### Ingredienser
+
+- 2 hele auberginer
+- 60 g smør
+- ½ dl olivenolje
+- Saften av ½ sitron
+- En klype salt
+- En knivspiss kajennepepper
+
+### Fremgangsmåte
+
+1. **Stek de uskrelte auberginene i en tørr panne eller på stekebrett** i ovnen på **220 grader i 40–50 minutter**, til de er helt myke.
+2. **Del dem i to og skrap ut innmaten.**
+3. **Ha auberginekjøttet i en sil** slik at vannet renner av.
+4. **Grovhakk kjøttet med kniv** og ha det i en kasserolle.
+5. **Tilsett sitronsaft, smør og olivenolje** og kok sammen til tykkere konsistens.
+6. **Smak til med salt og kajennepepper.**
+
+### Notater
+
+- **Auberginen må være gjennombakt.** Kilden gjentar det, og med god grunn: halvbakt aubergine er svampete og bitter, og ingen mengde smør retter det opp. Den skal ha falt helt sammen.
+- **Avrenningen i sil er ikke valgfri.** Aubergine er nesten bare vann. Hopper du over trinnet, koker du en time uten å komme fram til kompottkonsistens.
+- **Tørr panne, ikke olje.** Skallet skal tørke og ta farge; olje ville stekt overflaten før innsiden kollapset.
+- **60 g smør og en halv desiliter olje til to auberginer** er mye fett, og det er poenget – auberginekjøtt uten fett smaker lite.
+- **Beslektet:** [T73](#t73-hellstrøms-ratatouille) bruker aubergine stekt separat i stedet for bakt hel.
+
+---
+
+## T85. Hellstrøms saltbakte sjalottløk
+
+**Kilde:** Eyvind Hellstrøm, *Grunnboka* (Cappelen Damm, 2025) · **Kjøkken:** Fransk · **Tid:** ca. 40 min · **Porsjoner:** 4 *(ikke oppgitt i kilden)*
+
+Hele sjalottløk begravd i grovt salt og bakt på 220 grader. Løken presses ut av skallet etterpå, og saltet kan brukes om igjen.
+
+### Ingredienser
+
+- 12 sjalottløk
+- Grovt salt
+
+### Fremgangsmåte
+
+1. **Legg hele sjalottløk i en ildfast form eller jerngryte** og dekk løken med salt.
+2. **Stek i ovn på 220 grader i ca. 30 minutter.** Ovnen må være varm nok, og løken skal bli gjennombakt og bløt.
+3. **Ta løken ut av saltet** og la den avkjøles litt.
+4. **Kutt av enden på løken og press den møre løken ut av skallet.**
+5. **Legg i en skål** og tilsett om ønskelig litt olivenolje, kapers og friske urter som persille eller koriander.
+
+### Notater
+
+- **Saltet er en ovn, ikke en krydring.** Løken salter seg ikke gjennom skallet; saltet fordeler varmen jevnt rundt hele løken og holder på den. Resultatet er en løk som er dampet i sin egen fuktighet.
+- **Ta vare på saltet.** Kilden er tydelig: det kan brukes om igjen, og har da fått en aromatisk løksmak. Det er en gratis ingrediens til neste gang.
+- **Skallet gjør jobben som emballasje.** Derfor legges løken hel og uskrelt i – all smaken holdes inne til du presser den ut.
+- **220 grader er høyt, og det skal det være.** Lavere varme og saltet gir en løk som blir varm uten å bli søt. Karamelliseringen krever temperaturen.
+- **Beslektet:** [T82](#t82-hellstrøms-løkkompott) er den motsatte metoden – lang tid på svak varme.
+
+---
+
+## T86. Hellstrøms purreløk
+
+**Kilde:** Eyvind Hellstrøm, *Grunnboka* (Cappelen Damm, 2025) · **Kjøkken:** Fransk · **Tid:** ca. 15 min · **Porsjoner:** 4 *(ikke oppgitt i kilden)*
+
+Purren freses i fosskokende smør og vann på sterk varme i sju–åtte minutter. Kilden kaller kraften i kokingen selve hemmeligheten.
+
+### Ingredienser
+
+- 4 middels store purreløk
+- 100 g smør
+- 1–2 dl vann
+- Et dryss salt
+- Et dryss piment d'Espelette
+
+### Fremgangsmåte
+
+1. **Bruk den hvite delen av purren**, ca. ⅔ av lengden. Del den i to på langs og skyll under kaldt vann. Snitt den i **ca. 2 cm lengder**.
+2. **Ha en kasserolle på varm kokeplate** og tilsett like deler smør og vann.
+3. **Vannet må fosskoke før purren går i.** Tilsett purre og litt salt under kraftig omrøring.
+4. **Fres på sterk varme i 7–8 minutter.** Prosessen skal gå hurtig.
+5. **Spe til slutt med litt vann** og rør godt på sterk varme til en kompottlignende konsistens.
+6. **Smak til med salt og strø over piment d'Espelette.**
+
+### Notater
+
+- **Dette er en emulsjon, ikke en koking.** Like deler smør og vann i fosskok blir en *beurre monté* – smøret holder seg bundet så lenge kokingen er kraftig nok. Skrur du ned varmen, skiller den seg umiddelbart.
+- **«Mye energi» er en teknisk instruks.** Kilden bruker uttrykket bevisst: det er bevegelsen og varmen som holder emulsjonen sammen. Forsiktig småkoking gir smeltet smør og vasstrukken purre.
+- **Bare den hvite delen.** De grønne bladene er seige og trenger langt lengre tid – de hører hjemme i kraft, ikke her.
+- **Purre må skylles etter oppdeling, ikke før.** Sanden ligger mellom lagene og kommer bare ut når purren er delt på langs.
+- **Piment d'Espelette er mild, fruktig chili** fra Baskerland. Har du den ikke, gir et lite dryss søt paprika og en anelse kajenne omtrent samme sted. *(Lagt til.)*
+- **Beslektet:** [T77](#t77-hellstrøms-grønne-ertepuré) bruker samme prinsipp med smør montert i en grønnsak.
+
+---
+
+## T87. Hellstrøms hvitløkspuré
+
+**Kilde:** Eyvind Hellstrøm, *Grunnboka* (Cappelen Damm, 2025) · **Kjøkken:** Fransk · **Tid:** ca. 40 min *(ikke oppgitt i kilden)* · **Gir:** ca. 2 dl *(ikke oppgitt i kilden)*
+
+Hvitløken kokes opp i vann tre ganger, kastes hver gang, og kokes til slutt mør i melk før den mikses glatt.
+
+### Ingredienser
+
+- 2–3 hele hvitløk
+- Melk
+- Salt og hvit pepper
+
+### Fremgangsmåte
+
+1. **Rens hvitløken.** Del feddene i to på langs, fjern skall og spire.
+2. **Legg i en kjele, dekk med vann og kok opp.** Hell av vannet og dekk med nytt vann. **Gjenta 3 ganger.**
+3. **Dekk hvitløken med melk** og la det koke til den er mør.
+4. **Kjør til glatt puré med stavmikser**, sil, og smak til med salt og hvit pepper.
+
+### Notater
+
+- **De tre oppkokene fjerner skarpheten.** Allicin, stoffet som gir rå hvitløk bittet, er vannløselig. Hver runde tar med seg mer av det, og etter tre er hvitløken søt og nøtteaktig i stedet for aggressiv.
+- **Spiren må ut.** Den grønne kimen i midten er den bitreste delen og blir ikke mildere av koking.
+- **Melken til slutt, ikke fra start.** Melk som koker tre ganger brenner seg i bunnen. Den kommer inn når vannjobben er gjort, og bidrar med fett og sødme.
+- **Silingen fanger de siste fibrene.** En stavmikser kommer langt, men hvitløk har trevler som gir en puré med kornethet hvis du hopper over siktet.
+- **Beslektet:** [T132](#t132-konfitert-hvitløk) er samme mildhet oppnådd med olje og lav varme i stedet for vann.
+
+---
+
+## T88. Hellstrøms syltede rødløk
+
+**Kilde:** Eyvind Hellstrøm, *Grunnboka* (Cappelen Damm, 2025) · **Kjøkken:** Vestlig · **Tid:** ca. 10 min · **Gir:** ca. 6 dl *(ikke oppgitt i kilden)*
+
+Kald lake helles over rå løkskiver. Ingenting kokes, verken lake eller løk.
+
+### Ingredienser
+
+- 3 rødløk
+- 3 dl vann
+- 2 dl sukker
+- 1 dl eddik 7 %
+
+### Fremgangsmåte
+
+1. **Rens løken og skjær den i tynne skiver.**
+2. **Bland eddik, sukker og vann.**
+3. **Hell laken over løkskivene.**
+4. **Ha alt over på et syltetøyglass med tett lokk** og sett i kjøleskapet.
+
+### Notater
+
+- **Ingenting varmes, og det er forskjellen.** Løken beholder full knas fordi den aldri møter varme. Til gjengjeld tar det lengre tid før smaken trekker inn – regn med et døgn, ikke et par timer.
+- **Sukkeret må røres helt oppløst.** Uten varme løser 2 dl sukker seg langsomt i kald væske. Rør til laken er blank før du heller den over, ellers ligger sukkeret igjen i bunnen. *(Presisert.)*
+- **Samme 3–2–1 som G13**, men med klar 7 % eddik i stedet for eplecidereddik. Klar eddik er skarpere og renere i smaken; her balanseres den av at løken er rå.
+- **Kilden nevner finhakket rødløk** som variant – da går smaken raskere inn, og du får en relish i stedet for skiver.
+- **Beslektet:** [T129](#t129-syltet-rødløk) er Matprats versjon med kokt lake. Notatet der anbefaler nettopp Hellstrøms grep – å ikke koke løken.
+
+---
+
+## T89. Hellstrøms sitron i salt
+
+**Kilde:** Eyvind Hellstrøm, *Grunnboka* (Cappelen Damm, 2025) · **Kjøkken:** Nordafrikansk · **Tid:** 10 min + flere dager til uker · **Gir:** 4–6 sitroner
+
+Sitronene snittes nesten gjennom, pakkes i salt og sukker og står i lukket glass i uker.
+
+### Ingredienser
+
+- 4–6 usprøytede sitroner
+- 200 g grovt salt
+- 20 g sukker
+
+### Fremgangsmåte
+
+1. **Skjær av topp og bunn på sitronene** og del dem **¾ igjennom** på høykant med fire eller seks kutt.
+2. **Bland salt og sukker og fordel over sitronene.**
+3. **Sett dem i et glass med lokk** eller en annen hermetisk beholder.
+4. **La stå i flere dager eller uker** for å utvikle ekstra aroma.
+
+### Notater
+
+- **Sitronene skal henge sammen.** Snittene går ¾ gjennom nettopp for at saltet skal komme til overalt uten at frukten faller fra hverandre. Deler du helt, blir det saltet sitronsalat.
+- **Usprøytet er et krav, ikke en anbefaling.** Det er skallet du skal spise, og det ligger i saltlaken i ukevis.
+- **Saften kommer av seg selv.** Saltet trekker ut væske de første dagene til sitronene ligger i sin egen lake. Er de ikke dekket etter tre–fire dager, spe med presset sitronsaft. *(Lagt til.)*
+- **Sukkeret er en tiendedel av saltet.** Det konserverer ikke, men tar av den skarpeste kanten på skallet.
+- **Skallet er det man bruker.** Fruktkjøttet blir grøtete og svært salt – skyll skallet og finhakk det. Kilden nevner gremolata som bruksområde.
+- **Beslektet:** [T75](#t75-hellstrøms-soltørkede-tomater) er samme sjanger – råvare konservert på forhånd til bruk i andre retter.
+
+---
+## T90. Hellstrøms pestosmør
+
+**Kilde:** Eyvind Hellstrøm, *Grunnboka* (Cappelen Damm, 2025) · **Kjøkken:** Italiensk · **Tid:** 10 min · **Gir:** ca. 3 dl *(ikke oppgitt i kilden)*
+
+Pesto der halvparten av fettet er temperert smør. Alt kjøres glatt i maskin og avkjøles.
+
+### Ingredienser
+
+- 1½ dl olivenolje
+- 100 g temperert meierismør
+- 1 potte frisk basilikum
+- 3–4 hvitløkfedd
+- 30 g parmesan
+- 2 ss pinjekjerner
+- Et dryss kajennepepper
+
+### Fremgangsmåte
+
+1. **Skrell hvitløken og ta ut spiren.**
+2. **Bland alle ingredienser i kjøkkenmaskin eller blender** og kjør til glatt konsistens.
+3. **Avkjøl.**
+
+### Notater
+
+- **Smøret gjør dette til noe annet enn pesto.** Olivenolje alene gir en saus som renner; smøret stivner i kjøleskapet og gjør blandingen smørbar. Den kan legges i skiver på varm mat og smelte ned over den.
+- **Temperert smør, ikke kaldt.** Kaldt smør i en maskin med olje gir klumper som aldri blir glatte.
+- **Spiren ut av hvitløken.** Med 3–4 fedd rå hvitløk i en kald saus er den grønne kimen tydelig bitter.
+- **Ingen risting av pinjekjernene.** Kilden bruker dem rå, som gir en mildere og mer kremet pesto enn den ristede varianten.
+- **Holdbarhet:** flere dager i kjøleskap. Dekk overflaten med et lag olivenolje så holder fargen seg grønn lengre. *(Lagt til.)*
+- **Beslektet:** [T13](#t13-pesto) er den klassiske pestoen uten smør.
+
+---
+
+## T91. Hellstrøms ansjossmør
+
+**Kilde:** Eyvind Hellstrøm, *Grunnboka* (Cappelen Damm, 2025) · **Kjøkken:** Fransk · **Tid:** 10 min + kjøling · **Gir:** ca. 130 g
+
+Krydret smør rullet til pølse i plastfolie. Skives legges på varm grillet fisk og erstatter saus.
+
+### Ingredienser
+
+- 100 g meierismør
+- 30 g ansjosfileter i olivenolje
+- 1 hvitløkfedd
+- 1 ss hakket persille
+- 1 ts cognac eller marc
+
+### Fremgangsmåte
+
+1. **Del smøret i mindre terninger og la det få romtemperatur.**
+2. **Rens og finhakk hvitløk og persille.**
+3. **Finhakk ansjosfiletene**, bland alt i kjøkkenmaskin og kjør til glatt konsistens.
+4. **Rull smøret i plastfolie til en pølse** og oppbevar i kjøleskap eller fryser.
+
+### Notater
+
+- **Pølseformen er poenget.** Rullet i folie kan smøret skjæres i jevne skiver rett fra kjøleskapet, og én skive per porsjon er all sausen retten trenger.
+- **Fryser like godt som det kjøler.** Skiver kan skjæres av frossen pølse og legges rett på varm mat. Dette er en av de få forberedelsene som tåler måneder.
+- **30 g ansjos til 100 g smør** høres voldsomt ut, men saltet og umamien fordeler seg i fettet og oppfattes som dybde, ikke fisk.
+- **Cognac i så liten mengde** koker bort på det varme kjøttet og etterlater bare aromaen. Utelater du den, merkes det knapt.
+- **Beslektet:** [T90](#t90-hellstrøms-pestosmør) er samme idé med basilikum, og [T126](#t126-brunet-smør-og-ghee) er grunnleggende smørbehandling.
+
+---
+
+## T92. Hellstrøms vierge-saus
+
+**Kilde:** Eyvind Hellstrøm, *Grunnboka* (Cappelen Damm, 2025) · **Kjøkken:** Fransk · **Tid:** ca. 40 min *(ikke oppgitt i kilden)* · **Porsjoner:** 6 *(ikke oppgitt i kilden)*
+
+Tomatskinn og kjerner mikses, siles og kokes inn til kompott, som blandes tilbake med det grovhakkede fruktkjøttet.
+
+### Ingredienser
+
+- 8–10 store tomater
+- 2 hvitløkfedd
+- 2 dl olivenolje
+- 4 ss hakkede friske urter (estragon, persille, kjørvel eller koriander)
+- Et dryss salt
+- Et dryss kajennepepper
+
+### Fremgangsmåte
+
+1. **Snitt tomatene på over- og undersiden** med en liten kniv, legg dem i kokende vann i noen sekunder og avkjøl i kaldt vann.
+2. **Dra av skinnet, del tomatene i fire og skrap ut kjernene.**
+3. **Kjør skinn og kjerner med stavmikser til juice.** Sil dette og kok inn med litt salt til kompottkonsistens. Avkjøl.
+4. **Hakk tomatkjøttet grovt** og bland det med tomatsausen.
+5. **Bland inn olivenolje, finhakket hvitløk og friske, hakkede urter**, og smak til med salt og kajennepepper. *(Hvitløken mangler i kildens fremgangsmåte – se notat.)*
+
+### Notater
+
+- **Ingenting kastes.** En klassisk sauce vierge kaster skinn og kjerner. Her kokes de inn til en konsentrert base som gir sausen kropp uten at du tilsetter noe. Det er hele oppfinnelsen.
+- **Sausen er kald.** Kompotten kokes, men avkjøles før fruktkjøttet og oljen går i. Varm olivenolje i denne mengden blir tung; kald forblir den frisk.
+- **Hvitløken står i ingredienslisten, men nevnes ikke i fremgangsmåten.** Den er ment finhakket eller knust og blandet inn til slutt, sammen med urtene. *(Flagget og presisert.)*
+- **To desiliter olje til ti tomater** gjør dette til en oljesaus med tomat, ikke omvendt. Det er riktig for en vierge.
+- **Kjørvel er den franske signaturen** i urteutvalget. Får du den ikke tak i, er estragon nærmest i smak.
+- **Beslektet:** [T125](#t125-marinara--tomatsausbase) er den varme, kokte tomatsausen.
+
+---
+
+## T93. Hellstrøms tartarsaus
+
+**Kilde:** Eyvind Hellstrøm, *Grunnboka* (Cappelen Damm, 2025) · **Kjøkken:** Fransk · **Tid:** 15 min · **Porsjoner:** 6–8
+
+En majones bygget direkte på ansjos, grønn pepper, kapers og sylteagurk, spedd med to desiliter olivenolje.
+
+### Ingredienser
+
+- 2 eggeplommer
+- 2 dl olivenolje
+- 50 g hakket ansjos i olje
+- 2 ss hakket grønn pepper (Madagaskar-pepperkorn)
+- 2 ss hakket sylteagurk
+- 1 ss hakket kapers
+- 2–3 ss hakket frisk persille
+- 1 ss cognac eller marc
+- 1 ss Worcestershiresaus
+- 3–4 dråper tabasco eller annen chilisaus
+
+### Fremgangsmåte
+
+1. **Bland alle ingrediensene bortsett fra olivenoljen** i kjøkkenmaskin eller blender.
+2. **Kjør til god konsistens.**
+3. **Spe med olivenoljen, litt etter litt**, til en tykkere saus.
+
+### Notater
+
+- **Alt smakssettes før oljen.** I en vanlig majones lager du emulsjonen først og smaker til etterpå. Her ligger ansjos, kapers og sylteagurk i bunnen fra start, og oljen bygges inn i en ferdig krydret base.
+- **Oljen må i langsomt.** To desiliter til to plommer er i overkant av hva en majones tåler. Går oljen for fort inn, skiller den seg – og da må du starte med en ny plomme og spe den skilte sausen inn i den.
+- **Ren olivenolje gir en kraftig saus.** Vil du ha den mildere, bytt halvparten mot en nøytral olje. Kilden gjør det ikke. *(Lagt til.)*
+- **Grønn pepper er ikke svart pepper.** Madagaskar-pepperkorn i lake er myke og fruktige, nærmest syltede. Erstatter du med malt svart pepper, blir sausen bare skarp.
+- **Beslektet:** [T122](#t122-majones) er grunnmajonesen, og [T15](#t15-aioli) er hvitløksversjonen.
+
+---
+
+## T94. Hellstrøms cæsardressing
+
+**Kilde:** Eyvind Hellstrøm, *Grunnboka* (Cappelen Damm, 2025) · **Kjøkken:** Amerikansk · **Tid:** 10 min · **Gir:** ca. 6 dl *(ikke oppgitt i kilden)*
+
+Cæsardressing uten egg og olje. Tykk yoghurt bærer 150 g parmesan, 10–12 ansjosfileter og 50 g kapers.
+
+### Ingredienser
+
+- 3 dl tykk yoghurt naturell (gresk eller tyrkisk)
+- 10–12 ansjosfileter i olje
+- 150 g revet parmesan
+- 50 g kapers i eddik
+- 2 ss dijonsennep
+- 1–2 hvitløkfedd
+- Saften fra ½ sitron
+- Et dryss salt
+- 2–3 dråper tabasco
+
+### Fremgangsmåte
+
+1. **Skrell hvitløken. Riv parmesanen. Press sitronen.**
+2. **Bland alle ingrediensene bortsett fra yoghurten** og kjør til fin konsistens i kjøkkenmaskin.
+3. **Tilsett yoghurten** og kjør videre til en glatt saus.
+
+### Notater
+
+- **Dette er ikke dressingen i [SA7](#sa7-hellstrøms-cæsarsalat).** Samme bok, samme kokk, to helt ulike oppskrifter: salaten bruker en eggeplommeemulsjon med to oljer, denne bruker yoghurt og hverken egg eller olje. Velg etter hva du er ute etter – emulsjonen er rikere, yoghurten friskere og langt mer holdbar.
+- **Yoghurten går i sist, og med god grunn.** Kjøres den fra start, piskes den tynn av maskinen. Den skal bare vendes glatt til slutt.
+- **150 g parmesan er en stor mengde**, og det er den som gir sausen tykkelse i fravær av olje. Kutter du ned, blir dressingen løs.
+- **Kapersen kommer med eddiken sin.** Det er den eneste syren ved siden av sitronen, og grunnen til at oppskriften ikke trenger tilsatt eddik.
+- **Ingen rå egg gjør den langt mer holdbar** – regn med en uke i kjøleskap mot ett døgn for emulsjonen. *(Lagt til.)*
+- **Beslektet:** [nr. 156](#156-cæsarsalat-med-panert-kylling) er en tredje cæsardressing i samlingen.
+
+---
+
+## T95. Hellstrøms ananas- og mangosalsa
+
+**Kilde:** Eyvind Hellstrøm, *Grunnboka* (Cappelen Damm, 2025) · **Kjøkken:** Meksikansk-inspirert · **Tid:** 15 min · **Porsjoner:** 4 *(ikke oppgitt i kilden)*
+
+Fire ingredienser skåret i små terninger. Ingen syre tilsatt – frukten står for den selv.
+
+### Ingredienser
+
+- ¼ frisk ananas
+- ½ frisk mango
+- 1 liten rød chili
+- Friske urter, som mynte eller koriander
+- Fingersalt
+
+### Fremgangsmåte
+
+1. **Fjern skallet fra ananas og mango.** Del fruktkjøttet med kniv i **små terninger**.
+2. **Finhakk chili og friske urter.**
+3. **Tilsett fingersalt og bland alt godt.**
+
+### Notater
+
+- **Ingen lime, og det er et valg.** Ananas har rikelig med egen syre. Presser du lime over, blir salsaen skarp i stedet for frisk.
+- **Kniv, ikke maskin.** Frukt som kjøres i maskin slipper saften og blir til en puré. Salsaen skal ha tydelige terninger som holder formen på tallerkenen.
+- **Fersk ananas, ikke hermetisk.** Hermetisk ananas ligger i sukkerlake og har mistet både syre og struktur.
+- **Mynte og koriander trekker i hver sin retning.** Mynte gir en kjølig, søtlig salsa som kler svinekjøtt; koriander gir en mer meksikansk profil som kler fisk og kylling.
+- **Lages rett før servering.** Salt trekker væske ut av frukten i løpet av en halvtime, og salsaen svømmer. *(Lagt til.)*
+- **Beslektet:** [T25](#t25-mango--og-avokadosalsa) er samme sjanger med avokado i stedet for ananas.
+
+---
+
+## T96. Hellstrøms guacamole
+
+**Kilde:** Eyvind Hellstrøm, *Grunnboka* (Cappelen Damm, 2025) · **Kjøkken:** Meksikansk · **Tid:** 15 min · **Gir:** ca. 5 dl *(ikke oppgitt i kilden)*
+
+Guacamole uten tomat, løk og chili. Avokado, koriander, lime – og en knivspiss karri.
+
+### Ingredienser
+
+- 4 modne, faste avokadoer
+- 1 liten bunt frisk koriander
+- Saft og skall av 1–2 lime
+- Fingersalt
+- En knivspiss kajennepepper
+- En knivspiss karri
+
+### Fremgangsmåte
+
+1. **Del avokadoene i to, vipp ut steinen**, skrap ut kjøttet med en skje og ha det i en bolle.
+2. **Riv limeskall på rivjern.**
+3. **Tilsett salt, kajennepepper, karri, limesaft og limeskall.**
+4. **Hakk frisk koriander** og bland med avokadokjøttet.
+5. **Bland alt godt med gaffel eller skje.** Har du kryddermorter, er det smart å knuse alle ingrediensene i den.
+
+### Notater
+
+- **Karri i guacamole er kildens eget avvik**, og det er en liten mengde med stor effekt: gurkemeien og spisskummen i blandingen gir en jordaktig bunn avokado ellers mangler. Forvent ikke noe som smaker karri.
+- **Limeskallet, ikke bare saften.** Skallet bærer de aromatiske oljene; saften bærer bare syren. De fleste guacamoleoppskrifter bruker bare det siste.
+- **Faste avokadoer, ikke bløte.** Kilden spesifiserer det. Overmodne gir en grå, vandig mos uansett hvor godt du blander.
+- **Ingen tomat, løk eller chili** gjør dette til en langt renere avokadosmak enn folk forventer av guacamole – nærmere en krydret puré.
+- **Beslektet:** [T47](#t47-guacamole) er den klassiske versjonen med tomat, rødløk og jalapeño støtt i morter.
+
+---
+
+## T97. Hellstrøms spinatsaus
+
+**Kilde:** Eyvind Hellstrøm, *Grunnboka* (Cappelen Damm, 2025) · **Kjøkken:** Fransk · **Tid:** 15 min · **Porsjoner:** 4 *(ikke oppgitt i kilden)*
+
+Spinat forvellet ett minutt og mikset med nøttebrunt smør. En teskje sukker balanserer jernsmaken.
+
+### Ingredienser
+
+- 250 g fersk spinat
+- 80 g meierismør
+- 2 ss olivenolje
+- 1 ts sukker
+- Et dryss salt
+
+### Fremgangsmåte
+
+1. **Plukk spinaten fri for stilker** og kok den i vann i **ca. 1 minutt**.
+2. **Avkjøl i kaldt vann.** Renn av og press den lett for vann.
+3. **La smøret bli nøttebrunt** ved konstant omrøring med visp.
+4. **Varm spinaten forsiktig i olivenolje.**
+5. **Kjør den med stavmikser eller kjøkkenmaskin** sammen med det nøttebrunede smøret, salt og sukker.
+6. **Server umiddelbart.** Juster konsistensen med litt vann.
+
+### Notater
+
+- **Ett minutt og rett i isvann.** Spinat mister fargen i løpet av få minutter i varme. Den korte forvellingen og den brå nedkjølingen låser den grønne fargen; koker du lenger, blir sausen olivenbrun uansett hva du gjør etterpå.
+- **Press lett, ikke hardt.** All væske ut gir en tørr, trevlete masse. Spinaten skal fortsatt være fuktig når den går i mikseren.
+- **Sukkeret er ikke for sødme.** En teskje til 250 g demper den metalliske jernsmaken spinat har, uten at retten oppfattes som søt. Klassisk fransk grep.
+- **Nøttebrunt smør, ikke smeltet.** Melkeproteinene som brunes gir en nøtteaktig dybde som er hele smaksbunnen. Smeltet smør gir bare fett.
+- **«Server umiddelbart» er kildens instruks**, men den nevner selv at sausen kan avkjøles, oppbevares noen dager og varmes etter behov. Fargen blir da mattere.
+- **Beslektet:** [G5](#g5-hellstrøms-grønne-pastadeig) bruker spinatpuré i deig, og [T126](#t126-brunet-smør-og-ghee) er teknikken bak det nøttebrune smøret.
+
+---
+
+## T98. Hellstrøms salsa verde
+
+**Kilde:** Eyvind Hellstrøm, *Grunnboka* (Cappelen Damm, 2025) · **Kjøkken:** Meksikansk-inspirert · **Tid:** 10 min · **Porsjoner:** 8–10
+
+Jalapeño og koriander kjørt glatt med to eggeplommer og to desiliter olivenolje. En emulsjon, ikke en hakket salsa.
+
+### Ingredienser
+
+- 4–5 jalapeño
+- 1 stor bunt koriander
+- 2 eggeplommer
+- 2 dl olivenolje
+- 1 ts salt
+
+### Fremgangsmåte
+
+1. **Del jalapeñoene i to, fjern frøene** og grovhakk dem med kniv.
+2. **Plukk korianderbladene fra stilkene.** Bruk kun bladene og kutt dem grovt.
+3. **Kjør eggeplommer, koriander, jalapeño, salt og olivenolje** i kjøkkenmaskin eller blender til glatt konsistens.
+
+### Notater
+
+- **Dette er ikke meksikansk salsa verde.** Den originale er tomatillo, løk og chili, hakket eller kokt. Her er navnet lånt til en fransk emulsjon: eggeplommene binder oljen, og resultatet er nærmere en grønn majones enn en salsa. Forvent noe helt annet enn butikkvarianten.
+- **Frøene ut av jalapeñoen.** Fire til fem chilier med frø ville gjort sausen brennende. Uten frø er det smaken av grønn chili som står igjen.
+- **Bare bladene av korianderen.** Stilkene er fiberrike og gir en trevlete saus som ikke blir glatt uansett hvor lenge maskinen går. De har god smak, men hører hjemme i noe kokt.
+- **Rå eggeplommer betyr kort holdbarhet.** Kilden skriver flere dager i kjøleskap; regn med to–tre for sikkerhets skyld. *(Presisert.)*
+- **Kilden foreslår den** til grillede grønnsaker, grillet kjøtt og stekt fisk.
+- **Beslektet:** [T106](#t106-hellstrøms-grønne-olje) er samme grønnfarge uten egg, og [T96](#t96-hellstrøms-guacamole) er den andre grønne meksikanskinspirerte sausen i boka.
+
+---
+
+## T99. Hellstrøms sennepssaus
+
+**Kilde:** Eyvind Hellstrøm, *Grunnboka* (Cappelen Damm, 2025) · **Kjøkken:** Norsk · **Tid:** 15 min · **Porsjoner:** 4 *(ikke oppgitt i kilden)*
+
+Rørosrømme kokt inn og montert med hundre gram kaldt smør. Sennepen kommer i etter at kasserollen er av varmen.
+
+### Ingredienser
+
+- 2½ dl Rørosrømme
+- 100 g meierismør
+- 2–3 ss dijonsennep
+- Saft fra ½ sitron
+- Estragon eller gressløk
+- Salt
+- Et dryss kajennepepper
+
+### Fremgangsmåte
+
+1. **Kok Rørosrømmen i en kasserolle** til en litt tykkere konsistens.
+2. **Pisk inn kaldt smør i terninger mens det koker.**
+3. **Tilsett sitronsaft etter egen smak**, kajennepepper og salt.
+4. **Ta kasserollen av varmen** og visp inn dijonsennep og gressløk eller estragon.
+5. **Sausen skal ikke koke etter at sennepen er tilsatt.**
+
+### Notater
+
+- **Sennepen tåler ikke koking.** De skarpe forbindelsene i dijon brytes ned av varme, og sausen mister både bitt og aroma. Kilden gjentar poenget som en egen setning – det er den viktigste linjen i oppskriften.
+- **Rørosrømme er 35 % fett** og tåler koking uten å skille seg. Lettrømme eller crème fraîche med lavere fettinnhold ostner. Bytter du, velg noe med minst 30 %. *(Lagt til.)*
+- **Kaldt smør i kokende rømme** er samme montering som i en beurre blanc. Kaldt fett i varm væske under pisking gir en blank binding; romtemperert smør legger seg som en oljehinne.
+- **Estragon eller gressløk trekker i hver sin retning.** Estragon gir en fransk, anisaktig saus som kler kylling og fisk; gressløk gir en mildere, nordisk profil.
+- **Beslektet:** [T114](#t114-hellstrøms-beurre-blanc) bruker samme monteringsteknikk med vin i stedet for rømme.
+
+---
+
+## T100. Hellstrøms pesto
+
+**Kilde:** Eyvind Hellstrøm, *Grunnboka* (Cappelen Damm, 2025) · **Kjøkken:** Italiensk · **Tid:** 10 min · **Gir:** ca. 2 dl *(ikke oppgitt i kilden)*
+
+Fem ingredienser i maskinen. Ingen risting av pinjekjernene, ingen morter.
+
+### Ingredienser
+
+- 1 bunt basilikum
+- 3–4 skrelte hvitløkfedd uten spiren
+- 30 g parmesan
+- 2 ss pinjekjerner
+- 1 dl olivenolje
+
+### Fremgangsmåte
+
+1. **Bland alt i en kjøkkenmaskin** og kjør til glatt konsistens.
+
+### Notater
+
+- **Spiren ut av hvitløken.** Med tre–fire fedd rå hvitløk i en kald saus er den grønne kimen tydelig bitter. Kilden nevner det i selve ingredienslisten, ikke bare i fremgangsmåten.
+- **Urisdede pinjekjerner.** Ristede gir en mørkere, nøtteaktigere pesto; rå gir en mildere og mer kremet en. Kilden velger det siste, i motsetning til de fleste.
+- **«Glatt konsistens» er et valg.** Tradisjonell pesto støtes i morter og har tekstur. Maskinkjørt til glatt er en annen saus – jevnere, men uten de små bitene som fester seg til pastaen.
+- **Kilden kaller den «Pesto 1»** i boka, ved siden av «Pesto 2» med smør. Navnene er beskrivende her, siden nummereringen ikke sier noe utenfor boka. *(Presisert.)*
+- **Beslektet:** [Andy Cooks sin pesto (T13)](#t13-pesto) har ristede kjerner og bevisst tekstur, [med smør (T101)](#t101-hellstrøms-pesto-med-smør) er samme oppskrift med smør, og [pestosmør (T90)](#t90-hellstrøms-pestosmør) kombinerer begge.
+
+---
+
+## T101. Hellstrøms pesto med smør
+
+**Kilde:** Eyvind Hellstrøm, *Grunnboka* (Cappelen Damm, 2025) · **Kjøkken:** Italiensk · **Tid:** 10 min · **Gir:** ca. 2,5 dl *(ikke oppgitt i kilden)*
+
+Basilikum og hvitløk kjørt med hundre gram temperert smør. Ingen parmesan, ingen pinjekjerner.
+
+### Ingredienser
+
+- 1 potte eller bunt basilikum
+- 3–4 skrelte hvitløkfedd uten spiren
+- 100 g temperert smør
+- 1 dl olivenolje
+- Salt
+- Kajennepepper
+
+### Fremgangsmåte
+
+1. **Bland alt i en kjøkkenmaskin** og kjør til glatt konsistens.
+
+### Notater
+
+- **Uten parmesan blir dette en urtesmør, ikke en pesto.** Osten er det som gir vanlig pesto salt og umami. Her må saltet og kajennen gjøre hele jobben, og smaken blir renere basilikum.
+- **Temperert smør, ikke kaldt.** Kaldt smør i en maskin med olje gir klumper som aldri blir glatte.
+- **Den stivner i kjøleskapet.** Til forskjell fra [T100](#t100-hellstrøms-pesto) kan denne skjæres i skiver og legges på varm mat – som er hele poenget med smørandelen.
+- **Boka kaller den «Pesto 2».** Forskjellen fra [T90](#t90-hellstrøms-pestosmør) er at pestosmøret har både parmesan og pinjekjerner i tillegg. Tre beslektede oppskrifter i samme bok. *(Presisert.)*
+- **Beslektet:** [Hellstrøms pesto (T100)](#t100-hellstrøms-pesto), [pestosmør (T90)](#t90-hellstrøms-pestosmør) og [persillesmør (T111)](#t111-hellstrøms-persillesmør) er de nærmeste slektningene.
+
+---
+
+## T102. Hellstrøms gremolata
+
+**Kilde:** Eyvind Hellstrøm, *Grunnboka* (Cappelen Damm, 2025) · **Kjøkken:** Italiensk · **Tid:** 10 min · **Gir:** ca. 1 dl *(ikke oppgitt i kilden)*
+
+Tre urter og sitrusskall kjørt glatt med olivenolje. Ingen hvitløk.
+
+### Ingredienser
+
+- 2–3 ss hakket basilikum
+- 2–3 ss hakket persille
+- 2–3 ss hakket mynte
+- ½ ts revet sitronskall, eller skall fra appelsin eller kumquat
+- ½ dl olivenolje
+- Salt
+
+### Fremgangsmåte
+
+1. **Rens urtene for stilker** og kutt sitronskallet fint.
+2. **Kjør alt i kjøkkenmaskin med olivenoljen** til glatt konsistens.
+
+### Notater
+
+- **Klassisk gremolata har hvitløk, og denne har det ikke.** Den milanesiske originalen er persille, sitronskall og hvitløk, hakket tørt og strødd over osso buco. Her er hvitløken byttet mot mynte og basilikum, og alt er kjørt til en saus med olje.
+- **Kumquat er det mest interessante alternativet.** Hele frukten kan brukes – skallet er søtt og fruktkjøttet syrlig, motsatt av sitron. Får du tak i den, gir den en gremolata med langt mer sødme.
+- **Bare det gule av sitronskallet.** Det hvite under er bittert, og i en saus med bare ½ ts skall merkes det umiddelbart.
+- **Kilden kaller den en saus**, ikke et drys. Det er et brudd med tradisjonen, og betyr at den kan skjees ut ved siden av i stedet for å strøs over.
+- **Beslektet:** [T89](#t89-hellstrøms-sitron-i-salt) nevner gremolata som bruksområde, og [nr. 169](#169-braisert-lammeskank-med-gremolata) er retten den klassisk hører til.
+
+---
+
+## T103. Hellstrøms tzatziki
+
+**Kilde:** Eyvind Hellstrøm, *Grunnboka* (Cappelen Damm, 2025) · **Kjøkken:** Gresk · **Tid:** 25 min · **Porsjoner:** 4 *(ikke oppgitt i kilden)*
+
+Et halvt kilo agurk saltet, avvannet og blandet med bare tre–fire spiseskjeer yoghurt. Serveres iskald på ristet bagett.
+
+### Ingredienser
+
+- 500 g agurk (2 slangeagurk)
+- 3–4 ss tykk gresk yoghurt
+- 1 ss hakket frisk mynte
+- 1 ss hakket persille
+- 1 ss hakket frisk dill
+- En knivspiss chilipepper
+- Limesaft
+- Salt
+
+**Til servering**
+
+- 1 bagett, skåret på langs og toastet
+
+### Fremgangsmåte
+
+1. **Skrell agurkene, men behold noe av det grønne skallet.**
+2. **Kutt dem i tynne skiver og dryss på salt.** La stå i **ca. 15 minutter**.
+3. **Skyll av saltet** og tørk agurkskivene på kjøkkenpapir.
+4. **Bland med yoghurt, friske urter og chili.**
+5. **Smak til med limesaft.**
+6. **Avkjøl i kjøleskap og server iskald på toast.**
+
+### Notater
+
+- **Saltingen er ikke krydring, den er avvanning.** Agurk er over 95 % vann. Uten de femten minuttene renner væsken ut i yoghurten og du sitter igjen med en tynn suppe innen en halvtime.
+- **Skyll saltet av etterpå.** Agurken har trukket til seg mer enn den skal ha. Hopper du over skyllingen, blir retten usspiselig salt.
+- **Skiver, ikke revet.** De fleste tzatzikioppskrifter river agurken. Skiver gir en helt annen tekstur – dette er nærmere en agurksalat med yoghurt enn en dipp.
+- **Tre–fire spiseskjeer yoghurt til et halvt kilo agurk** er svært lite. Yoghurten er et bindemiddel her, ikke basen.
+- **Lime, ikke sitron.** Uvanlig i en gresk saus, og det trekker den mot noe friskere og mer moderne.
+- **Beslektet:** [nr. 75](#75-pannestekt-laks-med-tzatziki-og-ris-lavfodmap) bruker tzatziki som tilbehør til laks.
+
+---
+
+## T104. Hellstrøms aioli
+
+**Kilde:** Eyvind Hellstrøm, *Grunnboka* (Cappelen Damm, 2025) · **Kjøkken:** Provençalsk · **Tid:** 10 min · **Gir:** ca. 3,5 dl *(ikke oppgitt i kilden)*
+
+Hvitløk, eggeplommer og tre desiliter olivenolje kjørt tykt med stavmikser.
+
+### Ingredienser
+
+- 2–3 hvitløkfedd
+- 2 eggeplommer
+- 3 dl olivenolje
+- Kajennepepper
+- Salt
+
+### Fremgangsmåte
+
+1. **Del hvitløkfeddene i to på langs**, fjern skall og spirer, og knus dem lett med kniv.
+2. **Bland dem med eggeplommene, salt og kajennepepper.**
+3. **Tilsett oljen i blandingen.**
+4. **Kjør alt med stavmikser til tykk konsistens.**
+
+### Notater
+
+- **Dette er hvitløksmajones, ikke aioli i streng forstand.** Den provençalske originalen har ingen egg – bare hvitløk, salt og olje støtt i morter. Eggeplommene gjør emulsjonen langt lettere å få til, og det er derfor de fleste moderne oppskrifter gjør det slik. Se [T15](#t15-aioli) for versjonen uten egg.
+- **All oljen i på én gang.** Stavmikserversjonen tåler det som pisking ikke gjør: mikseren bygger emulsjonen nedenfra og opp, og oljen trekkes inn gradvis av seg selv. Skal du piske for hånd, må den derimot spes.
+- **Ren olivenolje gir en kraftig aioli.** Tre desiliter av en fruktig olje er mye smak; bruk en mild olivenolje eller bland med nøytral olje hvis den blir for dominerende. *(Lagt til.)*
+- **Spirene ut.** Med hvitløken rå og i sentrum av retten er den grønne kimen ikke til å overse.
+- **Beslektet:** [T15](#t15-aioli) er den eggfrie originalen, og [T105](#t105-hellstrøms-majones) er den samme emulsjonen uten hvitløk.
+
+---
+
+## T105. Hellstrøms majones
+
+**Kilde:** Eyvind Hellstrøm, *Grunnboka* (Cappelen Damm, 2025) · **Kjøkken:** Fransk · **Tid:** 10 min · **Gir:** ca. 3 dl *(ikke oppgitt i kilden)*
+
+Klassisk pisket majones der eddiken kommer inn til slutt, etter at emulsjonen står.
+
+### Ingredienser
+
+- 2 eggeplommer
+- 2 ts dijonsennep
+- 2–3 dl olje (solsikke-, jordnøtt- eller druekjerneolje, eventuelt olivenolje)
+- Saft fra ¼ sitron
+- 1 ss vineddik (eplesidereddik, sherryeddik e.l.)
+- Kajennepepper
+- Hvit pepper
+- Salt
+
+### Fremgangsmåte
+
+1. **Visp sammen eggeplommer, dijonsennep, hvit pepper, salt og sitronsaft.**
+2. **Spe med olje litt etter litt** til det blir en tykkere konsistens.
+3. **Tilsett vineddiken.**
+4. **Smak til med salt og kajennepepper.**
+
+### Notater
+
+- **Eddiken helt til slutt.** Syre tidlig i prosessen gjør blandingen tynnere og emulsjonen mer sårbar. Når majonesen først står, tåler den å tynnes ut med en spiseskje uten å skille seg – og da justerer den smaken i stedet for å hindre bindingen.
+- **Sennepen er ikke bare smak.** Dijon inneholder emulgatorer som stabiliserer bindingen mellom olje og plomme. To teskjeer er nok til å gjøre majonesen langt mer tilgivende.
+- **Nøytral olje er hovedanbefalingen.** Kilden setter olivenolje i parentes til slutt, og med grunn: kraftig olivenolje blir bitter når den piskes i en emulsjon.
+- **Skiller den seg, kan den reddes.** Start på nytt med en fersk eggeplomme og pisk den skilte massen inn i den, litt etter litt. *(Lagt til.)*
+- **Beslektet:** [majones (T122)](#t122-majones) er stavmikserversjonen i høyt glass, [Hellstrøms aioli (T104)](#t104-hellstrøms-aioli) er samme emulsjon med hvitløk, og [Hellstrøms tartarsaus (T93)](#t93-hellstrøms-tartarsaus) bygger videre på den.
+
+---
+
+## T106. Hellstrøms grønne olje
+
+**Kilde:** Eyvind Hellstrøm, *Grunnboka* (Cappelen Damm, 2025) · **Kjøkken:** Fransk · **Tid:** 15 min · **Gir:** ca. 2 dl *(ikke oppgitt i kilden)*
+
+Fire bunter urter kjørt med olivenolje og silt gjennom filter til en klar, grønn olje.
+
+### Ingredienser
+
+- 1 bunt basilikum
+- 1 bunt kruspersille
+- 1 bunt koriander
+- 1 bunt estragon
+- 2–3 dl olivenolje
+- Salt
+
+### Fremgangsmåte
+
+1. **Rens urtene for stilker** og hakk dem grovt med kniv.
+2. **Kjør alt i kjøkkenmaskin** og spe med olivenolje, litt etter litt.
+3. **Tilsett et dryss salt** og kjør til en glatt, grønn saus.
+4. **Sil gjennom en fin sil eller et filter.**
+
+### Notater
+
+- **Silingen er det som skiller olje fra saus.** Uten den har du en urtepuré. Gjennom et kaffefilter eller et klede renner en klar, intenst grønn olje som kan dryppes over en tallerken uten å legge seg som en klump.
+- **Fire bunter er mye urter.** Det er nettopp derfor fargen blir så kraftig – og hvorfor det lønner seg å lage full porsjon selv om du bare trenger litt.
+- **Filtreringen tar tid.** Regn med en halvtime hvis den skal renne av seg selv. Presser du, følger partiklene med og oljen blir grumsete. *(Lagt til.)*
+- **Best nylaget, tross holdbarheten.** Kilden oppgir flere uker i kjøleskap, men sier samtidig at den er best fersk. Fargen blekner gradvis.
+- **Estragon i en grønn olje er det franske grepet.** De tre andre urtene er nøytrale nok til å bære farge; estragonen er den som gir olja karakter.
+- **Beslektet:** [T98](#t98-hellstrøms-salsa-verde) er samme farge bundet med egg, og [T97](#t97-hellstrøms-spinatsaus) er den varme grønne sausen.
+
+---
+## T107. Hellstrøms vinaigrette med soya
+
+**Kilde:** Eyvind Hellstrøm, *Grunnboka* (Cappelen Damm, 2025) · **Kjøkken:** Asiatisk-inspirert · **Tid:** 5 min · **Gir:** ca. 1 dl
+
+Fire ingredienser vispet sammen. Soyasaus i stedet for eddik som syre og salt.
+
+### Ingredienser
+
+- 2 ss sesamolje
+- 2 ss olivenolje
+- 2–3 ss soyasaus
+- Saften fra 1 lime
+
+### Fremgangsmåte
+
+1. **Bland sammen alle ingrediensene med visp.**
+
+### Notater
+
+- **Forholdet er nesten én til én, ikke tre til én.** En klassisk vinaigrette er tre deler olje til én del syre. Her er det fire spiseskjeer olje mot to–tre soya pluss limesaft – langt syrligere og saltere, og mer en dressing enn en vinaigrette.
+- **Sesamolje er en smakssetter, ikke en baseolje.** To spiseskjeer er grensen; mer og den overdøver alt annet. Den skal heller ikke varmes.
+- **Soyaen erstatter saltet.** Ikke tilsett salt i tillegg uten å smake først.
+- **Denne skiller seg fort.** Uten sennep eller annen emulgator legger oljen seg på toppen i løpet av minutter. Visp rett før servering. *(Lagt til.)*
+- **Beslektet:** [T108](#t108-hellstrøms-vinaigrette-med-balsamico) er samme sjanger, og [T116](#t116-hellstrøms-soyasmørsaus) bruker soya i en varm saus.
+
+---
+
+## T108. Hellstrøms vinaigrette med balsamico
+
+**Kilde:** Eyvind Hellstrøm, *Grunnboka* (Cappelen Damm, 2025) · **Kjøkken:** Italiensk · **Tid:** 5 min · **Gir:** ca. ¾ dl
+
+Tre ingredienser. Kvaliteten på eddiken er hele oppskriften.
+
+### Ingredienser
+
+- ½ dl olivenolje
+- 2 ss balsamico vecchio
+- Salt
+
+### Fremgangsmåte
+
+1. **Bland alle ingrediensene med en visp.**
+
+### Notater
+
+- **«Vecchio» betyr lagret**, og det er ikke en detalj. Ung industribalsamico er tynn, sur og tilsatt karamell; lagret balsamico er sirupsaktig og søt. Med bare tre ingredienser er det ingenting å gjemme en dårlig eddik bak.
+- **Ingen sennep, ingen løk.** Dette er en ren olje-og-syre-blanding som skal la balsamicoen komme fram.
+- **Forholdet er ca. tre til én**, som en klassisk vinaigrette – men balsamico er mildere enn vineddik, så den oppleves søtere enn tallene tilsier.
+- **Beslektet:** [T127](#t127-vinaigrette) er samlingens klassiske grunnvinaigrette, og [T107](#t107-hellstrøms-vinaigrette-med-soya) er den asiatiske varianten.
+
+---
+
+## T109. Hellstrøms franske vinaigrette med dijon
+
+**Kilde:** Eyvind Hellstrøm, *Grunnboka* (Cappelen Damm, 2025) · **Kjøkken:** Fransk · **Tid:** 5 min · **Gir:** ca. 1,2 dl
+
+To spiseskjeer dijon emulgerer oljen inn i eddiken. Sjalottløken kommer i etter at bindingen står.
+
+### Ingredienser
+
+- 2 ss sherryeddik, vineddik eller eplesidereddik
+- 2 ss dijonsennep
+- 6 ss nøytral olje (druekjerne-, jordnøtt-, raps- eller solsikkeolje)
+- 1 ss finhakket sjalottløk
+- Salt
+- Pepper
+
+### Fremgangsmåte
+
+1. **Bland eddik og salt.**
+2. **Tilsett dijonsennep** og visp inn oljen litt etter litt til tykkere konsistens.
+3. **Tilsett sjalottløken** og smak til med pepper.
+
+### Notater
+
+- **Saltet løses i eddiken før noe annet.** Salt løser seg ikke i olje. Kommer det i etter at emulsjonen står, blir det liggende som korn.
+- **To spiseskjeer dijon er mye**, og det er derfor denne binder seg og holder seg bundet. Med så mye sennep er den nærmere en tynn majones enn en vinaigrette.
+- **Sjalottløken sist.** Går den i før oljen, hindrer bitene emulsjonen i å bygge seg. Etterpå er den bare tekstur og smak.
+- **Nøytral olje er valgt med hensikt.** Sennep og olivenolje sammen blir lett bittert; en smaksnøytral olje lar sennepen og eddiken stå alene.
+- **Boka kaller den «Fransk vinaigrette 1».** Navnet her beskriver forskjellen fra [T110](#t110-hellstrøms-franske-vinaigrette-med-kajenne). *(Presisert.)*
+- **Beslektet:** [T110](#t110-hellstrøms-franske-vinaigrette-med-kajenne) er storporsjonen uten sennep, og [T127](#t127-vinaigrette) er grunnversjonen.
+
+---
+
+## T110. Hellstrøms franske vinaigrette med kajenne
+
+**Kilde:** Eyvind Hellstrøm, *Grunnboka* (Cappelen Damm, 2025) · **Kjøkken:** Fransk · **Tid:** 5 min · **Gir:** ca. 4 dl
+
+Storporsjon uten sennep. Eddik og olje blandes hver for seg før de møtes.
+
+### Ingredienser
+
+- 1 dl vineddik (sherry-, eplesider- eller hvitvinseddik)
+- 3 dl matolje (soya-, druekjerne-, jordnøtt-, solsikke- eller olivenolje, eller en kombinasjon)
+- 1 ss finhakket sjalottløk
+- Salt
+- Hvit pepper
+- Kajennepepper
+
+### Fremgangsmåte
+
+1. **Bland salt og vineddik.**
+2. **Bland olje og pepper.**
+3. **Bland disse to elementene**, og tilsett finhakket sjalottløk.
+
+### Notater
+
+- **De to blandingene lages hver for seg med hensikt.** Salt løses i eddik, pepper løses i olje. Blander du alt på én gang, får du ujevn fordeling av begge deler – dette er den franske grunnmetoden.
+- **Uten sennep binder den seg ikke.** Denne skal skilles og ristes før bruk. Det er ikke en feil, det er en annen type dressing enn [T109](#t109-hellstrøms-franske-vinaigrette-med-dijon).
+- **Nøyaktig 3 til 1**, det klassiske forholdet. Kilden holder seg til fasiten her.
+- **Fire desiliter er en storporsjon** ment for oppbevaring. Uten egg og sennep holder den seg i ukevis i kjøleskap.
+- **Kajenne i en vinaigrette** er kildens signatur – den går igjen i nesten alle sausene i boka, og gir varme uten at retten oppfattes som sterk.
+- **Boka kaller den «Fransk vinaigrette 2».** *(Presisert.)*
+- **Beslektet:** [T109](#t109-hellstrøms-franske-vinaigrette-med-dijon) er den emulgerte lillesøsteren.
+
+---
+
+## T111. Hellstrøms persillesmør
+
+**Kilde:** Eyvind Hellstrøm, *Grunnboka* (Cappelen Damm, 2025) · **Kjøkken:** Fransk · **Tid:** 15 min + kjøling · **Gir:** ca. 300 g
+
+Et kvart kilo smør og en stor bunt kruspersille kjørt til fin, grønn farge og rullet til pølse.
+
+### Ingredienser
+
+- 250 g smør
+- 1 stor bunt kruspersille
+- 2 hvitløkfedd
+- Kajennepepper
+
+### Fremgangsmåte
+
+1. **Del smøret i terninger** og la det bli romtemperert.
+2. **Skrell hvitløkfeddene**, del dem i to, fjern den grønne spiren og knus dem med knivbladet.
+3. **Vask persillen** og plukk den fri for grove stilker.
+4. **Ha alt i kjøkkenmaskin** og kjør til god konsistens med fin, grønn farge.
+5. **Rull smøret til en pølse i plastfolie** og oppbevar i kjøleskap eller fryser.
+
+### Notater
+
+- **Kruspersille, ikke bladpersille.** Krus har fastere blad og gir en kraftigere grønnfarge i maskinen. Bladpersille smaker mer, men gir et blekere smør.
+- **«Fin, grønn farge» er ferdigsignalet.** Kjører du for kort, sitter persillen i biter; for lenge, og friksjonsvarmen smelter smøret og fargen slår om i olivenbrunt.
+- **Persillen må være tørr.** Vann fra vaskingen gjør smøret grynete og korter ned holdbarheten. Sentrifuger eller tørk den godt. *(Lagt til.)*
+- **Pølseformen gjør det brukbart.** Skiver skjæres rett fra kjøleskap eller fryser og legges på varmt kjøtt, fisk eller kokte poteter.
+- **Beslektet:** [Hellstrøms rødvinssmør (T112)](#t112-hellstrøms-rødvinssmør) og [Hellstrøms ansjossmør (T91)](#t91-hellstrøms-ansjossmør) er de andre pølsesmørene, og [Hellstrøms mandelpotetpuré (T67)](#t67-hellstrøms-mandelpotetpuré) nevner persillesmør som variant.
+
+---
+
+## T112. Hellstrøms rødvinssmør
+
+**Kilde:** Eyvind Hellstrøm, *Grunnboka* (Cappelen Damm, 2025) · **Kjøkken:** Fransk · **Tid:** ca. 40 min + kjøling · **Gir:** ca. 350 g
+
+Tre–fire desiliter rødvin kokt inn med sjalottløk til marmelade, og blandet inn i et kvart kilo smør.
+
+### Ingredienser
+
+- 250 g smør
+- 3–4 finhakkede sjalottløk
+- 3–4 dl rødvin
+- 1 ss olivenolje
+- 1 ss hakket frisk timian
+- 1 ss hakket frisk estragon
+- Salt
+- Kvernet hvit pepper
+
+### Fremgangsmåte
+
+1. **Kutt smøret i terninger** og la det få romtemperatur.
+2. **Fres finhakket sjalottløk i olivenolje** til den er blank og bløt.
+3. **Tilsett rødvin og kok inn til marmeladekonsistens.**
+4. **Avkjøl** og bland med smøret i kjøkkenmaskin eller blender.
+5. **Tilsett timian, estragon, salt og hvit pepper** og kjør til jevn og glatt konsistens.
+6. **Rull til en pølse i plastfolie** og oppbevar i kjøleskap eller fryser.
+
+### Notater
+
+- **Reduksjonen må være helt kald.** Lunken vin smelter smøret i maskinen, og du får en skilt masse som aldri blir glatt igjen. Dette er trinnet folk hopper over.
+- **«Marmeladekonsistens» betyr nesten tørt.** Tre–fire desiliter vin skal ned til noen spiseskjeer. Er det mer væske igjen, blir smøret løst og lar seg ikke rulle.
+- **Alkoholen koker bort, syren blir igjen.** Det er syren som gjør at smøret ikke oppleves fett, og som kler rødt kjøtt.
+- **Urtene inn etter smøret.** Timian og estragon i den kokende vinen ville mistet aromaen. Her går de i på slutten, i kald masse.
+- **Beslektet:** [T111](#t111-hellstrøms-persillesmør) og [T91](#t91-hellstrøms-ansjossmør) er de andre pølsesmørene.
+
+---
+
+## T113. Hellstrøms beurre noisette
+
+**Kilde:** Eyvind Hellstrøm, *Grunnboka* (Cappelen Damm, 2025) · **Kjøkken:** Fransk · **Tid:** 5 min · **Gir:** ca. 80 g
+
+Én ingrediens. Smøret røres med visp til det lukter hasselnøtt, og kasserollen tas av varmen mens du fortsetter å røre.
+
+### Ingredienser
+
+- 100 g smør i terninger
+
+### Fremgangsmåte
+
+1. **Ha smøret i en tykkbunnet kasserolle** og sett den på varmen.
+2. **Rør i smøret med visp** til det får lys brun farge og aroma av hasselnøtter.
+3. **Ta kasserollen av varmen og rør videre med visp** for å unngå brent smør.
+
+### Notater
+
+- **Kasserollen fortsetter å steke etter at den er av platen.** Det er derfor kilden ber deg røre videre. Restvarmen i en tykkbunnet kasserolle er nok til å ta smøret fra nøttebrunt til svidd på et halvminutt.
+- **Tykkbunnet er ikke en anbefaling.** Tynn bunn gir lokale hetepunkter der melkeproteinene brenner seg lenge før resten er brunet.
+- **Aromaen kommer før fargen er ferdig.** Lukten av hasselnøtt er det pålitelige signalet – fargen er vanskelig å bedømme i en mørk kasserolle.
+- **Navnet betyr «hasselnøttsmør»**, ikke at det er smør av hasselnøtter. Det viser til aromaen som oppstår når melkeproteinene brunes.
+- **Beslektet:** [brunet smør og ghee (T126)](#t126-brunet-smør-og-ghee) dekker samme teknikk i større porsjon og viser i tillegg hvordan man lager ghee. [Hellstrøms spinatsaus (T97)](#t97-hellstrøms-spinatsaus) og [Hellstrøms soyasmørsaus (T116)](#t116-hellstrøms-soyasmørsaus) bygger begge på nøttebrunt smør.
+
+---
+
+## T114. Hellstrøms beurre blanc
+
+**Kilde:** Eyvind Hellstrøm, *Grunnboka* (Cappelen Damm, 2025) · **Kjøkken:** Fransk · **Tid:** ca. 20 min · **Porsjoner:** 4 *(ikke oppgitt i kilden)*
+
+Hvitvin kokt inn til en fjerdedel, og 150 g kaldt smør pisket inn uten at sausen koker. To spiseskjeer pisket fløte til slutt gjør den luftig.
+
+### Ingredienser
+
+- 2 ss finhakket sjalottløk
+- 1 ss olivenolje
+- 2–3 dl tørr hvitvin
+- 150 g kaldt smør i terninger
+- Saften av ½ sitron
+- 2 ss pisket kremfløte
+- Salt
+- Hvit pepper eller kajennepepper
+
+### Fremgangsmåte
+
+1. **Fres sjalottløken i olivenolje** i en kasserolle **uten at den tar farge**.
+2. **Tilsett hvitvin og kok inn til ¼.**
+3. **Pisk inn kaldt smør i terninger over middels varme** til fin konsistens, **uten at det koker**.
+4. **Smak til med salt, sitronsaft og hvit pepper eller kajennepepper.**
+5. **Hold sausen varm.**
+6. **Tilsett 2 ss pisket kremfløte** for ekstra luftig saus.
+
+### Notater
+
+- **Sausen må aldri koke.** Over ca. 90 grader skiller emulsjonen seg og smøret legger seg som olje på toppen. Dette er den eneste virkelige fallgruven i oppskriften.
+- **Kaldt smør, én terning om gangen.** Hver terning skal være nesten helt innarbeidet før den neste går i. Går det for fort, rekker ikke emulsjonen å bygge seg.
+- **Innkokingen til ¼ er ikke omtrentlig.** Det er syren og den konsentrerte vinen som holder emulsjonen stabil. For mye væske igjen, og smøret har ingenting å binde seg til.
+- **Pisket fløte er en stabilisator forkledd som luft.** Fettet i fløten gjør sausen mer tilgivende hvis den skal holdes varm en stund, i tillegg til at den blir lettere.
+- **Holdes varm, ikke varmes opp igjen.** En beurre blanc tåler å stå lunt i en vannbadeform, men ikke å kjøles ned og varmes på nytt. *(Presisert.)*
+- **Beurre rouge er samme saus med rødvin.** Kilden gir ingen egen oppskrift, men sier: bytt hvitvinen mot rødvin, og bland inn friske, hakkede urter som kjørvel, estragon, persille og gressløk helt til slutt. Resultatet er mørkere og kraftigere, og hører til rødt kjøtt der beurre blanc hører til fisk.
+- **Beslektet:** [T99](#t99-hellstrøms-sennepssaus) bruker samme montering med rømme, og [T86](#t86-hellstrøms-purreløk) er samme prinsipp med vann.
+
+---
+
+## T115. Hellstrøms tomatsaus
+
+**Kilde:** Eyvind Hellstrøm, *Grunnboka* (Cappelen Damm, 2025) · **Kjøkken:** Italiensk · **Tid:** ca. 30 min · **Gir:** ca. 5 dl *(ikke oppgitt i kilden)*
+
+Ett kilo cherrytomater freset på sterk varme og kokt inn i tjue minutter med sherryeddik.
+
+### Ingredienser
+
+- 1 kg cherrytomater
+- 2–3 hvitløkfedd
+- 2–3 ss olivenolje
+- 1–2 ss sherryeddik
+- Salt
+- Kajennepepper
+
+### Fremgangsmåte
+
+1. **Skyll og del cherrytomatene i to.**
+2. **Del hvitløken i to, fjern skallet og spiren**, og snitt den i tynne skiver.
+3. **Varm olivenolje i en vid kjele** og fres hvitløken og tomatene på relativt sterk varme.
+4. **La det koke godt sammen under omrøring med tresleiv i ca. 20 minutter.**
+5. **Tilsett litt vann og sherryeddik underveis** til riktig konsistens.
+6. **Smak til med salt og kajennepepper.**
+7. **Behold som den er, eller sil av** til finere konsistens.
+
+### Notater
+
+- **Cherrytomater i stedet for hermetiske.** De har høyere sukkerinnhold og mindre vann enn vanlige tomater, og gir en søtere saus på kortere tid. Til gjengjeld koster det mer.
+- **Vid kjele, ikke høy gryte.** Stor overflate betyr rask fordampning – det er hele grunnen til at tjue minutter holder.
+- **Sherryeddiken går i underveis, ikke til slutt.** Den kokes delvis inn og blir en del av sausen i stedet for å ligge på toppen som syre.
+- **Skallene blir igjen om du ikke siler.** Cherrytomatskall er tynne, men mange. Kilden lar det være opp til deg; siles den, blir sausen glatt, men du mister volum.
+- **Ingen løk og ingen urter.** Det gjør sausen til en ren tomatsmak, i motsetning til en marinara.
+- **Beslektet:** [T125](#t125-marinara--tomatsausbase) er tomatsausbasen med løk og urter, og [T92](#t92-hellstrøms-vierge-saus) er den kalde tomatsausen.
+
+---
+
+## T116. Hellstrøms soyasmørsaus
+
+**Kilde:** Eyvind Hellstrøm, *Grunnboka* (Cappelen Damm, 2025) · **Kjøkken:** Fransk-japansk · **Tid:** 10 min · **Porsjoner:** 4 *(ikke oppgitt i kilden)*
+
+Nøttebrunt smør tatt av varmen og tilsatt ingefær, soya og sitron. Ingenting kokes etter at smøret er brunet.
+
+### Ingredienser
+
+- 150 g meierismør i terninger
+- 1 ss finhakket hvitløk
+- 1 ss finhakket sjalottløk
+- 1 ss finhakket frisk ingefær
+- 2–3 ss finhakkede friske urter (gressløk, persille eller estragon)
+- 2–3 ss soyasaus
+- Saften fra ½ sitron
+
+### Fremgangsmåte
+
+1. **Brun smøret i en liten kasserolle** under konstant omrøring med visp til lett gyllenbrun farge.
+2. **Ta kasserollen av varmen** og tilsett hvitløk, sjalottløk, ingefær, urter, soyasaus og sitronsaft.
+
+### Notater
+
+- **Alt går i etter at kasserollen er av platen.** Smøret er over 150 grader når det er brunet; ingefær og hvitløk ville svidd seg på sekunder. Restvarmen er nok til å ta råsmaken av dem.
+- **Hvitløken går i sammen med sjalottløken** og ingefæren i punkt 2. *(Flagget og presisert.)*
+- **Soya og brunet smør er samme smaksfamilie.** Begge er resultat av Maillard-reaksjoner, og de forsterker hverandre i stedet for å konkurrere. Det er derfor kombinasjonen fungerer på tvers av kjøkkener.
+- **Sitronsaften kutter fettet.** 150 g smør uten syre blir tungt; en halv sitron er akkurat nok til å gjøre sausen spiselig i mengde.
+- **Lages rett før servering.** Sausen stivner når den kjøles og lar seg ikke varme opp igjen uten å skille seg. *(Lagt til.)*
+- **Beslektet:** [T113](#t113-hellstrøms-beurre-noisette) er det brunede smøret alene, og [T107](#t107-hellstrøms-vinaigrette-med-soya) er den kalde soyavarianten.
+
+---
+
+## T117. Hellstrøms béarnaisesaus
+
+**Kilde:** Eyvind Hellstrøm, *Grunnboka* (Cappelen Damm, 2025) · **Kjøkken:** Fransk · **Tid:** ca. 30 min · **Porsjoner:** 4 *(ikke oppgitt i kilden)*
+
+Reduksjonen kokes til marmelade, plommene piskes til dobbelt volum med vann, og de to møtes over varme. Smøret suppleres med en desiliter olivenolje.
+
+### Ingredienser
+
+- 2 eggeplommer
+- 1 dl vann
+- 2 dl tørr hvitvin
+- 1 ss finhakket sjalottløk
+- 100 g meierismør
+- 1 dl olivenolje
+- Saft fra ½ sitron
+- 1 ss frisk hakket estragon
+- 1 ss frisk hakket kjørvel
+- Hvit pepper
+- Salt
+
+### Fremgangsmåte
+
+1. **Fres sjalottløken i olivenolje** og tilsett hvitvinen. **Kok inn til marmeladekonsistens** uten at det tar farge.
+2. **Ta kasserollen av platen og tilsett halvparten av vannet.**
+3. **Bland den andre halvparten med eggeplommene.** Pisk til det skummer og **dobler seg i volum**.
+4. **Bland dette sammen med den innkokte marmeladen.**
+5. **Pisk over varme** til god konsistens, uten at massen blir til eggerøre.
+6. **Bland inn kaldt smør i terninger, sitronsaft og olivenolje.**
+7. **Bland inn urtene** og smak til med salt og hvit pepper.
+8. **Hold sausen varm** og juster med noen dråper vann hvis den blir for tykk.
+
+### Notater
+
+- **Plommene piskes til dobbelt volum før de møter reduksjonen.** Det er dette trinnet som gir sausen luft og gjør den lettere enn en tung smøremulsjon. Hopper du over det, får du en béarnaise som ligger flatt på tallerkenen.
+- **«Uten at massen blir til eggerøre» er hele risikoen.** Over ca. 70 grader koagulerer plommene. Pisk kontinuerlig og ta kasserollen av varmen med jevne mellomrom – det er ikke mulig å redde en saus som først har skilt seg.
+- **Olivenolje ved siden av smøret** er kildens eget avvik. Én desiliter olje til hundre gram smør gjør sausen friskere og litt mindre mettende enn den klassiske versjonen.
+- **Vannet deles i to med hensikt.** Halvparten tynner reduksjonen så den ikke er for konsentrert; halvparten trengs for å piske plommene luftige. Samme mengde, to helt ulike jobber.
+- **Hollandaise er samme saus uten urter.** Kilden gir ingen egen oppskrift, men sier: utelat estragon og kjørvel, og tilsett eventuelt litt mer sitronsaft. Resultatet er den nøytrale grunnsausen som hører til fisk, egg og asparges, mens béarnaisen hører til storfe.
+- **Beslektet:** [nr. 145](#145-hvit-asparges-med-shiitake-og-brunet-hollandaise) bruker en brunet hollandaise, og [T114](#t114-hellstrøms-beurre-blanc) er den eggfrie smøremulsjonen.
+
+---
+
+## T118. Hellstrøms brune saus
+
+**Kilde:** Eyvind Hellstrøm, *Grunnboka* (Cappelen Damm, 2025) · **Kjøkken:** Norsk · **Tid:** ca. 30 min · **Gir:** ca. 5 dl *(ikke oppgitt i kilden)*
+
+Brun saus uten kraft, uten mel og uten smør. Karamellisert løk kokt ut med soya, worcestershire og honning, og mikset glatt.
+
+### Ingredienser
+
+- 2–3 løk
+- 2 ss olivenolje
+- 1 ss honning
+- 1 ss sherryeddik
+- 1 ss tomatpuré
+- 1 ss Worcestershiresaus
+- 1–2 ss soyasaus
+- 5–6 dl vann
+- En klype salt
+- En knivspiss kajennepepper
+
+### Fremgangsmåte
+
+1. **Skrell og finhakk løken.** Fres den i olivenolje på middels varme til den blir gyllenbrun, **ca. 10–12 minutter**.
+2. **Tilsett sherryeddik, tomatpuré, honning, Worcestershiresaus, soyasaus og vann.**
+3. **Kok sammen til god konsistens** og kjør med stavmikser.
+4. **Smak til med salt og kajennepepper.**
+
+### Notater
+
+- **Løken er både smaken og jevningen.** Uten mel eller kraft er det den mikste løken som gir sausen kropp. Derfor er de ti–tolv minuttene med bruning avgjørende – rå løk gir en tynn, søtlig saus.
+- **Soya og worcestershire erstatter kjøttkraften.** Begge er gjæret og fulle av glutamat, og gir den umamien en ekte brun saus henter fra beinkraft. Det er en snarvei, og kilden later ikke som noe annet.
+- **Honning og sherryeddik hører sammen.** Sødme uten syre blir klissete; syre uten sødme blir skarpt. Én spiseskje av hver er balansen.
+- **Vil du ha den ordentlige veien**, er [G25](#g25-hellstrøms-kalvekraft) utgangspunktet – kalvekraft kokt til demi-glace er den brune sausen denne imiterer.
+- **Beslektet:** [T115](#t115-hellstrøms-tomatsaus) bruker samme prinsipp om at grønnsaken selv skal binde sausen.
+
+---
+
+## T119. Hellstrøms fløtesaus
+
+**Kilde:** Eyvind Hellstrøm, *Grunnboka* (Cappelen Damm, 2025) · **Kjøkken:** Fransk · **Tid:** ca. 25 min · **Porsjoner:** 4 *(ikke oppgitt i kilden)*
+
+Sjampinjongene koker med i sausen, tas ut før miksingen og legges tilbake rett før servering.
+
+### Ingredienser
+
+- 200 g sjampinjong (hvite og små)
+- 1–2 sjalottløk
+- 1–2 ss olivenolje
+- 1 dl hvitvin
+- 1 dl fløte
+- 2 dl rømme
+- 2 kvister estragon (knyttet sammen med hyssing)
+- Saften av ½ sitron
+- 1–2 ss smør
+- Salt
+
+### Fremgangsmåte
+
+1. **Fres sjampinjongene i varm olivenolje** og tilsett finhakket sjalottløk.
+2. **Tilsett hvitvin og kok inn.**
+3. **Tilsett fløte, rømme, estragon og sitronsaft** og la det småkoke i **ca. 5 minutter**.
+4. **Ta sjampinjongene ut av sausen** og sett dem til side.
+5. **Kjør sausen med stavmikser** til glatt og tykkere konsistens.
+6. **Tilsett 1–2 ss smør** og smak til med salt og eventuelt mer sitronsaft.
+7. **Ha sjampinjongene tilbake** rett før servering.
+
+### Notater
+
+- **Soppen ut, saus mikset, sopp inn igjen.** Poenget er å få soppsmaken inn i sausen uten å miste bitene. Mikser du alt sammen, får du en grå soppsuppe; utelater du soppen fra kokingen, smaker sausen bare av fløte.
+- **Estragonkvistene knyttes med hyssing** nettopp fordi de skal ut igjen. Løse blader i en saus som skal mikses blir grønne prikker.
+- **To desiliter rømme mot én fløte** er et nordisk grep i en fransk saus. Rømmen gir syre som fløte alene mangler, og gjør sausen mindre tung.
+- **Rømme tåler ikke hard koking.** Fem minutter på småkok er trygt; fosskok får den til å skille seg. *(Presisert.)*
+- **Beslektet:** [T43](#t43-kantarellsaus) er soppsaus med kantareller, og [T99](#t99-hellstrøms-sennepssaus) bruker rømme på samme måte.
+
+---
+
+## T120. Hellstrøms universalsaus
+
+**Kilde:** Eyvind Hellstrøm, *Grunnboka* (Cappelen Damm, 2025) · **Kjøkken:** Fransk-asiatisk · **Tid:** 5 min · **Gir:** ca. 1 dl
+
+Fire ingredienser, ingen varme. Kildens svar på hva man har til alt.
+
+### Ingredienser
+
+- 4 ss olivenolje
+- 2–3 ss soyasaus (Kikkoman)
+- 1–2 sjalottløk
+- 2–3 ss friske urter (estragon, kjørvel, gressløk, bladpersille, dill eller koriander)
+- Salt og pepper
+
+### Fremgangsmåte
+
+1. **Finhakk urter og sjalottløk.**
+2. **Bland med olivenolje og soyasaus.**
+3. **Smak til med salt og pepper.**
+
+### Notater
+
+- **Kilden navngir merket.** Kikkoman er naturlig brygget og mildere enn de fleste alternativene – i en saus med bare fire ingredienser merkes forskjellen umiddelbart.
+- **Smak før du salter.** Soyasausen bringer med seg rikelig med salt. Instruksen om å smake til er ikke en formalitet her.
+- **Urtevalget avgjør hva sausen er.** Estragon og kjørvel gir en fransk saus; koriander gjør den asiatisk; dill trekker den mot fisk. Samme grunnoppskrift, tre ulike retter.
+- **Lages rett før bruk.** Hakkede urter i olje mørkner i løpet av en time. *(Lagt til.)*
+- **Beslektet:** [T107](#t107-hellstrøms-vinaigrette-med-soya) er samme idé med lime og sesam, og [T116](#t116-hellstrøms-soyasmørsaus) er den varme utgaven.
+
+---
+
+## T121. Hellstrøms bechamelsaus
+
+**Kilde:** Eyvind Hellstrøm, *Grunnboka* (Cappelen Damm, 2025) · **Kjøkken:** Fransk · **Tid:** 20 min · **Gir:** ca. 8 dl
+
+Hvit saus der en tredjedel av væsken er kremfløte. Melk og fløte varmes før de går i jevningen.
+
+### Ingredienser
+
+- 40 g meierismør
+- 40 g hvetemel
+- 5 dl helmelk
+- 2½ dl kremfløte
+- Salt
+- Kajennepepper
+- Muskatnøtt *(valgfritt)*
+
+### Fremgangsmåte
+
+1. **Smelt smøret i en liten kjele** og rør inn hvetemelet.
+2. **Varm melk og kremfløte** og tilsett i smør- og melblandingen før oppkok.
+3. **Kok på middels varme under konstant omrøring** i noen minutter, til en tykkere saus.
+4. **Smak til med salt og kajennepepper**, sil av og hold sausen varm.
+
+### Notater
+
+- **Fløten gjør dette til noe annet enn en bechamel.** Klassisk bechamel er melk alene. Med 2½ dl fløte til 5 dl melk er sausen langt rikere og tåler mindre koking før den blir tung.
+- **Væsken må være varm.** Kald melk i varm jevning gir klumper som ingen visping fjerner. Kilden spesifiserer det, og det er den vanligste feilen.
+- **Forholdet er tynnere enn standarden.** 40 g smør og mel til 7,5 dl væske gir en løs saus; G8 bruker 70/70 til én liter, altså tykkere. Velg etter bruk – denne kler grateng, den tykkere kler lasagne.
+- **Kajenne i stedet for hvit pepper** er kildens signatur og går igjen gjennom hele boka.
+- **Silingen fanger eventuelle klumper.** Et lite sikkerhetsnett som er verdt de ti sekundene.
+- **Beslektet:** [T124](#t124-bechamel) er den klassiske versjonen uten fløte, med forholdstallet verdt å lære utenat.
+
+---
+
+## T122. Majones
+
+**Kilde:** Andy Cooks (andy-cooks.com) · **Kjøkken:** Fransk · **Tid:** 10 min · **Gir:** ca. 3,5 dl *(kilden oppgir 8 porsjoner)*
+
+Klassisk majones lagd med stavmikser i et høyt glass – metoden som gjør emulsjonen nærmest idiotsikker. Kilden ser den uttrykkelig som en base å smaksette videre: sitron, chili, harissa eller for den saks skyld Vegemite.
+
+### Ingredienser
+
+- 2 eggeplommer, romtempererte *(«romtemperert» lagt til – se notat)*
+- 1 ts dijonsennep
+- Saften av ½ sitron — ca. 20 ml *(mengde lagt til)*
+- 300 ml olje, valgfri type *(se notat om oljevalg)*
+- Salt etter smak — start med ¼ ts *(mengde lagt til)*
+
+### Fremgangsmåte
+
+1. **Alt i glasset.** Ha eggeplommer, dijonsennep, olje og sitronsaft i et høyt, smalt glass eller en begerkanne.
+2. **Kjør fra bunnen.** Sett stavmikseren helt ned i bunnen og start der. Flytt den gradvis oppover mens du kjører, så oljen emulgerer inn i plommene. Ta deg tid – det er hastverk som får den til å skille seg. *(Se notat: hold mikseren i ro i bunnen til emulsjonen har tatt tak, før du begynner å løfte.)*
+3. **Er den for tykk**, spe med litt romtemperert vann til ønsket konsistens.
+4. **Smak til med salt.** Da er majonesen ferdig.
+
+### Notater
+
+- **Oljevalget er viktigere enn kilden lar det høres ut som.** «Olje du selv vil ha» er sant for nøytrale oljer – raps, solsikke, druekjerne – men **ekstra virgin olivenolje blir bitter i stavmikser**. Bladene sprenger olivenens polyfenoler, og resultatet smaker vondt uansett hvor godt du emulgerer. Vil du ha olivenoljesmak, bruk nøytral olje til emulsjonen og rør inn 2–3 ss olivenolje til slutt for hånd. Andy sier det samme selv i [T19](#t19-sprø-potetsalat-med-yuzumajones): olivenoljen hører ikke hjemme i majonesen.
+- **Hold stavmikseren i ro til emulsjonen har tatt tak.** Kilden sier «start i bunnen og beveg deg oppover», men ikke at du bør stå stille de første 10–15 sekundene, til det er dannet en tykk, hvit kjerne rundt hodet. Løfter du for tidlig, drar du ublandet olje ned i plommene og majonesen skiller seg. Dette er lagt til.
+- **Slik redder du en skilt majones** – kilden sier bare at du skal unngå det, ikke hva du gjør når det skjer. Ha en fersk eggeplomme i et rent glass og spe den skilte blandingen ned i den, litt om gangen, mens du kjører. Da tar den seg opp igjen. *(Lagt til.)*
+- **Romtempererte plommer emulgerer lettere.** Kjøleskapskalde egg gir tregere emulsjon og større fare for skilling. Ta dem ut 20 minutter før.
+- **Rå eggeplomme er uproblematisk i Norge.** Norske egg har kontrollert salmonellastatus, og rå plommer i majones regnes som trygt her – i motsetning til i mange andre land. Er du gravid eller har nedsatt immunforsvar, bruk pasteurisert eggeplomme.
+- **Eggstørrelsen påvirker forholdet.** 2 plommer til 300 ml olje er en trygg ratio – en plomme takler godt over 150 ml. Bruker du norske L-egg med store plommer, blir majonesen litt tykkere og fastere; med M-egg litt løsere. Vann fikser begge deler.
+- **Sitronmengden varierer mye.** «Saften av ½ sitron» kan være alt fra 10 til 25 ml, og syren er det som gjør majonesen frisk i stedet for fet. Start med ca. 20 ml, smak, og juster. Hvitvinseddik gir en renere, skarpere syre om du vil ha den mer i klassisk retning.
+- **Dette er en plommemajones**, ikke en med helt egg – derfor blir den tykk og gul. Det er samme prinsipp som japansk **Kewpie**, som også bruker bare plommer. Vil du nærme deg den, bytt sitronen mot riseddik. Se notatet i [nr. 47](#47-enkel-ramen-med-kylling--matkanalen-sin-versjon) om forskjellen på japansk og norsk majones.
+- **Holdbarhet:** 3–4 dager i kjøleskap i tett glass, siden plommene er rå. Kilden sier ingenting om oppbevaring. *(Lagt til.)* Den skiller seg ikke i kjøleskapet, men blir stivere – rør den løs, eventuelt med en skvett vann.
+- **Som base:** kildens egne forslag er sitron, chili, harissa og Vegemite. I denne samlingen brukes majones videre i den sterke majonesen til [sprø risbiter med laks](#s8-sprø-risbiter-med-laks) og [sushikopper med reker](#s6-sushikopper-med-reker) – sriracha rørt i majones – Rører du inn revet hvitløk, får du hvitløksmajones – det de fleste kaller aioli. Ekte aioli er noe annet og lages helt uten egg; se [T15](#t15-aioli).
+- **Uten stavmikser** går det fint for hånd, men da må oljen dryppes i mens du visper, ikke helles. Regn 10 minutters visping og en fuktig klut under bollen så den står stille.
+
+---
+
+## T123. Saltkaramellsaus
+
+**Kilde:** Yasmine / @thechefmine (TikTok, 26. januar 2023) · **Kjøkken:** Vestlig · **Tid:** 20 min · **Gir:** ca. 3 dl
+
+Tørrkaramell – sukker smeltet uten vann – rørt ut med smør og fløte. Fem ingredienser og tjue minutter, og den holder seg i kjøleskapet i ukevis.
+
+### Ingredienser
+
+- 200 g sukker
+- 98 g smør, i terninger — 7 ss
+- 118 ml kremfløte
+- ½–1 ts salt, etter smak
+- 2 ts vaniljeekstrakt
+
+### Fremgangsmåte
+
+1. **Smelt sukkeret** i en kjele med tykk bunn på middels varme, under stadig omrøring med tresleiv eller slikkepott. Sukkeret klumper seg først, og smelter så ned.
+2. **Smøret i.** Ta kjelen av varmen og tilsett smøret med en gang, under stadig omrøring. Vær forsiktig – det spruter.
+3. **Fløten i.** Når smøret er helt innarbeidet, tilsett fløten langsomt under stadig omrøring. Det bobler kraftig opp, så vær forsiktig.
+4. **Smak til.** Rør inn salt og vaniljeekstrakt.
+5. **Oppbevar** karamellsausen i et glass i kjøleskapet i inntil **4 uker**.
+6. **Bruk den varm eller kald.** Den tykner når den avkjøles – varm den kort i mikrobølgeovn for å løse den opp igjen.
+
+### Notater
+
+- **Smøret og fløten må være romtemperert.** Dette er den viktigste tilføyelsen til oppskriften. Kilden advarer om at det spruter og bobler, men sier ikke hvorfor: kald meieri­vare møter sukker på rundt 175 °C, og temperatursjokket får karamellen til å stivne i klumper i tillegg til å sprute. Ta smør og fløte ut av kjøleskapet en halvtime før. *(Kritisk tillegg.)*
+- **Tørrkaramell er raskere, men mindre tilgivende** enn våtkaramell med vann. Sukkeret smelter ujevnt, og forskjellen mellom gyllenbrun og brent er under et halvminutt. Sikt mot en dyp ravfarge – blir den mørkebrun og røyker, er den bitter og må kastes. *(Presisering lagt til.)*
+- **Røring er riktig her, i motsetning til i våtkaramell.** Med tørrkaramell må du røre, ellers brenner sukkeret nederst mens toppen fortsatt er kornet. Med våtkaramell er det motsatt – da skal du la være å røre, siden det utløser krystallisering. Forveksling mellom de to er en vanlig kilde til mislykket karamell. *(Bakgrunn lagt til.)*
+- **Skiller den seg** når smøret går i – blandingen ser oljete og kornete ut – er den ikke ødelagt. Sett kjelen tilbake på lav varme og rør til den samler seg igjen. *(Redning lagt til.)*
+- **Kjelen må ha tykk bunn.** Tynne kjeler gir varme punkter der sukkeret brenner mens resten fortsatt er ukokt. Bruk gjerne en lys kjele, så ser du fargen.
+- **½–1 ts salt forutsetter usaltet smør.** Norsk meierismør er saltet. Bruker du det, start på **¼ ts** og smak deg opp. *(Justering lagt til.)*
+- **Vaniljeekstrakt går i etter at kjelen er av varmen**, som kilden gjør – alkoholen fordamper og aromaen forsvinner hvis den kokes.
+- **Ikke gå fra kjelen.** De 20 minuttene krever oppmerksomhet hele veien; sukkeret går fra ingenting skjer til alt skjer på kort tid.
+- **Fire uker i kjøleskap er i overkant optimistisk.** Sukkerinnholdet konserverer godt, men sausen inneholder fløte – regn **2–3 uker** i tett, rent glass for å være trygg. Den stivner helt kald og må varmes for å kunne helles. *(Justering lagt til.)*
+- **Passer til** [sjokoladefondant (D2)](#d2-sjokoladefondant), [pistasjpanna cotta (D4)](#d4-pistasjpanna-cotta-med-rømme-og-blåbær) i stedet for blåbærene, og over vaniljeis. Rørt inn i [gochujang chocolate chip cookies (B2)](#b2-gochujang-chocolate-chip-cookies) etter steking fungerer også.
+
+---
+
+## T124. Bechamel
+
+**Kilde:** Klassisk standardversjon · **Kjøkken:** Fransk · **Tid:** 20 min · **Gir:** ca. 1 liter
+
+Den hvite grunnsausen. Smør og mel surres til en jevning, spes med melk, og kokes til melsmaken er borte. Forholdet er verdt å lære utenat: **70 g smør, 70 g mel, 1 liter melk** gir en saus som renner tregt av sleiva.
+
+### Ingredienser
+
+- 70 g smør
+- 70 g hvetemel
+- 1 liter helmelk
+- 1 ts salt
+- ¼ ts revet muskat
+- En klype hvit pepper
+
+### Fremgangsmåte
+
+1. **Smelt smøret** i en tykkbunnet kjele på middels varme. Det skal ikke brunes.
+2. **Rør inn melet** og la jevningen surre i **2 minutter** under omrøring. Den skal skumme og lukte av kjeks, men ikke ta farge.
+3. **Spe med melken** litt om gangen, og visp godt mellom hver gang til blandingen er glatt før du heller på mer. De første desiliterne avgjør om sausen blir klumpete.
+4. **Kok opp under omrøring**, skru ned og la sausen småkoke i **8–10 minutter**. Rør langs bunnen med en sleiv, ikke bare visp.
+5. **Smak til** med salt, muskat og hvit pepper.
+
+### Notater
+
+- **De første desiliterne melk avgjør alt.** Klumper oppstår når du heller på for mye for fort. Er skaden skjedd, redder en stavmikser sausen fullstendig.
+- **Ti minutters koking er ikke valgfritt.** Under det smaker sausen av rå mel. Det er den vanligste feilen med hjemmelaget bechamel.
+- **Kald melk i varm jevning, eller varm melk i kald** – begge deler fungerer. Det som ikke fungerer er varm melk i varm jevning, som klumper seg umiddelbart.
+- **Muskat er det som gjør en bechamel til en bechamel** i stedet for en hvit saus. Vær forsiktig: ¼ ts holder til en liter.
+- **Tykkere eller tynnere?** Samme metode, endret forhold. 50 g av hver per liter gir en tynn saus til gratenger, 100 g gir en tykk til fylte grønnsaker.
+- **Holdbarhet:** 3 døgn kjøleskap med plastfolie rett på overflaten, ellers danner det seg snerk. Tåler frysing dårlig – den skiller seg, men lar seg redde med stavmikser.
+- **Brukes i** [nr. 167](#167-lasagne-alla-bolognese).
+
+---
+
+## T125. Marinara – tomatsausbase
+
+**Kilde:** Klassisk standardversjon · **Kjøkken:** Italiensk · **Tid:** 45 min · **Gir:** ca. 1 liter
+
+Tomatsaus av fire ingredienser, kokt til den er tykk nok til å bli sittende på en skje. Lages i dobbel porsjon og fryses – den er utgangspunktet for pizza, pasta, parmigiana og alt som trenger tomat.
+
+### Ingredienser
+
+- 1,6 kg hermetiske hele tomater, helst San Marzano
+- 1 dl olivenolje
+- 6 hvitløksfedd, tynt skivet
+- 1 ts salt
+- En håndfull basilikumstilker *(bladene tas vare på til slutt)*
+- ½ ts sukker *(bare hvis tomatene er sure)*
+
+### Fremgangsmåte
+
+1. **Klem tomatene** i stykker med hendene over en bolle. Fjern eventuelle harde stilkfester. Ikke bruk stavmikser – frøene blir bitre når de knuses.
+2. **Varm olivenoljen** i en vid gryte på middels varme og legg i hvitløken. Stek til den er lysegyllen, **2–3 minutter**. Blir den mørk, blir hele sausen bitter.
+3. **Ha i tomatene**, salt og basilikumstilkene.
+4. **La sausen koke uten lokk i 35–40 minutter**, til den har trukket seg sammen og oljen begynner å skille seg ut i kantene.
+5. **Fisk ut basilikumstilkene**, smak til, og rør inn de friske bladene.
+
+### Notater
+
+- **Vid gryte, ikke høy.** Sausen tykner ved fordampning, og fordampning skjer på overflaten. En vid panne halverer koketiden mot en høy kjele.
+- **Hendene, ikke stavmikseren.** Knuste tomatfrø gir bitterhet, og en revet konsistens er riktigere enn en helt glatt. Vil du ha den glatt, kjør den etter kokingen, ikke før.
+- **Hvitløken skal ikke brunes.** Lysegyllen er riktig. Går den mørk, er det ingen vei tilbake – begynn på nytt.
+- **Sukkeret er ikke standard.** Gode hermetiske tomater trenger det ikke. Smak først, og bruk det bare hvis sausen biter.
+- **San Marzano er verdt merprisen** til denne bruken. De er kjøttfullere og mindre sure enn vanlige hermetiske tomater, og siden sausen har fire ingredienser, er det ingenting som skjuler forskjellen.
+- **Oljemengden virker høy.** 1 dl til 1,6 kg tomater er riktig – den emulgerer inn og gir sausen fylde uten fløte.
+- **Holdbarhet:** 5 døgn kjøleskap, 6 måneder fryser. Frys i porsjoner på 3 dl, som dekker én pizza eller pasta til to.
+- **Brukes i** [G6](#g6-pizzadeig) og som utgangspunkt der oppskriftene bruker passata.
+
+---
+
+## T126. Brunet smør og ghee
+
+**Kilde:** Klassisk standardversjon · **Kjøkken:** Vestlig · **Tid:** 15 min · **Gir:** ca. 2 dl
+
+To ting fra samme utgangspunkt. Begge starter med å smelte smør og skille vannet fra fettet – forskjellen er om du lar melkeproteinene brune seg eller siler dem fra.
+
+### Ingredienser
+
+- 250 g usaltet smør
+
+### Fremgangsmåte
+
+**Brunet smør (beurre noisette)**
+
+1. **Smelt smøret** i en lys kjele på middels varme, så du ser fargen.
+2. **La det koke.** Først skummer det kraftig mens vannet fordamper, deretter stilner det.
+3. **Følg med når skummingen avtar.** Melkeproteinene i bunnen går fra lysebrun til nøttebrun i løpet av **30 sekunder**.
+4. **Ta kjelen av platen med en gang** det lukter nøtter, og hell smøret over i en kald bolle. Blir det stående i den varme kjelen, brenner det.
+
+**Ghee**
+
+1. **Smelt smøret** på svak varme og la det stå til det har sluttet å skumme, **15–20 minutter**.
+2. **Skum av** det hvite som legger seg på toppen.
+3. **Hell forsiktig av det klare fettet** og la bunnfallet bli igjen, eller sil gjennom et klede.
+
+### Notater
+
+- **Forskjellen er bunnfallet.** Brunet smør beholder de brunede melkeproteinene, som er hele smaken. Ghee siler dem bort, og får til gjengjeld et fett som tåler høy varme uten å brenne.
+- **De siste tretti sekundene avgjør.** Brunet smør går fra perfekt til brent raskere enn du rekker å hente en bolle. Ha bollen klar før du begynner.
+- **Lys kjele, ikke svart.** I en mørk kjele ser du ikke fargen, og da er du blind på det eneste som betyr noe.
+- **Ghee tåler 250 °C.** Vanlig smør begynner å brenne rundt 150 °C, fordi melkeproteinene brenner. Uten dem kan du steke hardt i smørsmak.
+- **250 g smør gir ca. 200 g ghee.** Resten er vann og protein.
+- **Holdbarhet:** brunet smør 2 uker kjøleskap. Ghee 3 måneder i romtemperatur i tett glass, og nærmest ubegrenset kaldt.
+- **Brukes i** [nr. 145](#145-hvit-asparges-med-shiitake-og-brunet-hollandaise).
+
+---
+
+## T127. Vinaigrette
+
+**Kilde:** Klassisk standardversjon · **Kjøkken:** Fransk · **Tid:** 5 min · **Gir:** ca. 1,5 dl
+
+Grunnforholdet er tre deler olje til én del syre. Alt annet er variasjoner over det.
+
+### Ingredienser
+
+- 1 dl olivenolje
+- ⅓ dl vineddik eller sitronsaft
+- 1 ts dijonsennep
+- ½ ts salt
+- ¼ ts sort pepper
+- ½ ts honning *(valgfritt)*
+
+### Fremgangsmåte
+
+1. **Bland eddik, sennep, salt og pepper** i en bolle eller et glass med lokk, og rør til saltet har løst seg.
+2. **Tilsett oljen i en tynn stråle** mens du visper, eller rist glasset kraftig i **20 sekunder**.
+3. **Smak til.** Er den for skarp, en klype honning. Er den flat, mer salt.
+
+### Notater
+
+- **3 til 1 er utgangspunktet, ikke en regel.** Med en mild eddik kan du gå til 2 til 1, med sitronsaft ofte 4 til 1. Smak.
+- **Sennepen er emulgatoren.** Uten den skiller vinaigretten seg i løpet av minutter. Med den holder den seg samlet i timevis.
+- **Saltet må løses i syren først.** Salt løser seg ikke i olje, og havner du med det i oljen, blir dressingen ujevnt salt.
+- **Fire varianter fra samme base:** sitron og timian til fisk, rødvinseddik og sjalottløk til grønn salat, balsamico og honning til rotgrønnsaker, riseddik og sesamolje til asiatiske salater.
+- **Holdbarhet:** 2 uker kjøleskap. Olivenolje stivner i kulda – ta den ut 20 minutter før bruk.
+- **Beslektet:** [T39](#t39-sesamdressing-til-kålsalat) er den asiatiske varianten, og [T122](#t122-majones) er den stabile emulsjonen av samme prinsipp.
+
+---
+
+## T128. Pizzasaus
+
+**Kilde:** Eget notat · **Kjøkken:** Italiensk-inspirert · **Tid:** 1 t 15 min + 1 time siling · **Gir:** ca. 6 dl
+
+Kokt tomatsaus kjørt glatt og deretter silt gjennom et kjøkkenhåndkle. Silingen er grepet som skiller den fra en vanlig tomatsaus – vannet renner av, og du sitter igjen med noe tykt nok til at pizzabunnen ikke blir bløt. Spisskummen og cayenne er ikke italiensk, og er det som gjør denne til din.
+
+### Ingredienser
+
+- 1 hvitløk, finhakket *(se notat)*
+- 1 gul løk, finhakket
+- 2 ss rapsolje
+- 800 g hermetiske tomater *(2 bokser)*
+- 1 ts sukker
+- 1 ts spisskummen
+- ½ ts cayennepepper
+- Basilikum fra 1 potte, både blader og stilker
+- 1 ss tørket oregano
+- 1 ts salt
+- 1 ts sort pepper
+
+### Fremgangsmåte
+
+1. **Fres hvitløk og løk** i rapsoljen på litt over middels varme til det er blankt.
+2. **Ha i tomatene.**
+3. **Tilsett sukker, spisskummen, cayenne, basilikum, oregano, salt og pepper.** Skjær basilikumen litt under bladene og ha med stilkene også.
+4. **La sausen småputre i ca. 1 time.**
+5. **Kjør alt glatt** i en blender.
+6. **Spenn et kjøkkenhåndkle over en bolle** og hell sausen oppå.
+7. **La den sile i 1 time.** Mye av vannet renner gjennom, og du sitter igjen med en tydelig tykkere saus.
+
+### Notater
+
+- **«1 hvitløk» er tvetydig i notatet.** Et helt hvitløkhode er plausibelt til 800 g tomat og en times koking, og ett enkelt fedd ville knapt merkes. Her er det tolket som et helt hode – si fra hvis det skal være ett fedd. *(Presisert.)*
+- **Silingen er hele poenget.** En tynn pizzasaus bløter bunnen før den rekker å bli sprø. Timen i kledet fjerner vannet uten å koke bort smaken, slik lang innkoking ville gjort.
+- **Basilikumstilkene har mer smak enn bladene.** De kjøres glatt uansett, så det er ingen grunn til å kaste dem.
+- **Spisskummen og cayenne** finnes ikke i en italiensk pizzasaus. De gir en varme og en røykaktig tone som er tydelig annerledes – behold dem hvis det er den smaken du er ute etter, og dropp dem hvis du vil ha en ren napolitansk saus.
+- **Væsken som siles av** er ikke søppel. Den er tomatvann med smak, og kan brukes i en suppe eller kokes inn til en dressing.
+- **Holdbarhet:** 5 døgn kjøleskap, 6 måneder fryser. Frys i porsjoner på 1,5 dl, som dekker én pizza.
+- **Beslektet:** [G6](#g6-pizzadeig) er bunnen, og [T125](#t125-marinara--tomatsausbase) er den italienske sausen uten siling og uten krydder.
+
+---
+
+## T129. Syltet rødløk
+
+**Kilde:** Matprat (matprat.no) · **Kjøkken:** Vestlig · **Tid:** 20 min + avkjøling · **Gir:** ca. 4 dl
+
+Rødløk i en lake av vann, sukker og eddik i forholdet 3–2–1. Ferdig etter et par timer, bedre etter et par dager, og holder i to uker.
+
+### Ingredienser
+
+- 2 rødløk, i tynne skiver
+- 1,5 dl vann
+- 1 dl sukker
+- 0,5 dl eplecidereddik
+- ¼ ts hele pepperkorn
+
+### Fremgangsmåte
+
+1. **Kok opp vann, sukker og eddik** i en kasserolle.
+2. **Ha i pepperkornene** når sukkeret har løst seg opp.
+3. **Skjær rødløken i tynne skiver** og legg dem i laken.
+4. **Kok opp**, trekk kasserollen av platen og la alt avkjøles i laken.
+5. **Ha over på rene glass** med lake som dekker, og sett kaldt.
+
+### Notater
+
+- **3–2–1 er forholdet å huske.** Tre deler vann, to deler sukker, én del eddik. Det gjelder all rask sylting, uansett grønnsak.
+- **Vil du ha løken sprø, skal den ikke kokes.** Kilden koker løken opp i laken, som gjør den myk hele veien gjennom. Hell heller den kokende laken over rå løk i glasset, så beholder den knasen. *(Lagt til – kildens metode gir mykere løk.)*
+- **Eplecidereddik er mildere** enn klar 7 % eddik. Bruker du klar eddik, gå ned til 0,3 dl. Hvitvins- og rødvinseddik blir lett bitre her.
+- **Laken kan smaksettes** med chili, sitronskall og dill, hvitløk og laurbær, korianderfrø og ingefær, eller stjerneanis. Kilden lister opp alle.
+- **Ikke kast laken.** Den er en ferdig vinaigrettebase når løken er spist opp.
+- **Holdbarhet:** minst 2 uker i kjøleskap i glass med tett lokk.
+- **Beslektet:** [T130](#t130-hurtigsylting-av-agurk-og-gulrot) bruker samme lake på andre grønnsaker, og [T3](#t3-soyamarinert-agurk) er den asiatiske tilnærmingen.
+
+---
+
+## T130. Hurtigsylting av agurk og gulrot
+
+**Kilde:** Klassisk standardversjon · **Kjøkken:** Vestlig · **Tid:** 15 min + 1 time · **Gir:** ca. 5 dl
+
+Samme prinsipp som syltet rødløk, men på faste grønnsaker som skal beholde knasen. Laken helles kokende over rå grønnsaker, aldri motsatt.
+
+### Ingredienser
+
+- 1 agurk, i tynne skiver eller staver
+- 2 gulrøtter, i tynne staver
+- 3 dl vann
+- 2 dl sukker
+- 1 dl riseddik eller eplecidereddik
+- 2 ts salt
+- 1 ts hele korianderfrø *(valgfritt)*
+
+### Fremgangsmåte
+
+1. **Legg grønnsakene i et rent glass.** De skal ligge løst, ikke presses ned.
+2. **Kok opp vann, sukker, eddik og salt** til alt har løst seg.
+3. **Hell den kokende laken over** grønnsakene til de er dekket.
+4. **La glasset stå åpent til det er romtemperert**, sett så på lokk og kjøl ned.
+5. **Klart etter 1 time**, best etter et døgn.
+
+### Notater
+
+- **Grønnsakene kokes aldri.** Det er hele forskjellen mellom en sprø pickles og en bløt. Varmen fra laken er nok til å trekke inn smaken.
+- **Salt i tillegg til sukker.** Uten salt smaker resultatet bare søtt og syrlig, og grønnsakene blir slappere.
+- **Agurk gir fra seg mye vann** og tynner ut laken over et par dager. Vil du ha den fast lenge, salt agurkstavene i 20 minutter først og klem ut vannet.
+- **Riseddik til asiatiske retter, eplecidereddik til vestlige.** Samme lake, ulik retning.
+- **Holdbarhet:** 2 uker kjøleskap. Agurken blir bløtere etter en uke, gulroten holder.
+- **Beslektet:** [syltet rødløk (T129)](#t129-syltet-rødløk) er samme lake på løk, og [soyamarinert agurk (T3)](#t3-soyamarinert-agurk) og [koreansk sterk agurksalat (oi muchim) (T6)](#t6-koreansk-sterk-agurksalat-oi-muchim) er de asiatiske variantene.
+
+---
+
+## T131. Kokt ris
+
+**Kilde:** Klassisk standardversjon · **Kjøkken:** Asiatisk · **Tid:** 25 min · **Gir:** 4 porsjoner
+
+Metode, ikke oppskrift. Tre typer ris med tre forhold, men samme prinsipp: skyll, kok opp, la trekke under lokk, hvil uten å løfte lokket.
+
+### Ingredienser
+
+**Jasminris**
+- 300 g jasminris
+- 4,5 dl vann *(forhold 1 : 1,25 etter volum)*
+
+**Basmatiris**
+- 300 g basmatiris
+- 5 dl vann *(forhold 1 : 1,5)*
+- ½ ts salt
+
+**Sushiris**
+- 300 g rundkornet sushiris
+- 3,5 dl vann *(forhold 1 : 1,1)*
+- 3 ss riseddik, 1 ss sukker, 1 ts salt til krydring
+
+### Fremgangsmåte
+
+1. **Skyll risen i kaldt vann** til vannet er nesten klart, **3–4 omganger**. Dette fjerner overflatestivelsen som ellers gjør risen klebrig.
+2. **La den renne av i 10 minutter** i en sil. Basmati og sushiris kan gjerne bløtlegges i 30 minutter først.
+3. **Ha ris og vann i en kjele** med tettsluttende lokk. Kok opp uten lokk.
+4. **Legg på lokket, skru ned til laveste varme**, og la risen trekke i **12 minutter**.
+5. **Ta kjelen av platen og la den stå i 10 minutter til.** Ikke løft lokket – dampen som er igjen, gjør ferdig jobben.
+6. **Løs opp med gaffel.** Til sushiris: bland eddik, sukker og salt, vend det inn med en tresleiv mens risen er varm, og vift den kald.
+
+### Notater
+
+- **Utbytte: tørr ris blir ca. 2,5 ganger så mye kokt.** 300 g tørr ris gir rundt 750 g, altså 8–9 dl. Jasminris ligger litt lavere fordi den kokes med minst vann, sushiris lavest av alle på ca. 2,2. Trenger du en bestemt mengde kokt ris til en oppskrift, del på 2,5. *(Lagt til.)*
+- **Denne metoden bruker mindre vann enn tommelfingerregelen.** Den vanlige regelen er 1 del ris til 2 deler vann, men det forutsetter uskylt ris og en del fordamping. Skylt ris i tettsluttende kjele trenger 1 : 1,1 til 1 : 1,5, som her.
+- **Lokket løftes ikke.** Hver gang du sjekker, slipper du ut damp som risen trenger. Dette er den vanligste feilen.
+- **Hvilen i ti minutter er ikke pynt.** Den fordeler fuktigheten jevnt gjennom kornene. Risen som er klissete i bunnen og tørr på toppen, har ikke fått hvile.
+- **Volumforholdene er ikke like.** Jasmin trenger minst vann, basmati mest. Bruker du samme forhold på alt, blir halvparten feil.
+- **Skyllingen kan sløyfes** hvis du vil ha klebrig ris til for eksempel risotto-lignende retter, men aldri til jasmin eller basmati.
+- **Salt i jasminris er uvanlig i Asia**, der risen er nøytral motvekt til krydret mat. I basmati til indiske retter er det derimot standard.
+- **Holdbarhet:** kokt ris skal kjøles raskt og settes kaldt innen 1 time, og spises innen 1 døgn. Ris som står lunkent lenge, er en av de vanligste årsakene til matforgiftning.
+- **Brukes i** de fleste asiatiske rettene i samlingen.
+
+---
+
+## T132. Konfitert hvitløk
+
+**Kilde:** Klassisk standardversjon · **Kjøkken:** Vestlig · **Tid:** 1 time · **Gir:** ca. 3 dl
+
+Hele hvitløksfedd trukket møre i olivenolje på lav varme. Du får to ting: myke, søte fedd som kan moses på brød eller i puré, og en hvitløksolje som er brukbar til alt.
+
+### Ingredienser
+
+- 3 hele hvitløk, delt i fedd og skrelt *(ca. 150 g)*
+- 3 dl olivenolje
+- 2 kvister timian
+- 1 laurbærblad
+- ½ ts hele pepperkorn
+
+### Fremgangsmåte
+
+1. **Legg feddene i en liten kjele** med urter og krydder, og hell over olje til alt er dekket.
+2. **Varm opp til det så vidt bobler rundt feddene**, rundt **90 °C**. Det skal ikke frese.
+3. **La det stå i 45 minutter**, til feddene er helt myke og lysegylne.
+4. **Avkjøl helt i oljen**, og oppbevar begge deler i et rent glass i kjøleskap.
+
+### Notater
+
+- **90 °C, ikke frityrtemperatur.** Konfitering er langsom trekking i fett, ikke steking. Bruser det kraftig, brenner hvitløken og blir bitter.
+- **Feddene skal være helt dekket** av olje. Deler som stikker opp, blir mørke og harde.
+- **Dette må stå kaldt.** Hvitløk i olje ved romtemperatur er et kjent miljø for botulisme, siden oljen stenger ute oksygen. I kjøleskap og innen to uker er det trygt. Vil du oppbevare lenger, frys feddene og oljen hver for seg.
+- **Oljen er halve gevinsten.** Den er ferdig hvitløksolje til dressinger, stekefett og brød.
+- **Holdbarhet:** 2 uker kjøleskap. 6 måneder fryser.
+- **Brukes i** [nr. 111](#111-braiserte-short-ribs-med-hvitløkskonfit-potetmos).
+
+---
+
+## T133. Labneh
+
+**Kilde:** Klassisk standardversjon · **Kjøkken:** Østlig middelhav · **Tid:** 10 min + 12–24 timer siling · **Gir:** ca. 4 dl
+
+Yoghurt silt til den er tykk som ferskost. To ingredienser og ett døgn i kjøleskapet.
+
+### Ingredienser
+
+- 1 kg gresk yoghurt eller tyrkisk yoghurt
+- 1 ts salt
+
+**Til servering**
+- Olivenolje
+- Za'atar, se [G20](#g20-zaatar)
+
+### Fremgangsmåte
+
+1. **Rør salt inn i yoghurten.** Saltet trekker ut væsken.
+2. **Legg et rent klede eller dobbelt osteklede i en sil** over en bolle, og hell yoghurten oppi.
+3. **Brett kledet over** og sett alt kaldt i **12–24 timer**.
+4. **Skrap labnehen** ut av kledet. Den skal være tykk nok til å holde formen på en skje.
+5. **Server** i en grunn skål med olivenolje og za'atar over.
+
+### Notater
+
+- **Silingstiden bestemmer konsistensen.** 12 timer gir en tykk krem, 24 timer gir noe som kan rulles til kuler. Vil du ha kuler, rull dem og legg dem i olivenolje.
+- **Mysen som renner av** er ikke søppel. Den kan brukes i brøddeig i stedet for vann, eller i smoothie.
+- **Vanlig yoghurt fungerer,** men gir mindre igjen. 1 kg gresk yoghurt gir ca. 600 g labneh, 1 kg vanlig gir ca. 400 g.
+- **Saltet må i før silingen**, ikke etter. Det er det som driver væsken ut.
+- **Holdbarhet:** 1 uke kjøleskap. Kuler dekket av olivenolje holder 3 uker.
+- **Beslektet:** [T40](#t40-hummus) og [T60](#t60-baba-ganoush) hører til samme bord.
+
+---
+
+## T134. Hellstrøms japanske ris
+
+**Kilde:** Eyvind Hellstrøm, *Grunnboka* (Cappelen Damm, 2025) · **Kjøkken:** Japansk · **Tid:** ca. 50 min · **Gir:** 4–6 porsjoner
+
+Risen skylles flere ganger og bløtlegges en halvtime før koking. Derfor er vannmengden nesten lik risvekten – kornene har allerede tatt opp det de trenger.
+
+### Ingredienser
+
+- 380 g Koshihikari-ris eller lignende sushiris
+- 4,2 dl vann
+- 1 ts salt
+- 2–3 ss riseddik
+- 2–3 ss mirin *(japansk sukkerlake)*
+
+### Fremgangsmåte
+
+1. **Skyll risen i kaldt vann flere ganger.**
+2. **La den ligge i kaldt vann i ca. en halvtime.**
+3. **Ha risen i en tykkbunnet kjele eller i en riskoker**, og tilsett kaldt vann og salt.
+4. **Gi det et oppkok** under omrøring.
+5. **Skru av varmen, sett på lokk**, og la det stå **uten omrøring i ca. 18–20 minutter**.
+6. **Smak til med riseddik og mirin.**
+
+### Notater
+
+- **Vannmengden ser for lav ut, og det er den ikke.** 380 g ris til 4,2 dl vann er nesten én til én, mot det vanlige én til halvannen. Forklaringen er bløtleggingen: risen har allerede tatt opp vann, og mer ville gitt grøt.
+- **Skyllingen fjerner løs stivelse.** Uten den kleber kornene seg sammen til en klump i stedet for å holde seg hele og blanke.
+- **Lokket på og varmen av.** Etter oppkoket er det restvarmen og dampen som koker risen ferdig. Løfter du lokket for å se, slipper du ut dampen som gjør jobben.
+- **Ikke rør etter at lokket er på.** Røring knuser kornene og frigjør stivelse.
+- **Eddiken og mirinen inn til slutt**, mens risen er varm – da trekker den til seg smaken.
+- **Beslektet:** [kokt ris (T131)](#t131-kokt-ris) er den generelle riskokingen, og [pokebowl (SA1)](#sa1-pokebowl), [onigiri (S25)](#s25-onigiri) og [sushikopper med reker (S6)](#s6-sushikopper-med-reker) bruker denne typen ris.
+
+---
+
+## T135. Kokte poteter
+
+**Kilde:** Klassisk standardversjon · **Kjøkken:** Norsk · **Tid:** 25 min · **Porsjoner:** 4
+
+Ikke en oppskrift, men den avgjørende detaljen: **poteter skal starte i kaldt vann.** Legger du dem i kokende, blir utsiden grøt før midten er varm. Dette er tilbehøret halve den norske delen av samlingen viser til.
+
+### Ingredienser
+
+- 800 g poteter, gjerne mandelpotet eller annen fastkokende sort
+- 1 ss salt
+- Vann til å dekke
+
+### Fremgangsmåte
+
+1. **Skrell eller skrubb potetene.** Del store i to, så alle er omtrent like store.
+2. **Legg dem i en kjele med kaldt, saltet vann** så det akkurat dekker.
+3. **Kok opp**, senk varmen til det bare småkoker, og la dem koke **15–20 minutter** til en kniv går lett gjennom.
+4. **Hell av vannet med én gang** og la dem dampe av i kjelen i et halvt minutt uten lokk.
+
+### Notater
+
+- **Kaldt vann fra start er hele poenget.** Varmen trenger inn utenfra. Starter potetene i kokende vann, er ytterste centimeter overkokt lenge før kjernen er ferdig. Fra kaldt vann stiger temperaturen jevnt gjennom hele knollen.
+- **Småkok, ikke fosskok.** Kraftig koking slår potetene mot hverandre og mot kjelen, og de går i oppløsning i kantene.
+- **Damp dem av.** De halve minuttene uten lokk og vann fordamper overflatefuktigheten. Ellers blir de klissete.
+- **Nypoteter er unntaket** — de skrubbes, ikke skrelles, og trenger bare 12–15 minutter.
+- **Beslektet:** [fårikål (nr. 196)](#196-fårikål), [kjøttkaker med kålstuing (nr. 195)](#195-kjøttkaker-med-kålstuing) og [lapskaus (nr. 197)](#197-lapskaus) forutsetter alle dette.
+
+---
+
+## T136. Ertepuré
+
+**Kilde:** Klassisk standardversjon · **Kjøkken:** Norsk · **Tid:** 15 min · **Porsjoner:** 4
+
+Frosne erter kokt i buljong og most med smør. Den grønne motvekten til brun saus, og det som gjør en tallerken kjøttkaker til noe annet enn bare brunt.
+
+### Ingredienser
+
+- 400 g frosne grønne erter
+- 3 dl kjøttbuljong eller grønnsakbuljong
+- 30 g smør
+- ¼ ts pepper
+- Salt, etter smak
+
+### Fremgangsmåte
+
+1. **Kok opp buljongen** og ha i de frosne ertene.
+2. **Kok dem i 3–4 minutter**, til de er varme gjennom. Ikke lenger — de mister fargen.
+3. **Hell av det meste av væsken**, men ta vare på den.
+4. **Mos ertene** med stavmikser, foodprosessor eller potetmoser. Spe med litt av kokevæsken til du får konsistensen du vil ha.
+5. **Rør inn smøret** og smak til med salt og pepper.
+
+### Notater
+
+- **Frosne erter er bedre enn ferske her.** De fryses timer etter høsting, mens «ferske» erter i butikk har stått lenge nok til at sukkeret er blitt stivelse. Det er én av få råvarer der frossen slår fersk.
+- **Tre minutter, ikke ti.** Ertene er allerede blansert før frysing. Lenger koking gir gråbrun puré i stedet for grønn.
+- **Grov eller fin er et valg.** Potetmoser gir rustikk puré med tekstur; stavmikser gir glatt. Den grove holder seg bedre på tallerkenen ved siden av saus.
+- **Ertestuing er samme rett med hvit jevning.** Vil du ha den, lag en jevning av 2 ss smør og 2 ss mel, spe med buljong og melk, og vend ertene inn hele.
+- **Beslektet:** [Hellstrøms grønne ertepuré (T77)](#t77-hellstrøms-grønne-ertepuré) er den franske versjonen med mynte, og [kjøttkaker med kålstuing (nr. 195)](#195-kjøttkaker-med-kålstuing) er retten den hører til.
+
+---
+
+## T137. Rørte tyttebær
+
+**Kilde:** Klassisk standardversjon · **Kjøkken:** Norsk · **Tid:** 10 min + 1 døgn trekking · **Porsjoner:** ca. 5 dl
+
+Tyttebær og sukker rørt sammen kaldt. **Ingen koking** — bærene inneholder så mye benzosyre at de konserverer seg selv. Det er derfor rørte tyttebær smaker friskere enn syltetøy.
+
+### Ingredienser
+
+- 500 g tyttebær, ferske eller tinte
+- 250 g sukker
+
+### Fremgangsmåte
+
+1. **Rens bærene** for blader og kvist, og skyll dem om de er ferske.
+2. **Ha bær og sukker i en bolle** og rør kraftig med en tresleiv i **5–10 minutter**, til sukkeret er oppløst og bærene har sluppet saft.
+3. **Fyll på rene glass**, sett på lokk og la stå kaldt.
+4. **La dem stå et døgn** før bruk, så sukkeret er helt oppløst.
+
+### Notater
+
+- **Halvparten så mye sukker som bær** er den klassiske forholdstallet. Vil du ha syrligere, kan du gå ned til 300 g, men da holder de seg kortere.
+- **Benzosyren gjør koking unødvendig.** Tyttebær er ett av få bær som konserverer seg selv. Koker du dem, ødelegger du både friskheten og den rå bærsmaken som er hele poenget.
+- **Rør lenge nok.** Sukkeret skal løses av bærsaften, ikke av varme. Slutter du for tidlig, kjenner du sukkerkorn i flere uker.
+- **Holdbarhet:** flere måneder i kjøleskap. Åpnet glass bør stå kaldt.
+- **Beslektet:** hører til [kjøttkaker med kålstuing (nr. 195)](#195-kjøttkaker-med-kålstuing), [fårikål (nr. 196)](#196-fårikål) og [langtidsstekt ribbe (nr. 186)](#186-langtidsstekt-ribbe).
+
+---
+
+## T138. Surkål
+
+**Kilde:** Klassisk standardversjon · **Kjøkken:** Norsk · **Tid:** ca. 1 t · **Porsjoner:** 6–8
+
+Hodekål kokt mør med eddik, sukker og karve. Ikke fermentert sauerkraut, men den norske varianten som lages på under en time — syren kommer fra flasken, ikke fra tid.
+
+### Ingredienser
+
+- 1 kg hodekål, finsnittet
+- 3 dl vann eller kraft
+- 1 dl eddik 7 %
+- 3 ss sukker
+- 2 ts karve, hele frø
+- 1 ts salt
+- 30 g smør
+- 1 ss hvetemel *(til jevning, valgfritt)*
+
+### Fremgangsmåte
+
+1. **Fjern de ytterste bladene** og del kålen i fire. Skjær bort stokken og snitt kålen fint.
+2. **Smelt smøret i en vid kjele** og fres kålen et par minutter uten at den tar farge.
+3. **Tilsett vann, eddik, sukker, karve og salt.** Kok opp.
+4. **Legg på lokk og la det småkoke i 45–60 minutter**, til kålen er helt mør. Rør av og til.
+5. **Vil du jevne den**, rør ut melet i litt kaldt vann og rør det inn de siste fem minuttene.
+6. **Smak til.** Den skal være tydelig syrlig og søt på samme tid.
+
+### Notater
+
+- **Eddik og sukker skal balansere hverandre.** Smak til på slutten — kålens egen sødme varierer med sesong, og en høstkål trenger mindre sukker enn en vinterkål.
+- **Karve er ikke pynt.** Den er det som gjør surkål til surkål i norsk sammenheng, og den hjelper også på fordøyelsen av kålen.
+- **Snitt fint.** Grov kål blir aldri ordentlig mør på en time, og surkål med tyggemotstand er feil.
+- **Bedre dagen etter**, som det meste med eddik i. Kan lages flere dager i forveien og varmes opp.
+- **Beslektet:** [langtidsstekt ribbe (nr. 186)](#186-langtidsstekt-ribbe) er retten den oftest følger, og [Hellstrøms rødkål med fiken (T74)](#t74-hellstrøms-rødkål-med-fiken) er den mørke slektningen.
+
+---
+
+## T139. Potetmos
+
+**Kilde:** Klassisk standardversjon · **Kjøkken:** Vestlig · **Tid:** 30 min · **Porsjoner:** 4
+
+Melne poteter, varm melk og smør. **Rekkefølgen er hele oppskriften:** smør før væske, og alt må være varmt. Kald melk i varme poteter gir klissete mos uansett hvor forsiktig du jobber.
+
+### Ingredienser
+
+- 1 kg melne poteter, gjerne Beate, Pimpernell eller Kerrs Pink
+- 1,5 dl helmelk
+- 100 g smør, i terninger
+- 1 ts salt
+- ¼ ts hvit pepper
+- ¼ ts revet muskatnøtt *(valgfritt)*
+
+### Fremgangsmåte
+
+1. **Skrell potetene** og del dem i like store biter.
+2. **Legg dem i kaldt, saltet vann** og kok opp. La dem småkoke **15–20 minutter**, til en kniv går lett gjennom.
+3. **Hell av vannet og la potetene dampe av** i kjelen i et minutt over svak varme, så overflatefuktigheten forsvinner.
+4. **Varm melken** i en liten kjele mens potetene damper av.
+5. **Mos potetene** med potetpresse eller potetstapper mens de er glovarme.
+6. **Rør inn smøret først**, terning for terning, til alt er smeltet inn.
+7. **Spe med den varme melken** til du har konsistensen du vil ha. Smak til med salt, pepper og eventuelt muskat.
+
+### Notater
+
+- **Melne poteter, ikke fastkokende.** Fastkokende sorter har for lite stivelse og gir en mos som aldri blir luftig. Beate og Kerrs Pink er de vanlige melne sortene i norsk butikk.
+- **Smør før melk.** Fettet legger seg rundt stivelseskornene og hindrer at de klistrer seg sammen når væsken kommer. Snur du rekkefølgen, får du limkonsistens.
+- **Alt skal være varmt.** Kald melk kjøler potetene, stivelsen setter seg, og mosen blir tung. Dette er den vanligste feilen.
+- **Aldri stavmikser.** Den river opp stivelseskornene og gjør mosen til tapetlim på sekunder. Potetpresse gir finest resultat, stapper gir mer tekstur.
+- **Damp av potetene.** Vann som blir igjen etter kokingen fortynner smaken og gjør mosen løs. Det ene minuttet i punkt 3 er verdt det.
+- **Beslektet:** [Hellstrøms mandelpotetpuré (T67)](#t67-hellstrøms-mandelpotetpuré) er den franske versjonen med langt mer smør, [kokte poteter (T135)](#t135-kokte-poteter) er utgangspunktet, og [braiserte short ribs (nr. 111)](#111-braiserte-short-ribs-med-hvitløkskonfit-potetmos) har en variant med hvitløkskonfit.
+
+---
+
+## T140. Ostedipp med chèvre og rømme
+
+**Kilde:** @drueclasen (Instagram) · **Kjøkken:** Norsk · **Tid:** 15 min · **Gir:** ca. 4 dl
+
+Fersk geitost og seterrømme pisket luftig med revet Comté, servert som en quenelle med terninger av Bufar og gressløk strødd over. **De to hardostene gjør to helt forskjellige jobber:** Comté røres inn og forsvinner i massen, Bufaren ligger oppå i biter du kjenner.
+
+### Ingredienser
+
+**Dippen**
+- 80 g Norsk Chevre Naturell Haukeli, romtemperert
+- 300 g seterrømme fra Rørosmeieriet — 1 beger
+- 50 g Comté, finrevet
+
+**Topping**
+- 50 g Bufar fra Valdres, i små terninger, eller parmesan
+- 1 liten bunt gressløk, finklippet
+- Salt
+
+**Til servering**
+- Saltchips
+
+### Fremgangsmåte
+
+1. **Bland chèvren sammen med rømmen.**
+2. **Riv Comtéen over** og rør godt sammen.
+3. **Pisk blandingen godt** til den er jevn og **litt luftig — men ikke for mye.**
+4. **Skjær Bufaren i små terninger.**
+5. **Form en liten quenelle** av chèvre-, rømme- og Comté-blandingen med to skjeer.
+6. **Dryss over Bufar og gressløk**, og server med chips ved siden av.
+
+### Notater
+
+- **«Ikke for mye» er den viktigste instruksjonen i oppskriften.** Rørosrømme ligger på 35 % fett. Pisker du forbi det luftige stadiet, skiller fettet seg ut og dippen blir grynete i stedet for kremet. Stopp mens den fortsatt henger tungt på vispen.
+- **Comté revet, Bufar i terninger.** Comtéen skal løse seg opp og gi salt og nøttesmak i selve massen. Bufaren skal ikke det — hele poenget er at den ligger som faste biter mot den myke dippen.
+- **Romtemperert chèvre.** Rett fra kjøleskapet klumper den seg i rømmen, og da hjelper ingen visping. En halvtime fremme er nok.
+- **Salt til slutt, og lite.** Comté og Bufar er begge salte hver for seg, og chipsen legger på et tredje lag.
+- **Naturellvarianten, ikke hvitmugg.** Kilden bruker Chevre Naturell. Hvitmuggvarianten fra samme ysteri har skorpe som ikke lar seg piske glatt — skal du bruke den, må skorpen skjæres av først. *(Lagt til.)*
+- **Blandingen kan lages i forveien** og står godt et døgn i kjøleskap. Quenellen formes lettest når massen er kald. *(Lagt til.)*
+- **Beslektet:** [Hellstrøms tzatziki (T103)](#t103-hellstrøms-tzatziki) og [guacamole (T47)](#t47-guacamole) er samlingens andre kalde dipper, og [hummus (T40)](#t40-hummus) er den tredje.
+
+---
+
+## T141. Momofukus soyaegg
+
+**Kilde:** Christina Tosi, Milk Bar Life, via Food52 (food52.com) · **Kjøkken:** Japansk-inspirert · **Tid:** 20 min + 2–6 timers marinering · **Porsjoner:** 6 egg
+
+Momofukus versjon av det japanske ramenegget, med to grep som skiller den fra originalen: **eggene røres i vannet det første halvannet minuttet** så plommen sentreres, og laken er syrlig av sherryeddik i stedet for søt av mirin. Marineringen er kort — to til seks timer, ikke over natten.
+
+### Ingredienser
+
+- 6 egg, størrelse M (se notat om eggstørrelse)
+- 90 ml varmt vann
+- 1 ss sukker
+- 30 ml sherryeddik
+- 180 ml lettsaltet soyasaus (se notat)
+
+**Til servering**
+- Flaksalt, gjerne Maldon
+- Nykvernet sort pepper
+
+### Fremgangsmåte
+
+1. **Rør laken.** Visp varmt vann og sukker til sukkeret er helt oppløst. Rør inn sherryeddik og soyasaus.
+2. **Kok opp en stor kjele med vann.** Det skal fosskoke før eggene går i.
+3. **Senk eggene forsiktig ned og kok i nøyaktig 6 minutter og 50 sekunder.** **Rør sakte rundt det første halvannet minuttet** så varmen fordeler seg jevnt og plommen legger seg i midten.
+4. **Isbad.** Ha klar en bolle med kaldt vann og isbiter, og flytt eggene rett over når tiden er ute.
+5. **Skrell eggene under vann** når de er gjennomkalde. Vannet kommer inn under skallhinnen og gir en glatt overflate.
+6. **Legg eggene i laken** og sett dem kaldt i **minst 2 og høyst 6 timer**. De må ligge helt under — legg en liten tallerken oppå om de flyter.
+7. **Ta dem opp av laken** og oppbevar dem i tett boks i kjøleskapet.
+
+### Notater
+
+- **Seks minutter og femti sekunder er ikke omtrentlig.** Det er tiden som gir fast hvite og en plomme som akkurat har tyknet uten å bli blek. Bruk klokke, ikke skjønn.
+- **Røringen sentrerer plommen.** De første halvannet minuttene setter hviten seg rundt plommen. Roterer eggene i vannet mens det skjer, havner plommen midt i — det er derfor snittflaten blir så pen. Slutter du å røre for tidlig, legger plommen seg mot skallet.
+- **Eggstørrelsen avgjør.** Kildens «large» er amerikanske egg på rundt 55 g, altså norske **M**. Bruker du L (63–73 g), legg til rundt 30 sekunder.
+- **Kort marinering med vilje.** To til seks timer gir smak i hviten uten at egget blir salt tvers gjennom. Lar du dem stå over natten som i [ramenegg (T8)](#t8-ramenegg-ajitama), blir de for salte — laken her er sterkere fordi den ikke er spedd med mirin.
+- **Lettsaltet soyasaus er forutsetningen.** Bruker du vanlig, kort ned marineringen til to timer.
+- **Sherryeddiken kan byttes** med usøtet riseddik. Da mister du den nøtteaktige tonen, men balansen mot soyaen blir den samme.
+- **Denne mot [ramenegg (T8)](#t8-ramenegg-ajitama):** T8 er søtet med mirin og trekker 8–36 timer til smaken går helt inn. Denne er syrlig, kortere og mildere i hviten. T8 til ramen, denne til ris eller som snacks.
+- **Laken kan gjenbrukes én gang** ifølge kilden, men andre runde blir merkbart svakere. T8 fraråder gjenbruk helt — den forskjellen kommer av at denne marinerer kortere og dermed trekker mindre ut av eggene.
+- **Beslektet:** [kokt ris (T131)](#t131-kokt-ris) med et delt egg over er den enkleste bruken, og alle [ramenoppskriftene](#20-klassisk-shoyu-ramen) tar imot dem.
+
+---
+
+## T142. Ovnsristet elote
+
+**Kilde:** onetinyspark, Food52 (food52.com) · **Kjøkken:** Meksikansk-inspirert · **Tid:** 45 min · **Porsjoner:** 4
+
+Meksikansk gatemais laget i ovn i stedet for på grill. **Kolbene ristes med bladene på**, så maisen damper i sitt eget skall mens den tar farge. Etterpå brettes bladene ned og blir håndtaket du holder i.
+
+### Ingredienser
+
+- 4 maiskolber, med blader
+- 120 ml majones
+- 1 ts limesaft
+- 90 g nyrevet parmesan (se notat om cotija)
+- 1 potte koriander, grovhakket
+- Cayennepepper, etter smak
+- Salt
+- 4 limebåter, til servering
+
+### Fremgangsmåte
+
+1. **Varm ovnen til 175 °C.**
+2. **Klargjør kolbene.** Brett bladene ned, fjern alle trådene, og brett bladene tilbake over den rene maisen.
+3. **Legg kolbene rett på ovnsristen** og rist dem i **30–35 minutter**.
+4. **Rør sausen** mens maisen står i ovnen: majones, limesaft, hakket koriander og cayennepepper.
+5. **La kolbene kjøle seg noen minutter** når de er ferdige.
+6. **Brett bladene ned igjen**, men la dem sitte fast i bunnen — da har du noe å holde i.
+7. **Smør kolbene rikelig med majonesblandingen** og strø over parmesan.
+8. **Salt hver kolbe** og gi den mer cayenne om du vil. Server med en limebåt.
+
+### Notater
+
+- **Bladene er ikke pynt.** De holder på fuktigheten så maisen damper mens den ristes, i stedet for å tørke ut. Rister du nakne kolber, får du seige korn.
+- **Trådene må bort før bladene brettes tilbake.** De brenner seg fast og er umulige å pille av etterpå.
+- **Kilden bruker parmesan, ikke cotija.** Forfatteren er åpen om at hun bare hadde parmesan i huset. Den ekte varen er **cotija añejo** — en tørr, salt meksikansk ost som smuldrer i stedet for å smelte. Får du tak i den, bruk den. Parmesan er saltere og mer nøtteaktig, og gir en italiensk tone retten egentlig ikke har.
+- **Kolbene legges rett på risten.** Legg en plate eller folie på hylla under om du vil slippe å skrape ovnen for blader som løsner.
+- **La dem kjøle litt før du smører.** Er de glovarme, smelter majonesen og renner av i stedet for å legge seg som et lag.
+- **Denne mot [ristet maisrøre med frossen feta (T49)](#t49-ristet-maisrøre-med-frossen-feta):** samme smaksbilde — mais, syre, chili, salt ost — men T49 er *esquites*, altså korn i bolle med skje. Denne er elote på kolbe, som spises med hendene. T49 til taco-bordet, denne til grillmaten.
+- **Beslektet:** [sprø peruansk kylling med ají verde og maissalsa (nr. 147)](#147-sprø-peruansk-kylling-med-ají-verde-og-maissalsa) bruker mais i en tredje retning, og [guacamole (T47)](#t47-guacamole) hører til samme bord.
+
+---
+
+
 
 # Salater
 
@@ -14219,7 +18866,7 @@ Rå fisk marinert i soya og sesam, servert over ris med grønnsaker. Hawaiiansk 
 - 1 vårløk, i tynne ringer
 
 **Bollen**
-- 400 g kokt sushiris, se [G15](#g15-kokt-ris)
+- 400 g kokt sushiris — ca. 180 g tørr ris, se [T131](#t131-kokt-ris)
 - 1 avokado, i skiver
 - ½ agurk, i terninger
 - 100 g edamamebønner
@@ -14249,7 +18896,7 @@ Rå fisk marinert i soya og sesam, servert over ris med grønnsaker. Hawaiiansk 
 - **Risen skal ikke være rykende varm.** Varm ris under rå fisk gir en ubehagelig lunken tekstur. Romtemperert er riktig.
 - **Til matpakke: hold delene adskilt.** Ris i bunnen, fisk i eget rom, dressing i en liten beholder. Alt blandet på morgenen er en grøt til lunsj.
 - **Holdbarhet:** spises samme dag. Rå fisk i marinade holder seg ikke til dagen etter.
-- **Beslektet:** [G15](#g15-kokt-ris) er risen, [SJ4](#sj4-krydret-marinert-laks) er samme fisk i annen drakt.
+- **Beslektet:** [T131](#t131-kokt-ris) er risen, [SJ4](#sj4-krydret-marinert-laks) er samme fisk i annen drakt.
 
 ---
 
@@ -14343,7 +18990,7 @@ Couscous bløtlagt i kokende kraft, blandet med urter, granateple og pistasj. Fe
 ### Ingredienser
 
 - 300 g couscous
-- 4 dl kokende kyllingkraft, se [G6](#g6-kyllingkraft)
+- 4 dl kokende kyllingkraft, se [G22](#g22-kyllingkraft)
 - 2 ss olivenolje
 - 1 ts salt
 - 1 granateple, kjernene
@@ -14418,7 +19065,7 @@ Amerikansk sandwichfyll: kokt kylling i en dressing av majones og yoghurt, med d
 - **Kokt kyllingfilet blir lett tørr.** Rester fra en grillet kylling, gjerne med litt lårkjøtt, gir langt bedre resultat.
 - **Estragon er den klassiske urten** i denne salaten. Har du den ikke, er gressløk nest best.
 - **Holdbarhet:** 3 døgn kjøleskap. Druene begynner å slippe væske etter to dager.
-- **Beslektet:** [S22](#s22-cæsarsalat-i-glass) og [S24](#s24-eggesalat-med-sriracha-og-bacon) er samme sjanger med annen base.
+- **Beslektet:** [S22](#s22-spicy-cæsarwrap-med-kylling) og [S24](#s24-eggesalat-med-sriracha-og-bacon) er samme sjanger med annen base.
 
 ---
 
@@ -14465,6 +19112,47 @@ Puylinser holder formen og faller ikke sammen, og det gjør dem til den beste be
 - **Spisskummen ristes hel.** Ferdigmalt spisskummen har mistet mesteparten av oljene, og forskjellen er stor i en rett der krydderet er hovedsmaken.
 - **Holdbarhet:** 4 døgn kjøleskap, best dag to. Feta og valnøtt i eget rom hvis den skal ligge lenge.
 - **Beslektet:** [SA2](#sa2-kikertsalat-med-sitron-og-persille) er samme sjanger, og [SU13](#su13-vegetarisk-linsegryte) bruker samme belgfrukt varmt.
+
+---
+
+## SA7. Hellstrøms cæsarsalat
+
+**Kilde:** Eyvind Hellstrøm, *Grunnboka* (Cappelen Damm, 2025) · **Kjøkken:** Amerikansk · **Tid:** ca. 20 min *(ikke oppgitt i kilden)* · **Porsjoner:** 4 *(ikke oppgitt i kilden)*
+
+Dressingen kjøres glatt i kjøkkenmaskin med rå eggeplommer, ansjos og to oljer. Bare kjernene av salaten brukes, og den skal serveres umiddelbart.
+
+### Ingredienser
+
+- 2–3 romano salathoder
+- 4 eggeplommer
+- 6 ansjosfileter
+- 1 ss dijonsennep
+- 1 ss Worcestershiresaus
+- Saften av 1 sitron
+- 3–4 ss revet parmesan
+- 6 ss olivenolje
+- 6 ss jordnøttolje
+- 1 ss knust svart pepper
+- Salt
+- 4 ss krutonger av lyst brød stekt i olivenolje eller klaret smør
+
+### Fremgangsmåte
+
+1. **Skyll salaten i kaldt vann** og tørk den i salatsentrifuge eller kjøkkenhåndkle.
+2. **Bruk bare kjernene** – ikke de ytterste bladene. Bryt dem opp for hånd i mindre biter og legg salaten i en stor bolle.
+3. **Kjør resten av ingrediensene unntatt krutongene i kjøkkenmaskin** til en glatt saus.
+4. **Bland dressingen inn i salaten** og fordel på tallerkener.
+5. **Anrett med krutonger**, eventuelt ekstra parmesan og et ekstra dryss knust svart pepper.
+6. **Server umiddelbart.**
+
+### Notater
+
+- **To oljer, ikke én.** Jordnøttolje er nøytral og lar ansjosen og parmesanen slippe til; ren olivenolje i seks spiseskjeer ville dominert. Blandingen gir kropp uten at oljen blir hovedsmaken.
+- **Bare kjernene.** De ytterste bladene er tynne og faller sammen i det de møter dressingen. Kjernebladene er stive nok til å holde seg sprø gjennom måltidet – det er hele grunnen til at romano brukes.
+- **Rå eggeplommer emulgerer dressingen.** Den er i praksis en tynn majones. Bruk ferske egg, og lag den samme dag.
+- **«Server umiddelbart» er ikke en høflighetsfrase.** Kilden er eksplisitt: en salat som må vente på gjestene blir fort en trist opplevelse. Salt og syre trekker vann ut av bladene i løpet av minutter.
+- **Ansjos er ikke valgfritt.** Seks fileter høres mye ut, men de smelter inn i dressingen og oppfattes som salt og dybde, ikke som fisk. Uten dem er det en parmesandressing.
+- **Beslektet:** [nr. 156](#156-cæsarsalat-med-panert-kylling) er samme dressing som hovedrett med panert kylling, og [T122](#t122-majones) er emulsjonen den bygger på.
 
 ---
 
@@ -14608,7 +19296,7 @@ Klassisk dim sum: åpne, dampede dumplings med svinekjøttdeig. Få ingredienser
 - **Legg bakepapir i dampkurven** og stikk noen hull i det, ellers setter dumplingene seg fast.
 - **Shumai er åpne på toppen** – de skal ikke lukkes helt igjen, slik som gyoza.
 - **Rør farsen samme vei** hele tiden, som i [nr. 18](#18-filips-stekte-bao-dumplings), så blir den fjærende i stedet for smuldrete.
-- **Tre dumpling-oppskrifter i samlingen:** disse dampede, [crispy med kylling](#17-crispy-dumplings-med-kylling) i gyoza-ark, og [Filips stekte bao](#18-filips-stekte-bao-dumplings) med hevet deig.
+- **Tre dumpling-oppskrifter i samlingen:** disse dampede, [crispy med kylling](#s2-crispy-dumplings-med-kylling) i gyoza-ark, og [Filips stekte bao](#18-filips-stekte-bao-dumplings) med hevet deig.
 - Wontonark og bambuskurv finnes i asiatiske butikker. Har du ikke dampkurv, går det an å improvisere med en sil over en kjele og lokk over.
 
 ---
@@ -14677,7 +19365,7 @@ Familieoppskrift ført videre fra forfatterens shanghainesiske bestemor. Fyllet 
 - **Vask pak choien grundig.** Det sitter jord i skjøtene der stilkene møtes. Forfatteren legger dem i bløt i 15 minutter i vann med et par desiliter hvitvinseddik, og skyller hver enkelt etterpå.
 - **Dette er en helgeporsjon**, ikke en hverdagsmiddag: 1350 g pak choi og 650 g wontonark gir nesten hundre stykker. Halver alt hvis du bare skal ha en middag, eller lag full porsjon og frys.
 - **Innkjøp:** firkantede wontonark (ikke runde dumplingark) ligger i fryseren i asiatiske butikker. Pak choi finnes både som baby og vanlig — begge går.
-- Nærmeste slektning i samlingen er [shumai](#28-shumai--dampede-dumplings); se også [crispy dumplings med kylling](#17-crispy-dumplings-med-kylling) og [Filips stekte bao-dumplings](#18-filips-stekte-bao-dumplings).
+- Nærmeste slektning i samlingen er [shumai](#s3-shumai--dampede-dumplings); se også [crispy dumplings med kylling](#s2-crispy-dumplings-med-kylling) og [Filips stekte bao-dumplings](#18-filips-stekte-bao-dumplings).
 
 ---
 
@@ -14716,15 +19404,15 @@ Kyllingfyll med kinakål, vårløk og rikelig ingefær, brettet i runde ark. Lag
 ### Notater
 
 - **Kilden oppgir ingen fremgangsmåte**, bare ingredienslisten. Trinnene over er standard for denne typen dumplings, ikke kildens egne ord. Emneknaggen antyder potstickers, derfor stekemetoden i punkt 6.
-- **Kyllingkjøttdeig er magert og blir lett tørt.** Har du mulighet, be om deig av lårkjøtt framfor bryst, eller rør inn 1 ss nøytral olje i fyllet. Samme problemstilling nevnes uttrykkelig i [Shanghai-wontonene](#37-shanghai-wontons-med-svin-og-pak-choi).
+- **Kyllingkjøttdeig er magert og blir lett tørt.** Har du mulighet, be om deig av lårkjøtt framfor bryst, eller rør inn 1 ss nøytral olje i fyllet. Samme problemstilling nevnes uttrykkelig i [Shanghai-wontonene](#s4-shanghai-wontons-med-svin-og-pak-choi).
 - **Kinakålen må avvannes.** Den slipper mye væske, og fyllet blir løst og vanskelig å brette uten dette steget. Kilden nevner det ikke.
 - **«1 ss kyllingbuljong» er tvetydig.** Pulver er mest sannsynlig ut fra mengden. Bruker du buljongterning, tilsvarer det omtrent én smuldret terning. Bruker du flytende fond, blir det for mye væske i fyllet.
 - **Retten er godt saltet fra før** — soyasaus, østerssaus og buljongpulver til sammen. Ikke tilsett salt uten å ha smakt på steg 4.
-- **Runde ark, ikke firkantede.** Runde brettes til halvmåner og er tykkere enn wontonark. Vil du bruke firkantede, se brettemetoden under [Shanghai-wontonene](#37-shanghai-wontons-med-svin-og-pak-choi).
+- **Runde ark, ikke firkantede.** Runde brettes til halvmåner og er tykkere enn wontonark. Vil du bruke firkantede, se brettemetoden under [Shanghai-wontonene](#s4-shanghai-wontons-med-svin-og-pak-choi).
 - **50 stykker er en storporsjon.** Frys overskuddet rått: enkeltvis på brett til de er faste, deretter i pose. Stekes rett fra fryseren med 2–3 minutter ekstra damping.
 - **Kjernetemperatur 74 °C**, eller skjær en i to og sjekk at kjøttet ikke er rosa.
 - **Ingefærmengden er høy** — 5 cm på 450 g kjøtt. Det er bevisst og gir retten preg, men reduser hvis du vil ha den mildere.
-- Se også de øvrige dumplingene i samlingen: [S2](#s2-crispy-dumplings-med-kylling), [nr. 18](#18-filips-stekte-bao-dumplings), [S3](#s3-shumai--dampede-dumplings) og [S4](#s4-shanghai-wontons-med-svin-og-pak-choi).
+- Se også de øvrige dumplingene i samlingen: [crispy dumplings med kylling (S2)](#s2-crispy-dumplings-med-kylling), [Filips stekte bao-dumplings (nr. 18)](#18-filips-stekte-bao-dumplings), [shumai – dampede dumplings (S3)](#s3-shumai--dampede-dumplings) og [shanghai-wontons med svin og pak choi (S4)](#s4-shanghai-wontons-med-svin-og-pak-choi).
 
 ---
 
@@ -14950,7 +19638,7 @@ Wontonark presset ned i en muffinsform og forstekt sprø, fylt med kremost, baco
 - 3 jalapeño, frøet og finhakket *(hold av ca. 2 ss)*
 - 2 vårløk, tynt skivet
 - 2 ss melk eller fløte
-- Olje til å smøre formen
+- 5 g olje til å smøre formen *(mengde lagt til.)*
 
 ### Fremgangsmåte
 
@@ -15022,16 +19710,16 @@ Sprø utenpå, saftige inni. Potetmos og plukket oksehalekjøtt formet til bolle
 
 ### Notater
 
-- **Oppskriften starter der en annen slutter.** De 400 g plukket oksehalekjøtt forutsetter at halene allerede er brunet og trukket i vann eller kraft i **minst 4 timer**, til kjøttet løsner fra beinet. Regn dette som en toretters operasjon, eller enda bedre – lag krokettene av restene fra [nr. 119 langstekt oksehale](#119-langstekt-oksehale) eller [nr. 113](#113-braisert-oksehale-med-mac-and-cheese-søtpotet-og-grønnkål).
+- **Oppskriften starter der en annen slutter.** De 400 g plukket oksehalekjøtt forutsetter at halene allerede er brunet og trukket i vann eller kraft i **minst 4 timer**, til kjøttet løsner fra beinet. Regn dette som en toretters operasjon, eller enda bedre – lag krokettene av restene fra [langstekt oksehale (nr. 119)](#119-langstekt-oksehale) eller [braisert oksehale med mac and cheese, søtpotet og grønnkål (nr. 113)](#113-braisert-oksehale-med-mac-and-cheese-søtpotet-og-grønnkål).
 - **400 g plukket kjøtt krever mye rå oksehale.** Utbyttet er lavt – bein og fett utgjør det meste – så regn **1,3–1,5 kg rå oksehale** for å komme i mål. Kilden nevner det ikke. *(Lagt til.)*
 - **De halve eggene er en skaleringsartefakt.** Ingredienslisten oppgir ½ egg i farsen og ½ egg til paneringen, noe som er upraktisk i praksis. Visp ett egg og bruk omtrent halvparten – ca. 25 g – i farsen, og resten til paneringen. Blir farsen for løs, tilsett en ekstra spiseskje potetmel. *(Presisering lagt til.)*
 - **Potetene må dampe seg tørre.** Dette er det viktigste steget for at krokettene skal holde formen. Våt potetmos gir en farse som sprekker i frityren, og da renner alt ut i oljen. La dem stå i den varme kjelen et par minutter etter avrenning, og mos dem først når dampen har lagt seg.
 - **Farsen skal være kald når den formes og paneres.** Halvtimen i kjøleskapet er et minimum – en time er bedre, og ligger de i fryseren i 15 minutter rett før panering, holder de seg enda bedre sammen. *(Lagt til.)*
 - **Melne potetsorter** er mandelpotet, pimpernell, Kerrs Pink, Ringerikspotet og gulløye, ifølge kilden. Faste sorter som Asterix og Beate gir en klissete mos som ikke fungerer her.
-- **Spar på kraften fra oksehalen.** Kilden er tydelig på dette, og med god grunn – braisert oksehalekraft er noe av det beste du kan ha på lur. Den hører hjemme i [SU5 fransk løksuppe](#su5-fransk-løksuppe), [SU11](#su11-fransk-løksuppe--géraldine-sin-versjon) eller [nr. 115 boeuf bourguignon](#115-boeuf-bourguignon).
+- **Spar på kraften fra oksehalen.** Kilden er tydelig på dette, og med god grunn – braisert oksehalekraft er noe av det beste du kan ha på lur. Den hører hjemme i [fransk løksuppe (SU5)](#su5-fransk-løksuppe), [fransk løksuppe – Géraldine sin versjon (SU11)](#su11-fransk-løksuppe--géraldine-sin-versjon) eller [boeuf bourguignon (nr. 115)](#115-boeuf-bourguignon).
 - **2 cm olje er minimum, ikke anbefaling.** Bollene skal helst flyte fritt. Bruk heller 4–5 cm i en høy gryte, og friter i små puljer – legger du i for mange samtidig, faller temperaturen og krokettene suger olje. *(Lagt til.)*
 - **Dobbel panering gir tryggere resultat.** Kjør mel–egg–panko, og deretter egg–panko en gang til. Krokettene blir sprøere og risikoen for at de sprekker faller merkbart. *(Lagt til.)*
-- **Limemajonesen blir bedre av hjemmelaget majones**, noe kilden også påpeker – se [G3](#g3-majones). Rør inn limeskallet et kvarter før servering, så trekker aromaen ut i majonesen. Sammenlign med yuzumajonesen i [T19](#t19-sprø-potetsalat-med-yuzumajones).
+- **Limemajonesen blir bedre av hjemmelaget majones**, noe kilden også påpeker – se [T122](#t122-majones). Rør inn limeskallet et kvarter før servering, så trekker aromaen ut i majonesen. Sammenlign med yuzumajonesen i [T19](#t19-sprø-potetsalat-med-yuzumajones).
 - **Kan fryses ferdig panert.** Friter dem da rett fra frossen på **170 °C** og regn 1–2 minutter ekstra, så de blir gjennomvarme uten at pankoen brenner. Ferdig friterte kroketter friskes opp 5–6 minutter i ovn på 200 °C. *(Presisering lagt til.)*
 
 ---
@@ -15065,10 +19753,10 @@ Saltmandlene som står på bordet på ethvert spansk tapassted. Fire steg, ingen
 - **Salt mens de er varme.** Saltet fester seg bare i den tynne oljefilmen på overflaten – har mandlene rukket å avkjøles, faller det av. Bruk flaksalt, som gir tydelige saltkorn i stedet for jevn salthet.
 - **Friter i puljer.** For mange mandler samtidig senker oljetemperaturen og gir ujevn steking.
 - **Marconamandler er den spanske originalen** – rundere, mykere og søtere enn vanlige mandler, og verdt å se etter i delikatessebutikker. Vanlige mandler fungerer helt fint, men blir litt fastere.
-- **Olivenolje gir mer spansk karakter**, men bruk vanlig, ikke ekstra virgin – den sistnevnte tåler ikke 160 °C godt og blir bitter. Se notatet i [G3](#g3-majones) om samme problem.
+- **Olivenolje gir mer spansk karakter**, men bruk vanlig, ikke ekstra virgin – den sistnevnte tåler ikke 160 °C godt og blir bitter. Se notatet i [T122](#t122-majones) om samme problem.
 - **Variasjoner:** vend de varme mandlene i ½ ts røkt paprikapulver sammen med saltet, eller friter et par kvister rosmarin i oljen de siste 30 sekundene og smuldre dem over. *(Lagt til.)*
 - **Oppbevaring:** helt avkjølt i tett glass i romtemperatur, 2 uker. De blir bløte av fuktighet, så ikke kjøleskap.
-- **Passer på tapasbordet** sammen med [T40 hummus](#t40-hummus) eller [T41 ovnsbakt paprika- og tomatsalat](#t41-ovnsbakt-paprika--og-tomatsalat-med-bocconcini), og ved siden av [S11 kroketter med oksehale](#s11-kroketter-med-oksehale).
+- **Passer på tapasbordet** sammen med [hummus (T40)](#t40-hummus) eller [ovnsbakt paprika- og tomatsalat (T41)](#t41-ovnsbakt-paprika--og-tomatsalat-med-bocconcini), og ved siden av [kroketter med oksehale (S11)](#s11-kroketter-med-oksehale).
 
 ---
 
@@ -15117,7 +19805,7 @@ Ricotta kjørt glatt i foodprosessor og bredt ut på et fat, med en marinade av 
 - **Appelsinskallet skal rives fint og bare det ytterste laget.** Det hvite under er bittert, og i en så enkel rett merkes det med en gang.
 - **Honningen er ikke valgfri pynt.** Den er motvekten til salt oliven og chili, og er det som gjør retten til noe mer enn ost med olje på. Vær raus.
 - **Alt kan gjøres dagen før**, som kilden sier – men frityrløken bør lages samme dag, og marinaden bør stå i romtemperatur den siste halvtimen, ikke rett fra kjøleskapet. Kald olivenolje stivner og blir grumsete. *(Lagt til.)*
-- **Beslektet:** [T41 ovnsbakt paprika- og tomatsalat](#t41-ovnsbakt-paprika--og-tomatsalat-med-bocconcini) og [T40 hummus](#t40-hummus) hører til samme type småretter som serveres med brød.
+- **Beslektet:** [ovnsbakt paprika- og tomatsalat (T41)](#t41-ovnsbakt-paprika--og-tomatsalat-med-bocconcini) og [hummus (T40)](#t40-hummus) hører til samme type småretter som serveres med brød.
 
 ---
 
@@ -15148,7 +19836,7 @@ Snarveien til en cubano: kokt skinke, ost, sennep og cornichoner i baguette, pre
 
 - **Majones på utsiden i stedet for smør er hovedgrepet.** Majones er olje og eggeplomme, tåler høyere varme enn smør uten å brenne, og gir en jevnere og sprøere skorpe. Grepet er velkjent fra grilled cheese – se [SU8](#su8-tomatsuppe-med-grilled-cheese) og [SU18](#su18-tomatsuppe-med-grilled-cheese--rajjekost-sin-versjon), som begge bruker smør i stedet.
 - **Presset er ikke valgfritt.** En cubano *er* en presset sandwich – det er derfor den heter *cubano prensado*. Loddet skal ligge på hele steketiden, og du skal presse den flat, ikke bare holde den nede. Har du panini-presse, er det riktig redskap.
-- **Dette er en snarvei, og kilden er ærlig om det.** En ekte cubano har både kokt skinke **og** langtidsstekt svinekjøtt – *lechón asado*, marinert i sitrus og hvitløk – og swiss cheese. Her er svinet utelatt og skinken doblet. Vil du nærme deg originalen, bruk restene av [nr. 74 porchetta](#74-porchetta) eller [nr. 132 flæskesteg](#132-flæskesteg-i-airfryer--dansk-svinestek-med-sprø-svor). *(Bakgrunn lagt til.)*
+- **Dette er en snarvei, og kilden er ærlig om det.** En ekte cubano har både kokt skinke **og** langtidsstekt svinekjøtt – *lechón asado*, marinert i sitrus og hvitløk – og swiss cheese. Her er svinet utelatt og skinken doblet. Vil du nærme deg originalen, bruk restene av [porchetta (nr. 74)](#74-porchetta) eller [flæskesteg (nr. 132)](#132-flæskesteg-i-airfryer--dansk-svinestek-med-sprø-svor). *(Bakgrunn lagt til.)*
 - **Osttypen er ikke oppgitt.** En cubano bruker sveitserost – Jarlsberg eller Norvegia er nærmeste norske. Osten skal smelte, ikke bli oljete, så unngå de fetteste lagrede typene.
 - **Parmesanen er ikke tradisjonell**, men fungerer som saltdrysset til slutt. Riv den over mens smørbrødet er varmt, ikke i pannen.
 - **«Brenn av osten» krever gassbrenner**, som ikke alle har. Alternativet er å legge smørbrødene under grillelementet i ovnen i et minutt før lokket legges på – eller bare hoppe over steget. Det er en detalj, ikke en forutsetning. *(Presisering lagt til.)*
@@ -15180,7 +19868,7 @@ Tunfisksalat der majonesen er byttet mot en dressing av avokado og gresk yoghurt
 - 2 ss hakket dill
 - 1 ss hakket persille
 - Salt og pepper
-- Smør eller olje til steking *(lagt til)*
+- 20 g smør eller olje til steking *(mengde lagt til.)*
 
 ### Fremgangsmåte
 
@@ -15201,7 +19889,7 @@ Tunfisksalat der majonesen er byttet mot en dressing av avokado og gresk yoghurt
 - **Salt forsiktig.** Kapers, cornichoner og tunfisk er alle salte. Smak før du salter i punkt 3.
 - **Jalapeño på boks er mildere enn fersk.** Kilden sier ikke hvilken. ⅓ fersk jalapeño gir en tydelig, men ikke sterk hete – bruk mer hvis du tar den syltede.
 - **Middels varme.** Fyllet er kaldt og trenger tid til å bli varmt uten at brødet svir seg. Regn 3–4 minutter per side, og press ned med en stekespade.
-- **Beslektet:** [SJ8 tunfisk- og hvitbønnesalat](#sj8-tunfisk--og-hvitbønnesalat) bruker samme boks til et helt annet formål, og [T47 guacamole](#t47-guacamole) er avokadoens andre rolle i samlingen.
+- **Beslektet:** [tunfisk- og hvitbønnesalat (SJ8)](#sj8-tunfisk--og-hvitbønnesalat) bruker samme boks til et helt annet formål, og [guacamole (T47)](#t47-guacamole) er avokadoens andre rolle i samlingen.
 
 ---
 
@@ -15237,8 +19925,9 @@ Tapasklassikeren: en tykk bechamel med serranoskinke og løk, kjølt helt fast, 
 4. **Spe med melken**, **100 ml om gangen**, under kontinuerlig visping, så sausen blir helt glatt.
 5. **Skinke og løk tilbake.** Rør dem inn og smak til med salt, hvit pepper og muskat.
 6. **Kjøl massen.** Bre den utover et brett, legg plastfolie løst over så den ikke tørker ut, og sett den kaldt.
-7. **Panér.** Når massen er helt kald, rigg opp krydret mel, sammenpisket egg og brødsmuler, med et brett til de ferdig panerte krokettene. Dypp i mel, så egg, så brødsmuler. Du kan kjøle dem igjen her – **10 minutter i fryseren** holder.
-8. **Friter** på **160 °C** i **3–4 minutter på hver side**, til de er gyllne og sprø hele veien rundt.
+7. **Form krokettene.** *(Steget mangler i kilden – se notat.)* Del den kalde massen i like store biter og rull dem til sylindre eller kuler med lett fuktede hender.
+8. **Panér.** Når massen er helt kald, rigg opp krydret mel, sammenpisket egg og brødsmuler, med et brett til de ferdig panerte krokettene. Dypp i mel, så egg, så brødsmuler. Du kan kjøle dem igjen her – **10 minutter i fryseren** holder.
+9. **Friter** på **160 °C** i **3–4 minutter på hver side**, til de er gyllne og sprø hele veien rundt.
 
 ### Notater
 
@@ -15255,7 +19944,7 @@ Tapasklassikeren: en tykk bechamel med serranoskinke og løk, kjølt helt fast, 
 - **Fersk revet muskat gjør en merkbar forskjell** over ferdigmalt, som mister aromaen raskt. 1 ts fersk revet er raust, men riktig for en bechamel av denne størrelsen.
 - **Kan fryses ferdig panert.** Friter da rett fra frossen på **150 °C** og regn et par minutter ekstra. *(Lagt til.)*
 - **Kildens siste punkt** – «ikke skrap med kniv uten grunn» – er en spøk rettet mot kommentarfeltet, ikke en instruksjon.
-- **Passer på tapasbordet** sammen med [S12 friterte saltmandler](#s12-friterte-saltmandler-almendras-fritas) og [T41](#t41-ovnsbakt-paprika--og-tomatsalat-med-bocconcini).
+- **Passer på tapasbordet** sammen med [friterte saltmandler (S12)](#s12-friterte-saltmandler-almendras-fritas) og [ovnsbakt paprika- og tomatsalat med bocconcini (T41)](#t41-ovnsbakt-paprika--og-tomatsalat-med-bocconcini).
 
 ---
 
@@ -15268,8 +19957,8 @@ Tapasklassikeren: en tykk bechamel med serranoskinke og løk, kjølt helt fast, 
 ### Ingredienser
 
 - 1 middels stor til stor rødskallet potet, skrellet
-- En raus klatt smør
-- En liten skvett olje
+- 15 g en raus klatt smør *(mengde lagt til.)*
+- 10 g en liten skvett olje *(mengde lagt til.)*
 
 **Topping**
 - Crème fraîche
@@ -15337,7 +20026,7 @@ Hjemmelaget kopi av McDonald's hashbrown, men i dobbel størrelse. Fire ingredie
 - **Maisenna, ikke hvetemel.** Maisenna gir en sprøere og lettere skorpe og binder uten å gjøre massen deigete.
 - **De 3 ss olje er i blandingen**, ikke til steking. Stekefettet kommer i tillegg.
 - **Kan fryses ferdig formet** og stekes rett fra frossen – da er de klare til frokost når som helst. Legg på et par minutter i pannen.
-- **Beslektet:** [S17 potetrösti](#s17-potetrösti-med-crème-fraîche-og-gochugaru) er den rå varianten, og [T23 potetbåter i airfryer](#t23-potetbåter-i-airfryer) og [T51 hasselbackpoteter](#t51-hasselbackpoteter-med-hvitløkssmør) hører til samme maskin.
+- **Beslektet:** [potetrösti (S17)](#s17-potetrösti-med-crème-fraîche-og-gochugaru) er den rå varianten, og [potetbåter i airfryer (T23)](#t23-potetbåter-i-airfryer) og [hasselbackpoteter (T51)](#t51-hasselbackpoteter-med-hvitløkssmør) hører til samme maskin.
 
 ---
 
@@ -15405,12 +20094,12 @@ Tapasklassikeren, men ovnsbakt i stedet for fritert. Potetene forvelles i vann m
 - **Det forvarmede brettet er ikke valgfritt.** Poteter som treffer et glovarmt brett begynner å steke umiddelbart; på et kaldt brett damper de først. Sett brettet inn i kald ovn, som kilden sier, så det ikke slår seg.
 - **Yukon Gold er en middels melen potet.** Norsk **Beate** ligger nærmest. Helt melne sorter som Kerrs Pink faller lettere fra hverandre i natronvannet; helt fastkokende gir for lite stivelse til grøtlaget. *(Erstatning lagt til.)*
 - **Ikke overskrid det ene minuttet.** Natron akselererer nedbrytingen kraftig, og potetene går fra perfekt til grøt på kort tid.
-- **Kildens «aioli» er hvitløksmajones**, og hun sier det rett ut selv. Ekte aioli lages uten egg, bare hvitløk og olje – se [T15](#t15-aioli). Vil du lage majonesen fra bunnen, se [G3](#g3-majones). Snarveien her er både vanlig og god.
-- **800 g tomat til 1,1 kg potet gir mye saus.** Halvparten holder til retten; resten er utmerket som pastasaus eller til [S16 croquetas](#s16-croquetas-de-jamón--spanske-skinkekroketter). *(Presisering lagt til.)*
+- **Kildens «aioli» er hvitløksmajones**, og hun sier det rett ut selv. Ekte aioli lages uten egg, bare hvitløk og olje – se [T15](#t15-aioli). Vil du lage majonesen fra bunnen, se [T122](#t122-majones). Snarveien her er både vanlig og god.
+- **800 g tomat til 1,1 kg potet gir mye saus.** Halvparten holder til retten; resten er utmerket som pastasaus eller til [croquetas (S16)](#s16-croquetas-de-jamón--spanske-skinkekroketter). *(Presisering lagt til.)*
 - **Spansk røkt paprika – pimentón – finnes i tre styrker:** *dulce* (søt), *agridulce* (halvsterk) og *picante* (sterk). Kilden bruker den søte og henter styrken fra cayenne. Fås hos Meny og i delikatessebutikker.
 - **Madrids salsa brava inneholder ofte ingen tomat i det hele tatt** – den lages på paprikapulver, mel, kraft og eddik. Tomatbaserte versjoner er vanlige ellers i Spania og i utlandet. Denne er altså en variant, ikke den strengeste originalen. *(Bakgrunn lagt til.)*
 - **Sausene kan lages dagen før.** Potetene må stekes ferske – de mister sprøheten raskt.
-- **Passer på tapasbordet** sammen med [S16 croquetas de jamón](#s16-croquetas-de-jamón--spanske-skinkekroketter), [S12 friterte saltmandler](#s12-friterte-saltmandler-almendras-fritas) og [T41](#t41-ovnsbakt-paprika--og-tomatsalat-med-bocconcini).
+- **Passer på tapasbordet** sammen med [croquetas de jamón (S16)](#s16-croquetas-de-jamón--spanske-skinkekroketter), [friterte saltmandler (S12)](#s12-friterte-saltmandler-almendras-fritas) og [ovnsbakt paprika- og tomatsalat med bocconcini (T41)](#t41-ovnsbakt-paprika--og-tomatsalat-med-bocconcini).
 
 ---
 
@@ -15447,14 +20136,14 @@ Tunfisksalat rørt med Kewpie i stedet for vanlig majones, med cornichoner, rød
 - **Tunfisk i vann er et bevisst valg her.** Kewpie er fetere og mer smaksrik enn vanlig majones, og bringer fettet retten trenger – tunfisk i olje ville blitt for tungt. Det er motsatt av [S15](#s15-tuna-melt-med-avokadodressing), der oljen er poenget fordi dressingen er yoghurtbasert. *(Sammenligning lagt til.)*
 - **Press tunfisken tørr.** «Avrent» er ikke nok – klem den mot silen med en skje. Vann som blir igjen tynner ut majonesen og gjør brødet bløtt. *(Lagt til.)*
 - **3 ss majones til 300 g tunfisk er lite.** Det gir en tørr, kornete salat. Regn **4–5 ss** hvis du vil ha den kremete, som en japansk *sando* skal være. *(Justering lagt til.)*
-- **Kewpie er ikke norsk majones.** Den lages på bare eggeplommer, syres med riseddik og inneholder MSG. Bytter du til vanlig majones, blir salaten flatere – kompenser med noen dråper riseddik og en klype salt. Se [T39](#t39-sesamdressing-til-kålsalat) og [T48](#t48-crispy-chilimajones), og [G3](#g3-majones) om du vil lage den selv.
+- **Kewpie er ikke norsk majones.** Den lages på bare eggeplommer, syres med riseddik og inneholder MSG. Bytter du til vanlig majones, blir salaten flatere – kompenser med noen dråper riseddik og en klype salt. Se [sesamdressing til kålsalat (T39)](#t39-sesamdressing-til-kålsalat) og [crispy chilimajones (T48)](#t48-crispy-chilimajones), og [majones (T122)](#t122-majones) om du vil lage den selv.
 - **Cornichoner, ikke norsk sylteagurk.** Den norske er søt og trekker retten i feil retning. Cornichoner er syrlige og salte, og fås hos Meny og i delikatessebutikker. Samme presisering som i [S14](#s14-rask-cuban-sandwich).
 - **Rå revet hvitløk i en kald salat blir skarpere med tiden.** Ett lite fedd er riktig – bruker du mer, dominerer det etter en halvtime i kjøleskapet. *(Presisering lagt til.)*
 - **Salt forsiktig.** Kewpie inneholder både salt og MSG, og cornichonene er salte.
 - **Salaten blir bedre av 30 minutter i kjøleskapet**, så smakene setter seg og løken mykner. *(Lagt til.)*
-- **Brødet avgjør om dette er et japansk sando.** Originalen bruker *shokupan* – mykt, hvitt melkebrød – med skorpen skåret av og smørbrødet delt diagonalt. Vil du bake det selv, se [B1 hot cross shokupan](#b1-hot-cross-shokupan--krydret-japansk-melkebrød) uten krydder og frukt. Vanlig loff fungerer, men da er det et vanlig tunfisksmørbrød. *(Bakgrunn lagt til.)*
+- **Brødet avgjør om dette er et japansk sando.** Originalen bruker *shokupan* – mykt, hvitt melkebrød – med skorpen skåret av og smørbrødet delt diagonalt. Vil du bake det selv, se [hot cross shokupan (B1)](#b1-hot-cross-shokupan--krydret-japansk-melkebrød) uten krydder og frukt. Vanlig loff fungerer, men da er det et vanlig tunfisksmørbrød. *(Bakgrunn lagt til.)*
 - **Stangsellerien er valgfri, men gjør en jobb** – den er det eneste sprø elementet som holder seg sprøtt. Ikke sløyf den uten grunn.
-- **Beslektet:** [S15 tuna melt](#s15-tuna-melt-med-avokadodressing) er den varme, stekte varianten, og [SJ8 tunfisk- og hvitbønnesalat](#sj8-tunfisk--og-hvitbønnesalat) bruker samme boks i middelhavsdrakt.
+- **Beslektet:** [tuna melt (S15)](#s15-tuna-melt-med-avokadodressing) er den varme, stekte varianten, og [tunfisk- og hvitbønnesalat (SJ8)](#sj8-tunfisk--og-hvitbønnesalat) bruker samme boks i middelhavsdrakt.
 
 ---
 
@@ -15564,7 +20253,7 @@ Cæsarsalat rullet i tortilla, med sprøstekt bacon og en snarveisdressing satt 
 - **Rull den i bakepapir** hvis den skal tas med, og skjær gjennom papiret. Da holder den formen.
 - **Dressingen blir bedre av en halvtime i kjøleskapet**, så hvitløken og parmesanen får satt seg. Rå revet hvitløk blir samtidig skarpere med tiden – ett halvt fedd er riktig mengde. *(Lagt til.)*
 - **Best samme dag.** Salaten faller sammen i dressingen i løpet av en time; vil du forberede, hold dressingen for seg og bygg wrapen rett før du spiser.
-- **Beslektet:** [nr. 156 cæsarsalat med panert kylling](#156-cæsarsalat-med-panert-kylling) er samlingens fullversjon, og [T42 Chicken tender dip](#t42-chicken-tender-dip-canes-saus) er en annen majonesbasert amerikansk dressing.
+- **Beslektet:** [cæsarsalat med panert kylling (nr. 156)](#156-cæsarsalat-med-panert-kylling) er samlingens fullversjon, og [Chicken tender dip (T42)](#t42-chicken-tender-dip-canes-saus) er en annen majonesbasert amerikansk dressing.
 
 ---
 
@@ -15604,7 +20293,7 @@ Fire ingredienser og et kvarter i ovnen. Butterdeig med et lag kremost rørt med
 - **La den hvile 5 minutter** før du skjærer, så setter osten seg.
 - **Løkkonfityr fås i norske butikker** som løksyltetøy eller løkmarmelade, hos Meny og i delikatessebutikker. Vil du lage den selv, er det tre løk skivet tynt, karamellisert på lav varme i en halvtime med 2 ss brunt sukker og 2 ss balsamico.
 - **Passer som forrett eller lunsj** med en grønn salat. Serveres lun, ikke varm – geitosten er best når den har satt seg litt.
-- **Beslektet:** [nr. 110 aspargespai med fersk geitost](#110-aspargespai-med-fersk-geitost) bruker samme ost i en fullverdig pai, og [S13 pisket ricotta](#s13-pisket-ricotta-med-marinerte-oliven-chili-og-appelsin) er en annen enkel ostebasert smårett.
+- **Beslektet:** [aspargespai med fersk geitost (nr. 110)](#110-aspargespai-med-fersk-geitost) bruker samme ost i en fullverdig pai, og [pisket ricotta (S13)](#s13-pisket-ricotta-med-marinerte-oliven-chili-og-appelsin) er en annen enkel ostebasert smårett.
 
 ---
 
@@ -15643,9 +20332,9 @@ Amerikansk eggesalat satt med sriracha og rødløk, med sprøstekt bacon i. Ingr
 - **Rødløken bør ligge i kaldt vann i 10 minutter** før den hakkes inn, ellers dominerer den rått og skarpt. *(Lagt til.)*
 - **Hardkokt, ikke overkokt.** Grønn ring rundt plommen betyr for lang koking og gir svovelsmak. 9–10 minutter og deretter isvann.
 - **Hakk eggene grovt.** Eggesalat skal ha biter i seg – moses de helt, blir det majones med eggesmak.
-- **Sriracha gir både styrke og sødme.** 1 ss til denne mengden er tydelig, men ikke brennende. Se [T48 crispy chilimajones](#t48-crispy-chilimajones) om du vil bygge styrken inn i majonesen i stedet.
+- **Sriracha gir både styrke og sødme.** 1 ss til denne mengden er tydelig, men ikke brennende. Se [crispy chilimajones (T48)](#t48-crispy-chilimajones) om du vil bygge styrken inn i majonesen i stedet.
 - **Serveres på ristet loff**, i wrap eller som dipp med kjeks. Holdbarhet 2 dager i kjøleskap – uten baconet, som må på ferskt.
-- **Beslektet:** [S20 japansk tunfisksandwich](#s20-japansk-tunfisksandwich) og [S15 tuna melt](#s15-tuna-melt-med-avokadodressing) er samme sjanger – kald, majonesbasert salat til brød.
+- **Beslektet:** [japansk tunfisksandwich (S20)](#s20-japansk-tunfisksandwich) og [tuna melt (S15)](#s15-tuna-melt-med-avokadodressing) er samme sjanger – kald, majonesbasert salat til brød.
 
 ---
 
@@ -15657,7 +20346,7 @@ Japanske risballer med fyll, pakket i nori. De tåler en dag i en boks og spises
 
 ### Ingredienser
 
-- 600 g kokt sushiris, se [G15](#g15-kokt-ris)
+- 600 g kokt sushiris — ca. 270 g tørr ris, se [T131](#t131-kokt-ris)
 - 2 ts salt
 - 4 ark nori, delt i to
 
@@ -15685,7 +20374,7 @@ Japanske risballer med fyll, pakket i nori. De tåler en dag i en boks og spises
 - **Nori settes på sent** hvis onigirien skal ligge en stund – arket blir bløtt av risen i løpet av et par timer. Butikkvarianten har derfor et plastlag imellom.
 - **Ikke klem hardt.** For fast press gir en tett, tung risklump. Den skal falle fra hverandre i munnen.
 - **Holdbarhet:** 1 døgn i romtemperatur eller kjølig, ikke i kjøleskap – kald ris blir hard og tørr. Dette er matpakkemat, ikke restemat.
-- **Beslektet:** [G15](#g15-kokt-ris) er risen, [G18](#g18-furikake) kan blandes i, og [S8](#s8-sprø-risbiter-med-laks) er den stekte varianten.
+- **Beslektet:** [kokt ris (T131)](#t131-kokt-ris) er risen, [furikake (G18)](#g18-furikake) kan blandes i, og [sprø risbiter med laks (S8)](#s8-sprø-risbiter-med-laks) er den stekte varianten.
 
 ---
 
@@ -15774,7 +20463,7 @@ Vietnamesisk baguette med paté, majones, syltede grønnsaker, agurk, chili og k
 - **Korianderen brukes med stilk.** Hele kvister passer lengden på sandwichen og gir mer smak enn bare bladene.
 - **Kewpie-majones er eggere** og mer syrlig enn norsk majones. Vanlig majones fungerer, gjerne med en teskje riseddik i.
 - **Holdbarhet:** đồ chua holder 3 uker i kjøleskap. Ferdig sandwich bør spises innen 4 timer.
-- **Beslektet:** [G14](#g14-hurtigsylting-av-agurk-og-gulrot) er samme sylteprinsipp, og [nr. 129](#129-gỏi-cuốn--vietnamesiske-rispapirruller-med-kylling) er samme kjøkken.
+- **Beslektet:** [T130](#t130-hurtigsylting-av-agurk-og-gulrot) er samme sylteprinsipp, og [S9](#s9-gỏi-cuốn--vietnamesiske-rispapirruller-med-kylling) er samme kjøkken.
 
 ---
 
@@ -15871,7 +20560,7 @@ Fylte deigposer som tåler transport bedre enn noe annet i denne bunken. Fyllet 
 - **Kanten må lukkes ordentlig.** Fukt kanten med litt vann hvis deigen er tørr, og press hardt. En empanada som åpner seg, mister alt fyllet.
 - **Oliven og egg er argentinsk signatur**, og de skal hakkes grovt så du kjenner dem.
 - **Holdbarhet:** 3 døgn kjøleskap, 3 måneder fryser. Frys dem usteikte på brett og stek fra frossen med 5 minutter ekstra.
-- **Beslektet:** [S12](#s12-friterte-saltmandler-almendras-fritas) og [S18](#s18-croquetas-de-jamón--spanske-skinkekroketter) hører til samme spanske og latinamerikanske sjanger.
+- **Beslektet:** [S12](#s12-friterte-saltmandler-almendras-fritas) og [S16](#s16-croquetas-de-jamón--spanske-skinkekroketter) hører til samme spanske og latinamerikanske sjanger.
 
 ---
 
@@ -15975,7 +20664,7 @@ Mac and cheese med bacon, kjølt til den er fast, skåret i terninger, panert og
 - **Kilden fraråder å fritere på forhånd** og varme opp igjen; paneringen mister sprøheten og osten blir gummiaktig. Flere lesere melder likevel om godt resultat i airfryer fra frossen.
 - **156 kcal per bit** ifølge kilden.
 - **Holdbarhet:** friterte biter spises med en gang. Upanert blokk 3 døgn kjøleskap, panerte biter 1 måned i fryser.
-- **Beslektet:** [nr. 106](#106-mac-and-cheese) er retten den bygger på, [nr. 162](#162-trøffel-mac-and-cheese--georgie-halfacree-sin-versjon) er den luksuriøse varianten, og [S18](#s18-croquetas-de-jamón--spanske-skinkekroketter) er samme paneringsprinsipp med en annen fylling.
+- **Beslektet:** [mac and cheese (nr. 106)](#106-mac-and-cheese) er retten den bygger på, [trøffel-mac and cheese – Georgie Halfacree sin versjon (nr. 162)](#162-trøffel-mac-and-cheese--georgie-halfacree-sin-versjon) er den luksuriøse varianten, og [croquetas de jamón – spanske skinkekroketter (S16)](#s16-croquetas-de-jamón--spanske-skinkekroketter) er samme paneringsprinsipp med en annen fylling.
 
 ---
 
@@ -16028,7 +20717,236 @@ Uthulede jalapeño fylt med ost, panert i tre lag og fritert. Frøene og hinnene
 - **Tre–fire av gangen.** Flere senker oljetemperaturen, og da suger paneringen olje i stedet for å bli sprø.
 - **Serveres straks.** Osten inni stivner og paneringen mykner i løpet av få minutter. Dette er ikke en rett som venter.
 - **Holdbarhet:** ingen for de ferdige. Chiliaiolien holder 1 uke i kjøleskap, og fylte, upanerte jalapeño kan ligge et døgn.
-- **Beslektet:** [S10](#s10-jalapeño-popper-wontonkopper) er samme smaksbilde i wontonkopper i stedet for fritert, [T15](#t15-aioli) er aiolien, og [S31](#s31-friterte-mac-and-cheese-biter) og [S12](#s12-friterte-saltmandler-almendras-fritas) er samlingens andre friterte småretter.
+- **Beslektet:** [jalapeño popper-wontonkopper (S10)](#s10-jalapeño-popper-wontonkopper) er samme smaksbilde i wontonkopper i stedet for fritert, [aioli (T15)](#t15-aioli) er aiolien, og [friterte mac and cheese-biter (S31)](#s31-friterte-mac-and-cheese-biter) og [friterte saltmandler (almendras fritas) (S12)](#s12-friterte-saltmandler-almendras-fritas) er samlingens andre friterte småretter.
+
+---
+
+## S33. Pizzasnurrer
+
+**Kilde:** Christy Denney / The Girl Who Ate Everything (the-girl-who-ate-everything.com) *(4,5 av 5 fra 58 vurderinger)* · **Kjøkken:** Amerikansk · **Tid:** 25 min · **Gir:** 12 stykker
+
+Pizzadeig rullet med pepperoni og mozzarella, skåret i skiver og pensles med hvitløkssmør før steking. Serveres med varm marinara til dipping. Ferdig på under en halvtime hvis du bruker ferdig deig.
+
+### Ingredienser
+
+- 400–450 g pizzadeig, se [G6](#g6-pizzadeig)
+- 60 g pepperoni, hakket
+- 200 g revet mozzarella, se [G17](#g17-hjemmelaget-mozzarella)
+
+**Hvitløkssmør**
+- 30 g smør, smeltet
+- ½ ts hvitløkspulver
+- ½ ts italiensk krydderblanding
+
+**Til servering**
+- Revet parmesan *(valgfritt)*
+- Marinara til dipping, se [T125](#t125-marinara--tomatsausbase)
+
+### Fremgangsmåte
+
+1. **Forvarm ovnen til 200 °C.**
+2. **Kjevle deigen ut** til et rektangel på ca. **25 × 35 cm**.
+3. **Strø over pepperoni og mozzarella.**
+4. **Rull deigen stramt sammen** fra langsiden.
+5. **Skjær i skiver på ca. 2,5 cm** med pizzakutter eller brødkniv. Legg snurrene på et bakepapirkledd stekebrett.
+6. **Rør sammen smeltet smør, hvitløkspulver og italiensk krydder**, og pensle det over snurrene.
+7. **Stek i 10 minutter**, til de er gyllenbrune på toppen.
+8. **Strø over parmesan** hvis du vil, og server med varm marinara ved siden av.
+
+### Notater
+
+- **Mengdene er regnet om fra amerikanske mål.** Kilden oppgir 14–16 oz deig, ½ cup pepperoni og 2 cups revet mozzarella. *(Omregnet.)*
+- **Hvitløkssmøret pensles på før steking**, ikke etter. Da tørker krydderet inn i overflaten og blir en del av skorpen i stedet for å ligge fuktig oppå. Kilden gjør det motsatt i sine andre snurreoppskrifter, så det er et bevisst valg her.
+- **Rull stramt.** En løs rull faller fra hverandre når du skjærer, og snurrene sprekker opp i ovnen.
+- **Pizzakutter eller brødkniv.** En vanlig kniv presser rullen flat i stedet for å skjære gjennom, og du mister spiralen.
+- **Kildens tidsangivelser spriker.** Oppskriftskortet sier 15 minutters steketid, mens fremgangsmåten sier 10 minutter. Følg fremgangsmåten og se etter farge – 10 minutter på 200 °C stemmer for denne størrelsen. *(Presisert.)*
+- **Frysing:** forfatteren fryser dem helst ferdigstekte, men sier begge deler går. Fra fryser: 10 minutter på 180 °C.
+- **Fyllet er fritt.** Kilden foreslår pepper jack i stedet for mozzarella, eller å legge til stekt pølse, paprika, sopp eller oliven.
+- **Croissantdeig fungerer**, men er mykere og vanskeligere å jobbe med, ifølge forfatteren.
+- **Holdbarhet:** 3 døgn kjøleskap. Varmes best i ovn, ikke mikro.
+- **Beslektet:** [pizzadeig (G6)](#g6-pizzadeig), [korttidshevet pizzadeig (G7)](#g7-korttidshevet-pizzadeig) og [pizzadeig med 48 timers heving (G8)](#g8-pizzadeig-med-48-timers-heving) er deigene, [pizzasaus (T128)](#t128-pizzasaus) og [marinara – tomatsausbase (T125)](#t125-marinara--tomatsausbase) er sausene, og [proteinrik pizza med yoghurtbunn (nr. 114)](#114-proteinrik-pizza-med-yoghurtbunn) er pizzaen i vanlig form.
+
+---
+
+## S34. Hellstrøms polentasticks
+
+**Kilde:** Eyvind Hellstrøm, *Grunnboka* (Cappelen Damm, 2025) · **Kjøkken:** Italiensk · **Tid:** 30 min + natten over · **Gir:** ca. 20 stykker
+
+Polenta kokt med parmesan og smør, satt kaldt over natten, panert i knust cornflakes og fritert. Cornflakes gir en grovere og sprøere skorpe enn brødrasp.
+
+### Ingredienser
+
+- 150 g polenta *(express)*
+- 5 dl vann
+- 50 g revet parmesan
+- 20 g meierismør
+- Salt
+- Kajennepepper
+- 50 g knust cornflakes
+- Frityrolje
+
+### Fremgangsmåte
+
+1. **Kok opp vann og polenta under omrøring.**
+2. **La det småkoke i noen minutter** til det blir en tykk masse, og tilsett revet parmesan og smør.
+3. **Smak til med salt og kajennepepper.**
+4. **Ha polentamassen over i en rektangulær form, ca. 2 cm dyp**, og dekk til med plastfolie.
+5. **Sett formen i kjøleskap eller fryser. La den stå kaldt over natten.**
+6. **Skjær lengder av den kalde polentamassen** og paner disse med knust cornflakes.
+7. **Stek i frityrolje i ca. 1 minutt på ca. 180 grader**, til de er gylne.
+8. **La dem renne av på kjøkkenpapir.**
+
+### Notater
+
+- **Cornflakes i stedet for brødrasp** gir en grovere og mer uregelmessig overflate, som blir sprøere og holder sprøheten lenger. Samme tanke som panko, bare med et annet utgangspunkt.
+- **Natten over er ikke en anbefaling.** Varm polenta er grøt. Den må stivne helt for å kunne skjæres i staver som holder formen i frityren.
+- **2 cm dybde** gir staver med riktig forhold mellom sprø skorpe og kremet innmat. Tynnere blir de bare sprø, tykkere blir de tunge.
+- **Ett minutt på 180 grader.** Polentaen er allerede ferdig kokt – frityren skal bare gi farge og skorpe. Lengre tid gir en stav som eksploderer innenfra.
+- **Kajennepepper, ikke chili.** Kilden vil ha varme uten smak av chili, som ville konkurrert med parmesanen.
+- **Beslektet:** [S31](#s31-friterte-mac-and-cheese-biter) bruker samme prinsipp – stivne først, panere, fritere – og [T63](#t63-pommes-frites) er den andre friterte stivelsen i samlingen.
+
+---
+
+## S35. Gua bao – braisert svinesideflesk
+
+**Kilde:** Steve Dunn / America's Test Kitchen (americastestkitchen.com) · **Kjøkken:** Taiwansk · **Tid:** ca. 2 t · **Porsjoner:** 6–8
+
+Sideflesk brunet til fettet er rendret, braisert i soya, hoisin og østerssaus, og til slutt vendt i den innkokte kraften. **Bruningen tar 15–20 minutter og skal ta så lang tid** — det er der fettet smelter ut og overflaten får farge.
+
+### Ingredienser
+
+**Sideflesket**
+- 900 g svinesideflesk med svor, ca. 4 cm tykt
+- 1 ss nøytral olje
+- 7,2 dl vann
+- 60 ml Shaoxing-vin eller tørr sherry
+- 3 ss hoisinsaus
+- 3 ss soyasaus
+- 3 ss østerssaus
+- 3 ss brunt sukker
+- 3 hele tørkede chili
+- 3 fedd hvitløk, knust
+- 2 stjerneanis
+- 2,5 cm ingefær, delt i tre
+
+**Krydret daikon**
+- 225 g daikon, i tynne skiver
+- 1 ss sukker
+- ½ ts salt
+
+**Hoisin- og soyasaus**
+- 60 ml hoisinsaus
+- 1 ss soyasaus
+
+**Til servering**
+- 16 dampede bao
+- 1 potte frisk koriander
+- 3 vårløk, delt på langs og i biter
+- 50 g saltede peanøtter, grovhakket
+- 2 thaichili, finhakket
+
+### Fremgangsmåte
+
+1. **Skjær sideflesket i 2 cm brede strimler**, og del strimlene på tvers til 16 like store biter på 5–6 cm.
+2. **Varm oljen i en tykkbunnet gryte på middels sterk varme.** Legg i kjøttet i ett lag — er det trangt, vent til de første bitene har krympet. **Stek 15–20 minutter** til de er gyllenbrune, og snu halvveis.
+3. **Bland vann, Shaoxing-vin, hoisin, soyasaus, østerssaus og sukker** i en bolle mens kjøttet bruner.
+4. **Hell blandingen i gryta** sammen med chili, hvitløk, stjerneanis og ingefær. Kok opp, og senk til et **friskt småkok**. Legg på lokk og la det koke **ca. 1 time**, til en gaffel går lett inn i kjøttet. Rør av og til.
+5. **Ta gryta av varmen og løft ut kjøttet** med hullsleiv. La kraften stå i 5 minutter, skum av fettet og kast de faste bitene.
+6. **Kok kraften inn til 2,4 dl** på middels varme, **ca. 15 minutter**. Vend kjøttet inn igjen og hold det varmt.
+7. **Bland daikon, sukker og salt** og sett kaldt til servering.
+8. **Rør sammen hoisin og soyasaus** i en liten bolle.
+9. **Legg en bit kjøtt i hver bao** og topp med daikon, hoisin- og soyasaus, koriander, vårløk, peanøtter og chili. Server straks.
+
+### Notater
+
+- **Braiseringen tåler et friskt kok, ikke bare et småkok.** Kilden er eksplisitt: bevegelsen i væsken hjelper fettet å bryte ned. Sideflesk er ikke et magert stykke som blir seigt av hardhendt behandling.
+- **Innkokingen til 2,4 dl er hele sausen.** Braisekraften er tynn og salt rett fra gryta. Redusert til en kopp blir den sirupsaktig og legger seg som en glasur på kjøttet.
+- **Fettskillekanne, eller kjøleskap.** Skummer du ikke av fettet, blir hver bao fetere enn den trenger å være. Har du tid, kjøl kraften helt — da stivner fettet og løftes av i ett stykke.
+- **Daikonen er ikke pynt.** Sukker og salt trekker ut vannet så skivene blir sprø og lettsyrlige. De er motvekten til fettet, og uten dem blir retten tung etter to bao.
+- **Kjøttet kan lages to dager i forveien** og varmes forsiktig under lokk. Det blir bedre av å stå.
+- **Beslektet:** [Hellstrøms bao-deig (G11)](#g11-hellstrøms-bao-deig) er buksene du damper til dette, [sprøstekt svinesideflesk (siu yuk) (nr. 42)](#42-sprøstekt-svinesideflesk-siu-yuk) tar samme stykke motsatt vei, og [buta no kakuni (nr. 49)](#49-buta-no-kakuni--japansk-braisert-svinesideflesk) er den japanske braiseringen med dashi i stedet for hoisin. Se også de øvrige bao-fyllene: [med sprø kylling (S36)](#s36-bao-fyll-med-sprø-kylling) og [char siu med kjøttdeig (S37)](#s37-char-siu-bao-fyll-med-kjøttdeig).
+
+---
+
+## S36. Bao-fyll med sprø kylling
+
+**Kilde:** Vanya Insull / VJ Cooks (vjcooks.com) · **Kjøkken:** Asiatisk-inspirert · **Tid:** 35 min · **Porsjoner:** 4
+
+Kyllingbiter marinert i soya og fem kryddere, bundet med egg og maisenna og stekt sprø i grunn olje. **Egg og maisenna sammen, ikke hver for seg** — det gir en tynn røre som fester seg til kjøttet og blir sprø i stedet for å falle av.
+
+### Ingredienser
+
+**Kyllingen**
+- 500 g kyllingbryst, i biter på 1 cm
+- 2 ss soyasaus
+- 1 ts hvitløkspulver
+- 1 ts ingefærpulver
+- 1 ts fem kryddere
+- 1 egg
+- 0,6 dl maisenna
+- 0,6 dl nøytral olje, til steking
+
+**Til servering**
+- 8 bao
+- 4 ss hoisinsaus
+- 300 g ferdig coleslaw
+- ½ agurk, i tynne skiver
+- 1 vårløk, i skiver
+- 2 ss japansk majones
+- Sriracha, etter smak
+
+### Fremgangsmåte
+
+1. **Skjær kyllingen i biter på 1 cm.** Bland med soyasaus og krydderne i en bolle.
+2. **Tilsett egg og maisenna** og bland godt. **Sett kaldt i 20 minutter.**
+3. **Varm oljen i en stor stekepanne på middels varme.** Stek kyllingbitene på begge sider til de er sprø og gjennomstekte.
+4. **Damp baoene** og gjør klar coleslaw og grønnsaker imens.
+5. **Fyll hver bao** med hoisinsaus, kylling, coleslaw, agurk, vårløk og majones. Server straks.
+
+### Notater
+
+- **Tjue minutter kaldt er ikke valgfritt.** Maisennaen må få trekke væske fra marinaden før steking, ellers ligger den som tørt pulver og slipper i panna.
+- **Middels varme, ikke sterk.** Bitene er små og røra er tynn — for høy varme svir belegget før kjøttet er gjennomstekt.
+- **Lårfilet fungerer like godt** og tåler et minutt for mye i panna. Kilden nevner det som et fullgodt bytte.
+- **Fyllet er ikke bundet til bao.** Kilden foreslår roti, wraps eller ris. Det holder seg tre dager i kjøleskap og kan varmes opp igjen i to.
+- **Beslektet:** [Hellstrøms bao-deig (G11)](#g11-hellstrøms-bao-deig) er buksene du damper til dette. Se også de øvrige bao-fyllene: [braisert svinesideflesk (S35)](#s35-gua-bao--braisert-svinesideflesk) og [char siu med kjøttdeig (S37)](#s37-char-siu-bao-fyll-med-kjøttdeig).
+
+---
+
+## S37. Char siu bao-fyll med kjøttdeig
+
+**Kilde:** Erin Aronowitz / Spinach and Bacon (spinachandbacon.com) · **Kjøkken:** Kinesisk · **Tid:** 20 min · **Porsjoner:** 8 bao
+
+Char siu-smakene — hoisin, honning, fem kryddere, Shaoxing — kokt inn i kjøttdeig i stedet for en hel svinenakke. **Fyllet er ferdig på et kvarter** og er den raskeste veien til bao med sødme og dybde.
+
+### Ingredienser
+
+- 450 g kjøttdeig av svin
+- 3 vårløk, det hvite og det grønne hver for seg
+- 1¼ ss revet ingefær
+- 2 ss soyasaus
+- ¾ ts fem kryddere
+- 2 ss Shaoxing-vin, eller tørr sherry
+- 2 ss honning
+- 4 ss hoisinsaus
+- ½ ss fiskesaus
+- ¼ ts salt
+
+### Fremgangsmåte
+
+1. **Ha kjøttdeigen i en panne på middels varme** sammen med soyasaus, den hvite delen av vårløken og ingefæren. **Stek 5 minutter.**
+2. **Tilsett alt det andre unntatt saltet** og la det småkoke på middels varme i **10 minutter**, til kjøttet er gjennomstekt og smakene har satt seg. Blandingen skal bli mørkere og se litt klissete ut av hoisinen og honningen.
+3. **Smak til med salt.** Om du har brukt fiskesaus, trenger du kanskje ikke noe.
+4. **Rør inn den grønne delen av vårløken** helt til slutt.
+5. **Fyll baoene** med 1½–2 ss av blandingen hver, eller spis fyllet med ris.
+
+### Notater
+
+- **Kokingen tykner fyllet, den koker ikke kjøttet.** Kjøttdeigen er ferdig etter fem minutter. De ti neste er til for at hoisin og honning skal redusere og binde — går du kortere, renner fyllet ut av baoen.
+- **Fiskesausen lukter kraftig i pannen og forsvinner i det ferdige fyllet.** Kilden anbefaler den, men halverer du mengden hvis lukten plager deg.
+- **Salt til slutt, ikke før.** Soyasaus, hoisin og fiskesaus tar med seg mye salt hver for seg. Smak før du tilsetter noe.
+- **Den grønne delen av vårløken går i etter varmen.** Den skal være frisk mot det søte og salte, og blir grå av å koke.
+- **Beslektet:** [char siu-kylling (nr. 35)](#35-char-siu-kylling) er samme smaksbilde på hel kylling, [Filips stekte bao-dumplings (nr. 18)](#18-filips-stekte-bao-dumplings) fylles rå og stekes, og [Hellstrøms bao-deig (G11)](#g11-hellstrøms-bao-deig) er deigen. Se også de øvrige bao-fyllene: [braisert svinesideflesk (S35)](#s35-gua-bao--braisert-svinesideflesk) og [med sprø kylling (S36)](#s36-bao-fyll-med-sprø-kylling).
 
 ---
 
@@ -16275,8 +21193,8 @@ Briochskiver smurt inn med honning- og brunsukkersmør på alle seks flater og b
 - **Ta vare på skorpene.** De kan smøres med resten av smørblandingen og bakes sammen med skivene som småbiter, eller tørkes til brødsmuler.
 - **Kremen skal ikke være søt.** Forfatteren advarer selv – 1 ss melis til 120 ml fløte er lite med vilje, siden toasten allerede er svært søt. Følg det rådet.
 - **Fløten må være kald** for å piske seg stiv. Bollen og vispen kan også kjøles ti minutter først.
-- **Saltkaramellen forfatteren viser til** finnes i samlingen som [G4](#g4-saltkaramellsaus) – fra samme kokk. Drypp den over rett før servering.
-- **Serveres lun, ikke varm eller kald.** Retten er en slektning av japansk *shibuya honey toast*, som lages av et helt uthulet melkebrød. Se [B1 hot cross shokupan](#b1-hot-cross-shokupan--krydret-japansk-melkebrød) om du vil bake brødet selv.
+- **Saltkaramellen forfatteren viser til** finnes i samlingen som [T123](#t123-saltkaramellsaus) – fra samme kokk. Drypp den over rett før servering.
+- **Serveres lun, ikke varm eller kald.** Retten er en slektning av japansk *shibuya honey toast*, som lages av et helt uthulet melkebrød. Se [hot cross shokupan (B1)](#b1-hot-cross-shokupan--krydret-japansk-melkebrød) om du vil bake brødet selv.
 
 ---
 
@@ -16308,13 +21226,13 @@ Den klassiske franske sjokolademoussen: bare sjokolade, egg og sukker. Ingen fl�
 - **Eggedosis-stadiet er ikke pynt.** Plommene skal piskes til de er lyse og tykke nok til at en bånd av røren blir liggende noen sekunder på overflaten før den synker. Det tar 4–5 minutter med elektrisk visp. Underpisket eggedosis gir en tung, tett mousse. *(Forklaring lagt til.)*
 - **Sukkermengden i marengsen er lav.** 60 g til 250 g hvite er under en fjerdedel – en klassisk fransk marengs bruker dobbelt til firedobbelt. Det gir en mindre søt og mer sjokoladedrevet mousse, som er poenget, men marengsen blir tilsvarende ustabil og faller raskere sammen. Pisk den ferdig **rett før** den skal brukes, og vend den inn med det samme. *(Faglig presisering lagt til.)*
 - **Første tredel skal røres inn, ikke vendes.** Den er der for å løse opp den tunge sjokoladebasen, så de siste to tredelene kan vendes inn uten at du må røre luften ut av dem. Kildens rekkefølge er riktig, men den forklarer ikke hvorfor. *(Forklaring lagt til.)*
-- **Du sitter igjen med eggeplommer til overs.** 250 g hvite tilsvarer ca. 7 egg, mens 85 g plomme bare er 5 – altså 2 plommer i overskudd. De kan gå til [G3 majones](#g3-majones) eller sjokoladekremen i [B3 éclairs](#b3-sjokoladeéclairs). *(Praktisk merknad lagt til.)*
+- **Du sitter igjen med eggeplommer til overs.** 250 g hvite tilsvarer ca. 7 egg, mens 85 g plomme bare er 5 – altså 2 plommer i overskudd. De kan gå til [majones (T122)](#t122-majones) eller sjokoladekremen i [éclairs (B3)](#b3-sjokoladeéclairs). *(Praktisk merknad lagt til.)*
 - **Settetiden mangler i kilden.** Regn **minst 4 timer**, gjerne over natten. Moussen inneholder ingen gelatin – det er sjokoladens kakaosmør som stivner og gir strukturen, og det tar tid. *(Lagt til.)*
-- **Rå egg er uproblematisk i Norge.** Norske egg har kontrollert salmonellastatus. Er du gravid eller har nedsatt immunforsvar, bruk pasteurisert eggehvite og eggeplomme. Se samme notat i [G3](#g3-majones).
+- **Rå egg er uproblematisk i Norge.** Norske egg har kontrollert salmonellastatus. Er du gravid eller har nedsatt immunforsvar, bruk pasteurisert eggehvite og eggeplomme. Se samme notat i [T122](#t122-majones).
 - **72 % sjokolade er mørkt og bevisst.** Med bare 25 + 60 g sukker totalt blir moussen tydelig bitter. Vil du ha den mildere, bruk 60–65 % sjokolade heller enn å øke sukkeret – mer sukker i marengsen endrer teksturen.
 - **Bollen til marengsen må være helt ren og fettfri.** Et spor av eggeplomme eller fett hindrer hvitene i å piske seg stive. Tørk bollen med litt sitronsaft eller eddik først.
 - **Server i porsjonsglass**, ikke i én stor bolle – moussen er luftig og lar seg vanskelig skje opp pent. Litt flaksalt eller revet appelsinskall over løfter den.
-- **Beslektet:** [D2 sjokoladefondant](#d2-sjokoladefondant) er samlingens andre mørke sjokoladedessert, og [B3 éclairs](#b3-sjokoladeéclairs) er fra samme kokk.
+- **Beslektet:** [sjokoladefondant (D2)](#d2-sjokoladefondant) er samlingens andre mørke sjokoladedessert, og [éclairs (B3)](#b3-sjokoladeéclairs) er fra samme kokk.
 
 ---
 
@@ -16354,7 +21272,7 @@ Ostekake uten steking, lagvis i matbokser: knuste kjeks i bunnen, kremostblandin
 - **YT vaniljeyoghurt** er Tines proteinyoghurt og gir retten mesteparten av proteinet. Gresk yoghurt eller skyr fungerer, men er syrligere – da trenger du litt mer søtning.
 - **Sukrin melis kan byttes mot vanlig melis** i samme mengde hvis du ikke trenger sukkerfri variant.
 - **Holdbarhet:** 3–4 dager i kjøleskap i tett boks. Geléen holder seg fint; bunnen blir mykere for hver dag.
-- **Beslektet:** [D4 pistasjpanna cotta](#d4-pistasjpanna-cotta-med-rømme-og-blåbær) er samlingens andre kalde, satte dessert – der med gelatin i stedet for ferdig gelé.
+- **Beslektet:** [pistasjpanna cotta (D4)](#d4-pistasjpanna-cotta-med-rømme-og-blåbær) er samlingens andre kalde, satte dessert – der med gelatin i stedet for ferdig gelé.
 
 ---
 
@@ -16416,7 +21334,7 @@ Bakt ostekake med bringebærsaus svøpt inn i midten og hvit sjokoladeganache p�
 - **Hvit sjokolade brenner lett.** Fløten skal *nesten* koke, aldri fosskoke, og sjokoladen får stå i det varme uten røring i ett minutt før du rører. Rører du med en gang, skiller ganachen seg.
 - **Natten over er ikke overdrivelse.** En bakt ostekake trenger den tiden for å sette seg helt. Skjæres den for tidlig, smøres den utover kniven.
 - **Skjær med varm, tørr kniv** som tørkes av mellom hvert snitt.
-- **Beslektet:** [D7 ostekake i matboks](#d7-ostekake-i-matboks) er den kalde, usteikte varianten, og [D4 pistasjpanna cotta](#d4-pistasjpanna-cotta-med-rømme-og-blåbær) bruker samme kombinasjon av kremet base og syrlige bær.
+- **Beslektet:** [ostekake i matboks (D7)](#d7-ostekake-i-matboks) er den kalde, usteikte varianten, og [pistasjpanna cotta (D4)](#d4-pistasjpanna-cotta-med-rømme-og-blåbær) bruker samme kombinasjon av kremet base og syrlige bær.
 
 ---
 
@@ -16451,14 +21369,14 @@ Fem ingredienser og ingen baking utover bunnen. Knust shortbread som bunn, et la
 - **Ganachen bør ikke smeltes sammen.** Kildens metode – varme fløte og sjokolade i samme kjele – skiller seg lett og gir en kornete ganache. Riktig metode: hakk sjokoladen fint, varm fløten til den *nesten* koker, hell den over sjokoladen, la det stå **2 minutter** uten å røre, og rør deretter fra midten og utover til den er blank. *(Kritisk teknikknotat lagt til.)*
 - **360 g sjokolade til 240 ml fløte gir en svært fast ganache** – forholdet er 1,5 : 1. Det gjør at terten lar seg skjære i rene stykker, men med 70 % sjokolade blir den hard og litt sprø rett fra kjøleskapet. Vil du ha den mykere og mer trøffelaktig, gå ned til **300 g sjokolade** eller bruk 55–60 %. *(Justering lagt til.)*
 - **Karamellen må være helt kald før ganachen helles på.** Er den lun, blander lagene seg og du mister det tydelige snittet. Sett formen i kjøleskapet 20 minutter etter punkt 3. *(Lagt til.)*
-- **Saltkaramellen kan lages selv** – se [G4](#g4-saltkaramellsaus), som gir ca. 300 g og dermed rikelig. Bruk den kald og fast; en tynn, varm karamellsaus renner ned i bunnen. Ferdigkjøpt saltkaramell på glass fungerer også.
+- **Saltkaramellen kan lages selv** – se [T123](#t123-saltkaramellsaus), som gir ca. 300 g og dermed rikelig. Bruk den kald og fast; en tynn, varm karamellsaus renner ned i bunnen. Ferdigkjøpt saltkaramell på glass fungerer også.
 - **Shortbread fås i norske butikker** under samme navn, og i utenlandsavdelingen. Digestive er nærmeste alternativ, men mindre smørrik og litt saltere.
 - **Bruk form med løs bunn.** En terte med hard ganache lar seg praktisk talt ikke få ut av en fast form uten å ødelegge kanten. *(Lagt til.)*
 - **Serveringstemperatur betyr mye.** Ta terten ut av kjøleskapet **20–30 minutter** før servering – kald ganache smaker lite og er hard, romtemperert er den silkeaktig. *(Lagt til.)*
 - **Skjær med varm, tørr kniv** som tørkes av mellom hvert snitt.
 - **Flaksalt over toppen** rett før servering er nesten obligatorisk her – det bryter opp sødmen fra karamellen. *(Forslag lagt til.)*
 - **Holdbarhet:** 4–5 dager i kjøleskap, tildekket. Terten tåler ikke frysing – ganachen blir grynete.
-- **Beslektet:** [G4 saltkaramellsaus](#g4-saltkaramellsaus) er komponenten, [D6 mousse au chocolat](#d6-mousse-au-chocolat) og [D2 sjokoladefondant](#d2-sjokoladefondant) er de andre mørke sjokoladedessertene i samlingen.
+- **Beslektet:** [saltkaramellsaus (T123)](#t123-saltkaramellsaus) er komponenten, [mousse au chocolat (D6)](#d6-mousse-au-chocolat) og [sjokoladefondant (D2)](#d2-sjokoladefondant) er de andre mørke sjokoladedessertene i samlingen.
 
 ---
 
@@ -16497,11 +21415,11 @@ Restaurantfondant med en kjerne av saltkaramell i tillegg til den flytende sjoko
 
 - **De loddrette penselstrøkene er ikke overtro.** Smøret danner spor som fondanten glir langs når du vender formen – penslet på tvers, sitter den fast. Enkelt grep, tydelig effekt.
 - **Sjokoladen må være avkjølt før den møter eggeblandingen.** For varm sjokolade koagulerer eggene. Sikt mot håndvarm.
-- **Saltkaramellen må være tykk og kald.** En tynn, romtemperert saus synker gjennom røren og legger seg i bunnen i stedet for å bli en kjerne. Sett den i fryseren i 20 minutter først, eller frys teskjeer av den på et brett. Lag den selv med [G4](#g4-saltkaramellsaus). *(Kritisk presisering lagt til.)*
+- **Saltkaramellen må være tykk og kald.** En tynn, romtemperert saus synker gjennom røren og legger seg i bunnen i stedet for å bli en kjerne. Sett den i fryseren i 20 minutter først, eller frys teskjeer av den på et brett. Lag den selv med [T123](#t123-saltkaramellsaus). *(Kritisk presisering lagt til.)*
 - **12–14 minutter er hele marginen.** Ett minutt for lenge, og kjernen er fast; ett for kort, og fondanten kollapser når du vender den. Kantene skal være faste og midten så vidt skjelve. Test med én form først. *(Lagt til.)*
 - **Metallformer, ikke porselen.** Metall leder varmen raskere og gir den skarpe kontrasten mellom fast kant og flytende midte. Kilden er tydelig på det.
 - **Røren kan lages på forhånd.** Fyll formene, dekk dem og sett dem kaldt i inntil et døgn – legg da på 2 minutters steketid. *(Lagt til.)*
-- **Sammenlign med [D2 sjokoladefondant](#d2-sjokoladefondant)**, som er samlingens rene versjon uten karamellkjerne.
+- **Sammenlign med [sjokoladefondant (D2)](#d2-sjokoladefondant)**, som er samlingens rene versjon uten karamellkjerne.
 
 ---
 
@@ -16547,7 +21465,7 @@ Britisk klassiker: daddelkake med natron, dynket i en toffeesaus av fløte, deme
 - **Formstørrelsen er ikke oppgitt.** «Åtte pudding tins» er små porsjonsformer på ca. 150 ml. Bruk muffinsformer eller små ildfaste former. Lager du én stor form på 20 × 20 cm i stedet, regn **35–40 minutter**. *(Lagt til.)*
 - **Sausen tykner mye når den avkjøles.** Kok den bare til den så vidt dekker baksiden av en skje – den fortsetter å sette seg. Blir den for tykk, spe med en skvett fløte.
 - **Best varm.** Kaken kan lages dagen før og varmes i ovnen med litt saus over.
-- **Beslektet:** [G4 saltkaramellsaus](#g4-saltkaramellsaus) er en beslektet, men helt annen saus – karamellisert sukker mot innkokt fløte og sirup her.
+- **Beslektet:** [saltkaramellsaus (T123)](#t123-saltkaramellsaus) er en beslektet, men helt annen saus – karamellisert sukker mot innkokt fløte og sirup her.
 
 ---
 
@@ -16598,58 +21516,53 @@ Usteikt ostekake der ostefromasjen settes med appelsingelé og toppes med et lok
 - **godt.no sperrer for automatisk lesing**, så oppskriften er hentet fra Kristine Ilstads egen publisering av samme oppskrift. Innholdet er identisk.
 - **Frosne jordbær fungerer.** De skal uansett varmes med rabarbraen.
 - **Holdbarhet:** 3 døgn kjøleskap. Tåler ikke frysing – gelatinen slipper vann ved tining.
-- **Beslektet:** [D7](#d7-ostekake-i-matboks) og [D8](#d8-ostekake-med-hvit-sjokolade-og-bringebær) er samlingens andre ostekaker, og [D20](#d20-panna-cotta-med-gelétopping) bruker samme prinsipp med gelé over en satt krem.
+- **Beslektet:** [ostekake i matboks (D7)](#d7-ostekake-i-matboks) og [ostekake med hvit sjokolade og bringebær (D8)](#d8-ostekake-med-hvit-sjokolade-og-bringebær) er samlingens andre ostekaker, og [panna cotta med gelétopping (D20)](#d20-panna-cotta-med-gelétopping) bruker samme prinsipp med gelé over en satt krem.
 
 ---
 
 ## D13. Rabarbrapai med mandelfyll
 
-**Kilde:** godt.no *(mengder er standard frangipane – se notat)* · **Kjøkken:** Fransk-inspirert · **Tid:** 1½ time · **Porsjoner:** 8
+**Kilde:** godt.no · **Kjøkken:** Fransk-inspirert · **Tid:** 1½ time · **Porsjoner:** 8
 
 Mørdeigsbunn, mandelkrem og rabarbra lagt i geometrisk mønster på toppen. Mandelkremen bakes sammen med rabarbraen og suger opp saften, som er grunnen til at denne paien ikke blir vandig slik klassiske rabarbrapaier gjerne blir.
 
 ### Ingredienser
 
 **Paibunn**
-- 250 g hvetemel
-- 150 g kaldt smør, i terninger
-- 60 g melis
-- 1 eggeplomme
+- 3 dl hvetemel — ca. 180 g
+- 100 g kaldt smør, i terninger
+- 3 ss sukker
 - 2 ss kaldt vann
-- En klype salt
 
-**Mandelfyll (frangipane)**
-- 150 g romtemperert smør
-- 150 g sukker
-- 150 g mandelmel
-- 2 egg
-- 1 ss hvetemel
-- 1 ts vaniljeekstrakt
+**Mandelkrem**
+- 70 g malte mandler
+- 70 g brunt sukker
+- 60 g smør, smeltet
+- 1 egg
+- 1 vaniljestang, frøene skrapt ut
 
 **Topp**
-- 600 g rabarbra, stilker av jevn bredde
-- 2 ss sukker
-- 2 ss aprikossyltetøy til pensling
+- 6 rabarbrastilker av lik bredde — ca. 450 g *(vekt lagt til)*
 
 ### Fremgangsmåte
 
 1. **Kjør alt til paibunnen i en food processor** til deigen samler seg. Klem den sammen med hendene, pakk i plast, og kjøl i **1 time**.
 2. **Kjevle ut** og kle en paiform på 24 cm. Prikk bunnen og sett den i fryseren i **15 minutter**.
 3. **Forbak** på 190 °C i **15 minutter** med vekt, deretter **5 minutter** uten.
-4. **Rør mandelfyllet:** pisk smør og sukker lyst, tilsett eggene ett av gangen, og vend inn mandelmel, hvetemel og vanilje.
+4. **Rør mandelkremen:** visp brunt sukker og smeltet smør sammen, tilsett egget og vaniljefrøene, og rør inn de malte mandlene. Kremen blir tyntflytende — det er riktig, den setter seg i ovnen.
 5. **Skjær rabarbraen** i biter på skrå, så du får diamantformede stykker av mest mulig lik størrelse.
 6. **Legg mønsteret på benken først**, ikke rett i paien. Start med en stjerne i midten og fyll utover.
-7. **Fordel mandelfyllet** i den forbakte bunnen og flytt mønsteret over, bit for bit.
-8. **Dryss over sukker** og stek på **180 °C i 35–40 minutter**, til fyllet er fast og rabarbraen har fått farge.
-9. **Pensle med varmet aprikossyltetøy** mens paien er lun.
+7. **Fordel mandelkremen** i den forbakte bunnen og flytt mønsteret over, bit for bit.
+8. **Stek på 180 °C i 35–40 minutter**, til kremen er fast og rabarbraen har fått farge.
 
 ### Notater
 
-- **Mengdene er ikke kildens.** godt.no sperrer for automatisk lesing, så jeg har lest fremgangsmåten og tipsene deres, men ikke ingredienslisten. Mengdene her er en standard frangipane til en form på 24 cm. Send meg ingredienslisten deres, så bytter jeg den inn. *(Lagt til.)*
+- **Mandelkremen er ikke frangipane.** Klassisk frangipane pisker romtemperert smør og sukker lyst. Kilden bruker smeltet smør og brunt sukker, som gir en tettere, mer karamellpreget krem uten luft. Ikke bytt teknikk uten å vite at du endrer retten.
+- **Deigen har ikke egg.** Bare mel, sukker, smør og vann. Den blir sprøere og mer mørdeigsaktig enn en eggbundet paibunn, men også mer sårbar — kjevle kaldt og la den hvile ferdig utkjevlet før forbaking.
+- **Kilden oppgir rabarbraen i antall stilker, ikke vekt.** Seks stilker av lik bredde tilsvarer rundt 450 gram, men bredden avgjør mer enn vekten her, siden mønsteret krever like biter. *(Vekten er lagt til.)*
 - **Velg stilker av lik bredde.** Kildens eget hovedtips, og det er riktig: ujevne stilker gjør mønsteret umulig å pusle sammen.
 - **Legg mønsteret på benken først.** Prøver du å pusle direkte i den bløte mandelkremen, synker bitene ned og du får ikke justert.
-- **Mandelfyllet er det som redder paien fra å bli vandig.** Rabarbra avgir mye væske, og frangipanen suger den opp mens den steker.
-- **Aprikosglasuren er ikke pynt alene.** Den forsegler rabarbraen så paien ikke tørker ut, og gir den glansen mønsteret fortjener.
+- **Mandelkremen er det som redder paien fra å bli vandig.** Rabarbra avgir mye væske, og kremen suger den opp mens den steker.
 - **Holdbarhet:** 3 døgn i romtemperatur under klede. Tåler frysing ferdigstekt.
 - **Beslektet:** [D12](#d12-ostekake-med-rabarbra-og-jordbær) bruker samme råvare kaldt, og [S23](#s23-terte-med-geitost-og-karamellisert-løk) samme bunnteknikk salt.
 
@@ -16774,7 +21687,7 @@ Karamell i bunnen av formen, eggekrem over, bakt i vannbad og vendt ut på fatet
 - **Egg og plommer sammen** gir riktig fasthet: bare egg blir gummiaktig, bare plommer blir for løs til å vendes ut.
 - **Formene skal ikke smøres.** Karamellen gjør jobben.
 - **Holdbarhet:** 3 døgn kjøleskap i formen. Vend ut først ved servering.
-- **Beslektet:** [D15](#d15-crème-brûlée) er samme krem med karamellen på toppen i stedet for i bunnen, og [G4](#g4-saltkaramellsaus) er karamellen som egen komponent.
+- **Beslektet:** [D15](#d15-crème-brûlée) er samme krem med karamellen på toppen i stedet for i bunnen, og [T123](#t123-saltkaramellsaus) er karamellen som egen komponent.
 
 ---
 
@@ -16813,7 +21726,7 @@ Epler karamellisert i pannen med butterdeig lagt over, bakt i ovn og vendt opp n
 - **Støpejern eller annen ovnsfast panne.** Den skal fra platetopp til ovn uten å byttes.
 - **Butterdeigen brettes ned mellom epler og panne.** Det danner en kant som holder karamellen inne når kaken vendes.
 - **Holdbarhet:** best samme dag, lunken. Kan varmes 10 minutter på 180 °C dagen etter.
-- **Beslektet:** [G4](#g4-saltkaramellsaus) bruker samme karamellteknikk.
+- **Beslektet:** [T123](#t123-saltkaramellsaus) bruker samme karamellteknikk.
 
 ---
 
@@ -16972,7 +21885,7 @@ Kokt sjokoladekrem jevnet med maisenna, ikke bakt og ikke pisket. Den er tettere
 - **Silen fanger det som likevel klumpet seg.** Ti sekunders arbeid som redder konsistensen.
 - **Snerk eller ikke** er en smakssak. Uten plastfolie får du et fast lag på toppen som mange regner som halve poenget.
 - **Holdbarhet:** 4 døgn kjøleskap. Tåler ikke frysing.
-- **Beslektet:** [D2](#d2-sjokoladefondant), [D6](#d6-mousse-au-chocolat) og [D9](#d9-saltkaramell--og-sjokoladeterte) er samlingens andre mørke sjokoladedesserter.
+- **Beslektet:** [sjokoladefondant (D2)](#d2-sjokoladefondant), [mousse au chocolat (D6)](#d6-mousse-au-chocolat) og [saltkaramell- og sjokoladeterte (D9)](#d9-saltkaramell--og-sjokoladeterte) er samlingens andre mørke sjokoladedesserter.
 
 ---
 
@@ -17018,7 +21931,7 @@ Kjeksbunn, karamell, banan og krem. Navnet er banan og toffee slått sammen, og 
 - **Kremen skal være løst pisket.** Stivpisket krem blir tung og smørete ved siden av karamellen.
 - **Flaksaltet i karamellen** er ikke tradisjonelt, men to bokser kondensert melk er svært søtt, og saltet er det som gjør kaken spiselig i mer enn to munnfuller.
 - **Holdbarhet:** 2 døgn kjøleskap. Bunnen bløtner etter det.
-- **Beslektet:** [G4](#g4-saltkaramellsaus) er samlingens andre karamell, og [D12](#d12-ostekake-med-rabarbra-og-jordbær) bruker samme kjeksbunn.
+- **Beslektet:** [T123](#t123-saltkaramellsaus) er samlingens andre karamell, og [D12](#d12-ostekake-med-rabarbra-og-jordbær) bruker samme kjeksbunn.
 
 ---
 
@@ -17159,7 +22072,7 @@ To små pannekaker med søt rødbønnepasta imellom. Honning i røren gir den bl
 - 1 ts bakepulver
 - 2 ss vann
 - 300 g anko *(søt rødbønnepasta)*
-- Nøytral olje til pannen
+- 20 g nøytral olje til pannen *(mengde lagt til.)*
 
 ### Fremgangsmåte
 
@@ -17382,12 +22295,175 @@ Sorbet uten ismaskin. Frossen mango kjøres med sukkerlake og limesaft til den e
 
 ---
 
+## D32. Mini-ostekaker med Biscoff
+
+**Kilde:** Recipes Hurry (Instagram-reel, 4900 likes) · **Kjøkken:** Amerikansk · **Tid:** 25 min + 4 timer i kjøleskap · **Porsjoner:** 6
+
+Usteikt ostekake i porsjonsform, med karamelliserte Lotus-kjeks i bunnen og kjekssmør i fyllet. Ingen ovn, ingen gelatin – fyllet holdes oppe av kremost og pisket krem alene, og derfor er de fire timene i kjøleskapet ikke til å forhandle om.
+
+### Ingredienser
+
+**Bunn**
+- 150 g Biscoff-kjeks, knust *(ca. 20 kjeks)*
+- 70 g usaltet smør, smeltet
+
+**Fyll**
+- 450 g kremost, romtemperert
+- 130 g Biscoff-smør *(karamellisert kjekssmør)*
+- 60 g melis
+- 1 ts vaniljeekstrakt
+- 2,4 dl kremfløte
+
+**Topping**
+- 65 g Biscoff-smør
+- 1,2 dl kremfløte, pisket
+- 6 hele Biscoff-kjeks
+
+### Fremgangsmåte
+
+1. **Knus kjeksene til fine smuler** i foodprosessor, eller legg dem i en tett pose og kjevle over.
+2. **Bland smulene med det smeltede smøret** til konsistensen minner om våt sand.
+3. **Fordel blandingen i porsjonsformer** eller muffinsformer, og trykk den godt sammen til en bunn.
+4. **Sett bunnene i kjøleskapet i 20 minutter.**
+5. **Pisk kremosten** glatt og kremet i en stor bolle.
+6. **Tilsett Biscoff-smør, melis og vaniljeekstrakt**, og rør til blandingen er jevn og silkeaktig.
+7. **Pisk kremfløten stiv** i en egen bolle.
+8. **Vend kremen forsiktig inn** i osteblandingen til den er lett og luftig.
+9. **Fyll massen over de kalde bunnene** med skje eller sprøytepose, og glatt toppen.
+10. **Sett kaldt i minst 4 timer**, til de er helt faste.
+11. **Varm den ekstra Biscoff-smøren litt** og drypp den over kakene.
+12. **Sprøyt pisket krem på toppen**, dryss over knuste kjeks, og sett en hel kjeks i hver.
+
+### Notater
+
+- **Mengdene er regnet om fra amerikanske mål.** Kilden oppgir cups: 1½ cup knuste kjeks, 2 cups kremost, ½ cup Biscoff-smør, ½ cup melis, 1 cup fløte til fyllet og ½ cup til pynt. *(Omregnet.)*
+- **Biscoff er Lotus-kjeksene** – de karamelliserte som følger med kaffen. Biscoff-smør er den samme kjeksen malt til en smørbar masse. Begge deler fås i vanlige norske dagligvarebutikker.
+- **Fløten piskes for seg og vendes inn.** Det er dette som gjør fyllet luftig i stedet for tett. Pisker du fløten sammen med kremosten, slår du ut luften og får en kompakt ostemasse.
+- **Kremosten må være romtemperert.** Kald kremost klumper seg og lar seg ikke piske glatt, og klumpene forsvinner ikke senere.
+- **Fire timer er et minimum, ikke en anbefaling.** Uten gelatin er det bare fettet i kremosten og fløten som gir fasthet, og det trenger tid på å stivne. Tas de ut for tidlig, siger fyllet.
+- **Varm kjekssmøren før du drypper.** Rett fra glasset er den for tykk til å renne pent.
+- **Fløten oppgis to steder.** 2,4 dl går i fyllet og 1,2 dl piskes til pynt – lett å overse når du handler.
+- **420 kcal per porsjon** ifølge kilden, fordelt på 6 porsjoner.
+- **Holdbarhet:** 3 døgn i kjøleskap. Tåler ikke frysing – uten gelatin slipper fyllet vann ved tining.
+- **Beslektet:** Samlingens andre ostekaker er [i matboks (D7)](#d7-ostekake-i-matboks), [med hvit sjokolade (D8)](#d8-ostekake-med-hvit-sjokolade-og-bringebær) og [med rabarbra (D12)](#d12-ostekake-med-rabarbra-og-jordbær). Den siste bruker samme kjeksbunn.
+
+---
+
+## D33. Biscoff-ostekake
+
+**Kilde:** Bailey Campbell / Basics With Bails (basicswithbails.com) *(4,8 av 5 fra 30 vurderinger)* · **Kjøkken:** Amerikansk · **Tid:** 20 min + 4 timer i kjøleskap · **Porsjoner:** 16
+
+Fem ingredienser, ingen ovn og ingen pisket krem. Fyllet er kremost, kjekssmør og melis – ingenting annet – og resultatet er tett og fudgeaktig i stedet for luftig. Lages i firkantet form og skjæres i ruter.
+
+### Ingredienser
+
+**Bunn**
+- 23 Biscoff-kjeks *(ca. 180 g)*
+- 57 g smør, smeltet
+
+**Fyll**
+- 145 g Biscoff-smør
+- 500 g kremost, romtemperert
+- 120 g melis
+
+**Topping**
+- 195 g Biscoff-smør, smeltet
+- 2 Biscoff-kjeks, knust
+
+### Fremgangsmåte
+
+1. **Knus de 23 kjeksene** i foodprosessor og ha smulene i en bolle.
+2. **Smelt smøret** og bland det godt inn i smulene.
+3. **Smør en firkantet form på ca. 20 × 20 cm** og trykk kjeksblandingen fast i bunnen. Sett formen i kjøleskapet mens du lager fyllet.
+4. **Ha Biscoff-smøret i en bakebolle.** Tilsett den romtempererte kremosten og miks godt sammen.
+5. **Tilsett melisen** når blandingen er jevn, og miks igjen på lav hastighet. Skrap ned kantene underveis.
+6. **Fordel fyllet over den kalde bunnen** og glatt det ut med en slikkepott.
+7. **Hell det smeltede Biscoff-smøret over**, og legg noen knuste kjeks langs kanten.
+8. **Sett kaldt i minst 4 timer**, helst over natten.
+
+### Notater
+
+- **Ingen pisket krem – det er hele forskjellen fra [D32](#d32-mini-ostekaker-med-biscoff).** Der vendes pisket krem inn og gir et luftig fyll. Her er det bare kremost, kjekssmør og melis, og kaken blir tett, tung og nærmere fudge. Velg etter hva du vil ha, ikke etter hvilken som er «best».
+- **Rekkefølgen på blandingen betyr noe.** Kjekssmøret først, kremosten etterpå. Starter du med kremosten alene og har kjekssmøret i til slutt, klumper det seg lettere.
+- **Kremosten må være romtemperert**, ellers får du klumper som ikke lar seg mikse ut.
+- **Melisen inn på lav hastighet** og til slutt. Høy hastighet med melis gir en luftig masse som ikke passer denne kaken.
+- **Den fryser godt, i motsetning til D32.** Forfatteren mener den er bedre frossen enn romtemperert, og den holder **2 måneder** godt pakket. Det går fordi det ikke er pisket krem i – det er kremen som slipper vann ved tining.
+- **Mengdene er regnet om fra amerikanske mål.** Kilden oppgir ¼ cup smør, ½ cup + 1 ss kjekssmør til fyllet, 1 cup melis og ¾ cup til toppingen, samt en form på 8 × 8 tommer. *(Omregnet.)*
+- **Vegansk variant:** kilden opplyser at både smøret og kremosten kan byttes med plantebaserte alternativer.
+- **392 kcal per porsjon** ifølge kilden, fordelt på 16 ruter.
+- **Holdbarhet:** 5 døgn kjøleskap i tett boks, 2 måneder fryser.
+- **Beslektet:** [mini-ostekaker med Biscoff (D32)](#d32-mini-ostekaker-med-biscoff) er porsjonsvarianten med luftig fyll, og [ostekake i matboks (D7)](#d7-ostekake-i-matboks), [ostekake med hvit sjokolade og bringebær (D8)](#d8-ostekake-med-hvit-sjokolade-og-bringebær) og [ostekake med rabarbra og jordbær (D12)](#d12-ostekake-med-rabarbra-og-jordbær) er samlingens øvrige ostekaker.
+
+---
+
+## D34. Ostekake med saltkaramell
+
+**Kilde:** Ida Gran-Jansen (Instagram-reel, 1100 likes) · **Kjøkken:** Norsk · **Tid:** 30 min + 6 timer i kjøleskap · **Porsjoner:** 10 *(ikke oppgitt i kilden)*
+
+Usteikt ostekake i springform, med hjemmelaget saltkaramell helt over. Fløten piskes rett inn i kremosten til den står i stive topper – ingen gelatin, ingen ovn. Forfatteren mener selv den er bedre enn bakt ostekake.
+
+### Ingredienser
+
+**Bunn**
+- 200 g digestivekjeks
+- 100 g smør, smeltet
+
+**Fyll**
+- 500 g kremost naturell
+- 100 g sukker
+- 3 dl kald kremfløte
+
+**Saltkaramell**
+- 100 g sukker
+- 3 ss vann
+- 50 g meierismør
+- 1 dl kremfløte
+- 2 klyper flaksalt
+
+### Fremgangsmåte
+
+**Kjeksbunn**
+
+1. **Kle bunnen og sidene** av en rund springform på **20 cm** med bakepapir.
+2. **Knus kjeksene helt fine** og rør inn det smeltede smøret.
+3. **Hell blandingen i formen** og trykk den utover.
+
+**Ostekakefyll**
+
+4. **Pisk kremost og sukker** til en jevn røre.
+5. **Hell i den kalde kremfløten** og pisk til fyllet er tykt og du kan lage **stive topper som står av seg selv**.
+6. **Hell fyllet over kjeksbunnen** og sett kaken i kjøleskapet i **6 timer eller natten over**.
+
+**Saltkaramell**
+
+7. **Rør sammen sukker og vann** i en liten stålkjele.
+8. **Kok opp uten å røre**, og la sukkeret koke på høyeste varme til det er **godt gyllent**.
+9. **Trekk kjelen av platen** og rør inn smøret.
+10. **Hell i kremfløten litt av gangen.**
+11. **Sett kjelen tilbake på varmen** og la karamellen småkoke i **2 minutter**. Smak til med flaksalt.
+12. **Avkjøl karamellen** – den tykner når den blir kald.
+13. **Ta kaken ut av kjøleskapet** og hell karamellen over.
+
+### Notater
+
+- **Fløten piskes inn i osteblandingen, ikke separat.** Dette er den tredje metoden blant ostekakene i samlingen: [D32](#d32-mini-ostekaker-med-biscoff) pisker fløten for seg og vender den inn, [D33](#d33-biscoff-ostekake) bruker ingen fløte i det hele tatt, og her piskes den kalde fløten rett i kremosten. Resultatet ligger midt imellom – fastere enn den luftige, lettere enn den fudgeaktige.
+- **Fløten må være kald.** Romtemperert fløte pisker seg ikke sammen med kremosten, og fyllet blir rennende uansett hvor lenge du står der.
+- **Ikke rør i sukkerlaken.** Røring under kokingen får sukkeret til å krystallisere, og karamellen blir kornete i stedet for blank. Vipp kjelen om du må fordele varmen.
+- **Smøret inn etter at kjelen er trukket av platen.** Går det i mens karamellen står på full varme, skiller den seg.
+- **Fløten litt av gangen.** Kald fløte i glovarm karamell koker voldsomt opp – heller du alt på én gang, spruter det ut av kjelen.
+- **Karamellen tykner når den blir kald**, så ikke kok den lenger i håp om at den skal bli tykkere i kjelen. Da blir den hard på kaken.
+- **Sidene av formen kles også med bakepapir**, ikke bare bunnen. Uten det slipper ikke kaken formen pent.
+- **Karamellen er i praksis samme oppskrift som [T123](#t123-saltkaramellsaus)** – lag dobbel porsjon om du vil ha til overs.
+- **Holdbarhet:** 3 døgn i kjøleskap. Tåler ikke frysing – uten gelatin slipper fyllet vann ved tining.
+- **Beslektet:** [mini-ostekaker med Biscoff (D32)](#d32-mini-ostekaker-med-biscoff), [Biscoff-ostekake (D33)](#d33-biscoff-ostekake), [ostekake i matboks (D7)](#d7-ostekake-i-matboks), [ostekake med hvit sjokolade og bringebær (D8)](#d8-ostekake-med-hvit-sjokolade-og-bringebær) og [ostekake med rabarbra og jordbær (D12)](#d12-ostekake-med-rabarbra-og-jordbær) er samlingens øvrige ostekaker.
+
+---
 
 # Bakverk
 
 ## B1. Hot cross shokupan – krydret japansk melkebrød
 
-**Kilde:** Andy Cooks (andy-cooks.com) · **Kjøkken:** Japansk-britisk · **Tid:** ca. 4½ t (3 t forberedelse og heving + 25 min steking + 1 t avkjøling) · **Gir:** 1 brød
+**Kilde:** Andy Cooks (andy-cooks.com) · **Kjøkken:** Japansk-britisk · **Tid:** ca. 4½ t (30 min forberedelse + 2½ t heving + 25 min steking + 1 t avkjøling) · **Gir:** 1 brød
 
 Hot cross buns møter shokupan: den britiske påskebollen bakt som japansk melkebrød. Yudane-metoden – mel forkokt med kokende vann – gjør krummen usedvanlig myk, og den krydrede, appelsintrukne tørrfrukten legges inn ved forming i stedet for å eltes inn. Korset piples på før steking, og marmeladeglasuren pensles på mens brødet fortsatt er varmt.
 
@@ -17601,9 +22677,10 @@ Fransk klassiker i tre deler: vannbakkels, sjokoladekrem og sjokoladeglasur. Kil
 8. **Sjokoladen i.** Tilsett den og rør til den er helt smeltet.
 9. **Smøret i.** La kremen kjøle seg litt, og rør deretter smøret langsomt inn. Sett den kaldt til den har satt seg før den sprøytes.
 
-**Glasur**
+**Fylling og glasur**
 
-10. **Smelt sjokoladen** over vannbad og rør inn oljen.
+10. **Fyll éclairene.** *(Steget mangler i kilden – se notat.)* Stikk tre hull i bunnen av hver éclair med en tynn tyll, og sprøyt inn sjokoladekremen til den kjennes tung.
+11. **Smelt sjokoladen** over vannbad og rør inn oljen.
 
 ### Notater
 
@@ -17618,7 +22695,7 @@ Fransk klassiker i tre deler: vannbakkels, sjokoladekrem og sjokoladeglasur. Kil
 - **Fyllingen mangler i fremgangsmåten.** Stikk tre hull i bunnen av hver éclair med en tynn tyll og sprøyt kremen inn til den så vidt siver ut. Glasuren dyppes toppen i etterpå. *(Lagt til.)*
 - **Klassiske éclairs glaseres med fondant**, ikke sjokolade. Sjokoladeglasuren her er enklere og mer holdbar, men stivner hardere – oljen er der for å holde den blank og gjøre den lettere å bite gjennom. *(Bakgrunn lagt til.)*
 - **Best samme dag.** Vannbakkels trekker fuktighet fra kremen og blir bløt over natten. Ufylte skall kan derimot fryses.
-- **Beslektet:** [D2 sjokoladefondant](#d2-sjokoladefondant) er samlingens andre mørke sjokoladedessert, og [G4 saltkaramellsaus](#g4-saltkaramellsaus) fungerer som alternativ glasur.
+- **Beslektet:** [sjokoladefondant (D2)](#d2-sjokoladefondant) er samlingens andre mørke sjokoladedessert, og [saltkaramellsaus (T123)](#t123-saltkaramellsaus) fungerer som alternativ glasur.
 
 ---
 
@@ -17667,7 +22744,7 @@ Brownies der nesten all tiden er venting. Røren hviler i kjøleskapet i minst e
 - **Fryseren stopper ettersteking.** Rett fra ovnen fortsetter browniesene å steke i den varme formen; 30 minutter i fryseren avbryter det og låser den fudgy teksturen. Deretter jevner et par timer i kjøleskap ut temperaturen. Ikke hopp over noen av trinnene – det er det siste av «100 timer».
 - **Espressopulver smaker ikke kaffe** i denne mengden. Det forsterker sjokoladen. Har du det ikke, bruk 1 ts pulverkaffe.
 - **Skjær dem kalde**, med en varm, tørr kniv som tørkes mellom hvert snitt. Romtempererte brownies smøres utover.
-- **Beslektet:** [B2 gochujang chocolate chip cookies](#b2-gochujang-chocolate-chip-cookies) er samlingens andre amerikanske bakverk, og [G4 saltkaramellsaus](#g4-saltkaramellsaus) passer over.
+- **Beslektet:** [gochujang chocolate chip cookies (B2)](#b2-gochujang-chocolate-chip-cookies) er samlingens andre amerikanske bakverk, og [saltkaramellsaus (T123)](#t123-saltkaramellsaus) passer over.
 
 ---
 
@@ -17713,7 +22790,7 @@ Kladdkake i stor porsjon, laget for å deles opp og fryses. Kilden har den ligge
 - **Bakepapir i bunnen, fett på sidene** – som kilden sier. En så stor, klissete kake er umulig å få ut ellers.
 - **Frysing er hele poenget.** Pakk hver bit for seg i plast; de tåler 3 måneder. Ta dem rett fra fryseren og gi dem 20–30 sekunder i mikroen, ikke et helt minutt – da blir de varme og flytende.
 - **Flaksalt i røren forsvinner litt.** Vil du ha saltsmaken tydelig, strø litt over toppen før steking i stedet. *(Forslag lagt til.)*
-- **Beslektet:** [B4 100-timers brownies](#b4-100-timers-brownies) er den amerikanske slektningen – langt mer arbeid og hviletid, men samme mål om kladdete midte. [D2 sjokoladefondant](#d2-sjokoladefondant) er porsjonsvarianten.
+- **Beslektet:** [100-timers brownies (B4)](#b4-100-timers-brownies) er den amerikanske slektningen – langt mer arbeid og hviletid, men samme mål om kladdete midte. [Sjokoladefondant (D2)](#d2-sjokoladefondant) er porsjonsvarianten.
 
 ---
 
@@ -17739,7 +22816,7 @@ Cookies uten hviletid – ferdige på under en halvtime. To sukkertyper og revet
 ### Fremgangsmåte
 
 1. **Pisk smør og sukker.** Du trenger bare å rive smøret hvis det er kaldt. Pisk det myke smøret sammen med begge sukkertypene i **3 minutter**.
-2. **Egg og vanilje i.** Tilsett dem og pisk igjen.
+2. **Egg, vanilje og appelsinskall i.** Tilsett dem og pisk igjen. *(Appelsinskallet mangler i kildens fremgangsmåte – se notat.)*
 3. **Tørrvarene i.** Sikt dem over sammen med sjokoladen og rør til alt er blandet.
 4. **Form og stek.** Trill deigen til kuler på **65 g**. Legg litt ekstra sjokolade på toppen. Fordel **6 kuler** med god avstand på et brett og stek på **190 °C i 12 minutter**.
 
@@ -17755,7 +22832,7 @@ Cookies uten hviletid – ferdige på under en halvtime. To sukkertyper og revet
 - **Sjokoladen skal hakkes, ikke være chips.** Hakket sjokolade gir ujevne biter og lommer av smeltet sjokolade gjennom hele kaken; chips er tilsatt stabilisator og holder formen. Kilden bruker en plate på 70 %.
 - **Ekstra sjokolade på toppen** er et rent visuelt grep, men det virker – trykk et par biter ned i toppen av hver kule før steking.
 - **1 g bakepulver er ca. ¼ ts.** Lite med vilje; disse skal være tette og seige, ikke luftige.
-- **Beslektet:** [B2 gochujang chocolate chip cookies](#b2-gochujang-chocolate-chip-cookies) er samlingens andre cookie, og [B4 100-timers brownies](#b4-100-timers-brownies) den motsatte tilnærmingen – all smaken fra tid i stedet for teknikk.
+- **Beslektet:** [gochujang chocolate chip cookies (B2)](#b2-gochujang-chocolate-chip-cookies) er samlingens andre cookie, og [100-timers brownies (B4)](#b4-100-timers-brownies) den motsatte tilnærmingen – all smaken fra tid i stedet for teknikk.
 
 ---
 
@@ -17814,7 +22891,7 @@ Tett, saftig sitronkake som trekkes med sitronsirup mens den er varm og pakkes i
 - **Innpakkingen over natten er ikke bare oppbevaring.** Den fordeler fuktigheten fra sirupen jevnt gjennom hele kaken. Kaken er merkbart bedre dag to enn dag én. *(Verdt å følge.)*
 - **De tre minuttene i ovnen tørker glasuren** til en tynn, matt skorpe som ikke klistrer. Uten dem forblir den klissete i dagevis. Ikke lenger enn tre minutter – da smelter den i stedet.
 - **Glasurkonsistensen er beskrevet godt:** rennende honning. For tynn glasur renner av, for tykk lar seg ikke pensle jevnt.
-- **Beslektet:** [B5 kladdkake](#b5-kladdkake-i-langpanne) og [B6 sjokoladecookies](#b6-sjokoladecookies-med-appelsin--matt-adlard-sin-versjon) er samlingens andre bakverk fra samme sjanger, og [B6](#b6-sjokoladecookies-med-appelsin--matt-adlard-sin-versjon) er fra samme kokk.
+- **Beslektet:** [kladdkake (B5)](#b5-kladdkake-i-langpanne) og [sjokoladecookies (B6)](#b6-sjokoladecookies-med-appelsin--matt-adlard-sin-versjon) er samlingens andre bakverk fra samme sjanger, og den siste er fra samme kokk.
 
 ---
 
@@ -17868,7 +22945,7 @@ Britiske påskeboller med sultanas, sukat, appelsinskall og kanel – og eple, s
 - **Sukat heter «sukat» i Norge** og fås i bakeavdelingen, særlig rundt jul. Er du ikke glad i det, øk sultanamengden tilsvarende.
 - **Korsene skal være tynne.** For tykk pasta gir harde, melne striper. Konsistens som tykk pannekakerøre.
 - **Glasuren må på mens bollene er varme**, ellers trekker syltetøyet ikke inn. Varm det med en skje vann og sil ut eventuelle biter. *(Lagt til.)*
-- **Beslektet:** [B1 hot cross shokupan](#b1-hot-cross-shokupan--krydret-japansk-melkebrød) er den japansk-britiske hybriden av samme idé – samme krydder og kors, men i form av et melkebrød.
+- **Beslektet:** [hot cross shokupan (B1)](#b1-hot-cross-shokupan--krydret-japansk-melkebrød) er den japansk-britiske hybriden av samme idé – samme krydder og kors, men i form av et melkebrød.
 
 ---
 
@@ -17912,7 +22989,7 @@ Ciabatta med 75 % hydrering – så våt deig at den verken kan eltes eller form
 - **Forvarm ovnen skikkelig**, gjerne med bakestein eller et omvendt stekebrett inne. Ciabatta trenger kraftig bunnvarme for å få det siste hoppet i ovnen.
 - **La brødene avkjøles helt før du skjærer.** Innmaten er ikke ferdig før den er kald – skjærer du varmt, blir den klissete.
 - **Best samme dag.** Ciabatta blir tørr raskt; frys den i stedet, og friskn den opp 5 minutter på 200 °C.
-- **Beslektet:** [B1 hot cross shokupan](#b1-hot-cross-shokupan--krydret-japansk-melkebrød) er samlingens andre gjærbakst, og brødet her passer til [SJ14 puttanesca-torsk](#sj14-puttanesca-torsk-med-hvitløksbrød), [T40 hummus](#t40-hummus) og [S13 pisket ricotta](#s13-pisket-ricotta-med-marinerte-oliven-chili-og-appelsin).
+- **Beslektet:** [hot cross shokupan (B1)](#b1-hot-cross-shokupan--krydret-japansk-melkebrød) er samlingens andre gjærbakst, og brødet her passer til [puttanesca-torsk (SJ14)](#sj14-puttanesca-torsk-med-hvitløksbrød), [hummus (T40)](#t40-hummus) og [pisket ricotta (S13)](#s13-pisket-ricotta-med-marinerte-oliven-chili-og-appelsin).
 
 ---
 
@@ -17969,7 +23046,7 @@ Ciabatta i rundstykkeformat, bygget på fire runder strekk og brett i stedet for
 - **Ikke press når du deler.** Bruk deigskrape og ett bestemt kutt – sager du, forsvinner luftboblene du har brukt to timer på å bygge.
 - **La dem avkjøles før du deler dem**, som kilden sier. Innmaten er ikke ferdig før brødet er kaldt.
 - **Total hevetid er kortere enn du skulle tro** – ca. 2 timer 10 minutter fordelt på pausene, pluss 30 minutters etterheving. Med 7 g gjær går det raskt.
-- **Beslektet:** [B9](#b9-ciabattabaguette-uten-elting) er den enklere ciabattaen med færre runder og damp i ovnen. Rundstykkene her er laget for smørbrød – se [S21 croque monsieur](#s21-croque-monsieur) og [S14 rask cuban sandwich](#s14-rask-cuban-sandwich).
+- **Beslektet:** [ciabattabaguette uten elting (B9)](#b9-ciabattabaguette-uten-elting) er den enklere ciabattaen med færre runder og damp i ovnen. Rundstykkene her er laget for smørbrød – se [croque monsieur (S21)](#s21-croque-monsieur) og [rask cuban sandwich (S14)](#s14-rask-cuban-sandwich).
 
 ---
 
@@ -18061,7 +23138,7 @@ Fire ingredienser, ingen elting. Fire runder strekk og brett i løpet av den fø
 - **6 g tørrgjær er passe** til denne mengden med drøyt to timers total hevetid.
 - **Kjernetemperatur 96–98 °C**, eller bank på bunnen – den skal låte hul. 28 minutter totalt er et anslag som avhenger av tykkelsen. *(Lagt til.)*
 - **La dem avkjøles før du skjærer.** Innmaten er ikke ferdig før brødet er kaldt.
-- **Beslektet:** [B11 enkle baguetter](#b11-enkle-baguetter) er den raskere og søtere varianten uten damp, og [B9](#b9-ciabattabaguette-uten-elting) og [B10](#b10-ciabattarundstykker--andy-cooks-sin-versjon) er samlingens ciabattaoppskrifter.
+- **Beslektet:** [enkle baguetter (B11)](#b11-enkle-baguetter) er den raskere og søtere varianten uten damp, og [ciabattabaguette uten elting (B9)](#b9-ciabattabaguette-uten-elting) og [Andy Cooks sin versjon (B10)](#b10-ciabattarundstykker--andy-cooks-sin-versjon) er samlingens ciabattaoppskrifter.
 
 ---
 
@@ -18113,8 +23190,8 @@ Focaccia uten kald heving over natten – to hevinger på halvannen time hver, o
 - **Kald heving over natten gir mer smak.** «Same-day» er poenget her, men vil du ha dypere smak: sett bollen i kjøleskapet i 12–24 timer etter siste strekk og brett, og la deigen bli romtemperert før den går i formen. Dette er forfatterens opprinnelige oppskrift, som denne er en forenkling av.
 - **Hevetidene avhenger av kjøkkentemperaturen.** 1–1½ time forutsetter 22–24 °C. Gå etter at deigen er tydelig boblete og har vokst godt.
 - **De 15 minuttene avkjøling er et minimum.**
-- **Passer til** [T40 hummus](#t40-hummus), [S13 pisket ricotta](#s13-pisket-ricotta-med-marinerte-oliven-chili-og-appelsin) og [T41](#t41-ovnsbakt-paprika--og-tomatsalat-med-bocconcini), eller som smørbrødbrød delt på langs.
-- **Beslektet:** [B9](#b9-ciabattabaguette-uten-elting), [B10](#b10-ciabattarundstykker--andy-cooks-sin-versjon) og [B15](#b15-ciabattarundstykker--liten-porsjon) bruker samme eltefrie teknikk med strekk og brett.
+- **Passer til** [hummus (T40)](#t40-hummus), [pisket ricotta (S13)](#s13-pisket-ricotta-med-marinerte-oliven-chili-og-appelsin) og [ovnsbakt paprika- og tomatsalat med bocconcini (T41)](#t41-ovnsbakt-paprika--og-tomatsalat-med-bocconcini), eller som smørbrødbrød delt på langs.
+- **Beslektet:** Samme eltefrie teknikk finner du i [ciabattabaguette (B9)](#b9-ciabattabaguette-uten-elting), [Andy Cooks sin versjon (B10)](#b10-ciabattarundstykker--andy-cooks-sin-versjon) og [liten porsjon (B15)](#b15-ciabattarundstykker--liten-porsjon).
 
 ---
 
@@ -18192,7 +23269,45 @@ Den minste ciabattaoppskriften i samlingen – 200 g mel og to rundstykker. Tre 
 - **Kjernetemperatur 96–98 °C**, eller bank på bunnen. 20 minutter er kort for ciabatta – sjekk før du tar dem ut. *(Lagt til.)*
 - **La dem avkjøles før du deler dem.** Innmaten setter seg først når brødet er kaldt.
 - **Retten er vegansk** slik den står.
-- **Samlingens fire ciabattaoppskrifter:** denne er den minste og enkleste, [B9](#b9-ciabattabaguette-uten-elting) gir tre baguetter med damp, [B10](#b10-ciabattarundstykker--andy-cooks-sin-versjon) åtte rundstykker med fire runder strekk og brett, og [B13](#b13-focaccia-på-én-dag) er samme deigfamilie i langpanne.
+- **Samlingens fire ciabattaoppskrifter:** denne er den minste og enkleste, [ciabattabaguette uten elting (B9)](#b9-ciabattabaguette-uten-elting) gir tre baguetter med damp, [ciabattarundstykker – Andy Cooks sin versjon (B10)](#b10-ciabattarundstykker--andy-cooks-sin-versjon) åtte rundstykker med fire runder strekk og brett, og [focaccia på én dag (B13)](#b13-focaccia-på-én-dag) er samme deigfamilie i langpanne.
+
+---
+
+## B16. Baguettbrød med overnattsheving
+
+**Kilde:** Eget notat · **Kjøkken:** Fransk-inspirert · **Tid:** 45 min aktivt + natten over · **Gir:** 1 stort brød eller 2 små
+
+Eltefri deig som står på benken over natten og stekes med en vannbolle i ovnen. Dampen de første 35 minuttene gir volum og blank skorpe; de siste fem minuttene uten vann tørker den sprø.
+
+### Ingredienser
+
+- 524 g hvetemel
+- 8 g salt
+- 4 g tørrgjær
+- Inntil 500 g vann *(se notat)*
+
+### Fremgangsmåte
+
+1. **Bland mel, salt og tørrgjær** tørt i en bolle.
+2. **Tilsett vannet litt og litt** mens du blander. Stopp når deigen er samlet og **litt klissete** – ikke rennende.
+3. **Dekk bollen og la deigen stå på benken over natten**, 8–12 timer.
+4. **Form brødet** på et melet underlag, uten å elte ut luften.
+5. **La det hvile i 30 minutter** under et klede.
+6. **Sett ovnen på 220 °C varmluft** og still en bolle med vann nederst i ovnen.
+7. **Dryss mel over brødet** og skjær noen snitt i overflaten.
+8. **Stek i 35 minutter.**
+9. **Ta ut vannbollen, skru ovnen ned til 160 °C**, og la brødet stå **5 minutter** til.
+
+### Notater
+
+- **500 g vann er et tak, ikke en fast mengde.** Til 524 g mel ville det gitt 95 % hydrering, altså nærmest en røre. Notatet sier «bruk litt og litt» og «litt klissete», og de fleste stopper rundt **380–420 g**. Vei det du faktisk bruker første gang, så har du tallet ditt. *(Lagt til.)*
+- **Vannbollen er dampen.** De første 35 minuttene holder den skorpen myk så brødet kan utvide seg. Tas den ut for tidlig, setter skorpen seg før brødet er ferdig hevet i ovnen.
+- **De siste fem minuttene på 160 °C** er tørking, ikke steking. Uten dem blir skorpen seig av dampen som er igjen.
+- **Overnattsheving med 4 g tørrgjær** passer et kjøkken på rundt 20 °C. Er det varmere, er deigen overhevet til morgenen og faller sammen ved forming – bruk halv mengde gjær om sommeren. *(Lagt til.)*
+- **Kun vifte** betyr varmluft. På over- og undervarme, legg til 10–15 °C.
+- **Gir ett stort eller to små brød.** Ikke oppgitt i notatet. *(Lagt til.)*
+- **Holdbarhet:** 2 døgn i papirpose. Tåler frysing ferdigstekt – 8 minutter på 200 °C fra frossen.
+- **Beslektet:** [enkle baguetter (B11)](#b11-enkle-baguetter) er den raske varianten på to timer, [baguetter med damp (B12)](#b12-baguetter-med-damp) bruker samme dampprinsipp men enda våtere deig, og [focaccia på én dag (B13)](#b13-focaccia-på-én-dag) er samme eltefrie teknikk i langpanne.
 
 ---
 
@@ -18241,7 +23356,139 @@ Deigen røres sammen med en sleiv på to minutter, hever over natten på benken,
 - **Enhver gryte med lokk som tåler 250 °C fungerer.** Støpejern gir best resultat ifølge kilden. Ildfast form dekket med dobbelt lag folie går også. Bruker du leirgryte av typen Rømertopf, må den vannes først.
 - **Kjøkkenhåndkle, ikke plastpose.** Pakk brødet i et rent håndkle etter avkjøling, så beholder skorpen sprøheten. I plast blir den myk i løpet av en time.
 - **Holdbarhet:** best første døgn. Tåler frysing – varm det opp i varmluftsovn hvis du vil ha skorpen sprø igjen.
-- **Beslektet:** [B9](#b9-ciabattabaguette-uten-elting) og [B13](#b13-focaccia-på-én-dag) bruker samme eltefrie prinsipp i andre former, og [B16](#b16-baguettbrød-med-overnattsheving) er samlingens andre brød med overnattsheving.
+- **Beslektet:** [ciabattabaguette uten elting (B9)](#b9-ciabattabaguette-uten-elting) og [focaccia på én dag (B13)](#b13-focaccia-på-én-dag) bruker samme eltefrie prinsipp i andre former, og [baguettbrød med overnattsheving (B16)](#b16-baguettbrød-med-overnattsheving) er samlingens andre brød med overnattsheving.
+
+---
+
+## B18. Tangzhong-brød
+
+**Kilde:** TINE (tine.no) *(4,0 av 5 fra 191 vurderinger)* · **Kjøkken:** Kinesisk · **Tid:** ca. 3 timer · **Gir:** 1 brød *(se notat)*
+
+Tangzhong er en kinesisk bakemetode: en liten del av melet kokes med melk til en tykk grøt før det blandes i deigen. Stivelsen gelatineres og binder langt mer vann enn rått mel gjør, og brødet blir luftig, saftig og holder seg mykt i dagevis.
+
+### Ingredienser
+
+**Jevning (tangzhong)**
+- 20 g hvetemel *(ca. 2 ss)*
+- 1 dl helmelk
+
+**Deig**
+- 1 dl helmelk
+- 1 egg
+- 2 ss sukker
+- 320 g hvetemel
+- 2 ts tørrgjær
+- ½ ts salt
+- 50 g smør, mykt
+
+**Pensling**
+- 1 egg
+- 1 ts vann
+
+### Fremgangsmåte
+
+1. **Lag jevningen:** rør mel og melk til en klumpfri røre. Varm opp under omrøring til en tykk masse, og la den avkjøles noe.
+2. **Bland melk, egg og sukker**, og hell jevningen over. Rør det noe ut – blandingen vil være klumpete.
+3. **Ha mel og gjær i kjøkkenmaskinen** og hell væsken over. **Kjør på lav hastighet i 15 minutter**, og tilsett så det myke smøret.
+4. **Kjør videre i 10–15 minutter**, til deigen er smidig og elastisk.
+5. **Dekk bollen med plast** og la deigen heve i **ca. 1 time**, til dobbel størrelse. Smør en brødform på **1 liter**.
+6. **Ha deigen ut på melet bord** og press den flat for å klemme ut de store luftboblene.
+7. **Del i 8–10 emner** og form runde, glatte boller. Gjerne i litt ulike størrelser.
+8. **Legg bollene tett i tett i formen**, dekk til, og **etterhev i 1 time.** Forvarm ovnen til **190 °C**.
+9. **Pisk sammen egg og vann** og pensle brødet.
+10. **Sett formen inn, skru ovnen ned til 175 °C**, og stek i **20 minutter**. Avkjøl på rist.
+
+### Notater
+
+- **Hvorfor jevningen virker.** Når mel kokes med væske, sveller og gelatineres stivelsen, og den kan da holde på flere ganger så mye vann som rått mel. Deigen blir våtere uten å bli klissete å jobbe med, og vannet blir sittende i brødet i stedet for å fordampe. Det er derfor tangzhong-brød er mykt på dag tre.
+- **Yudane er den japanske slektningen**, som kilden nevner. Forskjellen er at yudane skålder melet med kokende vann og hviler over natten, mens tangzhong kokes på platen og kan brukes med en gang.
+- **Smøret først etter 15 minutter.** Fett legger seg rundt glutentrådene og hemmer utviklingen av dem. Deigen må derfor bygge struktur først. Samme prinsipp som i brioche, og grunnen til at eltetiden virker ekstrem.
+- **25–30 minutter i maskin er riktig**, ikke en trykkfeil. Dette er en av de mest eltekrevende deigene i samlingen.
+- **190 °C, så ned til 175 straks brødet er inne.** Den ekstra varmen kompenserer for temperaturfallet når ovnsdøren åpnes.
+- **Kilden oppgir «1 personer».** Det er åpenbart en feil i oppskriftsdataene – det blir ett brød på 8–10 boller i en literform. *(Presisert.)*
+- **Dette er en grunndeig.** Kilden peker selv på at den kan brukes til kanelsnurrer, bollekrans og skolebrød. Vil du ha den søtere, øk sukkeret.
+- **Salt vri:** elt inn friske urter, hakkede oliven og soltørkede tomater.
+- **Holdbarhet:** 3–4 døgn i romtemperatur, altså tydelig lenger enn vanlig brød – det er hele poenget med metoden. Tåler frysing.
+- **Beslektet:** [B1](#b1-hot-cross-shokupan--krydret-japansk-melkebrød) er den japanske melkebrødvarianten, og [B17](#b17-eltefritt-landbrød) er motsatsen – ingen elting i det hele tatt.
+
+---
+
+## B19. Hellstrøms hamburgerbrød
+
+**Kilde:** Eyvind Hellstrøm, *Grunnboka* (Cappelen Damm, 2025) · **Kjøkken:** Amerikansk · **Tid:** ca. 2 timer · **Gir:** ca. 16 brød
+
+Melkebrødsdeig med honning og smør. Bollene klemmes flatere før andre heving, slik at de blir burgerbrød og ikke rundstykker.
+
+### Ingredienser
+
+- 1 kg hvetemel
+- 5½ dl helmelk
+- 50 g romtemperert smør
+- 50 g honning eller sukker
+- 10 g salt
+- 1 egg
+- 25 g fersk gjær
+- Egg til pensling
+- Valmuefrø eller sesamfrø, hvis ønskelig
+
+### Fremgangsmåte
+
+1. **Bland alle ingrediensene** i bollen til en kjøkkenmaskin.
+2. **Elt deigen med eltekrok i ca. 15 minutter**, til den er smidig og slipper kanten.
+3. **Dekk bollen med plastfolie** og sett deigen til heving på et lunt sted. Den skal heve til **dobbelt volum, i ca. 1 time**.
+4. **Ta deigen ut på kjøkkenbenken**, del den i to, og del hver halvdel i åtte biter.
+5. **Trill dem til boller** som legges på et stekebrett med bakepapir.
+6. **Ha litt mel på hånden og klem bollene litt flatere.**
+7. **Dekk med et rent kjøkkenhåndkle** og la dem heve til dobbel størrelse, **i ca. 30 minutter**.
+8. **Pensle forsiktig med pisket egg** og strø over sesamfrø eller valmuefrø hvis du vil.
+9. **Stek midt i ovnen på ca. 180 grader i ca. 20 minutter.**
+
+### Notater
+
+- **Klemmingen er det som skiller burgerbrød fra rundstykker.** En bolle hever oppover og blir en kule. Klemmer du den flat før andre heving, hever den utover, og du får en flate å legge burgeren på.
+- **Honning i stedet for sukker** gir både søtme og fuktighet, og den bruner overflaten raskere. Derfor holder 180 grader.
+- **Melk, ikke vann.** Melkefettet og melkesukkeret gir et mykt, finporet brød som ikke smuldrer under en saftig burger.
+- **Pensle forsiktig**, understreker kilden. Trykker du med penselen på en ferdig hevet bolle, faller den sammen og reiser seg ikke igjen.
+- **1 kg mel gir 16 brød.** Halver hele oppskriften hvis du ikke skal ha fullt bord – deigen tåler det uten justeringer.
+- **Beslektet:** [B18](#b18-tangzhong-brød) er en beslektet myk melkebrødsdeig, og [nr. 53](#53-koreansk-kyllingburger) er en av burgerne i samlingen.
+
+---
+
+## B20. Vafler
+
+**Kilde:** Matprat (matprat.no) · **Kjøkken:** Norsk · **Tid:** 20–40 min + 30 min svelling · **Porsjoner:** ca. 10 plater *(ikke oppgitt i kilden)*
+
+Norsk vaffelrøre med kardemomme, den varianten alle kjenner. Ingen gjær, ingen surmelk — bakepulver og en halvtimes svelling gjør jobben. **Svellingen er ikke valgfri:** melet må rekke å suge opp væsken, ellers blir vaflene seige og røren skiller seg i jernet.
+
+### Ingredienser
+
+- 4 dl hvetemel — ca. 240 g
+- 1 dl sukker
+- 1 ts bakepulver
+- 1 ts malt kardemomme
+- 4 dl melk
+- 3 egg
+- 100 g smør, smeltet
+
+**Til servering**
+- Syltetøy, rømme, smør, sukker eller brunost
+
+### Fremgangsmåte
+
+1. **Ha mel, sukker, bakepulver og kardemomme i en bolle.**
+2. **Spe med litt av melken om gangen.** Rør godt mellom hver gang, så røren blir glatt uten melklumper.
+3. **Rør inn eggene og tilsett det smeltede smøret.**
+4. **La røren svelle i 30 minutter.** Er den for tykk etterpå, juster med litt vann eller melk.
+5. **Stek vaflene i vaffeljern** og legg dem over på rist. Serveres gjerne varme.
+
+### Notater
+
+- **Spe med melken litt om gangen, ikke alt på én gang.** Klumper i vaffelrøre kommer nesten alltid av at all væsken går i samtidig. Melet trenger å bli fuktet gradvis for å løse seg opp.
+- **Halvtimen med svelling gjør to ting.** Melet suger opp væske, og glutenet som ble utviklet under røringen slapper av. Hopper du over den, blir vaflene både seigere og mer utsatt for å sette seg fast.
+- **Rist, ikke tallerken.** Legger du vaflene oppå hverandre, damper de og mister sprøheten på et par minutter.
+- **Kardemomme er det norske signaturen.** Uten den er dette bare en vaffel; med den er det en norsk vaffel. Mal den gjerne selv fra hele kapsler — ferdigmalt taper seg fort.
+- **Røren blir bedre av å stå lenger.** En time eller natten over i kjøleskap gir jevnere vafler. Rør lett om før steking.
+- **Beslektet:** [Hellstrøms pannekakerøre (G12)](#g12-hellstrøms-pannekakerøre) er samme familie uten bakepulver, [amerikanske pannekaker (F2)](#f2-amerikanske-pannekaker) er den tykke varianten i panne, og [ricottapannekaker (F11)](#f11-ricottapannekaker) den luftigste av dem alle.
 
 ---
 
@@ -18285,7 +23532,7 @@ Egg pochert rett i en tykk saus av tomat, paprika og spisskummen. Alt lages i é
 - **Groper med skjeen, ikke bare slippe eggene oppå.** Egget skal ligge nede i sausen, ikke flyte på den.
 - **Fetaen kommer på til slutt.** Kokes den med, smelter den ut i sausen og forsvinner.
 - **Holdbarhet:** sausen alene holder 4 døgn kjøleskap og 3 måneder fryser. Egg pocheres i den ferske sausen hver gang – oppvarmet shakshuka med egg blir gummiaktig.
-- **Beslektet:** [T60](#t60-baba-ganoush) og [T40](#t40-hummus) hører til samme bord, og [G20](#g20-zaatar) over brødet ved siden av.
+- **Beslektet:** [baba ganoush (T60)](#t60-baba-ganoush) og [hummus (T40)](#t40-hummus) hører til samme bord, og [za'atar (G20)](#g20-zaatar) over brødet ved siden av.
 
 ---
 
@@ -18305,7 +23552,7 @@ Melken syrnes med sitronsaft til en erstatning for buttermilk, og røren har bå
 - 1 ts bakepulver
 - ½ ts natron
 - 2 egg
-- Smør til steking
+- 12 g smør til steking *(mengde lagt til.)*
 
 ### Fremgangsmåte
 
@@ -18431,7 +23678,7 @@ Tortillachips vendt i varm salsa til de er halvveis myke, med egg over. Meksikan
 - 3 hvitløksfedd
 - 1 ts spisskummen
 - 1 ts salt
-- 2 dl kyllingkraft, se [G6](#g6-kyllingkraft)
+- 2 dl kyllingkraft, se [G22](#g22-kyllingkraft)
 
 **Over**
 - 100 g fetaost eller queso fresco, smuldret
@@ -18456,7 +23703,7 @@ Tortillachips vendt i varm salsa til de er halvveis myke, med egg over. Meksikan
 - **Chipotle er røkt jalapeño** og gir både røyk og styrke. Fås som tørket, i adobo på boks, eller som pasta.
 - **Grønne chilaquiles** lages med samme metode, men salsaen byttes med tomatillo, jalapeño og koriander.
 - **Holdbarhet:** salsaen 5 døgn kjøleskap. Ferdig rett spises med en gang.
-- **Beslektet:** [T20](#t20-pico-de-gallo) og [T47](#t47-guacamole) hører til samme bord, og [G5](#g5-tortillas-med-gresk-yoghurt) er tortillaene.
+- **Beslektet:** [pico de gallo (T20)](#t20-pico-de-gallo) og [guacamole (T47)](#t47-guacamole) hører til samme bord, og [tortillas med gresk yoghurt (G14)](#g14-tortillas-med-gresk-yoghurt) er tortillaene.
 
 ---
 
@@ -18597,7 +23844,7 @@ Brødskiver trukket i egg og melk og stekt i smør. Gårsdagens brød er bedre e
 - 1 ts vaniljeekstrakt
 - ½ ts kanel
 - En klype salt
-- Smør til steking
+- 15 g smør til steking *(mengde lagt til.)*
 
 **Til servering**
 - Lønnesirup
@@ -18634,7 +23881,7 @@ Sprøstekt bacon og speilegg mellom to skiver smurt brød. Ingen saus – bare b
 - 4 skiver godt brød eller 2 rundstykker
 - 6 skiver bacon
 - 2 egg
-- Smør, godt med
+- 25 g smør, godt med *(mengde lagt til.)*
 - Salt og nykvernet sort pepper
 
 ### Fremgangsmåte
@@ -18673,7 +23920,7 @@ Pannekaker med ricotta i røren og piskede eggehviter vendt inn. Resultatet er l
 - 2 ss sukker
 - Revet skall av 1 sitron
 - ½ ts salt
-- Smør til steking
+- 15 g smør til steking *(mengde lagt til.)*
 
 ### Fremgangsmåte
 
@@ -18697,44 +23944,174 @@ Pannekaker med ricotta i røren og piskede eggehviter vendt inn. Resultatet er l
 ---
 
 
-## B16. Baguettbrød med overnattsheving
+## F12. Hellstrøms franske eggerøre
 
-**Kilde:** Eget notat · **Kjøkken:** Fransk-inspirert · **Tid:** 45 min aktivt + natten over · **Gir:** 1 stort brød eller 2 små
+**Kilde:** Eyvind Hellstrøm, *Grunnboka* (Cappelen Damm, 2025) · **Kjøkken:** Fransk · **Tid:** ca. 10 min · **Porsjoner:** 1
 
-Eltefri deig som står på benken over natten og stekes med en vannbolle i ovnen. Dampen de første 35 minuttene gir volum og blank skorpe; de siste fem minuttene uten vann tørker den sprø.
+Eggerøre som skal ha konsistens som en luftig risgrøt. Fløte eller rømme røres inn når kjelen tas av platen, og stopper varmen før eggene rekker å bli faste.
 
 ### Ingredienser
 
-- 524 g hvetemel
-- 8 g salt
-- 4 g tørrgjær
-- Inntil 500 g vann *(se notat)*
+- 3 egg
+- Litt salt
+- 1 ss smør
+- 2 ss vann
+- 1 ss kremfløte, seterrømme eller crème fraîche
+- 1 ss olivenolje
+- 1 ss finhakket gressløk
 
 ### Fremgangsmåte
 
-1. **Bland mel, salt og tørrgjær** tørt i en bolle.
-2. **Tilsett vannet litt og litt** mens du blander. Stopp når deigen er samlet og **litt klissete** – ikke rennende.
-3. **Dekk bollen og la deigen stå på benken over natten**, 8–12 timer.
-4. **Form brødet** på et melet underlag, uten å elte ut luften.
-5. **La det hvile i 30 minutter** under et klede.
-6. **Sett ovnen på 220 °C varmluft** og still en bolle med vann nederst i ovnen.
-7. **Dryss mel over brødet** og skjær noen snitt i overflaten.
-8. **Stek i 35 minutter.**
-9. **Ta ut vannbollen, skru ovnen ned til 160 °C**, og la brødet stå **5 minutter** til.
+1. **Visp eggene med en gaffel** sammen med **1 ss kaldt vann** og salt, til de blir luftige.
+2. **Smelt smør og olivenolje** på middels varme i en kasserolle eller stekepanne.
+3. **Ha eggeblandingen i smøret** og rør med visp eller trespade **uten stans**.
+4. **La eggene bli til en tykkere masse.**
+5. **Ta kjelen bort fra varmen** og tilsett kremfløte, seterrømme eller crème fraîche for å stoppe varmeutviklingen.
+6. **Fortsett å røre et par minutter** til en litt fastere konsistens.
+7. **Dryss over gressløk** ved servering.
 
 ### Notater
 
-- **500 g vann er et tak, ikke en fast mengde.** Til 524 g mel ville det gitt 95 % hydrering, altså nærmest en røre. Notatet sier «bruk litt og litt» og «litt klissete», og de fleste stopper rundt **380–420 g**. Vei det du faktisk bruker første gang, så har du tallet ditt. *(Lagt til.)*
-- **Vannbollen er dampen.** De første 35 minuttene holder den skorpen myk så brødet kan utvide seg. Tas den ut for tidlig, setter skorpen seg før brødet er ferdig hevet i ovnen.
-- **De siste fem minuttene på 160 °C** er tørking, ikke steking. Uten dem blir skorpen seig av dampen som er igjen.
-- **Overnattsheving med 4 g tørrgjær** passer et kjøkken på rundt 20 °C. Er det varmere, er deigen overhevet til morgenen og faller sammen ved forming – bruk halv mengde gjær om sommeren. *(Lagt til.)*
-- **Kun vifte** betyr varmluft. På over- og undervarme, legg til 10–15 °C.
-- **Gir ett stort eller to små brød.** Ikke oppgitt i notatet. *(Lagt til.)*
-- **Holdbarhet:** 2 døgn i papirpose. Tåler frysing ferdigstekt – 8 minutter på 200 °C fra frossen.
-- **Beslektet:** [B11](#b11-enkle-baguetter) er den raske varianten på to timer, [B12](#b12-baguetter-med-damp) bruker samme dampprinsipp men enda våtere deig, og [B13](#b13-focaccia-på-én-dag) er samme eltefrie teknikk i langpanne.
+- **Fløten er en bremse, ikke en smakstilsetning.** Egg fortsetter å stivne av restvarmen i kjelen lenge etter at platen er av. Kald fløte senker temperaturen momentant og stopper koagulasjonen der du vil ha den. Samme prinsipp som isvann på grønnsaker.
+- **Røres uten stans.** Står den i ro, setter det seg et fast lag mot bunnen, og da får du eggerøre med klumper i.
+- **«Luftig risgrøt» er målet**, ifølge kilden. Er den fast nok til å skjæres, har den kokt for lenge.
+- **Vannet i eggene** gir damp som løfter massen. To spiseskjeer på tre egg er mye, og det er meningen.
+- **Beslektet:** [F3](#f3-fransk-eggerøre) er samlingens andre franske eggerøre – sammenlign metodene, forskjellen ligger i hva som stopper varmen.
 
 ---
 
+## F13. Hellstrøms franske omelett
+
+**Kilde:** Eyvind Hellstrøm, *Grunnboka* (Cappelen Damm, 2025) · **Kjøkken:** Fransk · **Tid:** ca. 5 min · **Porsjoner:** 1
+
+Lys, lett, fast utvendig og bløt inni. Hele retten avgjøres i det sekundet smøret er i ferd med å bli gyllent, og av at pannen tas av varmen før omeletten brettes.
+
+### Ingredienser
+
+- 3 egg *(minimum 3 egg per porsjon)*
+- 1 ss smør
+- Et dryss salt
+- Eventuelt friske urter
+
+### Fremgangsmåte
+
+1. **Visp sammen eggene med en gaffel**, tilsett salt og visp slik at det kommer luft inn i eggene.
+2. **Smelt smør i en stekepanne.** **Like før det er antydning til at smøret blir gyllenbrunt**, skal eggene i pannen.
+3. **Roter på stekepannen** og gi eggene en omrøring med gaffel eller stekespade til massen begynner å stivne.
+4. **Ta stekepannen av varmen.**
+5. **Brett omeletten sammen før den stivner.**
+6. **Vipp over på tallerken.** Omeletten skal være lys, lett og ha bløt konsistens innvendig og være fast utvendig.
+7. **Dryss gjerne over hakket gressløk, salvie eller andre friske urter.**
+
+### Notater
+
+- **Smøret er termometeret.** Rett før det begynner å bli gyllent, er pannen på riktig temperatur. Går du tidligere, stivner ikke eggene raskt nok og omeletten blir seig. Venter du, brunes både smør og egg, og da er den ikke fransk lenger.
+- **Pannen av varmen før bretting.** Restvarmen holder på å steke ferdig midten mens du bretter. Bretter du over full varme, er innsiden fast før den når tallerkenen.
+- **Minimum tre egg**, presiserer kilden. Færre egg gir for tynt lag til å få den bløte kjernen som definerer retten.
+- **Ingen farge.** En fransk omelett skal være lys. Ser du brune flekker, var pannen for varm.
+- **Beslektet:** [Hellstrøms tortilla-omelett (F14)](#f14-hellstrøms-tortilla-omelett) er den spanske motsatsen, og [fransk eggerøre (F3)](#f3-fransk-eggerøre) og [Hellstrøms franske eggerøre (F12)](#f12-hellstrøms-franske-eggerøre) er eggerøre av samme skole.
+
+---
+
+## F14. Hellstrøms tortilla-omelett
+
+**Kilde:** Eyvind Hellstrøm, *Grunnboka* (Cappelen Damm, 2025) · **Kjøkken:** Spansk · **Tid:** ca. 15 min · **Porsjoner:** 2
+
+Spansk tortilla på snarveien: potetchips i stedet for konfiterte poteter. Chipsen suger til seg eggemassen på sekunder og gir samme fylde som en tortilla det tar førti minutter å lage.
+
+### Ingredienser
+
+- 4 egg
+- 2–3 ss vann
+- 2 ss olivenolje
+- 1 ss smør
+- 2 ss aioli, se [T15](#t15-aioli)
+- 25 g potetchips
+- 1 ts piment d'Espelette
+- Et dryss salt
+- 1 ss løkkompott *(se notat)*
+
+### Fremgangsmåte
+
+1. **Visp sammen eggene** med salt og Espelette-krydder.
+2. **Varm smør og olivenolje** i en panne og tilsett eggemassen.
+3. **Rør sammen i pannen** og tilsett løkkompott og knust potetchips **med det samme**.
+4. **Rør godt sammen** og stek ferdig på begge sider.
+5. **Vend omeletten over på tallerkener** og anrett med aioli.
+6. **Legg gjerne tynne skiver spansk Bellota-skinke på toppen.**
+
+### Notater
+
+- **Potetchipsen er hele poenget.** En ekte spansk tortilla krever poteter konfitert i olivenolje, som tar tre kvarter. Chips er allerede stekt i fett og gjennomkokt, så den trenger bare å suge til seg egg. Resultatet ligner overraskende mye.
+- **Chipsen skal i med det samme**, mens eggemassen er rå. Venter du til den begynner å stivne, får chipsen ikke tid til å mykne, og du sitter igjen med sprø biter i en ferdig omelett.
+- **Piment d'Espelette** er en mild, fruktig chili fra Baskerland. Har du den ikke, gir mild paprikapulver med en klype cayenne omtrent samme sted.
+- **Løkkompotten henviser til side 75 i boka**, som ikke er med her. Karamellisert løk kokt myk med litt eddik og sukker gjør samme nytte. *(Flagget – kildens egen oppskrift mangler.)*
+- **Beslektet:** [Hellstrøms franske omelett (F13)](#f13-hellstrøms-franske-omelett) er den franske motsatsen, [aioli (T15)](#t15-aioli) er aiolien, og [frittata i langpanne (S26)](#s26-frittata-i-langpanne) er den italienske slektningen.
+
+---
+
+## F15. Hellstrøms 3–6–9 minutters egg
+
+**Kilde:** Eyvind Hellstrøm, *Grunnboka* (Cappelen Damm, 2025) · **Kjøkken:** Fransk · **Tid:** 3–9 min · **Gir:** Etter behov
+
+Én tabell for alle tre kokegradene. Tiden regnes fra det kalde egget legges i kokende vann, ikke fra vannet koker opp igjen.
+
+### Ingredienser
+
+- Egg, rett fra kjøleskapet
+- Vann
+- Salt
+- 1 ss eddik *(7 %)*
+
+### Fremgangsmåte
+
+1. **Kok opp saltet vann tilsatt 1 ss eddik.**
+2. **Legg i kalde egg rett fra kjøleskapet.**
+3. **3 minutter** gir rennende egg.
+4. **6 minutter** gir bløtkokt egg med fast hvite og bløt plomme.
+5. **9 minutter** gir hardkokt egg med fast hvite og fast plomme.
+
+### Notater
+
+- **Tiden regnes fra ilegging**, presiserer kilden – ikke fra vannet koker opp igjen. Det er den vanligste kilden til feil, for vannet faller flere grader når kalde egg går i.
+- **Kalde egg fra kjøleskapet er forutsetningen** for at tabellen stemmer. Romtempererte egg blir ferdig raskere, og da er tre minutter allerede bløtkokt.
+- **Eddiken er en forsikring.** Sprekker skallet under kokingen, koagulerer eggehviten øyeblikkelig i det sure vannet og tetter sprekken, i stedet for å velte ut i kjelen.
+- **Beslektet:** [F16](#f16-hellstrøms-posjerte-egg) bruker samme eddikprinsipp, og [T8](#t8-ramenegg-ajitama) bygger videre på det bløtkokte egget.
+
+---
+
+## F16. Hellstrøms posjerte egg
+
+**Kilde:** Eyvind Hellstrøm, *Grunnboka* (Cappelen Damm, 2025) · **Kjøkken:** Fransk · **Tid:** ca. 10 min · **Porsjoner:** 4
+
+Eddik både i vannet og i koppen. Virvelen i vannet samler hviten rundt plommen, og kaldt vann etterpå stopper kokingen presist.
+
+### Ingredienser
+
+- 4 egg
+- 1 liter vann
+- 4–5 ss eddik *(7 %)*
+- En klype salt
+
+### Fremgangsmåte
+
+1. **Kok opp vann i en vid kjele**, tilsett salt og eddik, og **rør med en visp for å oppnå sirkulasjon i vannet.**
+2. **Knekk ett og ett egg i en kaffekopp med 1 ts eddik i bunnen**, og ha dem over i vannet.
+3. **Du kan ha i alle eggene samtidig**, men pass på at kjelen er vid nok til at eggene ikke flyter sammen.
+4. **Trekk eggene i ca. 3 minutter.**
+5. **Ta dem opp med en hullsleiv** og legg dem i kaldt vann for å stoppe kokeprosessen.
+6. **Ta eggene ut av vannet** og la dem renne av på kjøkkenpapir.
+7. **Pynt egget med en kniv** før servering – skjær vekk de løse trådene.
+
+### Notater
+
+- **Eddik to steder.** Fire–fem spiseskjeer i vannet, og en teskje i koppen under hvert egg. Kilden gjør begge deler, og det er ikke overflødig: eddiken i koppen begynner å feste hviten allerede før egget treffer vannet.
+- **Virvelen gjør jobben mekanisk.** Vannet i bevegelse legger den løse hviten rundt plommen i stedet for å la den drive utover.
+- **Vid kjele, ikke dyp.** Eggene trenger gulvplass, ellers klistrer de seg sammen.
+- **Kaldt vann etterpå er ikke bare for oppbevaring.** Restvarmen koker videre i egget, og uten avkjøling er den bløte plommen borte innen du har dekket bordet. Posjerte egg kan lages på forhånd og varmes tilbake i varmt vann i et halvminutt.
+- **Beslektet:** [F15](#f15-hellstrøms-369-minutters-egg) er kokte egg etter samme skole, og [F4](#f4-eggs-benedict) er den klassiske bruken.
+
+---
 
 # Grunnoppskrifter
 
@@ -18806,231 +24183,96 @@ Teknikk, ikke rett. Pastaplatene tørkes delvis før andre gjennomkjøring, slik
 
 ---
 
-## G3. Majones
+## G3. Semolinapasta
 
-**Kilde:** Andy Cooks (andy-cooks.com) · **Kjøkken:** Fransk · **Tid:** 10 min · **Gir:** ca. 3,5 dl *(kilden oppgir 8 porsjoner)*
+**Kilde:** Klassisk standardversjon · **Kjøkken:** Italiensk · **Tid:** 15 min + 30 min hvile · **Gir:** 4 porsjoner
 
-Klassisk majones lagd med stavmikser i et høyt glass – metoden som gjør emulsjonen nærmest idiotsikker. Kilden ser den uttrykkelig som en base å smaksette videre: sitron, chili, harissa eller for den saks skyld Vegemite.
-
-### Ingredienser
-
-- 2 eggeplommer, romtempererte *(«romtemperert» lagt til – se notat)*
-- 1 ts dijonsennep
-- Saften av ½ sitron — ca. 20 ml *(mengde lagt til)*
-- 300 ml olje, valgfri type *(se notat om oljevalg)*
-- Salt etter smak — start med ¼ ts *(mengde lagt til)*
-
-### Fremgangsmåte
-
-1. **Alt i glasset.** Ha eggeplommer, dijonsennep, olje og sitronsaft i et høyt, smalt glass eller en begerkanne.
-2. **Kjør fra bunnen.** Sett stavmikseren helt ned i bunnen og start der. Flytt den gradvis oppover mens du kjører, så oljen emulgerer inn i plommene. Ta deg tid – det er hastverk som får den til å skille seg. *(Se notat: hold mikseren i ro i bunnen til emulsjonen har tatt tak, før du begynner å løfte.)*
-3. **Er den for tykk**, spe med litt romtemperert vann til ønsket konsistens.
-4. **Smak til med salt.** Da er majonesen ferdig.
-
-### Notater
-
-- **Oljevalget er viktigere enn kilden lar det høres ut som.** «Olje du selv vil ha» er sant for nøytrale oljer – raps, solsikke, druekjerne – men **ekstra virgin olivenolje blir bitter i stavmikser**. Bladene sprenger olivenens polyfenoler, og resultatet smaker vondt uansett hvor godt du emulgerer. Vil du ha olivenoljesmak, bruk nøytral olje til emulsjonen og rør inn 2–3 ss olivenolje til slutt for hånd. Andy sier det samme selv i [T19](#t19-sprø-potetsalat-med-yuzumajones): olivenoljen hører ikke hjemme i majonesen.
-- **Hold stavmikseren i ro til emulsjonen har tatt tak.** Kilden sier «start i bunnen og beveg deg oppover», men ikke at du bør stå stille de første 10–15 sekundene, til det er dannet en tykk, hvit kjerne rundt hodet. Løfter du for tidlig, drar du ublandet olje ned i plommene og majonesen skiller seg. Dette er lagt til.
-- **Slik redder du en skilt majones** – kilden sier bare at du skal unngå det, ikke hva du gjør når det skjer. Ha en fersk eggeplomme i et rent glass og spe den skilte blandingen ned i den, litt om gangen, mens du kjører. Da tar den seg opp igjen. *(Lagt til.)*
-- **Romtempererte plommer emulgerer lettere.** Kjøleskapskalde egg gir tregere emulsjon og større fare for skilling. Ta dem ut 20 minutter før.
-- **Rå eggeplomme er uproblematisk i Norge.** Norske egg har kontrollert salmonellastatus, og rå plommer i majones regnes som trygt her – i motsetning til i mange andre land. Er du gravid eller har nedsatt immunforsvar, bruk pasteurisert eggeplomme.
-- **Eggstørrelsen påvirker forholdet.** 2 plommer til 300 ml olje er en trygg ratio – en plomme takler godt over 150 ml. Bruker du norske L-egg med store plommer, blir majonesen litt tykkere og fastere; med M-egg litt løsere. Vann fikser begge deler.
-- **Sitronmengden varierer mye.** «Saften av ½ sitron» kan være alt fra 10 til 25 ml, og syren er det som gjør majonesen frisk i stedet for fet. Start med ca. 20 ml, smak, og juster. Hvitvinseddik gir en renere, skarpere syre om du vil ha den mer i klassisk retning.
-- **Dette er en plommemajones**, ikke en med helt egg – derfor blir den tykk og gul. Det er samme prinsipp som japansk **Kewpie**, som også bruker bare plommer. Vil du nærme deg den, bytt sitronen mot riseddik. Se notatet i [nr. 47](#47-enkel-ramen-med-kylling--matkanalen-sin-versjon) om forskjellen på japansk og norsk majones.
-- **Holdbarhet:** 3–4 dager i kjøleskap i tett glass, siden plommene er rå. Kilden sier ingenting om oppbevaring. *(Lagt til.)* Den skiller seg ikke i kjøleskapet, men blir stivere – rør den løs, eventuelt med en skvett vann.
-- **Som base:** kildens egne forslag er sitron, chili, harissa og Vegemite. I denne samlingen brukes majones videre i den sterke majonesen til [sprø risbiter med laks](#s8-sprø-risbiter-med-laks) og [sushikopper med reker](#s6-sushikopper-med-reker) – sriracha rørt i majones – Rører du inn revet hvitløk, får du hvitløksmajones – det de fleste kaller aioli. Ekte aioli er noe annet og lages helt uten egg; se [T15](#t15-aioli).
-- **Uten stavmikser** går det fint for hånd, men da må oljen dryppes i mens du visper, ikke helles. Regn 10 minutters visping og en fuktig klut under bollen så den står stille.
-
----
-
-## G4. Saltkaramellsaus
-
-**Kilde:** Yasmine / @thechefmine (TikTok, 26. januar 2023) · **Kjøkken:** Vestlig · **Tid:** 20 min · **Gir:** ca. 3 dl
-
-Tørrkaramell – sukker smeltet uten vann – rørt ut med smør og fløte. Fem ingredienser og tjue minutter, og den holder seg i kjøleskapet i ukevis.
+Pastadeig uten egg, av durumhvete og vann. Dette er sørens pasta – den som brukes til orecchiette, cavatelli og trofie, og den holder formen mye bedre enn eggpasta i korte former.
 
 ### Ingredienser
 
-- 200 g sukker
-- 98 g smør, i terninger — 7 ss
-- 118 ml kremfløte
-- ½–1 ts salt, etter smak
-- 2 ts vaniljeekstrakt
-
-### Fremgangsmåte
-
-1. **Smelt sukkeret** i en kjele med tykk bunn på middels varme, under stadig omrøring med tresleiv eller slikkepott. Sukkeret klumper seg først, og smelter så ned.
-2. **Smøret i.** Ta kjelen av varmen og tilsett smøret med en gang, under stadig omrøring. Vær forsiktig – det spruter.
-3. **Fløten i.** Når smøret er helt innarbeidet, tilsett fløten langsomt under stadig omrøring. Det bobler kraftig opp, så vær forsiktig.
-4. **Smak til.** Rør inn salt og vaniljeekstrakt.
-5. **Oppbevar** karamellsausen i et glass i kjøleskapet i inntil **4 uker**.
-6. **Bruk den varm eller kald.** Den tykner når den avkjøles – varm den kort i mikrobølgeovn for å løse den opp igjen.
-
-### Notater
-
-- **Smøret og fløten må være romtemperert.** Dette er den viktigste tilføyelsen til oppskriften. Kilden advarer om at det spruter og bobler, men sier ikke hvorfor: kald meieri­vare møter sukker på rundt 175 °C, og temperatursjokket får karamellen til å stivne i klumper i tillegg til å sprute. Ta smør og fløte ut av kjøleskapet en halvtime før. *(Kritisk tillegg.)*
-- **Tørrkaramell er raskere, men mindre tilgivende** enn våtkaramell med vann. Sukkeret smelter ujevnt, og forskjellen mellom gyllenbrun og brent er under et halvminutt. Sikt mot en dyp ravfarge – blir den mørkebrun og røyker, er den bitter og må kastes. *(Presisering lagt til.)*
-- **Røring er riktig her, i motsetning til i våtkaramell.** Med tørrkaramell må du røre, ellers brenner sukkeret nederst mens toppen fortsatt er kornet. Med våtkaramell er det motsatt – da skal du la være å røre, siden det utløser krystallisering. Forveksling mellom de to er en vanlig kilde til mislykket karamell. *(Bakgrunn lagt til.)*
-- **Skiller den seg** når smøret går i – blandingen ser oljete og kornete ut – er den ikke ødelagt. Sett kjelen tilbake på lav varme og rør til den samler seg igjen. *(Redning lagt til.)*
-- **Kjelen må ha tykk bunn.** Tynne kjeler gir varme punkter der sukkeret brenner mens resten fortsatt er ukokt. Bruk gjerne en lys kjele, så ser du fargen.
-- **½–1 ts salt forutsetter usaltet smør.** Norsk meierismør er saltet. Bruker du det, start på **¼ ts** og smak deg opp. *(Justering lagt til.)*
-- **Vaniljeekstrakt går i etter at kjelen er av varmen**, som kilden gjør – alkoholen fordamper og aromaen forsvinner hvis den kokes.
-- **Ikke gå fra kjelen.** De 20 minuttene krever oppmerksomhet hele veien; sukkeret går fra ingenting skjer til alt skjer på kort tid.
-- **Fire uker i kjøleskap er i overkant optimistisk.** Sukkerinnholdet konserverer godt, men sausen inneholder fløte – regn **2–3 uker** i tett, rent glass for å være trygg. Den stivner helt kald og må varmes for å kunne helles. *(Justering lagt til.)*
-- **Passer til** [D2 sjokoladefondant](#d2-sjokoladefondant), [D4 pistasjpanna cotta](#d4-pistasjpanna-cotta-med-rømme-og-blåbær) i stedet for blåbærene, og over vaniljeis. Rørt inn i [B2 gochujang chocolate chip cookies](#b2-gochujang-chocolate-chip-cookies) etter steking fungerer også.
-
----
-
-## G5. Tortillas med gresk yoghurt
-
-**Kilde:** YellowLampKitchen / @yellowlampkitchen (TikTok, 9. mars 2024) · **Kjøkken:** Vestlig · **Tid:** ca. 50 min · **Gir:** 16 små eller 8 store tortillas
-
-Fire ingredienser, ingen gjær og ingen heving. Yoghurten står for både fuktighet og fett, og bakepulveret får dem til å blåse seg opp i pannen.
-
-### Ingredienser
-
-- 300 g hvetemel
-- 250 g gresk yoghurt
-- 1 ts bakepulver
-- ½ ts salt
-
-### Fremgangsmåte
-
-1. **Bland** mel, gresk yoghurt, bakepulver og salt i en bolle.
-2. **Elt deigen** i **5 minutter** til den er glatt, og sett den i kjøleskapet i **30 minutter**.
-3. **Form.** Rull deigen til en pølse, del den i **16 biter** og trill dem til kuler.
-4. **Kjevle** hver kule tynt ut på melet underlag.
-5. **Varm en tørr panne** på middels varme.
-6. **Stek** hver side i **1–2 minutter**, til tortillaen blåser seg opp.
-7. **Gjenta** med resten av deigen.
-
-### Notater
-
-- **Dette er ikke en meksikansk tortilla.** Ekte hvetetortilla lages med mel, vann, salt og fett – som regel svinefett eller smør. Denne er nærmere en gresk pita eller en indisk naan i oppbygging, med yoghurt og bakepulver. Resultatet er mykere, tykkere og litt syrlig, og fungerer godt som wrap. Vil du ha den meksikanske varianten, må du bytte metode helt. *(Bakgrunn lagt til.)*
-- **Bruk fullfet gresk yoghurt.** Fettet er det som gjør deigen smidig og tortillaene myke. 0 % yoghurt gir en tørr, seig deig som sprekker når du kjevler. *(Presisering lagt til.)*
-- **Norsk gresk yoghurt er tynnere enn den greske**, og deigen kan bli klissete. Ha ekstra mel klart, eller la yoghurten renne av i et kaffefilter i en halvtime først. Skyr er tykkere og fungerer også, men er syrligere. *(Erstatning lagt til.)*
-- **Kjølingen i 30 minutter er ikke pynt.** Glutenet slapper av, og deigen lar seg kjevle uten å trekke seg tilbake. Hopper du over det, får du ovale, seige tortillaer.
-- **Kjevle tynt – tynnere enn du tror.** 2 mm. Er de tykke, blir de brødaktige i stedet for myke og bøyelige.
-- **Pannen må være ordentlig varm.** Tortillaen skal boble opp innen 30 sekunder. For lav varme tørker den ut i stedet for å steke den. Middels sterk varme er nærmere sannheten enn kildens «middels». *(Justering lagt til.)*
-- **1–2 minutter per side er i overkant.** De fleste er ferdige på **45–60 sekunder** per side – de skal få brune flekker, ikke gjennomgående farge. Stekes de for lenge, blir de harde. *(Justering lagt til.)*
-- **Legg dem i et kjøkkenhåndkle etter hvert som de blir ferdige.** Dampen holder dem myke og bøyelige. Uten dette stivner de i løpet av minutter – det er den vanligste grunnen til at hjemmelagde tortillaer sprekker når man ruller dem. *(Kritisk tillegg.)*
-- **Deigen kan lages dagen før** og oppbevares i kjøleskapet. Ta den ut 20 minutter før kjevling.
-- **Holdbarhet:** best ferske. Ferdigstekte tortillaer holder 2 dager i tett pose i kjøleskap – varm dem 20 sekunder i tørr panne før servering.
-- **Brukes i** [nr. 160 Big Mac tacos](#160-big-mac-tacos), [nr. 122 braiserte kyllingtacos](#122-braiserte-kyllingtacos), [nr. 126 kyllingquesadillas](#126-kyllingquesadillas) og [S22 spicy cæsarwrap](#s22-spicy-cæsarwrap-med-kylling). Til [nr. 116 birria](#116-birria--meksikansk-braisert-oksekjøtt) og [nr. 159](#159-birria--daniela-sin-versjon) vil du helst ha maistortilla, som er en annen oppskrift.
-
----
-
-## G6. Kyllingkraft
-
-**Kilde:** Klassisk standardversjon · **Kjøkken:** Vestlig · **Tid:** ca. 4 timer *(15 min aktivt)* · **Gir:** ca. 2 liter
-
-Grunnlaget for de fleste suppene i samlingen. Skrogene trekker i vann med rotgrønnsaker og urter i tre til fire timer, uten at det noen gang koker. Én regel avgjør resultatet: kraften skal aldri fosskoke.
-
-### Ingredienser
-
-- 2 kg kyllingskrog, vinger eller hals
-- 3 liter kaldt vann
-- 2 løk, delt i to, med skallet på
-- 2 gulrøtter, i grove biter
-- 2 stilker stilkselleri, i grove biter
-- 1 purre, den grønne delen
-- 4 hvitløksfedd, knust
-- 1 ts hele sorte pepperkorn
-- 2 laurbærblad
-- Noen stilker persille og timian
-
-### Fremgangsmåte
-
-1. **Legg skrogene i en høy gryte** og dekk med det kalde vannet. Kaldt vann, ikke varmt – proteinene løser seg ut langsomt og gir klarere kraft.
-2. **Varm langsomt opp** til det så vidt begynner å røre seg i overflaten. Det skal ta **20–30 minutter**.
-3. **Skum av** det grå skummet som legger seg på toppen de første ti minuttene.
-4. **Ha i grønnsaker, hvitløk, pepperkorn, laurbær og urter.**
-5. **La kraften trekke i 3–4 timer** på så svak varme at det bare kommer en boble opp av og til. Legg lokket på skrå.
-6. **Sil kraften** gjennom en finmasket sil. Press ikke på grønnsakene – da blir kraften grumsete.
-7. **Avkjøl raskt** ved å sette gryta i kaldt vann, og sett den kaldt over natten. Fettet stivner på toppen og løftes av dagen etter.
-
-### Notater
-
-- **Kraften skal aldri fosskoke.** Ved fosskoking emulgerer fettet inn i væsken og gjør kraften grå og fet. Ved trekkepunktet holder fettet seg på overflaten der du kan fjerne det. Dette er den ene tingen som skiller god kraft fra dårlig.
-- **Skallet på løken** gir farge. Kraften blir gyllen i stedet for blek, uten at det påvirker smaken.
-- **Salt hører ikke hjemme her.** Kraften kokes ofte inn senere i en rett, og salter du nå, ender du med noe uspiselig når den reduseres. Salt til slutt, i retten.
-- **Skrog fås billig hos slakteren,** og vinger gir mest gelatin per krone. Har du stekt en kylling, går skroget rett i fryseren til neste gang.
-- **Frys i porsjoner på 5 dl.** Da har du én ramen eller én suppe per pose. Isbitbrett fungerer for de små mengdene du trenger i en saus.
-- **Holdbarhet:** 4 døgn kjøleskap, 6 måneder fryser.
-- **Brukes i** [nr. 1](#1-kremet-krydret-miso-ramen-med-kylling), [nr. 20](#20-klassisk-shoyu-ramen) og de fleste suppene i samlingen.
-
----
-
-## G7. Dashi
-
-**Kilde:** Klassisk standardversjon · **Kjøkken:** Japansk · **Tid:** 30 min · **Gir:** ca. 1 liter
-
-Japansk grunnbuljong av tang og tørket bonitt. Den koker aldri, tar en halvtime, og er utgangspunktet for misosuppe, ramen og det meste av japansk hjemmekokkeri. Alt som går galt med dashi, skyldes for høy varme.
-
-### Ingredienser
-
-- 1 liter kaldt vann
-- 10 g kombu *(tørket tang, et stykke på ca. 10 × 10 cm)*
-- 20 g katsuobushi *(tørkede bonittflak)*
-
-### Fremgangsmåte
-
-1. **Legg kombuen i det kalde vannet** og la den trekke i **30 minutter**. Har du tid, la den stå i kjøleskap over natten.
-2. **Varm langsomt opp** til rundt **60 °C**, altså like før det begynner å dampe. Dette skal ta **10 minutter**.
-3. **Ta ut kombuen** rett før vannet koker. Blir den igjen, avgir den slim og en tydelig bitterhet.
-4. **Kok opp**, ta gryta av platen med en gang, og strø over katsuobushien.
-5. **La flakene synke** av seg selv, **2–3 minutter**. Ikke rør.
-6. **Sil gjennom en finmasket sil** eller et klede. Press ikke på flakene.
-
-### Notater
-
-- **Kombuen må ut før kokepunktet.** Dette er hele kunsten. Koker den med, får du en glatt, bitter buljong i stedet for en klar med dyp umami.
-- **Ikke skyll eller skrap kombuen.** Det hvite pulveret på overflaten er mannitol, og det er smak. Tørk eventuelt av med tørt papir.
-- **Katsuobushien røres aldri.** Rører du, blir buljongen grumsete og får en tydelig fiskesmak i stedet for den rene røykaktige.
-- **Andregangs dashi (niban dashi)** lages av det samme kombuet og flakene, kokt i 10 minutter i ny liter vann. Den er svakere og brukes til å koke grønnsaker eller til miso.
-- **Dashipulver er et fullgodt hverdagsalternativ.** Flere av oppskriftene i samlingen bruker det. Forskjellen merkes tydeligst i en klar suppe, minst i en kraftig ramen.
-- **Kombu og katsuobushi fås** i asiatiske butikker og i de større dagligvarekjedene.
-- **Holdbarhet:** 3 døgn kjøleskap, 3 måneder fryser. Best samme dag – aromaen er flyktig.
-- **Brukes i** [nr. 6](#6-misosuppe), [nr. 21](#21-shio-ramen) og [T8](#t8-ramenegg-ajitama).
-
----
-
-## G8. Bechamel
-
-**Kilde:** Klassisk standardversjon · **Kjøkken:** Fransk · **Tid:** 20 min · **Gir:** ca. 1 liter
-
-Den hvite grunnsausen. Smør og mel surres til en jevning, spes med melk, og kokes til melsmaken er borte. Forholdet er verdt å lære utenat: **70 g smør, 70 g mel, 1 liter melk** gir en saus som renner tregt av sleiva.
-
-### Ingredienser
-
-- 70 g smør
-- 70 g hvetemel
-- 1 liter helmelk
+- 400 g semolina rimacinata *(fint malt durumhvete)*
+- 200 ml lunkent vann
 - 1 ts salt
-- ¼ ts revet muskat
-- En klype hvit pepper
 
 ### Fremgangsmåte
 
-1. **Smelt smøret** i en tykkbunnet kjele på middels varme. Det skal ikke brunes.
-2. **Rør inn melet** og la jevningen surre i **2 minutter** under omrøring. Den skal skumme og lukte av kjeks, men ikke ta farge.
-3. **Spe med melken** litt om gangen, og visp godt mellom hver gang til blandingen er glatt før du heller på mer. De første desiliterne avgjør om sausen blir klumpete.
-4. **Kok opp under omrøring**, skru ned og la sausen småkoke i **8–10 minutter**. Rør langs bunnen med en sleiv, ikke bare visp.
-5. **Smak til** med salt, muskat og hvit pepper.
+1. **Ha semolinaen på benken** i en haug og lag en grop i midten.
+2. **Hell i vann og salt** litt om gangen mens du blander inn mel fra kantene med en gaffel.
+3. **Elt i 10 minutter** til deigen er glatt og fast. Den skal kjennes stivere enn brøddeig.
+4. **Pakk den i plast og la den hvile i 30 minutter** i romtemperatur. Uten hvile lar den seg ikke forme.
+5. **Form pastaen** – rull pølser og skjær biter til orecchiette eller cavatelli.
+6. **Kok i rikelig saltet vann i 3–5 minutter**, avhengig av tykkelsen.
 
 ### Notater
 
-- **De første desiliterne melk avgjør alt.** Klumper oppstår når du heller på for mye for fort. Er skaden skjedd, redder en stavmikser sausen fullstendig.
-- **Ti minutters koking er ikke valgfritt.** Under det smaker sausen av rå mel. Det er den vanligste feilen med hjemmelaget bechamel.
-- **Kald melk i varm jevning, eller varm melk i kald** – begge deler fungerer. Det som ikke fungerer er varm melk i varm jevning, som klumper seg umiddelbart.
-- **Muskat er det som gjør en bechamel til en bechamel** i stedet for en hvit saus. Vær forsiktig: ¼ ts holder til en liter.
-- **Tykkere eller tynnere?** Samme metode, endret forhold. 50 g av hver per liter gir en tynn saus til gratenger, 100 g gir en tykk til fylte grønnsaker.
-- **Holdbarhet:** 3 døgn kjøleskap med plastfolie rett på overflaten, ellers danner det seg snerk. Tåler frysing dårlig – den skiller seg, men lar seg redde med stavmikser.
-- **Brukes i** [nr. 167](#167-lasagne-alla-bolognese).
+- **Semolina rimacinata, ikke vanlig semolina.** Vanlig, grov semolina gir en sandet deig. Rimacinata er dobbeltmalt og fin som mel. Fås i italienske butikker og hos de større dagligvarekjedene.
+- **Forholdet er 2:1 på vekt.** 400 g mel til 200 ml vann. Trenger deigen mer, ta en spiseskje av gangen – for våt deig kleber seg til benken og lar seg ikke forme.
+- **Deigen skal føles for stiv.** Den mykner under hvilen, når vannet har fordelt seg gjennom melet.
+- **Denne tåler koking bedre enn eggpasta.** Uten egg er det bare gluten som holder formen, og resultatet er en pasta med tydelig tyggemotstand.
+- **Holdbarhet:** deigen 2 døgn i kjøleskap. Formet pasta tørkes helt og holder da måneder, eller fryses på brett før den samles i pose.
+- **Beslektet:** [G1](#g1-master-pasta-dough--grunndeig-til-fersk-eggpasta) og [G2](#g2-pasta-ruvida--teksturert-eggpasta) er eggvariantene til lange former.
 
 ---
 
-## G9. Pizzadeig
+## G4. Hellstrøms pastadeig
+
+**Kilde:** Eyvind Hellstrøm, *Grunnboka* (Cappelen Damm, 2025) · **Kjøkken:** Italiensk · **Tid:** ca. 40 min · **Gir:** 2 porsjoner
+
+To ingredienser: mel og seks eggeplommer. Ingen hele egg, ingen væske, ingen salt.
+
+### Ingredienser
+
+- 150 g hvetemel tipo 00
+- 6 eggeplommer
+
+### Fremgangsmåte
+
+1. **Bland hvetemel og eggeplommer i en kjøkkenmaskin** og kjør til en smidig deig.
+2. **Elt den videre for hånd på benken** og gi den en oval form.
+3. **Pakk inn i plastfolie** og la deigen hvile i kjøleskapet i **minimum en halvtime** før den kjevles ut.
+4. **Bruk en pastahåndkjevle for best resultat.**
+
+### Notater
+
+- **Seks plommer og ingenting annet.** Plommene er ca. 50 % vann og 30 % fett, og gir akkurat nok væske til 150 g mel. Resultatet er en tett, gul deig som er langt fastere enn en deig med hele egg – den skal føles hard i starten.
+- **Eltingen for hånd etter maskinen er ikke pynt.** Maskinen får deigen til å samle seg; håndarbeidet retter opp glutenstrengene. Kilden nevner begge trinn eksplisitt.
+- **Hvilen slapper av glutenet.** Uten den trekker deigen seg tilbake hver gang du kjevler, og du kommer aldri ned i tykkelse. En halvtime er minimum, ikke et mål.
+- **Håndkjevle framfor maskin** gir deigen en litt ru overflate som saus fester seg til. Pastamaskin gir en glattere flate og en renere kant.
+- **Forholdet er ca. 100 g mel per 4 plommer.** Skalerer du opp, hold forholdet – det tåler ikke å justeres med vann. *(Presisert.)*
+- **Beslektet:** [Hellstrøms grønne pastadeig (G5)](#g5-hellstrøms-grønne-pastadeig) er samme deig med spinatpuré og fire plommer, og [master pasta dough – grunndeig til fersk eggpasta (G1)](#g1-master-pasta-dough--grunndeig-til-fersk-eggpasta), [pasta ruvida – teksturert eggpasta (G2)](#g2-pasta-ruvida--teksturert-eggpasta) og [semolinapasta (G3)](#g3-semolinapasta) er samlingens øvrige pastadeiger.
+
+---
+
+## G5. Hellstrøms grønne pastadeig
+
+**Kilde:** Eyvind Hellstrøm, *Grunnboka* (Cappelen Damm, 2025) · **Kjøkken:** Italiensk · **Tid:** 40 min · **Gir:** 2 porsjoner
+
+Spinatpuré i stedet for hele egg. Fire eggeplommer og puréen gir nok væske alene, og deigen blir tett, smidig og dypt grønn.
+
+### Ingredienser
+
+- 150 g hvetemel tipo 00
+- 4 eggeplommer
+- 50 g spinatpuré
+
+### Fremgangsmåte
+
+1. **Bland alt i en kjøkkenmaskin eller for hånd** til en smidig deig.
+2. **Pakk inn i plastfolie** og la deigen hvile i kjøleskap i **minimum en halvtime** før den kjevles ut.
+3. **Kjevle den 2 mm tykk** og kutt lange bånd på **0,5 × 25 cm**, eller bruk den til ravioli eller tortellini.
+
+### Notater
+
+- **Ingen hele egg, bare plommer.** Spinatpuréen bringer med seg vann, og eggehviter i tillegg ville gjort deigen for våt. Plommene gir farge, fett og binding uten å tynne den ut.
+- **Puréen må være godt avrent.** Er spinaten vannete, kollapser forholdet og du må kompensere med mel – som blekner fargen.
+- **Hvilen i kjøleskapet er ikke valgfri.** Glutennettverket slapper av, og deigen lar seg kjevle uten å trekke seg tilbake. Uten hvile kjemper du mot den hele veien.
+- **2 mm er tykt for pasta.** Til tagliatelle er det riktig; til ravioli vil mange gå tynnere, siden deigen dobles når den brettes.
+- **Beslektet:** [master pasta dough – grunndeig til fersk eggpasta (G1)](#g1-master-pasta-dough--grunndeig-til-fersk-eggpasta), [pasta ruvida – teksturert eggpasta (G2)](#g2-pasta-ruvida--teksturert-eggpasta) og [semolinapasta (G3)](#g3-semolinapasta) er samlingens øvrige pastadeiger.
+
+---
+
+## G6. Pizzadeig
 
 **Kilde:** Matprat (matprat.no) · **Kjøkken:** Italiensk · **Tid:** 15 min + heving · **Gir:** 1 stor eller 2 mindre pizzaer
 
@@ -19065,293 +24307,459 @@ Grunndeig til pizza, langpannepizza, pizzasnurrer og calzone. Saltet kommer i et
 - **Saltet inn etter eltingen** er et bevisst grep. Salt strammer glutennettverket og bremser gjæren, så deigen bygger struktur raskere uten det. Ti minutter er nok før det kommer i.
 - **Kald heving over natten gir bedre smak.** Sett deigen i kjøleskap i 12–24 timer i stedet for på benken i en time. Det er ikke kildens metode, men det er den enkleste forbedringen som finnes. *(Lagt til.)*
 - **Holdbarhet:** deigen holder 3 døgn i kjøleskap og 3 måneder i fryser, formet til baller.
-- **Beslektet:** [nr. 114](#114-proteinrik-pizza-med-yoghurtbunn) er hverdagsvarianten uten gjær, og [G10](#g10-marinara--tomatsausbase) er sausen.
+- **Beslektet:** [nr. 114](#114-proteinrik-pizza-med-yoghurtbunn) er hverdagsvarianten uten gjær, og [T125](#t125-marinara--tomatsausbase) er sausen.
 
 ---
 
-## G10. Marinara – tomatsausbase
+## G7. Korttidshevet pizzadeig
 
-**Kilde:** Klassisk standardversjon · **Kjøkken:** Italiensk · **Tid:** 45 min · **Gir:** ca. 1 liter
+**Kilde:** Pizzamani (pizzamani.no) · **Kjøkken:** Italiensk · **Tid:** 25 min aktivt + ca. 3 timer heving · **Gir:** 4 deigballer à ca. 250 g
 
-Tomatsaus av fire ingredienser, kokt til den er tykk nok til å bli sittende på en skje. Lages i dobbel porsjon og fryses – den er utgangspunktet for pizza, pasta, parmigiana og alt som trenger tomat.
+Napolitansk deig på 62 % hydrering, hevet én time i bulk og to timer i ball. Fersk gjær er valgt med vilje – den er kraftigere i første hevefase enn tørrgjær, og på så kort tid teller det. Gjærmengden er knyttet til romtemperaturen, ikke til klokken.
 
 ### Ingredienser
 
-- 1,6 kg hermetiske hele tomater, helst San Marzano
-- 1 dl olivenolje
-- 6 hvitløksfedd, tynt skivet
-- 1 ts salt
-- En håndfull basilikumstilker *(bladene tas vare på til slutt)*
-- ½ ts sukker *(bare hvis tomatene er sure)*
+- 606 g Caputo Classica hvetemel *(eller Møllerens pizzamel, eventuelt vanlig hvetemel)*
+- 376 g iskaldt vann, 4–6 °C
+- 18 g fint salt
+- 9 g fersk gjær *(gjelder ved 21 °C romtemperatur – se notat)*
+- Olivenolje til benken
 
 ### Fremgangsmåte
 
-1. **Klem tomatene** i stykker med hendene over en bolle. Fjern eventuelle harde stilkfester. Ikke bruk stavmikser – frøene blir bitre når de knuses.
-2. **Varm olivenoljen** i en vid gryte på middels varme og legg i hvitløken. Stek til den er lysegyllen, **2–3 minutter**. Blir den mørk, blir hele sausen bitter.
-3. **Ha i tomatene**, salt og basilikumstilkene.
-4. **La sausen koke uten lokk i 35–40 minutter**, til den har trukket seg sammen og oljen begynner å skille seg ut i kantene.
-5. **Fisk ut basilikumstilkene**, smak til, og rør inn de friske bladene.
+1. **Ha alt melet i eltebollen** og smuldre gjæren over. Hvor fint du smuldrer spiller ingen rolle – den blandes inn under eltingen.
+2. **Tilsett vannet, men hold igjen ca. 2 ss.** Saltet skal heller ikke i ennå.
+3. **Elt i 15 minutter.**
+4. **Tilsett resten av vannet og alt saltet**, og elt videre i **ca. 5 minutter** til begge deler er tatt opp i deigen.
+5. **Sjekk deigtemperaturen.** Den ferdige deigen skal ligge mellom **20 og 24 °C**.
+6. **Ha deigen ut på en benk smurt med litt olivenolje.** Smør et tynt lag olje over deigen også, og dekk den med en oppskåret brødpose eller plastfolie.
+7. **La den hvile i 20–25 minutter.**
+8. **Brett deigen noen ganger**, form en ball, og legg den i en bakebolle dekket med plast. **Hev videre i 35–40 minutter**, så bulkhevingen til sammen blir én time.
+9. **Ball opp i fire emner** og la dem heve i **2 timer** før bruk. All heving skjer i romtemperatur.
 
 ### Notater
 
-- **Vid gryte, ikke høy.** Sausen tykner ved fordampning, og fordampning skjer på overflaten. En vid panne halverer koketiden mot en høy kjele.
-- **Hendene, ikke stavmikseren.** Knuste tomatfrø gir bitterhet, og en revet konsistens er riktigere enn en helt glatt. Vil du ha den glatt, kjør den etter kokingen, ikke før.
-- **Hvitløken skal ikke brunes.** Lysegyllen er riktig. Går den mørk, er det ingen vei tilbake – begynn på nytt.
-- **Sukkeret er ikke standard.** Gode hermetiske tomater trenger det ikke. Smak først, og bruk det bare hvis sausen biter.
-- **San Marzano er verdt merprisen** til denne bruken. De er kjøttfullere og mindre sure enn vanlige hermetiske tomater, og siden sausen har fire ingredienser, er det ingenting som skjuler forskjellen.
-- **Oljemengden virker høy.** 1 dl til 1,6 kg tomater er riktig – den emulgerer inn og gir sausen fylde uten fløte.
-- **Holdbarhet:** 5 døgn kjøleskap, 6 måneder fryser. Frys i porsjoner på 3 dl, som dekker én pizza eller pasta til to.
-- **Brukes i** [G9](#g9-pizzadeig) og som utgangspunkt der oppskriftene bruker passata.
+- **Gjærmengden følger romtemperaturen, ikke oppskriften.** 9 g gjelder ved 21 °C. Kilden oppgir hele tabellen:
+  - 17 °C – 19 g
+  - 18 °C – 15,5 g
+  - 19 °C – 13 g
+  - 20 °C – 11 g
+  - 21 °C – 9 g
+  - 22 °C – 7,5 g
+  - 23 °C – 6 g
+  - 24 °C – 5 g
+- **Iskaldt vann på 4–6 °C** er der fordi tjue minutters elting varmer deigen betydelig. Målet er en ferdig deig på 20–24 °C, og med romtemperert vann bommer du oppover.
+- **Fersk gjær, ikke tørrgjær.** Kilden begrunner det: fersk gjær kommer raskere i gang i første hevefase, og på tre og en halv time rekker ikke tørrgjæren å ta igjen.
+- **Salt og de siste to spiseskjeene vann holdes tilbake.** Salt strammer glutennettverket og bremser gjæren, så deigen bygger struktur raskere uten. Samme prinsipp som i [G6](#g6-pizzadeig).
+- **Fire varianter av melet.** Kilden gir tre alternativer i tillegg til det rene hvetemelet, alle med samme mengde vann, salt og gjær:
+  - 563 g hvetemel + 43 g sammalt fin emmer eller rug
+  - 545 g hvetemel + 43 g emmer eller rug + 18 g Criscito eller Naturkraft
+  - 588 g hvetemel + 18 g Criscito eller Naturkraft
+  Emmer og rug er smaksrike kornsorter. Criscito og Naturkraft er tørre surdeigsbaser som får deigen til å smake som om den er hevet lenger enn den er. *(Flyttet hit fra kildens ingrediensliste, så ingrediensene over gjelder den enkleste varianten.)*
+- **62 % hydrering er lavt** sammenlignet med de andre deigene i samlingen, og det er en fordel her: en fastere deig lar seg forme raskere, og den trenger ikke lang heving for å bli håndterlig.
+- **Steking uten pizzaovn**, to veier fra kilden. Begge krever at ovnen forvarmes **minst 60 minutter** på maks varme hvis du bruker stein eller stål:
+  - Nederste rille, maks temperatur, undervarme og varmluft.
+  - Øverste eller nest øverste rille, maks temperatur, under- og overvarme, med grillelementet på mens pizzaen steker. Slå det av når du tar ut pizzaen, og på igjen når neste settes inn.
+  Har du verken stein eller stål, går det an med den vanlige langpannen.
+- **Holdbarhet:** deigballene bør brukes samme dag. Skal de vente lenger, sett dem kaldt etter balling og ta dem ut 2 timer før bruk.
+- **Beslektet:** [pizzadeig (G6)](#g6-pizzadeig) er den enkle hverdagsdeigen, [pizzasaus (T128)](#t128-pizzasaus) er sausen, og [proteinrik pizza med yoghurtbunn (nr. 114)](#114-proteinrik-pizza-med-yoghurtbunn) er varianten uten gjær.
 
 ---
 
-## G11. Grønnsakskraft
+## G8. Pizzadeig med 48 timers heving
 
-**Kilde:** Klassisk standardversjon · **Kjøkken:** Vestlig · **Tid:** 1 time · **Gir:** ca. 2 liter
+**Kilde:** Pizzamani (pizzamani.no) *(«Pizza napolitana i vanlig stekeovn»)* · **Kjøkken:** Italiensk · **Tid:** 30 min aktivt + 48 timer heving · **Gir:** 4 deigballer à 200 g
 
-Kraft på grønnsaker alene. Den koker langt kortere enn kjøttkraft, fordi grønnsaker gir fra seg alt de har i løpet av en time og deretter bare blir bitre.
+Fire timer i romtemperatur, deretter 44 timer i kjøleskap på 4 °C. Det er derfor gjærmengden er nede i under tre gram. Oppskriften er skrevet for **vanlig stekeovn med pizzastein**, og steketeknikken er halve poenget.
 
 ### Ingredienser
 
-- 2,5 liter kaldt vann
-- 3 løk, delt i to, med skallet på
-- 3 gulrøtter, i grove biter
-- 3 stilker stilkselleri
-- 1 purre, hele
-- 200 g sjampinjong eller soppstilker
-- 4 hvitløksfedd, knust
-- 1 ts hele sorte pepperkorn
-- 2 laurbærblad
-- Stilker fra en bunt persille
+- 483 g Caputo Cuoco hvetemel *(eller annet «00»-mel)*
+- 305 g vann, romtemperert
+- 12 g Maldon-salt
+- 2,77 g fersk gjær
+
+**Du trenger også**
+- Pizzastein eller pizzastål
+- Stekespade
+- Durumhvete til utbaking *(se notat)*
 
 ### Fremgangsmåte
 
-1. **Grovhakk alle grønnsakene.** Jo mindre biter, desto raskere gir de fra seg smak.
-2. **Legg alt i en gryte** med det kalde vannet og kok opp.
-3. **Skru ned og la kraften trekke i 45 minutter** uten lokk.
-4. **Sil av** uten å presse på grønnsakene.
+**Deigen**
+
+1. **Løs opp salt og gjær** i det romtempererte vannet.
+2. **Bland inn melet litt etter litt** mens kjøkkenmaskinen går på middels hastighet – ikke raskere enn at melet holder seg i bollen. Denne meltypen er nesten som pudder og støver lett.
+3. **Kjør til alt melet er blandet inn** og deigen er smidig og fin.
+4. **Senk til laveste hastighet og elt videre i 20 minutter.**
+5. **Dekk bollen tett med plastfolie** og hev i romtemperatur i **4 timer**.
+6. **Hell deigen ut på benken** og form en pølse. **Ikke kna den.** Del i fire like deler og form hvert emne til en ball.
+7. **Sett ballene til andregangs heving i kjøleskap på 4 °C i 44 timer** – enten samlet i en tett hevekasse, eller hver for seg i plastbokser med lokk. Suppetallerkener med plastfolie over fungerer også.
+
+**Forming**
+
+8. **Ta deigene ut 1–2 timer før bruk** og la dem temperere på benken.
+9. **Bak ut og stek én av gangen.** Da har du best kontroll.
+10. **Form emnene til runde leiver med hendene.** Begynn i midten og trykk utover, så luften presses ut i kanten. Det er denne teknikken som gir en luftig og sprø skorpe.
+
+**Steking**
+
+11. **Forvarm ovnen og pizzasteinen på maks temperatur i ca. 1 time.**
+12. **Fordel sausen**, men la **2–3 cm rundt kanten** være uten. Legg på ost og fyll.
+13. **Dra pizzaen opp på stekespaden** og før den inn på **øverste hylle** på maks temperatur.
+14. **Etter et par minutter** kan du slå på grillelementet for å brune skorpen ekstra.
+15. **Følg med hele tiden.** Pizzaen er ferdig når skorpen er godt brunet og begynner å få antydning til små svarte flekker.
 
 ### Notater
 
-- **En time er grensen.** Etter det begynner grønnsakene å avgi bitterstoffer, og kraften blir tydelig grumsete og skarp. Dette er motsatt av kjøttkraft, som bare blir bedre av tid.
-- **Sopp gir umami.** Uten den smaker grønnsakskraft tynt. Soppstilker du ellers ville kastet, er perfekte her.
-- **Ikke bruk kål, brokkoli eller rosenkål.** De gir en svovelaktig smak som overdøver alt annet.
-- **Ingen salt.** Samme grunn som i [G6](#g6-kyllingkraft) – kraften kokes ofte inn senere.
-- **Holdbarhet:** 4 døgn kjøleskap, 6 måneder fryser.
-- **Beslektet:** [G6](#g6-kyllingkraft) er kjøttvarianten, og [G7](#g7-dashi) er den japanske.
+- **2,77 gram gjær er ikke en skrivefeil.** Mengden er regnet ut for akkurat denne kombinasjonen av hevetid og temperatur – fire timer varmt pluss 44 timer kaldt. Vil du heve kortere eller lenger, må gjærmengden og meltypen tilpasses. Kilden anbefaler appen **PizzApp** til utregningen.
+- **Tjue minutters elting på laveste hastighet.** Lang, langsom elting bygger glutennettverket uten å varme deigen. Dette er ikke et sted å ta snarveier.
+- **Deigen knas ikke etter første heving.** Den formes bare til en pølse, deles og trilles til baller. All luften du slår ut nå, kommer ikke tilbake.
+- **Durumhvete til utbaking.** Bruker du vanlig stekeovn i stedet for pizzaovn, gir durumhvete en litt sprøere bunn. Samme mel som i deigen fungerer også.
+- **Trykk fra midten og utover.** Luften skal presses ut i kanten, ikke ut av deigen. Det er det som gir den luftige kanten. Kjevle aldri en napolitansk pizza.
+- **Én time forvarming.** Steinen må være gjennomvarm, ikke bare varm på overflaten. Kortere forvarming gir bleik bunn uansett hvor høy temperaturen er.
+- **Øverste hylle, ikke nederste.** Dette skiller seg fra kildens korttidsdeig, der nederste rille er ett av alternativene – her er nærhet til taket og grillelementet det som gir farge på toppen i tide.
+- **Resultatet blir ikke som i en pizzaovn**, og det sier kilden selv. Men det er det nærmeste du kommer på 300 °C.
+- **63 % hydrering**, praktisk talt det samme som korttidsdeigen. Forskjellen ligger i tiden og gjæren, ikke i vannet.
+- **Holdbarhet:** deigballene brukes etter de 48 timene. Trenger du utsettelse, tåler de noen timer ekstra kaldt.
+- **Beslektet:** [korttidshevet pizzadeig (G7)](#g7-korttidshevet-pizzadeig) er samme kilde på tre og en halv time, [pizzasaus (T128)](#t128-pizzasaus) er sausen, [pizzadeig (G6)](#g6-pizzadeig) er hverdagsvarianten, og [proteinrik pizza med yoghurtbunn (nr. 114)](#114-proteinrik-pizza-med-yoghurtbunn) er den uten gjær.
 
 ---
 
-## G12. Semolinapasta
+## G9. Hellstrøms pizzadeig
 
-**Kilde:** Klassisk standardversjon · **Kjøkken:** Italiensk · **Tid:** 15 min + 30 min hvile · **Gir:** 4 porsjoner
+**Kilde:** Eyvind Hellstrøm, *Grunnboka* (Cappelen Damm, 2025) · **Kjøkken:** Italiensk · **Tid:** 3½ time · **Gir:** ca. 4 pizzaer
 
-Pastadeig uten egg, av durumhvete og vann. Dette er sørens pasta – den som brukes til orecchiette, cavatelli og trofie, og den holder formen mye bedre enn eggpasta i korte former.
+Femti prosent hydrering, minimum tre timers heving, og steking på steinplate på 300 grader. Tørrere enn de andre pizzadeigene i samlingen, og dermed lettere å håndtere.
 
 ### Ingredienser
 
-- 400 g semolina rimacinata *(fint malt durumhvete)*
-- 200 ml lunkent vann
-- 1 ts salt
+- 400 g hvetemel tipo 0 eller tipo 00
+- 10 g fersk gjær
+- 10 g salt
+- 10 g olivenolje
+- 2 dl vann
 
 ### Fremgangsmåte
 
-1. **Ha semolinaen på benken** i en haug og lag en grop i midten.
-2. **Hell i vann og salt** litt om gangen mens du blander inn mel fra kantene med en gaffel.
-3. **Elt i 10 minutter** til deigen er glatt og fast. Den skal kjennes stivere enn brøddeig.
-4. **Pakk den i plast og la den hvile i 30 minutter** i romtemperatur. Uten hvile lar den seg ikke forme.
-5. **Form pastaen** – rull pølser og skjær biter til orecchiette eller cavatelli.
-6. **Kok i rikelig saltet vann i 3–5 minutter**, avhengig av tykkelsen.
+1. **Bland vann (35 grader), salt, gjær og olje.**
+2. **Ha i melet** og kjør i eltemaskin i **ca. 10 minutter** til en jevn deig.
+3. **La den heve i minimum 3 timer.**
+4. **Del opp i emner på ca. 100 g** – eller mer om du ønsker en større pizza – form dem til boller, og **hev på nytt under klede eller plastfolie i ca. 30 minutter.**
+5. **Eller sett deigen i kjøleskap til senere bruk.** Den tåler minst 1 døgn kaldt.
+6. **Bak ut på mel til ca. ½ cm tykkelse** og ha på fyll etter ønske.
+7. **Stek helst på en steinplate i forvarmet ovn på ca. 300 grader i ca. 3 minutter.**
 
 ### Notater
 
-- **Semolina rimacinata, ikke vanlig semolina.** Vanlig, grov semolina gir en sandet deig. Rimacinata er dobbeltmalt og fin som mel. Fås i italienske butikker og hos de større dagligvarekjedene.
-- **Forholdet er 2:1 på vekt.** 400 g mel til 200 ml vann. Trenger deigen mer, ta en spiseskje av gangen – for våt deig kleber seg til benken og lar seg ikke forme.
-- **Deigen skal føles for stiv.** Den mykner under hvilen, når vannet har fordelt seg gjennom melet.
-- **Denne tåler koking bedre enn eggpasta.** Uten egg er det bare gluten som holder formen, og resultatet er en pasta med tydelig tyggemotstand.
-- **Holdbarhet:** deigen 2 døgn i kjøleskap. Formet pasta tørkes helt og holder da måneder, eller fryses på brett før den samles i pose.
-- **Beslektet:** [G1](#g1-master-pasta-dough--grunndeig-til-fersk-eggpasta) og [G2](#g2-pasta-ruvida--teksturert-eggpasta) er eggvariantene til lange former.
+- **50 % hydrering er lavt**, og det er et bevisst valg. Deigen er langt lettere å håndtere enn de våtere variantene, på bekostning av noe av de store luftboblene i kanten. En god deig å begynne med.
+- **Vann på 35 grader.** Varmt nok til at gjæren starter raskt, ikke så varmt at den skades. Over 45 grader begynner gjærcellene å dø.
+- **Damptrikset fra kilden:** sett inn en liten kopp med vann i den varme ovnen. Dampen holder overflaten fuktig så bunnen kan heve seg før skorpen setter seg, i stedet for å tørke ut.
+- **Emner på 100 g** gir små pizzaer. Til vanlig 30-centimeter regner de fleste 220–250 g.
+- **Ett døgn i kjøleskap** er dekket av kilden. Lengre kaldheving gir mer smak – se [G8](#g8-pizzadeig-med-48-timers-heving) for den ytterligheten.
+- **Beslektet:** [pizzadeig (G6)](#g6-pizzadeig), [korttidshevet pizzadeig (G7)](#g7-korttidshevet-pizzadeig) og [pizzadeig med 48 timers heving (G8)](#g8-pizzadeig-med-48-timers-heving) er samlingens øvrige pizzadeiger, og [pizzasaus (T128)](#t128-pizzasaus) og [marinara – tomatsausbase (T125)](#t125-marinara--tomatsausbase) er sausene.
 
 ---
 
-## G13. Syltet rødløk
+## G10. Hellstrøms gnocchi
 
-**Kilde:** Matprat (matprat.no) · **Kjøkken:** Vestlig · **Tid:** 20 min + avkjøling · **Gir:** ca. 4 dl
+**Kilde:** Eyvind Hellstrøm, *Grunnboka* (Cappelen Damm, 2025) · **Kjøkken:** Italiensk · **Tid:** ca. 45 min · **Gir:** 2–3 porsjoner
 
-Rødløk i en lake av vann, sukker og eddik i forholdet 3–2–1. Ferdig etter et par timer, bedre etter et par dager, og holder i to uker.
+Potetene kokes med skall og presses mens de er varme. Deigen skal knapt arbeides – akkurat nok til at den henger sammen.
 
 ### Ingredienser
 
-- 2 rødløk, i tynne skiver
-- 1,5 dl vann
-- 1 dl sukker
-- 0,5 dl eplecidereddik
-- ¼ ts hele pepperkorn
+- 300 g kokte mandelpoteter
+- 100 g hvetemel
+- 1 egg
+- Et dryss salt
+- Et dryss kajennepepper
+- Et dryss revet muskatnøtt
 
 ### Fremgangsmåte
 
-1. **Kok opp vann, sukker og eddik** i en kasserolle.
-2. **Ha i pepperkornene** når sukkeret har løst seg opp.
-3. **Skjær rødløken i tynne skiver** og legg dem i laken.
-4. **Kok opp**, trekk kasserollen av platen og la alt avkjøles i laken.
-5. **Ha over på rene glass** med lake som dekker, og sett kaldt.
+1. **Kok potetene med skall** til de er møre.
+2. **Skrell dem mens de er varme** og press dem gjennom en sikt.
+3. **Legg potetmassen på benken eller i en bolle** og bland inn hvetemel, egg og krydder.
+4. **Ikke arbeid deigen mer enn at den henger sammen.**
+5. **Sikt litt hvetemel på bordet**, del deigen i to emner og rull dem ut for hånd i lengder på **ca. 1,5 cm i diameter**.
+6. **Del dem opp med en kniv** og form som små puter eller korker på et melet bord.
+7. **Rull dem på en gaffel eller en eggdeler** for å få gnocchi-preget.
 
 ### Notater
 
-- **3–2–1 er forholdet å huske.** Tre deler vann, to deler sukker, én del eddik. Det gjelder all rask sylting, uansett grønnsak.
-- **Vil du ha løken sprø, skal den ikke kokes.** Kilden koker løken opp i laken, som gjør den myk hele veien gjennom. Hell heller den kokende laken over rå løk i glasset, så beholder den knasen. *(Lagt til – kildens metode gir mykere løk.)*
-- **Eplecidereddik er mildere** enn klar 7 % eddik. Bruker du klar eddik, gå ned til 0,3 dl. Hvitvins- og rødvinseddik blir lett bitre her.
-- **Laken kan smaksettes** med chili, sitronskall og dill, hvitløk og laurbær, korianderfrø og ingefær, eller stjerneanis. Kilden lister opp alle.
-- **Ikke kast laken.** Den er en ferdig vinaigrettebase når løken er spist opp.
-- **Holdbarhet:** minst 2 uker i kjøleskap i glass med tett lokk.
-- **Beslektet:** [G14](#g14-hurtigsylting-av-agurk-og-gulrot) bruker samme lake på andre grønnsaker, og [T3](#t3-soyamarinert-agurk) er den asiatiske tilnærmingen.
+- **Skallet holder vannet ute.** Koker du skrelte poteter, suger de til seg vann, og da må du kompensere med mer mel. Mer mel gir tyngre gnocchi. Dette er den viktigste avgjørelsen i oppskriften, og den tas før du har begynt.
+- **Press dem varme.** Varme poteter damper av seg fuktighet mens de presses. Kalde poteter er også seigere i stivelsen og gir en klissete deig.
+- **Ikke elt.** Kilden er tydelig: deigen skal bare henge sammen. Elting bygger gluten, og gluten gjør gnocchi seige i stedet for lette.
+- **Rillene fra gaffelen er ikke pynt.** De gir sausen noe å feste seg i.
+- **Mandelpoteter er valgt med omhu** – melne poteter har lite vann og mye stivelse. Faste poteter krever mer mel og gir dårligere resultat.
+- **Beslektet:** [kremet pestognocchi (nr. 66)](#66-kremet-pestognocchi) og [kremet kylling med gnocchi (nr. 131)](#131-kremet-kylling-med-gnocchi) er retter som bruker gnocchi, og [master pasta dough – grunndeig til fersk eggpasta (G1)](#g1-master-pasta-dough--grunndeig-til-fersk-eggpasta) er deigen med motsatt logikk: der skal du elte.
 
 ---
 
-## G14. Hurtigsylting av agurk og gulrot
+## G11. Hellstrøms bao-deig
 
-**Kilde:** Klassisk standardversjon · **Kjøkken:** Vestlig · **Tid:** 15 min + 1 time · **Gir:** ca. 5 dl
+**Kilde:** Eyvind Hellstrøm, *Grunnboka* (Cappelen Damm, 2025) · **Kjøkken:** Kinesisk · **Tid:** ca. 2 timer · **Gir:** 8–10 bao
 
-Samme prinsipp som syltet rødløk, men på faste grønnsaker som skal beholde knasen. Laken helles kokende over rå grønnsaker, aldri motsatt.
+Deigen kjevles ut, pensles med olje og brettes i to før den dampes. Oljen mellom lagene er det som gjør at baoen lar seg åpne etterpå.
 
 ### Ingredienser
 
-- 1 agurk, i tynne skiver eller staver
-- 2 gulrøtter, i tynne staver
-- 3 dl vann
-- 2 dl sukker
-- 1 dl riseddik eller eplecidereddik
-- 2 ts salt
-- 1 ts hele korianderfrø *(valgfritt)*
+- 500 g hvetemel
+- 2 egg
+- 15 g fersk gjær
+- 10 g salt
+- 10 g sukker
+- 2 dl melk
+- 30 g smør, temperert
+- 2 ss olivenolje
 
 ### Fremgangsmåte
 
-1. **Legg grønnsakene i et rent glass.** De skal ligge løst, ikke presses ned.
-2. **Kok opp vann, sukker, eddik og salt** til alt har løst seg.
-3. **Hell den kokende laken over** grønnsakene til de er dekket.
-4. **La glasset stå åpent til det er romtemperert**, sett så på lokk og kjøl ned.
-5. **Klart etter 1 time**, best etter et døgn.
+1. **Bland alle ingrediensene i en eltemaskin** og kjør i **10–15 minutter** til en glatt deig.
+2. **Hev i en time eller mer**, til deigen er doblet i volum.
+3. **Del deigen i 8–10 emner** og form dem som boller.
+4. **Kjevle bollene til ovale emner.**
+5. **Pensle med olivenolje på oversiden** og brett dem i to.
+6. **La baoene heve på nytt** til de er doblet i volum.
+7. **Dampkok i 10–12 minutter.**
 
 ### Notater
 
-- **Grønnsakene kokes aldri.** Det er hele forskjellen mellom en sprø pickles og en bløt. Varmen fra laken er nok til å trekke inn smaken.
-- **Salt i tillegg til sukker.** Uten salt smaker resultatet bare søtt og syrlig, og grønnsakene blir slappere.
-- **Agurk gir fra seg mye vann** og tynner ut laken over et par dager. Vil du ha den fast lenge, salt agurkstavene i 20 minutter først og klem ut vannet.
-- **Riseddik til asiatiske retter, eplecidereddik til vestlige.** Samme lake, ulik retning.
-- **Holdbarhet:** 2 uker kjøleskap. Agurken blir bløtere etter en uke, gulroten holder.
-- **Beslektet:** [G13](#g13-syltet-rødløk) er samme lake på løk, og [T3](#t3-soyamarinert-agurk) og [T6](#t6-koreansk-sterk-agurksalat-oi-muchim) er de asiatiske variantene.
+- **Oljen mellom lagene er ikke smak, det er teknikk.** Uten den damper de to lagene sammen til én klump, og du får en bolle i stedet for en lomme du kan fylle.
+- **Dobbel heving.** Første heving bygger smak og struktur, andre heving skjer etter at formen er satt – hopper du over den, blir baoen tett.
+- **Damp, ikke ovn.** Fuktig varme holder overflaten myk og hvit. I ovn får du skorpe, og da er det ikke bao lenger.
+- **Egg i deigen** er Hellstrøms variant. Tradisjonell bao-deig er ofte uten, og blir hvitere; eggene gir en rikere, gulere deig nærmere et melkebrød.
+- **Beslektet:** [nr. 18](#18-filips-stekte-bao-dumplings) bruker bao i stekt form, og [B18](#b18-tangzhong-brød) er samme familie av bløte, dampfuktige deiger.
 
 ---
 
-## G15. Kokt ris
+## G12. Hellstrøms pannekakerøre
 
-**Kilde:** Klassisk standardversjon · **Kjøkken:** Asiatisk · **Tid:** 25 min · **Gir:** 4 porsjoner
+**Kilde:** Eyvind Hellstrøm, *Grunnboka* (Cappelen Damm, 2025) · **Kjøkken:** Norsk · **Tid:** ca. 20 min · **Gir:** ca. 12 tynne pannekaker
 
-Metode, ikke oppskrift. Tre typer ris med tre forhold, men samme prinsipp: skyll, kok opp, la trekke under lokk, hvil uten å løfte lokket.
+Egg først, så mel litt etter litt, og melken helt til slutt. Rekkefølgen er det som avgjør om røren blir klumpfri.
 
 ### Ingredienser
 
-**Jasminris**
-- 300 g jasminris
-- 4,5 dl vann *(forhold 1 : 1,25 etter volum)*
+- 3 egg
+- 1 ss sukker
+- Et dryss salt *(veldig lite)*
+- 1 ts vaniljesukker *(eventuelt smeltet vaniljeis)*
+- 100 g hvetemel
+- 3½ dl helmelk
+- 3 ss smeltet smør
 
-**Basmatiris**
-- 300 g basmatiris
-- 5 dl vann *(forhold 1 : 1,5)*
+### Fremgangsmåte
+
+1. **Visp eggene først.**
+2. **Tilsett hvetemelet litt og litt**, og visp underveis slik at du ikke får klumper.
+3. **Tilsett sukker, salt og vaniljesukker** – eventuelt smeltet vaniljeis.
+4. **Spe gradvis med melken.**
+5. **Stek tynne pannekaker** i godt med smør i en middels varm stekepanne.
+
+### Notater
+
+- **Rekkefølgen er hele oppskriften.** Melet møter først en liten mengde væske og lar seg vispe helt glatt. Heller du all melken i først, får melet for mye plass og klumper seg umiddelbart – og klumper som først har dannet seg, forsvinner ikke.
+- **Smeltet vaniljeis i stedet for vaniljesukker** er kildens eget alternativ, og det er smartere enn det høres ut: isen gir sukker, vanilje og fett i én bevegelse, og fettet gjør pannekakene smidigere.
+- **«Veldig lite» salt**, presiserer kilden. Saltet er der for å løfte sukkeret, ikke for å smakes.
+- **Smeltet smør i røren** i tillegg til smør i pannen. Det gjør at pannekakene slipper lettere og blir mindre tørre.
+- **Beslektet:** [F2](#f2-amerikanske-pannekaker) er den tykke amerikanske typen, og [F11](#f11-ricottapannekaker) er den luftige varianten.
+
+---
+
+## G13. Hellstrøms tempurarøre
+
+**Kilde:** Eyvind Hellstrøm, *Grunnboka* (Cappelen Damm, 2025) · **Kjøkken:** Japansk · **Tid:** ca. 5 min · **Gir:** Til ca. 4 porsjoner
+
+To ingredienser: mel og sodavann. Kullsyren er det som gjør røren lett, og konsistensen skal ligne vaffelrøre.
+
+### Ingredienser
+
+- 250 g hvetemel
+- 2–3 dl sodavann eller vann med kullsyre
+- Et dryss salt
+- Eventuelt friske urter og hvitløk
+
+### Fremgangsmåte
+
+1. **Rør sodavannet inn i hvetemelet**, tilsett et dryss salt, og rør til **en konsistens som ligner vaffelrøre**.
+2. **Tilsett gjerne hakket persille, hakket hvitløk eller andre friske urter**, avhengig av hva røren skal brukes til.
+3. **Rosmarin, timian eller koriander** passer godt til fisk, skalldyr og grønnsaker stekt som tempura.
+
+### Notater
+
+- **Kullsyren er ingrediensen.** Boblene ekspanderer i frityren og blåser opp røren innenfra, slik at skorpen blir luftig i stedet for kompakt. Vanlig vann gir en tett panering.
+- **Sodavannet må være kaldt og nyåpnet.** Har flasken stått åpen, er kullsyren borte og du har i praksis brukt vann.
+- **«Som vaffelrøre» er en presis referanse.** Tynnere gir hull i belegget, tykkere gir en tung skorpe som sluker olje.
+- **Rør så lite som mulig.** Gluten gjør røren seig, og en seig tempurarøre blir hard og ikke sprø.
+- **Beslektet:** [nr. 86](#86-karaage--japansk-friturstekt-kylling) og [S32](#s32-jalapeño-poppers) bruker beslektede røre- og panerteknikker.
+
+---
+
+## G14. Tortillas med gresk yoghurt
+
+**Kilde:** YellowLampKitchen / @yellowlampkitchen (TikTok, 9. mars 2024) · **Kjøkken:** Vestlig · **Tid:** ca. 50 min · **Gir:** 16 små eller 8 store tortillas
+
+Fire ingredienser, ingen gjær og ingen heving. Yoghurten står for både fuktighet og fett, og bakepulveret får dem til å blåse seg opp i pannen.
+
+### Ingredienser
+
+- 300 g hvetemel
+- 250 g gresk yoghurt
+- 1 ts bakepulver
 - ½ ts salt
 
-**Sushiris**
-- 300 g rundkornet sushiris
-- 3,5 dl vann *(forhold 1 : 1,1)*
-- 3 ss riseddik, 1 ss sukker, 1 ts salt til krydring
-
 ### Fremgangsmåte
 
-1. **Skyll risen i kaldt vann** til vannet er nesten klart, **3–4 omganger**. Dette fjerner overflatestivelsen som ellers gjør risen klebrig.
-2. **La den renne av i 10 minutter** i en sil. Basmati og sushiris kan gjerne bløtlegges i 30 minutter først.
-3. **Ha ris og vann i en kjele** med tettsluttende lokk. Kok opp uten lokk.
-4. **Legg på lokket, skru ned til laveste varme**, og la risen trekke i **12 minutter**.
-5. **Ta kjelen av platen og la den stå i 10 minutter til.** Ikke løft lokket – dampen som er igjen, gjør ferdig jobben.
-6. **Løs opp med gaffel.** Til sushiris: bland eddik, sukker og salt, vend det inn med en tresleiv mens risen er varm, og vift den kald.
+1. **Bland** mel, gresk yoghurt, bakepulver og salt i en bolle.
+2. **Elt deigen** i **5 minutter** til den er glatt, og sett den i kjøleskapet i **30 minutter**.
+3. **Form.** Rull deigen til en pølse, del den i **16 biter** og trill dem til kuler.
+4. **Kjevle** hver kule tynt ut på melet underlag.
+5. **Varm en tørr panne** på middels varme.
+6. **Stek** hver side i **1–2 minutter**, til tortillaen blåser seg opp.
+7. **Gjenta** med resten av deigen.
 
 ### Notater
 
-- **Lokket løftes ikke.** Hver gang du sjekker, slipper du ut damp som risen trenger. Dette er den vanligste feilen.
-- **Hvilen i ti minutter er ikke pynt.** Den fordeler fuktigheten jevnt gjennom kornene. Risen som er klissete i bunnen og tørr på toppen, har ikke fått hvile.
-- **Volumforholdene er ikke like.** Jasmin trenger minst vann, basmati mest. Bruker du samme forhold på alt, blir halvparten feil.
-- **Skyllingen kan sløyfes** hvis du vil ha klebrig ris til for eksempel risotto-lignende retter, men aldri til jasmin eller basmati.
-- **Salt i jasminris er uvanlig i Asia**, der risen er nøytral motvekt til krydret mat. I basmati til indiske retter er det derimot standard.
-- **Holdbarhet:** kokt ris skal kjøles raskt og settes kaldt innen 1 time, og spises innen 1 døgn. Ris som står lunkent lenge, er en av de vanligste årsakene til matforgiftning.
-- **Brukes i** de fleste asiatiske rettene i samlingen.
+- **Dette er ikke en meksikansk tortilla.** Ekte hvetetortilla lages med mel, vann, salt og fett – som regel svinefett eller smør. Denne er nærmere en gresk pita eller en indisk naan i oppbygging, med yoghurt og bakepulver. Resultatet er mykere, tykkere og litt syrlig, og fungerer godt som wrap. Vil du ha den meksikanske varianten, må du bytte metode helt. *(Bakgrunn lagt til.)*
+- **Bruk fullfet gresk yoghurt.** Fettet er det som gjør deigen smidig og tortillaene myke. 0 % yoghurt gir en tørr, seig deig som sprekker når du kjevler. *(Presisering lagt til.)*
+- **Norsk gresk yoghurt er tynnere enn den greske**, og deigen kan bli klissete. Ha ekstra mel klart, eller la yoghurten renne av i et kaffefilter i en halvtime først. Skyr er tykkere og fungerer også, men er syrligere. *(Erstatning lagt til.)*
+- **Kjølingen i 30 minutter er ikke pynt.** Glutenet slapper av, og deigen lar seg kjevle uten å trekke seg tilbake. Hopper du over det, får du ovale, seige tortillaer.
+- **Kjevle tynt – tynnere enn du tror.** 2 mm. Er de tykke, blir de brødaktige i stedet for myke og bøyelige.
+- **Pannen må være ordentlig varm.** Tortillaen skal boble opp innen 30 sekunder. For lav varme tørker den ut i stedet for å steke den. Middels sterk varme er nærmere sannheten enn kildens «middels». *(Justering lagt til.)*
+- **1–2 minutter per side er i overkant.** De fleste er ferdige på **45–60 sekunder** per side – de skal få brune flekker, ikke gjennomgående farge. Stekes de for lenge, blir de harde. *(Justering lagt til.)*
+- **Legg dem i et kjøkkenhåndkle etter hvert som de blir ferdige.** Dampen holder dem myke og bøyelige. Uten dette stivner de i løpet av minutter – det er den vanligste grunnen til at hjemmelagde tortillaer sprekker når man ruller dem. *(Kritisk tillegg.)*
+- **Deigen kan lages dagen før** og oppbevares i kjøleskapet. Ta den ut 20 minutter før kjevling.
+- **Holdbarhet:** best ferske. Ferdigstekte tortillaer holder 2 dager i tett pose i kjøleskap – varm dem 20 sekunder i tørr panne før servering.
+- **Brukes i** [Big Mac tacos (nr. 160)](#160-big-mac-tacos), [braiserte kyllingtacos (nr. 122)](#122-braiserte-kyllingtacos), [kyllingquesadillas (nr. 126)](#126-kyllingquesadillas) og [spicy cæsarwrap (S22)](#s22-spicy-cæsarwrap-med-kylling). Til [birria (nr. 116)](#116-birria--meksikansk-braisert-oksekjøtt) og [birria – Daniela sin versjon (nr. 159)](#159-birria--daniela-sin-versjon) vil du helst ha maistortilla, som er en annen oppskrift.
 
 ---
 
-## G16. Konfitert hvitløk
+## G15. Maistortillas
 
-**Kilde:** Klassisk standardversjon · **Kjøkken:** Vestlig · **Tid:** 1 time · **Gir:** ca. 3 dl
+**Kilde:** Mat(e)Matiker (matmatiker.blogspot.com) · **Kjøkken:** Meksikansk · **Tid:** 30 min aktivt + 30 min hvile · **Gir:** 12 tortillas
 
-Hele hvitløksfedd trukket møre i olivenolje på lav varme. Du får to ting: myke, søte fedd som kan moses på brød eller i puré, og en hvitløksolje som er brukbar til alt.
+Tre ingredienser, men et par grep som avgjør alt. Melet må være masa harina, ikke maismel. Deigen må hvile. Og hver ball må presses fire–fem ganger med nitti graders dreining mellom hver, ellers blir de aldri tynne nok.
 
 ### Ingredienser
 
-- 3 hele hvitløk, delt i fedd og skrelt *(ca. 150 g)*
-- 3 dl olivenolje
-- 2 kvister timian
-- 1 laurbærblad
-- ½ ts hele pepperkorn
+- 210 g masa harina *(merke: Maseca)*
+- 260 g vann, litt over romtemperatur *(pluss ekstra etter behov)*
+- ¼ ts salt *(se notat)*
+
+**Du trenger også**
+- Tortillapresse
+- To fryseposer, klippet litt større enn pressens flate
 
 ### Fremgangsmåte
 
-1. **Legg feddene i en liten kjele** med urter og krydder, og hell over olje til alt er dekket.
-2. **Varm opp til det så vidt bobler rundt feddene**, rundt **90 °C**. Det skal ikke frese.
-3. **La det stå i 45 minutter**, til feddene er helt myke og lysegylne.
-4. **Avkjøl helt i oljen**, og oppbevar begge deler i et rent glass i kjøleskap.
+1. **Bland masa harina og salt** i en bolle.
+2. **Ha i vannet** litt over romtemperatur og elt til en formelig, lett fuktig deig. **Sprekker den opp, ha i mer vann, 1 ts om gangen.** Litt for mye er bedre enn litt for lite.
+3. **Pakk deigen i plastfolie** eller legg den under et fuktig håndkle, og la den hvile i **20–30 minutter** så maisen får trukket til seg fuktigheten.
+4. **Klipp til to stykker frysepose** litt større enn pressens flate.
+5. **Del deigen i 12 like emner** – del først i tre, og hver av dem i fire – og trill dem til baller. **Sprekker ballene lett, var det for lite vann.**
+6. **Dekk ballene med et fuktig kjøkkenhåndkle.** De tørker ut på minutter.
+7. **Form én tortilla av gangen, rett før den skal stekes.** Legg ballen mellom plaststykkene, litt ut fra midten i retning av lokket, og press.
+8. **Press 4–5 ganger** og drei tortillaen **90 grader** mellom hver gang. Det er dette som gjør den tynn nok.
+9. **Overfør forsiktig:** dra av plasten på oversiden, vend tortillaen over i hånden så den gjenværende plasten havner øverst, og dra av den. Slipp tortillaen i panna.
+10. **Stek i tørr støpejernspanne på ca. 240 °C**, **ca. 50 sekunder per side**, og ikke mer enn **2 minutter totalt**. Den sitter fast det første halve minuttet og slipper av seg selv – la den ligge i fred.
+11. **Legg de ferdige tortillaene i brettet folie med et håndkle rundt**, og la dem hvile noen minutter før servering.
 
 ### Notater
 
-- **90 °C, ikke frityrtemperatur.** Konfitering er langsom trekking i fett, ikke steking. Bruser det kraftig, brenner hvitløken og blir bitter.
-- **Feddene skal være helt dekket** av olje. Deler som stikker opp, blir mørke og harde.
-- **Dette må stå kaldt.** Hvitløk i olje ved romtemperatur er et kjent miljø for botulisme, siden oljen stenger ute oksygen. I kjøleskap og innen to uker er det trygt. Vil du oppbevare lenger, frys feddene og oljen hver for seg.
-- **Oljen er halve gevinsten.** Den er ferdig hvitløksolje til dressinger, stekefett og brød.
-- **Holdbarhet:** 2 uker kjøleskap. 6 måneder fryser.
-- **Brukes i** [nr. 111](#111-braiserte-short-ribs-med-hvitløkskonfit-potetmos).
+- **Masa harina, ikke maismel.** Dette er det som får folk til å mislykkes. Masa harina males på maiskorn som først er bløtlagt og kokt i kalsiumhydroksid, en prosess som heter nixtamalisering. Vanlig maismel har ikke vært gjennom den, og gir en deig som ikke henger sammen. Fås i innvandrerbutikker og norske nettbutikker som fører meksikanske varer.
+- **Presse er nødvendig.** Maisdeig har ingen gluten og lar seg praktisk talt ikke kjevle tynt nok uten å revne. Kilden endte med å bestille en presse i støpejern fra utlandet etter at aluminiumspressen hun fikk tak i her, var bøyd.
+- **Fire–fem pressinger med dreining.** Ett trykk gir en tortilla som er merkbart tykkere enn du tror. Dette står sjelden i oppskrifter, og er kildens viktigste funn.
+- **Deigen tørker hele veien.** Under plast i hvilen, under fuktig håndkle som baller, formet én av gangen. Blir den tørr, sprekker kantene og tortillaen revner i pressen.
+- **Saltet er for lite.** Forfatteren skriver selv at de kunne tålt mer. ¼ ts til 210 g mel er lite – prøv **½ ts** neste gang. *(Lagt til.)*
+- **Hvilen etter steking er ikke sløsing.** Fuktigheten fordeler seg gjennom tortillaen, og de blir mykere og mer bøyelige enn rett fra panna.
+- **Smaken er nøytral.** Maistortillas smaker lite i seg selv – det er fyllet som skal ha hovedrollen. Til gjengjeld er de glutenfrie.
+- **12 stykker veier til sammen ca. 350 g**, altså rundt 29 g per tortilla.
+- **Holdbarhet:** best samme dag. Oppbevar i tett pose i kjøleskap i 3 døgn, og varm dem raskt i tørr panne før servering.
+- **Beslektet:** [tortillas med gresk yoghurt (G14)](#g14-tortillas-med-gresk-yoghurt) er hvetevarianten, og [nachos med kjøttdeig og chorizo (nr. 185)](#185-nachos-med-kjøttdeig-og-chorizo), [braiserte kyllingtacos (nr. 122)](#122-braiserte-kyllingtacos) og [pico de gallo (T20)](#t20-pico-de-gallo) hører til samme bord.
 
 ---
 
-## G17. Brunet smør og ghee
+## G16. Hellstrøms tacolefser
 
-**Kilde:** Klassisk standardversjon · **Kjøkken:** Vestlig · **Tid:** 15 min · **Gir:** ca. 2 dl
+**Kilde:** Eyvind Hellstrøm, *Grunnboka* (Cappelen Damm, 2025) · **Kjøkken:** Meksikansk · **Tid:** ca. 30 min · **Gir:** ca. 25 lefser
 
-To ting fra samme utgangspunkt. Begge starter med å smelte smør og skille vannet fra fettet – forskjellen er om du lar melkeproteinene brune seg eller siler dem fra.
+Tre ingredienser: maismel, vann og salt. Deigbollene veies til 20 gram hver og presses ut med håndflaten eller en tortillapresse.
 
 ### Ingredienser
 
-- 250 g usaltet smør
+- 500 g maismel *(Hari Masa)*
+- 5 dl vann
+- To klyper salt
 
 ### Fremgangsmåte
 
-**Brunet smør (beurre noisette)**
-
-1. **Smelt smøret** i en lys kjele på middels varme, så du ser fargen.
-2. **La det koke.** Først skummer det kraftig mens vannet fordamper, deretter stilner det.
-3. **Følg med når skummingen avtar.** Melkeproteinene i bunnen går fra lysebrun til nøttebrun i løpet av **30 sekunder**.
-4. **Ta kjelen av platen med en gang** det lukter nøtter, og hell smøret over i en kald bolle. Blir det stående i den varme kjelen, brenner det.
-
-**Ghee**
-
-1. **Smelt smøret** på svak varme og la det stå til det har sluttet å skumme, **15–20 minutter**.
-2. **Skum av** det hvite som legger seg på toppen.
-3. **Hell forsiktig av det klare fettet** og la bunnfallet bli igjen, eller sil gjennom et klede.
+1. **Bland mel, vann og salt i en kjøkkenmaskin.** Bruk eltekroken og kjør til det blir en smidig og jevn deig.
+2. **Trill små deigboller à ca. 20 gram.**
+3. **Trykk dem ut som tynne lefser** med håndflaten og fingrene, eller ved hjelp av en tortillapresse.
+4. **Stek lefsene i en tørr stekepanne eller på en steketakke.**
+5. **Hold dem varme under et rent kjøkkenhåndkle** til de skal serveres.
 
 ### Notater
 
-- **Forskjellen er bunnfallet.** Brunet smør beholder de brunede melkeproteinene, som er hele smaken. Ghee siler dem bort, og får til gjengjeld et fett som tåler høy varme uten å brenne.
-- **De siste tretti sekundene avgjør.** Brunet smør går fra perfekt til brent raskere enn du rekker å hente en bolle. Ha bollen klar før du begynner.
-- **Lys kjele, ikke svart.** I en mørk kjele ser du ikke fargen, og da er du blind på det eneste som betyr noe.
-- **Ghee tåler 250 °C.** Vanlig smør begynner å brenne rundt 150 °C, fordi melkeproteinene brenner. Uten dem kan du steke hardt i smørsmak.
-- **250 g smør gir ca. 200 g ghee.** Resten er vann og protein.
-- **Holdbarhet:** brunet smør 2 uker kjøleskap. Ghee 3 måneder i romtemperatur i tett glass, og nærmest ubegrenset kaldt.
-- **Brukes i** [nr. 145](#145-hvit-asparges-med-shiitake-og-brunet-hollandaise).
+- **Maismelet må være nikstamalisert.** Hari Masa, som kilden bruker, er behandlet med kalk, og det er dette som gjør at deigen henger sammen uten gluten. Vanlig maismel eller polenta blir bare grøt.
+- **Tørr panne, ingen olje.** Lefsen skal bakes, ikke stekes. Fett gir en myk, seig flate i stedet for de tørre flekkene som kjennetegner en god tortilla.
+- **20 gram per lefse** er et presist mål som gir jevn tykkelse. Øyemål gir ujevne lefser som steker ulikt.
+- **Håndkleet er ikke valgfritt.** Dampen fra lefsene holder dem myke. Ligger de fritt, blir de stive i løpet av få minutter.
+- **Beslektet:** [G15](#g15-maistortillas) er samlingens andre maistortilla – sammenlign forholdet mellom mel og vann, og [G14](#g14-tortillas-med-gresk-yoghurt) er hvetevarianten.
+
+---
+
+## G17. Hjemmelaget mozzarella
+
+**Kilde:** Spiselise (spiselise.no) · **Kjøkken:** Italiensk · **Tid:** ca. 1 time 40 min · **Gir:** ca. 500 g *(3 baller)*
+
+Fire liter melk blir til en halv kilo ost på under to timer. Løpen får melken til å skille seg, og deretter strekkes ostemassen varm til den er blank og elastisk – i mikrobølgeovn, eller i 80-graders vann hvis du ikke har en.
+
+### Ingredienser
+
+- 4 liter helmelk *(økologisk eller fersk melk fra kua er enda bedre – se notat)*
+- 1 tablett løpe, blandet ut i et halvfullt glass vann *(eller 2 ml flytende osteløpe)*
+- 1½ ts sitronsyre
+- 1 ts salt uten jod
+
+**Du trenger også**
+- Steketermometer
+- Gassklut og en spagettisil
+
+### Fremgangsmåte
+
+1. **Ha melken i en gryte** på laveste varme, og sett termometeret i.
+2. **Når melken er 13 °C**, tilsett sitronsyren og rør godt.
+3. **Varm videre til 33 °C** mens du rører jevnlig.
+4. **Ved 33 °C tilsettes løpen**, godt utrørt i vann. Sett gryten til side.
+5. **Rør godt i ett minutt**, og la det stå i **5–10 minutter** på rundt 33 °C. Nå ser du at melken skiller seg.
+6. **Kutt inn i massen på kryss og tvers** med en kniv.
+7. **Varm opp til 40 °C.**
+8. **Ta gryten av platen** og løft massen over i spagettisilen med en hullsleiv. Silen skal være kledd med gassklut.
+9. **Løft kantene på kluten** så du får en pose med ostemasse.
+10. **Klem posen over vasken** til det meste av væsken er ute.
+11. **Ha massen i en bolle og sett den i mikrobølgeovnen i 1 minutt** på full styrke *(kilden bruker 800 W)*.
+12. **Kna og dra litt i massen.** Tilsett saltet og kna det godt inn.
+13. **30 sekunder til i mikroen.** Ta ut, og kna og dra i den i ett minutt.
+14. **Ytterligere 30 sekunder i mikroen.**
+15. **Massen skal nå være elastisk og blank.**
+16. **Form tre runde baller** og legg dem kort i kaldt vann så de kjøles ned.
+17. **Pakk ballene i plastfolie.** De blir best av å stå ett døgn på benken, men kan brukes med en gang.
+
+### Notater
+
+- **Ultrapasteurisert melk fungerer ikke.** Proteinene er varmebehandlet så hardt at løpen ikke får tak, og melken koagulerer aldri. Dette er den vanligste grunnen til at hjemmelaget mozzarella mislykkes helt. Sjekk pakken – vanlig helmelk går fint, UHT-melk gjør det ikke. *(Lagt til.)*
+- **Uten mikrobølgeovn:** kok opp vann i en bolle. Når det holder **rundt 80 °C**, legg i ostemassen i **ca. 1 minutt**, eller til den begynner å smelte sammen. Ta den ut, kna og dra litt i den. Gjenta to ganger til, men da bare **30 sekunder** i vannet hver gang. Kildens eget tips, etter mange spørsmål fra lesere.
+- **Sitronsyren i kald melk, ikke varm.** Kilden er presis på 13 °C, og det er ikke tilfeldig: syre i varm melk feller ut ujevnt og gir en kornete ost i stedet for en som strekker seg.
+- **Salt uten jod.** Jod hemmer bakteriekulturer og kan gi bismak i fersk ost.
+- **Løpe fås på apotek** i Norge, eller som vegetabilske tabletter fra spesialforhandlere på nett.
+- **Elastisk og blank er målet.** Er massen fortsatt kornete etter tre runder i mikroen, har den enten vært for kald under strekkingen, eller så har melken vært feil type.
+- **Ett døgn på benken gir best smak** ifølge kilden, men osten kan brukes med en gang.
+- **Frysing gjør den lettere å rive.** Skal du bruke mozzarellaen på pizza, er frossen og revet enklere å håndtere enn fersk.
+- **Holdbarhet:** ca. 1 uke i kjøleskap. Tåler frysing.
+- **Beslektet:** [labneh (T133)](#t133-labneh) er samlingens andre ferskost, [pizzadeig med 48 timers heving (G8)](#g8-pizzadeig-med-48-timers-heving) og [pizzasaus (T128)](#t128-pizzasaus) er resten av pizzaen, og [melanzane alla parmigiana (nr. 176)](#176-melanzane-alla-parmigiana) bruker mozzarella i lag.
 
 ---
 
@@ -19384,7 +24792,7 @@ Japansk strøkrydder til ris, egg og grillet fisk. Nori, sesam, salt og litt suk
 - **Nori trekker fuktighet.** Blandingen mister sprøheten i løpet av noen uker. Lag små mengder heller enn ett stort glass.
 - **Bonittflak gjør den ikke-vegetarisk.** Sløyfes de, er furikake helt plantebasert.
 - **Holdbarhet:** 1 måned i tett glass i romtemperatur, mørkt.
-- **Brukes over** [G15](#g15-kokt-ris), [T8](#t8-ramenegg-ajitama) og grillet fisk.
+- **Brukes over** [T131](#t131-kokt-ris), [T8](#t8-ramenegg-ajitama) og grillet fisk.
 
 ---
 
@@ -19450,326 +24858,390 @@ Blanding av tørket timian, sumak og ristet sesam. Brukes på flatbrød med oliv
 - **Ekte za'atar bruker urten za'atar**, en villtimian fra Levanten. Tørket timian er den vanlige erstatningen utenfor regionen, og forskjellen er liten.
 - **Klassisk servering:** bland to spiseskjeer med tre spiseskjeer olivenolje, smør det på flatbrød og stek på 220 °C i 8 minutter.
 - **Holdbarhet:** 3 måneder i tett glass. Sumaken mister farge først, deretter syre.
-- **Brukes over** [T40](#t40-hummus), [T60](#t60-baba-ganoush) og [G21](#g21-labneh).
+- **Brukes over** [hummus (T40)](#t40-hummus), [baba ganoush (T60)](#t60-baba-ganoush) og [labneh (T133)](#t133-labneh).
 
 ---
 
-## G21. Labneh
+## G21. Dashi
 
-**Kilde:** Klassisk standardversjon · **Kjøkken:** Østlig middelhav · **Tid:** 10 min + 12–24 timer siling · **Gir:** ca. 4 dl
+**Kilde:** Klassisk standardversjon · **Kjøkken:** Japansk · **Tid:** 30 min · **Gir:** ca. 1 liter
 
-Yoghurt silt til den er tykk som ferskost. To ingredienser og ett døgn i kjøleskapet.
+Japansk grunnbuljong av tang og tørket bonitt. Den koker aldri, tar en halvtime, og er utgangspunktet for misosuppe, ramen og det meste av japansk hjemmekokkeri. Alt som går galt med dashi, skyldes for høy varme.
 
 ### Ingredienser
 
-- 1 kg gresk yoghurt eller tyrkisk yoghurt
-- 1 ts salt
+- 1 liter kaldt vann
+- 10 g kombu *(tørket tang, et stykke på ca. 10 × 10 cm)*
+- 20 g katsuobushi *(tørkede bonittflak)*
 
-**Til servering**
+### Fremgangsmåte
+
+1. **Legg kombuen i det kalde vannet** og la den trekke i **30 minutter**. Har du tid, la den stå i kjøleskap over natten.
+2. **Varm langsomt opp** til rundt **60 °C**, altså like før det begynner å dampe. Dette skal ta **10 minutter**.
+3. **Ta ut kombuen** rett før vannet koker. Blir den igjen, avgir den slim og en tydelig bitterhet.
+4. **Kok opp**, ta gryta av platen med en gang, og strø over katsuobushien.
+5. **La flakene synke** av seg selv, **2–3 minutter**. Ikke rør.
+6. **Sil gjennom en finmasket sil** eller et klede. Press ikke på flakene.
+
+### Notater
+
+- **Kombuen må ut før kokepunktet.** Dette er hele kunsten. Koker den med, får du en glatt, bitter buljong i stedet for en klar med dyp umami.
+- **Ikke skyll eller skrap kombuen.** Det hvite pulveret på overflaten er mannitol, og det er smak. Tørk eventuelt av med tørt papir.
+- **Katsuobushien røres aldri.** Rører du, blir buljongen grumsete og får en tydelig fiskesmak i stedet for den rene røykaktige.
+- **Andregangs dashi (niban dashi)** lages av det samme kombuet og flakene, kokt i 10 minutter i ny liter vann. Den er svakere og brukes til å koke grønnsaker eller til miso.
+- **Dashipulver er et fullgodt hverdagsalternativ.** Flere av oppskriftene i samlingen bruker det. Forskjellen merkes tydeligst i en klar suppe, minst i en kraftig ramen.
+- **Kombu og katsuobushi fås** i asiatiske butikker og i de større dagligvarekjedene.
+- **Holdbarhet:** 3 døgn kjøleskap, 3 måneder fryser. Best samme dag – aromaen er flyktig.
+- **Brukes i** [misosuppe (nr. 6)](#6-misosuppe), [shio-ramen (nr. 21)](#21-shio-ramen) og [ramenegg (ajitama) (T8)](#t8-ramenegg-ajitama).
+
+---
+
+## G22. Kyllingkraft
+
+**Kilde:** Klassisk standardversjon · **Kjøkken:** Vestlig · **Tid:** ca. 4 timer *(15 min aktivt)* · **Gir:** ca. 2 liter
+
+Grunnlaget for de fleste suppene i samlingen. Skrogene trekker i vann med rotgrønnsaker og urter i tre til fire timer, uten at det noen gang koker. Én regel avgjør resultatet: kraften skal aldri fosskoke.
+
+### Ingredienser
+
+- 2 kg kyllingskrog, vinger eller hals
+- 3 liter kaldt vann
+- 2 løk, delt i to, med skallet på
+- 2 gulrøtter, i grove biter
+- 2 stilker stilkselleri, i grove biter
+- 1 purre, den grønne delen
+- 4 hvitløksfedd, knust
+- 1 ts hele sorte pepperkorn
+- 2 laurbærblad
+- Noen stilker persille og timian
+
+### Fremgangsmåte
+
+1. **Legg skrogene i en høy gryte** og dekk med det kalde vannet. Kaldt vann, ikke varmt – proteinene løser seg ut langsomt og gir klarere kraft.
+2. **Varm langsomt opp** til det så vidt begynner å røre seg i overflaten. Det skal ta **20–30 minutter**.
+3. **Skum av** det grå skummet som legger seg på toppen de første ti minuttene.
+4. **Ha i grønnsaker, hvitløk, pepperkorn, laurbær og urter.**
+5. **La kraften trekke i 3–4 timer** på så svak varme at det bare kommer en boble opp av og til. Legg lokket på skrå.
+6. **Sil kraften** gjennom en finmasket sil. Press ikke på grønnsakene – da blir kraften grumsete.
+7. **Avkjøl raskt** ved å sette gryta i kaldt vann, og sett den kaldt over natten. Fettet stivner på toppen og løftes av dagen etter.
+
+### Notater
+
+- **Kraften skal aldri fosskoke.** Ved fosskoking emulgerer fettet inn i væsken og gjør kraften grå og fet. Ved trekkepunktet holder fettet seg på overflaten der du kan fjerne det. Dette er den ene tingen som skiller god kraft fra dårlig.
+- **Skallet på løken** gir farge. Kraften blir gyllen i stedet for blek, uten at det påvirker smaken.
+- **Salt hører ikke hjemme her.** Kraften kokes ofte inn senere i en rett, og salter du nå, ender du med noe uspiselig når den reduseres. Salt til slutt, i retten.
+- **Skrog fås billig hos slakteren,** og vinger gir mest gelatin per krone. Har du stekt en kylling, går skroget rett i fryseren til neste gang.
+- **Frys i porsjoner på 5 dl.** Da har du én ramen eller én suppe per pose. Isbitbrett fungerer for de små mengdene du trenger i en saus.
+- **Holdbarhet:** 4 døgn kjøleskap, 6 måneder fryser.
+- **Brukes i** [nr. 1](#1-kremet-krydret-miso-ramen-med-kylling), [nr. 20](#20-klassisk-shoyu-ramen) og de fleste suppene i samlingen.
+
+---
+
+## G23. Hellstrøms lyse kyllingkraft
+
+**Kilde:** Eyvind Hellstrøm, *Grunnboka* (Cappelen Damm, 2025) · **Kjøkken:** Fransk · **Tid:** 1–3 timer · **Gir:** ca. 1 liter *(ikke oppgitt i kilden)*
+
+Ingenting brunes. Vingene legges i kaldt vann, skummes underveis, og grønnsakene går i etterpå.
+
+### Ingredienser
+
+- 1 kg kyllingvinger, kyllinglår eller kyllingskrog
+- 1 gul løk eller salatløk
+- 1 gulrot
+- ½ purreløk
+- Friske urter: persillestilker, estragon, timian eller rosmarin
+
+### Fremgangsmåte
+
+1. **Legg kyllingvingene i en kjele** og hell på vann til det dekker. **Kok opp.**
+2. **Fjern skummet** som danner seg på overflaten, med hulløse eller vanlig øse.
+3. **Tilsett grønnsaker og urter.**
+4. **Småkok i minimum 1 time og maksimum 3 timer.**
+5. **Sil av** og bruk med det samme, eller avkjøl og sett i kjøleskapet.
+
+### Notater
+
+- **Maksimum tre timer er en reell grense.** Kyllingbein gir fra seg alt de har i løpet av noen timer; deretter begynner smaken å bli flat og kokt. Dette skiller seg fra kalvekraft, som tåler langt lengre tid.
+- **Skummingen skjer før grønnsakene går i.** Er de allerede i kjelen, blir det vanskelig å skille skum fra grønnsaker med øsen.
+- **Persillestilker, ikke blader.** Stilkene har mest smak og tåler koking; bladene blir grå og bitre.
+- **Kraften holder seg i 3–4 dager** i kjøleskap, oppgir kilden. Den fryser godt, og er praktisk i isbitform til småporsjoner. *(Lagt til.)*
+- **Beslektet:** [G22](#g22-kyllingkraft) er samlingens klassiske kyllingkraft med to kilo skrog og tre–fire timer på svakere varme – samme sjanger, større porsjon. [G24](#g24-hellstrøms-mørke-kyllingkraft) er den brunede versjonen.
+
+---
+
+## G24. Hellstrøms mørke kyllingkraft
+
+**Kilde:** Eyvind Hellstrøm, *Grunnboka* (Cappelen Damm, 2025) · **Kjøkken:** Fransk · **Tid:** ca. 1½ t · **Gir:** ca. 1 liter *(ikke oppgitt i kilden)*
+
+Vingene brunes hardt i olje og smør før vannet går på. Fennikel og tomat i tillegg til de vanlige rotgrønnsakene.
+
+### Ingredienser
+
+- 1 kg kyllingvinger, skrog eller avskjær
+- 2–3 ss olivenolje
+- 100 g smør
+- 8–10 hvitløkfedd, knuste
+- 1 gulrot
+- 1 løk
+- 1 fennikel
+- 1 stilk stangselleri
+- 4 tomater
+- 1–2 ss frisk hakket estragon
+- 1–2 ss frisk hakket timian
+
+### Fremgangsmåte
+
+1. **Brun kyllingvingene på sterk varme** i en kasserolle med olivenolje.
+2. **Tilsett knuste hvitløkfedd.** Brun godt på alle kanter og tilsett smøret.
+3. **Skjær grønnsakene i små biter og tomatene i båter.** Bland inn.
+4. **Tilsett vann til det dekker**, tilsett urtene og kok i **ca. 1 time eller mer**.
+5. **Sil av og kok inn til ønsket styrke.**
+
+### Notater
+
+- **Bruningen er hele forskjellen fra en lys kraft.** Maillard-reaksjonen på vingene gir farge, dybde og en kraft som kan brukes som saus i seg selv. Uten den har du [G23](#g23-hellstrøms-lyse-kyllingkraft).
+- **Smøret kommer etter bruningen.** Går det i for tidlig, svir melkeproteinene seg lenge før kyllingen har fått farge. Olje tåler varmen; smør gir smaken.
+- **Én time er kort for en kraft**, og det er fordi vinger er små og gir fra seg raskt. Kilden åpner for lengre tid – smaken blir kraftigere, men gelatinen er stort sett ute etter en time.
+- **Fennikel er kildens tilsetning.** Den gir en svak anistone som kler estragonen, og som skiller denne kraften fra en standard brun kylling.
+- **Innkokingen etter silingen bestemmer bruken.** Tynn til suppe, halvert til saus, videre til glace.
+- **Beslektet:** [Hellstrøms lyse kyllingkraft (G23)](#g23-hellstrøms-lyse-kyllingkraft) er den ubrunede versjonen, [kyllingkraft (G22)](#g22-kyllingkraft) er den klassiske langtidskraften, og [Hellstrøms kalvekraft (G25)](#g25-hellstrøms-kalvekraft) er den store brune.
+
+---
+
+## G25. Hellstrøms kalvekraft
+
+**Kilde:** Eyvind Hellstrøm, *Grunnboka* (Cappelen Damm, 2025) · **Kjøkken:** Fransk · **Tid:** ca. 8 timer · **Gir:** ca. 2 liter *(ikke oppgitt i kilden)*
+
+Fem kilo kalvebein trukket i seks timer, silt, og kokt inn på nytt med tomat og sjalottløk. Kan reduseres videre til demi-glace.
+
+### Ingredienser
+
+- 5 kg kalvebein, kuttet i terninger på 5 × 5 cm
+- 5–6 l vann
+- 1 kg tomat
+- 100 g tomatpuré
+- 10–12 sjalottløk
+
+### Fremgangsmåte
+
+1. **Vask kalvebeina rene for blod** i kaldt, rennende vann. Skyll dem godt og legg dem i en stor kjele.
+2. **Dekk med kaldt vann, ca. 5–6 liter, og kok opp.**
+3. **Fjern skummet** som danner seg på overflaten, med hulløse eller vanlig øse.
+4. **Fyll på med mer vann underveis** så væskenivået holdes stabilt.
+5. **La kraften koke i ca. 6 timer** og sil av.
+6. **Skjær tomater og sjalottløk i terninger.** Tilsett dette og tomatpuréen i kraften og **kok inn til halvparten**.
+7. **Sil på nytt.**
+
+### Notater
+
+- **Beina vaskes for blod før noe annet.** Blodrester koagulerer og gir en grumsete, gråaktig kraft. De ti minuttene med skylling avgjør om sluttresultatet er klart.
+- **Skummingen må gjøres jevnlig, ikke én gang.** Urenheter stiger til overflaten gjennom hele koketiden. Rører du dem tilbake inn, blir kraften uklar for godt.
+- **Grønnsakene kommer først i andre runde.** Det er uvanlig – de fleste kraftoppskrifter koker alt sammen fra start. Her får beina seks timer alene, og tomaten tilsettes til den konsentrerte kraften, der den bidrar med syre og farge uten å ha kokt seg i stykker.
+- **Demi-glace er neste trinn.** Koker du videre til væsken er sirupsaktig og gelatinrik, har du grunnlaget for de klassiske brune sausene. Det tar flere timer til, men fryser utmerket i isbitform.
+- **Kalvebein framfor oksebein** gir mer gelatin og mildere smak. Kalvebein bestilles hos slakter; de er sjelden i butikkhyllen. *(Lagt til.)*
+- **Beslektet:** [T118](#t118-hellstrøms-brune-saus) er snarveien til brun saus uten kraft, og [G22](#g22-kyllingkraft) er samlingens kyllingversjon.
+
+---
+
+## G26. Hellstrøms fiskekraft
+
+**Kilde:** Eyvind Hellstrøm, *Grunnboka* (Cappelen Damm, 2025) · **Kjøkken:** Fransk · **Tid:** 1–2 timer · **Gir:** ca. 2 liter *(ikke oppgitt i kilden)*
+
+Én ingrediens. Beina syder uten omrøring, og kraften siles forsiktig til slutt.
+
+### Ingredienser
+
+- 1–2 kg rene og superferske fiskebein og hoder, fri for gjeller og rogn — gjerne piggvar, havabbor og skatevinger
+
+### Fremgangsmåte
+
+1. **Kapp eller klipp fiskebeina i mindre stykker** og rens dem godt. Skyll godt i kaldt vann.
+2. **Legg fiskebein og hoder i en kjele.** Fyll på med kaldt vann så det dekker, og sett på varmen.
+3. **La det syde i ca. 1–2 timer, uten omrøring.**
+4. **Fjern skummet** som danner seg på overflaten, med hulløse eller vanlig øse.
+5. **Sil kraften forsiktig.**
+
+### Notater
+
+- **Gjeller og rogn må ut.** Gjellene holder på blod og bitterstoffer, rognen gjør kraften grumsete. Dette er det ene punktet kilden setter i parentes, og det er det viktigste.
+- **Én til to timer er lenge for fiskekraft.** Klassisk fransk fumet trekker i 20–30 minutter, fordi fiskebein gir fra seg alt de har raskt og deretter begynner å avgi bitterhet. Kilden går langt utover det. Vil du følge den franske skolen, sil av etter en halvtime og kok heller inn etterpå. *(Flagget.)*
+- **«Uten omrøring» og «sil forsiktig» handler om det samme.** Partikler som virvles opp gjør kraften uklar. Alt i denne oppskriften er innrettet mot en blank kraft.
+- **Piggvar, havabbor og skatevinger** er magre hvitfisker. Fet fisk som laks og makrell gir en tran-aktig kraft som ikke lar seg bruke til saus. Torsk og sei fungerer godt. *(Lagt til.)*
+- **«Superferske» er ikke overdrivelse.** Fiskebein eldes raskt, og en dag gammel bein gir en kraft som lukter fjære.
+- **Beslektet:** [G29](#g29-hellstrøms-kortbuljong--court-bouillon) er den raske vinbaserte varianten, og [G28](#g28-hellstrøms-skalldyrkraft) er skalldyrversjonen.
+
+---
+
+## G27. Hellstrøms blåskjellkraft
+
+**Kilde:** Eyvind Hellstrøm, *Grunnboka* (Cappelen Damm, 2025) · **Kjøkken:** Fransk · **Tid:** ca. 15 min · **Gir:** ca. 5 dl *(ikke oppgitt i kilden)*
+
+Skjellene damper åpne på to–tre minutter i sitt eget vann. Kraften er ferdig i det de åpner seg.
+
+### Ingredienser
+
+- 1–2 kg friske blåskjell
+- 2 stilker stangselleri
+- 1–2 løk
+- 2–3 hvitløkfedd
+
+### Fremgangsmåte
+
+1. **Skyll skjellene og fjern byssustråder.**
+2. **Skrell og finhakk løk, stangselleri og hvitløk** og bland med blåskjellene i en vid kjele.
+3. **Tilsett litt vann**, sett lokk på kjelen og kok skjellene til de åpner seg, **ca. 2–3 minutter**.
+4. **Sil av kraften og filtrer den.**
+
+### Notater
+
+- **Skjellene bringer med seg sitt eget vann.** Derfor bare «litt vann» – tilsetter du mer, tynner du ut kraften du er ute etter. En desiliter i bunnen er nok til å starte dampingen.
+- **Filtreringen er ikke valgfri.** Blåskjell inneholder sand uansett hvor godt de er skylt, og den samler seg i bunnen. Kaffefilter eller klede.
+- **Kraften er allerede salt.** Skjellene salter den selv, og salt tilsatt i en kraft som senere kokes inn blir raskt for mye.
+- **Byssustråden er «skjegget»** som skjellet fester seg med. Den dras ut mot smalenden av skjellet, ikke ut. *(Presisert.)*
+- **Kjøttet blir til overs.** Kilden nevner det ikke her, men det er selvfølgelig maten – se [SU20](#su20-hellstrøms-blåskjellsuppe), som bruker samme teknikk og serverer begge deler.
+- **Holdbarhet:** ca. 3 døgn i kjøleskap.
+
+---
+
+## G28. Hellstrøms skalldyrkraft
+
+**Kilde:** Eyvind Hellstrøm, *Grunnboka* (Cappelen Damm, 2025) · **Kjøkken:** Fransk · **Tid:** ca. 50 min · **Gir:** ca. 1 liter *(ikke oppgitt i kilden)*
+
+Skallene freses i olje før tomat og urter går i. Tjue minutter koking og tjue minutter trekking av varmen.
+
+### Ingredienser
+
+- 1 kg rekeskall, sjøkrepshoder eller hummerhoder
+- 1–2 stilker stangselleri
+- 2–3 sjalottløk
+- 2–3 hvitløkfedd
+- 300 g cherrytomater eller modne tomater
+- 30 g tomatpuré
+- 1–2 ss hakket frisk estragon
+- 1–2 ss hakket frisk timian
 - Olivenolje
-- Za'atar, se [G20](#g20-zaatar)
 
 ### Fremgangsmåte
 
-1. **Rør salt inn i yoghurten.** Saltet trekker ut væsken.
-2. **Legg et rent klede eller dobbelt osteklede i en sil** over en bolle, og hell yoghurten oppi.
-3. **Brett kledet over** og sett alt kaldt i **12–24 timer**.
-4. **Skrap labnehen** ut av kledet. Den skal være tykk nok til å holde formen på en skje.
-5. **Server** i en grunn skål med olivenolje og za'atar over.
+1. **Fres rekeskall og hoder i olivenolje** i en kasserolle.
+2. **Vask og kutt grønnsakene fint** og rør dem inn.
+3. **Bland inn tomater, tomatpuré og urtene.**
+4. **Tilsett vann til det dekker.**
+5. **La det småkoke i ca. 20 minutter**, trekk kasserollen av varmen og **la det trekke i ca. 20 minutter**.
+6. **Sil eller filtrer kraften.**
 
 ### Notater
 
-- **Silingstiden bestemmer konsistensen.** 12 timer gir en tykk krem, 24 timer gir noe som kan rulles til kuler. Vil du ha kuler, rull dem og legg dem i olivenolje.
-- **Mysen som renner av** er ikke søppel. Den kan brukes i brøddeig i stedet for vann, eller i smoothie.
-- **Vanlig yoghurt fungerer,** men gir mindre igjen. 1 kg gresk yoghurt gir ca. 600 g labneh, 1 kg vanlig gir ca. 400 g.
-- **Saltet må i før silingen**, ikke etter. Det er det som driver væsken ut.
-- **Holdbarhet:** 1 uke kjøleskap. Kuler dekket av olivenolje holder 3 uker.
-- **Beslektet:** [T40](#t40-hummus) og [T60](#t60-baba-ganoush) hører til samme bord.
+- **Fresingen av skallene er hele fargen og halve smaken.** Astaxanthin, fargestoffet i skalldyrskall, er fettløselig og trekkes ut i oljen. Koker du skallene i vann uten å frese dem først, får du en blek og tam kraft.
+- **De tjue minuttene av varmen er ikke ventetid.** Trekkingen henter ut aroma uten den bitterheten lang koking av skalldyrskall gir. Det er samme prinsipp som te.
+- **Tomatpuré ved siden av friske tomater.** Puréen er konsentrert og gir farge og syre; de friske gir væske og sødme. Begge deler trengs.
+- **Hodene er mer verdt enn skallene.** Sjøkreps- og hummerhoder inneholder leveren, som er der mesteparten av smaken sitter. Har du valget, ta hodene. *(Lagt til.)*
+- **Kokes den videre inn**, er dette utgangspunktet for en bisque eller en skalldyrsaus.
+- **Beslektet:** [SJ1](#sj1-sjøkreps-med-cowboysmør) bruker sjøkreps, og [G26](#g26-hellstrøms-fiskekraft) er fiskeversjonen.
 
 ---
 
-## G22. Vinaigrette
+## G29. Hellstrøms kortbuljong – court bouillon
 
-**Kilde:** Klassisk standardversjon · **Kjøkken:** Fransk · **Tid:** 5 min · **Gir:** ca. 1,5 dl
+**Kilde:** Eyvind Hellstrøm, *Grunnboka* (Cappelen Damm, 2025) · **Kjøkken:** Fransk · **Tid:** ca. 30 min · **Gir:** ca. 1,2 liter
 
-Grunnforholdet er tre deler olje til én del syre. Alt annet er variasjoner over det.
+En kokevæske, ikke en kraft. Vann og hvitvin med sjalottløk og gulrot, ferdig på en halvtime.
 
 ### Ingredienser
 
-- 1 dl olivenolje
-- ⅓ dl vineddik eller sitronsaft
-- 1 ts dijonsennep
-- ½ ts salt
-- ¼ ts sort pepper
-- ½ ts honning *(valgfritt)*
+- 2 sjalottløk
+- 1 gulrot
+- 1 ss olivenolje
+- 1 l vann
+- ¼ l tørr hvitvin (muscadet eller lignende)
+- 1–2 ss hakket frisk estragon og kjørvel, eller basilikum
 
 ### Fremgangsmåte
 
-1. **Bland eddik, sennep, salt og pepper** i en bolle eller et glass med lokk, og rør til saltet har løst seg.
-2. **Tilsett oljen i en tynn stråle** mens du visper, eller rist glasset kraftig i **20 sekunder**.
-3. **Smak til.** Er den for skarp, en klype honning. Er den flat, mer salt.
+1. **Skrell og finhakk sjalottløk og gulrot.**
+2. **Fres dette i en kasserolle på middels varme i 1 minutt.**
+3. **Tilsett vann og vin** og kok i **ca. 20–30 minutter**.
+4. **Tilsett de friske urtene** når fisken eller skalldyrene er ferdige.
 
 ### Notater
 
-- **3 til 1 er utgangspunktet, ikke en regel.** Med en mild eddik kan du gå til 2 til 1, med sitronsaft ofte 4 til 1. Smak.
-- **Sennepen er emulgatoren.** Uten den skiller vinaigretten seg i løpet av minutter. Med den holder den seg samlet i timevis.
-- **Saltet må løses i syren først.** Salt løser seg ikke i olje, og havner du med det i oljen, blir dressingen ujevnt salt.
-- **Fire varianter fra samme base:** sitron og timian til fisk, rødvinseddik og sjalottløk til grønn salat, balsamico og honning til rotgrønnsaker, riseddik og sesamolje til asiatiske salater.
-- **Holdbarhet:** 2 uker kjøleskap. Olivenolje stivner i kulda – ta den ut 20 minutter før bruk.
-- **Beslektet:** [T39](#t39-sesamdressing-til-kålsalat) er den asiatiske varianten, og [G3](#g3-majones) er den stabile emulsjonen av samme prinsipp.
+- **Dette lages før fisken, ikke av den.** Court bouillon betyr «kort buljong» – en aromatisk væske man posjerer i. Den er ikke en kraft trukket ut av bein, og den skal ikke koke lenge.
+- **Urtene tilsettes helt til slutt.** Kilden er presis på tidspunktet: når fisken er ferdig. Urter som koker i en halvtime mister alt, og hele poenget er den friske aromaen i det retten serveres.
+- **Olje eller smør i buljongen «gir karakter til retten»**, sier kilden. To–tre spiseskjeer legger seg som en tynn hinne rundt fisken under posjeringen og gjør den blankere og saftigere.
+- **Muscadet er ikke tilfeldig valgt.** Den er tørr, mineralsk og lite fruktig, og er den klassiske Loire-vinen til skalldyr. Enhver tørr hvitvin uten fatpreg fungerer.
+- **Væsken kan brukes videre.** Etter posjering er den full av fiskesmak og kan kokes inn til saus. *(Lagt til.)*
+- **Beslektet:** [G26](#g26-hellstrøms-fiskekraft) er kraften trukket av bein, og [T114](#t114-hellstrøms-beurre-blanc) er sausen som ofte følger.
 
 ---
 
-## G23. Pizzasaus
+## G30. Grønnsakskraft
 
-**Kilde:** Eget notat · **Kjøkken:** Italiensk-inspirert · **Tid:** 1 t 15 min + 1 time siling · **Gir:** ca. 6 dl
+**Kilde:** Klassisk standardversjon · **Kjøkken:** Vestlig · **Tid:** 1 time · **Gir:** ca. 2 liter
 
-Kokt tomatsaus kjørt glatt og deretter silt gjennom et kjøkkenhåndkle. Silingen er grepet som skiller den fra en vanlig tomatsaus – vannet renner av, og du sitter igjen med noe tykt nok til at pizzabunnen ikke blir bløt. Spisskummen og cayenne er ikke italiensk, og er det som gjør denne til din.
+Kraft på grønnsaker alene. Den koker langt kortere enn kjøttkraft, fordi grønnsaker gir fra seg alt de har i løpet av en time og deretter bare blir bitre.
 
 ### Ingredienser
 
-- 1 hvitløk, finhakket *(se notat)*
-- 1 gul løk, finhakket
-- 2 ss rapsolje
-- 800 g hermetiske tomater *(2 bokser)*
-- 1 ts sukker
-- 1 ts spisskummen
-- ½ ts cayennepepper
-- Basilikum fra 1 potte, både blader og stilker
-- 1 ss tørket oregano
-- 1 ts salt
-- 1 ts sort pepper
+- 2,5 liter kaldt vann
+- 3 løk, delt i to, med skallet på
+- 3 gulrøtter, i grove biter
+- 3 stilker stilkselleri
+- 1 purre, hele
+- 200 g sjampinjong eller soppstilker
+- 4 hvitløksfedd, knust
+- 1 ts hele sorte pepperkorn
+- 2 laurbærblad
+- Stilker fra en bunt persille
 
 ### Fremgangsmåte
 
-1. **Fres hvitløk og løk** i rapsoljen på litt over middels varme til det er blankt.
-2. **Ha i tomatene.**
-3. **Tilsett sukker, spisskummen, cayenne, basilikum, oregano, salt og pepper.** Skjær basilikumen litt under bladene og ha med stilkene også.
-4. **La sausen småputre i ca. 1 time.**
-5. **Kjør alt glatt** i en blender.
-6. **Spenn et kjøkkenhåndkle over en bolle** og hell sausen oppå.
-7. **La den sile i 1 time.** Mye av vannet renner gjennom, og du sitter igjen med en tydelig tykkere saus.
+1. **Grovhakk alle grønnsakene.** Jo mindre biter, desto raskere gir de fra seg smak.
+2. **Legg alt i en gryte** med det kalde vannet og kok opp.
+3. **Skru ned og la kraften trekke i 45 minutter** uten lokk.
+4. **Sil av** uten å presse på grønnsakene.
 
 ### Notater
 
-- **«1 hvitløk» er tvetydig i notatet.** Et helt hvitløkhode er plausibelt til 800 g tomat og en times koking, og ett enkelt fedd ville knapt merkes. Her er det tolket som et helt hode – si fra hvis det skal være ett fedd. *(Presisert.)*
-- **Silingen er hele poenget.** En tynn pizzasaus bløter bunnen før den rekker å bli sprø. Timen i kledet fjerner vannet uten å koke bort smaken, slik lang innkoking ville gjort.
-- **Basilikumstilkene har mer smak enn bladene.** De kjøres glatt uansett, så det er ingen grunn til å kaste dem.
-- **Spisskummen og cayenne** finnes ikke i en italiensk pizzasaus. De gir en varme og en røykaktig tone som er tydelig annerledes – behold dem hvis det er den smaken du er ute etter, og dropp dem hvis du vil ha en ren napolitansk saus.
-- **Væsken som siles av** er ikke søppel. Den er tomatvann med smak, og kan brukes i en suppe eller kokes inn til en dressing.
-- **Holdbarhet:** 5 døgn kjøleskap, 6 måneder fryser. Frys i porsjoner på 1,5 dl, som dekker én pizza.
-- **Beslektet:** [G9](#g9-pizzadeig) er bunnen, og [G10](#g10-marinara--tomatsausbase) er den italienske sausen uten siling og uten krydder.
+- **En time er grensen.** Etter det begynner grønnsakene å avgi bitterstoffer, og kraften blir tydelig grumsete og skarp. Dette er motsatt av kjøttkraft, som bare blir bedre av tid.
+- **Sopp gir umami.** Uten den smaker grønnsakskraft tynt. Soppstilker du ellers ville kastet, er perfekte her.
+- **Ikke bruk kål, brokkoli eller rosenkål.** De gir en svovelaktig smak som overdøver alt annet.
+- **Ingen salt.** Samme grunn som i [G22](#g22-kyllingkraft) – kraften kokes ofte inn senere.
+- **Holdbarhet:** 4 døgn kjøleskap, 6 måneder fryser.
+- **Beslektet:** [G22](#g22-kyllingkraft) er kjøttvarianten, og [G21](#g21-dashi) er den japanske.
 
 ---
 
-## G24. Korttidshevet pizzadeig
+## G31. Hellstrøms grønnsakkraft
 
-**Kilde:** Pizzamani (pizzamani.no) · **Kjøkken:** Italiensk · **Tid:** 25 min aktivt + ca. 3 timer heving · **Gir:** 4 deigballer à ca. 250 g
+**Kilde:** Eyvind Hellstrøm, *Grunnboka* (Cappelen Damm, 2025) · **Kjøkken:** Vestlig · **Tid:** 1–2 timer · **Gir:** ca. 2 liter *(ikke oppgitt i kilden)*
 
-Napolitansk deig på 62 % hydrering, hevet én time i bulk og to timer i ball. Fersk gjær er valgt med vilje – den er kraftigere i første hevefase enn tørrgjær, og på så kort tid teller det. Gjærmengden er knyttet til romtemperaturen, ikke til klokken.
-
-### Ingredienser
-
-- 606 g Caputo Classica hvetemel *(eller Møllerens pizzamel, eventuelt vanlig hvetemel)*
-- 376 g iskaldt vann, 4–6 °C
-- 18 g fint salt
-- 9 g fersk gjær *(gjelder ved 21 °C romtemperatur – se notat)*
-- Olivenolje til benken
-
-### Fremgangsmåte
-
-1. **Ha alt melet i eltebollen** og smuldre gjæren over. Hvor fint du smuldrer spiller ingen rolle – den blandes inn under eltingen.
-2. **Tilsett vannet, men hold igjen ca. 2 ss.** Saltet skal heller ikke i ennå.
-3. **Elt i 15 minutter.**
-4. **Tilsett resten av vannet og alt saltet**, og elt videre i **ca. 5 minutter** til begge deler er tatt opp i deigen.
-5. **Sjekk deigtemperaturen.** Den ferdige deigen skal ligge mellom **20 og 24 °C**.
-6. **Ha deigen ut på en benk smurt med litt olivenolje.** Smør et tynt lag olje over deigen også, og dekk den med en oppskåret brødpose eller plastfolie.
-7. **La den hvile i 20–25 minutter.**
-8. **Brett deigen noen ganger**, form en ball, og legg den i en bakebolle dekket med plast. **Hev videre i 35–40 minutter**, så bulkhevingen til sammen blir én time.
-9. **Ball opp i fire emner** og la dem heve i **2 timer** før bruk. All heving skjer i romtemperatur.
-
-### Notater
-
-- **Gjærmengden følger romtemperaturen, ikke oppskriften.** 9 g gjelder ved 21 °C. Kilden oppgir hele tabellen:
-  - 17 °C – 19 g
-  - 18 °C – 15,5 g
-  - 19 °C – 13 g
-  - 20 °C – 11 g
-  - 21 °C – 9 g
-  - 22 °C – 7,5 g
-  - 23 °C – 6 g
-  - 24 °C – 5 g
-- **Iskaldt vann på 4–6 °C** er der fordi tjue minutters elting varmer deigen betydelig. Målet er en ferdig deig på 20–24 °C, og med romtemperert vann bommer du oppover.
-- **Fersk gjær, ikke tørrgjær.** Kilden begrunner det: fersk gjær kommer raskere i gang i første hevefase, og på tre og en halv time rekker ikke tørrgjæren å ta igjen.
-- **Salt og de siste to spiseskjeene vann holdes tilbake.** Salt strammer glutennettverket og bremser gjæren, så deigen bygger struktur raskere uten. Samme prinsipp som i [G9](#g9-pizzadeig).
-- **Fire varianter av melet.** Kilden gir tre alternativer i tillegg til det rene hvetemelet, alle med samme mengde vann, salt og gjær:
-  - 563 g hvetemel + 43 g sammalt fin emmer eller rug
-  - 545 g hvetemel + 43 g emmer eller rug + 18 g Criscito eller Naturkraft
-  - 588 g hvetemel + 18 g Criscito eller Naturkraft
-  Emmer og rug er smaksrike kornsorter. Criscito og Naturkraft er tørre surdeigsbaser som får deigen til å smake som om den er hevet lenger enn den er. *(Flyttet hit fra kildens ingrediensliste, så ingrediensene over gjelder den enkleste varianten.)*
-- **62 % hydrering er lavt** sammenlignet med de andre deigene i samlingen, og det er en fordel her: en fastere deig lar seg forme raskere, og den trenger ikke lang heving for å bli håndterlig.
-- **Steking uten pizzaovn**, to veier fra kilden. Begge krever at ovnen forvarmes **minst 60 minutter** på maks varme hvis du bruker stein eller stål:
-  - Nederste rille, maks temperatur, undervarme og varmluft.
-  - Øverste eller nest øverste rille, maks temperatur, under- og overvarme, med grillelementet på mens pizzaen steker. Slå det av når du tar ut pizzaen, og på igjen når neste settes inn.
-  Har du verken stein eller stål, går det an med den vanlige langpannen.
-- **Holdbarhet:** deigballene bør brukes samme dag. Skal de vente lenger, sett dem kaldt etter balling og ta dem ut 2 timer før bruk.
-- **Beslektet:** [G9](#g9-pizzadeig) er den enkle hverdagsdeigen, [G23](#g23-pizzasaus) er sausen, og [nr. 114](#114-proteinrik-pizza-med-yoghurtbunn) er varianten uten gjær.
-
----
-
-## G25. Maistortillas
-
-**Kilde:** Mat(e)Matiker (matmatiker.blogspot.com) · **Kjøkken:** Meksikansk · **Tid:** 30 min aktivt + 30 min hvile · **Gir:** 12 tortillas
-
-Tre ingredienser, men et par grep som avgjør alt. Melet må være masa harina, ikke maismel. Deigen må hvile. Og hver ball må presses fire–fem ganger med nitti graders dreining mellom hver, ellers blir de aldri tynne nok.
+Sju grønnsaker grovhakket og kokt ut i vann. Fennikel og tomat er det som skiller den fra standarden.
 
 ### Ingredienser
 
-- 210 g masa harina *(merke: Maseca)*
-- 260 g vann, litt over romtemperatur *(pluss ekstra etter behov)*
-- ¼ ts salt *(se notat)*
-
-**Du trenger også**
-- Tortillapresse
-- To fryseposer, klippet litt større enn pressens flate
-
-### Fremgangsmåte
-
-1. **Bland masa harina og salt** i en bolle.
-2. **Ha i vannet** litt over romtemperatur og elt til en formelig, lett fuktig deig. **Sprekker den opp, ha i mer vann, 1 ts om gangen.** Litt for mye er bedre enn litt for lite.
-3. **Pakk deigen i plastfolie** eller legg den under et fuktig håndkle, og la den hvile i **20–30 minutter** så maisen får trukket til seg fuktigheten.
-4. **Klipp til to stykker frysepose** litt større enn pressens flate.
-5. **Del deigen i 12 like emner** – del først i tre, og hver av dem i fire – og trill dem til baller. **Sprekker ballene lett, var det for lite vann.**
-6. **Dekk ballene med et fuktig kjøkkenhåndkle.** De tørker ut på minutter.
-7. **Form én tortilla av gangen, rett før den skal stekes.** Legg ballen mellom plaststykkene, litt ut fra midten i retning av lokket, og press.
-8. **Press 4–5 ganger** og drei tortillaen **90 grader** mellom hver gang. Det er dette som gjør den tynn nok.
-9. **Overfør forsiktig:** dra av plasten på oversiden, vend tortillaen over i hånden så den gjenværende plasten havner øverst, og dra av den. Slipp tortillaen i panna.
-10. **Stek i tørr støpejernspanne på ca. 240 °C**, **ca. 50 sekunder per side**, og ikke mer enn **2 minutter totalt**. Den sitter fast det første halve minuttet og slipper av seg selv – la den ligge i fred.
-11. **Legg de ferdige tortillaene i brettet folie med et håndkle rundt**, og la dem hvile noen minutter før servering.
-
-### Notater
-
-- **Masa harina, ikke maismel.** Dette er det som får folk til å mislykkes. Masa harina males på maiskorn som først er bløtlagt og kokt i kalsiumhydroksid, en prosess som heter nixtamalisering. Vanlig maismel har ikke vært gjennom den, og gir en deig som ikke henger sammen. Fås i innvandrerbutikker og norske nettbutikker som fører meksikanske varer.
-- **Presse er nødvendig.** Maisdeig har ingen gluten og lar seg praktisk talt ikke kjevle tynt nok uten å revne. Kilden endte med å bestille en presse i støpejern fra utlandet etter at aluminiumspressen hun fikk tak i her, var bøyd.
-- **Fire–fem pressinger med dreining.** Ett trykk gir en tortilla som er merkbart tykkere enn du tror. Dette står sjelden i oppskrifter, og er kildens viktigste funn.
-- **Deigen tørker hele veien.** Under plast i hvilen, under fuktig håndkle som baller, formet én av gangen. Blir den tørr, sprekker kantene og tortillaen revner i pressen.
-- **Saltet er for lite.** Forfatteren skriver selv at de kunne tålt mer. ¼ ts til 210 g mel er lite – prøv **½ ts** neste gang. *(Lagt til.)*
-- **Hvilen etter steking er ikke sløsing.** Fuktigheten fordeler seg gjennom tortillaen, og de blir mykere og mer bøyelige enn rett fra panna.
-- **Smaken er nøytral.** Maistortillas smaker lite i seg selv – det er fyllet som skal ha hovedrollen. Til gjengjeld er de glutenfrie.
-- **12 stykker veier til sammen ca. 350 g**, altså rundt 29 g per tortilla.
-- **Holdbarhet:** best samme dag. Oppbevar i tett pose i kjøleskap i 3 døgn, og varm dem raskt i tørr panne før servering.
-- **Beslektet:** [G5](#g5-tortillas-med-gresk-yoghurt) er hvetevarianten, og [nr. 185](#185-nachos-med-kjøttdeig-og-chorizo), [nr. 122](#122-braiserte-kyllingtacos) og [T20](#t20-pico-de-gallo) hører til samme bord.
-
----
-
-## G26. Pizzadeig med 48 timers heving
-
-**Kilde:** Pizzamani (pizzamani.no) *(«Pizza napolitana i vanlig stekeovn»)* · **Kjøkken:** Italiensk · **Tid:** 30 min aktivt + 48 timer heving · **Gir:** 4 deigballer à 200 g
-
-Fire timer i romtemperatur, deretter 44 timer i kjøleskap på 4 °C. Det er derfor gjærmengden er nede i under tre gram. Oppskriften er skrevet for **vanlig stekeovn med pizzastein**, og steketeknikken er halve poenget.
-
-### Ingredienser
-
-- 483 g Caputo Cuoco hvetemel *(eller annet «00»-mel)*
-- 305 g vann, romtemperert
-- 12 g Maldon-salt
-- 2,77 g fersk gjær
-
-**Du trenger også**
-- Pizzastein eller pizzastål
-- Stekespade
-- Durumhvete til utbaking *(se notat)*
+- 2–3 stilker stangselleri
+- 2 gulrøtter
+- 1 fennikel
+- 4 sjalottløk
+- 2 løk
+- 1 purreløk
+- 3–4 tomater
+- En liten bunt friske urter: estragon, persille, kjørvel
+- 2–3 l vann
 
 ### Fremgangsmåte
 
-**Deigen**
-
-1. **Løs opp salt og gjær** i det romtempererte vannet.
-2. **Bland inn melet litt etter litt** mens kjøkkenmaskinen går på middels hastighet – ikke raskere enn at melet holder seg i bollen. Denne meltypen er nesten som pudder og støver lett.
-3. **Kjør til alt melet er blandet inn** og deigen er smidig og fin.
-4. **Senk til laveste hastighet og elt videre i 20 minutter.**
-5. **Dekk bollen tett med plastfolie** og hev i romtemperatur i **4 timer**.
-6. **Hell deigen ut på benken** og form en pølse. **Ikke kna den.** Del i fire like deler og form hvert emne til en ball.
-7. **Sett ballene til andregangs heving i kjøleskap på 4 °C i 44 timer** – enten samlet i en tett hevekasse, eller hver for seg i plastbokser med lokk. Suppetallerkener med plastfolie over fungerer også.
-
-**Forming**
-
-8. **Ta deigene ut 1–2 timer før bruk** og la dem temperere på benken.
-9. **Bak ut og stek én av gangen.** Da har du best kontroll.
-10. **Form emnene til runde leiver med hendene.** Begynn i midten og trykk utover, så luften presses ut i kanten. Det er denne teknikken som gir en luftig og sprø skorpe.
-
-**Steking**
-
-11. **Forvarm ovnen og pizzasteinen på maks temperatur i ca. 1 time.**
-12. **Fordel sausen**, men la **2–3 cm rundt kanten** være uten. Legg på ost og fyll.
-13. **Dra pizzaen opp på stekespaden** og før den inn på **øverste hylle** på maks temperatur.
-14. **Etter et par minutter** kan du slå på grillelementet for å brune skorpen ekstra.
-15. **Følg med hele tiden.** Pizzaen er ferdig når skorpen er godt brunet og begynner å få antydning til små svarte flekker.
+1. **Skrell og rens grønnsakene**, hakk dem grovt.
+2. **Kok dem 1–2 timer** i en kasserolle med vann. **Fyll på med mer vann** etter hvert som væsken fordamper.
+3. **Sil av.**
 
 ### Notater
 
-- **2,77 gram gjær er ikke en skrivefeil.** Mengden er regnet ut for akkurat denne kombinasjonen av hevetid og temperatur – fire timer varmt pluss 44 timer kaldt. Vil du heve kortere eller lenger, må gjærmengden og meltypen tilpasses. Kilden anbefaler appen **PizzApp** til utregningen.
-- **Tjue minutters elting på laveste hastighet.** Lang, langsom elting bygger glutennettverket uten å varme deigen. Dette er ikke et sted å ta snarveier.
-- **Deigen knas ikke etter første heving.** Den formes bare til en pølse, deles og trilles til baller. All luften du slår ut nå, kommer ikke tilbake.
-- **Durumhvete til utbaking.** Bruker du vanlig stekeovn i stedet for pizzaovn, gir durumhvete en litt sprøere bunn. Samme mel som i deigen fungerer også.
-- **Trykk fra midten og utover.** Luften skal presses ut i kanten, ikke ut av deigen. Det er det som gir den luftige kanten. Kjevle aldri en napolitansk pizza.
-- **Én time forvarming.** Steinen må være gjennomvarm, ikke bare varm på overflaten. Kortere forvarming gir bleik bunn uansett hvor høy temperaturen er.
-- **Øverste hylle, ikke nederste.** Dette skiller seg fra kildens korttidsdeig, der nederste rille er ett av alternativene – her er nærhet til taket og grillelementet det som gir farge på toppen i tide.
-- **Resultatet blir ikke som i en pizzaovn**, og det sier kilden selv. Men det er det nærmeste du kommer på 300 °C.
-- **63 % hydrering**, praktisk talt det samme som korttidsdeigen. Forskjellen ligger i tiden og gjæren, ikke i vannet.
-- **Holdbarhet:** deigballene brukes etter de 48 timene. Trenger du utsettelse, tåler de noen timer ekstra kaldt.
-- **Beslektet:** [G24](#g24-korttidshevet-pizzadeig) er samme kilde på tre og en halv time, [G23](#g23-pizzasaus) er sausen, [G9](#g9-pizzadeig) er hverdagsvarianten, og [nr. 114](#114-proteinrik-pizza-med-yoghurtbunn) er den uten gjær.
-
----
-
-## G27. Hjemmelaget mozzarella
-
-**Kilde:** Spiselise (spiselise.no) · **Kjøkken:** Italiensk · **Tid:** ca. 1 time 40 min · **Gir:** ca. 500 g *(3 baller)*
-
-Fire liter melk blir til en halv kilo ost på under to timer. Løpen får melken til å skille seg, og deretter strekkes ostemassen varm til den er blank og elastisk – i mikrobølgeovn, eller i 80-graders vann hvis du ikke har en.
-
-### Ingredienser
-
-- 4 liter helmelk *(økologisk eller fersk melk fra kua er enda bedre – se notat)*
-- 1 tablett løpe, blandet ut i et halvfullt glass vann *(eller 2 ml flytende osteløpe)*
-- 1½ ts sitronsyre
-- 1 ts salt uten jod
-
-**Du trenger også**
-- Steketermometer
-- Gassklut og en spagettisil
-
-### Fremgangsmåte
-
-1. **Ha melken i en gryte** på laveste varme, og sett termometeret i.
-2. **Når melken er 13 °C**, tilsett sitronsyren og rør godt.
-3. **Varm videre til 33 °C** mens du rører jevnlig.
-4. **Ved 33 °C tilsettes løpen**, godt utrørt i vann. Sett gryten til side.
-5. **Rør godt i ett minutt**, og la det stå i **5–10 minutter** på rundt 33 °C. Nå ser du at melken skiller seg.
-6. **Kutt inn i massen på kryss og tvers** med en kniv.
-7. **Varm opp til 40 °C.**
-8. **Ta gryten av platen** og løft massen over i spagettisilen med en hullsleiv. Silen skal være kledd med gassklut.
-9. **Løft kantene på kluten** så du får en pose med ostemasse.
-10. **Klem posen over vasken** til det meste av væsken er ute.
-11. **Ha massen i en bolle og sett den i mikrobølgeovnen i 1 minutt** på full styrke *(kilden bruker 800 W)*.
-12. **Kna og dra litt i massen.** Tilsett saltet og kna det godt inn.
-13. **30 sekunder til i mikroen.** Ta ut, og kna og dra i den i ett minutt.
-14. **Ytterligere 30 sekunder i mikroen.**
-15. **Massen skal nå være elastisk og blank.**
-16. **Form tre runde baller** og legg dem kort i kaldt vann så de kjøles ned.
-17. **Pakk ballene i plastfolie.** De blir best av å stå ett døgn på benken, men kan brukes med en gang.
-
-### Notater
-
-- **Ultrapasteurisert melk fungerer ikke.** Proteinene er varmebehandlet så hardt at løpen ikke får tak, og melken koagulerer aldri. Dette er den vanligste grunnen til at hjemmelaget mozzarella mislykkes helt. Sjekk pakken – vanlig helmelk går fint, UHT-melk gjør det ikke. *(Lagt til.)*
-- **Uten mikrobølgeovn:** kok opp vann i en bolle. Når det holder **rundt 80 °C**, legg i ostemassen i **ca. 1 minutt**, eller til den begynner å smelte sammen. Ta den ut, kna og dra litt i den. Gjenta to ganger til, men da bare **30 sekunder** i vannet hver gang. Kildens eget tips, etter mange spørsmål fra lesere.
-- **Sitronsyren i kald melk, ikke varm.** Kilden er presis på 13 °C, og det er ikke tilfeldig: syre i varm melk feller ut ujevnt og gir en kornete ost i stedet for en som strekker seg.
-- **Salt uten jod.** Jod hemmer bakteriekulturer og kan gi bismak i fersk ost.
-- **Løpe fås på apotek** i Norge, eller som vegetabilske tabletter fra spesialforhandlere på nett.
-- **Elastisk og blank er målet.** Er massen fortsatt kornete etter tre runder i mikroen, har den enten vært for kald under strekkingen, eller så har melken vært feil type.
-- **Ett døgn på benken gir best smak** ifølge kilden, men osten kan brukes med en gang.
-- **Frysing gjør den lettere å rive.** Skal du bruke mozzarellaen på pizza, er frossen og revet enklere å håndtere enn fersk.
-- **Holdbarhet:** ca. 1 uke i kjøleskap. Tåler frysing.
-- **Beslektet:** [G21](#g21-labneh) er samlingens andre ferskost, [G26](#g26-pizzadeig-med-48-timers-heving) og [G23](#g23-pizzasaus) er resten av pizzaen, og [nr. 176](#176-melanzane-alla-parmigiana) bruker mozzarella i lag.
+- **Én til to timer er lenger enn de fleste anbefaler**, og lenger enn [G30](#g30-grønnsakskraft) i samlingen, som setter grensen ved 45 minutter fordi grønnsaker begynner å avgi bitterstoffer etter det. De to oppskriftene er reelt uenige. Smak underveis – blir kraften skarp, sil av med en gang. *(Flagget.)*
+- **Fennikel er det uvanlige valget.** Den gir en svak anistone som gjør kraften mer aromatisk enn en nøytral grønnsakbuljong, men også mer preget – den passer bedre til fisk og lyst kjøtt enn til alt.
+- **Tomatene bidrar med syre og umami.** De er sjeldne i en klassisk grønnsakkraft, men er det som gjør denne brukbar der man ellers ville brukt kjøttkraft.
+- **Ingen sopp.** [G30](#g30-grønnsakskraft) bruker sjampinjong for umami; her gjør tomatene den jobben.
+- **Holdbarhet:** inntil 1 uke i kjøleskap, eller nedfryst i mindre beholdere. Isbitform er praktisk til småporsjoner.
+- **Beslektet:** [G30](#g30-grønnsakskraft) er samlingens andre grønnsakkraft.
 
 ---
