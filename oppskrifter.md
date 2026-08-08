@@ -1,6 +1,6 @@
 # Oppskriftssamling
 
-Sist oppdatert: 5. august 2026 · **542 oppskrifter** · 180 hovedretter, 78 tilbehør, 66 saus/marinade, 58 supper, 37 småretter, 34 desserter, 31 grunnoppskrifter, 25 salater, 28 sjømat, 16 frokost, 13 brød, 7 bakverk
+Sist oppdatert: 8. august 2026 · **567 oppskrifter** · 189 hovedretter, 79 tilbehør, 68 saus/marinade, 59 supper, 44 småretter, 35 desserter, 32 grunnoppskrifter, 25 salater, 30 sjømat, 17 frokost, 13 brød, 7 bakverk
 
 ## Innhold
 
@@ -46,6 +46,7 @@ Sist oppdatert: 5. august 2026 · **542 oppskrifter** · 180 hovedretter, 78 til
 | G13 | [Hellstrøms tempurarøre](#g13-hellstrøms-tempurarøre) | Grunnoppskrift | Japansk | ca. 5 min | ca. 4 porsjoner |
 | T134 | [Hellstrøms japanske ris](#t134-hellstrøms-japanske-ris) | Tilbehør | Japansk | ca. 50 min | 4–6 |
 | T141 | [Momofukus soyaegg](#t141-momofukus-soyaegg) | Tilbehør | Japansk-inspirert | 20 min + 2–6 timers marinering | 6 egg |
+| SJ19 | [Crudo med laks – kokos-miso-yuzu-dressing](#sj19-crudo-med-laks--kokos-miso-yuzu-dressing) | Sjømat | Norsk-japansk fusjon | ca. 15 min | forrett til 2–3 |
 
 #### Koreansk
 
@@ -118,6 +119,14 @@ Sist oppdatert: 5. august 2026 · **542 oppskrifter** · 180 hovedretter, 78 til
 | G11 | [Hellstrøms bao-deig](#g11-hellstrøms-bao-deig) | Grunnoppskrift | Kinesisk | ca. 2 t | 8–10 bao |
 | S37 | [Char siu bao-fyll med kjøttdeig](#s37-char-siu-bao-fyll-med-kjøttdeig) | Smårett | Kinesisk | 20 min | 8 bao |
 | 209 | [One-pot hainansk kylling og ris](#209-one-pot-hainansk-kylling-og-ris) | Hovedrett | Hainansk-amerikansk | ca. 45 min | 2 |
+| G32 | [Mandarin-pannekaker – asiatiske 3-ingrediens-pannekaker](#g32-mandarin-pannekaker--asiatiske-3-ingrediens-pannekaker) | Grunnoppskrift | Kinesisk | ca. 1½ t | 12 pannekaker |
+| S38 | [Lammedumplings med sitrusdipp](#s38-lammedumplings-med-sitrusdipp) | Smårett | Kinesisk-japansk fusjon | ca. 2 t | 40 dumplings |
+| S40 | [Miso shortrib-dumplings med braisert kraft-dipp](#s40-miso-shortrib-dumplings-med-braisert-kraft-dipp) | Smårett | Kinesisk-japansk fusjon | ca. 5–6 t | 40 dumplings |
+| 214 | [Chicken cashew](#214-chicken-cashew) | Hovedrett | Kinesisk-amerikansk | under 20 min + marinering | 2–3 |
+| 216 | [Fried rice med marinert kylling](#216-fried-rice-med-marinert-kylling) | Hovedrett | Kinesisk-amerikansk | under 20 min + marinering | 2–3 |
+| 217 | [Char siu-marinert grillkylling med sesam-sobasalat](#217-char-siu-marinert-grillkylling-med-sesam-sobasalat) | Hovedrett | Kantonesisk-inspirert | ca. 30 min + marinering | 4 |
+| 219 | [Bang bang-kylling](#219-bang-bang-kylling) | Hovedrett | Kinesisk (Sichuan) | ca. 1 t | 2 |
+| S43 | [Pannestekte biffdumplings](#s43-pannestekte-biffdumplings) | Smårett | Kinesisk | ca. 2 t | 40 dumplings |
 
 #### Thai
 
@@ -146,6 +155,10 @@ Sist oppdatert: 5. august 2026 · **542 oppskrifter** · 180 hovedretter, 78 til
 | T35 | [Sweet chili-marinade](#t35-sweet-chili-marinade) | Saus/Marinade | Thai-inspirert | 5 min + marinering | ca. 1 dl |
 | 148 | [One-pot kylling med gul karri og ris](#148-one-pot-kylling-med-gul-karri-og-ris) | Hovedrett | Thai-inspirert | ca. 35 min | 4 |
 | 189 | [Grønn kyllingcurry med paprika og squash](#189-grønn-kyllingcurry-med-paprika-og-squash) | Hovedrett · Suppe | Thai | 45–60 min | 4 |
+| 212 | [Lammecarré med panang curry og urtetopping](#212-lammecarré-med-panang-curry-og-urtetopping) | Hovedrett | Thai-inspirert | ca. 1 t 15 min | 2–4 |
+| 213 | [Kyllingbowl med quinoasalat og ingefærdipp](#213-kyllingbowl-med-quinoasalat-og-ingefærdipp) | Hovedrett | Thai-inspirert | ca. 1 t + marinering | 2–3 |
+| SJ18 | [Rå laks med thai-dipp](#sj18-rå-laks-med-thai-dipp) | Sjømat | Norsk-thai | ca. 20 min | forrett til 3–4 |
+| S41 | [Moo Ping – grillspyd av svin med Nam Jim Jaew (crack-sauce)](#s41-moo-ping--grillspyd-av-svin-med-nam-jim-jaew-crack-sauce) | Smårett | Thai | ca. 45 min + marinering | 4 |
 
 #### Vietnamesisk
 
@@ -157,6 +170,9 @@ Sist oppdatert: 5. august 2026 · **542 oppskrifter** · 180 hovedretter, 78 til
 | 15 | [Kyllingpho, Alissa Nguyen Won](#15-kyllingpho-alissa-nguyen-won) | Suppe | Vietnamesisk | 1–2½ time | 4–6 |
 | S9 | [Gỏi cuốn – vietnamesiske rispapirruller med kylling](#s9-gỏi-cuốn--vietnamesiske-rispapirruller-med-kylling) | Smårett | Vietnamesisk | 20 min | 5 ruller |
 | S27 | [Bánh mì](#s27-bánh-mì) | Smårett | Vietnamesisk | 30 min + sylting | 4 |
+| T143 | [Vietnamesisk chimichurri](#t143-vietnamesisk-chimichurri) | Saus/Marinade | Vietnamesisk | 10 min + trekketid | ca. 4 dl |
+| S39 | [Vietnamesiske stekte vårruller (Saigon-stil) med dipp](#s39-vietnamesiske-stekte-vårruller-saigon-stil-med-dipp) | Smårett | Vietnamesisk | ca. 1 t 30 min | 15 vårruller |
+| SU34 | [Kylling-phở](#su34-kylling-phở) | Suppe | Vietnamesisk | ca. 2 t | 4 |
 
 #### Taiwansk
 
@@ -288,6 +304,9 @@ Sist oppdatert: 5. august 2026 · **542 oppskrifter** · 180 hovedretter, 78 til
 | SU26 | [Hellstrøms blomkålsuppe med parmesan](#su26-hellstrøms-blomkålsuppe-med-parmesan) | Suppe | Italiensk-inspirert | ca. 45 min | 4 |
 | 203 | [Krepsehale capellini](#203-krepsehale-capellini) | Hovedrett · Sjømat | Fransk-italiensk | ca. 2 t | 4 |
 | 204 | [Pasta med hvitløkssmør](#204-pasta-med-hvitløkssmør) | Hovedrett | Italiensk-amerikansk | 20 min | 2 |
+| 211 | [Verdens beste lasagne](#211-verdens-beste-lasagne) | Hovedrett | Italiensk | ca. 5 t | 8–10 |
+| 215 | [Pasta med shortrib-ragu (miso-soya)](#215-pasta-med-shortrib-ragu-miso-soya) | Hovedrett | Italiensk-japansk fusjon | ca. 4½ t | ca. 6 |
+| S42 | [Dipp med burrata, olivenolje og urter](#s42-dipp-med-burrata-olivenolje-og-urter) | Smårett | Italiensk | 10 min | 1 fat |
 
 ### Østlig middelhav
 
@@ -316,6 +335,7 @@ Sist oppdatert: 5. august 2026 · **542 oppskrifter** · 180 hovedretter, 78 til
 | T103 | [Hellstrøms tzatziki](#t103-hellstrøms-tzatziki) | Saus/Marinade | Gresk | 25 min | 4 |
 | 206 | [Smashed beef kabob med agurkyoghurt](#206-smashed-beef-kabob-med-agurkyoghurt) | Hovedrett | Persisk-inspirert | 25 min | 4 (ikke oppgitt i kilden) |
 | SU33 | [Kylling- og linsesuppe med sitronyoghurt](#su33-kylling--og-linsesuppe-med-sitronyoghurt) | Suppe | Persisk-inspirert | ca. 1 t 15 min | 6 (ikke oppgitt i kilden) |
+| F17 | [Tyrkiske egg (çılbır)](#f17-tyrkiske-egg-çılbır) | Frokost | Tyrkisk | ca. 20 min | 2 |
 
 ### Vestlig
 
@@ -347,6 +367,7 @@ Sist oppdatert: 5. august 2026 · **542 oppskrifter** · 180 hovedretter, 78 til
 | 126 | [Kyllingquesadillas](#126-kyllingquesadillas) | Hovedrett | Meksikansk-inspirert | 20 min | 4 |
 | 123 | [Hellstrøms kjøttboller i tomatsaus](#123-hellstrøms-kjøttboller-i-tomatsaus) | Hovedrett | Norsk | ca. 1½ t | 8–10 |
 | 124 | [Steak Diane](#124-steak-diane) | Hovedrett | Fransk | ca. 25 min | 2 |
+| 218 | [Entrecôte med umamisaus og pommes frites](#218-entrecôte-med-umamisaus-og-pommes-frites) | Hovedrett | Norsk-japansk fusjon | ca. 1 t 20 min | 2 |
 | 112 | [Hvitløks- og urtekylling med ovnsbakte gulrøtter og potetmos](#112-hvitløks--og-urtekylling-med-ovnsbakte-gulrøtter-og-potetmos) | Hovedrett | Amerikansk | ca. 40 min | 4 |
 | 113 | [Braisert oksehale med mac and cheese, søtpotet og grønnkål](#113-braisert-oksehale-med-mac-and-cheese-søtpotet-og-grønnkål) | Hovedrett | Amerikansk | ca. 3½ t | 4 |
 | 114 | [Proteinrik pizza med yoghurtbunn](#114-proteinrik-pizza-med-yoghurtbunn) | Hovedrett | Amerikansk | ca. 30 min | 4 |
@@ -418,6 +439,7 @@ Sist oppdatert: 5. august 2026 · **542 oppskrifter** · 180 hovedretter, 78 til
 | T44 | [Peppersaus (sauce au poivre)](#t44-peppersaus-sauce-au-poivre) | Saus/Marinade | Fransk | ca. 25 min | ca. 2,5 dl |
 | T46 | [Alex Schulmans ostsås – svensk blåmuggostsaus](#t46-alex-schulmans-ostsås--svensk-blåmuggostsaus) | Saus/Marinade | Svensk | ca. 30 min | ca. 5 dl, 4 porsjoner |
 | T47 | [Guacamole](#t47-guacamole) | Tilbehør | Meksikansk | 15 min | ca. 4 dl |
+| T145 | [Kandiserte jalapeños (Cowboy Candy)](#t145-kandiserte-jalapeños-cowboy-candy) | Tilbehør | Amerikansk | 15 min + 1 ukes modning | ca. 8,5 dl |
 | T49 | [Ristet maisrøre med frossen feta](#t49-ristet-maisrøre-med-frossen-feta) | Tilbehør | Meksikansk-inspirert | ca. 30 min | ca. 4 dl |
 | T50 | [Pommes Anna](#t50-pommes-anna) | Tilbehør | Fransk | ca. 2½ t | 6 |
 | T51 | [Hasselbackpoteter med hvitløkssmør](#t51-hasselbackpoteter-med-hvitløkssmør) | Tilbehør | Svensk | ca. 25 min | 4 |
@@ -516,6 +538,7 @@ Sist oppdatert: 5. august 2026 · **542 oppskrifter** · 180 hovedretter, 78 til
 | D32 | [Mini-ostekaker med Biscoff](#d32-mini-ostekaker-med-biscoff) | Dessert | Amerikansk | 25 min + kjøling | 6 |
 | D33 | [Biscoff-ostekake](#d33-biscoff-ostekake) | Dessert | Amerikansk | 20 min + kjøling | 16 |
 | D34 | [Ostekake med saltkaramell](#d34-ostekake-med-saltkaramell) | Dessert | Norsk | 30 min + kjøling | 10 |
+| D35 | [Baskisk ostekake med hvit sjokolade og kirsebærkompott](#d35-baskisk-ostekake-med-hvit-sjokolade-og-kirsebærkompott) | Dessert | Baskisk-inspirert | ca. 1 t + natten over | 10–12 |
 | 193 | [Estragonkylling](#193-estragonkylling) | Hovedrett | Fransk | ca. 30 min | 2 |
 | F12 | [Hellstrøms franske eggerøre](#f12-hellstrøms-franske-eggerøre) | Frokost | Fransk | ca. 10 min | 1 |
 | F13 | [Hellstrøms franske omelett](#f13-hellstrøms-franske-omelett) | Frokost | Fransk | ca. 5 min | 1 |
@@ -566,6 +589,7 @@ Sist oppdatert: 5. august 2026 · **542 oppskrifter** · 180 hovedretter, 78 til
 | T113 | [Hellstrøms beurre noisette](#t113-hellstrøms-beurre-noisette) | Saus/Marinade | Fransk | 5 min | ca. 80 g |
 | T114 | [Hellstrøms beurre blanc](#t114-hellstrøms-beurre-blanc) | Saus/Marinade | Fransk | ca. 20 min | 4 |
 | T117 | [Hellstrøms béarnaisesaus](#t117-hellstrøms-béarnaisesaus) | Saus/Marinade | Fransk | ca. 30 min | 4 |
+| T144 | [Béarnaise med hvit miso (stavmikser-metode)](#t144-béarnaise-med-hvit-miso-stavmikser-metode) | Saus/Marinade | Fransk-japansk | ca. 30 min | 4 |
 | T118 | [Hellstrøms brune saus](#t118-hellstrøms-brune-saus) | Saus/Marinade | Norsk | ca. 30 min | ca. 5 dl |
 | T119 | [Hellstrøms fløtesaus](#t119-hellstrøms-fløtesaus) | Saus/Marinade | Fransk | ca. 25 min | 4 |
 | T120 | [Hellstrøms universalsaus](#t120-hellstrøms-universalsaus) | Saus/Marinade | Fransk-asiatisk | 5 min | ca. 1 dl |
@@ -11296,6 +11320,444 @@ Enkel proteinrik bowl bygget på airfryer-poteter, brunet kjøttdeig, cottage ch
 - **Næringsinnhold fra kilden** (for hele retten): 575 kcal, 51 g protein, 15 g fett, 59 g karbohydrater, 9 g fiber.
 - **Ingen porsjonsangivelse i kilden** – ut fra mengden (350 g poteter, 170 g kjøttdeig) er dette regnet som én stor porsjon.
 - **Fett på cottage cheese:** kilden bruker 2 % fett-variant; en annen fettprosent vil endre næringstallene noe.
+## 211. Verdens beste lasagne
+
+**Kilde:** @fysenpaa (Instagram, 19. september 2025) · **Kjøkken:** Italiensk · **Tid:** ca. 5 t (inkl. minst 4 timers trekketid for kjøttsausen) + 30 min steking · **Porsjoner:** 8–10 *(ikke oppgitt i kilden)*
+
+Kilden kaller denne "verdens beste lasagne" – en klassisk kjøttsauslasagne med pancetta i bunnen av sausen, en enkel parmesan-bechamel som ostesaus, og lag med både fersk mozzarella og ricotta mellom platene.
+
+### Ingredienser
+
+**Kjøttsaus**
+- 200 g pancetta, i terninger
+- 2 stk løk, finhakket
+- 10 fedd hvitløk (6 fedd finhakket, 4 fedd revet)
+- ¾ tube tomatpuré
+- 1200 g karbonadedeig
+- 3 bokser hakkede tomater (à ca. 400 g)
+- 3 boksemål vann (samme volum som tomatboksene)
+- Salt
+- Pepper
+- 3 ss sukker
+
+**Ostesaus**
+- 120 g smør
+- 4 ss hvetemel
+- 5 dl melk
+- 100 g parmesan, revet (velg god kvalitet)
+- Salt og pepper
+
+**Til lagene**
+- Pastaplater *(mengde ikke oppgitt i kilden)*
+- Fersk mozzarella
+- Ricotta
+- Revet mozzarella til topping
+
+### Fremgangsmåte
+
+**Kjøttsaus**
+1. Skjær pancettaen i små terninger og finhakk løken og seks av hvitløksfeddene.
+2. Stek pancettaen på middels varme i en gryte. Når fettet har smeltet ut og resten er sprøtt, tar du ut pancettaen og setter den til side.
+3. Ha løk og finhakket hvitløk i pancetta-fettet.
+4. Når løken er mør, tilsett tomatpuré.
+5. Stek karbonadedeigen i en annen panne med salt og pepper, og tilsett den deretter i sausen.
+6. Ha pancettaen tilbake i sausen. Rør om og ha i de tre boksene hakkede tomater pluss tre boksemål vann. Tilsett en god klype salt, pepper og sukker. La sausen godgjøre seg i minst fire timer (gjerne lenger), og rør litt rundt et par ganger underveis.
+7. Riv resten av hvitløken og rør den inn i sausen helt til slutt. Smak til med litt ekstra salt.
+
+**Ostesaus**
+1. Smelt smøret i en kjele.
+2. Tilsett hvetemel og rør godt sammen.
+3. Ha i melken og la det småkoke i 5–6 minutter, til sausen tykner litt.
+4. Tilsett parmesan og la den smelte i sausen.
+5. Smak til med salt og pepper.
+
+**Sette sammen og steke**
+1. Fordel lagene i én stor eller to mindre former, i denne rekkefølgen: kjøttsaus – ostesaus – fersk mozzarella – pastaplater – kjøttsaus – ostesaus – ricotta – pastaplater – kjøttsaus – topp med revet mozzarella, fersk mozzarella og ricotta.
+2. Sett ovnen på 200 °C og stek lasagnen i ca. 30 minutter.
+3. La lasagnen hvile i 10–15 minutter før servering, slik at den setter seg.
+
+### Notater
+
+- **Mengder for pastaplater, fersk mozzarella og ricotta er ikke oppgitt i kilden** – bruk gjerne en standard eske pastaplater (ca. 250 g) og 200–250 g av hver ost, avhengig av formstørrelsen.
+- **Trekketiden på minst fire timer for kjøttsausen** er det kilden peker på som selve nøkkelen til smaken – ikke skynd deg forbi dette trinnet.
+- **"Tre boksemål vann"** betyr samme volum som de tomme tomatboksene ble målt opp med (typisk 3 × 400 ml).
+- **Beslektet:** samlingen har fra før [72. Lasagna](#72-lasagna), [142. Lasagne alla Norma med salsicciaragù](#142-lasagne-alla-norma-med-salsicciaragù), [167. Lasagne alla bolognese](#167-lasagne-alla-bolognese) og [184. Hvit soppasagne](#184-hvit-soppasagne) – denne skiller seg ut med pancetta i sausen og dobbel ost (fersk mozzarella + ricotta) i lagene.
+
+## 212. Lammecarré med panang curry og urtetopping
+
+**Kilde:** @fysenpaa (Instagram, 28. mars 2026) · **Kjøkken:** Thai-inspirert (påskelam) · **Tid:** ca. 1 t 15 min · **Porsjoner:** 2–4 *(ikke oppgitt i kilden)*
+
+Kildens "take på panang curry" – en hjemmelaget currypaste fra bunnen av, brukt som saus til stekt lammecarré i stedet for den mer tradisjonelle proteinkilden (biff eller kylling). Servert med ris og en frisk topping av peanøtter, urter og lime.
+
+### Ingredienser
+
+**Curry-paste**
+- 1–2 g tørket chili
+- 30 g peanøtter
+- 2 ss shrimp paste (rekepasta)
+- 2 stk sjalottløk
+- 6 stk hvitløksfedd
+- 2 stilker sitrongress
+- 3 kaffirlimeblader
+- 2 ss galangalrot, finrevet
+- ½ ts korianderfrø
+- ½ ts spisskummenfrø
+
+**Saus og lam**
+- 1 rack lammecarré (8–10 ribber)
+- 3 ss curry-paste (over)
+- 1 boks kokoskrem (400 ml)
+- 3 ss sukker
+- 5 ss fiskesaus
+- 1 kaffirlimeblad ekstra (kan byttes med limeskall)
+- 1 lime
+
+**Topping**
+- Knuste peanøtter
+- 1 bunt koriander, finhakket
+- ½ bunt søt basilikum/thai-basilikum, finhakket
+- ½ rødløk, finhakket
+- En skvis limejuice
+
+### Fremgangsmåte
+
+**Curry-paste**
+1. **Rens chiliene.** Det er viktig å fjerne frøene, ellers blir pasten veldig sterk. Hell over 2 dl kokvarmt vann og la chiliene trekke i 30 minutter. Sil av vannet og legg chiliene til side.
+2. **Alt skal i morter eller blender.** Morter gir mest smak, men blender fungerer også fint. Det letteste er å rive eller finhakke ingrediensene før du har dem i morteren.
+3. **Curry-pasten er klar** når den er fin og jevn.
+
+**Lam og saus**
+4. **Forvarm ovnen til 180 °C.** Snitt ruter i fettet på lammecarreen og krydre lett med salt. Ha olje i en panne på høy varme og stek lammet til det får en fin stekeskorpe på alle sider. Legg det på et stekebrett og sett i ovnen til kjernetemperaturen når 55–60 °C (ca. 20–25 min). La kjøttet hvile i minst 10 minutter før du skjærer mellom ribbene.
+5. **Stek curry-pasten** i litt olje i en dyp panne på medium varme til den blir gyllen og aromatisk, ca. 5 minutter.
+6. **Hell over kokoskremen.** Tilsett sukker og fiskesaus, og legg gjerne i et ekstra kaffirlimeblad. La sausen småkoke til den blir blank og litt tykkere. Du kan gjerne blende sausen for en jevnere konsistens. Smak til med limejuice.
+7. **Skjær lammecarreen i koteletter** og server med sausen og ris.
+8. **Topp med knuste peanøtter**, urteblandingen og litt ekstra lime.
+
+### Notater
+
+- **Kjernetemperatur 55–60 °C** gir en rosa, medium lammecarré. Juster ned mot 55 °C for mer rosa/medium rare, opp mot 60 °C for jevnere gjennomstekt kjøtt.
+- **Shrimp paste (rekepasta/kapi)** kan være vanskelig å finne i vanlige norske butikker – asiatiske matbutikker fører den vanligvis. Den gir en dypere, mer fermentert smak enn fiskesaus alene, og bør ikke droppes uten videre.
+- **Ingen porsjonsangivelse i kilden** – ett rack lammecarré (8–10 ribber) deler seg naturlig i 2–4 porsjoner avhengig av tilbehør og appetitt.
+- **Retten kalles panang curry av kilden**, men brukes her som saus til lam i stedet for den mer vanlige biffen eller kyllingen – smaksprofilen (peanøtt, kaffirlime, galangal, kokos) er likevel tro mot panang-tradisjonen. Sammenlign med [78. Panang curry med svinefilet](#78-panang-curry-med-svinefilet).
+
+## 213. Kyllingbowl med quinoasalat og ingefærdipp
+
+**Kilde:** @fysenpaa (Instagram, 8. august 2026) · **Kjøkken:** Thai-inspirert · **Tid:** ca. 1 t + marinering (helst over natten) · **Porsjoner:** 2–3 *(ikke oppgitt i kilden)*
+
+Frisk sensommerbowl med ovnsbakte, marinerte kyllinglår, kald quinoasalat med urter og cashewnøtter, og en sterk ingefær-fiskesausdipp som helles over rett før servering.
+
+### Ingredienser
+
+**Kylling**
+- 2 store kyllinglår
+- 4 fedd hvitløk, revet
+- 2 ts hvit pepper
+- 4 ss fiskesaus
+- 2 ss østerssaus
+- 2 ss soyasaus
+- 2 ts sukker
+- 2 ss nøytral olje
+
+**Ingefærdipp**
+- 1 thai chili, uten frø
+- 1 knoll ingefær, grovhakket
+- 3 fedd hvitløk, grovhakket
+- 2 ss thai fiskesaus
+- Saften av 1 lime
+- 3 ss sukker
+
+**Quinoasalat**
+- 200 g quinoa
+- 1 agurk, i tynne skiver
+- 1 liten sjalottløk, i tynne skiver
+- ½ bunt koriander
+- ½ bunt mynte
+- 1 håndfull ristede cashewnøtter, pluss ekstra til topping
+- 2 ss limejuice
+- 1 ts sukker
+- Salt, etter smak
+
+### Fremgangsmåte
+
+1. **Kyllingmarinade:** Riv hvitløken i en bolle og bland med fiskesaus, østerssaus, soyasaus, hvit pepper, sukker og olje. Vend kyllingen inn i marinaden og la den trekke i et par timer, helst over natten.
+2. **Quinoasalat:** Kok quinoaen etter anvisning på pakken og avkjøl. Bland med agurk, sjalottløk, koriander, mynte, limejuice og sukker, smak til med salt, og vend inn en håndfull ristede cashewnøtter.
+3. **Ingefærdipp:** Ha chili, ingefær og hvitløk i en morter og bank til en jevn røre. Tilsett fiskesaus, limejuice og sukker, og rør til sukkeret er oppløst.
+4. **Stek kyllingen:** Legg kyllinglårene i en ildfast form og stek på 210 °C i 30–35 minutter, til de er gjennomstekt og skinnet er gyllent.
+5. **Sett sammen bowlen:** Legg quinoasalaten på et fat, topp med kyllingen, hell over ingefærdippen, og avslutt med ekstra ristede cashewnøtter.
+
+### Notater
+
+- **Kyllingen legges rett i en ildfast form** uten rist – noe fett og marinade samler seg i bunnen, som du kan helle over kyllingen ved servering om ønskelig.
+- **Bruk hvit pepper**, ikke sort – kilden spesifiserer dette i fremgangsmåten selv om ingredienslisten bare sier "pepper". Hvit pepper gir en mildere, mer thai-typisk skarphet.
+- **Ingen porsjonsangivelse i kilden** – 2 store kyllinglår med tilbehør regnes som 2–3 porsjoner.
+- **Marineringstid "et par timer, helst over natten"** – dette er en lang marinering for kun 2 kyllinglår; jo lenger, jo mer smak trekker inn i kjøttet.
+## 214. Chicken cashew
+
+**Kilde:** @fysenpaa (Instagram, annonse for @kikkoman_norge, 4. mars 2026) · **Kjøkken:** Kinesisk-amerikansk · **Tid:** under 20 min (+ 10 min marinering) · **Porsjoner:** 2–3
+
+Saftig kylling med sprø cashewnøtter i en søt-salt soya-/østerssaus – en rask kinesisk klassiker kilden lager på under 20 minutter. Laget i samarbeid med Kikkoman: den originale soyasausen med rød kork og teriyakisausen med sesam kombineres for maks umami med mindre saltsmak enn kun soya.
+
+### Ingredienser
+
+**Saus**
+- 2 ss Kikkoman klassisk soyasaus (rød kork)
+- 2 ss Kikkoman teriyaki (med sesam)
+- 1 ss maizena
+- 2 ss østerssaus
+- 1 ss brunt sukker
+- 2 ts sesamolje
+- Nøytral olje til steking
+
+**Wok**
+- 500 g lårfilet av kylling, uten skinn og bein, i biter
+- 2 ss nøytral olje
+- 2 fedd hvitløk, finhakket
+- ½ løk, i grove biter
+- 1 pakke brokkolini, grovhakket
+- 1,5 dl ristede cashewnøtter
+
+### Fremgangsmåte
+
+1. **Lag sausen.** Bland maizena og soyasaus til en jevn røre. Rør så inn teriyakisaus, østerssaus, brunt sukker og sesamolje.
+2. **Marinér kyllingen.** Ta ca. 4 ss av sausen og bland med kyllingen. La marinere i minst 10 minutter.
+3. **Fres aromaene.** Varm en panne på medium høy varme. Ha i stekeolje og fres hvitløk og løk i ca. 1 minutt.
+4. **Stek kyllingen.** Tilsett kyllingen og stek til den er gyllen, ca. 10–15 minutter.
+5. **Ha i grønnsaker og resten av sausen.** Tilsett brokkolini og resten av sausen. Bland til alt er dekket av sausen.
+6. **Avslutt med cashewnøtter.** Vend inn cashewnøttene, ta av varmen og server med ris.
+
+### Notater
+
+- **Sponset innhold:** dette er en annonse for Kikkoman-produkter (@kikkoman_norge). Kilden anbefaler den originale rødkork-soyasausen kombinert med teriyakisausen (grønn kork) for maksimal umami uten for mye saltsmak – bruk den soyasausen du har for hånden hvis merket ikke er tilgjengelig.
+- **Brokkolini** kan erstattes med vanlig brokkoli delt i mindre buketter, eller sukkererter, hvis det ikke er tilgjengelig.
+- **Cashewnøttene tilsettes helt til slutt**, av varmen, slik at de beholder sprøheten i stedet for å bli myke av sausen.
+
+## 215. Pasta med shortrib-ragu (miso-soya)
+
+**Kilde:** @fysenpaa (Instagram) · **Kjøkken:** Italiensk-japansk fusjon · **Tid:** ca. 4½ t · **Porsjoner:** ca. 6
+
+En langtidsbraisert shortrib-ragu krydret med miso, soyasaus og mirin i stedet for den klassiske tomatbasen – servert med bred pasta og rikelig med parmesan.
+
+### Ingredienser
+
+- 2 kg shortribs
+- 1 stor løk, finhakket
+- 5 fedd hvitløk, finhakket
+- 1,5 ss ingefær, finhakket
+- 3 ss lys miso
+- 2 ss soyasaus
+- 3 ss mirin
+- 6 dl oksekraft + vann for å nesten dekke kjøttet
+- 2–3 ss nøytral olje
+- Salt og pepper
+
+**Til servering**
+- 800 g pasta (pappardelle, tagliatelle eller rigatoni)
+- Finrevet parmesan
+
+### Fremgangsmåte
+
+1. **Brun kjøttet.** Krydre shortribs lett med salt. Brun kjøttet godt i omganger i en stor gryte med olje. Ta ut kjøttet.
+2. **Fres aromaene.** Fres finhakket løk i samme gryte til den er myk og lett gyllen. Tilsett finhakket hvitløk og ingefær, fres i 1 minutt.
+3. **Bygg sausen.** Skru varmen ned til lav. Rør inn miso til den smelter. Tilsett soyasaus og mirin, og rør i 1–2 minutter.
+4. **Braisér.** Legg kjøttet tilbake i gryta. Hell over oksekraft og litt vann, akkurat nok til at kjøttet nesten er dekket. Kok opp, skru ned varmen og sett lokket litt på gløtt. La raguen trekke på lav varme i 3–4 timer, til kjøttet er helt mørt.
+5. **Riv kjøttet og smak til.** Ta kjøttet ut av gryta. Fjern bein og sener, og riv kjøttet grovt. Skum av overflødig fett fra sausen. Smak til med riseddik, ekstra miso og salt – kilden brukte 1 ss riseddik og 1 ts miso. Bland kjøttet tilbake i sausen når smaken sitter – raguen er klar.
+6. **Kok pasta og vend i raguen.** Kok pastaen i godt saltet vann. Vend pastaen rett i raguen sammen med litt pastavann, til alt er saftig og samlet.
+
+### Notater
+
+- **Nok til cirka seks personer**, ifølge kilden.
+- **Umami-basen (miso, soya, mirin) erstatter den klassiske tomatbunnen** man ellers finner i italiensk oksehale-/shortribragu – gir en dypere, rundere smak uten syrligheten fra tomat.
+- **Smak til på slutten er ikke valgfritt** – kilden understreker at riseddik, ekstra miso og salt tilsettes helt til slutt for å få sausen i balanse, ikke underveis i braiseringen.
+- **Sammenlign med:** [65. Langtidskokt oksragù](#65-langtidskokt-oksragù) og [73. Tagliatelle al Ragù](#73-tagliatelle-al-ragù) for de mer tradisjonelle, tomatbaserte variantene.
+## 216. Fried rice med marinert kylling
+
+**Kilde:** @fysenpaa (Instagram, annonse for @kikkoman_norge, 22. januar 2026) · **Kjøkken:** Kinesisk-amerikansk · **Tid:** under 20 min (+ marineringstid) · **Porsjoner:** 2–3
+
+Sunn og enkel hverdagsrett kilden lager på under 20 minutter – i denne versjonen er kyllingen marinert i Kikkoman soyasaus og ponzu for ekstra dybde før den stekes sammen med kald ris.
+
+### Ingredienser
+
+**Kylling og marinade**
+- 400 g kyllinglårfilet, i strimler
+- 2 ss Kikkoman soyasaus med mindre salt (grønn kork)
+- 2 ss Kikkoman ponzu
+- 1 ss østerssaus
+- 1 ss honning eller 1 ss brunt sukker
+- 1 ss maisenna
+
+**Stekt ris**
+- 500 g kald ris (gjerne rester/gårsdagens)
+- 3 fedd hvitløk, finhakket
+- 1 sjalottløk, finhakket
+- 2 stilker vårløk
+- 3 egg
+- 4 ss Kikkoman soyasaus med mindre salt (grønn kork)
+- 2 ss Kikkoman ponzu
+- 1 ss østerssaus
+- 2 ts nøytral olje
+
+### Fremgangsmåte
+
+1. **Lag marinaden.** Rør Kikkoman soyasaus, Kikkoman ponzu, østerssaus, honning/brunt sukker og maisenna til sukkeret/honningen er oppløst og alt er blandet.
+2. **Marinér kyllingen.** Skjær kyllingen i strimler og legg den i marinaden mens du lager resten av retten.
+3. **Fres aromaene.** Finhakk hvitløk og sjalottløk. Varm olje i en stekepanne på medium varme. Når oljen er varm, ha i hvitløk og sjalottløk.
+4. **Stek kyllingen** til den er gjennomstekt.
+5. **Lag eggerøren.** Skyv alt til den ene siden av pannen. Knekk eggene i den andre siden – la stå urørt i 20–30 sekunder, rør til eggerøre og vend alt sammen.
+6. **Ha i risen** og deretter soyasaus, østerssaus og ponzu. Stek til alt er jevnt og har fått litt farge. Bruk gjerne kald, løs ris (helst rester fra dagen før) – det gir best resultat.
+7. **Avslutt med vårløk.**
+
+### Notater
+
+- **Sponset innhold:** dette er en annonse for Kikkoman-produkter (@kikkoman_norge). Kilden anbefaler soyasaus med mindre salt (grønn kork) i marinaden for å styre saltnivået, og kombinerer den med ponzu for syre og umami.
+- **Kald, dagen-gammel ris er nøkkelen** til god stekt ris – ferskkokt, varm ris blir klissete i pannen. Kok gjerne ris kvelden før.
+- **Sammenlign med:** [84. Stekt ris med egg (egg fried rice)](#84-stekt-ris-med-egg-egg-fried-rice) for en enklere versjon uten marinert kylling.
+## 217. Char siu-marinert grillkylling med sesam-sobasalat
+
+**Kilde:** @fysenpaa (Instagram, 19. juni 2025) · **Kjøkken:** Kantonesisk-inspirert · **Tid:** ca. 30 min aktivt + 1 times marinering (helst over natten) · **Porsjoner:** 4
+
+Kyllinglårfileter marinert i en søt char siu-inspirert marinade med hoisin, five spice og shaoxing-vin, grillet med en innkokt glaze, og servert med en kald, sesamdressa sobanudelsalat. Kilden bruker taggene #charsiu og #grill.
+
+### Ingredienser
+
+**Kylling og marinade**
+- 1 kg kyllinglårfilet
+- 1 dl honning
+- 1 dl hoisinsaus
+- 4 ss lys soyasaus
+- 2 ss mørk soyasaus
+- 2 ss shaoxing-vin (kan sløyfes)
+- 6 fedd hvitløk, revet
+- 6 ts five spice
+- 3 ss brunt sukker
+
+**Sesam-sobasalat**
+- 1 pakke sobanudler
+- 2 ss lys soyasaus
+- 1 ss mørk soyasaus
+- 1 ss honning
+- 2 ss østerssaus
+- 1 ts sesamolje
+- 1 agurk, i skiver
+- 1 pakke koriander, grovhakket
+- 3 stilker vårløk, finhakket
+- 1 rødløk, i tynne skiver
+
+### Fremgangsmåte
+
+**Kylling**
+1. Bland honning, hoisin, lys soyasaus, mørk soyasaus, shaoxing-vin, hvitløk, five spice og brunt sukker i en stor bolle. Rør godt til alt er jevnt blandet.
+2. Hell halvparten av marinaden i en ren beholder og sett kaldt til senere bruk.
+3. Legg lårfiletene i resten av marinaden og sørg for at de er godt dekket. La filetene marinere i minst 1 time – aller helst over natten.
+4. Før du skal starte å grille eller steke kyllingen, tar du frem den delen av marinaden du satte til side. Hell den i en liten kjele. Kok opp og la det småkoke i 5–7 minutter til den tykner og får en glaze-konsistens.
+5. Forvarm grillen til medium varme. Stek kyllingen direkte over varmen og snu hvert femte minutt mens du pensler med glazen, til kyllingen er gjennomstekt og har en gyllen, klissete overflate.
+
+**Sesam-sobasalat**
+1. Kok sobanudlene i henhold til instruksjonene på pakken. Skyll dem i kaldt vann for å stoppe kokingen, og sett til side. Bland gjerne nudlene med litt sesamolje – dette forhindrer at de klebrer seg sammen.
+2. Bland lys soyasaus, mørk soyasaus, honning, østerssaus og sesamolje i en liten bolle. Rør godt sammen til honningen er helt oppløst.
+3. I en stor bolle blander du nudlene med grønnsakene. Hell over dressingen og bland godt.
+
+### Notater
+
+- **Halvparten av marinaden holdes alltid unna rå kylling** og brukes som glaze – dette er viktig av mattrygghetshensyn; ikke pensle med marinade som har vært i kontakt med rått kjøtt uten å koke den opp først.
+- **Shaoxing-vin kan sløyfes** helt uten stor endring i resultatet, ifølge kilden.
+- **Sammenlign med:** [35. Char siu-kylling](#35-char-siu-kylling), som er den mer tradisjonelle, ovnsstekte versjonen av samme marinadeprofil.
+
+## 218. Entrecôte med umamisaus og pommes frites
+
+**Kilde:** @fysenpaa (Instagram, 29. mars 2025) · **Kjøkken:** Norsk-japansk fusjon · **Tid:** ca. 1 t 20 min · **Porsjoner:** 2
+
+Stekt entrecôte med en saus av karamellisert løk, mirin, soya og hvit miso – kilden kaller den «ei lita umamibombe» og trekker frem at man slipper å kokke og redusere i timevis for å få en saus som smaker mye. Serveres med hjemmelagde pommes frites dobbeltfritert etter klassisk metode.
+
+### Ingredienser
+
+**Entrecôte og saus**
+- 2 stk entrecôte
+- 3 ss smør
+- 1 stk løk, finhakket
+- 2 fedd hvitløk, finhakket
+- 0,5 dl mirin
+- 0,4 dl lys soyasaus
+- 1 ss mørk soyasaus
+- 1 ss hvit miso
+- 2 ss riseddik
+- 1 bunt kruspersille
+- Olje
+- Salt og pepper
+
+**Pommes frites**
+- 3 stk bakepoteter (eller andre kokefaste poteter)
+- Frityrolje
+- Salt
+
+### Fremgangsmåte
+
+**Saus og biff**
+1. Ha 2 ss smør i en panne på medium varme. La smøret smelte før du har oppi løk og hvitløk. La det karamellisere – det tar ca. 8 min.
+2. Skru opp varmen et hakk og ha i mirin, lys soya, mørk soya og miso. La sausen få tykne før du har i riseddik. Rør i ca. 1 min og ha sausen over i en bolle.
+3. Stek entrecôtene i olje på den ene siden til kjøttet har fått en god stekeskorpe. Vend biffen og stek til den har fått stekeskorpe også på denne siden. Skru ned varmen og ha 2 ss smør i pannen. Bruk en spiseskje til å øse smøret over biffen. Stek til medium rare.
+4. Fjern kjøttet fra pannen og ha det i løkblandingen, slik at sausen får smaken fra kjøttet.
+5. Skjær entrecôtene i skiver, hell sausen over og topp med hakket persille.
+
+**Pommes frites**
+1. Kutt potetene i strimler og legg dem i en stor kjele. Fyll på med kaldt vann og la potetene hvile i 10 minutter for å få bort stivelse.
+2. Hell av det kalde vannet og hell i nytt vann. La potetene småkoke til de er møre.
+3. Hell ut alt vannet, legg potetene på et stort stekebrett og la dem kvitte seg med damp. Sørg for at potetene ikke er fuktige før du går videre.
+4. Fyll en kjele med frityrolje. Når oljen er varm nok, friterer du potetene i flere omganger i ca. 5 minutter, slik at det ikke blir for mange fries i kjelen samtidig. Sett stekebrettet med potetene kaldt frem til rett før servering (minst 15 minutter).
+5. Rett før servering friterer du potetene igjen i omganger til de er gyldne og helt sprø. Legg i en bolle og salt.
+
+### Notater
+
+- **Doble frityr er nøkkelen til sprøhet.** Første runde koker potetene gjennom uten å ta farge, andre runde like før servering gir den sprø skorpen. Kilden presiserer at friesene godt kan være lysere i fargen enn på bildet – de ble fritert litt for lenge i originalvideoen.
+- **Kjøttet trekker smak fra sausen, ikke omvendt.** Biffen legges i løkblandingen etter steking (punkt 4), slik at sausen får kjøttsjy og stekesmør inn i seg før servering.
+- **Fettøsing («basting») med smør** i punkt 3 er samme teknikk som brukes i flere av samlingens andre biffretter – se [124. Steak Diane](#124-steak-diane).
+- **Ingen eksakt tidsangivelse oppgitt i kilden** – ca. 1 t 20 min er anslått ut fra kaldtvannsbløtlegging, koking og dobbel frityr av potetene, samt tilberedning av saus og kjøtt. *(Anslått.)*
+
+## 219. Bang bang-kylling
+
+**Kilde:** @fysenpaa (Instagram, 5. april 2025) · **Kjøkken:** Kinesisk (Sichuan) · **Tid:** ca. 1 t · **Porsjoner:** 2
+
+Posjert kyllinglår i strimler over agurkskiver, med en saus av tahini, peanøttsmør, honning og chiliolje, og et sprøstekt kyllingskinn på toppen. Kilden er kort og godt: «Altså, denne sausen. Forsyn deg.»
+
+### Ingredienser
+
+**Kylling**
+- 4 stk kyllinglårfileter med skinn
+- 5 skiver ingefær
+- 3 stilker vårløk
+- 3 ts salt
+- 1 stk agurk
+
+**Saus**
+- 3 ss tahini
+- 1 ss peanøttsmør, fint
+- 2 ss honning
+- 1 stk hvitløksfedd, revet
+- 1 ts ingefær, revet
+- 2 ss lys soyasaus
+- 2 ss riseddik
+- 1 ss chiliolje (smak til)
+
+**Topping**
+- Finhakket vårløk
+- Koriander
+- Sesamfrø
+
+### Fremgangsmåte
+
+1. Ha ingefær, vårløk og salt i en kjele med vann. Gi det et lett oppkok.
+2. Fjern skinnet fra kyllinglårene og legg det mellom to bakepapir på et stekebrett. Ha noe med litt tyngde over. Stek i ovnen på 200 °C til skinnet blir crispy (ca. 30 minutter).
+3. Senk temperaturen i kjelen og la kyllinglårene posjere i ca. 25 minutter, avhengig av størrelsen på lårene. Sjekk om kyllingen er ferdig med en kniv. Ta lårene ut av kjelen og skjær, riv eller bank kjøttet i strimler.
+4. Bland alle sausingrediensene sammen og smak til med chiliolje.
+5. Legg agurk i skiver på en tallerken, topp med kyllingen, sausen, vårløk og koriander. Avslutt med det sprøstekte kyllingskinnet og sesamfrø.
+
+### Notater
+
+- **Ikke oppgitt saltmengde til posjeringsvannet** utover de 3 ts i ingrediens­listen – dette er kraften kyllingen trekkes i, ikke tilsatt sausen.
+- **Kyllingskinnet stekes separat og sprøstekes** mens kjøttet posjeres – to prosesser som går parallelt, se punkt 2–3.
+- **Chilioljen doseres etter smak.** 1 ss er utgangspunktet i kilden, men sausen kan justeres opp for mer styrke.
+- **Beslektet:** samme prinsipp med posjert kylling og en nøttebasert saus finnes i [85. Larb gai](#85-larb-gai--laotisk-thailandsk-kyllingsalat), men med et helt annet smaksbilde.
+
+
 
 
 
@@ -12111,6 +12573,74 @@ Fiskefarse fra bunnen i foodprosessor: fisk og salt først, så krydder, potetme
 - **Samme farse, tre retter.** *Fiskepudding:* fyll en smurt brødform, bank ut luftlommene, sett i vannbad og stek på **125 °C i 40–45 minutter**. *Fiskeboller:* form med skje eller sprøytepose i vann som så vidt bobler, og la dem trekke **5–10 minutter**. Kraften kan brukes til saus.
 - **Andre fiskeslag går fint** — sei, lyr, torsk, laks, steinbit. Feit fisk gir mykere farse.
 - **Beslektet:** [ertepuré (T136)](#t136-ertepuré) og [kokte poteter (T135)](#t135-kokte-poteter) er det klassiske tilbehøret sammen med brunet løk, og [kjøttkaker med kålstuing (nr. 195)](#195-kjøttkaker-med-kålstuing) er samme farseprinsipp på kjøtt.
+## SJ18. Rå laks med thai-dipp
+
+**Kilde:** @fysenpaa og @leroynorge (Instagram, betalt partnerskap, 21. september 2025) · **Kjøkken:** Norsk-thai · **Tid:** ca. 20 min · **Porsjoner:** forrett til 3–4
+
+Tynne skiver rå laks (Lerøy backloin) med en syrlig, søt-sterk thai-dressing av chili, hvitløk, fiskesaus, sukker og lime – toppet med sprø sjalottløk, vårløk og koriander.
+
+### Ingredienser
+
+**Laks**
+- 1 stk Lerøy backloin (eller annen sushi-/sashimikvalitet laksefilet)
+- 1 stilk vårløk, i tynne skiver
+- ½ bunt koriander
+- ½ sjalottløk, skåret syltynt (gjerne på mandolin)
+
+**Dipp**
+- 1 grønn chili (fjern frøene for en mildere dressing)
+- 2 fedd hvitløk
+- ½ bunt koriander
+- 4 ss thai fiskesaus
+- 4 ss sukker
+- 6 ss fersk limejuice
+
+### Fremgangsmåte
+
+1. **Skjær laksen i tynne skiver** og legg på et fat.
+2. **Lag dressingen.** Ha chili, halve korianderen og hvitløk i en morter. Knus til du får en jevn paste. Tilsett fiskesaus, sukker og limejuice. Rør til sukkeret er helt oppløst.
+3. **Bland toppingen.** Bland vårløk, sjalottløk og resten av korianderen. Vend inn ca. 2 ss av dressingen.
+4. **Server.** Hell resten av dressingen over laksen og topp med løk- og urteblandingen.
+
+### Notater
+
+- **Bruk sashimi-/sushikvalitet laks** som er ferskvarefrosset eller merket for rått konsum – vanlig butikklaks er ikke nødvendigvis trygg å spise rå. Lerøy backloin, som kilden bruker, er markedsført for nettopp dette formålet.
+- **Sponset innhold:** dette er et betalt partnerskap med @leroynorge om produktet Lerøy backloin.
+- **Fjern frøene i chilien** for en mildere dipp – med frø blir den betydelig sterkere.
+- **Sammenlign med:** [89. Miso-laks](#89-miso-laks) og [83. Honningglasert laks med hvitløk](#83-honningglasert-laks-med-hvitløk) for tilberedt laks med asiatiske smaker; denne er rå, i carpaccio-/ceviche-stil.
+## SJ19. Crudo med laks – kokos-miso-yuzu-dressing
+
+**Kilde:** @fysenpaa (Instagram, 28. august 2025) · **Kjøkken:** Norsk-japansk fusjon · **Tid:** ca. 15 min · **Porsjoner:** forrett til 2–3
+
+Tynne skiver rå laks (backloin) i en silt dressing av kokosmelk, hvit miso, soyasaus, honning og yuzu – en mildere, kremete kontrast til den mer syrlige thai-dippen i [SJ18](#sj18-rå-laks-med-thai-dipp). Toppet med koriander, vårløk og revet sitronskall.
+
+### Ingredienser
+
+- 200 g laks backloin (eller annen sashimikvalitet), i tynne skiver
+- ⅓ bunt koriander (hakket + noen blader til topping)
+- 2 stilker vårløk (den grønne delen i dressingen, den hvite delen i tynne skiver til topping)
+- 3 ss kokosmelk
+- 1 ts hvit miso
+- 1 ss soyasaus
+- 1 ss honning
+- 4 ss yuzu-sirup (kan erstattes med 2 ss limejuice + ekstra ss honning)
+- 1 ts fiskesaus
+- Sitronsaft, etter smak
+- Revet sitronskall
+
+### Fremgangsmåte
+
+1. **Skjær laksen i tynne skiver** og legg på et fat.
+2. **Lag dressingen.** Blend sammen kokosmelk, miso, soyasaus, honning, yuzu (eller lime) og fiskesaus til en glatt dressing. Smak til med sitronsaft – balansen skal være syrlig, salt og mildt søt. Sil dressingen og hell over laksen.
+3. **Topp** med koriander, vårløk og revet sitronskall.
+
+### Notater
+
+- **Bruk sashimi-/sushikvalitet laks**, tilsvarende [SJ18. Rå laks med thai-dipp](#sj18-rå-laks-med-thai-dipp) – vanlig butikklaks er ikke nødvendigvis trygg å spise rå.
+- **Dressingen siles** for en glatt, jevn konsistens uten korianderbiter – ikke hopp over dette steget.
+- **Yuzu-sirup** kan være vanskelig å finne i vanlige norske butikker; asiatiske spesialbutikker eller nettbutikker fører den. Erstatningen med lime og ekstra honning gir en lignende søt-syrlig profil, men mangler yuzuens særegne aroma.
+
+
 
 ---
 
@@ -13666,6 +14196,75 @@ Røde linser som koker seg i oppløsning til suppa blir tykk av seg selv, med ky
 - **Sitronyoghurten er syren retten mangler.** Linser og karamellisert løk er søtt og jordaktig hele veien. Uten den friske toppen blir suppa tung. Ikke hopp over den, og ikke rør den inn i gryta — den skal ligge som et lag du blander inn selv.
 - **Kilden oppgir ikke antall porsjoner.** 1,9 liter vann, 450 g kylling og 290 g linser gir rikelig til seks. *(Anslått.)*
 - **Beslektet:** [vegetarisk linsegryte (SU13)](#su13-vegetarisk-linsegryte) er den kjøttfrie slektningen, [mujadara (nr. 175)](#175-mujadara) bruker samme karamelliserte løk som bærende smak, og [Hellstrøms grønne linser (T76)](#t76-hellstrøms-grønne-linser) viser hvordan linser oppfører seg når de skal holde formen.
+
+---
+
+## SU34. Kylling-phở
+
+**Kilde:** @fysenpaa (Instagram) · **Kjøkken:** Vietnamesisk · **Tid:** ca. 2 t · **Porsjoner:** 4
+
+Hjemmelaget kyllingkraft trukket med kanel, stjerneanis, nellik, kardemomme og fennikelfrø, servert med kylling i strimler, urter og en sterk ingefær-lime-dipp på siden. Kilden beskriver phở som en fast søndagstradisjon, og understreker at retten sjelden smaker helt likt fra gang til gang – det handler om å bruke det man har tilgjengelig, ikke om finpuss.
+
+### Ingredienser
+
+**Kylling og kraft**
+- 1 stk økologisk kylling
+- 1 stk løk
+- 1 stk hvitløk
+- 1 stor knoll ingefær
+- 1 kanelstang
+- 2 ts fennikelfrø
+- 2 ts korianderfrø
+- 6 stk hel kardemomme (eventuelt 1 ts kardemommekjerner)
+- 5 stk nellik
+- 5 stk stjerneanis
+- 10 ss fiskesaus
+- 2 mellomstore rock sugar/kandissukker (eller 2 ss sukker)
+- 3 liter vann
+
+**Kylling-dipp**
+- 1 stk medium knoll ingefær
+- 2 fedd hvitløk
+- 4 ss thai fiskesaus
+- 4 ss sukker
+- 6 ss lime
+
+**Til servering**
+- Risnudler
+- Bønnespirer
+- Thaibasil
+- Koriander
+- Lime, i båter
+
+### Fremgangsmåte
+
+**Kraft**
+1. Del løken i to, skjær ingefæren i grove skiver og del hvitløken i to på tvers.
+2. Brun løken, ingefæren og hvitløken på panne på høy varme for å få ut aromaene.
+3. Varm kanelstang, fennikelfrø, korianderfrø, kardemommefrø, nellik og stjerneanis på panne til aromaene kommer ut.
+4. Ha tre liter vann i en stor gryte. Ha i kyllingen, løk, ingefær, hvitløk, alle krydderne, fiskesaus og sukker. La det få et raskt oppkok før du setter ned varmen og lar det putre i ca. 30–40 min til kyllingen er klar – den skal ha en kjernetemperatur på rundt 65 °C.
+5. Ta ut kyllingen og la den kjøle seg litt ned.
+6. Rens kyllingen og legg beina tilbake i kraften.
+7. La kraften putre i 1 time til.
+8. Smak til med fiskesaus helt til slutt – du kan også smake til med fiskesaus når du spiser.
+9. Sil kraften, og suppen er klar.
+
+**Kylling-dipp**
+1. Mos ingefær, hvitløk, fiskesaus, sukker og lime i en morter til du har en jevn masse. Eventuelt kan du finhakke eller kjøre alt i en kjøkkenmaskin.
+
+**Servering**
+1. Ta det rensede kyllingkjøttet i strimler og fordel i skåler sammen med kokte risnudler.
+2. Øs varm kraft over, og topp med bønnespirer, thaibasil og koriander. Server med limebåter ved siden av.
+3. Server kylling-dippen ved siden av.
+
+### Notater
+
+- **Gurkemeie er valgfritt.** Kilden hadde i «litt gurkemeie for fargens skyld» i kraften, men presiserer at det ikke er nødvendig for smaken.
+- **Hvitløken brunes hel/halvert sammen med løk og ingefær**, og trekkes ut igjen med resten av grønnsakene før kraften siles – samme prinsipp som ingefæren, ikke finhakket inn i kraften.
+- **Korianderfrø, ikke korianderpulver.** Kildens egen handleliste bekrefter hele korianderfrø kjøpt sammen med de andre hele krydderne (kanel, fennikel, kardemomme, nellik, stjerneanis), og de ristes sammen med disse i punkt 3.
+- **Kjernetemperatur på 65 °C** for kyllingen i punkt 4 sikrer at den ikke blir overkokt før den trekkes videre i kraften i beina.
+- **Risnudler er ikke spesifisert med mengde i kilden** – bruk vanlige phở-nudler (banh pho) etter pakningens anvisning, tilpasset antall porsjoner.
+- **Beslektet:** samlingen har fra før [12. Kyllingpho](#12-kyllingpho) og [15. Kyllingpho, Alissa Nguyen Won](#15-kyllingpho-alissa-nguyen-won) – denne varianten skiller seg med en egen ingefær-lime-dipp servert ved siden av kraften, i stedet for kun hoisin/sriracha på bordet.
 
 ---
 
@@ -18842,6 +19441,106 @@ Meksikansk gatemais laget i ovn i stedet for på grill. **Kolbene ristes med bla
 - **La dem kjøle litt før du smører.** Er de glovarme, smelter majonesen og renner av i stedet for å legge seg som et lag.
 - **Denne mot [ristet maisrøre med frossen feta (T49)](#t49-ristet-maisrøre-med-frossen-feta):** samme smaksbilde — mais, syre, chili, salt ost — men T49 er *esquites*, altså korn i bolle med skje. Denne er elote på kolbe, som spises med hendene. T49 til taco-bordet, denne til grillmaten.
 - **Beslektet:** [sprø peruansk kylling med ají verde og maissalsa (nr. 147)](#147-sprø-peruansk-kylling-med-ají-verde-og-maissalsa) bruker mais i en tredje retning, og [guacamole (T47)](#t47-guacamole) hører til samme bord.
+## T143. Vietnamesisk chimichurri
+
+**Kilde:** @fysenpaa (Instagram, 20. juni 2026) · **Kjøkken:** Vietnamesisk · **Tid:** 10 min + 15–30 min trekketid · **Gir:** ca. 4 dl
+
+Frisk, salt-syrlig urtesaus til kjøtt – kildens "vietnamesiske" vri på den argentinske chimichurrien, bygget på fiskesaus, lime og sukker i stedet for olje, eddik og oregano. Del av en serie med ti sauser til kjøtt fra kilden; sammenlign med den klassiske originalen i [T14. Chimichurri](#t14-chimichurri).
+
+### Ingredienser
+
+- 4 vårløk, finhakket
+- 1 liten sjalottløk, finhakket
+- 1 bunt koriander, finhakket
+- 1 neve mynte, finhakket
+- 1 hvitløksfedd, revet
+- 1 rød chili, finhakket
+- 1,5 dl nøytral olje
+- 4 ss fiskesaus
+- 4 ss sukker
+- 6 ss ferskpresset limejuice
+
+### Fremgangsmåte
+
+1. **Bland fiskesaus, sukker og limejuice** i en liten bolle. Rør godt til sukkeret er helt oppløst.
+2. **Finhakk vårløk, sjalottløk, koriander, mynte og chili**, og riv hvitløken. Ha alt i en bolle.
+3. **Hell over blandingen** av fiskesaus, sukker og limejuice. Tilsett oljen og rør godt sammen.
+4. **La sausen stå i 15–30 minutter** før servering, slik at smakene får satt seg. Smak eventuelt til med litt ekstra limejuice eller fiskesaus.
+
+### Notater
+
+- **Testet på biff** (indrefilet i skiver) i kilden, som en av ti kjøttsauser i en serie.
+- **Ingen mengdeangivelse for kjøtt** i kilden – ut fra volumet (ca. 4 dl saus) passer den til 4–6 porsjoner kjøtt.
+- **Kilden anbefaler musserende eplemost** som drikke til – en frisk, syrlig match til den vietnamesiske smaksprofilen.
+
+## T144. Béarnaise med hvit miso (stavmikser-metode)
+
+**Kilde:** @fysenpaa (Instagram, 27. juni 2026) · **Kjøkken:** Fransk-japansk · **Tid:** ca. 30 min · **Gir:** ca. 4 porsjoner
+
+En béarnaise-variant med et skjeneste hvit miso ved siden av den klassiske estragonreduksjonen, emulgert med stavmikser rett i begeret i stedet for tradisjonell pisking over vannbad. Kilden mener metoden gjør det praktisk talt umulig for sausen å skille seg. Sammenlign med den klassiske versjonen i [T117. Hellstrøms béarnaisesaus](#t117-hellstrøms-béarnaisesaus).
+
+### Ingredienser
+
+- 1,2 dl tørr hvitvin
+- 0,6 dl hvitvinseddik
+- 1 stor sjalottløk, finhakket
+- 3–4 kvister estragon (stilker + noen blader til reduksjonen, resten finhakkes)
+- ½ ts hele sorte pepperkorn
+- 1 laurbærblad
+- 2 eggeplommer
+- 2 ts hvit miso
+- 180 g usaltet smør
+- Salt og nykvernet sort pepper
+
+### Fremgangsmåte
+
+1. **Lag reduksjonen.** Plukk av mesteparten av estragonbladene og finhakk dem – legg dem til side til senere. Ha estragonstilkene og noen av de resterende bladene i en liten kjele sammen med hvitvin, hvitvinseddik, sjalottløk, pepperkorn og laurbærblad. Kok inn til ca. 2 ss væske gjenstår. Sil reduksjonen og ha den over i et beger.
+2. **Klar smøret.** Smelt smøret på lav varme. La melkestoffene synke til bunnen, og bruk kun det klare smøret.
+3. **Tilsett eggeplommer og miso** i begeret med reduksjonen.
+4. **Emulger med stavmikser.** Sett stavmikseren helt ned i bunnen av begeret. Start stavmikseren og hell det klarnede smøret i en tynn, jevn stråle. Hold stavmikseren i ro de første sekundene. Når sausen har emulgert og blitt tykk, løfter du stavmikseren sakte opp gjennom sausen til alt er jevnt blandet.
+5. **Rør inn den finhakkede estragonen** og smak til med salt og nykvernet sort pepper.
+
+### Notater
+
+- **Klaret smør:** kun det klare, gule smøret brukes til emulgeringen – melkestoffene som synker til bunnen siles fra og kastes eller spares til noe annet.
+- **Hvit miso** gir umami og en mild, salt dybde ved siden av den klassiske estragon-syrligheten. Kilden: "Det er ingenting feil med originalen. Men så er det jo ingenting feil med miso heller."
+- **Stavmikser rett i begeret** er samme prinsipp som en "immersion blender-hollandaise" – den hurtige, kraftige emulgeringen gjør sausen langt mer stabil enn en håndpisket versjon.
+- **Uten estragon** blir dette i praksis en hollandaise – kilden til [T117](#t117-hellstrøms-béarnaisesaus) bekrefter samme prinsipp: utelat urtene, tilsett litt ekstra sitronsaft.
+## T145. Kandiserte jalapeños (Cowboy Candy)
+
+**Kilde:** Chili Pepper Madness / Mike Hultquist (chilipeppermadness.com, 12. juni 2026) · **Kjøkken:** Amerikansk · **Tid:** 15 min (+ gjerne 1 ukes modning i kjøleskap) · **Gir:** ca. 8,5 dl (tre halv-pint-glass)
+
+Populært kalt «cowboy candy» i USA – jalapeñoskiver trukket i en krydret sukkerlake til de blir møre, blanke og klissete-søte, med en touch av chilihete. Fungerer som et søtt-sterkt tilbehør til burgere, cream cheese, cornbread og cocktailer, ikke som en dessert i seg selv, til tross for at kilden kategoriserer den som det.
+
+### Ingredienser
+
+- 225 g jalapeños (ca. 10–12 middels store), i ¼-tommers skiver
+- 2 dl sukker
+- 1,2 dl eplecidereddik
+- 1 ts chilipulver (valgfritt)
+- ½ ts gurkemeiepulver
+- ½ ts malt ingefær
+
+### Fremgangsmåte
+
+1. **Skjær jalapeñoene** i ¼-tommers (ca. 6 mm) tykke ringer. Kjernen kan fjernes for en mildere variant, men kilden lar den være i.
+2. **Lag laken.** Rør sammen sukker, eddik og krydderne i en kjele. Kok opp, skru så ned til svak varme og la det småkoke til sukkeret er løst opp i en blank, seig lake.
+3. **Ha i jalapeñoene** og rør rundt slik at skivene blir jevnt dekket av laken.
+4. **La det småkoke i ca. 4 minutter.** Skivene mørkner litt etter hvert som de trekker til seg noe av sukkeret.
+5. **Fyll rene glass** med jalapeñoskivene, og hell deretter resten av den kokende laken over. Du kan la laken avkjøles litt først om du ønsker.
+6. **Sett kaldt.** Dekk til og oppbevar i kjøleskapet i inntil 3 måneder. De kan spises med en gang, men smaken utvikler seg best etter minst 1 uke i kjøleskapet.
+
+### Notater
+
+- **Bruk hansker** når du skjærer jalapeños – oljene kan gi svie på huden, spesielt hvis du er følsom.
+- **Mesteparten av styrken sitter i kjernen og hinnene.** Fjern disse før skjæring for en betydelig mildere variant.
+- **Laken er tynn og rennende mens den er varm** – det er normalt, ikke et tegn på feil. Skivene kandiseres etter hvert som de trekker og kjøles ned.
+- **Restlake er gull verdt:** bruk den i cocktailer (spesielt margarita), til å pensle grillet kylling, i vinaigrette, eller helt over cornbread.
+- **Kun kjøleskapsoppbevaring – ikke syltet for hylleoppbevaring.** Skal de vare i romtemperatur i spiskammeret, må de vannbadkokes etter en egen, syretestet oppskrift (se f.eks. National Center for Home Food Preservation) – ikke bruk denne oppskriften direkte til det, siden syrebalansen ikke er verifisert for trygg hylleoppbevaring.
+- **Fungerer med andre chilier:** kilden trekker frem habanero for en kraftigere variant, og at større chilier (som poblano) bør kuttes i mindre biter i stedet for ringer.
+- **Næringsinnhold per porsjon (av 12):** 80 kcal, 19 g karbohydrater, 18 g sukker, 1 g fiber.
+
+
 
 ---
 
@@ -20947,6 +21646,333 @@ Char siu-smakene — hoisin, honning, fem kryddere, Shaoxing — kokt inn i kjø
 - **Salt til slutt, ikke før.** Soyasaus, hoisin og fiskesaus tar med seg mye salt hver for seg. Smak før du tilsetter noe.
 - **Den grønne delen av vårløken går i etter varmen.** Den skal være frisk mot det søte og salte, og blir grå av å koke.
 - **Beslektet:** [char siu-kylling (nr. 35)](#35-char-siu-kylling) er samme smaksbilde på hel kylling, [Filips stekte bao-dumplings (nr. 18)](#18-filips-stekte-bao-dumplings) fylles rå og stekes, og [Hellstrøms bao-deig (G11)](#g11-hellstrøms-bao-deig) er deigen. Se også de øvrige bao-fyllene: [braisert svinesideflesk (S35)](#s35-gua-bao--braisert-svinesideflesk) og [med sprø kylling (S36)](#s36-bao-fyll-med-sprø-kylling).
+## S38. Lammedumplings med sitrusdipp
+
+**Kilde:** @fysenpaa (Instagram) · **Kjøkken:** Kinesisk-japansk fusjon (påskelam) · **Tid:** ca. 2 t (inkl. hviletid for deigen) · **Gir:** 40 dumplings
+
+Kildens vri på påskelammet: dumplings med lammedeig, five spice og østerssaus, brettet i hjemmelagde wrappers og stekt på gyoza-vis (brunes i panne, dampes med vann under lokk). Serveres med en syrlig sitrusdipp med yuzu.
+
+### Ingredienser
+
+**Dumplingdeig**
+- 370 g hvetemel
+- 2,2 dl kokende vann
+- 1 ts salt
+
+*(Kan erstattes med 40 kjøpte dumpling-/gyozaskinn fra frysedisken på asiatiske matbutikker.)*
+
+**Dumplingfyll**
+- 500 g lammedeig
+- ½ bunt gressløk, finhakket
+- 2 ss østerssaus
+- 2 ss vanlig soyasaus
+- 1 ss mørk soyasaus
+- 1 ts five spice
+- 1 ts sukker
+- 1 ts pepper
+- 2 ts revet ingefær
+- 1 ss maisenna
+
+**Sitrusdipp**
+- 2 ss sake
+- 2 ss mirin
+- 2 ss riseddik
+- 3 ss soyasaus
+- 2 ss yuzu-sirup (kan erstattes med 2 ss limejuice og 1,5 ts honning)
+
+### Fremgangsmåte
+
+**Dumplingdeig**
+1. Bland mel og salt sammen i en bolle. Hell deretter kokvarmt vann i bollen og rør rundt med en sleiv til deigen er kald nok til å ta på.
+2. Kna deigen i rundt 10 minutter til den er glatt og fin. La den hvile 1 time i romtemperatur.
+3. Del deigen i fire like deler. Rull hver del til en lang pølse og del pølsen i ti biter. Press alle bitene flate til små pucker, og kjevle til dumplingwrapper. 40 stk totalt. Legg et vått tørkle over for å unngå at de tørker ut.
+
+**Dumplingfyll**
+1. Bland sammen alle ingrediensene til en jevn farse.
+
+**Sitrusdipp**
+1. Kok sake og mirin i et par minutter til alkoholen er fordampet.
+2. La blandingen kjøle seg litt ned før du blander inn resten av ingrediensene. Ha sausen i kjøleskapet frem til servering.
+
+**Bretting og steking**
+1. Fyll hver dumplingwrapper med en raus teskje fyll. Legg fyllet i midten.
+2. Brett dumplingen tett sammen. Ekstra digg om dumplingen har en liten «vulkanåpning» øverst, slik at sausen kommer seg inn ved servering.
+3. Legg de ferdigbrettede dumplingene på et brett med et vått kjøkkenhåndkle over, slik at de ikke tørker ut.
+4. Stek dem på medium varme i en panne til bunnen blir gyllen. Fyll deretter pannen med ca. 0,3 dl vann, og ha på lokk slik at det damper.
+5. Når vannet er fordampet og dumplingene er litt gjennomsiktige, er de ferdige.
+
+### Notater
+
+- **Teknikken er klassisk potsticker/gyoza-metode:** brunes tørt i panne først, dampes deretter med vann under lokk – det gir sprø bunn og myk, gjennomstekt topp.
+- **«Maisenna»** er maisstivelse (maizena) – bindes inn i farsen for en saftigere, mer sammenhengende konsistens.
+- **Yuzu-sirup** kan være vanskelig å oppdrive i vanlige norske butikker; asiatiske matbutikker eller nettbutikker fører den. Erstatningen med lime og honning gir en lignende søt-syrlig profil, men uten yuzuens karakteristiske aroma.
+- **Ingen eksakt dato oppgitt** for publisering i kilden – lagt inn under påskelam-temaet sammen med [212. Lammecarré med panang curry og urtetopping](#212-lammecarré-med-panang-curry-og-urtetopping).
+
+## S39. Vietnamesiske stekte vårruller (Saigon-stil) med dipp
+
+**Kilde:** @fysenpaa (Instagram, 4. februar 2026) · **Kjøkken:** Vietnamesisk · **Tid:** ca. 1 t 30 min (inkl. 1 times kjøling) · **Gir:** 15 vårruller
+
+Enkle, sprø vårruller av rispapir med svinekjøttfarse, akkurat slik kilden spiste dem i Saigon. Serveres med hjertesalat, ferske urter og en fiskesausbasert dipp.
+
+### Ingredienser
+
+**Vårruller**
+- 400 g svinekjøttdeig
+- 1 stor sjalottløk, finhakket
+- 2 fedd hvitløk, finhakket
+- 1 eggehvite
+- 1 ss fiskesaus
+- 1 ss østerssaus
+- 1 ss rapsolje
+- 1 ts sukker
+- 15 stk rispapir
+- Nøytral olje til frityrsteking
+
+**Dipp**
+- 5 ss fiskesaus
+- 4 ss riseddik
+- 4 ss limejuice
+- 5 fedd hvitløk, finhakket
+- 2 hele thai chili, finhakket
+- 5 ss sukker
+- 5 ss vann
+
+**Til servering**
+- Hjertesalat
+- Mynte, koriander og thai basilikum (eller andre urter etter ønske)
+
+### Fremgangsmåte
+
+**Farse og rulling**
+1. Finhakk sjalottløk og hvitløk. Bland svinekjøttdeig, sjalottløk, hvitløk, eggehvite, fiskesaus, østerssaus og rapsolje til en jevn farse.
+2. Fyll en dyp tallerken med vann. Dypp et ark rispapir raskt i vannet og legg det på en tørr tallerken. Legg litt farse i midten av rispapiret og brett tett sammen (som en tacolefse).
+3. Legg vårrullene på et brett og sett dem til tørk i kjøleskapet i om lag 1 time.
+
+**Steking**
+4. Varm rikelig med olje i en dyp panne. Oljen skal bli ca. 180 °C. Test om oljen er varm nok ved å føre en tresleiv eller spisepinne ned i oljen – bobler det rundt sleiven/pinnen, er oljen klar. Det skal være nok olje til at vårrullene blir dekket. Stek vårrullene til de er gylne og sprø, og svinekjøttdeigen er gjennomstekt – ca. 8–10 minutter.
+
+**Dipp**
+1. Finhakk hvitløk og chili.
+2. Bland fiskesaus, riseddik, limejuice, sukker og vann, og rør til sukkeret er oppløst. Ha i hvitløk og chili. Oppbevar i kjøleskap til servering.
+
+### Notater
+
+- **«Brett tett sammen som en tacolefse»** er kildens egen beskrivelse av rullingen – en enklere teknikk enn den tradisjonelle stramme vårrullerullingen, og gir en litt mer avlang, flat form.
+- **1 time i kjøleskapet før steking** er viktig – det gjør rispapiret mer stabilt og hindrer at rullene sprekker i den varme oljen.
+- **180 °C oljetemperatur** uten termometer: test med en tresleiv eller spisepinne – jevne bobler rundt betyr riktig temperatur.
+- **Ingen mengdeangivelse for salat/urter** i kilden – server rikelig, gjerne i en salatbladpakke rundt hver vårrull.
+## S40. Miso shortrib-dumplings med braisert kraft-dipp
+
+**Kilde:** @fysenpaa (Instagram, 16. oktober 2025) · **Kjøkken:** Kinesisk-japansk fusjon · **Tid:** ca. 5–6 t (inkl. braisering og hviletid for deigen) · **Gir:** 40 dumplings
+
+Mjuke, saftige dumplings fylt med langtidsbraisert shortrib i miso-, soya- og sakesaus – braiseringskraften reduseres og deles i to, halvparten blandes tilbake i kjøttet, halvparten spares som dipp. Samme dumplingdeig og steke-/dampeteknikk som [S38. Lammedumplings med sitrusdipp](#s38-lammedumplings-med-sitrusdipp).
+
+### Ingredienser
+
+**Shortrib-fyll og dipp**
+- 1,5 kg shortribs
+- Salt
+- 2 ss nøytral olje (raps/solsikke)
+- 2 ss hvit miso
+- 1 dl mørk soyasaus
+- 2 dl sake (evt. tørr hvitvin)
+- 5 dl oksekraft
+- 1,5 dl honning
+- 1 stjerneanis
+- 4 fedd hvitløk, knust
+- 1 bit ingefær (3–4 cm), skivet
+- 4 vårløk, grovt skivet
+
+**Dumplingdeig**
+- 370 g hvetemel
+- 2,5 dl kokende vann
+- 1 ts salt
+
+**Til servering**
+- Syltet rødløk
+
+### Fremgangsmåte
+
+**Shortrib-fyll og dipp**
+1. Tørk kjøttet godt og krydre med salt.
+2. Varm olje i en gryte og brun shortribs på alle sider. Ta ut kjøttet.
+3. Fres hvitløk, ingefær og vårløk i gryta i 2–3 minutter.
+4. Ha i sake, kok opp og skrap bunnen. Reduser i 1–2 minutter.
+5. Rør inn miso, soyasaus, honning og stjerneanis. Bland til honningen og misoen er oppløst.
+6. Legg kjøttet tilbake i gryta. Hell over kraft så det dekker kjøttet. Kok opp, dekk til og sett i ovnen på 150–160 °C i 3–4 timer, til kjøttet er mørt. Skum gjerne av litt fett halvveis i braiseringen, så blir sausen renere og mer konsentrert.
+7. Ta ut kjøttet forsiktig. Sil av væsken og reduser til en blank og litt tykk saus. Spar halvparten av sausen til dipp.
+8. Ha kjøttet tilbake i resten av sausen. Riv kjøttet med to gafler og bland godt.
+9. Sett kjøttet og dippen kaldt over natten. Varm opp sausen i vannbad før servering.
+
+**Dumplingdeig**
+1. Bland mel og salt sammen i en bolle. Hell deretter kokende vann i bollen og rør rundt med en sleiv til deigen er kald nok til å ta på.
+2. Kna deigen i rundt 10 minutter til den er glatt og fin. La den hvile 1 time i romtemperatur.
+3. Del deigen i fire like deler. Rull hver del til en lang pølse og del hver pølse i ti biter.
+4. Press alle bitene flate til små pucker, og kjevle til dumplingwrapper. 40 stk totalt. Legg et vått tørkle over for å unngå at de tørker ut.
+5. Fyll og brett dumplingene (se [S38](#s38-lammedumplings-med-sitrusdipp) for teknikk), med en raus teskje shortrib-fyll i hver.
+
+**Varmebehandling**
+- **Bambussteamer:** Legg dumplingene i bambussteameren og damp over kokende vann. De er klare når de blir litt gjennomsiktige.
+- **Stekepanne:** Stek på medium varme til bunnen er gyllen. Hell i ca. 0,3 dl vann, ha på lokk og damp til vannet er borte. Snu og stek andre siden.
+- Topp med syltet rødløk.
+
+### Notater
+
+- **Bretteinstruksjonen er ikke fullt fanget opp i kildeklippet** – teknikken antas å være den samme som i [S38. Lammedumplings med sitrusdipp](#s38-lammedumplings-med-sitrusdipp): fyll i midten av wrapperen, brett tett sammen, gjerne med en liten åpning øverst.
+- **Kjøtt og dipp lages gjerne dagen før** og settes kaldt over natten – smakene setter seg, og sausen varmes opp i vannbad rett før servering.
+- **To varmemetoder tilbys**: bambusdamping (mykere, tradisjonell) eller potsticker-metoden i panne (sprø bunn). Begge fungerer med samme fyll og deig.
+## S41. Moo Ping – grillspyd av svin med Nam Jim Jaew (crack-sauce)
+
+**Kilde:** @fysenpaa (Instagram) · **Kjøkken:** Thai · **Tid:** ca. 45 min aktivt + 2–3 timers marinering (helst over natten) · **Gir:** 4 porsjoner som forrett/tilbehør
+
+Thailandske grillspyd av marinert svinenakke (moo ping), servert med Nam Jim Jaew – en syrlig-søt tamarind- og fiskesausdipp kilden kaller «crack-sauce» – og en rask, syltet agurksalat. Kilden lagde denne rett etter hjemkomst fra Bangkok.
+
+### Ingredienser
+
+**Grillspyd**
+- 1 kg nakkekoteletter, i skiver
+- 4 fedd hvitløk, revet
+- ½ bunt koriander, finhakket
+- 2 ss brunt sukker
+- 2 ss fiskesaus
+- 2 ss soyasaus
+- 2 ss østerssaus
+- 1 ts bakepulver
+- 1,5 dl kokosmelk
+- Salt og pepper
+
+**Crack-sauce (Nam Jim Jaew)**
+- 5 ss fiskesaus
+- 3 ss limejuice
+- 3 ss tamarind-paste
+- 3–4 ss brunt sukker
+- 3 ss koriander, hakket
+- 2 ss vårløk, hakket
+- 2 ts rispulver (lages helst av hel sticky rice)
+- 1 sjalottløk, hakket
+
+**Syltet thaisalat**
+- 1 agurk, grovhakket
+- 2 sjalottløk, finhakket
+- ½ bunt koriander
+- 0,5 dl riseddik
+- 0,5 dl sukker
+- 1 ts salt
+
+### Fremgangsmåte
+
+**Grillspyd**
+1. Marinér nakkekotelett-skivene i revet hvitløk, finhakket koriander, brunt sukker, fiskesaus, soyasaus, østerssaus, kokosmelk, bakepulver, salt og pepper. La det stå i kjøleskapet i 2–3 timer, eller helst over natten.
+2. Tre kjøttet på grillspyd. Pensle med litt av marinaden og grill på høy varme i ca. 3–4 minutter per side, til kjøttet har fått gyllen farge og er gjennomstekt.
+3. Server med ris, crack-sausen og den syltede thaisalaten.
+
+**Crack-sauce**
+1. Lag rispulveret: stek 3 ts riskorn på middels varme til risen får en gyllen farge. Knus deretter til et fint pulver i en morter, eller blend det. Sett til side.
+2. Rør sammen limejuice, fiskesaus, tamarind-paste og brunt sukker i en bolle. Pass på at sukkeret er helt oppløst.
+3. Tilsett koriander, vårløk og sjalottløk, og topp med rispulveret.
+
+**Syltet thaisalat**
+1. Bland alt godt sammen og la det godgjøre seg i kjøleskapet frem til servering.
+
+### Notater
+
+- **Rispulver av stekt, knust ris (khao khua)** er det som gjenkjenner Nam Jim Jaew fra andre thailandske dippsauser – den gir en nøtteaktig, lett sprø struktur. Sticky rice gir tradisjonelt best resultat, men jasminris fungerer også.
+- **Ingen eksakt dato oppgitt** for publisering i skjermbildene som ble delt.
+- **Navnet «crack-sauce»** er kildens egen kallenavn for Nam Jim Jaew – ikke en offisiell thai-betegnelse, men beskrivende for hvor vanedannende den er.
+
+## S42. Dipp med burrata, olivenolje og urter
+
+**Kilde:** @fysenpaa (Instagram, 16. august 2025) · **Kjøkken:** Italiensk · **Tid:** 10 min · **Gir:** 1 fat som forrett
+
+En løs, «bland-etter-øyemål»-dipp av olivenolje, krema balsamico og friske urter, toppet med burrata og parmesan – kilden beskriver den som noe du kan «putte i din egen eller andre sin munn mens du venter på at middagen blir klar».
+
+### Ingredienser
+
+*(Ingen faste mengder oppgitt i kilden – bland så mye du vil av følgende på et fat med litt høye kanter:)*
+
+- Olivenolje
+- Krema balsamico
+- Fersk persille
+- Fersk oregano
+- Hvitløk
+- Sitronskall, revet
+- Parmesan, revet
+- Burrata, til topping (+ gjerne ekstra parmesan)
+
+### Fremgangsmåte
+
+1. Bland så mye du vil av olivenolje, krema balsamico, fersk persille, fersk oregano, hvitløk, sitronskall og parmesan på et fat med litt høye kanter.
+2. Topp med burrata, og gjerne enda mer parmesan.
+
+### Notater
+
+- **Ingen mengdeangivelser i kilden** – dette er en «smak deg frem»-oppskrift. Start med rikelig olivenolje som base, en skvett krema balsamico, og bygg videre med urter og hvitløk etter smak.
+- **Krema balsamico** er den tykke, sirupsaktige balsamicoen (balsamicokrem/-glasur), ikke vanlig balsamicoeddik.
+- **Server med** ristet brød, focaccia eller grissini for dipping.
+
+## S43. Pannestekte biffdumplings
+
+**Kilde:** @fysenpaa (Instagram) · **Kjøkken:** Kinesisk · **Tid:** ca. 2 t (inkl. hviletid på deigen) · **Gir:** 40 dumplings
+
+Pot stickers med kvernet høyrygg og kinesisk gressløk, pannestekt til gyllen bunn og dampet ferdig med vann under lokk. Kilden testet oksekjøtt for første gang etter å vanligvis ha brukt kylling, og konkluderer med at «det blir ikkje siste gang».
+
+### Ingredienser
+
+**Dumplingdeig**
+- 370 g hvetemel
+- 2,2 dl kokende vann
+- 1 ts salt
+
+**Dumplingfyll**
+- 800 g kvernet høyrygg (eventuelt kjøttdeig av høy kvalitet)
+- 1 bunt kinesisk gressløk eller vanlig gressløk, finhakket
+- 3 ss østerssaus
+- 3 ss soyasaus
+- 2 ss mørk soyasaus
+- 2 ts five spice
+- 2 ts sukker
+- 1 ts pepper
+- 2 ts ingefær, revet
+- 2 ts sesamolje
+- 1,5 ss maizena
+- 1 ts salt
+
+**Saus**
+- 6 ss soyasaus
+- 4 ss riseddik
+
+**Topping**
+- Vårløk
+- Syltet rødløk
+
+### Fremgangsmåte
+
+**Deig**
+1. Bland mel og salt i en bolle. Hell deretter kokende vann i bollen og rør rundt med en sleiv til deigen er kald nok til å ta på.
+2. Kna deigen i rundt 10 minutter til den er glatt og fin. La den hvile 1 time i romtemperatur.
+3. Del deigen i fire like deler. Rull hver av delene til lange pølser og del hver pølse i ti deler. Press alle delene flate til små pucker, og kjevle til dumplingwrappers – 40 stk totalt. Legg et vått tørkle over for å unngå at de tørker ut.
+
+**Fyll**
+1. Bland sammen alle ingrediensene til fyllet.
+
+**Saus**
+1. Bland soyasaus og riseddik sammen.
+
+**Bretting og steking**
+1. Fyll hver dumplingwrapper med en raus teskje fyll. Legg fyllet i midten.
+2. Brett dumplingen til en halvmåneform med rynkete kant. Ekstra fint om dumplingen får en liten åpning øverst, slik at sausen senere kan trekke inn.
+3. Legg de ferdigbrettede dumplingene på et brett med et vått kjøkkenhåndkle over, slik at de ikke tørker ut.
+4. Stek dem på medium varme i en panne til bunnen blir gyllen. Fyll deretter pannen med ca. 0,3 dl vann og legg på lokk slik at de dampes ferdig.
+5. Når vannet er fordampet, snur du dumplingene og steker den andre siden til den også er gyllen.
+6. Topp med vårløk, syltet rødløk og sausen.
+
+### Notater
+
+- **Åpningen øverst i dumplingen** er et bevisst grep fra kilden – slik trekker sausen inn i dumplingen når den helles over, i stedet for å bare ligge rundt.
+- **Vannet i steke-trinnet** gjør at dumplingene både stekes og dampes samtidig (samme prinsipp som «potstickers») – bunnen blir sprø mens fyllet dampes gjennomkokt.
+- **Ingen eksakt tidsangivelse oppgitt i kilden** – ca. 2 timer er anslått ut fra 1 times deighvile pluss aktiv tid til fyll, bretting og steking. *(Anslått.)*
+- **Beslektet:** samlingen har flere dumplingoppskrifter med kylling og lam – se [S5. Kyllingdumplings](#s5-kyllingdumplings) og [S38. Lammedumplings med sitrusdipp](#s38-lammedumplings-med-sitrusdipp) – dette er den første med storfekjøtt.
+
 
 ---
 
@@ -22456,6 +23482,75 @@ Usteikt ostekake i springform, med hjemmelaget saltkaramell helt over. Fløten p
 - **Karamellen er i praksis samme oppskrift som [T123](#t123-saltkaramellsaus)** – lag dobbel porsjon om du vil ha til overs.
 - **Holdbarhet:** 3 døgn i kjøleskap. Tåler ikke frysing – uten gelatin slipper fyllet vann ved tining.
 - **Beslektet:** [mini-ostekaker med Biscoff (D32)](#d32-mini-ostekaker-med-biscoff), [Biscoff-ostekake (D33)](#d33-biscoff-ostekake), [ostekake i matboks (D7)](#d7-ostekake-i-matboks), [ostekake med hvit sjokolade og bringebær (D8)](#d8-ostekake-med-hvit-sjokolade-og-bringebær) og [ostekake med rabarbra og jordbær (D12)](#d12-ostekake-med-rabarbra-og-jordbær) er samlingens øvrige ostekaker.
+
+## D35. Baskisk ostekake med hvit sjokolade og kirsebærkompott
+
+**Kilde:** @fysenpaa (Instagram, 26. april 2025), kaken opprinnelig via @alexinaanatole · **Kjøkken:** Baskisk-inspirert · **Tid:** ca. 1 t aktiv tid + natten over i kjøleskap · **Porsjoner:** 10–12
+
+Baskisk-stil ostekake (brent topp, myk og «jiggly» midt i) smeltet med hvit sjokolade, servert med en enkel kirsebærkompott. Kilden lette etter en gjenskapelse av en ostekake spist på restaurant Lola i Bergen, og krediterer @alexinaanatole for selve kakeoppskriften.
+
+### Ingredienser
+
+**Ostekake**
+- 180 g hvit sjokolade, finhakket
+- 3,6 dl kremfløte
+- 800 g kremost
+- 100 g rømme
+- 140 g finkornet sukker (eventuelt vanlig sukker)
+- 4 stk egg
+- 40 g maisenna
+- 3 ts vaniljepaste
+- 2 ts sitronsaft
+
+**Kirsebærkompott**
+- Frosne kirsebær
+- Sitronsaft, en skvis
+- Sukker, etter smak
+- Maisenna (valgfritt, for tykkere konsistens)
+
+**Tindvedsaus** *(velg denne eller brunostsausen)*
+- 2 dl tindvedjuice
+- 60 g sukker (smak deg fram)
+- 1 ts maisenna
+- 1–2 ss vann
+
+**Brunostsaus** *(velg denne eller tindvedsausen)*
+- 100 g brunost
+- 1 dl kremfløte
+- 1–2 ss sukker (etter smak)
+- En liten klype salt
+
+### Fremgangsmåte
+
+**Ostekake**
+1. Forvarm ovnen til 240 °C. Kle en rund springform (20 cm) med et stort stykke bakepapir, også i sidene.
+2. Ha den finhakkede hvite sjokoladen i en bolle. Varm kremfløten forsiktig i en kjele til den er varm, og hell den over sjokoladen. Rør til sjokoladen er helt smeltet og blandingen er glatt. Sett til side for å avkjøles litt.
+3. Visp kremost og rømme raskt sammen i en stor bolle til det er jevnt og glatt. Tilsett sukker og visp til det er oppløst. Visp inn eggene, ett om gangen. Rør inn den avkjølte sjokoladeblandingen.
+4. Ha maisenna i en liten bolle. Tilsett 3–4 spiseskjeer av ostekakemassen og visp til det ikke er noen klumper. Visp denne blandingen sammen med resten av røren.
+5. Tilsett vaniljepaste og sitronsaft, og bland det godt inn med en slikkepott.
+6. Hell røren i formen og stek midt i ovnen til kaken har hevet seg, toppen er mørk og midten fortsatt er litt «jiggly» – for kilden tok dette 40 minutter.
+7. La kaken avkjøles til romtemperatur, og sett den deretter i kjøleskapet over natten. Den er veldig god kald, men kan også spises romtemperert.
+
+**Kirsebærkompott**
+1. Varm frosne kirsebær i en kjele med en skvis sitronsaft og sukker etter smak, til bærene begynner å slippe saft og sukkeret er oppløst. Ha i maisenna hvis du ønsker blandingen tykkere. Avkjøl før bruk.
+
+**Tindvedsaus**
+1. Varm tindvedjuice og sukker i en kjele til sukkeret er oppløst.
+2. Rør ut maisennaen i vannet i en liten kopp. Hell blandingen i sausen mens du rører. La det koke opp i 30–60 sekunder til det tykner litt.
+3. Avkjøl sausen – den vil tykne litt mer når den er kald.
+
+**Brunostsaus**
+1. Ha kremfløte og sukker i en liten kjele, og varm opp på middels varme til det begynner å småkoke.
+2. Tilsett brunost i små biter og rør til osten er smeltet og sausen er glatt.
+3. Smak til med en klype salt. Sausen er best til kaken når den er litt lun.
+
+### Notater
+
+- **To alternative sauser, ikke begge samtidig.** Kilden serverer kaken med enten tindvedsaus eller brunostsaus – tindved er lettest å få tak i om høsten, mens brunostsausen er tilgjengelig året rundt. Kirsebærkompotten er en tredje, uavhengig topping.
+- **Brunostsausen smaker best litt lun**, ifølge kilden – varm den forsiktig opp igjen rett før servering om den har stått og kaldnet.
+- **240 °C er høyt** og er selve poenget med baskisk ostekake – den brente, nesten svidde toppen er en signaturdetalj, ikke en feil.
+- **Ingen springformstørrelse-avvik:** kilden bruker konsekvent 20 cm.
+- **Beslektet:** samlingens øvrige ostekaker er [D7](#d7-ostekake-i-matboks), [D8](#d8-ostekake-med-hvit-sjokolade-og-bringebær), [D12](#d12-ostekake-med-rabarbra-og-jordbær), [D32](#d32-mini-ostekaker-med-biscoff), [D33](#d33-biscoff-ostekake) og [D34](#d34-ostekake-med-saltkaramell) – denne er den eneste uten kjeksbunn.
 
 ---
 
@@ -24111,6 +25206,41 @@ Eddik både i vannet og i koppen. Virvelen i vannet samler hviten rundt plommen,
 - **Kaldt vann etterpå er ikke bare for oppbevaring.** Restvarmen koker videre i egget, og uten avkjøling er den bløte plommen borte innen du har dekket bordet. Posjerte egg kan lages på forhånd og varmes tilbake i varmt vann i et halvminutt.
 - **Beslektet:** [F15](#f15-hellstrøms-369-minutters-egg) er kokte egg etter samme skole, og [F4](#f4-eggs-benedict) er den klassiske bruken.
 
+## F17. Tyrkiske egg (çılbır)
+
+**Kilde:** @fysenpaa (Instagram) · **Kjøkken:** Tyrkisk · **Tid:** ca. 20 min · **Porsjoner:** 2
+
+Posjerte egg over hvitløksyoghurt med tørket ramsløk og sitronskall, toppet med chilismør laget av pul biber (Aleppo-pepper) og frisk mynte. Kilden kaller den en frokost- eller lunsjrett som er «mykje enklare å lage enn den gir inntrykk av».
+
+### Ingredienser
+
+- 4 egg
+- En skvett klar eddik (til posjering)
+- 4 ss usaltet smør
+- 2,5 ts pul biber (Aleppo-pepper)
+- 4 dl yoghurt (gresk eller tyrkisk)
+- 1 ts ramsløk (kan sløyfes – eventuelt hvitløk)
+- Zest av en halv sitron
+- Mynte
+- Salt og pepper etter smak
+- Et godt brød til å dyppe med
+
+### Fremgangsmåte
+
+1. Fyll en kjele med vann til eggene, og skru opp varmen til høy.
+2. Bland yoghurt med ramsløk og revet sitronskall i en skål.
+3. Lag chilismør: varm smør i en panne til det begynner å boble og lage lyd. Ha i pul biber, rør godt sammen og trekk av varmen.
+4. Posjer eggene: kok opp godt med vann og ha i 1 ss eddik. Lag en liten virvel i vannet, knekk eggene og ha dem i vannet. La eggene putre (ikke fosskoke) i ca. tre minutter – til eggehviten er fast og eggeplommen er rennende.
+5. Ha yoghurten i to skåler eller høye tallerkener. Legg eggene forsiktig over. Topp med chilismøret og mynte.
+6. Toast gjerne brødet og server ved siden av.
+
+### Notater
+
+- **Pul biber (Aleppo-pepper) er et mildt, litt syrlig chilipulver** – kilden nevner at røkt paprikapulver kan brukes som erstatning, men presiserer at det ikke gir samme smak.
+- **Ramsløken er tørket** i kildens versjon og røres inn i yoghurten kald, ikke stekt inn i chilismøret.
+- **Retten heter çılbır på tyrkisk** – en klassisk kombinasjon av posjerte egg og hvitløksyoghurt, ofte servert til frokost eller lunsj.
+- **Beslektet:** [F16. Hellstrøms posjerte egg](#f16-hellstrøms-posjerte-egg) bruker samme eddikprinsipp for posjeringen.
+
 ---
 
 # Grunnoppskrifter
@@ -25243,5 +26373,35 @@ Sju grønnsaker grovhakket og kokt ut i vann. Fennikel og tomat er det som skill
 - **Ingen sopp.** [G30](#g30-grønnsakskraft) bruker sjampinjong for umami; her gjør tomatene den jobben.
 - **Holdbarhet:** inntil 1 uke i kjøleskap, eller nedfryst i mindre beholdere. Isbitform er praktisk til småporsjoner.
 - **Beslektet:** [G30](#g30-grønnsakskraft) er samlingens andre grønnsakkraft.
+
+---
+## G32. Mandarin-pannekaker – asiatiske 3-ingrediens-pannekaker
+
+**Kilde:** @fysenpaa (Instagram, 15. september 2024) · **Kjøkken:** Kinesisk · **Tid:** ca. 1½ t (inkl. hviletid) · **Gir:** 12 pannekaker
+
+Enkle, tynne hvetepannekaker laget med bare tre ingredienser. Den klassiske følgesvennen til pekingand, men fungerer også som tortilla til tacos og enchiladas eller fylles med smaker fra Asia eller Midtøsten.
+
+### Ingredienser
+
+- 200 g hvetemel
+- 1 ts salt
+- 1,6 dl kokende vann
+
+### Fremgangsmåte
+
+1. **Bland mel og salt** i en bolle. Hell det kokende vannet i bollen og rør rundt med spisepinner til deigen er kald nok til å ta på.
+2. **Kna deigen** i rundt 8 minutter til den er glatt og fin. La deigen hvile 1 time i romtemperatur.
+3. **Rull deigen** til en lang pølse og del i 12 like deler. Press alle delene flate til små pucker og olje toppene.
+4. **Legg puckene mot hverandre**, med de oljede sidene mot hverandre, to og to.
+5. **Kjevle puckene** til 6 tynne pannekaker (hvert par kjevles sammen som én).
+6. **Stek på medium til høy varme** i litt olje, 30 sekunder på hver side. Del pannekaken forsiktig i to langs midten (de to lagene skilles fra hverandre av oljen). Fortsett til du har 12 pannekaker. Legg dem i et vått håndkle til servering.
+
+### Notater
+
+- **Kilden hopper over trinn 5 i sin egen nummerering** (går fra trinn 4 rett til trinn 6). Det mangler trolig et kort hviletrinn for de sammenlagte puckene før kjevling – vanlig praksis for denne teknikken er å la dem hvile 10–15 minutter tildekket, slik at gluten slapper av og pannekakene blir lettere å kjevle tynt. *(Flagget – ikke oppgitt i kilden.)*
+- **Teknikken med to og to sammenlagte pucker** (oljede sider mot hverandre) er det som gir den karakteristiske myke, todelte teksturen: hver «pannekake» skilles i to tynne lag rett etter steking.
+- **Kilden bruker denne pannekaketypen også som tortilla** til tacos og enchiladas, ikke bare til asiatiske retter som pekingand.
+- **Oppbevaring:** hold ferdige pannekaker varme og fuktige i et vått håndkle eller under plastfolie til servering, ellers tørker de raskt ut og sprekker når de brettes.
+
 
 ---
