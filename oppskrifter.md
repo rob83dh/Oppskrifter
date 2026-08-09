@@ -1,6 +1,6 @@
 # Oppskriftssamling
 
-Sist oppdatert: 8. august 2026 · **567 oppskrifter** · 189 hovedretter, 79 tilbehør, 68 saus/marinade, 59 supper, 44 småretter, 35 desserter, 32 grunnoppskrifter, 25 salater, 30 sjømat, 17 frokost, 13 brød, 7 bakverk
+Sist oppdatert: 9. august 2026 · **568 oppskrifter** · 190 hovedretter, 79 tilbehør, 68 saus/marinade, 59 supper, 44 småretter, 35 desserter, 32 grunnoppskrifter, 25 salater, 30 sjømat, 17 frokost, 13 brød, 7 bakverk
 
 ## Innhold
 
@@ -241,6 +241,7 @@ Sist oppdatert: 8. august 2026 · **567 oppskrifter** · 189 hovedretter, 79 til
 | 72 | [Lasagna](#72-lasagna) | Hovedrett | Italiensk | ca. 6 t totalt | 8 |
 | 73 | [Tagliatelle al Ragù](#73-tagliatelle-al-ragù) | Hovedrett | Italiensk | ca. 5 t | 6 |
 | 74 | [Porchetta](#74-porchetta) | Hovedrett | Italiensk | 24–48 t tørking + ca. 4 t steking | 12 |
+| 220 | [Carbonara × amatriciana-hybrid](#220-carbonara--amatriciana-hybrid) | Hovedrett | Italiensk | ca. 30 min | 2 |
 | 97 | [Spicy vodka pasta](#97-spicy-vodka-pasta) | Hovedrett | Italiensk-amerikansk | 20 min | 6 |
 | SU7 | [Minestrone](#su7-minestrone) | Suppe | Italiensk | 45 min | 4–6 |
 | SU12 | [Kremet tortellinisuppe med grønnsaker](#su12-kremet-tortellinisuppe-med-grønnsaker) | Suppe | Italiensk | 40 min | 4 |
@@ -11756,6 +11757,45 @@ Posjert kyllinglår i strimler over agurkskiver, med en saus av tahini, peanøtt
 - **Kyllingskinnet stekes separat og sprøstekes** mens kjøttet posjeres – to prosesser som går parallelt, se punkt 2–3.
 - **Chilioljen doseres etter smak.** 1 ss er utgangspunktet i kilden, men sausen kan justeres opp for mer styrke.
 - **Beslektet:** samme prinsipp med posjert kylling og en nøttebasert saus finnes i [85. Larb gai](#85-larb-gai--laotisk-thailandsk-kyllingsalat), men med et helt annet smaksbilde.
+
+## 220. Carbonara × amatriciana-hybrid
+
+**Kilde:** @baktungmat, «Italienska för nybörjare – Lektion 5» (Instagram) · **Kjøkken:** Italiensk · **Tid:** ca. 30 min · **Porsjoner:** 2
+
+Kilden kaller den en «plug-in-hybrid»: amatricianaens karamelliserte tomatpuré og chili smeltes inn i en klassisk carbonarakrem av eggeplommer, pecorino og guancialefett. Halvparten av den luftige krémen blandes inn i pastaen, resten toppes på til slutt sammen med sprøstekt guanciale.
+
+### Ingredienser
+
+- 180 g spaghetti eller bucatini
+- 120 g guanciale, fint strimlet
+- 1,5 ss tomatpuré
+- 1 ts chiliflak
+- 1 hvitløksfedd, knust (med skallet på)
+- 3–4 eggeplommer
+- ca. 70 g finrevet pecorino romano
+- 1 ss varmt pastavann
+- Sort pepper
+- Persille, finhakket (valgfritt, men pent)
+
+### Fremgangsmåte
+
+1. Sett over en stor kjele med saltet vann til pastaen.
+2. Stek guancialen i kald panne på lav-middels varme til fettet har smeltet ut og kjøttet er gyllent og sprøtt. Ha tålmodighet – fettet skal smelte, ikke svi seg. Ta guancialen opp på kjøkkenpapir.
+3. Stek tomatpuré, chiliflak og den knuste hvitløken i det varme guancialefettet. La tomatpuréen karamellisere til den mørkner litt. Ta av varmen, fjern hvitløken og hell blandingen over i en bolle så den kjøler seg ned.
+4. Visp eggeplommene over vannbad til de blir lysere, omtrent dobbelt så store og så luftige at du kan trekke en åtte med visten som ligger igjen et par sekunder.
+5. Visp langsomt inn tomat- og guancialefettet. Tilsett 1 ss varmt vann og pecorinoen. Vend sammen til en jevn, luftig krem.
+6. Kok pastaen al dente.
+7. Sett omtrent tre firedeler av kremen til side i en bolle. Bland den nykokte pastaen med den siste firedelen rett i pannen sammen med litt pastavann, til alt blir blankt og kremet.
+8. Legg opp pastaen. Topp med resten av den luftige kremen, sprø guanciale, rikelig sort pepper, ekstra pecorino og litt finhakket persille.
+
+### Notater
+
+- **Guancialefettet er selve limet mellom de to rettene.** Det brukes både til å karamellisere tomatpuréen (amatricianaens smaksbunn) og vispes rett inn i eggekremen (carbonaraens bindemiddel) – derfor kalles det en «plug-in»-hybrid: to separate teknikker kobles sammen via samme fett.
+- **Kald panne fra start er avgjørende for guancialen.** Begynner du med varm panne, seiler kjøttet seg utenpå før fettet rekker å smelte ut, og du mister crispiness.
+- **Vannbadet i punkt 4 er ikke valgfritt.** Eggeplommene skal nesten dobles i volum og bli stabilt luftige (en «åtte» som henger igjen på overflaten er den klassiske testen for pâte à bombe-konsistens) – dette er det som gjør kremen fluffig i stedet for flytende.
+- **Kremen deles i to bruksområder:** tre firedeler bindes inn i selve pastaen med litt pastavann for glans, én firedel legges rått og luftig oppå til slutt. Blander du alt inn i pastaen, mister du den lette toppingen kilden er ute etter.
+- **Hvitløken er kun til aromatisering** av fettet og fjernes før tomatblandingen avkjøles – den skal ikke bli med videre i kremen.
+- **Beslektet:** samlingens klassiske [69. Carbonara](#69-carbonara) er utgangspunktet denne bygger videre på.
 
 
 
