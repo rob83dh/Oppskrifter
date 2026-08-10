@@ -111,6 +111,29 @@ ol.steg li::before{content:counter(s,decimal-leading-zero);position:absolute;lef
  font-family:var(--mono);font-size:10px;letter-spacing:.06em;color:var(--rav)}
 
 /* ---------- øvelser ---------- */
+.ovhode{display:flex;align-items:baseline;gap:10px;padding:14px 0 4px}
+.ovhode .ovn2{flex:1;font-size:15px;line-height:1.25}
+.ovhode .ovmal{font-family:var(--mono);font-size:10px;color:var(--svak);white-space:nowrap}
+.ovsist{font-family:var(--mono);font-size:10px;color:var(--is);padding-bottom:7px}
+.ovsist.ingen{color:var(--svak)}
+.settrad{display:flex;align-items:center;gap:8px;padding:4px 0}
+.settnr{width:24px;height:24px;border-radius:50%;border:1px solid var(--linje);background:none;
+ color:var(--svak);font-family:var(--mono);font-size:10px;cursor:pointer;padding:0;flex:0 0 24px}
+.settnr.på{background:var(--rav);border-color:var(--rav);color:#12181A}
+.settnr:focus-visible{outline:1px solid var(--rav);outline-offset:2px}
+.felt{display:flex;align-items:center;gap:5px}
+.felt input{width:54px;padding:6px 7px;border:1px solid var(--linje);border-radius:2px;
+ font-family:var(--mono);font-size:13px;text-align:right;background:var(--natt);color:var(--ink)}
+.felt input:focus{outline:none;border-color:var(--rav)}
+.felt input.avvik{border-color:var(--is);color:var(--is)}
+.felt span{font-family:var(--mono);font-size:9.5px;color:var(--svak);width:26px}
+.hint{margin:8px 0 4px;padding:8px 11px;border-left:1px solid var(--rav);background:rgba(233,161,59,.05);
+ font-size:12.5px;color:var(--ink)}
+.hint b{color:var(--rav);font-weight:600}
+.holder{margin:8px 0 4px;padding:8px 11px;border-left:1px solid var(--is);
+ font-size:12.5px;color:var(--muted)}
+.ovskille{border-bottom:1px solid #1B282D;margin-top:10px}
+.ovskille:last-of-type{border-bottom:0}
 .ov{display:flex;align-items:center;gap:11px;padding:11px 0;border-bottom:1px solid #1B282D}
 .ov:last-child{border-bottom:0}
 .ovn{flex:1;font-size:14.5px;line-height:1.3}
@@ -520,6 +543,186 @@ document.addEventListener('visibilitychange', function(){
   if (vaken !== null && document.visibilityState === 'visible') taVaken();
 });
 
+/* ================= styrke: logg, historikk og progresjon ================= */
+
+function eksId(navn){
+  return navn.toLowerCase()
+    .replace(/[æ]/g,'ae').replace(/[ø]/g,'o').replace(/[å]/g,'a')
+    .replace(/[^a-z0-9]+/g,'-').replace(/^-|-$/g,'');
+}
+
+function hentHist(id){
+  var v = hent('hist-' + id, null);
+  return v ? v : [];
+}
+
+/* Utstyret bestemmer hvilke vekter som finnes.
+   Kabel og maskin har faste hakk vi ikke kjenner — dem lærer vi av loggen. */
+function utstyr(navn){
+  var n = navn.toLowerCase();
+  if (/manual|dumbbell/.test(n)) return 'manual';
+  if (/benkpress/.test(n)) return 'stang';
+  return 'maskin';
+}
+
+/* Minste observerte sprang mellom to vekter i loggen = maskinens hakk. */
+function hakkFraLogg(H){
+  var v = [], i, j;
+  for (i = 0; i < H.length; i++){
+    if (H[i].s[0] && H[i].s[0].k && v.indexOf(H[i].s[0].k) < 0) v.push(H[i].s[0].k);
+  }
+  if (v.length < 2) return 0;
+  v.sort(function(a,b){ return a - b; });
+  var minste = Infinity;
+  for (j = 1; j < v.length; j++){
+    var d = Math.round((v[j] - v[j-1]) * 10) / 10;
+    if (d > 0 && d < minste) minste = d;
+  }
+  return minste === Infinity ? 0 : minste;
+}
+
+/* Returnerer {kg, sikker}. sikker=false betyr «ett hakk opp, du ser tallet på maskinen». */
+function nesteVekt(navn, kg, H){
+  var u = utstyr(navn);
+  if (u === 'manual'){
+    /* Manualer på SATS går i to kilos sprang opp til 30, deretter 2,5. */
+    var s = kg < 30 ? 2 : 2.5;
+    return { kg: Math.round((kg + s) * 10) / 10, sikker: true };
+  }
+  if (u === 'stang'){
+    return { kg: Math.round((kg + 2.5) * 10) / 10, sikker: true };
+  }
+  var h = hakkFraLogg(H);
+  if (h) return { kg: Math.round((kg + h) * 10) / 10, sikker: true };
+  return { kg: 0, sikker: false };
+}
+
+function datoTekst(iso){
+  var MN = ['jan','feb','mar','apr','mai','jun','jul','aug','sep','okt','nov','des'];
+  var d = iso.split('-');
+  return parseInt(d[2],10) + '. ' + MN[parseInt(d[1],10)-1];
+}
+
+function dagerSiden(iso, naa){
+  return Math.round((new Date(naa) - new Date(iso)) / 86400000);
+}
+
+/* Alle sett på samme vekt, og alle nådde målet for reps. */
+function fullTreff(okt, malReps){
+  if (!okt || !okt.s || !okt.s.length) return 0;
+  var v = okt.s[0].k;
+  for (var i = 0; i < okt.s.length; i++){
+    if (okt.s[i].k !== v) return 0;
+    if (!okt.s[i].r || okt.s[i].r < malReps) return 0;
+  }
+  return v;
+}
+
+function vurder(id, malReps, idag){
+  var H = hentHist(id);
+  var ut = { sist:null, forslag:null, holder:false };
+  if (!H.length) return ut;
+  ut.sist = H[H.length - 1];
+  if (H.length < 2) return ut;
+
+  var a = H[H.length - 1], b = H[H.length - 2];
+  var va = fullTreff(a, malReps), vb = fullTreff(b, malReps);
+
+  /* Har vekta gått opp de siste tre ukene? Da venter vi. */
+  var sisteOkning = null;
+  for (var i = 1; i < H.length; i++){
+    var f = H[i].s[0] ? H[i].s[0].k : 0, g = H[i-1].s[0] ? H[i-1].s[0].k : 0;
+    if (f > g) sisteOkning = H[i].d;
+  }
+  var ferskOkning = sisteOkning && dagerSiden(sisteOkning, idag) < 21;
+
+  if (va && vb && va === vb && !ferskOkning){
+    ut.forslag = va;
+  } else if (H.length >= 4){
+    /* Fire økter på samme vekt uten fullt treff — det er greit i underskudd. */
+    var lik = true, v0 = H[H.length-1].s[0] ? H[H.length-1].s[0].k : 0;
+    for (var j = H.length - 4; j < H.length; j++){
+      if (!H[j].s[0] || H[j].s[0].k !== v0) lik = false;
+    }
+    if (lik && !ut.forslag) ut.holder = true;
+  }
+  return ut;
+}
+
+function ovelseHTML(e, dato, oi, i){
+  var id = eksId(e.n);
+  var v = vurder(id, e.reps, dato);
+  var h = '<div class="ovskille">';
+
+  h += '<div class="ovhode' + (e.par ? ' par-' + e.par : '') + '">'
+     +   '<span class="ovn2">' + esc(e.n)
+     +     (e.merk ? '<div class="parmerk">' + esc(e.merk) + '</div>' : '') + '</span>'
+     +   '<span class="ovmal">' + e.sett + ' &times; ' + e.reps + '</span>'
+     + '</div>';
+
+  if (v.sist){
+    var s0 = v.sist.s[0] ? v.sist.s[0].k : 0;
+    var reps = [];
+    for (var q = 0; q < v.sist.s.length; q++) reps.push(v.sist.s[q].r || '–');
+    h += '<div class="ovsist">Sist: ' + s0 + ' kg &middot; ' + reps.join('/')
+       + ' &middot; ' + datoTekst(v.sist.d) + '</div>';
+  } else {
+    h += '<div class="ovsist ingen">Ingen logg ennå</div>';
+  }
+
+  for (var n = 1; n <= e.sett; n++){
+    var nk = 'kg-'   + dato + '-' + oi + '-' + i + '-' + n;
+    var nr = 'reps-' + dato + '-' + oi + '-' + i + '-' + n;
+    var ns = 'sett-' + dato + '-' + oi + '-' + i + '-' + n;
+    var kg  = hent(nk, (v.sist && v.sist.s[n-1]) ? v.sist.s[n-1].k : e.kg);
+    var rep = hent(nr, e.reps);
+    h += '<div class="settrad">'
+       +   '<button class="settnr' + (hent(ns,false) ? ' på' : '') + '" data-sett="' + ns + '">'
+       +     n + '</button>'
+       +   '<span class="felt"><input type="number" inputmode="decimal" step="0.5" '
+       +     'value="' + (kg || '') + '" placeholder="?" data-kg="' + nk
+       +     '" aria-label="Vekt sett ' + n + '"><span>kg</span></span>'
+       +   '<span class="felt"><input type="number" inputmode="numeric" step="1" '
+       +     'class="' + (rep && rep < e.reps ? 'avvik' : '') + '" '
+       +     'value="' + (rep || '') + '" data-reps="' + nr
+       +     '" aria-label="Reps sett ' + n + '"><span>reps</span></span>'
+       + '</div>';
+  }
+
+  if (v.forslag){
+    var nv = nesteVekt(e.n, v.forslag, hentHist(id));
+    h += '<div class="hint">Alle sett med full reps to økter på rad. '
+       + (nv.sikker
+          ? 'Prøv <b>' + nv.kg + ' kg</b> i dag.'
+          : 'Ta <b>ett hakk opp</b> på maskinen — noter tallet som står der.')
+       + '</div>';
+  } else if (v.holder){
+    h += '<div class="holder">Samme vekt fire økter på rad. I kaloriunderskudd er det '
+       + 'et resultat, ikke en stagnasjon — du løfter det samme på lettere kropp.</div>';
+  }
+  return h + '</div>';
+}
+
+/* Lagres til historikk når økta krysses av. */
+function lagreOkt(dato, oi, okt){
+  if (!okt.ovelser || !okt.ovelser.length) return;
+  for (var i = 0; i < okt.ovelser.length; i++){
+    var e = okt.ovelser[i], id = eksId(e.n), sett = [];
+    for (var n = 1; n <= e.sett; n++){
+      sett.push({
+        k: hent('kg-'   + dato + '-' + oi + '-' + i + '-' + n, e.kg) || 0,
+        r: hent('reps-' + dato + '-' + oi + '-' + i + '-' + n, e.reps) || 0
+      });
+    }
+    var H = hentHist(id);
+    if (H.length && H[H.length-1].d === dato) H[H.length-1] = { d: dato, s: sett };
+    else H.push({ d: dato, s: sett });
+    if (H.length > 16) H = H.slice(H.length - 16);
+    sett2('hist-' + id, H);
+  }
+}
+function sett2(n, v){ LAGER[n] = v; lagre(); }
+
 function tegn(){
   var d = U.dager[n], h = '';
   var dd = d.dato.split('-');
@@ -554,24 +757,8 @@ function tegn(){
       if (!o.ovelser.length){
         h += '<div class="tom">Øvelsene mangler. Skriv dem inn, så legges de fast.</div>';
       } else {
-        for (var i = 0; i < o.ovelser.length; i++){
-          var e = o.ovelser[i], nk = 'kg-' + d.dato + '-' + oi + '-' + i, vekt = hent(nk, e.kg);
-          var klass = 'ov' + (e.par ? ' par-' + e.par : '');
-          h += '<div class="' + klass + '"><span class="ovn">' + esc(e.n)
-             + '<br><span class="und">' + e.sett + ' &times; ' + e.reps + '</span>'
-             + (e.merk ? '<div class="parmerk">' + esc(e.merk) + '</div>' : '')
-             + '</span><span class="sett">';
-          for (var st = 1; st <= e.sett; st++){
-            var ns = 'sett-' + d.dato + '-' + oi + '-' + i + '-' + st;
-            h += '<button class="s' + (hent(ns,false) ? ' på' : '') + '" data-sett="'
-               + ns + '">' + st + '</button>';
-          }
-          h += '</span><input class="kg' + (vekt ? '' : ' mangler-kg')
-             + '" type="number" inputmode="decimal" step="0.5" value="'
-             + (vekt || '') + '" placeholder="?" data-kg="' + nk
-             + '" aria-label="Vekt i kilo for ' + esc(e.n) + '">'
-             + '<span class="enh">kg</span></div>';
-        }
+        for (var i = 0; i < o.ovelser.length; i++)
+          h += ovelseHTML(o.ovelser[i], d.dato, oi, i);
       }
     }
     h += '</div></div>';
@@ -665,6 +852,11 @@ document.addEventListener('click', function(e){
   if (b.dataset.hake){
     var v = !hent(b.dataset.hake, false);
     sett(b.dataset.hake, v);
+    var m = b.dataset.hake.match(/^okt-(\d{4}-\d{2}-\d{2})-(\d+)$/);
+    if (v && m){
+      var dd = U.dager.filter(function(x){ return x.dato === m[1]; })[0];
+      if (dd) lagreOkt(m[1], parseInt(m[2],10), dd.okter[parseInt(m[2],10)]);
+    }
     tegn();
     return;
   }
@@ -721,6 +913,7 @@ document.addEventListener('click', function(e){
 
 document.addEventListener('change', function(e){
   if (e.target.dataset.kg)   sett(e.target.dataset.kg, parseFloat(e.target.value) || 0);
+  if (e.target.dataset.reps){ sett(e.target.dataset.reps, parseInt(e.target.value,10) || 0); tegn(); }
   if (e.target.dataset.felt) sett(e.target.dataset.felt, e.target.value);
 });
 
