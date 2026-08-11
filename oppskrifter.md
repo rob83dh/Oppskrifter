@@ -1,6 +1,6 @@
 # Oppskriftssamling
 
-Sist oppdatert: 9. august 2026 · **568 oppskrifter** · 190 hovedretter, 79 tilbehør, 68 saus/marinade, 59 supper, 44 småretter, 35 desserter, 32 grunnoppskrifter, 25 salater, 30 sjømat, 17 frokost, 13 brød, 7 bakverk
+Sist oppdatert: 9. august 2026 · **570 oppskrifter** · 192 hovedretter, 79 tilbehør, 68 saus/marinade, 59 supper, 44 småretter, 35 desserter, 32 grunnoppskrifter, 25 salater, 30 sjømat, 17 frokost, 13 brød, 7 bakverk
 
 ## Innhold
 
@@ -242,6 +242,8 @@ Sist oppdatert: 9. august 2026 · **568 oppskrifter** · 190 hovedretter, 79 til
 | 73 | [Tagliatelle al Ragù](#73-tagliatelle-al-ragù) | Hovedrett | Italiensk | ca. 5 t | 6 |
 | 74 | [Porchetta](#74-porchetta) | Hovedrett | Italiensk | 24–48 t tørking + ca. 4 t steking | 12 |
 | 220 | [Carbonara × amatriciana-hybrid](#220-carbonara--amatriciana-hybrid) | Hovedrett | Italiensk | ca. 30 min | 2 |
+| 221 | [Min beste italienske bolognese](#221-min-beste-italienske-bolognese) | Hovedrett | Italiensk | ca. 45 min aktivt + 2,5–4 t på svak varme | 8–10 (ikke oppgitt i kilden) |
+| 222 | [Creamy bolognese rigatoni](#222-creamy-bolognese-rigatoni) | Hovedrett | Italiensk-inspirert | ca. 40 min | 3–4 (ikke oppgitt i kilden) |
 | 97 | [Spicy vodka pasta](#97-spicy-vodka-pasta) | Hovedrett | Italiensk-amerikansk | 20 min | 6 |
 | SU7 | [Minestrone](#su7-minestrone) | Suppe | Italiensk | 45 min | 4–6 |
 | SU12 | [Kremet tortellinisuppe med grønnsaker](#su12-kremet-tortellinisuppe-med-grønnsaker) | Suppe | Italiensk | 40 min | 4 |
@@ -11796,6 +11798,97 @@ Kilden kaller den en «plug-in-hybrid»: amatricianaens karamelliserte tomatpur�
 - **Kremen deles i to bruksområder:** tre firedeler bindes inn i selve pastaen med litt pastavann for glans, én firedel legges rått og luftig oppå til slutt. Blander du alt inn i pastaen, mister du den lette toppingen kilden er ute etter.
 - **Hvitløken er kun til aromatisering** av fettet og fjernes før tomatblandingen avkjøles – den skal ikke bli med videre i kremen.
 - **Beslektet:** samlingens klassiske [69. Carbonara](#69-carbonara) er utgangspunktet denne bygger videre på.
+
+## 221. Min beste italienske bolognese
+
+**Kilde:** Gladkokken (gladkokken.no) · **Kjøkken:** Italiensk · **Tid:** ca. 45 min aktivt + 2,5–4 t på svak varme · **Porsjoner:** 8–10 *(ikke oppgitt i kilden – kilden lager en stor porsjon til 2–3 middager)*
+
+To kjøttslag og pancetta stekes hver for seg til gyllen skorpe, en klassisk soffritto av løk, gulrot og selleri surres blank, og alt trekker sammen i to og en halv til fire timer. Kilden understreker at lang koketid – ikke mye arbeid – er det som gir den beste smaken.
+
+### Ingredienser
+
+- 500 g kvernet høyrygg av okse
+- 500 g kvernet svinenakke
+- 200 g pancetta (italiensk røkt bacon)
+- 2 stk løk
+- 4 stk gulrot
+- 4 stk stangselleri
+- 4 fedd hvitløk
+- 3 ss tomatpuré
+- 2 bokser gode hermetiske tomater
+- 7 dl oksekraft
+- 1 ts sukker
+- 2 dl hvitvin
+- Olivenolje
+- Salt og pepper
+
+**Servering**
+- Pasta, gjerne tagliatelle
+- Parmesan
+
+### Fremgangsmåte
+
+1. Skrell og kutt løk, gulrot og stangselleri i små terninger.
+2. Ha godt med olivenolje i en stor kjele. Ha i grønnsakene og stek på middels varme til de er blanke og myke, ikke brune.
+3. Stek kjøttet i en separat stekepanne, litt om gangen, på høy varme til gyllen farge – begynn med pancettaen, deretter oksekjøttet, og avslutt med svinekjøttet. Steker du for mye om gangen, koker kjøttet i stedet for å bli stekt.
+4. Ha det stekte kjøttet over i kjelen med grønnsakene når det er ferdig, og fortsett stekingen.
+5. Tilsett tomatpuré og sukker i den tomme stekepannen og stek i 2 minutter. Hell over i kjelen. Ha deretter hvitvinen i stekepannen og kok ut, så alle de gode smakene som har satt seg i pannen følger med. Hell også dette over i kjelen.
+6. Hell oksekraften og de hermetiske tomatene over i kjelen.
+7. Kok opp, skru ned til lav varme, og la sausen putre i 2,5–4 timer – jo lenger, jo bedre. Smak til med salt og pepper.
+8. Server over pasta, gjerne tagliatelle, med godt med parmesan.
+
+### Notater
+
+- **Hvitløken mangler i selve fremgangsmåten.** Ingredienslisten oppgir 4 fedd, men kilden sier ikke når de tilsettes. Mest sannsynlig finhakkes de og surres inn sammen med grønnsakene i punkt 2, som er standard for en italiensk soffritto-basert bolognese. *(Flagget og antatt.)*
+- **To kar, ikke ett.** Kjøttet stekes i en egen stekepanne, ikke i kjelen med grønnsakene – det gir en mye bedre stekeskorpe enn om alt trengs sammen i én gryte. Stekepannen brukes deretter to ganger til: én gang til tomatpuréen, én gang til å koke ut vinen, før begge deler helles over i kjelen.
+- **Steking «litt og litt»** i punkt 3 er kildens eget poeng: for mye kjøtt i pannen på én gang senker temperaturen, og kjøttet damper i sin egen væske i stedet for å brunes.
+- **2,5–4 timers koketid er et spenn, ikke en fasit.** Kilden er tydelig på at lengre tid gir bedre resultat – dette er en saus det lønner seg å sette på tidlig og la stå.
+- **Ingen melk eller fløte**, til forskjell fra mange nordiske bolognese-varianter. Det er hvitvinen og den lange innkokingen som gir rundhet her, ikke meieriprodukter.
+- **Store porsjoner med hensikt.** Kilden lager alltid en stor gryte og fryser ned resten til 2–3 middager senere – bolognese er en av de rettene som blir bedre av å stå.
+- **Beslektet:** [65. Langtidskokt oksragù](#65-langtidskokt-oksragù) bruker terninger av oksekjøtt og rødvin i stedet for kvernet kjøtt og hvitvin, og [73. Tagliatelle al Ragù](#73-tagliatelle-al-ragù) er samlingens tredje langtidskokte kjøttsaus – alle tre kan sammenlignes for å se hvor ulikt «ragù» kan tilberedes.
+
+## 222. Creamy bolognese rigatoni
+
+**Kilde:** Chrisinthekitchen (Instagram Reels) · **Kjøkken:** Italiensk-inspirert · **Tid:** ca. 40 min · **Porsjoner:** 3–4 *(ikke oppgitt i kilden)*
+
+Rask hverdagsversjon av bolognese der pastaen kokes ferdig og vendes rett inn i sausen, og en skvett fløte til slutt gjør den kremet. Kilden selv kaller den «illegal good».
+
+### Ingredienser
+
+- 400 g mager kjøttdeig av storfe
+- 150 g tørket rigatoni
+- 1 stk gul løk
+- 1 boks hakkede tomater
+- 2 dl oksekraft
+- 0,8 dl kremfløte *(se notat om fettinnhold)*
+- 1 ss hvitløkspasta
+- 1 ss tomatpuré
+- Fersk persille
+- 20 g parmesan
+
+**Krydder (1 ts av hver)**
+- Hvitløksgranulat
+- Løkgranulat
+- Salt
+- Sort pepper
+- Oregano
+- Italiensk urteblanding
+- Røkt paprikapulver
+
+### Fremgangsmåte
+
+1. Stek løken i 5–6 minutter, tilsett kjøttdeigen og stek til den er godt brunet.
+2. Tilsett krydderblandingen og kok i ytterligere 5 minutter. Tilsett deretter hvitløkspasta og tomatpuré og kok i 2 minutter til.
+3. Tilsett hakkede tomater og oksekraft, kok opp og la det småkoke i 20 minutter. Ha i fersk persille og kremfløte *(sett gjerne pastavannet over samtidig, slik kilden gjør)*.
+4. Kok pastaen mens sausen småkoker. Når den er ferdig, ha den over i pannen og rør godt sammen. Server med parmesan og ekstra persille etter ønske.
+
+### Notater
+
+- **«Single cream» er tynnere enn norsk kremfløte** – rundt 18 % fett mot 35–38 %. Bruker du vanlig norsk kremfløte, blir sausen tyngre og rikere enn kildens original; vil du nærmere det britiske utgangspunktet, bruk lettfløte (20 %) eller spe kremfløten med litt melk. *(Presisering lagt til.)*
+- **Krydderblandingen er kildens egen signaturmiks** – hvitløksgranulat, løkgranulat, oregano, italiensk urteblanding og røkt paprika sammen gir en rundere, mer «amerikaniserte» smaksprofil enn en tradisjonell bolognese, som normalt bygger på fersk løk, gulrot og selleri alene.
+- **Ett kar, hele veien.** Til forskjell fra en tradisjonell bolognese kokes alt i samme panne uten separat bruning av kjøtt i eget kar – dette er en 30–40-minutters hverdagsversjon, ikke en langtidskokt saus.
+- **150 g pasta til 400 g kjøttdeig** er en uvanlig høy kjøtt-til-pasta-ratio – sausen er ment å være tykk og dominerende, ikke en tynn saus over mye pasta.
+- **Beslektet:** [221. Min beste italienske bolognese](#221-min-beste-italienske-bolognese) er den langtidskokte, autentiske motsatsen med to kjøttslag og hvitvin – denne er expressversjonen med fløte og ferdig krydderblanding.
 
 
 
