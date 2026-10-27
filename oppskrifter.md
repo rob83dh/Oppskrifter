@@ -10057,7 +10057,7 @@ Skankene gnis inn med hele krydder knust i morter, brunes, og bakes tre timer p�
 - 1 ss tørket oregano
 - 1 ss chiliflak
 - 6 hvitløksfedd
-- 15 g olje til bruning *(mengde lagt til.)*
+- 1 ss olje til bruning *(Lagt til.)*
 - 2 løk
 - 2,5 dl rødvin
 - 2 gulrøtter, hakket
@@ -10113,8 +10113,8 @@ Kyllingbrystene bankes flate og glaseres med innkokt balsamico i pannen. Risotto
 - 300 g arborioris
 - 3 kvister timian, pluss 2 til pynt
 - Ca. 12 tråder safran, eller safranpulver
-- 150 ml tørr hvitvin
-- 7,5–10 dl varm grønnsakkraft, se [G30](#g30-grønnsakskraft)
+- 1,5 dl tørr hvitvin
+- 7,5–10 dl varm grønnsakskraft, se [G30](#g30-grønnsakskraft)
 - 80 g smør
 - 80 g pecorino, revet
 - ½ radicchio *(rosensalat)*, eller ruccola eller spinat
@@ -10267,8 +10267,8 @@ Samlingens tredje siu yuk, og den skiller seg på én ting: eggehvite i saltskor
 
 - 1 kg svinesideflesk med svor, uten bein
 - 1 eggehvite
-- 1,2 dl grovt salt *(ca. 150 g)*
-- 5 g nøytral olje til pensling *(mengde lagt til.)*
+- 150 g grovt salt
+- 1 ts nøytral olje til pensling *(Lagt til.)*
 
 **Glasur**
 - 1 ss hoisinsaus
@@ -10277,7 +10277,7 @@ Samlingens tredje siu yuk, og den skiller seg på én ting: eggehvite i saltskor
 **Tørrkrydder**
 - 2 ts salt
 - 2 ts sukker
-- 1 ss fivespice
+- 1 ss kinesisk femkrydder
 - 1 ts hvitløkspulver
 - 1 ts hvit pepper
 
@@ -10321,7 +10321,7 @@ Samlingens fjerde sprøstekte sideflesk, og den eneste som **forveller kjøttet 
 ### Ingredienser
 
 - 1,5 kg svinesideflesk med svor
-- 3 ts shaoxingvin
+- 1 ss shaoxingvin
 - ½ ts kinesisk femkrydder
 - ½ ts hvitløkspulver
 - 2 ts fint havsalt
@@ -10329,7 +10329,7 @@ Samlingens fjerde sprøstekte sideflesk, og den eneste som **forveller kjøttet 
 - ¼ ts malt hvit pepper
 - Olivenolje
 - Havsalt, ekstra til svoren
-- 250 ml vann til brettet
+- 2,5 dl vann til brettet
 
 **Til servering**
 - Dampet ris, se [T131](#t131-kokt-ris)
