@@ -10089,7 +10089,7 @@ Skankene gnis inn med hele krydder knust i morter, brunes, og bakes tre timer p�
 - **«1 tomat» er uklart i kilden.** Mengden står oppgitt uten enhet. Én fersk tomat er lite til fire skanker – én boks hermetiske tomater er også en rimelig lesning. Her er det ført som én fersk tomat, i tråd med at retten skal være tørr. *(Presisert.)*
 - **Tilbehør fra kilden:** bakte rotgrønnsaker, eller smørkokte gulrøtter.
 - **Holdbarhet:** 3 døgn kjøleskap, 3 måneder fryser. Braiserte retter blir bedre dag to.
-- **Beslektet:** [braisert lammeskank med gremolata (nr. 169)](#169-braisert-lammeskank-med-gremolata) er samlingens andre lammeskank, med gremolata i stedet for rødvin, [pot roast – braisert høyrygg med rotgrønnsaker (nr. 105)](#105-pot-roast--braisert-høyrygg-med-rotgrønnsaker) bruker samme teknikk på storfe, og [fondantpoteter (T17)](#t17-fondantpoteter) hører til bordet.
+- **Beslektet:** [braisert lammeskank med gremolata (nr. 169)](#169-braisert-lammeskank-med-gremolata) er en annen lammeskank, med gremolata i stedet for rødvin, [pot roast – braisert høyrygg med rotgrønnsaker (nr. 105)](#105-pot-roast--braisert-høyrygg-med-rotgrønnsaker) bruker samme teknikk på storfe, og [fondantpoteter (T17)](#t17-fondantpoteter) hører til bordet.
 
 ---
 
@@ -10152,7 +10152,7 @@ Kyllingbrystene bankes flate og glaseres med innkokt balsamico i pannen. Risotto
 - **Radicchio helt på slutten.** Tre minutter er nok til at den mykner, men ikke så lenge at bitterheten koker bort. Den er motvekten til smør, ost og safran.
 - **Safran i tråder gir mer** enn pulver, men kilden aksepterer begge. Legg trådene gjerne i litt av den varme kraften først.
 - **Holdbarhet:** risotto er dårlig restemat – den stivner. Spis den nylaget, eller lag arancini av restene.
-- **Beslektet:** [safranrisotto med reker og pistasjnøtter (nr. 155)](#155-safranrisotto-med-reker-og-pistasjnøtter) er samlingens andre safranrisotto, og [sopprisotto med salsiccia og hasselnøtter (nr. 151)](#151-sopprisotto-med-salsiccia-og-hasselnøtter), [risotto med asparges, spinat og sitron (nr. 67)](#67-risotto-med-asparges-spinat-og-sitron) og [risotto med ramsløk, erter og asparges (nr. 161)](#161-risotto-med-ramsløk-erter-og-asparges) er de øvrige. [Grønnsakskraft (G30)](#g30-grønnsakskraft) er kraften.
+- **Beslektet:** [safranrisotto med reker og pistasjnøtter (nr. 155)](#155-safranrisotto-med-reker-og-pistasjnøtter) er en annen safranrisotto, og [sopprisotto med salsiccia og hasselnøtter (nr. 151)](#151-sopprisotto-med-salsiccia-og-hasselnøtter), [risotto med asparges, spinat og sitron (nr. 67)](#67-risotto-med-asparges-spinat-og-sitron) og [risotto med ramsløk, erter og asparges (nr. 161)](#161-risotto-med-ramsløk-erter-og-asparges) er de øvrige. [Grønnsakskraft (G30)](#g30-grønnsakskraft) er kraften.
 
 ---
 
@@ -10207,7 +10207,7 @@ Tynnere enn en klassisk grønn curry – kilden kaller den selv en suppe – og 
 - **Uten fiskesaus:** øk soyasausen tilsvarende. Du mister noe dybde, men retten bærer det.
 - **Suppe eller curry?** Kilden kaller den suppe hele veien og har den under suppe på bloggen, selv om tittelen sier curry. Med 2,5 dl kraft i tillegg til kokosmelken er den tynnere enn en klassisk grønn curry. Den er derfor ført som begge deler her. *(Presisert.)*
 - **Holdbarhet:** 3 døgn kjøleskap. Fryser greit, men squashen blir bløt.
-- **Beslektet:** [green curry (nr. 76)](#76-green-curry-med-kylling) og [Zena's Kitchen sin versjon (nr. 100)](#100-green-curry-med-kylling--zenas-kitchen-sin-versjon) er samlingens andre grønne curryer med kylling, [thai karri-kyllingnudelsuppe (SU3)](#su3-thai-karri-kyllingnudelsuppe) er samme kjøkken som suppe, og [kyllingkraft (G22)](#g22-kyllingkraft) er kraften.
+- **Beslektet:** [green curry (nr. 76)](#76-green-curry-med-kylling) og [Zena's Kitchen sin versjon (nr. 100)](#100-green-curry-med-kylling--zenas-kitchen-sin-versjon) er andre grønne curryer med kylling i samlingen, [thai karri-kyllingnudelsuppe (SU3)](#su3-thai-karri-kyllingnudelsuppe) er samme kjøkken som suppe, og [kyllingkraft (G22)](#g22-kyllingkraft) er kraften.
 
 ---
 
@@ -10245,8 +10245,8 @@ Kyllinglår med skinn, melet bare på skinnsiden, stekt sprø og glasert i en sa
 
 ### Notater
 
-- **Melet skal bare på skinnsiden.** Det er det som gjør skinnet sprøtt og gir sausen noe å tykne på. Melerer du hele biten, forsegler du kjøttsiden også, og da slipper den ikke ut saften som blir til saus.
-- **Hvitløken står under «saus» i ingredienslisten, men skal ikke i saussbollen.** Den freses for seg i pannen rett før sausen helles over. Blandes den inn i den kalde sausen, får den aldri stekt seg og blir rå og skarp. *(Presisert – kildens gruppering er misvisende.)*
+- **Melet skal bare på skinnsiden.** Det er det som gjør skinnet sprøtt og gir sausen noe å tykne på. Vender du hele biten i mel, forsegler du kjøttsiden også, og da slipper den ikke ut saften som blir til saus.
+- **Hvitløken står under «saus» i ingredienslisten, men skal ikke i sausbollen.** Den freses for seg i pannen rett før sausen helles over. Blandes den inn i den kalde sausen, får den aldri stekt seg og blir rå og skarp. *(Presisert – kildens gruppering er misvisende.)*
 - **To spiseskjeer hvitløk til 240 g kylling er mye**, og det er meningen. Hvitløken er retten, ikke en detalj.
 - **Sausen tykner uten maisenna.** Sukkeret karamelliserer og melet fra skinnet løses ut i væsken. Det holder for denne mengden – ikke tilsett jevning.
 - **Skinnsiden ned først** og la den ligge i fred i tre–fire minutter. Snur du for tidlig, slipper skinnet ikke pannen og du river det av.
@@ -10261,7 +10261,7 @@ Kyllinglår med skinn, melet bare på skinnsiden, stekt sprø og glasert i en sa
 
 **Kilde:** Patrick Kong / PattyPlates (pattyplates.com) · **Kjøkken:** Kantonesisk · **Tid:** 1 time 10 min · **Porsjoner:** 4–6
 
-Samlingens tredje siu yuk, og den skiller seg på én ting: eggehvite i saltskorpen. Skorpen trekker ut fuktigheten fra svoren og løftes av i ett stykke når den er ferdig. Ellers samme totimersprinsipp som de to andre.
+Denne versjonen av siu yuk skiller seg fra de andre på én ting: eggehvite i saltskorpen. Skorpen trekker ut fuktigheten fra svoren og løftes av i ett stykke når den er ferdig. Ellers samme totimersprinsipp som de to andre.
 
 ### Ingredienser
 
@@ -10283,7 +10283,7 @@ Samlingens tredje siu yuk, og den skiller seg på én ting: eggehvite i saltskor
 
 ### Fremgangsmåte
 
-1. **Prikk hull over hele svoren med en gaffel.** Vær nøye med å ikke stikke gjennom til kjøttet.
+1. **Prikk hull over hele svoren med en gaffel.** Vær nøye med ikke å stikke gjennom til kjøttet.
 2. **Snitt kjøttsiden** med grunne kutt, ca. **0,5 cm dype med 2,5 cm mellomrom**.
 3. **Rør sammen hoisinsaus og shaoxingvin**, og pensle det over kjøttsiden.
 4. **Bland tørrkrydderet** og gni det jevnt inn på kjøttsiden.
@@ -10316,7 +10316,7 @@ Samlingens tredje siu yuk, og den skiller seg på én ting: eggehvite i saltskor
 
 **Kilde:** Andy Hearnden / Andy Cooks (Instagram, 54 700 likes, 6. august 2025) · **Kjøkken:** Kantonesisk · **Tid:** 1½ time + natten over · **Porsjoner:** 6 *(ikke oppgitt i kilden)*
 
-Samlingens fjerde sprøstekte sideflesk, og den eneste som **forveller kjøttet først**. Et minutt i kokende vann strammer svoren og skyller bort urenheter, og deretter tørkes den over natten. I ovnen står det vann i brettet som beskytter kjøttet mens svoren får varmen.
+Den eneste av de sprøstekte sidefleskene i samlingen som **forveller kjøttet først**. Et minutt i kokende vann strammer svoren og skyller bort urenheter, og deretter tørkes den over natten. I ovnen står det vann i brettet som beskytter kjøttet mens svoren får varmen.
 
 ### Ingredienser
 
