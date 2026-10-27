@@ -11232,8 +11232,10 @@ Hjemmelaget utgave av kjederetten: chipotlemarinert kylling, korianderris med li
 - **La kyllingen hvile før du skjærer.** Skjærer du den rett fra panna, renner saften ut på fjøla i stedet for å bli i kjøttet.
 - **Laurbærbladet i riskokingen** er et lite grep som gir risen en bunn å hvile på. Det merkes ikke som laurbær, bare som at risen smaker mer.
 - **Rømmen vispes glatt.** Det er forskjellen på en klump på toppen og et lag som fordeler seg. Tar ti sekunder.
-- **Kilden oppgir ikke risemengde.** Regn ca. 300 g tørr ris til fire porsjoner, se [kokt ris (T131)](#t131-kokt-ris). *(Lagt til.)*
+- **Kilden oppgir ikke rismengde.** Regn ca. 300 g tørr ris til fire porsjoner, se [kokt ris (T131)](#t131-kokt-ris). *(Lagt til.)*
 - **Beslektet:** [taco-salatbowl med kylling (nr. 93)](#93-taco-salatbowl-med-kylling) og [rød chimichurri-kyllingbowl (nr. 101)](#101-rød-chimichurri-kyllingbowl) er samme format med andre smaker, og [ovnsristet elote (T142)](#t142-ovnsristet-elote) hører til samme bord.
+
+---
 
 ## 209. One-pot hainansk kylling og ris
 
@@ -11292,11 +11294,13 @@ Forenklet, alt-i-én-gryte-utgave av hainansk kylling og ris: kylling og ris kok
 
 ### Notater
 
-- **Rismengden i kilden virker lav.** 1⅔ cup jasminris oppgis som 200 g, men jasminris veier normalt rundt 300–330 g per 1⅔ cup. Grammvekten fra kilden er beholdt her, men vær obs på at forholdet mellom ris og væske kan bli annerledes enn ventet – bruk gjerne 300 g ris hvis du følger en vanlig ris-til-væske-ratio, og juster væskemengden tilsvarende.
+- **Rismengden i kilden virker lav.** Kilden oppgir 1⅔ cup jasminris som 200 g, men 1⅔ cup jasminris veier normalt rundt 300–330 g. Grammvekten fra kilden er beholdt her, men vær oppmerksom på at forholdet mellom ris og væske kan bli annerledes enn ventet – bruk gjerne 300 g ris hvis du følger en vanlig ris-til-væske-ratio, og juster væskemengden tilsvarende.
 - **Ingen salting av selve risen** utover det som følger med buljongen og buljongpulveret – smak til underveis om ønskelig.
 - **«No need to» i kilden** ser ut til å referere til at risen ikke trenger skylles før den går i gryta.
 - **Sambal oelek** er brukt som oversettelse av «sambal» i kilden; bruk gjerne den sambalvarianten du har for hånden.
 - **One-pot-prinsippet:** kylling og ris kokes i samme gryte samtidig, i motsetning til en tradisjonell hainansk kylling og ris der buljongen først trekkes med kyllingen og risen kokes separat i den samme buljongen etterpå.
+
+---
 
 ## 210. Proteinbowl med airfryer-poteter, kjøttdeig og cottage cheese
 
@@ -11313,16 +11317,19 @@ Enkel proteinrik bowl bygget på airfryer-poteter, brunet kjøttdeig, cottage ch
 
 ### Fremgangsmåte
 
-1. **Skjær potetene i terninger** og airfry i **15–20 minutter**, til gyldne og møre. *(Temperatur, olje og krydder er ikke oppgitt i kilden.)*
+1. **Skjær potetene i terninger** og stek dem i airfryer i **15–20 minutter**, til de er gylne og møre. *(Temperatur, olje og krydder er ikke oppgitt i kilden.)*
 2. **Brun kjøttdeigen** i en panne til den er gjennomstekt og har fått litt farge.
 3. **Sett sammen bowlen:** poteter i bunnen, kjøttdeig på toppen, en klatt cottage cheese, og avslutt med syltet jalapeño.
 
 ### Notater
 
-- **Kilden oppgir ingen krydder, salt, pepper eller steikefett** til hverken potetene eller kjøttdeigen. Smak til selv – litt salt og en nøytral olje til potetene anbefales.
+- **Kilden oppgir ingen krydder, salt, pepper eller stekefett** til verken potetene eller kjøttdeigen. Smak til selv – litt salt og en nøytral olje til potetene anbefales.
 - **Næringsinnhold fra kilden** (for hele retten): 575 kcal, 51 g protein, 15 g fett, 59 g karbohydrater, 9 g fiber.
 - **Ingen porsjonsangivelse i kilden** – ut fra mengden (350 g poteter, 170 g kjøttdeig) er dette regnet som én stor porsjon.
 - **Fett på cottage cheese:** kilden bruker 2 % fett-variant; en annen fettprosent vil endre næringstallene noe.
+
+---
+
 ## 211. Verdens beste lasagne
 
 **Kilde:** @fysenpaa (Instagram, 19. september 2025) · **Kjøkken:** Italiensk · **Tid:** ca. 5 t (inkl. minst 4 timers trekketid for kjøttsausen) + 30 min steking · **Porsjoner:** 8–10 *(ikke oppgitt i kilden)*
@@ -11386,6 +11393,8 @@ Kilden kaller denne "verdens beste lasagne" – en klassisk kjøttsauslasagne me
 - **"Tre boksemål vann"** betyr samme volum som de tomme tomatboksene ble målt opp med (typisk 3 × 4 dl).
 - **Beslektet:** samlingen har fra før [72. Lasagna](#72-lasagna), [142. Lasagne alla Norma med salsicciaragù](#142-lasagne-alla-norma-med-salsicciaragù), [167. Lasagne alla bolognese](#167-lasagne-alla-bolognese) og [184. Hvit sopplasagne](#184-hvit-sopplasagne) – denne skiller seg ut med pancetta i sausen og dobbel ost (fersk mozzarella + ricotta) i lagene.
 
+---
+
 ## 212. Lammecarré med panang curry og urtetopping
 
 **Kilde:** @fysenpaa (Instagram, 28. mars 2026) · **Kjøkken:** Thai-inspirert · **Tid:** ca. 1 t 15 min · **Porsjoner:** 2–4 *(ikke oppgitt i kilden)*
@@ -11425,7 +11434,7 @@ Kildens påskelam-rett og "take på panang curry" – en hjemmelaget currypaste 
 ### Fremgangsmåte
 
 **Curry-paste**
-1. **Rens chiliene.** Det er viktig å fjerne frøene, ellers blir pasten veldig sterk. Hell over 2 dl kokvarmt vann og la chiliene trekke i 30 minutter. Sil av vannet og legg chiliene til side.
+1. **Rens chiliene.** Det er viktig å fjerne frøene, ellers blir pasten veldig sterk. Hell over 2 dl kokende vann og la chiliene trekke i 30 minutter. Sil av vannet og legg chiliene til side.
 2. **Alt skal i morter eller blender.** Morter gir mest smak, men blender fungerer også fint. Det letteste er å rive eller finhakke ingrediensene før du har dem i morteren.
 3. **Curry-pasten er klar** når den er fin og jevn.
 
@@ -11442,6 +11451,8 @@ Kildens påskelam-rett og "take på panang curry" – en hjemmelaget currypaste 
 - **Shrimp paste (rekepasta/kapi)** kan være vanskelig å finne i vanlige norske butikker – asiatiske matbutikker fører den vanligvis. Den gir en dypere, mer fermentert smak enn fiskesaus alene, og bør ikke droppes uten videre.
 - **Ingen porsjonsangivelse i kilden** – ett rack lammecarré (8–10 ribber) deler seg naturlig i 2–4 porsjoner avhengig av tilbehør og appetitt.
 - **Retten kalles panang curry av kilden**, men brukes her som saus til lam i stedet for den mer vanlige biffen eller kyllingen – smaksprofilen (peanøtt, kaffirlime, galangal, kokos) er likevel tro mot panang-tradisjonen. Sammenlign med [78. Panang curry med svinefilet](#78-panang-curry-med-svinefilet).
+
+---
 
 ## 213. Kyllingbowl med quinoasalat og ingefærdipp
 
@@ -11494,6 +11505,9 @@ Frisk sensommerbowl med ovnsbakte, marinerte kyllinglår, kald quinoasalat med u
 - **Bruk hvit pepper**, ikke sort – kilden spesifiserer dette i fremgangsmåten selv om ingredienslisten bare sier "pepper". Hvit pepper gir en mildere, mer thai-typisk skarphet.
 - **Ingen porsjonsangivelse i kilden** – 2 store kyllinglår med tilbehør regnes som 2–3 porsjoner.
 - **Marineringstid "et par timer, helst over natten"** – dette er en lang marinering for kun 2 kyllinglår; jo lenger, jo mer smak trekker inn i kjøttet.
+
+---
+
 ## 214. Chicken cashew
 
 **Kilde:** @fysenpaa (Instagram, annonse for @kikkoman_norge, 4. mars 2026) · **Kjøkken:** Kinesisk-amerikansk · **Tid:** under 20 min (+ 10 min marinering) · **Porsjoner:** 2–3
@@ -11505,7 +11519,7 @@ Saftig kylling med sprø cashewnøtter i en søt-salt soya-/østerssaus – en r
 **Saus**
 - 2 ss Kikkoman klassisk soyasaus (rød kork)
 - 2 ss Kikkoman teriyaki (med sesam)
-- 1 ss maizena
+- 1 ss maisenna
 - 2 ss østerssaus
 - 1 ss brunt sukker
 - 2 ts sesamolje
@@ -11521,7 +11535,7 @@ Saftig kylling med sprø cashewnøtter i en søt-salt soya-/østerssaus – en r
 
 ### Fremgangsmåte
 
-1. **Lag sausen.** Bland maizena og soyasaus til en jevn røre. Rør så inn teriyakisaus, østerssaus, brunt sukker og sesamolje.
+1. **Lag sausen.** Bland maisenna og soyasaus til en jevn røre. Rør så inn teriyakisaus, østerssaus, brunt sukker og sesamolje.
 2. **Marinér kyllingen.** Ta ca. 4 ss av sausen og bland med kyllingen. La marinere i minst 10 minutter.
 3. **Fres aromaene.** Varm en panne på medium høy varme. Ha i stekeolje og fres hvitløk og løk i ca. 1 minutt.
 4. **Stek kyllingen.** Tilsett kyllingen og stek til den er gyllen, ca. 10–15 minutter.
@@ -11533,6 +11547,8 @@ Saftig kylling med sprø cashewnøtter i en søt-salt soya-/østerssaus – en r
 - **Sponset innhold:** dette er en annonse for Kikkoman-produkter (@kikkoman_norge). Kilden anbefaler den originale rødkork-soyasausen kombinert med teriyakisausen (grønn kork) for maksimal umami uten for mye saltsmak – bruk den soyasausen du har for hånden hvis merket ikke er tilgjengelig.
 - **Brokkolini** kan erstattes med vanlig brokkoli delt i mindre buketter, eller sukkererter, hvis det ikke er tilgjengelig.
 - **Cashewnøttene tilsettes helt til slutt**, av varmen, slik at de beholder sprøheten i stedet for å bli myke av sausen.
+
+---
 
 ## 215. Pasta med shortrib-ragu (miso-soya)
 
@@ -11572,6 +11588,9 @@ En langtidsbraisert shortrib-ragu krydret med miso, soyasaus og mirin i stedet f
 - **Umami-basen (miso, soya, mirin) erstatter den klassiske tomatbunnen** man ellers finner i italiensk oksehale-/shortribragu – gir en dypere, rundere smak uten syrligheten fra tomat.
 - **Smak til på slutten er ikke valgfritt** – kilden understreker at riseddik, ekstra miso og salt tilsettes helt til slutt for å få sausen i balanse, ikke underveis i braiseringen.
 - **Sammenlign med:** [65. Langtidskokt oksragù](#65-langtidskokt-oksragù) og [73. Tagliatelle al Ragù](#73-tagliatelle-al-ragù) for de mer tradisjonelle, tomatbaserte variantene.
+
+---
+
 ## 216. Fried rice med marinert kylling
 
 **Kilde:** @fysenpaa (Instagram, annonse for @kikkoman_norge, 22. januar 2026) · **Kjøkken:** Kinesisk-amerikansk · **Tid:** under 20 min (+ marineringstid) · **Porsjoner:** 2–3
