@@ -10359,7 +10359,7 @@ Den eneste av de sprøstekte sidefleskene i samlingen som **forveller kjøttet f
 
 12. **Forvarm ovnen til 190 °C varmluft.**
 13. **Gni svoren med litt olje** og et jevnt lag ekstra havsalt.
-14. **Hell 250 ml vann i bunnen av brettet** og sett det i ovnen. **Skru ned til 170 °C** og stek i **1 time**.
+14. **Hell 2,5 dl vann i bunnen av brettet** og sett det i ovnen. **Skru ned til 170 °C** og stek i **1 time**.
 15. **Øk til 200 °C** og stek videre i **30 minutter**, til svoren er sprø.
 16. **La kjøttet hvile i minst 30 minutter.**
 17. **Skjær opp etter snittene** og server med ris, dampede grønnsaker og dippen.
@@ -10390,10 +10390,10 @@ Kyllingbryst med skinn, stekt til det er nesten gjennomstekt fra skinnsiden alen
 - 2 banansjalottløk, i tynne skiver
 - 1 sitron
 - 1 liten bunt estragon
-- 12 g olivenolje *(mengde lagt til.)*
+- 1 ss olivenolje *(Lagt til.)*
 - Salt og pepper
-- 125 ml tørr hvitvin
-- 100 ml kremfløte
+- 1,2 dl tørr hvitvin
+- 1 dl kremfløte
 
 **Til servering**
 - Potetmos eller dampede småpoteter
@@ -10649,7 +10649,7 @@ Brun lapskaus: høyrygg brunet i smør, trukket mørt i kraft, og så rotgrønns
 
 - 800 g benfri høyrygg av storfe, eventuelt bog
 - 2 ss smør, til steking
-- 10 dl vann
+- 1 liter vann
 - 1 kjøttbuljongterning
 - 800 g potet, i terninger
 - 3 gulrøtter, i terninger
@@ -10733,7 +10733,7 @@ Medisterdeig eltet seig med salt, spedd med kald melk til den blir lys og luftig
 - 3 ts salt
 - 5 ss potetmel
 - 5 dl melk, kald
-- ¾ ts pepper
+- ½ ts + ¼ ts pepper
 - ½ ts malt muskat
 - ¼ ts malt ingefær
 - 4 ss smør, til steking
