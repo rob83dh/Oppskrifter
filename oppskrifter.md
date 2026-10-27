@@ -1580,8 +1580,8 @@ Soyabasert buljong – den mest klassiske av ramen-stilene. Den lange koketiden 
 
 ### Ingredienser
 
-- 950 ml kyllingkraft
-- 475 ml vann
+- 1 liter kyllingkraft
+- 5 dl vann
 - 2 ss soyasaus
 - 1 ss mirin
 - 1 ss sake (valgfritt)
@@ -1589,7 +1589,7 @@ Soyabasert buljong – den mest klassiske av ramen-stilene. Den lange koketiden 
 - 2 porsjoner ferske ramen-nudler (eller instant, uten kryddermiks)
 - 2 bløtkokte egg
 - 4 skiver chashu-svinekjøtt (eller ferdigkokt sideflesk)
-- ¾ dl skivet vårløk
+- 2 vårløk, i tynne skiver
 - Noriark til pynt
 
 ### Fremgangsmåte
@@ -1615,8 +1615,8 @@ Saltbasert buljong – den lyseste og reneste av ramen-stilene, der kvaliteten p
 
 ### Ingredienser
 
-- 950 ml kyllingkraft
-- 240 ml dashi (valgfritt, for dybde)
+- 1 liter kyllingkraft
+- 2,5 dl dashi (valgfritt, for dybde)
 - 1 ts havsalt
 - 1 ss sake (valgfritt)
 - 1 ts sesamolje
@@ -1650,7 +1650,7 @@ Miso og chilipasta i samme buljong. Den mest robuste av de fire japanske grunnst
 
 ### Ingredienser
 
-- 950 ml kylling- eller grønnsakskraft
+- 1 liter kylling- eller grønnsakskraft
 - 2 ss lys misopasta
 - 1 ss chilipasta (gochujang eller sambal oelek)
 - 1 ss soyasaus
@@ -1689,7 +1689,7 @@ Den enkleste av dem: fem ingredienser i buljongen og et kvarter fra start til bo
 
 ### Ingredienser
 
-- 950 ml kylling- eller grønnsakskraft
+- 1 liter kylling- eller grønnsakskraft
 - 1 ss gochujang
 - 1 ss soyasaus
 - 1 ts sesamolje
@@ -1705,7 +1705,7 @@ Den enkleste av dem: fem ingredienser i buljongen og et kvarter fra start til bo
 
 ### Notater
 
-- **1 ss gochujang til nesten en liter kraft er lite.** Buljongen blir mild. Doble til 2 ss hvis du vil kjenne den.
+- **1 ss gochujang til en liter kraft er lite.** Buljongen blir mild. Doble til 2 ss hvis du vil kjenne den.
 - **Ingen topping er oppgitt.** Bløtkokt egg, vårløk, kimchi og stekt kjøtt passer alle.
 - Den raskeste veien inn i koreansk-inspirert ramen, og enkel å bygge videre på.
 
@@ -1719,7 +1719,7 @@ Lett, ren buljong med blandet sjømat og sopp.
 
 ### Ingredienser
 
-- 950 ml skalldyrkraft eller kyllingkraft
+- 1 liter skalldyrkraft eller kyllingkraft
 - 1 ss soyasaus
 - 1 ts sesamolje
 - Ca. 60 g skivet sopp
@@ -1752,7 +1752,7 @@ Ferdigramen med smør og to typer ost rørt inn. Kvarter fra pakke til bolle.
 ### Ingredienser
 
 - 2 pakker sterk koreansk instant-ramen (f.eks. Shin eller Buldak)
-- 475 ml vann
+- 5 dl vann
 - 1 ss smør
 - 50 g revet mozzarella
 - 50 g revet cheddar
@@ -1766,7 +1766,7 @@ Ferdigramen med smør og to typer ost rørt inn. Kvarter fra pakke til bolle.
 
 ### Notater
 
-- **475 ml vann til to pakker er lite** – det er meningen. Dette skal bli tykt og sausaktig, ikke en suppe.
+- **5 dl vann til to pakker er lite** – det er meningen. Dette skal bli tykt og sausaktig, ikke en suppe.
 - **Buldak er vesentlig sterkere enn Shin.** Osten demper det en del, men vær forberedt.
 - Rør inn osten på lav varme. Koker det, skiller osten seg og blir trådete.
 - Den eneste av oppskriftene i denne samlingen som er ren hurtigmat – men den funker.
@@ -1785,7 +1785,7 @@ Grillet biff i en syrlig, sterk dressing med masse friske urter og ristet rismel
 **Biff**
 - 300 g flankestek, nyreskjell (hanger steak) eller entrecôte
 - Salt
-- 10 g olje til steking *(mengde lagt til.)*
+- 1 ss nøytral olje til steking *(Lagt til.)*
 
 **Dressing**
 - 3 hvitløksfedd
@@ -1840,7 +1840,7 @@ Enkel pad thai med kylling og fritert tofu. «Lettere enn du tror», som hun skr
 - \*150 g fritert tofu (eller fast tofu)
 - 1 stor sjalottløk
 - 2 egg
-- 12 g olje til steking *(mengde lagt til.)*
+- 1 ss nøytral olje til steking *(Lagt til.)*
 
 **Saus**
 - 1 ss tamarindpasta
@@ -1893,7 +1893,7 @@ Hverdagsmiddag uten kompromiss på smak, og nesten ingen tid ved komfyren. Serve
 - 1 ts ingefærpulver
 - 35 g flytende honning
 - 3 hvitløksfedd, finrevet
-- 10 g riseddik eller hvitvinseddik
+- 2 ts riseddik eller hvitvinseddik
 
 **Kylling**
 - Kyllinglår med skinn *(mengde ikke oppgitt – regn ca. 800 g–1 kg til dobbel marinade)*
@@ -1946,7 +1946,7 @@ Alfredo møter gochujang: kremet parmesansaus med søt, fermentert chilivarme og
 - 1 ts paprikapulver
 - 1 ts italiensk krydderblanding
 - 1 ts chiliflak
-- 240 ml kremfløte
+- 2,5 dl kremfløte
 - Ca. 90 g nyrevet parmesan
 
 **Pasta og pynt**
@@ -2003,9 +2003,9 @@ Frityrstekte kyllingbiter i en klissete, blank honningglasur. Takeaway-klassiker
 - 1 ts risvin (shaoxing)
 
 **Røre**
-- Ca. 125 g selvhevende mel (1 cup)
-- Ca. 60 g maisenna (½ cup)
-- 240 ml vann
+- 125 g selvhevende mel *(Omregnet.)*
+- 60 g maisenna *(Omregnet.)*
+- 2,5 dl vann
 
 **Saus**
 - 3 ss honning
