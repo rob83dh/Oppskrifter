@@ -21366,7 +21366,7 @@ Vietnamesisk baguette med paté, majones, syltede grønnsaker, agurk, chili og k
 
 **Sandwichen**
 - 4 myke baguetter eller bolillo-rundstykker
-- 4 ss majones, helst kewpie
+- 4 ss majones, helst Kewpie
 - 4 ss leverpostei eller paté
 - 400 g grillet svinenakke, kylling eller stekt tofu
 - 1 agurk, i lange, tynne skiver
@@ -21390,9 +21390,9 @@ Vietnamesisk baguette med paté, majones, syltede grønnsaker, agurk, chili og k
 - **Brødet skal være luftig, ikke seigt.** En tynn fransk baguette har for tøff skorpe og for tett innmat. Vietnamesisk baguette er bakt med rismel; myke rundstykker er den beste erstatningen.
 - **Grønnsakene må renne av.** Blir laken med, bløter den brødet innen du rekker fram til lunsj.
 - **Korianderen brukes med stilk.** Hele kvister passer lengden på sandwichen og gir mer smak enn bare bladene.
-- **Kewpie-majones er eggere** og mer syrlig enn norsk majones. Vanlig majones fungerer, gjerne med en teskje riseddik i.
+- **Kewpie-majones har mer eggesmak** og er mer syrlig enn norsk majones. Vanlig majones fungerer, gjerne med en teskje riseddik i.
 - **Holdbarhet:** đồ chua holder 3 uker i kjøleskap. Ferdig sandwich bør spises innen 4 timer.
-- **Beslektet:** [T130](#t130-hurtigsylting-av-agurk-og-gulrot) er samme sylteprinsipp, og [S9](#s9-gỏi-cuốn--vietnamesiske-rispapirruller-med-kylling) er samme kjøkken.
+- **Beslektet:** [hurtigsylting av agurk og gulrot (T130)](#t130-hurtigsylting-av-agurk-og-gulrot) er samme sylteprinsipp, og [gỏi cuốn (S9)](#s9-gỏi-cuốn--vietnamesiske-rispapirruller-med-kylling) er samme kjøkken.
 
 ---
 
@@ -21436,10 +21436,10 @@ Mørdeig, bacon og eggestand. Den originale har verken ost eller løk – bare b
 - **Forbakingen er ikke valgfri.** Uten den suger bunnen til seg væske fra eggestanden og blir grå og bløt. Dette er den ene tingen folk hopper over.
 - **Ingen ost i en ekte lorraine.** Ost hører til i quiche au fromage. Med ost blir den god, men den heter noe annet.
 - **Deigen skal ikke eltes.** Elting utvikler gluten, og mørdeigen blir seig i stedet for smuldrende.
-- **Fyllet skal gynge litt i midten** når du tar den ut. Gjennomstekt eggestand blir kornet og slipper væske.
+- **Fyllet skal gynge litt i midten** når du tar den ut. Gjennomstekt eggestand blir kornete og slipper væske.
 - **175 °C for fyllet, 200 °C for bunnen.** To temperaturer, av to grunner: skorpe først, deretter forsiktig stivning.
 - **Holdbarhet:** 3 døgn kjøleskap, og god kald. Fryser greit ferdigstekt.
-- **Beslektet:** [S26](#s26-frittata-i-langpanne) er varianten uten deig, og [S23](#s23-terte-med-geitost-og-karamellisert-løk) bruker samme bunn.
+- **Beslektet:** [frittata i langpanne (S26)](#s26-frittata-i-langpanne) er varianten uten deig, og [terte med geitost og karamellisert løk (S23)](#s23-terte-med-geitost-og-karamellisert-løk) er en raskere terte med butterdeig.
 
 ---
 
@@ -21447,7 +21447,7 @@ Mørdeig, bacon og eggestand. Den originale har verken ost eller løk – bare b
 
 **Kilde:** Klassisk standardversjon · **Kjøkken:** Argentinsk · **Tid:** 1½ time · **Gir:** 12 stykker
 
-Fylte deigposer som tåler transport bedre enn noe annet i denne bunken. Fyllet må være helt kaldt før det pakkes inn, ellers går deigen i stykker.
+Fylte deigposer som tåler transport bedre enn de fleste småretter. Fyllet må være helt kaldt før det pakkes inn, ellers går deigen i stykker.
 
 ### Ingredienser
 
@@ -21488,8 +21488,8 @@ Fylte deigposer som tåler transport bedre enn noe annet i denne bunken. Fyllet 
 - **Ikke overfyll.** En spiseskje per sirkel. Mer, og de sprekker uansett hvor godt du lukker dem.
 - **Kanten må lukkes ordentlig.** Fukt kanten med litt vann hvis deigen er tørr, og press hardt. En empanada som åpner seg, mister alt fyllet.
 - **Oliven og egg er argentinsk signatur**, og de skal hakkes grovt så du kjenner dem.
-- **Holdbarhet:** 3 døgn kjøleskap, 3 måneder fryser. Frys dem usteikte på brett og stek fra frossen med 5 minutter ekstra.
-- **Beslektet:** [S12](#s12-friterte-saltmandler-almendras-fritas) og [S16](#s16-croquetas-de-jamón--spanske-skinkekroketter) hører til samme spanske og latinamerikanske sjanger.
+- **Holdbarhet:** 3 døgn kjøleskap, 3 måneder fryser. Frys dem ustekte på brett og stek fra frossen med 5 minutter ekstra.
+- **Beslektet:** [friterte saltmandler (S12)](#s12-friterte-saltmandler-almendras-fritas) og [croquetas de jamón (S16)](#s16-croquetas-de-jamón--spanske-skinkekroketter) hører til samme spanske og latinamerikanske sjanger.
 
 ---
 
@@ -21501,11 +21501,11 @@ Focaccia delt på langs og fylt med mozzarella, tomat og basilikum. Focacciaen e
 
 ### Ingredienser
 
-- 1 focaccia, se [B13](#b13-focaccia-på-én-dag)
+- 1 focaccia, se [focaccia på én dag (B13)](#b13-focaccia-på-én-dag)
 - 250 g mozzarella, i skiver *(godt avrent)*
 - 3 store tomater, i skiver
 - 1 bunt basilikum
-- 100 g pesto, se [T13](#t13-pesto)
+- 100 g pesto, se [pesto (T13)](#t13-pesto)
 - 100 g parmaskinke *(valgfritt)*
 - 2 ss olivenolje
 - 1 ss balsamicoeddik
@@ -21528,7 +21528,7 @@ Focaccia delt på langs og fylt med mozzarella, tomat og basilikum. Focacciaen e
 - **Pestoen er en barriere, ikke bare smak.** Fettet stenger brødporene.
 - **Den blir bedre av å ligge presset.** Til forskjell fra de fleste sandwicher tåler denne både tid og trykk – smakene setter seg.
 - **Holdbarhet:** 1 døgn kjøleskap, pakket stramt.
-- **Beslektet:** [B13](#b13-focaccia-på-én-dag) er brødet, og [T13](#t13-pesto) er pestoen.
+- **Beslektet:** [focaccia på én dag (B13)](#b13-focaccia-på-én-dag) er brødet, og [pesto (T13)](#t13-pesto) er pestoen.
 
 ---
 
@@ -21621,7 +21621,7 @@ Uthulede jalapeño fylt med ost, panert i tre lag og fritert. Frøene og hinnene
 - Olje til fritering
 
 **Chiliaioli**
-- 2 dl aioli, se [T15](#t15-aioli)
+- 2 dl aioli, se [aioli (T15)](#t15-aioli)
 - 2 ss sriracha
 - 1 ss limesaft
 
@@ -21646,7 +21646,7 @@ Uthulede jalapeño fylt med ost, panert i tre lag og fritert. Frøene og hinnene
 - **Tre–fire av gangen.** Flere senker oljetemperaturen, og da suger paneringen olje i stedet for å bli sprø.
 - **Serveres straks.** Osten inni stivner og paneringen mykner i løpet av få minutter. Dette er ikke en rett som venter.
 - **Holdbarhet:** ingen for de ferdige. Chiliaiolien holder 1 uke i kjøleskap, og fylte, upanerte jalapeño kan ligge et døgn.
-- **Beslektet:** [jalapeño popper-wontonkopper (S10)](#s10-jalapeño-popper-wontonkopper) er samme smaksbilde i wontonkopper i stedet for fritert, [aioli (T15)](#t15-aioli) er aiolien, og [friterte mac and cheese-biter (S31)](#s31-friterte-mac-and-cheese-biter) og [friterte saltmandler (almendras fritas) (S12)](#s12-friterte-saltmandler-almendras-fritas) er samlingens andre friterte småretter.
+- **Beslektet:** [jalapeño popper-wontonkopper (S10)](#s10-jalapeño-popper-wontonkopper) er samme smaksbilde i wontonkopper i stedet for fritert, [aioli (T15)](#t15-aioli) er aiolien, og [friterte mac and cheese-biter (S31)](#s31-friterte-mac-and-cheese-biter) og [friterte saltmandler (almendras fritas) (S12)](#s12-friterte-saltmandler-almendras-fritas) er andre friterte småretter.
 
 ---
 
