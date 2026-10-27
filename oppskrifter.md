@@ -26548,7 +26548,7 @@ En kokevæske, ikke en kraft. Vann og hvitvin med sjalottløk og gulrot, ferdig 
 - **Olje eller smør i buljongen «gir karakter til retten»**, sier kilden. To–tre spiseskjeer legger seg som en tynn hinne rundt fisken under posjeringen og gjør den blankere og saftigere.
 - **Muscadet er ikke tilfeldig valgt.** Den er tørr, mineralsk og lite fruktig, og er den klassiske Loire-vinen til skalldyr. Enhver tørr hvitvin uten fatpreg fungerer.
 - **Væsken kan brukes videre.** Etter posjering er den full av fiskesmak og kan kokes inn til saus. *(Lagt til.)*
-- **Beslektet:** [G26](#g26-hellstrøms-fiskekraft) er kraften trukket av bein, og [T114](#t114-hellstrøms-beurre-blanc) er sausen som ofte følger.
+- **Beslektet:** [Hellstrøms fiskekraft (G26)](#g26-hellstrøms-fiskekraft) er kraften trukket av bein, og [beurre blanc (T114)](#t114-hellstrøms-beurre-blanc) er sausen som ofte følger.
 
 ---
 
@@ -26583,9 +26583,9 @@ Kraft på grønnsaker alene. Den koker langt kortere enn kjøttkraft, fordi grø
 - **En time er grensen.** Etter det begynner grønnsakene å avgi bitterstoffer, og kraften blir tydelig grumsete og skarp. Dette er motsatt av kjøttkraft, som bare blir bedre av tid.
 - **Sopp gir umami.** Uten den smaker grønnsakskraft tynt. Soppstilker du ellers ville kastet, er perfekte her.
 - **Ikke bruk kål, brokkoli eller rosenkål.** De gir en svovelaktig smak som overdøver alt annet.
-- **Ingen salt.** Samme grunn som i [G22](#g22-kyllingkraft) – kraften kokes ofte inn senere.
+- **Ikke salt.** Samme grunn som i [kyllingkraften (G22)](#g22-kyllingkraft) – kraften kokes ofte inn senere.
 - **Holdbarhet:** 4 døgn kjøleskap, 6 måneder fryser.
-- **Beslektet:** [G22](#g22-kyllingkraft) er kjøttvarianten, og [G21](#g21-dashi) er den japanske.
+- **Beslektet:** [kyllingkraft (G22)](#g22-kyllingkraft) er kjøttvarianten, og [dashi (G21)](#g21-dashi) er den japanske.
 
 ---
 
@@ -26615,14 +26615,15 @@ Sju grønnsaker grovhakket og kokt ut i vann. Fennikel og tomat er det som skill
 
 ### Notater
 
-- **Én til to timer er lenger enn de fleste anbefaler**, og lenger enn [G30](#g30-grønnsakskraft) i samlingen, som setter grensen ved 45 minutter fordi grønnsaker begynner å avgi bitterstoffer etter det. De to oppskriftene er reelt uenige. Smak underveis – blir kraften skarp, sil av med en gang. *(Flagget.)*
-- **Fennikel er det uvanlige valget.** Den gir en svak anistone som gjør kraften mer aromatisk enn en nøytral grønnsakbuljong, men også mer preget – den passer bedre til fisk og lyst kjøtt enn til alt.
-- **Tomatene bidrar med syre og umami.** De er sjeldne i en klassisk grønnsakkraft, men er det som gjør denne brukbar der man ellers ville brukt kjøttkraft.
-- **Ingen sopp.** [G30](#g30-grønnsakskraft) bruker sjampinjong for umami; her gjør tomatene den jobben.
+- **Én til to timer er lenger enn de fleste anbefaler**, og lenger enn [grønnsakskraften (G30)](#g30-grønnsakskraft), som setter grensen ved 45 minutter fordi grønnsaker begynner å avgi bitterstoffer etter det. De to oppskriftene er reelt uenige. Smak underveis – blir kraften skarp, sil av med en gang. *(Flagget.)*
+- **Fennikel er det uvanlige valget.** Den gir en svak anistone som gjør kraften mer aromatisk enn en nøytral grønnsaksbuljong, men også mer preget – den passer bedre til fisk og lyst kjøtt enn til alt.
+- **Tomatene bidrar med syre og umami.** De er sjeldne i en klassisk grønnsakskraft, men er det som gjør denne brukbar der man ellers ville brukt kjøttkraft.
+- **Ingen sopp.** [Grønnsakskraften (G30)](#g30-grønnsakskraft) bruker sjampinjong for umami; her gjør tomatene den jobben.
 - **Holdbarhet:** inntil 1 uke i kjøleskap, eller nedfryst i mindre beholdere. Isbitform er praktisk til småporsjoner.
-- **Beslektet:** [G30](#g30-grønnsakskraft) er samlingens andre grønnsakkraft.
+- **Beslektet:** [grønnsakskraft (G30)](#g30-grønnsakskraft) er en annen grønnsakskraft.
 
 ---
+
 ## G32. Mandarin-pannekaker – asiatiske 3-ingrediens-pannekaker
 
 **Kilde:** @fysenpaa (Instagram, 15. september 2024) · **Kjøkken:** Kinesisk · **Tid:** ca. 1½ t (inkl. hviletid) · **Gir:** 12 pannekaker
@@ -26639,17 +26640,17 @@ Enkle, tynne hvetepannekaker laget med bare tre ingredienser. Den klassiske føl
 
 1. **Bland mel og salt** i en bolle. Hell det kokende vannet i bollen og rør rundt med spisepinner til deigen er kald nok til å ta på.
 2. **Kna deigen** i rundt 8 minutter til den er glatt og fin. La deigen hvile 1 time i romtemperatur.
-3. **Rull deigen** til en lang pølse og del i 12 like deler. Press alle delene flate til små pucker og olje toppene.
-4. **Legg puckene mot hverandre**, med de oljede sidene mot hverandre, to og to.
-5. **Kjevle puckene** til 6 tynne pannekaker (hvert par kjevles sammen som én).
-6. **Stek på medium til høy varme** i litt olje, 30 sekunder på hver side. Del pannekaken forsiktig i to langs midten (de to lagene skilles fra hverandre av oljen). Fortsett til du har 12 pannekaker. Legg dem i et vått håndkle til servering.
+3. **Rull deigen** til en lang pølse og del i 12 like deler. Press alle delene flate til små runde lapper og pensle toppene med olje.
+4. **Legg lappene mot hverandre**, med de oljede sidene mot hverandre, to og to.
+5. **Kjevle lappene** til 6 tynne pannekaker (hvert par kjevles sammen som én).
+6. **Stek på middels til sterk varme** i litt olje, 30 sekunder på hver side. Del pannekaken forsiktig i to langs midten (de to lagene skilles fra hverandre av oljen). Fortsett til du har 12 pannekaker. Legg dem i et fuktig kjøkkenhåndkle til servering.
 
 ### Notater
 
-- **Kilden hopper over trinn 5 i sin egen nummerering** (går fra trinn 4 rett til trinn 6). Det mangler trolig et kort hviletrinn for de sammenlagte puckene før kjevling – vanlig praksis for denne teknikken er å la dem hvile 10–15 minutter tildekket, slik at gluten slapper av og pannekakene blir lettere å kjevle tynt. *(Flagget – ikke oppgitt i kilden.)*
-- **Teknikken med to og to sammenlagte pucker** (oljede sider mot hverandre) er det som gir den karakteristiske myke, todelte teksturen: hver «pannekake» skilles i to tynne lag rett etter steking.
+- **Kilden hopper over trinn 5 i sin egen nummerering** (går fra trinn 4 rett til trinn 6). Det mangler trolig et kort hviletrinn for de sammenlagte lappene før kjevling – vanlig praksis for denne teknikken er å la dem hvile 10–15 minutter tildekket, slik at gluten slapper av og pannekakene blir lettere å kjevle tynt. *(Flagget – ikke oppgitt i kilden.)*
+- **Teknikken med to og to sammenlagte lapper** (oljede sider mot hverandre) er det som gir den karakteristiske myke, todelte teksturen: hver «pannekake» skilles i to tynne lag rett etter steking.
 - **Kilden bruker denne pannekaketypen også som tortilla** til tacos og enchiladas, ikke bare til asiatiske retter som pekingand.
-- **Oppbevaring:** hold ferdige pannekaker varme og fuktige i et vått håndkle eller under plastfolie til servering, ellers tørker de raskt ut og sprekker når de brettes.
+- **Oppbevaring:** hold ferdige pannekaker varme og fuktige i et fuktig kjøkkenhåndkle eller under plastfolie til servering, ellers tørker de raskt ut og sprekker når de brettes.
 
 
 ---
