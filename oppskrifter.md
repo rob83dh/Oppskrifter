@@ -18922,8 +18922,8 @@ Klassisk majones lagd med stavmikser i et høyt glass – metoden som gjør emul
 
 - 2 eggeplommer, romtempererte *(«romtemperert» lagt til – se notat)*
 - 1 ts dijonsennep
-- Saften av ½ sitron — ca. 20 ml *(mengde lagt til)*
-- 300 ml olje, valgfri type *(se notat om oljevalg)*
+- Saften av ½ sitron — ca. 1 ss + 1 ts *(mengde lagt til)*
+- 3 dl olje, valgfri type *(se notat om oljevalg)*
 - Salt etter smak — start med ¼ ts *(mengde lagt til)*
 
 ### Fremgangsmåte
@@ -18940,8 +18940,8 @@ Klassisk majones lagd med stavmikser i et høyt glass – metoden som gjør emul
 - **Slik redder du en skilt majones** – kilden sier bare at du skal unngå det, ikke hva du gjør når det skjer. Ha en fersk eggeplomme i et rent glass og spe den skilte blandingen ned i den, litt om gangen, mens du kjører. Da tar den seg opp igjen. *(Lagt til.)*
 - **Romtempererte plommer emulgerer lettere.** Kjøleskapskalde egg gir tregere emulsjon og større fare for skilling. Ta dem ut 20 minutter før.
 - **Rå eggeplomme er uproblematisk i Norge.** Norske egg har kontrollert salmonellastatus, og rå plommer i majones regnes som trygt her – i motsetning til i mange andre land. Er du gravid eller har nedsatt immunforsvar, bruk pasteurisert eggeplomme.
-- **Eggstørrelsen påvirker forholdet.** 2 plommer til 300 ml olje er en trygg ratio – en plomme takler godt over 150 ml. Bruker du norske L-egg med store plommer, blir majonesen litt tykkere og fastere; med M-egg litt løsere. Vann fikser begge deler.
-- **Sitronmengden varierer mye.** «Saften av ½ sitron» kan være alt fra 10 til 25 ml, og syren er det som gjør majonesen frisk i stedet for fet. Start med ca. 20 ml, smak, og juster. Hvitvinseddik gir en renere, skarpere syre om du vil ha den mer i klassisk retning.
+- **Eggstørrelsen påvirker forholdet.** 2 plommer til 3 dl olje er et trygt forhold – én plomme takler godt over 1,5 dl. Bruker du norske L-egg med store plommer, blir majonesen litt tykkere og fastere; med M-egg litt løsere. Vann fikser begge deler.
+- **Sitronmengden varierer mye.** «Saften av ½ sitron» kan være alt fra 2 ts til 1½ ss, og syren er det som gjør majonesen frisk i stedet for fet. Start med ca. 1 ss + 1 ts, smak, og juster. Hvitvinseddik gir en renere, skarpere syre om du vil ha den mer i klassisk retning.
 - **Dette er en plommemajones**, ikke en med helt egg – derfor blir den tykk og gul. Det er samme prinsipp som japansk **Kewpie**, som også bruker bare plommer. Vil du nærme deg den, bytt sitronen mot riseddik. Se notatet i [nr. 47](#47-enkel-ramen-med-kylling--matkanalen-sin-versjon) om forskjellen på japansk og norsk majones.
 - **Holdbarhet:** 3–4 dager i kjøleskap i tett glass, siden plommene er rå. Kilden sier ingenting om oppbevaring. *(Lagt til.)* Den skiller seg ikke i kjøleskapet, men blir stivere – rør den løs, eventuelt med en skvett vann.
 - **Som base:** kildens egne forslag er sitron, chili, harissa og Vegemite. I denne samlingen brukes majones videre i den sterke majonesen til [sprø risbiter med laks](#s8-sprø-risbiter-med-laks) og [sushikopper med reker](#s6-sushikopper-med-reker) – sriracha rørt i majones – Rører du inn revet hvitløk, får du hvitløksmajones – det de fleste kaller aioli. Ekte aioli er noe annet og lages helt uten egg; se [T15](#t15-aioli).
@@ -18958,8 +18958,8 @@ Tørrkaramell – sukker smeltet uten vann – rørt ut med smør og fløte. Fem
 ### Ingredienser
 
 - 200 g sukker
-- 98 g smør, i terninger — 7 ss
-- 118 ml kremfløte
+- 100 g smør, i terninger *(Omregnet fra 98 g.)*
+- 1,2 dl kremfløte
 - ½–1 ts salt, etter smak
 - 2 ts vaniljeekstrakt
 
@@ -19104,7 +19104,7 @@ Grunnforholdet er tre deler olje til én del syre. Alt annet er variasjoner over
 ### Ingredienser
 
 - 1 dl olivenolje
-- ⅓ dl vineddik eller sitronsaft
+- 2 ss vineddik eller sitronsaft *(Omregnet fra ⅓ dl.)*
 - 1 ts dijonsennep
 - ½ ts salt
 - ¼ ts sort pepper
@@ -19179,8 +19179,8 @@ Rødløk i en lake av vann, sukker og eddik i forholdet 3–2–1. Ferdig etter 
 
 - 2 rødløk, i tynne skiver
 - 1,5 dl vann
-- 1 dl sukker
-- 0,5 dl eplecidereddik
+- 85 g sukker *(Omregnet fra 1 dl.)*
+- 3 ss + 1 ts eplecidereddik *(Omregnet fra 0,5 dl.)*
 - ¼ ts hele pepperkorn
 
 ### Fremgangsmåte
@@ -19193,9 +19193,9 @@ Rødløk i en lake av vann, sukker og eddik i forholdet 3–2–1. Ferdig etter 
 
 ### Notater
 
-- **3–2–1 er forholdet å huske.** Tre deler vann, to deler sukker, én del eddik. Det gjelder all rask sylting, uansett grønnsak.
+- **3–2–1 er forholdet å huske.** Tre deler vann, to deler sukker, én del eddik, målt i volum. Det gjelder all rask sylting, uansett grønnsak.
 - **Vil du ha løken sprø, skal den ikke kokes.** Kilden koker løken opp i laken, som gjør den myk hele veien gjennom. Hell heller den kokende laken over rå løk i glasset, så beholder den knasen. *(Lagt til – kildens metode gir mykere løk.)*
-- **Eplecidereddik er mildere** enn klar 7 % eddik. Bruker du klar eddik, gå ned til 0,3 dl. Hvitvins- og rødvinseddik blir lett bitre her.
+- **Eplecidereddik er mildere** enn klar 7 % eddik. Bruker du klar eddik, gå ned til 2 ss. Hvitvins- og rødvinseddik blir lett bitre her.
 - **Laken kan smaksettes** med chili, sitronskall og dill, hvitløk og laurbær, korianderfrø og ingefær, eller stjerneanis. Kilden lister opp alle.
 - **Ikke kast laken.** Den er en ferdig vinaigrettebase når løken er spist opp.
 - **Holdbarhet:** minst 2 uker i kjøleskap i glass med tett lokk.
@@ -19214,7 +19214,7 @@ Samme prinsipp som syltet rødløk, men på faste grønnsaker som skal beholde k
 - 1 agurk, i tynne skiver eller staver
 - 2 gulrøtter, i tynne staver
 - 3 dl vann
-- 2 dl sukker
+- 170 g sukker *(Omregnet fra 2 dl.)*
 - 1 dl riseddik eller eplecidereddik
 - 2 ts salt
 - 1 ts hele korianderfrø *(valgfritt)*
