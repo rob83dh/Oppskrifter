@@ -18284,12 +18284,12 @@ Et halvt kilo agurk saltet, avvannet og blandet med bare tre–fire spiseskjeer 
 
 ### Ingredienser
 
-- 500 g agurk (2 slangeagurk)
+- 500 g agurk (2 slangeagurker)
 - 3–4 ss tykk gresk yoghurt
 - 1 ss hakket frisk mynte
 - 1 ss hakket persille
 - 1 ss hakket frisk dill
-- En knivspiss chilipepper
+- En knivsodd chilipulver
 - Limesaft
 - Salt
 
@@ -18309,11 +18309,11 @@ Et halvt kilo agurk saltet, avvannet og blandet med bare tre–fire spiseskjeer 
 ### Notater
 
 - **Saltingen er ikke krydring, den er avvanning.** Agurk er over 95 % vann. Uten de femten minuttene renner væsken ut i yoghurten og du sitter igjen med en tynn suppe innen en halvtime.
-- **Skyll saltet av etterpå.** Agurken har trukket til seg mer enn den skal ha. Hopper du over skyllingen, blir retten usspiselig salt.
+- **Skyll saltet av etterpå.** Agurken har trukket til seg mer enn den skal ha. Hopper du over skyllingen, blir retten uspiselig salt.
 - **Skiver, ikke revet.** De fleste tzatzikioppskrifter river agurken. Skiver gir en helt annen tekstur – dette er nærmere en agurksalat med yoghurt enn en dipp.
 - **Tre–fire spiseskjeer yoghurt til et halvt kilo agurk** er svært lite. Yoghurten er et bindemiddel her, ikke basen.
 - **Lime, ikke sitron.** Uvanlig i en gresk saus, og det trekker den mot noe friskere og mer moderne.
-- **Beslektet:** [nr. 75](#75-pannestekt-laks-med-tzatziki-og-ris-lavfodmap) bruker tzatziki som tilbehør til laks.
+- **Beslektet:** [pannestekt laks med tzatziki (nr. 75)](#75-pannestekt-laks-med-tzatziki-og-ris-lavfodmap) bruker tzatziki som tilbehør til laks.
 
 ---
 
@@ -18325,26 +18325,26 @@ Hvitløk, eggeplommer og tre desiliter olivenolje kjørt tykt med stavmikser.
 
 ### Ingredienser
 
-- 2–3 hvitløkfedd
+- 2–3 hvitløksfedd
 - 2 eggeplommer
 - 3 dl olivenolje
-- Kajennepepper
+- Cayennepepper
 - Salt
 
 ### Fremgangsmåte
 
-1. **Del hvitløkfeddene i to på langs**, fjern skall og spirer, og knus dem lett med kniv.
-2. **Bland dem med eggeplommene, salt og kajennepepper.**
+1. **Del hvitløksfeddene i to på langs**, fjern skall og spirer, og knus dem lett med kniv.
+2. **Bland dem med eggeplommene, salt og cayennepepper.**
 3. **Tilsett oljen i blandingen.**
 4. **Kjør alt med stavmikser til tykk konsistens.**
 
 ### Notater
 
-- **Dette er hvitløksmajones, ikke aioli i streng forstand.** Den provençalske originalen har ingen egg – bare hvitløk, salt og olje støtt i morter. Eggeplommene gjør emulsjonen langt lettere å få til, og det er derfor de fleste moderne oppskrifter gjør det slik. Se [T15](#t15-aioli) for versjonen uten egg.
+- **Dette er hvitløksmajones, ikke aioli i streng forstand.** Den provençalske originalen har ingen egg – bare hvitløk, salt og olje støtt i morter. Eggeplommene gjør emulsjonen langt lettere å få til, og det er derfor de fleste moderne oppskrifter gjør det slik. Se [aioli (T15)](#t15-aioli) for versjonen uten egg.
 - **All oljen i på én gang.** Stavmikserversjonen tåler det som pisking ikke gjør: mikseren bygger emulsjonen nedenfra og opp, og oljen trekkes inn gradvis av seg selv. Skal du piske for hånd, må den derimot spes.
 - **Ren olivenolje gir en kraftig aioli.** Tre desiliter av en fruktig olje er mye smak; bruk en mild olivenolje eller bland med nøytral olje hvis den blir for dominerende. *(Lagt til.)*
 - **Spirene ut.** Med hvitløken rå og i sentrum av retten er den grønne kimen ikke til å overse.
-- **Beslektet:** [T15](#t15-aioli) er den eggfrie originalen, og [T105](#t105-hellstrøms-majones) er den samme emulsjonen uten hvitløk.
+- **Beslektet:** [aioli (T15)](#t15-aioli) er den eggfrie originalen, og [Hellstrøms majones (T105)](#t105-hellstrøms-majones) er den samme emulsjonen uten hvitløk.
 
 ---
 
@@ -18360,8 +18360,8 @@ Klassisk pisket majones der eddiken kommer inn til slutt, etter at emulsjonen st
 - 2 ts dijonsennep
 - 2–3 dl olje (solsikke-, jordnøtt- eller druekjerneolje, eventuelt olivenolje)
 - Saft fra ¼ sitron
-- 1 ss vineddik (eplesidereddik, sherryeddik e.l.)
-- Kajennepepper
+- 1 ss vineddik (eplecidereddik, sherryeddik e.l.)
+- Cayennepepper
 - Hvit pepper
 - Salt
 
@@ -18370,7 +18370,7 @@ Klassisk pisket majones der eddiken kommer inn til slutt, etter at emulsjonen st
 1. **Visp sammen eggeplommer, dijonsennep, hvit pepper, salt og sitronsaft.**
 2. **Spe med olje litt etter litt** til det blir en tykkere konsistens.
 3. **Tilsett vineddiken.**
-4. **Smak til med salt og kajennepepper.**
+4. **Smak til med salt og cayennepepper.**
 
 ### Notater
 
@@ -18410,10 +18410,11 @@ Fire bunter urter kjørt med olivenolje og silt gjennom filter til en klar, grø
 - **Fire bunter er mye urter.** Det er nettopp derfor fargen blir så kraftig – og hvorfor det lønner seg å lage full porsjon selv om du bare trenger litt.
 - **Filtreringen tar tid.** Regn med en halvtime hvis den skal renne av seg selv. Presser du, følger partiklene med og oljen blir grumsete. *(Lagt til.)*
 - **Best nylaget, tross holdbarheten.** Kilden oppgir flere uker i kjøleskap, men sier samtidig at den er best fersk. Fargen blekner gradvis.
-- **Estragon i en grønn olje er det franske grepet.** De tre andre urtene er nøytrale nok til å bære farge; estragonen er den som gir olja karakter.
-- **Beslektet:** [T98](#t98-hellstrøms-salsa-verde) er samme farge bundet med egg, og [T97](#t97-hellstrøms-spinatsaus) er den varme grønne sausen.
+- **Estragon i en grønn olje er det franske grepet.** De tre andre urtene er nøytrale nok til å bære farge; estragonen er den som gir oljen karakter.
+- **Beslektet:** [salsa verde (T98)](#t98-hellstrøms-salsa-verde) har samme farge bundet med egg, og [spinatsausen (T97)](#t97-hellstrøms-spinatsaus) er den varme grønne sausen.
 
 ---
+
 ## T107. Hellstrøms vinaigrette med soya
 
 **Kilde:** Eyvind Hellstrøm, *Grunnboka* (Cappelen Damm, 2025) · **Kjøkken:** Asiatisk-inspirert · **Tid:** 5 min · **Gir:** ca. 1 dl
@@ -18437,7 +18438,7 @@ Fire ingredienser vispet sammen. Soyasaus i stedet for eddik som syre og salt.
 - **Sesamolje er en smakssetter, ikke en baseolje.** To spiseskjeer er grensen; mer og den overdøver alt annet. Den skal heller ikke varmes.
 - **Soyaen erstatter saltet.** Ikke tilsett salt i tillegg uten å smake først.
 - **Denne skiller seg fort.** Uten sennep eller annen emulgator legger oljen seg på toppen i løpet av minutter. Visp rett før servering. *(Lagt til.)*
-- **Beslektet:** [T108](#t108-hellstrøms-vinaigrette-med-balsamico) er samme sjanger, og [T116](#t116-hellstrøms-soyasmørsaus) bruker soya i en varm saus.
+- **Beslektet:** [vinaigrette med balsamico (T108)](#t108-hellstrøms-vinaigrette-med-balsamico) er samme sjanger, og [soyasmørsausen (T116)](#t116-hellstrøms-soyasmørsaus) bruker soya i en varm saus.
 
 ---
 
@@ -18462,7 +18463,7 @@ Tre ingredienser. Kvaliteten på eddiken er hele oppskriften.
 - **«Vecchio» betyr lagret**, og det er ikke en detalj. Ung industribalsamico er tynn, sur og tilsatt karamell; lagret balsamico er sirupsaktig og søt. Med bare tre ingredienser er det ingenting å gjemme en dårlig eddik bak.
 - **Ingen sennep, ingen løk.** Dette er en ren olje-og-syre-blanding som skal la balsamicoen komme fram.
 - **Forholdet er knapt to til én**, langt syrligere på papiret enn en klassisk vinaigrette på tre til én. Men lagret balsamico er mild og søt, så den oppleves rundere enn tallene tilsier.
-- **Beslektet:** [T127](#t127-vinaigrette) er samlingens klassiske grunnvinaigrette, og [T107](#t107-hellstrøms-vinaigrette-med-soya) er den asiatiske varianten.
+- **Beslektet:** [vinaigrette (T127)](#t127-vinaigrette) er den klassiske grunnvinaigretten, og [vinaigrette med soya (T107)](#t107-hellstrøms-vinaigrette-med-soya) er den asiatiske varianten.
 
 ---
 
@@ -18474,7 +18475,7 @@ To spiseskjeer dijon emulgerer oljen inn i eddiken. Sjalottløken kommer i etter
 
 ### Ingredienser
 
-- 2 ss sherryeddik, vineddik eller eplesidereddik
+- 2 ss sherryeddik, vineddik eller eplecidereddik
 - 2 ss dijonsennep
 - 6 ss nøytral olje (druekjerne-, jordnøtt-, raps- eller solsikkeolje)
 - 1 ss finhakket sjalottløk
@@ -18493,8 +18494,8 @@ To spiseskjeer dijon emulgerer oljen inn i eddiken. Sjalottløken kommer i etter
 - **To spiseskjeer dijon er mye**, og det er derfor denne binder seg og holder seg bundet. Med så mye sennep er den nærmere en tynn majones enn en vinaigrette.
 - **Sjalottløken sist.** Går den i før oljen, hindrer bitene emulsjonen i å bygge seg. Etterpå er den bare tekstur og smak.
 - **Nøytral olje er valgt med hensikt.** Sennep og olivenolje sammen blir lett bittert; en smaksnøytral olje lar sennepen og eddiken stå alene.
-- **Boka kaller den «Fransk vinaigrette 1».** Navnet her beskriver forskjellen fra [T110](#t110-hellstrøms-franske-vinaigrette-med-kajenne). *(Presisert.)*
-- **Beslektet:** [T110](#t110-hellstrøms-franske-vinaigrette-med-kajenne) er storporsjonen uten sennep, og [T127](#t127-vinaigrette) er grunnversjonen.
+- **Boka kaller den «Fransk vinaigrette 1».** Navnet her beskriver forskjellen fra [vinaigretten med cayenne (T110)](#t110-hellstrøms-franske-vinaigrette-med-kajenne). *(Presisert.)*
+- **Beslektet:** [vinaigretten med cayenne (T110)](#t110-hellstrøms-franske-vinaigrette-med-kajenne) er storporsjonen uten sennep, og [vinaigrette (T127)](#t127-vinaigrette) er grunnversjonen.
 
 ---
 
@@ -18506,12 +18507,12 @@ Storporsjon uten sennep. Eddik og olje blandes hver for seg før de møtes.
 
 ### Ingredienser
 
-- 1 dl vineddik (sherry-, eplesider- eller hvitvinseddik)
+- 1 dl vineddik (sherry-, eplecider- eller hvitvinseddik)
 - 3 dl matolje (soya-, druekjerne-, jordnøtt-, solsikke- eller olivenolje, eller en kombinasjon)
 - 1 ss finhakket sjalottløk
 - Salt
 - Hvit pepper
-- Kajennepepper
+- Cayennepepper
 
 ### Fremgangsmåte
 
@@ -18522,12 +18523,12 @@ Storporsjon uten sennep. Eddik og olje blandes hver for seg før de møtes.
 ### Notater
 
 - **De to blandingene lages hver for seg med hensikt.** Salt løses i eddik, pepper løses i olje. Blander du alt på én gang, får du ujevn fordeling av begge deler – dette er den franske grunnmetoden.
-- **Uten sennep binder den seg ikke.** Denne skal skilles og ristes før bruk. Det er ikke en feil, det er en annen type dressing enn [T109](#t109-hellstrøms-franske-vinaigrette-med-dijon).
+- **Uten sennep binder den seg ikke.** Denne skal skilles og ristes før bruk. Det er ikke en feil, det er en annen type dressing enn [vinaigretten med dijon (T109)](#t109-hellstrøms-franske-vinaigrette-med-dijon).
 - **Nøyaktig 3 til 1**, det klassiske forholdet. Kilden holder seg til fasiten her.
 - **Fire desiliter er en storporsjon** ment for oppbevaring. Uten egg og sennep holder den seg i ukevis i kjøleskap.
-- **Kajenne i en vinaigrette** er kildens signatur – den går igjen i nesten alle sausene i boka, og gir varme uten at retten oppfattes som sterk.
+- **Cayenne i en vinaigrette** er kildens signatur – den går igjen i nesten alle sausene i boka, og gir varme uten at retten oppfattes som sterk.
 - **Boka kaller den «Fransk vinaigrette 2».** *(Presisert.)*
-- **Beslektet:** [T109](#t109-hellstrøms-franske-vinaigrette-med-dijon) er den emulgerte lillesøsteren.
+- **Beslektet:** [vinaigretten med dijon (T109)](#t109-hellstrøms-franske-vinaigrette-med-dijon) er den emulgerte lillesøsteren.
 
 ---
 
@@ -18541,13 +18542,13 @@ Et kvart kilo smør og en stor bunt kruspersille kjørt til fin, grønn farge og
 
 - 250 g smør
 - 1 stor bunt kruspersille
-- 2 hvitløkfedd
-- Kajennepepper
+- 2 hvitløksfedd
+- Cayennepepper
 
 ### Fremgangsmåte
 
 1. **Del smøret i terninger** og la det bli romtemperert.
-2. **Skrell hvitløkfeddene**, del dem i to, fjern den grønne spiren og knus dem med knivbladet.
+2. **Skrell hvitløksfeddene**, del dem i to, fjern den grønne spiren og knus dem med knivbladet.
 3. **Vask persillen** og plukk den fri for grove stilker.
 4. **Ha alt i kjøkkenmaskin** og kjør til god konsistens med fin, grønn farge.
 5. **Rull smøret til en pølse i plastfolie** og oppbevar i kjøleskap eller fryser.
@@ -18594,7 +18595,7 @@ Tre–fire desiliter rødvin kokt inn med sjalottløk til marmelade, og blandet 
 - **«Marmeladekonsistens» betyr nesten tørt.** Tre–fire desiliter vin skal ned til noen spiseskjeer. Er det mer væske igjen, blir smøret løst og lar seg ikke rulle.
 - **Alkoholen koker bort, syren blir igjen.** Det er syren som gjør at smøret ikke oppleves fett, og som kler rødt kjøtt.
 - **Urtene inn etter smøret.** Timian og estragon i den kokende vinen ville mistet aromaen. Her går de i på slutten, i kald masse.
-- **Beslektet:** [T111](#t111-hellstrøms-persillesmør) og [T91](#t91-hellstrøms-ansjossmør) er de andre pølsesmørene.
+- **Beslektet:** [persillesmør (T111)](#t111-hellstrøms-persillesmør) og [ansjossmør (T91)](#t91-hellstrøms-ansjossmør) er de andre pølsesmørene.
 
 ---
 
