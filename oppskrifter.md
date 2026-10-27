@@ -24860,7 +24860,7 @@ Egg pochert rett i en tykk saus av tomat, paprika og spisskummen. Alt lages i é
 
 1. **Fres løk og paprika** i olivenoljen i en vid panne på middels varme til de er myke, **10–12 minutter**.
 2. **Ha i hvitløk og krydder** og stek videre i **1 minutt**, til det dufter.
-3. **Hell i tomatene**, klem dem i stykker med sleiva, og salt.
+3. **Hell i tomatene**, klem dem i stykker med sleiven, og salt.
 4. **La sausen koke uten lokk i 12–15 minutter**, til den er tykk nok til at en sleiv etterlater et spor i bunnen.
 5. **Lag groper i sausen** med baksiden av en skje, og knekk ett egg i hver.
 6. **Legg på lokk og la det stå på svak varme i 6–8 minutter**, til hvitene er faste og plommene fortsatt rennende.
@@ -24868,7 +24868,7 @@ Egg pochert rett i en tykk saus av tomat, paprika og spisskummen. Alt lages i é
 
 ### Notater
 
-- **Sausen må være tykk før eggene i.** Er den fortsatt vandig, siger eggehvitene ut i den i stedet for å holde seg samlet, og du får eggesuppe.
+- **Sausen må være tykk før eggene går i.** Er den fortsatt vandig, siger eggehvitene ut i den i stedet for å holde seg samlet, og du får eggesuppe.
 - **Lokket steker eggene ovenfra.** Uten lokk stivner bunnen lenge før toppen. Følg med fra seks minutter – overgangen fra rennende til hardkokt tar under et minutt.
 - **Groper med skjeen, ikke bare slippe eggene oppå.** Egget skal ligge nede i sausen, ikke flyte på den.
 - **Fetaen kommer på til slutt.** Kokes den med, smelter den ut i sausen og forsvinner.
@@ -24901,7 +24901,7 @@ Melken syrnes med sitronsaft til en erstatning for buttermilk, og røren har bå
 2. **Visp alle de tørre ingrediensene godt sammen.**
 3. **Visp eggene inn i den syrnede melken.**
 4. **Bland det våte og det tørre sammen**, men vær forsiktig med å røre for mye.
-5. **Varm en stekepanne med non-stick-belegg** på medium høy varme og ha i litt smør. Det trenger du bare å gjøre første runde.
+5. **Varm en slippbelagt stekepanne** på middels sterk varme og ha i litt smør. Det trenger du bare å gjøre første runde.
 6. **Stek pannekakene i omtrent samme størrelse**, og ikke for mange i pannen om gangen. **Snu dem når du ser tydelige bobler på toppen, eller etter 2½ minutter.** Undersiden trenger **ca. 1 minutt**.
 7. **Server med lønnesirup og smør**, eller annen topping.
 
@@ -24911,12 +24911,12 @@ Melken syrnes med sitronsaft til en erstatning for buttermilk, og røren har bå
 - **Både bakepulver og natron.** Bakepulveret gir jevn heving under stekingen, natronet reagerer med syren i det øyeblikket røren blandes. Det er derfor røren skal i pannen ganske raskt.
 - **Sitronsaft og melk kan erstattes med kulturmelk.** Da hopper du over første trinn.
 - **Ikke rør for mye.** Overrøring utvikler gluten, og pannekakene blir seige i stedet for luftige. Litt klumper er riktig.
-- **Smør bare første runde.** Pannen er innsatt etter det, og mer smør gir flekkete overflate.
+- **Smør bare første runde.** Pannen er godt nok smurt etter det, og mer smør gir flekkete overflate.
 - **Bær eller sjokoladebiter** has i rett etter at røren er hellet i pannen, ikke i røren.
-- **Brownes egne toppingforslag** ved siden av lønnesirup og smør: sitronsaft og sukker, krydrede bananer, eller stekt egg med bacon.
+- **Kildens egne toppingforslag** ved siden av lønnesirup og smør: sitronsaft og sukker, krydrede bananer, eller stekt egg med bacon.
 - **Skal alle serveres samtidig**, la stabelen stå i ovnen på laveste varme mens du steker ferdig.
 - **Holdbarhet:** stekes og spises. Røren tåler ikke oppbevaring – natronet er brukt opp i løpet av kort tid.
-- **Beslektet:** [F11](#f11-ricottapannekaker) er den luftigere varianten med piskede eggehviter, og [F9](#f9-french-toast) bruker samme panne og samme helgemorgen.
+- **Beslektet:** [ricottapannekaker (F11)](#f11-ricottapannekaker) er den luftigere varianten med piskede eggehviter, og [french toast (F9)](#f9-french-toast) bruker samme panne og samme helgemorgen.
 
 ---
 
@@ -24951,7 +24951,7 @@ Eggerøre laget på så lav varme at den blir kremet i stedet for i biter. Den t
 - **Slikkepott, ikke visp.** Vispen lager små biter. Slikkepotten skraper langs bunnen og holder massen samlet.
 - **Ti til femten minutter høres feil ut, men er riktig.** Går det raskere, er varmen for høy, og du lager norsk eggerøre – som også er god, men er en annen rett.
 - **Holdbarhet:** spises med en gang. Eggerøre tåler verken oppbevaring eller oppvarming.
-- **Beslektet:** [F4](#f4-eggs-benedict) bruker samme forsiktighet med egg og varme.
+- **Beslektet:** [eggs Benedict (F4)](#f4-eggs-benedict) bruker samme forsiktighet med egg og varme.
 
 ---
 
@@ -24996,7 +24996,7 @@ Posjert egg og skinke på ristet muffins, med hollandaise over. Hollandaisen er 
 - **Ferske egg posjerer best.** Gamle egg har tynnere hvite som sprer seg utover i vannet.
 - **Vannet skal ikke fosskoke.** Da rives egget fra hverandre. Så vidt boblende er riktig.
 - **Hollandaise kan ikke lages på forhånd** og ikke varmes opp. Lag den sist av alt, og hold den lun i maks 30 minutter.
-- **Beslektet:** [nr. 145](#145-hvit-asparges-med-shiitake-og-brunet-hollandaise) bruker samme saus med brunet smør.
+- **Beslektet:** [hvit asparges med brunet hollandaise (nr. 145)](#145-hvit-asparges-med-shiitake-og-brunet-hollandaise) bruker samme saus med brunet smør.
 
 ---
 
@@ -25019,7 +25019,7 @@ Tortillachips vendt i varm salsa til de er halvveis myke, med egg over. Meksikan
 - 3 hvitløksfedd
 - 1 ts spisskummen
 - 1 ts salt
-- 2 dl kyllingkraft, se [G22](#g22-kyllingkraft)
+- 2 dl kyllingkraft, se [kyllingkraft (G22)](#g22-kyllingkraft)
 
 **Over**
 - 100 g fetaost eller queso fresco, smuldret
@@ -25065,11 +25065,11 @@ Egg, potet, ost og bacon rullet i en stor tortilla og stekt til den er sprø ute
 - 2 ss smør
 - 1 ts røkt paprikapulver
 - Salt og pepper
-- 2 dl salsa eller [T20](#t20-pico-de-gallo)
+- 2 dl salsa eller [pico de gallo (T20)](#t20-pico-de-gallo)
 
 ### Fremgangsmåte
 
-1. **Stek potetterningene** i en panne med litt olje på middels varme til de er gyllne og møre, **12–15 minutter**. Krydre med røkt paprika, salt og pepper.
+1. **Stek potetterningene** i en panne med litt olje på middels varme til de er gylne og møre, **12–15 minutter**. Krydre med røkt paprika, salt og pepper.
 2. **Stek baconet** sprøtt i egen panne, ta det opp, og stek løken myk i fettet.
 3. **Lag eggerøren** i smør på svak varme, og ta den av mens den fortsatt er litt løs.
 4. **Varm tortillaene** i tørr panne så de blir myke å rulle.
@@ -25085,7 +25085,7 @@ Egg, potet, ost og bacon rullet i en stor tortilla og stekt til den er sprø ute
 - **Ikke overfyll.** Den vanligste feilen. En rull som ikke lar seg lukke, faller fra hverandre i pannen.
 - **Frysing:** pakk ferdige, avkjølte burritoer enkeltvis i folie. Fra fryser: 2 minutter i mikro, deretter 3 minutter i panne for å få sprøheten tilbake.
 - **Holdbarhet:** 2 døgn kjøleskap, 3 måneder fryser.
-- **Beslektet:** [F5](#f5-chilaquiles) bruker samme spiskammer, og [nr. 122](#122-braiserte-kyllingtacos) samme tortillaer.
+- **Beslektet:** [chilaquiles (F5)](#f5-chilaquiles) bruker samme spiskammer, og [braiserte kyllingtacos (nr. 122)](#122-braiserte-kyllingtacos) samme tortillaer.
 
 ---
 
@@ -25126,7 +25126,7 @@ Havregryn, nøtter og frø ristet i ovnen med sirup og olje. Hemmeligheten bak k
 - **Tørket frukt inn etter steking.** Stekes den med, blir den hard som stein.
 - **Forholdet er 1 del væske til 5 deler tørt** etter volum. Mer sirup gir mer klumper, men også en klissete granola.
 - **Holdbarhet:** 1 måned i tett glass. Blir den bløt, gi den 10 minutter på 150 °C.
-- **Beslektet:** [F8](#f8-overnight-oats) bruker samme havregryn utenom ovnen.
+- **Beslektet:** [overnight oats (F8)](#f8-overnight-oats) bruker samme havregryn utenom ovnen.
 
 ---
 
