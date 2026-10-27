@@ -16102,8 +16102,8 @@ Peppersaus laget i pannen rett etter biffen, så alt stekefettet og den brune bu
 - 1 løk, finhakket *(størrelse ikke oppgitt – se notat)*
 - 1 hvitløksfedd, finhakket
 - 2 ss grovknust sort pepper *(se notat – dette er mye)*
-- 300 ml oksekraft
-- 200 ml kremfløte
+- 3 dl oksekraft
+- 2 dl kremfløte
 - Salt *(mangler i kilden)*
 
 ### Fremgangsmåte
@@ -16123,7 +16123,7 @@ Peppersaus laget i pannen rett etter biffen, så alt stekefettet og den brune bu
 - **Minuttet i punkt 4 er ikke tilfeldig.** Pepperen ristes i smøret, og det er der de flyktige oljene løsner. Hopper du over det og heller kraften rett på, blir pepperen bare skarp uten aroma.
 - **Sjalottløk er riktigere enn løk.** Kilden sier bare «onion» uten størrelse. En hel vanlig løk er mye og gir en søtere, grovere saus – **2 sjalottløk** ligger nærmere den franske originalen og løser seg bedre opp. Uansett: så finhakket som du klarer. *(Anbefaling lagt til.)*
 - **Saltet er utelatt fra oppskriften.** Oksekraft på terning er allerede salt, hjemmelaget kraft er det ikke. Smak til på slutten, etter innkokingen, når saltet er konsentrert. *(Lagt til.)*
-- **15 minutter er for lenge for 200 ml fløte.** Sausen er som regel ferdig etter **5–10 minutter**. Gå etter skjeen, ikke klokka – koker du for lenge, blir den seig og fettet kan skille seg ut. *(Korreksjon lagt til.)*
+- **15 minutter er for lenge for 2 dl fløte.** Sausen er som regel ferdig etter **5–10 minutter**. Gå etter skjeen, ikke klokka – koker du for lenge, blir den seig og fettet kan skille seg ut. *(Korreksjon lagt til.)*
 - **Konjakk er den klassiske ingrediensen som mangler.** I en tradisjonell sauce au poivre deles pannen opp med 2–3 ss konjakk før kraften går i. Det gir dybde og en aroma peppersausen ellers ikke får. Anbefales. *(Lagt til.)*
 - **Bruk kremfløte på 38 %.** Matlagingsfløte har for lite fett til å tykne ved innkoking, og skiller seg lettere.
 - **Ikke tørk ut pannen etter biffen.** Fondet – de brune restene i bunnen – er halve smaken. Skrap dem løs når kraften går i.
@@ -16139,15 +16139,15 @@ Rask chiliolje der varm olje helles over tørre krydder og revet hvitløk og ing
 
 ### Ingredienser
 
-- 120 ml tørkede chiliflak — ca. 50 g
+- ca. 50 g tørkede chiliflak
 - 7 g kashmiri chilipulver
 - 7 g sesamfrø *(valgfritt)*
 - 2 hvitløksfedd, revet
 - 5 g fersk ingefær, revet
 - 9 g sukker
 - Salt
-- 320 ml nøytral olje
-- 20 ml soyasaus
+- 3,2 dl nøytral olje
+- 1 ss + 1 ts soyasaus
 
 ### Fremgangsmåte
 
@@ -16159,16 +16159,16 @@ Rask chiliolje der varm olje helles over tørre krydder og revet hvitløk og ing
 
 ### Notater
 
-- **«2 minutter» er ingen temperaturangivelse.** Avhengig av kjele og komfyr kan 320 ml olje ligge alt fra 120 til over 220 °C etter to minutter. Riktig er **175–190 °C**: kaldere, og krydderet infuseres aldri ordentlig; varmere, og chiliflakene brenner i det oljen treffer og hele porsjonen blir bitter. Bruk termometer, eller stikk ned en tresleiv – bruser det jevnt rundt den, er du omtrent der. *(Presisering lagt til.)*
+- **«2 minutter» er ingen temperaturangivelse.** Avhengig av kjele og komfyr kan 3,2 dl olje ligge alt fra 120 til over 220 °C etter to minutter. Riktig er **175–190 °C**: kaldere, og krydderet infuseres aldri ordentlig; varmere, og chiliflakene brenner i det oljen treffer og hele porsjonen blir bitter. Bruk termometer, eller stikk ned en tresleiv – bruser det jevnt rundt den, er du omtrent der. *(Presisering lagt til.)*
 - **Rå hvitløk og ingefær i olje krever kjøleskap.** Dette er den store forskjellen fra [T10](#t10-hvitløks-chiliolje-chili-crisp), der hvitløken frityrstekes først. Rå hvitløk lagret i olje ved romtemperatur er en kjent kilde til botulisme, fordi oljen gir et oksygenfritt miljø. Oljen som helles over, varmer hvitløken delvis, men ikke pålitelig nok til å regne den som stekt. **Oppbevar glasset i kjøleskap og bruk oljen innen et par uker.** Vil du ha en olje som tåler å stå fremme, stek hvitløken og ingefæren i oljen først og sil dem fra, slik T10 gjør. *(Matsikkerhetsnotat lagt til.)*
 - **Fersk hvitløk og ingefær inneholder vann**, og spruter kraftig når 190-gradig olje treffer. Bruk en bolle som er minst dobbelt så stor som du tror du trenger, sett den i vasken, og hell oljen i to–tre omganger. Samme fallgruve som i T10, men verre her på grunn av de ferske ingrediensene.
-- **Chiliflakene avgjør styrken fullstendig.** 120 ml er et volummål, og kilden sier ikke hvilken type. Koreansk gochugaru og kinesiske sichuan-flak er milde og aromatiske; europeiske knuste chiliflak eller cayenne i samme mengde gir noe langt sterkere. Vet du ikke hva du har, start med halvparten. *(Presisering lagt til.)*
+- **Chiliflakene avgjør styrken fullstendig.** Kilden oppgir 120 ml og sier ikke hvilken type. Koreansk gochugaru og kinesiske sichuan-flak er milde og aromatiske; europeiske knuste chiliflak eller cayenne i samme mengde gir noe langt sterkere. Vet du ikke hva du har, start med halvparten. *(Presisering lagt til.)*
 - **Kashmiri chilipulver er der for fargen, ikke styrken.** Det er mildt og dyprødt, og fås i indiske butikker på Grønland. Erstatning: 1 ss søtt paprikapulver og en knivsodd cayenne. *(Erstatning lagt til.)*
 - **Saltmengden er ikke oppgitt.** Regn ½ ts til denne mengden.
-- **Australsk spiseskje er 20 ml**, som kilden selv bekrefter ved å oppgi 20 ml for soyasausen. Mengdene over er derfor gitt i gram og milliliter. Se samme presisering i [nr. 130](#130-kremet-hvitløks--og-sennepskylling--chef-jack-ovens-sin-versjon).
+- **Australsk spiseskje er 20 ml**, som kilden selv bekrefter ved å oppgi 20 ml for soyasausen. Mengdene over er derfor regnet om til gram og norske mål. Se samme presisering i [nr. 130](#130-kremet-hvitløks--og-sennepskylling--chef-jack-ovens-sin-versjon).
 - **Soyasausen skal i etter at oljen har falt til ro**, ikke mens den fortsatt er glovarm – den er full av vann og spruter. Den forkorter også holdbarheten. Vil du ha lengst mulig holdbarhet, sløyf den.
 - **Bruk et rent og helt tørt glass.** Vanndråper i glasset gir kortere holdbarhet uansett hvor godt resten er gjort.
-- **Sammenlign med [T10](#t10-hvitløks-chiliolje-chili-crisp).** Den bruker 700 ml olje, frityrsteker hvitløk og sjalottløk til sprø biter og gir en liter chili crisp med tekstur. Denne er en fjerdedel så stor, tar ti minutter og gir en glatt, aromatisk olje uten crunch. Til dumplings og nudler vil de fleste foretrekke T10; denne er bedre som ren olje til å dryppe over ferdige retter.
+- **Sammenlign med [T10](#t10-hvitløks-chiliolje-chili-crisp).** Den bruker 7 dl olje, frityrsteker hvitløk og sjalottløk til sprø biter og gir en liter chili crisp med tekstur. Denne er en fjerdedel så stor, tar ti minutter og gir en glatt, aromatisk olje uten crunch. Til dumplings og nudler vil de fleste foretrekke T10; denne er bedre som ren olje til å dryppe over ferdige retter.
 - **Brukes i** blant annet [spicy peanøttnudler (nr. 52)](#52-spicy-peanøttnudler), [sprø rissalat (nr. 139)](#139-sprø-rissalat-med-kylling-og-gochujangmajones) og [dumplingsaus (T5)](#t5-dumplingsaus).
 
 ---
@@ -16182,7 +16182,7 @@ Sjalottløk kokt inn med hvitvin og kalvefond, fylt ut med fløte og satt med Sa
 ### Ingredienser
 
 - 4 sjalottløk
-- ½ flaske hvitvin — ca. 375 ml
+- ½ flaske hvitvin — ca. 3,75 dl
 - Et par ss kalvefond *(hell forsiktig – den er veldig salt)*
 - 4 dl kremfløte
 - 50–100 g Saint Agur, etter smak
@@ -16190,7 +16190,7 @@ Sjalottløk kokt inn med hvitvin og kalvefond, fylt ut med fløte og satt med Sa
 - 1 potte bladpersille
 - 1 potte gressløk
 - Salt og pepper
-- 15 g smør til steking *(mengde lagt til.)*
+- 1 ss smør til steking *(mengde lagt til)*
 
 ### Fremgangsmåte *(rekonstruert – se notat)*
 
@@ -16205,7 +16205,7 @@ Sjalottløk kokt inn med hvitvin og kalvefond, fylt ut med fløte og satt med Sa
 ### Notater
 
 - **Fremgangsmåten over er rekonstruert, ikke gjengitt.** Ingredienslisten er hentet fra Rajjekosts Instagram-innlegg, der den ser ut til å være avkortet på slutten – det står «Och för att…» uten fortsettelse, så det kan mangle en serverings- eller tilbehørsdel. Selve TikTok-videoen har ingen oppskriftstekst; Hugo forteller den underveis. Rekkefølgen over følger standard oppbygging av en fransk sjalottløk- og vinsaus. *(Merknad lagt til.)*
-- **En halv flaske vin er mye, og må kokes ordentlig inn.** 375 ml er nesten like mye som fløten. Koker du den bare til det halve, sitter du igjen med en syrlig, alkoholpreget saus. Ned til en fjerdedel, til det nesten er sirup rundt løken – det er der smaken konsentreres. *(Presisering lagt til.)*
+- **En halv flaske vin er mye, og må kokes ordentlig inn.** Knapt 4 dl er like mye som fløten. Koker du den bare til det halve, sitter du igjen med en syrlig, alkoholpreget saus. Ned til en fjerdedel, til det nesten er sirup rundt løken – det er der smaken konsentreres. *(Presisering lagt til.)*
 - **Kildens advarsel om kalvefonden er den viktigste i hele oppskriften.** Fond på flaske er svært salt, og her møter den blåmuggost, som også er salt, i en saus som i tillegg kokes inn. Start med **1 ss**, smak, og legg eventuelt til mer. Ikke tilsett salt før helt til slutt – sannsynligvis trenger du ingen. *(Understreket.)*
 - **Saint Agur** er en fransk blåmuggost med høyt fettinnhold, mildere og kremere enn roquefort, og smelter usedvanlig glatt. Den fås på Meny og i ostedisker. Erstatninger i synkende likhet: Castello Blue, gorgonzola dolce, Saga Blue. Roquefort og stilton blir for salte og skarpe her. *(Erstatninger lagt til.)*
 - **50–100 g er et stort spenn**, og kilden ber deg smake deg fram med god grunn – blåmuggost varierer mye i styrke mellom merker og alder. Start på 50 g.
@@ -16304,15 +16304,16 @@ Mais stekt til den karamelliserer, blandet med rødløk, jalapeño og yoghurt, m
 
 ### Ingredienser
 
-- 2 dl maiskorn — ca. 4 forkokte maiskolber
+- ca. 140 g maiskorn, skåret av forkokte maiskolber *(Omregnet fra 2 dl – se notat)*
 - ½ rødløk, finhakket
 - ½ jalapeño, finhakket
 - 1 hvitløksfedd, revet
 - 1 potte koriander, finhakket
-- 1 dl gresk yoghurt, eller crème fraîche
-- ½ fetaost, til å rive over ved servering
+- 100 g gresk yoghurt, eller crème fraîche
+- ½ pakke fetaost — ca. 100 g, til å rive over ved servering
 - Saften fra 1 lime
-- ½ ts salt og sort pepper
+- ½ ts salt
+- Sort pepper
 - 2 ss olivenolje til steking
 
 ### Fremgangsmåte
@@ -16330,7 +16331,7 @@ Mais stekt til den karamelliserer, blandet med rødløk, jalapeño og yoghurt, m
 - **Avkjølingen i punkt 4 er ikke valgfri.** Varm mais får yoghurten til å skille seg og korianderen til å bli grå. Ti minutter er et minimum – romtemperert er bedre. *(Presisering av hvorfor.)*
 - **Maisen må ligge i ro for å karamellisere.** «Under omrøring i 10 minutter» gir jevn oppvarming, men lite farge. Bedre: la maisen ligge stille i 2–3 minutter av gangen mellom hver omrøring, i en vid panne der kornene ligger i ett lag. Trangt i pannen betyr damping. *(Justering lagt til.)*
 - **Frossen mais fungerer, men må tørkes.** Tin den og klem den tørr i kjøkkenpapir – ellers avgir den vann og blir aldri brun. Hermetisk mais renner du av og tørker på samme måte. Ferske kolber gir best resultat; skjær kornene av med kniven loddrett langs kolben. *(Lagt til.)*
-- **2 dl maiskorn tilsvarer ikke 4 kolber.** Fire kolber gir nærmere 5–6 dl korn. Enten er volumangivelsen for lav eller kolbeantallet for høyt – gå etter **2 dl**, som stemmer med resten av mengdene. *(Avvik notert.)*
+- **2 dl maiskorn tilsvarer ikke 4 kolber.** Fire kolber gir nærmere 350–400 g korn. Enten er volumangivelsen for lav eller kolbeantallet for høyt – gå etter **ca. 140 g (2 dl)**, som stemmer med resten av mengdene. *(Avvik notert.)*
 - **Fetamengden er vag.** «½ fetaost» blir 75–100 g avhengig av pakken. Det er passe.
 - **Dette er en variant av mexicansk esquites** – maissalaten som selges i kopper på gaten, tradisjonelt med majones, chilipulver, lime og cotija-ost. Her er majonesen byttet mot yoghurt og cotijaen mot feta, som er den vanlige nordiske erstatningen. Vil du nærmere originalen, bland i 1 ss majones og dryss over chilipulver. *(Bakgrunn lagt til.)*
 - **Ingen chilipulver i oppskriften.** Jalapeñoen står for styrken, og den er mild i norske butikker. Et dryss røkt paprikapulver eller chipotlepulver på toppen løfter retten mye. *(Forslag lagt til.)*
