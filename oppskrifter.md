@@ -12079,7 +12079,7 @@ Rå laks i små terninger, vendt i sjalottløk trukket i fortynnet eddik, med ka
 - **«Seasoning» er ikke tallfestet.** Kapers, sennep og tabasco bidrar alle med salt og syre, så start forsiktig – rundt ¼ ts salt – og smak etter at alt er blandet.
 - **Grovkornet sennep, ikke dijon.** Hele sennepsfrø gir tekstur og små smellere av syre; dijon ville blitt glattere og mer dominerende. Begge deler fungerer, men de gir ulike retter.
 - **125 g er en forrettsporsjon.** Skal det være en lett hovedrett, regn 180–200 g per person og øk resten proporsjonalt.
-- **Samlingens sjette lakserett**, og den eneste som ikke varmebehandles. De andre er [kokoskarri](#44-kokoskarri-med-laks), [mango- og kokoskarri](#51-mango--og-kokoskarri-med-laks), [pannestekt laks med tzatziki](#75-pannestekt-laks-med-tzatziki-og-ris-lavfodmap), [honningglasert laks](#83-honningglasert-laks-med-hvitløk) og [miso-laks](#89-miso-laks).
+- **Andre lakseretter:** [kokoskarri](#44-kokoskarri-med-laks), [mango- og kokoskarri](#51-mango--og-kokoskarri-med-laks), [pannestekt laks med tzatziki](#75-pannestekt-laks-med-tzatziki-og-ris-lavfodmap), [honningglasert laks](#83-honningglasert-laks-med-hvitløk) og [miso-laks](#89-miso-laks).
 
 ---
 
@@ -12115,7 +12115,7 @@ Laks i biter, krydret og panert i panko, stekt sprø i airfryer og vendt i en gl
 ### Fremgangsmåte
 
 1. **Vend laksebitene** i olivenoljen, og deretter i hvitløkspulver, italiensk krydder, salt og paprikapulver. *(Rekkefølgen er ikke oppgitt i kilden – se notat.)*
-2. **Panér dem i panko** og klem melet lett fast på hver bit. *(Lagt til.)*
+2. **Panér dem i panko** og klem pankoen lett fast på hver bit. *(Lagt til.)*
 3. **Stek i airfryer på 190 °C i 8–10 minutter**, til bitene er gjennomstekte og sprø. Snu dem halvveis.
 4. **Rør glasuren.** Bland honningen og hot sauce i en bolle, og vend de ferdige laksebitene i den mens de er varme. *(Lagt til – se notat.)*
 5. **Chipotlesausen:** kjør gresk yoghurt, majones, chipotle, hvitløk, limesaft, olivenolje og honning i en foodprosessor til det er glatt. Smak til med salt og pepper.
@@ -12172,7 +12172,7 @@ Laks i biter vendt i en tykk marinade av gresk yoghurt, chilipasta og sitron, st
 - **Skyll basmatirisen** før koking, til vannet renner klart. Kilden hopper over det, men uskylt basmati blir klebrig i stedet for løs. *(Lagt til.)*
 - **2:1-forholdet gjelder vann til ris etter vekt**, altså 4 dl vann til 200 g ris. Det stemmer for basmati.
 - **200 g ris til fire** er 50 g tørr per person – nok som tilbehør, knapt hvis risen skal være hovedsaken.
-- **Samlingens åttende lakserett**, og den andre som bruker yoghurt i marinaden – sammen med [laksebitene i SJ3](#sj3-laksebiter-med-chipotlesaus), som bruker gresk yoghurt i sausen i stedet.
+- **Sammenlign med** [laksebitene i SJ3](#sj3-laksebiter-med-chipotlesaus), som bruker gresk yoghurt i sausen i stedet for i marinaden.
 
 ---
 
@@ -12214,10 +12214,9 @@ Alt på ett brett: laks, småpoteter og grønne bønner med olivenolje, sitron o
 - **Sausen er nesten ikke en saus.** 150 g blåmuggost mot 2 ss rømme gir en tykk pasta, ikke noe som lar seg helle. Kildens mengder står urørt, men vil du ha den skjebar: rør inn 2–3 ss rømme til, eller varm den forsiktig med en skvett melk til den er hellbar. Ikke kok den – blåmuggost skiller seg lett.
 - **Blåmuggost varierer voldsomt i salt.** Norzola og Selbu Blå er milde, gorgonzola dolce enda mildere, mens roquefort er markert saltere. Med 150 g ost i sausen trenger du ikke salte den i det hele tatt – smak først.
 - **Norsk rømme er tykkere og fetere** enn amerikansk sour cream, og gjør sausen enda kompaktere. Bruk lettrømme, eller spe som beskrevet over.
-- **Ingen kjernetemperatur er oppgitt.** Laksen er saftigst på 48–52 °C, jf. [Nr. 75](#75-pannestekt-laks-med-tzatziki-og-ris-lavfodmap) og [nr. 89](#89-miso-laks). Ti til tolv minutter på 200 °C treffer omtrent der for fileter på 2–3 cm.
+- **Ingen kjernetemperatur er oppgitt.** Laksen er saftigst på 48–52 °C, jf. [nr. 75](#75-pannestekt-laks-med-tzatziki-og-ris-lavfodmap) og [nr. 89](#89-miso-laks). Ti til tolv minutter på 200 °C treffer omtrent der for fileter på 2–3 cm.
 - **125 g bønner til to er beskjedent**, men de skal bare være tilbehør ved siden av 300 g poteter. Vil du ha mer grønt, øk dem – de tåler samme steketid som laksen.
 - **Persillen kan gjerne deles i to:** halvparten i ovnen, halvparten strødd over ved servering. Fersk persille mister mye i ovnen. *(Lagt til.)*
-- **Samlingens niende lakserett**, og den eneste komplette ettbrettsmiddagen.
 
 ---
 
@@ -12253,9 +12252,9 @@ Laks i terninger vendt i en marinade av doenjang, gochujang, soyasaus og honning
 - **10–12 minutter på 200 °C er lenge for laksebiter.** Terninger på 2–3 cm er gjennomstekte etter 7–8 minutter. Kombinert med honningen og sukkeret i gochujangen svir overflaten seg lett mot slutten. Sjekk etter 7 minutter, og rist kurven halvveis.
 - **Kle kurven med bakepapir.** Honning og gochujang brenner fast i airfryerkurven og er en plage å få av. *(Lagt til.)*
 - **Marineringstid er ikke oppgitt.** Et kvarter er nok til at smakene fester seg. Ikke la den stå lenge – marinaden er så salt at fisken begynner å bli fast og nesten kurert etter en time.
-- **«1 ts hvitløk» sier ikke om det er fersk eller pulver.** Ett ts finrevet fersk hvitløk tilsvarer omtrent ett fedd; hvitløkspulver er kraftigere og ville trengt mindre.
+- **«1 ts hvitløk» sier ikke om det er fersk eller pulver.** Én ts finrevet fersk hvitløk tilsvarer omtrent ett fedd; hvitløkspulver er kraftigere og ville trengt mindre.
 - **1 ts sort pepper er rikelig** til 500 g fisk, men fungerer som motvekt til sødmen fra honningen.
-- **Samlingens andre laksebiter i airfryer** er [SJ3](#sj3-laksebiter-med-chipotlesaus), som bruker panko og en glasur av honning og hot sauce. Denne er enklere – ingen panering – men samme fallgruve gjelder begge: sukker i marinaden og høy varme svir seg fort.
+- **Sammenlign med** [SJ3](#sj3-laksebiter-med-chipotlesaus), som bruker panko og en glasur av honning og hot sauce. Denne er enklere – ingen panering – men samme fallgruve gjelder begge: sukker i marinaden og høy varme svir seg fort.
 
 ---
 
@@ -12291,8 +12290,8 @@ Purre og forkokte poteter bakt under bakepapir i en saus av crème fraîche, dij
 
 ### Notater
 
-- **Kilden advarer selv mot å overkoke laksen**, og det er den viktigste merknaden: fisken ettersteker etter at formen er ute av ovnen, så sjekk den **5 minutter før tiden**. Tjue minutter på 200 °C er i overkant for tynne fileter, særlig når de ligger på glovarme grønnsaker. Samlingens linje ellers er 48–52 °C i kjernen, jf. [Nr. 75](#75-pannestekt-laks-med-tzatziki-og-ris-lavfodmap) og [nr. 89](#89-miso-laks).
-- **Grønnsakene forkokes og forstekes, laksen kommer sist.** Det er nettopp den trinndelingen jeg måtte legge til i [SJ5](#sj5-ovnsbakt-laks-med-poteter-bønner-og-blåmuggostsaus) – her er den innebygget fra start, og det er grunnen til at denne oppskriften faktisk går opp.
+- **Kilden advarer selv mot å overkoke laksen**, og det er den viktigste merknaden: fisken ettersteker etter at formen er ute av ovnen, så sjekk den **5 minutter før tiden**. Tjue minutter på 200 °C er i overkant for tynne fileter, særlig når de ligger på glovarme grønnsaker. Samlingens linje ellers er 48–52 °C i kjernen, jf. [nr. 75](#75-pannestekt-laks-med-tzatziki-og-ris-lavfodmap) og [nr. 89](#89-miso-laks).
+- **Grønnsakene forkokes og forstekes, laksen kommer sist.** Det er nettopp den trinndelingen som måtte legges til i [SJ5](#sj5-ovnsbakt-laks-med-poteter-bønner-og-blåmuggostsaus) – her er den innebygget fra start, og det er grunnen til at denne oppskriften faktisk går opp.
 - **Bakepapiret har en funksjon.** Det hindrer at purren bruner og tørker ut mens den blir mør, og holder på dampen fra vannet. Det tas av når laksen legges på, så fisken får direkte varme. Samme prinsipp som i [gratin dauphinois (T27)](#t27-gratin-dauphinois) fra samme forfatter.
 - **Vask purren grundig.** Jord setter seg mellom lagene og lar seg ikke skylle bort utenfra – skjær den i skiver først, og vask skivene i en bolle med vann.
 - **Målene spriker litt i ingredienslisten:** «½ cup» er oppgitt både for crème fraîche (100 g) og melk (1 dl), mens en amerikansk cup er 240 ml. De metriske tallene er de riktige.
@@ -12302,7 +12301,7 @@ Purre og forkokte poteter bakt under bakepapir i en saus av crème fraîche, dij
 - **Kildens variasjoner:** ørret i stedet for laks; plantebasert fløte og havre- eller risdrikk for melkefri versjon; en klype mild karri i sausen; eller kyllingbryst eller -lår med skinn i stedet for fisk, med rundt ti minutter lengre steketid.
 - **Holdbarhet:** 2 dager i kjøleskap. Kan fryses, men varmes forsiktig i ovn.
 - **200 °C er omregnet fra 400 °F.**
-- **Samlingens tiende lakserett**, og den andre komplette ovnsmiddagen med laks og poteter ved siden av [SJ5](#sj5-ovnsbakt-laks-med-poteter-bønner-og-blåmuggostsaus).
+- **Sammenlign med** [SJ5](#sj5-ovnsbakt-laks-med-poteter-bønner-og-blåmuggostsaus), som også er en komplett ovnsmiddag med laks og poteter.
 
 ---
 
@@ -12332,16 +12331,16 @@ Hvite bønner, tunfisk, agurk og rødløk vendt i olivenolje, sitron og rikelig 
 
 ### Notater
 
-- **140 g avrent tunfisk er mer enn én norsk boks.** Norske bokser inneholder rundt 145 g brutto og gir ca. 100 g avrent fisk – du trenger altså halvannen boks for å treffe kildens mengde. Med bare én boks blir salaten mer bønne- enn fiskedominert, hvilket også fungerer, men blir en annen rett.
+- **140 g avrent tunfisk er mer enn én norsk boks.** Norske bokser inneholder rundt 145 g brutto og gir ca. 100 g avrent fisk – du trenger altså halvannen boks for å treffe kildens mengde. Med bare én boks blir salaten mer bønne- enn fiskedominert, noe som også fungerer, men blir en annen rett.
 - **Tunfisk i olivenolje gir mer smak enn i vann**, opplyser kilden, og oljen kan da telle som en del av de 4 ss.
 - **Sitronen må være ubehandlet.** Skallet brukes, og voksbehandlet sitron gir bismak.
-- **Urtemengden er oppgitt i kvister**, hvilket sier lite. Åtte kvister av hver tilsvarer omtrent 2 ss hakket, og det er rikelig – urtene er en hovedingrediens her, ikke pynt.
+- **Urtemengden er oppgitt i kvister**, noe som sier lite. Åtte kvister av hver tilsvarer omtrent 2 ss hakket, og det er rikelig – urtene er en hovedingrediens her, ikke pynt.
 - **Kan forberedes, men ikke lenge.** Kilden er presis: én til to timer i forveien går fint, men ikke mer, for bønnene suger til seg dressingen og salaten mister smak. **Smak til på nytt før servering.** Holdbarhet 48 timer i kjøleskap.
 - **Skal ikke fryses** – agurken tåler det ikke.
 - **Kilden spriker litt om bønnetypen:** brødteksten anbefaler «kjempestore hvite bønner på boks», mens oppskriftskortet sier cannellini. Begge fungerer; store bønner gir en grovere salat, cannellini en mer sammenhengende.
 - **Kildens variasjoner:** kikerter eller kokte grønne eller brune linser i stedet for hvite bønner; røkelaks i stedet for tunfisk; fennikel, revet gulrot eller tomat i stedet for agurk; og mynte, estragon eller gressløk i tillegg til urtene.
 - **Dette er en mettende lunsj, ikke en liten salat** – kildens beregning lander på 587 kcal per porsjon, hovedsakelig fra bønnene og oljen.
-- **Samlingens andre kalde rett uten varmebehandling**, ved siden av [cottage cheese-salaten (nr. 95)](#95-cottage-cheese-salat-med-finhakkede-grønnsaker).
+- **Se også** [cottage cheese-salaten (nr. 95)](#95-cottage-cheese-salat-med-finhakkede-grønnsaker), som heller ikke varmebehandles.
 
 ---
 
@@ -12371,7 +12370,7 @@ Laks og grønn asparges på samme brett, penslet med smeltet smør rørt med sit
 
 ### Notater
 
-- **Kildens kjernetemperaturer er de mest presise i samlingen:** **52 °C** gir «glassaktig» laks – svært mør og litt gjennomskinnelig i midten – mens **55–57 °C** gir gjennomstekt, men fortsatt saftig og flakete fisk. Det stemmer med linjen i [nr. 75](#75-pannestekt-laks-med-tzatziki-og-ris-lavfodmap) og [nr. 89](#89-miso-laks), og gir deg to definerte valg i stedet for ett omtrentlig.
+- **Kilden gir presise kjernetemperaturer:** **52 °C** gir «glassaktig» laks – svært mør og litt gjennomskinnelig i midten – mens **55–57 °C** gir gjennomstekt, men fortsatt saftig og flakete fisk. Det stemmer med linjen i [nr. 75](#75-pannestekt-laks-med-tzatziki-og-ris-lavfodmap) og [nr. 89](#89-miso-laks), og gir deg to definerte valg i stedet for ett omtrentlig.
 - **Temperaturangivelsen er litt rotete.** Tipsdelen sier «200 °C, eller 180 °C hvis du bruker varmluft», mens selve oppskriften bare sier 180 °C. Slik skal det leses: **180 °C varmluft tilsvarer 200 °C over-/undervarme.** Vil du ha sprøere kanter på laksen og mer svidde aspargestopper, går du opp til 200 °C varmluft.
 - **Laks og asparges trenger omtrent like lang tid**, og det er derfor retten fungerer på ett brett. Men vil du ha laksen rosa i midten, gi aspargesen **5–6 minutters forsprang** alene, og legg laksen på for de siste ti. Det er samme trinndeling som i [SJ7](#sj7-ovnsbakt-laks-med-purre) og som måtte legges til i [SJ5](#sj5-ovnsbakt-laks-med-poteter-bønner-og-blåmuggostsaus).
 - **Smøret er ikke bare smak.** Fettet skjermer laksen mot direkte varme – det er derfor den ikke tørker ut på 180 °C. Ligger fileten med skinnet ned, virker skinnet på samme måte som et varmeskjold mot brettet.
@@ -12381,7 +12380,6 @@ Laks og grønn asparges på samme brett, penslet med smeltet smør rørt med sit
 - **Kan settes klart på forhånd:** legg laks og asparges på brettet, pensle med smøret, dekk til og sett kaldt. Da er det bare å slå på ovnen.
 - **Holdbarhet:** 2 dager i kjøleskap. Varmes i ovn på **135 °C i 10–15 minutter** – ikke i mikro, som tørker fisken.
 - **Kildens smaksvariasjoner:** revet ingefær, appelsinskall og litt honning i smøret; olivenolje og herbes de Provence i stedet for smør; soyasaus, mirin, riseddik og sesamolje; eller en klype chiliflak. Hvitløk passer i alle versjonene.
-- **Samlingens ellevte lakserett**, og den enkleste – tre hovedingredienser og ett brett.
 
 ---
 
