@@ -22596,7 +22596,7 @@ Bakt ostekake med bringebærsaus svøpt inn i midten og hvit sjokoladeganache p�
 - **Formstørrelsen mangler.** 800 g kremost gir en stor kake – bruk en **springform på 24 cm**. Mindre form gir en høyere kake som trenger lengre steketid; større gir en flat en. *(Kritisk mangel – lagt til.)*
 - **Alle meieriingrediensene må være romtemperert.** Kald kremost lar seg ikke røre glatt og etterlater klumper som ikke forsvinner i ovnen. Ta dem ut en time før. *(Lagt til.)*
 - **Eggene røres inn for hånd, og det er hele grunnen til at kaken ikke sprekker.** Mikser pisker luft inn i røren; luften utvider seg i ovnen, kaken hever seg og faller sammen igjen med en sprekk på tvers. Kilden gjør det riktig, men forklarer det ikke. Rør akkurat til eggene er borte, ikke mer. *(Forklaring lagt til.)*
-- **125 °C er lavt med hensikt.** Det erstatter vannbadet de fleste bakte ostekaker krever – lav, jevn varme gir kremet konsistens uten at kantene tørker ut. Ikke frist til å skru opp for å spare tid. *(Bakgrunn lagt til.)*
+- **125 °C er lavt med hensikt.** Det erstatter vannbadet de fleste bakte ostekaker krever – lav, jevn varme gir kremet konsistens uten at kantene tørker ut. Ikke la deg friste til å skru opp for å spare tid. *(Bakgrunn lagt til.)*
 - **Skjelvetesten er riktig ferdigtest.** Midten skal riste som gelé når du dulter borti formen. Er den helt fast i ovnen, blir den tørr når den er kald.
 - **Timen i avslått ovn er ikke valgfri.** Brå temperaturfall er den vanligste årsaken til sprekker. La ovnsdøren stå lukket hele timen, og sett kaken deretter på benken til romtemperatur før den går i kjøleskapet. *(Presisering lagt til.)*
 - **Bringebærsausen synker.** 5–7 minutters koking gir en ganske tynn saus, og den vil delvis blande seg med røren i stedet for å ligge som et rent lag. Det gir et fint marmorert snitt, men vil du ha et tydelig lag, kok den **10–12 minutter** til den er tykk som syltetøy. Den du sparer til dekorasjon bør uansett være tykk, ellers renner mønsteret utover ganachen. *(Justering lagt til.)*
@@ -22605,7 +22605,7 @@ Bakt ostekake med bringebærsaus svøpt inn i midten og hvit sjokoladeganache p�
 - **Hvit sjokolade brenner lett.** Fløten skal *nesten* koke, aldri fosskoke, og sjokoladen får stå i det varme uten røring i ett minutt før du rører. Rører du med en gang, skiller ganachen seg.
 - **Natten over er ikke overdrivelse.** En bakt ostekake trenger den tiden for å sette seg helt. Skjæres den for tidlig, smøres den utover kniven.
 - **Skjær med varm, tørr kniv** som tørkes av mellom hvert snitt.
-- **Beslektet:** [ostekake i matboks (D7)](#d7-ostekake-i-matboks) er den kalde, usteikte varianten, og [pistasjpanna cotta (D4)](#d4-pistasjpanna-cotta-med-rømme-og-blåbær) bruker samme kombinasjon av kremet base og syrlige bær.
+- **Beslektet:** [ostekake i matboks (D7)](#d7-ostekake-i-matboks) er den kalde, ustekte varianten, og [pistasjpanna cotta (D4)](#d4-pistasjpanna-cotta-med-rømme-og-blåbær) bruker samme kombinasjon av kremet base og syrlige bær.
 
 ---
 
@@ -22640,14 +22640,14 @@ Fem ingredienser og ingen baking utover bunnen. Knust shortbread som bunn, et la
 - **Ganachen bør ikke smeltes sammen.** Kildens metode – varme fløte og sjokolade i samme kjele – skiller seg lett og gir en kornete ganache. Riktig metode: hakk sjokoladen fint, varm fløten til den *nesten* koker, hell den over sjokoladen, la det stå **2 minutter** uten å røre, og rør deretter fra midten og utover til den er blank. *(Kritisk teknikknotat lagt til.)*
 - **360 g sjokolade til 2,4 dl fløte gir en svært fast ganache** – forholdet er 1,5 : 1. Det gjør at terten lar seg skjære i rene stykker, men med 70 % sjokolade blir den hard og litt sprø rett fra kjøleskapet. Vil du ha den mykere og mer trøffelaktig, gå ned til **300 g sjokolade** eller bruk 55–60 %. *(Justering lagt til.)*
 - **Karamellen må være helt kald før ganachen helles på.** Er den lun, blander lagene seg og du mister det tydelige snittet. Sett formen i kjøleskapet 20 minutter etter punkt 3. *(Lagt til.)*
-- **Saltkaramellen kan lages selv** – se [T123](#t123-saltkaramellsaus), som gir ca. 300 g og dermed rikelig. Bruk den kald og fast; en tynn, varm karamellsaus renner ned i bunnen. Ferdigkjøpt saltkaramell på glass fungerer også.
+- **Saltkaramellen kan lages selv** – se [saltkaramellsaus (T123)](#t123-saltkaramellsaus), som gir ca. 300 g og dermed rikelig. Bruk den kald og fast; en tynn, varm karamellsaus renner ned i bunnen. Ferdigkjøpt saltkaramell på glass fungerer også.
 - **Shortbread fås i norske butikker** under samme navn, og i utenlandsavdelingen. Digestive er nærmeste alternativ, men mindre smørrik og litt saltere.
 - **Bruk form med løs bunn.** En terte med hard ganache lar seg praktisk talt ikke få ut av en fast form uten å ødelegge kanten. *(Lagt til.)*
 - **Serveringstemperatur betyr mye.** Ta terten ut av kjøleskapet **20–30 minutter** før servering – kald ganache smaker lite og er hard, romtemperert er den silkeaktig. *(Lagt til.)*
 - **Skjær med varm, tørr kniv** som tørkes av mellom hvert snitt.
 - **Flaksalt over toppen** rett før servering er nesten obligatorisk her – det bryter opp sødmen fra karamellen. *(Forslag lagt til.)*
 - **Holdbarhet:** 4–5 dager i kjøleskap, tildekket. Terten tåler ikke frysing – ganachen blir grynete.
-- **Beslektet:** [saltkaramellsaus (T123)](#t123-saltkaramellsaus) er komponenten, [mousse au chocolat (D6)](#d6-mousse-au-chocolat) og [sjokoladefondant (D2)](#d2-sjokoladefondant) er de andre mørke sjokoladedessertene i samlingen.
+- **Beslektet:** [saltkaramellsaus (T123)](#t123-saltkaramellsaus) er komponenten, [mousse au chocolat (D6)](#d6-mousse-au-chocolat) og [sjokoladefondant (D2)](#d2-sjokoladefondant) er andre mørke sjokoladedesserter.
 
 ---
 
@@ -22674,7 +22674,7 @@ Restaurantfondant med en kjerne av saltkaramell i tillegg til den flytende sjoko
 ### Fremgangsmåte
 
 1. **Sett ovnen** på **200 °C**, eller **180 °C varmluft**.
-2. **Klargjør formene.** Pensle dem med smør i **loddrette strøk fra topp til bunn** – det gjør at fondantene slipper når de er ferdige. Dust deretter hver form lett med kakaopulver.
+2. **Klargjør formene.** Pensle dem med smør i **loddrette strøk fra topp til bunn** – det gjør at fondantene slipper når de er ferdige. Dryss deretter hver form lett med kakaopulver.
 3. **Smelt sjokolade og smør** i en bolle over en kjele med småkokende vann. Sett til side for å avkjøles.
 4. **Pisk egg, plommer og sukker** til blandingen er lys og har økt i volum.
 5. **Sjokoladen i.** Rør inn den avkjølte sjokolade- og smørblandingen, og vend deretter inn siktet mel og havsalt.
@@ -22686,11 +22686,11 @@ Restaurantfondant med en kjerne av saltkaramell i tillegg til den flytende sjoko
 
 - **De loddrette penselstrøkene er ikke overtro.** Smøret danner spor som fondanten glir langs når du vender formen – penslet på tvers, sitter den fast. Enkelt grep, tydelig effekt.
 - **Sjokoladen må være avkjølt før den møter eggeblandingen.** For varm sjokolade koagulerer eggene. Sikt mot håndvarm.
-- **Saltkaramellen må være tykk og kald.** En tynn, romtemperert saus synker gjennom røren og legger seg i bunnen i stedet for å bli en kjerne. Sett den i fryseren i 20 minutter først, eller frys teskjeer av den på et brett. Lag den selv med [T123](#t123-saltkaramellsaus). *(Kritisk presisering lagt til.)*
+- **Saltkaramellen må være tykk og kald.** En tynn, romtemperert saus synker gjennom røren og legger seg i bunnen i stedet for å bli en kjerne. Sett den i fryseren i 20 minutter først, eller frys teskjeer av den på et brett. Lag den selv med [saltkaramellsaus (T123)](#t123-saltkaramellsaus). *(Kritisk presisering lagt til.)*
 - **12–14 minutter er hele marginen.** Ett minutt for lenge, og kjernen er fast; ett for kort, og fondanten kollapser når du vender den. Kantene skal være faste og midten så vidt skjelve. Test med én form først. *(Lagt til.)*
 - **Metallformer, ikke porselen.** Metall leder varmen raskere og gir den skarpe kontrasten mellom fast kant og flytende midte. Kilden er tydelig på det.
 - **Røren kan lages på forhånd.** Fyll formene, dekk dem og sett dem kaldt i inntil et døgn – legg da på 2 minutters steketid. *(Lagt til.)*
-- **Sammenlign med [sjokoladefondant (D2)](#d2-sjokoladefondant)**, som er samlingens rene versjon uten karamellkjerne.
+- **Sammenlign med [sjokoladefondant (D2)](#d2-sjokoladefondant)**, som er den rene versjonen uten karamellkjerne.
 
 ---
 
@@ -22744,7 +22744,7 @@ Britisk klassiker: daddelkake med natron, dynket i en toffeesaus av fløte, deme
 
 **Kilde:** Kristine Ilstad / Det søte liv *(samme oppskrift som godt.no)* · **Kjøkken:** Norsk · **Tid:** 40 min + 4 timer i kjøleskap · **Porsjoner:** 10
 
-Usteikt ostekake der ostefromasjen settes med appelsingelé og toppes med et lokk av rabarbra- og jordbærkompott stivnet med gelatin. Kan lages i én kakering eller fordeles i glass.
+Ustekt ostekake der ostefromasjen settes med appelsingelé og toppes med et lokk av rabarbra- og jordbærkompott stivnet med gelatin. Kan lages i én kakering eller fordeles i glass.
 
 ### Ingredienser
 
@@ -22781,13 +22781,13 @@ Usteikt ostekake der ostefromasjen settes med appelsingelé og toppes med et lok
 
 ### Notater
 
-- **Geléen må være kald og flytende når den røres inn.** Er den varm, smelter den ostekremen og kaken skiller seg. Er den begynt å stivne, får du klumper som ikke lar seg røre ut.
+- **Geléen må være kald og flytende når den røres inn.** Er den varm, smelter den ostekremen og kaken skiller seg. Har den begynt å stivne, får du klumper som ikke lar seg røre ut.
 - **Kompotten må avkjøles før den helles på.** Varm kompott smelter overflaten av fromasjen, og de to lagene renner sammen.
 - **Kjeksbunnen mangler mengder i kilden.** 200 g digestive og 100 g smør er riktig til en form på 24 cm. *(Lagt til.)*
 - **godt.no sperrer for automatisk lesing**, så oppskriften er hentet fra Kristine Ilstads egen publisering av samme oppskrift. Innholdet er identisk.
 - **Frosne jordbær fungerer.** De skal uansett varmes med rabarbraen.
 - **Holdbarhet:** 3 døgn kjøleskap. Tåler ikke frysing – gelatinen slipper vann ved tining.
-- **Beslektet:** [ostekake i matboks (D7)](#d7-ostekake-i-matboks) og [ostekake med hvit sjokolade og bringebær (D8)](#d8-ostekake-med-hvit-sjokolade-og-bringebær) er samlingens andre ostekaker, og [panna cotta med gelétopping (D20)](#d20-panna-cotta-med-gelétopping) bruker samme prinsipp med gelé over en satt krem.
+- **Beslektet:** [ostekake i matboks (D7)](#d7-ostekake-i-matboks) og [ostekake med hvit sjokolade og bringebær (D8)](#d8-ostekake-med-hvit-sjokolade-og-bringebær) er andre ostekaker, og [panna cotta med gelétopping (D20)](#d20-panna-cotta-med-gelétopping) bruker samme prinsipp med gelé over en satt krem.
 
 ---
 
@@ -22817,7 +22817,7 @@ Mørdeigsbunn, mandelkrem og rabarbra lagt i geometrisk mønster på toppen. Man
 
 ### Fremgangsmåte
 
-1. **Kjør alt til paibunnen i en food processor** til deigen samler seg. Klem den sammen med hendene, pakk i plast, og kjøl i **1 time**.
+1. **Kjør alt til paibunnen i en foodprosessor** til deigen samler seg. Klem den sammen med hendene, pakk i plast, og kjøl i **1 time**.
 2. **Kjevle ut** og kle en paiform på 24 cm. Prikk bunnen og sett den i fryseren i **15 minutter**.
 3. **Forbak** på 190 °C i **15 minutter** med vekt, deretter **5 minutter** uten.
 4. **Rør mandelkremen:** visp brunt sukker og smeltet smør sammen, tilsett egget og vaniljefrøene, og rør inn de malte mandlene. Kremen blir tyntflytende — det er riktig, den setter seg i ovnen.
@@ -22835,7 +22835,7 @@ Mørdeigsbunn, mandelkrem og rabarbra lagt i geometrisk mønster på toppen. Man
 - **Legg mønsteret på benken først.** Prøver du å pusle direkte i den bløte mandelkremen, synker bitene ned og du får ikke justert.
 - **Mandelkremen er det som redder paien fra å bli vandig.** Rabarbra avgir mye væske, og kremen suger den opp mens den steker.
 - **Holdbarhet:** 3 døgn i romtemperatur under klede. Tåler frysing ferdigstekt.
-- **Beslektet:** [D12](#d12-ostekake-med-rabarbra-og-jordbær) bruker samme råvare kaldt, og [S23](#s23-terte-med-geitost-og-karamellisert-løk) samme bunnteknikk salt.
+- **Beslektet:** [ostekake med rabarbra og jordbær (D12)](#d12-ostekake-med-rabarbra-og-jordbær) bruker samme råvare kaldt, og [quiche lorraine (S28)](#s28-quiche-lorraine) bruker samme bunnteknikk med salt fyll.
 
 ---
 
@@ -22848,7 +22848,7 @@ Savoiardikjeks dyppet i espresso, i lag med mascarponekrem. Ingen fløte, ingen 
 ### Ingredienser
 
 - 500 g mascarpone
-- 4 egg, delt
+- 4 egg, skilt
 - 100 g sukker
 - 300 g savoiardikjeks *(ladyfingers)*
 - 4 dl sterk espresso, avkjølt
