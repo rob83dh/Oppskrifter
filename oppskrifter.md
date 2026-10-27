@@ -25815,7 +25815,7 @@ Femti prosent hydrering, minimum tre timers heving, og steking på steinplate p�
 - 400 g hvetemel tipo 0 eller tipo 00
 - 10 g fersk gjær
 - 10 g salt
-- 10 g olivenolje
+- 2 ts olivenolje
 - 2 dl vann
 
 ### Fremgangsmåte
@@ -25925,7 +25925,7 @@ Egg først, så mel litt etter litt, og melken helt til slutt. Rekkefølgen er d
 - Et dryss salt *(veldig lite)*
 - 1 ts vaniljesukker *(eventuelt smeltet vaniljeis)*
 - 100 g hvetemel
-- 3½ dl helmelk
+- 3,5 dl helmelk
 - 3 ss smeltet smør
 
 ### Fremgangsmåte
