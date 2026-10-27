@@ -22259,7 +22259,7 @@ Kald sommerdessert av små sagoperler i søtet kokosmelk, med mangopuré og bite
 - **Sagoperlene må i kokende vann.** Kaldt vann får dem til å gå i oppløsning, så de skal ikke skylles før koking. For lang koketid gir samme resultat. Dette er den eneste måten å ødelegge denne desserten på.
 - **Perlene skal være gjennomsiktige etter skyllingen**, med bare en anelse hvitt igjen i kjernen når de tas av. Er de helt hvite i midten, er de rå og melne.
 - **Oppgitt totaltid på 15 minutter er optimistisk.** Bare kokingen tar 10–15, og perlene skal deretter skylles til de er *helt* kalde. Regn 20–25 minutter, mer hvis du vil ha den ordentlig kald uten is.
-- **Sagoperler sveller kraftig.** En leser i kommentarfeltet meldte at mengden ble altfor stor da han skalerte ned til to porsjoner. Skal du lage mindre, kutt sagoen hardere enn de andre ingrediensene — den søtede kokosmelken kan lages på forhånd og stå i kjøleskapet.
+- **Sagoperler sveller kraftig.** En leser i kommentarfeltet meldte at mengden ble altfor stor selv nedskalert til to porsjoner. Skal du lage mindre, kutt sagoen hardere enn de andre ingrediensene — den søtede kokosmelken kan lages på forhånd og stå i kjøleskapet.
 - **Kjøp de små hvite sagoperlene**, ikke store tapiokaperler eller boba. De finnes i asiatiske butikker. Store perler har helt annen koketid.
 - **Modenhet betyr mer enn sort.** Kilden anbefaler champagne-, honning- eller ataulfomango, som er vanskelige å få tak i her. En helt moden vanlig mango fungerer fint — den skal gi etter for lett trykk og lukte søtt ved stilken.
 - **Juster sødmen etter mangoen.** Er frukten svært søt, kan du kutte sukkeret eller honningen. Er den syrlig, øk.
@@ -22314,8 +22314,8 @@ Sjokoladekake med flytende kjerne, stekt i porsjonsformer i sju–åtte minutter
 - **Ovnstemperaturen er entydig** – kilden oppgir både 200 °C varmluft og 390 °F.
 - **Glutenfritt går fint:** bytt melet mot en 1:1 glutenfri bakeblanding. Det er bare 35 g mel i oppskriften, så teksturen henger ikke på glutenet.
 - **Dette er desserten å forberede.** Porsjoner røren i smurte former, dekk med plast og sett kaldt – inntil 2 døgn. Stek rett fra kjøleskapet og legg til 2 minutter, altså **9–10 minutter**. Ferdigstekte kaker bør spises med én gang; kjernen stivner etter hvert til vanlig sjokoladekake.
-- **Ikke å forveksle med** [fondantpotetene i T17](#t17-fondantpoteter). *Fondant* betyr «smeltende» på fransk og brukes om begge, men teknikkene har ingenting med hverandre å gjøre.
-- **Samlingens andre dessert** er [mango sago](#d1-mango-sago) – kald, lett og uten melk. Disse to dekker hver sin ytterkant.
+- **Ikke å forveksle med** [fondantpotetene (T17)](#t17-fondantpoteter). *Fondant* betyr «smeltende» på fransk og brukes om begge, men teknikkene har ingenting med hverandre å gjøre.
+- **Sammenlign med** [mango sago (D1)](#d1-mango-sago) – kald, lett og uten melk.
 
 ---
 
@@ -22355,15 +22355,15 @@ Den thailandske klassikeren mango sticky rice pakket i vietnamesisk rispapir. Kl
 - **Saltet mangler helt, og det er den største svakheten.** Ekte mango sticky rice har alltid en klype salt i kokossausen; det er kontrasten mot sødmen som gjør retten. Uten blir den flatt søt. Ha i ¼ ts salt i punkt 4. *(Lagt til.)*
 - **Tradisjonelt holdes litt kokossaus av** til å helles over ved servering, i stedet for at alt trekkes inn i risen. Her forsvinner all sausen inn i risen fordi den skal kunne rulles – det er en fornuftig tilpasning til formatet, men noe av kremetheten går tapt.
 - **Kilden motsier seg selv om avkjølingen.** Brødteksten sier «la den kjølne i 10–15 minutter», oppskriftskortet sier «la den kjølne **helt**, minst 15 minutter». Det er ikke det samme: klebrig ris med kokoskrem holder på varmen lenge, og 15 minutter gjør den ikke kald. Følg kortet og ta deg tid – varm ris gjør rispapiret bløtt og klissete, akkurat som kildens eget tips advarer mot.
-- **Bløtleggingstiden for rispapiret spriker også.** Kortet sier 10–15 sekunder, tipsdelen sier «bare noen få sekunder, mykt men ikke for mykt». Tipsdelen har rett – samme poeng som i [S9](#s9-gỏi-cuốn--vietnamesiske-rispapirruller-med-kylling): arket fortsetter å mykne etter at det er tatt opp av vannet, og revner hvis du venter til det er helt slapt.
+- **Bløtleggingstiden for rispapiret spriker også.** Kortet sier 10–15 sekunder, tipsdelen sier «bare noen få sekunder, mykt men ikke for mykt». Tipsdelen har rett – samme poeng som i [gỏi cuốn (S9)](#s9-gỏi-cuốn--vietnamesiske-rispapirruller-med-kylling): arket fortsetter å mykne etter at det er tatt opp av vannet, og revner hvis du venter til det er helt slapt.
 - **Mangoen avgjør resultatet.** Den må være moden, og helst av en sort uten tråder. Norske butikker fører mest Tommy Atkins og Kent, som kan være fibrøse – kjenn etter at den gir litt etter ved stilken. Frossen mango fungerer ikke her; den blir vassen og lar seg ikke skjære i strimler.
-- **Kokoskrem, ikke kokosmelk.** Kokoskrem er tykkere og feitere og gir riktig konsistens. Har du bare kokosmelk på boks, sett den kaldt og bruk det tykke laget på toppen.
+- **Kokoskrem, ikke kokosmelk.** Kokoskrem er tykkere og fetere og gir riktig konsistens. Har du bare kokosmelk på boks, sett den kaldt og bruk det tykke laget på toppen.
 - **Mynten er kildens eget påfunn** og ikke tradisjonell – klassisk mango sticky rice toppes med ristede mungbønner eller sesamfrø. Den friske myntesmaken fungerer godt i rulleformatet, men sløyf den gjerne. Kilden foreslår også ananas eller basilikum.
 - **Tidsangivelsen går ikke opp:** 15 + 15 + 15 minutter er 45, ikke de 43 kilden oppgir. Og ingen av delene tar høyde for bløtleggingen.
 - **Honningen kan byttes** med lønnesirup eller agavesirup, sier kilden. Skal desserten være vegansk, er det byttet du trenger – resten er allerede plantebasert.
 - **Holdbarhet:** spises samme dag. Rispapir tørker raskt i kjøleskap; kilden foreslår å fukte rullene med litt vann hvis de har stått.
 - **Naturlig glutenfri.**
-- **Samlingens andre mango-og-kokosdessert** er [mango sago](#d1-mango-sago) – samme smakspar, men kald, flytende og uten bløtlegging. Den er langt raskere hvis du vil ha noe samme dag.
+- **Sammenlign med** [mango sago (D1)](#d1-mango-sago) – samme smakspar, men kald, flytende og uten bløtlegging. Den er langt raskere hvis du vil ha noe samme dag.
 
 ---
 
@@ -22458,13 +22458,13 @@ Briochskiver smurt inn med honning- og brunsukkersmør på alle seks flater og b
 - **Hvilingen i punkt 8 er ikke valgfri.** Skivene er myke og faller lett fra hverandre rett ut av ovnen – sukkeret i smøret er fortsatt flytende. De blir sprø først når de kjøles ned. Til sammen 10–12 minutters hvile, som kilden sier. *(Verdt å merke seg.)*
 - **Alle seks flater skal smøres**, ikke bare toppen. Det er hele poenget – hver flate karamelliserer, og du får sprø kanter hele veien rundt. Derfor skjæres skorpen bort først, så smøret trekker inn overalt.
 - **Vaniljepasta er dyrt, men her merkes forskjellen** – forfatteren er tydelig på det. Pastaen inneholder frøene og gir både utseende og en rundere aroma enn ekstrakt. Har du bare ekstrakt, bruk 2 ts.
-- **Brioche er riktig brød.** Den er søt, fet og eggerik, og tåler både smøret og ovnstiden. Vanlig loff blir tørr og kjeks-aktig. Brioche fås hos Meny og i bakerier; norsk julekake uten rosiner er en brukbar nødløsning. *(Presisering lagt til.)*
+- **Brioche er riktig brød.** Den er søt, fet og eggerik, og tåler både smøret og ovnstiden. Vanlig loff blir tørr og kjeksaktig. Brioche fås hos Meny og i bakerier; norsk julekake uten rosiner er en brukbar nødløsning. *(Presisering lagt til.)*
 - **Skivene må være tykke** – 3–4 cm, slik at innsiden holder seg myk mens utsiden blir sprø. Tynne skiver blir bare skorpe. Kilden sier «thick» uten mål. *(Lagt til.)*
 - **Følg med de siste minuttene.** Farin og honning brenner lett på 180 °C, og forskjellen mellom karamellisert og brent er kort. Sjekk etter 6 minutter i andre omgang. *(Lagt til.)*
 - **Ta vare på skorpene.** De kan smøres med resten av smørblandingen og bakes sammen med skivene som småbiter, eller tørkes til brødsmuler.
 - **Kremen skal ikke være søt.** Forfatteren advarer selv – 1 ss melis til 1,2 dl fløte er lite med vilje, siden toasten allerede er svært søt. Følg det rådet.
 - **Fløten må være kald** for å piske seg stiv. Bollen og vispen kan også kjøles ti minutter først.
-- **Saltkaramellen forfatteren viser til** finnes i samlingen som [T123](#t123-saltkaramellsaus) – fra samme kokk. Drypp den over rett før servering.
+- **Saltkaramellen forfatteren viser til** finnes i samlingen som [saltkaramellsaus (T123)](#t123-saltkaramellsaus) – fra samme kokk. Drypp den over rett før servering.
 - **Serveres lun, ikke varm eller kald.** Retten er en slektning av japansk *shibuya honey toast*, som lages av et helt uthulet melkebrød. Se [hot cross shokupan (B1)](#b1-hot-cross-shokupan--krydret-japansk-melkebrød) om du vil bake brødet selv.
 
 ---
@@ -22494,7 +22494,7 @@ Den klassiske franske sjokolademoussen: bare sjokolade, egg og sukker. Ingen fl�
 ### Notater
 
 - **Sjokoladen må ikke være for varm eller for kald når den møter plommene.** Dette er stedet oppskriften ryker: smeltet sjokolade på 50 °C+ koagulerer eggeplommene til små klumper, mens sjokolade under 35 °C stivner umiddelbart i kontakt med kalde plommer og gir en kornete mousse. Sikt mot **40–45 °C**, og la plommene være romtemperert. *(Kritisk tillegg.)*
-- **Eggedosis-stadiet er ikke pynt.** Plommene skal piskes til de er lyse og tykke nok til at en bånd av røren blir liggende noen sekunder på overflaten før den synker. Det tar 4–5 minutter med elektrisk visp. Underpisket eggedosis gir en tung, tett mousse. *(Forklaring lagt til.)*
+- **Eggedosis-stadiet er ikke pynt.** Plommene skal piskes til de er lyse og tykke nok til at et bånd av røren blir liggende noen sekunder på overflaten før den synker. Det tar 4–5 minutter med elektrisk visp. Underpisket eggedosis gir en tung, tett mousse. *(Forklaring lagt til.)*
 - **Sukkermengden i marengsen er lav.** 60 g til ca. 250 g hvite er under en fjerdedel – en klassisk fransk marengs bruker dobbelt til firedobbelt. Det gir en mindre søt og mer sjokoladedrevet mousse, som er poenget, men marengsen blir tilsvarende ustabil og faller raskere sammen. Pisk den ferdig **rett før** den skal brukes, og vend den inn med det samme. *(Faglig presisering lagt til.)*
 - **Første tredel skal røres inn, ikke vendes.** Den er der for å løse opp den tunge sjokoladebasen, så de siste to tredelene kan vendes inn uten at du må røre luften ut av dem. Kildens rekkefølge er riktig, men den forklarer ikke hvorfor. *(Forklaring lagt til.)*
 - **Du sitter igjen med eggeplommer til overs.** 7 hviter og 5 plommer betyr 2 plommer i overskudd. De kan gå til [majones (T122)](#t122-majones) eller sjokoladekremen i [éclairs (B3)](#b3-sjokoladeéclairs). *(Praktisk merknad lagt til.)*
@@ -22503,7 +22503,7 @@ Den klassiske franske sjokolademoussen: bare sjokolade, egg og sukker. Ingen fl�
 - **72 % sjokolade er mørkt og bevisst.** Med bare 25 + 60 g sukker totalt blir moussen tydelig bitter. Vil du ha den mildere, bruk 60–65 % sjokolade heller enn å øke sukkeret – mer sukker i marengsen endrer teksturen.
 - **Bollen til marengsen må være helt ren og fettfri.** Et spor av eggeplomme eller fett hindrer hvitene i å piske seg stive. Tørk bollen med litt sitronsaft eller eddik først.
 - **Server i porsjonsglass**, ikke i én stor bolle – moussen er luftig og lar seg vanskelig skje opp pent. Litt flaksalt eller revet appelsinskall over løfter den.
-- **Beslektet:** [sjokoladefondant (D2)](#d2-sjokoladefondant) er samlingens andre mørke sjokoladedessert, og [éclairs (B3)](#b3-sjokoladeéclairs) er fra samme kokk.
+- **Beslektet:** [sjokoladefondant (D2)](#d2-sjokoladefondant) er en annen mørk sjokoladedessert, og [éclairs (B3)](#b3-sjokoladeéclairs) er fra samme kokk.
 
 ---
 
@@ -22533,7 +22533,7 @@ Ostekake uten steking, lagvis i matbokser: knuste kjeks i bunnen, kremostblandin
 
 ### Notater
 
-- **Geléen må avkjøles før yoghurten går i.** Kilden ber deg tilsette yoghurten rett etter oppkok, men kokvarm gelé får yoghurten til å skille seg og bli kornete. La geléen stå til den er lunken – ca. 40 °C – før du rører den inn. *(Kritisk presisering lagt til.)*
+- **Geléen må avkjøles før yoghurten går i.** Kilden ber deg tilsette yoghurten rett etter oppkok, men kokende varm gelé får yoghurten til å skille seg og bli kornete. La geléen stå til den er lunken – ca. 40 °C – før du rører den inn. *(Kritisk presisering lagt til.)*
 - **Geléen må avkjøles enda mer før den helles på toppen.** Er den fortsatt flytende og varm i punkt 5, synker den rett gjennom kremostlaget og blander seg med kjeksene. La den stå til den begynner å tykne – konsistens som ubearbeidet eggehvite – før du heller. Det er dette som i praksis gjør trinn 4 og 5 vanskelige. *(Lagt til.)*
 - **Settetiden mangler helt.** Kaken må stå **minst 4 timer** i kjøleskap, gjerne over natten, før den er fast nok til å spises. *(Kritisk mangel – lagt til.)*
 - **Ingen mengder på kjeks, weetabix eller melis.** Anslag til fire porsjoner: **8 digestivekjeks**, **4 weetabix** og **2 ss melis**. Juster etter hvor tykk bunn du vil ha. *(Lagt til.)*
@@ -22543,7 +22543,7 @@ Ostekake uten steking, lagvis i matbokser: knuste kjeks i bunnen, kremostblandin
 - **YT vaniljeyoghurt** er Tines proteinyoghurt og gir retten mesteparten av proteinet. Gresk yoghurt eller skyr fungerer, men er syrligere – da trenger du litt mer søtning.
 - **Sukrin melis kan byttes mot vanlig melis** i samme mengde hvis du ikke trenger sukkerfri variant.
 - **Holdbarhet:** 3–4 dager i kjøleskap i tett boks. Geléen holder seg fint; bunnen blir mykere for hver dag.
-- **Beslektet:** [pistasjpanna cotta (D4)](#d4-pistasjpanna-cotta-med-rømme-og-blåbær) er samlingens andre kalde, satte dessert – der med gelatin i stedet for ferdig gelé.
+- **Beslektet:** [pistasjpanna cotta (D4)](#d4-pistasjpanna-cotta-med-rømme-og-blåbær) er en annen kald, satt dessert – der med gelatin i stedet for ferdig gelé.
 
 ---
 
