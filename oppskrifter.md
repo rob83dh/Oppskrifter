@@ -5139,7 +5139,7 @@ Varm ris, en boks koreansk tunfisk i chilisaus, et sprøstekt egg og litt sesamo
 - **Spis den med sjøgress.** Kilden foreslår å skje opp små porsjoner i noriark eller snacksjøgress, som en løs risball. Det er et bedre tips enn det ser ut som, og gjør retten til noe man deler.
 - **Kewpie-majones** er kildens andre forslag – en skvett gir kremethet mot chilisausen. Tipset står oppført to ganger i kildens tipsliste; det er ikke to ulike råd.
 - **Egget er valgfritt, men bærer retten.** Den rennende plommen binder ris og tunfisk sammen. Sprøstekt kant er poenget – derfor den varme oljen.
-- **Dette er samlingens raskeste hovedrett** sammen med [spicy peanøttnudler](#52-spicy-peanøttnudler). Begge er enkeltporsjoner bygget på én ferdigvare og fem minutter.
+- **Like rask som** [spicy peanøttnudler](#52-spicy-peanøttnudler): begge er enkeltporsjoner bygget på én ferdigvare og fem minutter.
 
 ---
 
@@ -5191,7 +5191,7 @@ Kyllinglår i store biter marinert i gochujang, gochugaru og sukker, stekt til d
 - **Grønnsakene er ikke pynt.** Kilden er tydelig på at bollen trenger rikelig med sprøtt og rått for å balansere den kraftige marinaden. Foreslåtte bytter: rødkål, kinakål, eple, pære, grønnkål, brokkoli, spinat og spirer.
 - **Vegetarversjon med tofu**, fra kilden: skjær 700 g fast tofu i terninger på 2,5 cm og tørk dem godt. Stek dem gylne i olje, 1–2 minutter per side, og la dem renne av. Tørk ut pannen, hell i marinaden, la den småkoke, og vend tofuen i den. Vil du ha tykkere saus, visp 1 ts maisenna i marinaden før oppvarming og la den koke 10–20 sekunder. En leser har også lykkes med tempeh.
 - **Kyllingen kan stekes i ovn** i stedet for panne, bekrefter forfatteren – men da mister du noe av svien.
-- **Samlingens andre koreanske hovedretter** er blant andre [Korean beef bowl](#80-korean-beef-bowl--koreansk-kjøttdeig-med-gochujangsaus) og [koreansk tunfiskris](#91-koreansk-tunfiskris). Denne er den eneste som er bygget rundt marinering og sviing.
+- **Andre koreanske hovedretter** er blant andre [Korean beef bowl](#80-korean-beef-bowl--koreansk-kjøttdeig-med-gochujangsaus) og [koreansk tunfiskris](#91-koreansk-tunfiskris). Denne er den eneste som er bygget rundt marinering og sviing.
 
 ---
 
@@ -5339,7 +5339,7 @@ Finhakket tomat, agurk, løk, jalapeño og oliven vendt i olivenolje og sitron, 
 - **Urtemengden er ikke oppgitt.** En god neve grovhakket basilikum eller persille per porsjon er passe. Fersk oregano er kraftigere – da holder det med noen blader.
 - **Hakkeren er ikke nødvendig.** Kilden bruker en grønnsakshakker og sier det selv rett ut: kniv fungerer, det tar bare lengre tid. Poenget er at bitene skal være **like små**, ikke hvordan de blir det – ellers dominerer én ingrediens hver munnfull.
 - **Sitronmengden er raus.** Saften av en halv sitron til 2 ts olivenolje gir en markert syrlig dressing, nesten uten fett til å balansere. Vil du ha den rundere, øk oljen til 1 ss.
-- **Dette er samlingens raskeste rett** og den eneste som ikke krever varme i det hele tatt.
+- **Retten krever ingen varme i det hele tatt.**
 
 ---
 
@@ -5419,14 +5419,14 @@ Kremet tomatsaus med chili, bygget på tomatpuré som frites til den er mørker�
 - **340 g tomatpuré er svært mye, og krever planlegging i norsk butikk.** Kilden bruker 12 oz, som tilsvarer **to og en halv norsk tube** à 140 g. Det er også langt mer enn i de fleste vodkasausoppskrifter, som gjerne ligger på 100–150 g. Resultatet blir en mørk, tykk og intenst tomatsmakende saus – det er poenget her, men det er verdt å vite hva du går til. Kilden begrunner valget selv: puré er mer konsentrert og gir glattere saus enn hermetiske tomater.
 - **1,2 dl olivenolje er heller ikke lite**, men henger sammen med tomatpuréen: det er oljen som gjør at 340 g puré kan frites uten å svi seg. Kutter du oljen, må du kutte puréen tilsvarende.
 - **Vodkaen har en funksjon.** Kilden forklarer at den hindrer fløten i å skille seg og trekker fram tomatsmaken – og at alkoholen koker av, så retten smaker ikke sprit. Tre spiseskjeer er alt som trengs; en liten flaske holder i årevis.
-- **Saltmengden i pastavannet er faktisk oppgitt**, hvilket er sjelden: 1 ss grovt salt per liter. Med fint norsk bordsalt bruker du mindre – regn ca. 10 g per liter.
+- **Saltmengden i pastavannet er faktisk oppgitt**, noe som er sjeldent: 1 ss grovt salt per liter. Med fint norsk bordsalt bruker du mindre – regn ca. 10 g per liter.
 - **Løft pastaen rett over i sausen.** Vannet som henger igjen på pastaen, er en del av oppskriften. Heller du den i dørslag og lar den renne av, mister du både stivelsen og væsken sausen trenger.
 - **Varm tallerkenene.** Kildens beste lille tips: skyll serveringsbollene i det varme pastavannet og hell det ut rett før anretning. Fløte- og parmesansauser stivner fort i kalde boller.
 - **Sausen tykner videre.** Sett av litt pastavann til å løsne den med rett før servering.
 - **Riv parmesanen selv.** Ferdigrevet parmesan er ofte tilsatt antiklumpemiddel og smelter dårligere.
 - **Riflet, kort pasta er valgt med hensikt** – rigatoni, mezzi rigatoni eller cascatelli fanger opp mest saus. Cascatelli fås knapt i Norge; rigatoni er lett tilgjengelig og gjør samme jobb.
 - **Seks porsjoner av 450 g pasta** er 75 g tørr pasta per person – beskjedent, men sausen er svært rik. Kildens egen beregning lander på 784 kcal per porsjon.
-- **Samlingens andre kremete pastaretter** er [carbonara](#69-carbonara) og de to [cacio e pepe](#68-cacio-e-pepe--serious-eats-sin-versjon)-versjonene. Alle tre bygger på samme prinsipp – pastavann og ost som emulgator – men denne er den eneste med fløte.
+- **Andre kremete pastaretter** er [carbonara](#69-carbonara) og de to [cacio e pepe](#68-cacio-e-pepe--serious-eats-sin-versjon)-versjonene. Alle tre bygger på samme prinsipp – pastavann og ost som emulgator – men denne er den eneste med fløte.
 - **Samme forfatter står bak** [hvitløks-bok choy (T2)](#t2-hvitløks-bok-choy) i samlingen.
 
 ---
