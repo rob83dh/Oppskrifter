@@ -19582,7 +19582,7 @@ Fersk geitost og seterrømme pisket luftig med revet Comté, servert som en quen
 - **Salt til slutt, og lite.** Comté og Bufar er begge salte hver for seg, og chipsen legger på et tredje lag.
 - **Naturellvarianten, ikke hvitmugg.** Kilden bruker Chevre Naturell. Hvitmuggvarianten fra samme ysteri har skorpe som ikke lar seg piske glatt — skal du bruke den, må skorpen skjæres av først. *(Lagt til.)*
 - **Blandingen kan lages i forveien** og står godt et døgn i kjøleskap. Quenellen formes lettest når massen er kald. *(Lagt til.)*
-- **Beslektet:** [Hellstrøms tzatziki (T103)](#t103-hellstrøms-tzatziki) og [guacamole (T47)](#t47-guacamole) er samlingens andre kalde dipper, og [hummus (T40)](#t40-hummus) er den tredje.
+- **Andre kalde dipper:** [Hellstrøms tzatziki (T103)](#t103-hellstrøms-tzatziki), [guacamole (T47)](#t47-guacamole) og [hummus (T40)](#t40-hummus).
 
 ---
 
@@ -19624,7 +19624,7 @@ Momofukus versjon av det japanske ramenegget, med to grep som skiller den fra or
 - **Sherryeddiken kan byttes** med usøtet riseddik. Da mister du den nøtteaktige tonen, men balansen mot soyaen blir den samme.
 - **Denne mot [ramenegg (T8)](#t8-ramenegg-ajitama):** T8 er søtet med mirin og trekker 8–36 timer til smaken går helt inn. Denne er syrlig, kortere og mildere i hviten. T8 til ramen, denne til ris eller som snacks.
 - **Laken kan gjenbrukes én gang** ifølge kilden, men andre runde blir merkbart svakere. T8 fraråder gjenbruk helt — den forskjellen kommer av at denne marinerer kortere og dermed trekker mindre ut av eggene.
-- **Beslektet:** [kokt ris (T131)](#t131-kokt-ris) med et delt egg over er den enkleste bruken, og alle [ramenoppskriftene](#20-klassisk-shoyu-ramen) tar imot dem.
+- **Beslektet:** [kokt ris (T131)](#t131-kokt-ris) med et delt egg over er den enkleste bruken, og alle ramenoppskriftene, som [klassisk shoyu-ramen (nr. 20)](#20-klassisk-shoyu-ramen), tar imot dem.
 
 ---
 
@@ -19664,12 +19664,15 @@ Meksikansk gatemais laget i ovn i stedet for på grill. **Kolbene ristes med bla
 - **Kolbene legges rett på risten.** Legg en plate eller folie på hylla under om du vil slippe å skrape ovnen for blader som løsner.
 - **La dem kjøle litt før du smører.** Er de glovarme, smelter majonesen og renner av i stedet for å legge seg som et lag.
 - **Denne mot [ristet maisrøre med frossen feta (T49)](#t49-ristet-maisrøre-med-frossen-feta):** samme smaksbilde — mais, syre, chili, salt ost — men T49 er *esquites*, altså korn i bolle med skje. Denne er elote på kolbe, som spises med hendene. T49 til taco-bordet, denne til grillmaten.
-- **Beslektet:** [sprø peruansk kylling med ají verde og maissalsa (nr. 147)](#147-sprø-peruansk-kylling-med-ají-verde-og-maissalsa) bruker mais i en tredje retning, og [guacamole (T47)](#t47-guacamole) hører til samme bord.
+- **Beslektet:** [sprø peruansk kylling med ají verde og maissalsa (nr. 147)](#147-sprø-peruansk-kylling-med-ají-verde-og-maissalsa) bruker mais på en annen måte, og [guacamole (T47)](#t47-guacamole) hører til samme bord.
+
+---
+
 ## T143. Vietnamesisk chimichurri
 
 **Kilde:** @fysenpaa (Instagram, 20. juni 2026) · **Kjøkken:** Vietnamesisk · **Tid:** 10 min + 15–30 min trekketid · **Gir:** ca. 4 dl
 
-Frisk, salt-syrlig urtesaus til kjøtt – kildens "vietnamesiske" vri på den argentinske chimichurrien, bygget på fiskesaus, lime og sukker i stedet for olje, eddik og oregano. Del av en serie med ti sauser til kjøtt fra kilden; sammenlign med den klassiske originalen i [T14. Chimichurri](#t14-chimichurri).
+Frisk, salt-syrlig urtesaus til kjøtt – kildens «vietnamesiske» vri på den argentinske chimichurrien, bygget på fiskesaus, lime og sukker i stedet for eddik og oregano. Del av en serie med ti sauser til kjøtt fra kilden; sammenlign med den klassiske originalen, [chimichurri (T14)](#t14-chimichurri).
 
 ### Ingredienser
 
@@ -19686,22 +19689,24 @@ Frisk, salt-syrlig urtesaus til kjøtt – kildens "vietnamesiske" vri på den a
 
 ### Fremgangsmåte
 
-1. **Bland fiskesaus, sukker og limejuice** i en liten bolle. Rør godt til sukkeret er helt oppløst.
+1. **Bland fiskesaus, sukker og limesaft** i en liten bolle. Rør godt til sukkeret er helt oppløst.
 2. **Finhakk vårløk, sjalottløk, koriander, mynte og chili**, og riv hvitløken. Ha alt i en bolle.
-3. **Hell over blandingen** av fiskesaus, sukker og limejuice. Tilsett oljen og rør godt sammen.
-4. **La sausen stå i 15–30 minutter** før servering, slik at smakene får satt seg. Smak eventuelt til med litt ekstra limejuice eller fiskesaus.
+3. **Hell over blandingen** av fiskesaus, sukker og limesaft. Tilsett oljen og rør godt sammen.
+4. **La sausen stå i 15–30 minutter** før servering, slik at smakene får satt seg. Smak eventuelt til med litt ekstra limesaft eller fiskesaus.
 
 ### Notater
 
 - **Testet på biff** (indrefilet i skiver) i kilden, som en av ti kjøttsauser i en serie.
 - **Ingen mengdeangivelse for kjøtt** i kilden – ut fra volumet (ca. 4 dl saus) passer den til 4–6 porsjoner kjøtt.
-- **Kilden anbefaler musserende eplemost** som drikke til – en frisk, syrlig match til den vietnamesiske smaksprofilen.
+- **Kilden anbefaler musserende eplemost** som drikke til – frisk og syrlig, som passer den vietnamesiske smaksprofilen.
+
+---
 
 ## T144. Béarnaise med hvit miso (stavmikser-metode)
 
-**Kilde:** @fysenpaa (Instagram, 27. juni 2026) · **Kjøkken:** Fransk-japansk · **Tid:** ca. 30 min · **Gir:** ca. 4 porsjoner
+**Kilde:** @fysenpaa (Instagram, 27. juni 2026) · **Kjøkken:** Fransk-japansk · **Tid:** ca. 30 min · **Porsjoner:** ca. 4
 
-En béarnaise-variant med et skjeneste hvit miso ved siden av den klassiske estragonreduksjonen, emulgert med stavmikser rett i begeret i stedet for tradisjonell pisking over vannbad. Kilden mener metoden gjør det praktisk talt umulig for sausen å skille seg. Sammenlign med den klassiske versjonen i [T117. Hellstrøms béarnaisesaus](#t117-hellstrøms-béarnaisesaus).
+En béarnaise-variant med et par teskjeer hvit miso ved siden av den klassiske estragonreduksjonen, emulgert med stavmikser rett i begeret i stedet for tradisjonell pisking over vannbad. Kilden mener metoden gjør det praktisk talt umulig for sausen å skille seg. Sammenlign med den klassiske versjonen, [Hellstrøms béarnaisesaus (T117)](#t117-hellstrøms-béarnaisesaus).
 
 ### Ingredienser
 
@@ -19721,20 +19726,23 @@ En béarnaise-variant med et skjeneste hvit miso ved siden av den klassiske estr
 1. **Lag reduksjonen.** Plukk av mesteparten av estragonbladene og finhakk dem – legg dem til side til senere. Ha estragonstilkene og noen av de resterende bladene i en liten kjele sammen med hvitvin, hvitvinseddik, sjalottløk, pepperkorn og laurbærblad. Kok inn til ca. 2 ss væske gjenstår. Sil reduksjonen og ha den over i et beger.
 2. **Klar smøret.** Smelt smøret på lav varme. La melkestoffene synke til bunnen, og bruk kun det klare smøret.
 3. **Tilsett eggeplommer og miso** i begeret med reduksjonen.
-4. **Emulger med stavmikser.** Sett stavmikseren helt ned i bunnen av begeret. Start stavmikseren og hell det klarnede smøret i en tynn, jevn stråle. Hold stavmikseren i ro de første sekundene. Når sausen har emulgert og blitt tykk, løfter du stavmikseren sakte opp gjennom sausen til alt er jevnt blandet.
+4. **Emulger med stavmikser.** Sett stavmikseren helt ned i bunnen av begeret. Start stavmikseren og hell det klarede smøret i en tynn, jevn stråle. Hold stavmikseren i ro de første sekundene. Når sausen har emulgert og blitt tykk, løfter du stavmikseren sakte opp gjennom sausen til alt er jevnt blandet.
 5. **Rør inn den finhakkede estragonen** og smak til med salt og nykvernet sort pepper.
 
 ### Notater
 
 - **Klaret smør:** kun det klare, gule smøret brukes til emulgeringen – melkestoffene som synker til bunnen siles fra og kastes eller spares til noe annet.
-- **Hvit miso** gir umami og en mild, salt dybde ved siden av den klassiske estragon-syrligheten. Kilden: "Det er ingenting feil med originalen. Men så er det jo ingenting feil med miso heller."
-- **Stavmikser rett i begeret** er samme prinsipp som en "immersion blender-hollandaise" – den hurtige, kraftige emulgeringen gjør sausen langt mer stabil enn en håndpisket versjon.
-- **Uten estragon** blir dette i praksis en hollandaise – kilden til [T117](#t117-hellstrøms-béarnaisesaus) bekrefter samme prinsipp: utelat urtene, tilsett litt ekstra sitronsaft.
+- **Hvit miso** gir umami og en mild, salt dybde ved siden av den klassiske estragon-syrligheten. Kilden: «Det er ingenting feil med originalen. Men så er det jo ingenting feil med miso heller.»
+- **Stavmikser rett i begeret** er samme prinsipp som en stavmikser-hollandaise – den raske, kraftige emulgeringen gjør sausen langt mer stabil enn en håndpisket versjon.
+- **Uten estragon** blir dette i praksis en hollandaise – [Hellstrøms béarnaisesaus (T117)](#t117-hellstrøms-béarnaisesaus) sier det samme: utelat urtene, tilsett litt ekstra sitronsaft.
+
+---
+
 ## T145. Kandiserte jalapeños (Cowboy Candy)
 
 **Kilde:** Chili Pepper Madness / Mike Hultquist (chilipeppermadness.com, 12. juni 2026) · **Kjøkken:** Amerikansk · **Tid:** 15 min (+ gjerne 1 ukes modning i kjøleskap) · **Gir:** ca. 4–5 dl *(Flagget – kilden oppgir tre glass à ca. 2,4 dl, som ikke stemmer med mengdene.)*
 
-Populært kalt «cowboy candy» i USA – jalapeñoskiver trukket i en krydret sukkerlake til de blir møre, blanke og klissete-søte, med en touch av chilihete. Fungerer som et søtt-sterkt tilbehør til burgere, cream cheese, cornbread og cocktailer, ikke som en dessert i seg selv, til tross for at kilden kategoriserer den som det.
+Populært kalt «cowboy candy» i USA – jalapeñoskiver trukket i en krydret sukkerlake til de blir møre, blanke og klissete-søte, med et snev av chilihete. Fungerer som et søtt-sterkt tilbehør til burgere, cream cheese, cornbread og cocktailer, ikke som en dessert i seg selv, til tross for at kilden kategoriserer den som det.
 
 ### Ingredienser
 
@@ -19759,7 +19767,7 @@ Populært kalt «cowboy candy» i USA – jalapeñoskiver trukket i en krydret s
 - **Bruk hansker** når du skjærer jalapeños – oljene kan gi svie på huden, spesielt hvis du er følsom.
 - **Mesteparten av styrken sitter i kjernen og hinnene.** Fjern disse før skjæring for en betydelig mildere variant.
 - **Laken er tynn og rennende mens den er varm** – det er normalt, ikke et tegn på feil. Skivene kandiseres etter hvert som de trekker og kjøles ned.
-- **Restlake er gull verdt:** bruk den i cocktailer (spesielt margarita), til å pensle grillet kylling, i vinaigrette, eller helt over cornbread.
+- **Restlake er gull verdt:** bruk den i cocktailer (spesielt margarita), til å pensle grillet kylling, i vinaigrette, eller hellet over cornbread.
 - **Kun kjøleskapsoppbevaring – ikke syltet for hylleoppbevaring.** Skal de vare i romtemperatur i spiskammeret, må de vannbadkokes etter en egen, syretestet oppskrift (se f.eks. National Center for Home Food Preservation) – ikke bruk denne oppskriften direkte til det, siden syrebalansen ikke er verifisert for trygg hylleoppbevaring.
 - **Fungerer med andre chilier:** kilden trekker frem habanero for en kraftigere variant, og at større chilier (som poblano) bør kuttes i mindre biter i stedet for ringer.
 - **Næringsinnhold per porsjon (av 12):** 80 kcal, 19 g karbohydrater, 18 g sukker, 1 g fiber.
