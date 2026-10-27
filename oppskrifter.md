@@ -23630,7 +23630,7 @@ Fem ingredienser, ingen ovn og ingen pisket krem. Fyllet er kremost, kjekssmør 
 
 **Bunn**
 - 23 Biscoff-kjeks *(ca. 180 g)*
-- 57 g smør, smeltet
+- 60 g smør, smeltet
 
 **Fyll**
 - 145 g Biscoff-smør
@@ -23742,13 +23742,13 @@ Baskisk-stil ostekake (brent topp, myk og «jiggly» midt i) smeltet med hvit sj
 - 800 g kremost
 - 100 g rømme
 - 140 g finkornet sukker (eventuelt vanlig sukker)
-- 4 stk egg
+- 4 egg
 - 40 g maisenna
-- 3 ts vaniljepaste
+- 1 ss vaniljepasta
 - 2 ts sitronsaft
 
 **Kirsebærkompott**
-- Frosne kirsebær
+- Ca. 300 g frosne kirsebær *(mengde lagt til)*
 - Sitronsaft, en skvis
 - Sukker, etter smak
 - Maisenna (valgfritt, for tykkere konsistens)
