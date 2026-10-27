@@ -6726,7 +6726,7 @@ Kyllinglår gnidd inn med en krydderblanding, brunet og braisert i kraft og sals
 - 3 ss avokadoolje, delt
 - 1 rødløk, i terninger
 - 2 hvitløksfedd, finhakket
-- 2,4 dl kyllingkraft
+- 2,5 dl kyllingkraft
 - 340 g grovhakket rød salsa på glass
 
 **Krydderblanding**
@@ -6740,7 +6740,7 @@ Kyllinglår gnidd inn med en krydderblanding, brunet og braisert i kraft og sals
 - ¼ ts løkpulver
 
 **Rødkålsalat**
-- 2,4 dl rødkål i tynne strimler
+- ca. 100 g rødkål i tynne strimler
 - Saften av 1 lime
 
 **Til servering:** tortillaer, guacamole, limebåter og koriander
@@ -6762,7 +6762,7 @@ Kyllinglår gnidd inn med en krydderblanding, brunet og braisert i kraft og sals
 ### Notater
 
 - **Rødkålsalaten står i ingredienslisten, men nevnes aldri i fremgangsmåten.** Den skal bare vendes i limesaft, gjerne med en klype salt, og gjerne noen minutter før servering så kålen mykner litt. *(Lagt til.)*
-- **2,4 dl rødkål er lite til fire–seks porsjoner.** Regn minst det dobbelte hvis salaten skal rekke til alle tacoene.
+- **100 g rødkål er lite til fire–seks porsjoner.** Regn minst det dobbelte hvis salaten skal rekke til alle tacoene.
 - **2 ts salt er mye**, særlig siden salsa på glass og kraft begge er saltet fra før. Til 680 g kylling blir det rundt 1,5 % salt bare fra krydderblandingen. Start med 1 ts og smak til når sausen er kokt inn.
 - **Salsaen bestemmer retten.** 340 g er ett stort eller halvannet norsk glass – de fleste her selges i 230–300 g. Velg en grovhakket type; en glatt salsa gir en tynnere saus.
 - **Avokadoolje er dyrt og lite utbredt i Norge**, og gjør ingen forskjell her – bruk raps- eller solsikkeolje.
@@ -6791,7 +6791,7 @@ Saftige kjøttboller av karbonadedeig og svinekjøttdeig med bløtlagt loff, og 
 - 1 ts salt
 - ½ ts pepper
 - Litt revet muskatnøtt
-- 20 g smør eller olje til steking *(mengde lagt til.)*
+- 1–2 ss smør eller olje til steking *(Lagt til.)*
 
 **Tomatsausen**
 - 200 g svinekjøttdeig
@@ -6802,7 +6802,7 @@ Saftige kjøttboller av karbonadedeig og svinekjøttdeig med bløtlagt loff, og 
 - ½ ts pepper
 - ½ ts malt cayennepepper
 - 5 laurbærblad
-- Vann *(mengde ikke oppgitt)*
+- 2–3 dl vann *(Lagt til – se notat.)*
 - Tørkede tomater *(valgfritt, for mer smak)*
 
 ### Fremgangsmåte
@@ -6849,13 +6849,13 @@ Indrefilet stekt og penslet med smør, med en pannesaus av sjalottløk, sopp, fl
 - 1 hvitløksfedd, i terninger
 - 80 g kastanjesjampinjong
 - 30 g smør
-- 100 ml cognac
-- 200 ml oksesaus *(redusert kraft – se notat)*
+- 1 dl cognac
+- 2 dl oksesaus *(redusert kraft – se notat)*
 - 1 ts Worcestershiresaus
 - 1 ts dijonsennep
 - 100 g crème fraîche
-- 2 g hakket estragon
-- 2 g hakket gressløk
+- 1 ss hakket estragon
+- 1 ss hakket gressløk
 
 ### Fremgangsmåte
 
@@ -6869,9 +6869,9 @@ Indrefilet stekt og penslet med smør, med en pannesaus av sjalottløk, sopp, fl
 
 ### Notater
 
-- **«Beef sauce» betyr redusert kraft, ikke buljong.** De 200 ml skal være en konsentrert kjøttsaus eller demi-glace – bruker du vanlig oksebuljong, blir sausen tynn og smakløs uansett hvor mye crème fraîche du har i. Norsk oksefond på flaske fungerer hvis du bruker det ufortynnet eller nesten ufortynnet, eller kok inn 5 dl kraft til 2 dl. *(Presisert.)*
+- **«Beef sauce» betyr redusert kraft, ikke buljong.** De 2 dl skal være en konsentrert kjøttsaus eller demi-glace – bruker du vanlig oksebuljong, blir sausen tynn og smakløs uansett hvor mye crème fraîche du har i. Norsk oksefond på flaske fungerer hvis du bruker det ufortynnet eller nesten ufortynnet, eller kok inn 5 dl kraft til 2 dl. *(Presisert.)*
 - **Crème fraîchen må ikke koke.** Den skiller seg – ha den i på lav varme etter flamberingen, og la sausen bare bli varm.
-- **100 ml cognac til to porsjoner er rikelig**, og mesteparten brenner av. Har du ikke lyst til å flambere, hell cognacen i og la den koke inn 1–2 minutter i stedet – samme løsning som i [coq au vin (nr. 109)](#109-coq-au-vin).
+- **1 dl cognac til to porsjoner er rikelig**, og mesteparten brenner av. Har du ikke lyst til å flambere, hell cognacen i og la den koke inn 1–2 minutter i stedet – samme løsning som i [coq au vin (nr. 109)](#109-coq-au-vin).
 - **«1 Garlic (diced)» er tvetydig**, men ett fedd er det rimelige – et helt hvitløkhode ville dominert sausen fullstendig.
 - **Ingen kjernetemperatur er oppgitt.** To minutter per side på 150 g indrefilet gir medium rare, altså **52–55 °C**. Kjøttet ettersteker både under hvilen og når det legges tilbake i sausen – ta det derfor ut et par grader under målet.
 - **Romtemperert kjøtt er ikke pynt i oppskriften.** Kaldt kjøtt rett fra kjøleskapet blir grått i kanten før midten er varm. La filetene ligge fremme i 30–40 minutter.
@@ -6898,14 +6898,14 @@ Kyllingbiter vendt i en røre av egg, maisenna og krydder, stekt sprø i panne, 
 - ½ ts nykvernet sort pepper
 - 1 egg
 - 60 g maisenna
-- 25 g olje til steking *(mengde lagt til.)* *(se notat)*
+- Nøytral olje til steking, minst 5 mm i pannen *(se notat)*
 
 **Sausen**
 - 1 ts fersk hvitløk, finhakket
 - 1 ts fersk ingefær, finhakket
-- 125 ml sweet chilisaus
-- 60 ml tamari eller vanlig soyasaus
-- 60 ml riseddik, eplecidereddik eller limesaft *(se notat)*
+- 1,2 dl sweet chilisaus
+- 4 ss tamari eller vanlig soyasaus
+- 4 ss riseddik, eplecidereddik eller limesaft *(se notat)*
 
 **Til servering**
 - Kokt ris
@@ -6926,7 +6926,7 @@ Kyllingbiter vendt i en røre av egg, maisenna og krydder, stekt sprø i panne, 
 
 ### Notater
 
-- **Eddikmengden er oppskriftens svake punkt.** Flere lesere melder at sausen ble for syrlig med 60 ml, og forfatteren har svart at mengden avhenger av hvor søt sweet chilisausen din er. **Start med 2 ss og smak deg fram.** Hun understreker også at sausen må få koke inn ordentlig i punkt 5 – det er reduksjonen som koker bort syren og fremhever sødmen.
+- **Eddikmengden er oppskriftens svake punkt.** Flere lesere melder at sausen ble for syrlig med 4 ss, og forfatteren har svart at mengden avhenger av hvor søt sweet chilisausen din er. **Start med 2 ss og smak deg fram.** Hun understreker også at sausen må få koke inn ordentlig i punkt 5 – det er reduksjonen som koker bort syren og fremhever sødmen.
 - **Sausen er svært salt.** 1606 mg natrium per porsjon, fra soyasausen og sweet chilisausen til sammen. Lettsaltet soya og sukkerredusert sweet chili er lesernes egne løsninger, og forfatteren bekrefter at smaken holder seg.
 - **Oljemengden er beskrevet, ikke tallfestet.** Kilden ber om nok olje til å dekke bunnen med minst 5 mm, og en olje med høyt røykpunkt – raps eller solsikke gir lettest og jevnest skorpe. Bruker du olivenolje i stedet, som forfatteren gjør til hverdags, holder **4 ss**, men skorpen blir tettere og mer ujevn i fargen, og kyllingen trenger 6–8 minutter.
 - **Sprøheten står og faller på to ting**, ifølge forfatteren: oljen må være ordentlig varm før kyllingen går i, og pannen må ikke overfylles. Stek i flere omganger – flere lesere har mistet sprøheten nettopp her.
@@ -7017,8 +7017,8 @@ Kyllingbryst delt på langs, krydret og vendt i mel, stekt gyllent og servert i 
 **Sausen**
 - 1 ss usaltet smør
 - 1 ss fersk hvitløk, finhakket
-- 125 ml kyllingkraft
-- 300 ml kremfløte
+- 1,2 dl kyllingkraft
+- 3 dl kremfløte
 - 1 ts dijonsennep
 - 50 g revet parmesan
 - Saltflak og nykvernet sort pepper etter smak
@@ -7063,8 +7063,8 @@ Tonkatsu etter en rolig hjemmekokkmetode: kjøttet legges i **kald** olje og var
 - Pepper
 
 **Panering**
-- Ca. 100 g panko — ca. 5 dl
-- Ca. 60 g hvetemel — ca. 1,2 dl
+- Ca. 100 g panko
+- Ca. 60 g hvetemel
 - 1 egg
 - 1 ts nøytral olje
 - Nøytral olje til steking, nok til ca. 2 cm i pannen
