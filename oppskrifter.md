@@ -24137,22 +24137,22 @@ Kladdkake i stor porsjon, laget for å deles opp og fryses. Kilden har den ligge
 
 ## B6. Sjokoladecookies med appelsin – Matt Adlard sin versjon
 
-**Kilde:** Matt Adlard / @mattadlard (TikTok, 2. februar 2023) · **Kjøkken:** Amerikansk · **Tid:** under 30 min · **Gir:** ca. 9 stykker
+**Kilde:** Matt Adlard / @mattadlard (TikTok, 2. februar 2023) · **Kjøkken:** Amerikansk · **Tid:** under 30 min · **Gir:** ca. 13 stykker *(oppskriften er skalert – se notat)*
 
 Cookies uten hviletid – ferdige på under en halvtime. To sukkertyper og revet appelsinskall er det som skiller dem fra en standard chocolate chip cookie.
 
 ### Ingredienser
 
-- 120 g usaltet smør, mykt
-- 85 g lys farin
-- 85 g demerarasukker
-- Revet skall av ½ appelsin
-- 35 g egg — ca. ¾ egg, se notat
-- 140 g hvetemel
-- 1 g bakepulver
-- ½ ts salt
-- 100 g mørk sjokolade, 70 %
-- ½ ts vaniljepasta
+- 180 g usaltet smør, mykt
+- 130 g lys farin
+- 130 g demerarasukker
+- Revet skall av ¾ appelsin
+- 1 egg, str. M *(se notat)*
+- 210 g hvetemel
+- ¼ ts bakepulver
+- ½ ts + ¼ ts salt
+- 150 g mørk sjokolade, 70 %
+- ½ ts + ¼ ts vaniljepasta
 
 ### Fremgangsmåte
 
@@ -24164,15 +24164,15 @@ Cookies uten hviletid – ferdige på under en halvtime. To sukkertyper og revet
 ### Notater
 
 - **Appelsinskallet mangler i fremgangsmåten.** Det står i ingredienslisten, men nevnes ikke i noe steg. Det hører hjemme i punkt 1, sammen med smør og sukker – da frigjøres oljene i skallet i fettet og aromaen fordeler seg gjennom hele deigen. *(Ført inn her.)*
-- **35 g egg er cirka tre fjerdedeler av et egg.** Pisk ett egg lett sammen og vei opp mengden. Bruker du et helt egg, blir deigen løsere og kakene flatere. *(Presisering lagt til.)*
-- **Deigen rekker til ni kuler, ikke seks.** Totalvekten er rundt 600 g, altså ni kuler à 65 g – men kilden ber deg legge seks per brett, med god avstand. Stek i to omganger. *(Presisering lagt til.)*
+- **Oppskriften er ganget med 1,5.** Kilden bruker 35 g egg, omtrent tre fjerdedeler av et egg. Med alle mengdene ganget med 1,5 går det opp i ett helt egg (str. M), og forholdet i deigen er det samme. *(Justert.)*
+- **Deigen rekker til ca. 13 kuler à 65 g**, men kilden legger seks per brett med god avstand. Stek i flere omganger. *(Presisering lagt til.)*
 - **De to sukkertypene gjør ulike jobber.** Lys farin er fuktig og gir seig midte; demerara er grovt og tørt, løser seg ikke helt opp, og gir sprø kanter og en svak karamellknasing. Bytter du alt til vanlig sukker, mister du begge deler. Demerara fås i norske butikker; råsukker er nærmeste alternativ. *(Bakgrunn lagt til.)*
 - **Ingen hviletid er hele poenget.** De fleste gode cookie-oppskrifter hviler deigen i 24–72 timer, som [B4](#b4-100-timers-brownies) gjør med brownies. Denne er bygget for å hoppe over det, og forfatteren spør selv om han er gal. Hviler du deigen over natten, blir de bedre – men da er de ikke lenger ferdige på 30 minutter.
 - **190 °C er høyt for cookies**, og med vilje: høy varme setter kantene raskt mens midten fortsatt er rå. De skal se underbakte og bleke i midten ut når du tar dem ut. De setter seg på brettet.
 - **La dem stå 5 minutter på brettet** før du flytter dem over på rist. Rett ut av ovnen faller de fra hverandre. *(Lagt til.)*
 - **Sjokoladen skal hakkes, ikke være chips.** Hakket sjokolade gir ujevne biter og lommer av smeltet sjokolade gjennom hele kaken; chips er tilsatt stabilisator og holder formen. Kilden bruker en plate på 70 %.
 - **Ekstra sjokolade på toppen** er et rent visuelt grep, men det virker – trykk et par biter ned i toppen av hver kule før steking.
-- **1 g bakepulver er ca. ¼ ts.** Lite med vilje; disse skal være tette og seige, ikke luftige.
+- **Bakepulveret er lite med vilje** (kilden oppgir 1 g til halv porsjon); disse skal være tette og seige, ikke luftige.
 - **Beslektet:** [gochujang chocolate chip cookies (B2)](#b2-gochujang-chocolate-chip-cookies) er samlingens andre cookie, og [100-timers brownies (B4)](#b4-100-timers-brownies) den motsatte tilnærmingen – all smaken fra tid i stedet for teknikk.
 
 ---
@@ -24190,10 +24190,10 @@ Tett, saftig sitronkake som trekkes med sitronsirup mens den er varm og pakkes i
 **Kaken**
 - 230 g sukker
 - Revet skall av 1½ sitron og ½ lime
-- 170 g egg — ca. 3 egg
-- 115 g kremfløte
+- 3 egg (ca. 170 g)
+- 1,2 dl kremfløte
 - 185 g hvetemel
-- 3 g bakepulver
+- ½ ts + ¼ ts bakepulver *(Omregnet fra 3 g.)*
 - ½ ts salt
 - 60 g nøytral olje
 - 1 ts sitronekstrakt
@@ -24245,7 +24245,7 @@ Britiske påskeboller med sultanas, sukat, appelsinskall og kanel – og eple, s
 ### Ingredienser
 
 **Deigen**
-- 300 ml helmelk
+- 3 dl helmelk
 - 50 g smør
 - 500 g hvetemel, pluss ekstra
 - 1 ts salt
@@ -24299,7 +24299,7 @@ Ciabatta med 75 % hydrering – så våt deig at den verken kan eltes eller form
 ### Ingredienser
 
 - 400 g hvetemel
-- 300 ml lunkent vann
+- 3 dl lunkent vann
 - 2 ss olivenolje
 - 1 ss honning
 - 1 ts tørrgjær, ikke toppet — ca. 3 g
@@ -24343,9 +24343,9 @@ Ciabatta i rundstykkeformat, bygget på fire runder strekk og brett i stedet for
 ### Ingredienser
 
 - 600 g sterkt hvetemel
-- 475 ml lunkent vann, 32 °C
-- 12 g salt — 2½ ts
-- 40 ml olivenolje
+- 4,75 dl lunkent vann, 32 °C
+- 12 g salt, ca. 2 ts
+- 40 g olivenolje
 - 7 g tørrgjær
 - Havsalt
 
@@ -24378,7 +24378,7 @@ Ciabatta i rundstykkeformat, bygget på fire runder strekk og brett i stedet for
 - **Havsaltet i ingredienslisten brukes aldri.** Det skal strøs over rundstykkene før steking – kilden nevner det ikke i noe trinn. *(Rettelse lagt til.)*
 - **Kilden hopper fra steg 2 til steg 4** i sin egen nummerering. Det mangler ingen instruksjon; det er en tellefeil. *(Notert.)*
 - **32 °C vann er nøyaktig oppgitt med hensikt.** Det er den temperaturen som gir rask, jevn gjæraktivitet uten å skade gjæren – over 45 °C dør den. Bruk termometer, eller sikt mot litt varmere enn kroppstemperatur.
-- **79 % hydrering.** 475 ml vann til 600 g mel gir en enda våtere deig enn [B9](#b9-ciabattabaguette-uten-elting). Våt hånd, ikke mer mel, er nøkkelen til å håndtere den – mel som eltes inn nå ødelegger både struktur og hydrering.
+- **79 % hydrering.** 4,75 dl vann til 600 g mel gir en enda våtere deig enn [B9](#b9-ciabattabaguette-uten-elting). Våt hånd, ikke mer mel, er nøkkelen til å håndtere den – mel som eltes inn nå ødelegger både struktur og hydrering.
 - **Fire runder strekk og brett er det som erstatter eltingen.** Hver runde bygger gluten uten at du klemmer ut luften. Dette er den viktigste forskjellen fra [B9](#b9-ciabattabaguette-uten-elting), som bare gjør én runde – og grunnen til at disse blir høyere og luftigere. *(Sammenligning lagt til.)*
 - **Ingen damp i denne oppskriften.** [B9](#b9-ciabattabaguette-uten-elting) bruker en form med vann i ovnen; her er det utelatt. Damp gir sprøere og blankere skorpe, og er verdt å legge til – sett en langpanne i bunnen under forvarming og hell i kokende vann rett før brettene går inn. *(Forslag lagt til.)*
 - **Sett brettene inn ett om gangen** hvis ovnen din er liten. To brett samtidig senker temperaturen og gir bleke rundstykker.
@@ -24399,12 +24399,12 @@ Baguetter uten elting og uten presisjon – kilden understreker selv at alle må
 
 ### Ingredienser
 
-- 420 g hvetemel — 3½ cups
+- 420 g hvetemel
 - 3 toppede ts havsalt eller kosher salt *(se notat)*
 - 2–3 toppede ts brunt sukker
 - 2 toppede ts strøsukker
 - 3 toppede ts hurtiggjær
-- 400–475 ml svært varmt vann — 1¾–2 cups
+- 4–4,75 dl svært varmt vann
 
 ### Fremgangsmåte
 
@@ -24427,7 +24427,7 @@ Baguetter uten elting og uten presisjon – kilden understreker selv at alle må
 - **Saltmengden er for høy.** 3 toppede ts havsalt er 15–20 g til 420 g mel, altså 3,5–4,7 % av melvekten. Standard i brødbaking er **2 %**, og over 3 % hemmer gjæren merkbart i tillegg til å smake salt. Bruk **8 g**, altså ca. 1½ ts. *(Kritisk justering lagt til.)*
 - **Gjærmengden er også høy.** 3 toppede ts er 10–12 g til 420 g mel. Det gir rask heving på 90 minutter, men også tydelig gjærsmak og kort holdbarhet. 7 g holder godt. *(Justering lagt til.)*
 - **«Toppede teskjeer» er ikke et mål.** Kilden sier selv at alt er omtrentlig, og det er greit for en hverdagsbaguett – men salt og gjær er de to tingene som faktisk må veies. Resten tåler slark. *(Presisering.)*
-- **Vannmengden spenner fra 66 til 79 % hydrering**, noe som er to helt ulike deiger. Start med **400 ml** og tilsett mer bare hvis deigen ikke lar seg samle. *(Presisering lagt til.)*
+- **Vannmengden spenner fra 66 til 79 % hydrering**, noe som er to helt ulike deiger. Start med **4 dl** og tilsett mer bare hvis deigen ikke lar seg samle. *(Presisering lagt til.)*
 - **«Svært varmt, men ikke for varmt» er risikabelt.** Gjær dør over 45 °C. Fingertesten kilden foreslår fungerer – vannet skal kjennes behagelig varmt, ikke ubehagelig. Sikt mot 35–40 °C. *(Presisering lagt til.)*
 - **Ovnen som hevekammer må være helt avslått og kald.** Kilden gjør det for å få jevn temperatur. Restvarme fra tidligere bruk kan drepe gjæren.
 - **Vridningen i punkt 11 er et utseendegrep**, ikke teknikk – det gir den vridde overflaten kilden er ute etter. Baguetten hever like godt uten.
