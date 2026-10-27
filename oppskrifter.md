@@ -23549,7 +23549,7 @@ Sorbet uten ismaskin. Frossen mango kjøres med sukkerlake og limesaft til den e
 
 1. **Kok sukkerlaken** av sukker og vann til sukkeret er løst, og avkjøl den helt.
 2. **La mangoen tine i 10 minutter** – den skal fortsatt være frossen, men ikke steinhard.
-3. **Kjør alt i en kraftig blender eller food processor** til massen er helt glatt. Skrap ned kantene et par ganger.
+3. **Kjør alt i en kraftig blender eller foodprosessor** til massen er helt glatt. Skrap ned kantene et par ganger.
 4. **Smak til** med mer limesaft eller lake.
 5. **Fyll i en boks**, dekk med plast rett på overflaten, og frys i **minst 4 timer**.
 6. **Ta boksen ut 10 minutter** før servering.
@@ -23562,7 +23562,7 @@ Sorbet uten ismaskin. Frossen mango kjøres med sukkerlake og limesaft til den e
 - **Forholdet er ca. 5 deler frukt til 1 del lake.** Mer sukker gir mykere sorbet, men også en søtere en. Modenheten på mangoen avgjør.
 - **Samme metode virker på** bringebær, jordbær og ananas.
 - **Holdbarhet:** 1 måned i fryser. Blir hardere over tid – kjør den kort i blenderen igjen hvis nødvendig.
-- **Beslektet:** [D1](#d1-mango-sago) bruker samme frukt, og [D24](#d24-semifreddo-med-pistasj) er den fete motsatsen.
+- **Beslektet:** [mango sago (D1)](#d1-mango-sago) bruker samme frukt, og [semifreddo med pistasj (D24)](#d24-semifreddo-med-pistasj) er den fete motsatsen.
 
 ---
 
@@ -23570,7 +23570,7 @@ Sorbet uten ismaskin. Frossen mango kjøres med sukkerlake og limesaft til den e
 
 **Kilde:** Recipes Hurry (Instagram-reel, 4900 likes) · **Kjøkken:** Amerikansk · **Tid:** 25 min + 4 timer i kjøleskap · **Porsjoner:** 6
 
-Usteikt ostekake i porsjonsform, med karamelliserte Lotus-kjeks i bunnen og kjekssmør i fyllet. Ingen ovn, ingen gelatin – fyllet holdes oppe av kremost og pisket krem alene, og derfor er de fire timene i kjøleskapet ikke til å forhandle om.
+Ustekt ostekake i porsjonsform, med karamelliserte Lotus-kjeks i bunnen og kjekssmør i fyllet. Ingen ovn, ingen gelatin – fyllet holdes oppe av kremost og pisket krem alene, og derfor er de fire timene i kjøleskapet ikke til å forhandle om.
 
 ### Ingredienser
 
@@ -23602,7 +23602,7 @@ Usteikt ostekake i porsjonsform, med karamelliserte Lotus-kjeks i bunnen og kjek
 8. **Vend kremen forsiktig inn** i osteblandingen til den er lett og luftig.
 9. **Fyll massen over de kalde bunnene** med skje eller sprøytepose, og glatt toppen.
 10. **Sett kaldt i minst 4 timer**, til de er helt faste.
-11. **Varm den ekstra Biscoff-smøren litt** og drypp den over kakene.
+11. **Varm det ekstra Biscoff-smøret litt** og drypp den over kakene.
 12. **Sprøyt pisket krem på toppen**, dryss over knuste kjeks, og sett en hel kjeks i hver.
 
 ### Notater
@@ -23612,11 +23612,11 @@ Usteikt ostekake i porsjonsform, med karamelliserte Lotus-kjeks i bunnen og kjek
 - **Fløten piskes for seg og vendes inn.** Det er dette som gjør fyllet luftig i stedet for tett. Pisker du fløten sammen med kremosten, slår du ut luften og får en kompakt ostemasse.
 - **Kremosten må være romtemperert.** Kald kremost klumper seg og lar seg ikke piske glatt, og klumpene forsvinner ikke senere.
 - **Fire timer er et minimum, ikke en anbefaling.** Uten gelatin er det bare fettet i kremosten og fløten som gir fasthet, og det trenger tid på å stivne. Tas de ut for tidlig, siger fyllet.
-- **Varm kjekssmøren før du drypper.** Rett fra glasset er den for tykk til å renne pent.
+- **Varm kjekssmøret før du drypper.** Rett fra glasset er det for tykt til å renne pent.
 - **Fløten oppgis to steder.** 2,4 dl går i fyllet og 1,2 dl piskes til pynt – lett å overse når du handler.
 - **420 kcal per porsjon** ifølge kilden, fordelt på 6 porsjoner.
 - **Holdbarhet:** 3 døgn i kjøleskap. Tåler ikke frysing – uten gelatin slipper fyllet vann ved tining.
-- **Beslektet:** Samlingens andre ostekaker er [i matboks (D7)](#d7-ostekake-i-matboks), [med hvit sjokolade (D8)](#d8-ostekake-med-hvit-sjokolade-og-bringebær) og [med rabarbra (D12)](#d12-ostekake-med-rabarbra-og-jordbær). Den siste bruker samme kjeksbunn.
+- **Beslektet:** [ostekake i matboks (D7)](#d7-ostekake-i-matboks), [ostekake med hvit sjokolade (D8)](#d8-ostekake-med-hvit-sjokolade-og-bringebær) og [ostekake med rabarbra (D12)](#d12-ostekake-med-rabarbra-og-jordbær). Den siste har en lignende kjeksbunn.
 
 ---
 
@@ -23654,16 +23654,16 @@ Fem ingredienser, ingen ovn og ingen pisket krem. Fyllet er kremost, kjekssmør 
 
 ### Notater
 
-- **Ingen pisket krem – det er hele forskjellen fra [D32](#d32-mini-ostekaker-med-biscoff).** Der vendes pisket krem inn og gir et luftig fyll. Her er det bare kremost, kjekssmør og melis, og kaken blir tett, tung og nærmere fudge. Velg etter hva du vil ha, ikke etter hvilken som er «best».
+- **Ingen pisket krem – det er hele forskjellen fra [mini-ostekakene med Biscoff (D32)](#d32-mini-ostekaker-med-biscoff).** Der vendes pisket krem inn og gir et luftig fyll. Her er det bare kremost, kjekssmør og melis, og kaken blir tett, tung og nærmere fudge. Velg etter hva du vil ha, ikke etter hvilken som er «best».
 - **Rekkefølgen på blandingen betyr noe.** Kjekssmøret først, kremosten etterpå. Starter du med kremosten alene og har kjekssmøret i til slutt, klumper det seg lettere.
 - **Kremosten må være romtemperert**, ellers får du klumper som ikke lar seg mikse ut.
 - **Melisen inn på lav hastighet** og til slutt. Høy hastighet med melis gir en luftig masse som ikke passer denne kaken.
-- **Den fryser godt, i motsetning til D32.** Forfatteren mener den er bedre frossen enn romtemperert, og den holder **2 måneder** godt pakket. Det går fordi det ikke er pisket krem i – det er kremen som slipper vann ved tining.
+- **Den tåler frysing, i motsetning til mini-ostekakene (D32).** Forfatteren mener den er bedre frossen enn romtemperert, og den holder **2 måneder** godt pakket. Det går fordi det ikke er pisket krem i – det er kremen som slipper vann ved tining.
 - **Mengdene er regnet om fra amerikanske mål.** Kilden oppgir ¼ cup smør, ½ cup + 1 ss kjekssmør til fyllet, 1 cup melis og ¾ cup til toppingen, samt en form på 8 × 8 tommer. *(Omregnet.)*
 - **Vegansk variant:** kilden opplyser at både smøret og kremosten kan byttes med plantebaserte alternativer.
 - **392 kcal per porsjon** ifølge kilden, fordelt på 16 ruter.
 - **Holdbarhet:** 5 døgn kjøleskap i tett boks, 2 måneder fryser.
-- **Beslektet:** [mini-ostekaker med Biscoff (D32)](#d32-mini-ostekaker-med-biscoff) er porsjonsvarianten med luftig fyll, og [ostekake i matboks (D7)](#d7-ostekake-i-matboks), [ostekake med hvit sjokolade og bringebær (D8)](#d8-ostekake-med-hvit-sjokolade-og-bringebær) og [ostekake med rabarbra og jordbær (D12)](#d12-ostekake-med-rabarbra-og-jordbær) er samlingens øvrige ostekaker.
+- **Beslektet:** [mini-ostekaker med Biscoff (D32)](#d32-mini-ostekaker-med-biscoff) er porsjonsvarianten med luftig fyll, og [ostekake i matboks (D7)](#d7-ostekake-i-matboks), [ostekake med hvit sjokolade og bringebær (D8)](#d8-ostekake-med-hvit-sjokolade-og-bringebær) og [ostekake med rabarbra og jordbær (D12)](#d12-ostekake-med-rabarbra-og-jordbær) er andre ostekaker.
 
 ---
 
@@ -23671,7 +23671,7 @@ Fem ingredienser, ingen ovn og ingen pisket krem. Fyllet er kremost, kjekssmør 
 
 **Kilde:** Ida Gran-Jansen (Instagram-reel, 1100 likes) · **Kjøkken:** Norsk · **Tid:** 30 min + 6 timer i kjøleskap · **Porsjoner:** 10 *(ikke oppgitt i kilden)*
 
-Usteikt ostekake i springform, med hjemmelaget saltkaramell helt over. Fløten piskes rett inn i kremosten til den står i stive topper – ingen gelatin, ingen ovn. Forfatteren mener selv den er bedre enn bakt ostekake.
+Ustekt ostekake i springform, med hjemmelaget saltkaramell helt over. Fløten piskes rett inn i kremosten til den står i stive topper – ingen gelatin, ingen ovn. Forfatteren mener selv den er bedre enn bakt ostekake.
 
 ### Ingredienser
 
@@ -23717,22 +23717,24 @@ Usteikt ostekake i springform, med hjemmelaget saltkaramell helt over. Fløten p
 
 ### Notater
 
-- **Fløten piskes inn i osteblandingen, ikke separat.** Dette er den tredje metoden blant ostekakene i samlingen: [D32](#d32-mini-ostekaker-med-biscoff) pisker fløten for seg og vender den inn, [D33](#d33-biscoff-ostekake) bruker ingen fløte i det hele tatt, og her piskes den kalde fløten rett i kremosten. Resultatet ligger midt imellom – fastere enn den luftige, lettere enn den fudgeaktige.
+- **Fløten piskes inn i osteblandingen, ikke separat.** [Mini-ostekakene med Biscoff (D32)](#d32-mini-ostekaker-med-biscoff) pisker fløten for seg og vender den inn, [Biscoff-ostekaken (D33)](#d33-biscoff-ostekake) bruker ingen fløte i det hele tatt, og her piskes den kalde fløten rett i kremosten. Resultatet ligger midt imellom – fastere enn den luftige, lettere enn den fudgeaktige.
 - **Fløten må være kald.** Romtemperert fløte pisker seg ikke sammen med kremosten, og fyllet blir rennende uansett hvor lenge du står der.
 - **Ikke rør i sukkerlaken.** Røring under kokingen får sukkeret til å krystallisere, og karamellen blir kornete i stedet for blank. Vipp kjelen om du må fordele varmen.
 - **Smøret inn etter at kjelen er trukket av platen.** Går det i mens karamellen står på full varme, skiller den seg.
 - **Fløten litt av gangen.** Kald fløte i glovarm karamell koker voldsomt opp – heller du alt på én gang, spruter det ut av kjelen.
 - **Karamellen tykner når den blir kald**, så ikke kok den lenger i håp om at den skal bli tykkere i kjelen. Da blir den hard på kaken.
 - **Sidene av formen kles også med bakepapir**, ikke bare bunnen. Uten det slipper ikke kaken formen pent.
-- **Karamellen er i praksis samme oppskrift som [T123](#t123-saltkaramellsaus)** – lag dobbel porsjon om du vil ha til overs.
+- **Karamellen er i praksis samme oppskrift som [saltkaramellsausen (T123)](#t123-saltkaramellsaus)** – lag dobbel porsjon om du vil ha til overs.
 - **Holdbarhet:** 3 døgn i kjøleskap. Tåler ikke frysing – uten gelatin slipper fyllet vann ved tining.
-- **Beslektet:** [mini-ostekaker med Biscoff (D32)](#d32-mini-ostekaker-med-biscoff), [Biscoff-ostekake (D33)](#d33-biscoff-ostekake), [ostekake i matboks (D7)](#d7-ostekake-i-matboks), [ostekake med hvit sjokolade og bringebær (D8)](#d8-ostekake-med-hvit-sjokolade-og-bringebær) og [ostekake med rabarbra og jordbær (D12)](#d12-ostekake-med-rabarbra-og-jordbær) er samlingens øvrige ostekaker.
+- **Beslektet:** [mini-ostekaker med Biscoff (D32)](#d32-mini-ostekaker-med-biscoff), [Biscoff-ostekake (D33)](#d33-biscoff-ostekake), [ostekake i matboks (D7)](#d7-ostekake-i-matboks), [ostekake med hvit sjokolade og bringebær (D8)](#d8-ostekake-med-hvit-sjokolade-og-bringebær) og [ostekake med rabarbra og jordbær (D12)](#d12-ostekake-med-rabarbra-og-jordbær) er andre ostekaker.
+
+---
 
 ## D35. Baskisk ostekake med hvit sjokolade og kirsebærkompott
 
 **Kilde:** @fysenpaa (Instagram, 26. april 2025), kaken opprinnelig via @alexinaanatole · **Kjøkken:** Baskisk-inspirert · **Tid:** ca. 1 t aktiv tid + natten over i kjøleskap · **Porsjoner:** 10–12
 
-Baskisk-stil ostekake (brent topp, myk og «jiggly» midt i) smeltet med hvit sjokolade, servert med en enkel kirsebærkompott. Kilden lette etter en gjenskapelse av en ostekake spist på restaurant Lola i Bergen, og krediterer @alexinaanatole for selve kakeoppskriften.
+Ostekake i baskisk stil – brent topp, myk og skjelvende i midten – med hvit sjokolade, servert med en enkel kirsebærkompott. Kilden lette etter en gjenskapelse av en ostekake spist på restaurant Lola i Bergen, og krediterer @alexinaanatole for selve kakeoppskriften.
 
 ### Ingredienser
 
@@ -23772,8 +23774,8 @@ Baskisk-stil ostekake (brent topp, myk og «jiggly» midt i) smeltet med hvit sj
 2. Ha den finhakkede hvite sjokoladen i en bolle. Varm kremfløten forsiktig i en kjele til den er varm, og hell den over sjokoladen. Rør til sjokoladen er helt smeltet og blandingen er glatt. Sett til side for å avkjøles litt.
 3. Visp kremost og rømme raskt sammen i en stor bolle til det er jevnt og glatt. Tilsett sukker og visp til det er oppløst. Visp inn eggene, ett om gangen. Rør inn den avkjølte sjokoladeblandingen.
 4. Ha maisenna i en liten bolle. Tilsett 3–4 spiseskjeer av ostekakemassen og visp til det ikke er noen klumper. Visp denne blandingen sammen med resten av røren.
-5. Tilsett vaniljepaste og sitronsaft, og bland det godt inn med en slikkepott.
-6. Hell røren i formen og stek midt i ovnen til kaken har hevet seg, toppen er mørk og midten fortsatt er litt «jiggly» – for kilden tok dette 40 minutter.
+5. Tilsett vaniljepasta og sitronsaft, og bland det godt inn med en slikkepott.
+6. Hell røren i formen og stek midt i ovnen til kaken har hevet seg, toppen er mørk og midten fortsatt skjelver litt – for kilden tok dette 40 minutter.
 7. La kaken avkjøles til romtemperatur, og sett den deretter i kjøleskapet over natten. Den er veldig god kald, men kan også spises romtemperert.
 
 **Kirsebærkompott**
@@ -23794,8 +23796,7 @@ Baskisk-stil ostekake (brent topp, myk og «jiggly» midt i) smeltet med hvit sj
 - **To alternative sauser, ikke begge samtidig.** Kilden serverer kaken med enten tindvedsaus eller brunostsaus – tindved er lettest å få tak i om høsten, mens brunostsausen er tilgjengelig året rundt. Kirsebærkompotten er en tredje, uavhengig topping.
 - **Brunostsausen smaker best litt lun**, ifølge kilden – varm den forsiktig opp igjen rett før servering om den har stått og kaldnet.
 - **240 °C er høyt** og er selve poenget med baskisk ostekake – den brente, nesten svidde toppen er en signaturdetalj, ikke en feil.
-- **Ingen springformstørrelse-avvik:** kilden bruker konsekvent 20 cm.
-- **Beslektet:** samlingens øvrige ostekaker er [D7](#d7-ostekake-i-matboks), [D8](#d8-ostekake-med-hvit-sjokolade-og-bringebær), [D12](#d12-ostekake-med-rabarbra-og-jordbær), [D32](#d32-mini-ostekaker-med-biscoff), [D33](#d33-biscoff-ostekake) og [D34](#d34-ostekake-med-saltkaramell) – denne er den eneste uten kjeksbunn.
+- **Beslektet:** [ostekake i matboks (D7)](#d7-ostekake-i-matboks), [med hvit sjokolade og bringebær (D8)](#d8-ostekake-med-hvit-sjokolade-og-bringebær), [med rabarbra og jordbær (D12)](#d12-ostekake-med-rabarbra-og-jordbær), [mini-ostekaker med Biscoff (D32)](#d32-mini-ostekaker-med-biscoff), [Biscoff-ostekake (D33)](#d33-biscoff-ostekake) og [med saltkaramell (D34)](#d34-ostekake-med-saltkaramell). Denne er den eneste uten kjeksbunn.
 
 ---
 
