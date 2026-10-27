@@ -18904,7 +18904,7 @@ Hvit saus der en tredjedel av væsken er kremfløte. Melk og fløte varmes før 
 ### Notater
 
 - **Fløten gjør dette til noe annet enn en bechamel.** Klassisk bechamel er melk alene. Med 2,5 dl fløte til 5 dl melk er sausen langt rikere og tåler mindre koking før den blir tung.
-- **Væsken må være varm.** Kald melk i varm jevning gir klumper som ingen visping fjerner. Kilden spesifiserer det, og det er den vanligste feilen.
+- **Væsken varmes først.** Kilden varmer melk og fløte før de går i jevningen, som gir raskere oppkok og kortere koketid. Spe litt om gangen og visp godt, så unngår du klumper.
 - **Forholdet er tynnere enn standarden.** 40 g smør og mel til 7,5 dl væske gir en løs saus; [Bechamel (T124)](#t124-bechamel) bruker 70 g av hver til én liter, altså tykkere. Velg etter bruk – denne kler grateng, den tykkere kler lasagne.
 - **Cayenne i stedet for hvit pepper** er kildens signatur og går igjen gjennom hele boka.
 - **Silingen fanger eventuelle klumper.** Et lite sikkerhetsnett som er verdt de ti sekundene.
@@ -18935,16 +18935,16 @@ Klassisk majones lagd med stavmikser i et høyt glass – metoden som gjør emul
 
 ### Notater
 
-- **Oljevalget er viktigere enn kilden lar det høres ut som.** «Olje du selv vil ha» er sant for nøytrale oljer – raps, solsikke, druekjerne – men **ekstra virgin olivenolje blir bitter i stavmikser**. Bladene sprenger olivenens polyfenoler, og resultatet smaker vondt uansett hvor godt du emulgerer. Vil du ha olivenoljesmak, bruk nøytral olje til emulsjonen og rør inn 2–3 ss olivenolje til slutt for hånd. Andy sier det samme selv i [T19](#t19-sprø-potetsalat-med-yuzumajones): olivenoljen hører ikke hjemme i majonesen.
-- **Hold stavmikseren i ro til emulsjonen har tatt tak.** Kilden sier «start i bunnen og beveg deg oppover», men ikke at du bør stå stille de første 10–15 sekundene, til det er dannet en tykk, hvit kjerne rundt hodet. Løfter du for tidlig, drar du ublandet olje ned i plommene og majonesen skiller seg. Dette er lagt til.
+- **Oljevalget er viktigere enn kilden lar det høres ut som.** «Olje du selv vil ha» er sant for nøytrale oljer – raps, solsikke, druekjerne – men **ekstra virgin olivenolje blir bitter i stavmikser**. Bladene sprenger olivenens polyfenoler, og resultatet smaker vondt uansett hvor godt du emulgerer. Vil du ha olivenoljesmak, bruk nøytral olje til emulsjonen og rør inn 2–3 ss olivenolje til slutt for hånd. Andy sier det samme selv i [sprø potetsalat med yuzumajones (T19)](#t19-sprø-potetsalat-med-yuzumajones): olivenoljen hører ikke hjemme i majonesen.
+- **Hold stavmikseren i ro til emulsjonen har tatt tak.** Kilden sier «start i bunnen og beveg deg oppover», men ikke at du bør stå stille de første 10–15 sekundene, til det er dannet en tykk, hvit kjerne rundt hodet. Løfter du for tidlig, drar du ublandet olje ned i plommene og majonesen skiller seg. *(Lagt til.)*
 - **Slik redder du en skilt majones** – kilden sier bare at du skal unngå det, ikke hva du gjør når det skjer. Ha en fersk eggeplomme i et rent glass og spe den skilte blandingen ned i den, litt om gangen, mens du kjører. Da tar den seg opp igjen. *(Lagt til.)*
 - **Romtempererte plommer emulgerer lettere.** Kjøleskapskalde egg gir tregere emulsjon og større fare for skilling. Ta dem ut 20 minutter før.
 - **Rå eggeplomme er uproblematisk i Norge.** Norske egg har kontrollert salmonellastatus, og rå plommer i majones regnes som trygt her – i motsetning til i mange andre land. Er du gravid eller har nedsatt immunforsvar, bruk pasteurisert eggeplomme.
 - **Eggstørrelsen påvirker forholdet.** 2 plommer til 3 dl olje er et trygt forhold – én plomme takler godt over 1,5 dl. Bruker du norske L-egg med store plommer, blir majonesen litt tykkere og fastere; med M-egg litt løsere. Vann fikser begge deler.
 - **Sitronmengden varierer mye.** «Saften av ½ sitron» kan være alt fra 2 ts til 1½ ss, og syren er det som gjør majonesen frisk i stedet for fet. Start med ca. 1 ss + 1 ts, smak, og juster. Hvitvinseddik gir en renere, skarpere syre om du vil ha den mer i klassisk retning.
-- **Dette er en plommemajones**, ikke en med helt egg – derfor blir den tykk og gul. Det er samme prinsipp som japansk **Kewpie**, som også bruker bare plommer. Vil du nærme deg den, bytt sitronen mot riseddik. Se notatet i [nr. 47](#47-enkel-ramen-med-kylling--matkanalen-sin-versjon) om forskjellen på japansk og norsk majones.
+- **Dette er en plommemajones**, ikke en med helt egg – derfor blir den tykk og gul. Det er samme prinsipp som japansk **Kewpie**, som også bruker bare plommer. Vil du nærme deg den, bytt sitronen mot riseddik. Se notatet i [enkel ramen med kylling (nr. 47)](#47-enkel-ramen-med-kylling--matkanalen-sin-versjon) om forskjellen på japansk og norsk majones.
 - **Holdbarhet:** 3–4 dager i kjøleskap i tett glass, siden plommene er rå. Kilden sier ingenting om oppbevaring. *(Lagt til.)* Den skiller seg ikke i kjøleskapet, men blir stivere – rør den løs, eventuelt med en skvett vann.
-- **Som base:** kildens egne forslag er sitron, chili, harissa og Vegemite. I denne samlingen brukes majones videre i den sterke majonesen til [sprø risbiter med laks](#s8-sprø-risbiter-med-laks) og [sushikopper med reker](#s6-sushikopper-med-reker) – sriracha rørt i majones – Rører du inn revet hvitløk, får du hvitløksmajones – det de fleste kaller aioli. Ekte aioli er noe annet og lages helt uten egg; se [T15](#t15-aioli).
+- **Som base:** kildens egne forslag er sitron, chili, harissa og Vegemite. I samlingen brukes majones videre i den sterke majonesen til [sprø risbiter med laks (S8)](#s8-sprø-risbiter-med-laks) og [sushikopper med reker (S6)](#s6-sushikopper-med-reker), som er sriracha rørt i majones. Rører du inn revet hvitløk, får du hvitløksmajones – det de fleste kaller aioli. Ekte aioli er noe annet og lages helt uten egg; se [aioli (T15)](#t15-aioli).
 - **Uten stavmikser** går det fint for hånd, men da må oljen dryppes i mens du visper, ikke helles. Regn 10 minutters visping og en fuktig klut under bollen så den står stille.
 
 ---
@@ -18974,7 +18974,7 @@ Tørrkaramell – sukker smeltet uten vann – rørt ut med smør og fløte. Fem
 
 ### Notater
 
-- **Smøret og fløten må være romtemperert.** Dette er den viktigste tilføyelsen til oppskriften. Kilden advarer om at det spruter og bobler, men sier ikke hvorfor: kald meieri­vare møter sukker på rundt 175 °C, og temperatursjokket får karamellen til å stivne i klumper i tillegg til å sprute. Ta smør og fløte ut av kjøleskapet en halvtime før. *(Kritisk tillegg.)*
+- **Smøret og fløten må være romtemperert.** Dette er den viktigste tilføyelsen til oppskriften. Kilden advarer om at det spruter og bobler, men sier ikke hvorfor: kalde meierivarer møter sukker på rundt 175 °C, og temperatursjokket får karamellen til å stivne i klumper i tillegg til å sprute. Ta smør og fløte ut av kjøleskapet en halvtime før. *(Kritisk tillegg.)*
 - **Tørrkaramell er raskere, men mindre tilgivende** enn våtkaramell med vann. Sukkeret smelter ujevnt, og forskjellen mellom gyllenbrun og brent er under et halvminutt. Sikt mot en dyp ravfarge – blir den mørkebrun og røyker, er den bitter og må kastes. *(Presisering lagt til.)*
 - **Røring er riktig her, i motsetning til i våtkaramell.** Med tørrkaramell må du røre, ellers brenner sukkeret nederst mens toppen fortsatt er kornet. Med våtkaramell er det motsatt – da skal du la være å røre, siden det utløser krystallisering. Forveksling mellom de to er en vanlig kilde til mislykket karamell. *(Bakgrunn lagt til.)*
 - **Skiller den seg** når smøret går i – blandingen ser oljete og kornete ut – er den ikke ødelagt. Sett kjelen tilbake på lav varme og rør til den samler seg igjen. *(Redning lagt til.)*
@@ -19014,11 +19014,11 @@ Den hvite grunnsausen. Smør og mel surres til en jevning, spes med melk, og kok
 
 - **De første desiliterne melk avgjør alt.** Klumper oppstår når du heller på for mye for fort. Er skaden skjedd, redder en stavmikser sausen fullstendig.
 - **Ti minutters koking er ikke valgfritt.** Under det smaker sausen av rå mel. Det er den vanligste feilen med hjemmelaget bechamel.
-- **Kald melk i varm jevning, eller varm melk i kald** – begge deler fungerer. Det som ikke fungerer er varm melk i varm jevning, som klumper seg umiddelbart.
+- **Kald melk i varm jevning er det tryggeste.** Varm melk går også, men da må du spe enda forsiktigere og vispe kraftig, ellers klumper det seg.
 - **Muskat er det som gjør en bechamel til en bechamel** i stedet for en hvit saus. Vær forsiktig: ¼ ts holder til en liter.
 - **Tykkere eller tynnere?** Samme metode, endret forhold. 50 g av hver per liter gir en tynn saus til gratenger, 100 g gir en tykk til fylte grønnsaker.
-- **Holdbarhet:** 3 døgn kjøleskap med plastfolie rett på overflaten, ellers danner det seg snerk. Tåler frysing dårlig – den skiller seg, men lar seg redde med stavmikser.
-- **Brukes i** [nr. 167](#167-lasagne-alla-bolognese).
+- **Holdbarhet:** 3 døgn i kjøleskap med plastfolie rett på overflaten, ellers danner det seg snerk. Tåler frysing dårlig – den skiller seg, men lar seg redde med stavmikser.
+- **Brukes i** [lasagne alla bolognese (nr. 167)](#167-lasagne-alla-bolognese).
 
 ---
 
@@ -19053,8 +19053,8 @@ Tomatsaus av fire ingredienser, kokt til den er tykk nok til å bli sittende på
 - **Sukkeret er ikke standard.** Gode hermetiske tomater trenger det ikke. Smak først, og bruk det bare hvis sausen biter.
 - **San Marzano er verdt merprisen** til denne bruken. De er kjøttfullere og mindre sure enn vanlige hermetiske tomater, og siden sausen har fire ingredienser, er det ingenting som skjuler forskjellen.
 - **Oljemengden virker høy.** 1 dl til 1,6 kg tomater er riktig – den emulgerer inn og gir sausen fylde uten fløte.
-- **Holdbarhet:** 5 døgn kjøleskap, 6 måneder fryser. Frys i porsjoner på 3 dl, som dekker én pizza eller pasta til to.
-- **Brukes i** [G6](#g6-pizzadeig) og som utgangspunkt der oppskriftene bruker passata.
+- **Holdbarhet:** 5 døgn i kjøleskap, 6 måneder i fryseren. Frys i porsjoner på 3 dl, som dekker én pizza eller pasta til to.
+- **Brukes i** [pizzadeig (G6)](#g6-pizzadeig) og som utgangspunkt der oppskriftene bruker passata.
 
 ---
 
@@ -19090,8 +19090,8 @@ To ting fra samme utgangspunkt. Begge starter med å smelte smør og skille vann
 - **Lys kjele, ikke svart.** I en mørk kjele ser du ikke fargen, og da er du blind på det eneste som betyr noe.
 - **Ghee tåler 250 °C.** Vanlig smør begynner å brenne rundt 150 °C, fordi melkeproteinene brenner. Uten dem kan du steke hardt i smørsmak.
 - **250 g smør gir ca. 200 g ghee.** Resten er vann og protein.
-- **Holdbarhet:** brunet smør 2 uker kjøleskap. Ghee 3 måneder i romtemperatur i tett glass, og nærmest ubegrenset kaldt.
-- **Brukes i** [nr. 145](#145-hvit-asparges-med-shiitake-og-brunet-hollandaise).
+- **Holdbarhet:** brunet smør 2 uker i kjøleskap. Ghee 3 måneder i romtemperatur i tett glass, og nærmest ubegrenset kaldt.
+- **Brukes i** [hvit asparges med brunet hollandaise (nr. 145)](#145-hvit-asparges-med-shiitake-og-brunet-hollandaise).
 
 ---
 
@@ -19120,10 +19120,10 @@ Grunnforholdet er tre deler olje til én del syre. Alt annet er variasjoner over
 
 - **3 til 1 er utgangspunktet, ikke en regel.** Med en mild eddik kan du gå til 2 til 1, med sitronsaft ofte 4 til 1. Smak.
 - **Sennepen er emulgatoren.** Uten den skiller vinaigretten seg i løpet av minutter. Med den holder den seg samlet i timevis.
-- **Saltet må løses i syren først.** Salt løser seg ikke i olje, og havner du med det i oljen, blir dressingen ujevnt salt.
+- **Saltet må løses i syren først.** Salt løser seg ikke i olje, og havner det i oljen, blir dressingen ujevnt salt.
 - **Fire varianter fra samme base:** sitron og timian til fisk, rødvinseddik og sjalottløk til grønn salat, balsamico og honning til rotgrønnsaker, riseddik og sesamolje til asiatiske salater.
-- **Holdbarhet:** 2 uker kjøleskap. Olivenolje stivner i kulda – ta den ut 20 minutter før bruk.
-- **Beslektet:** [T39](#t39-sesamdressing-til-kålsalat) er den asiatiske varianten, og [T122](#t122-majones) er den stabile emulsjonen av samme prinsipp.
+- **Holdbarhet:** 2 uker i kjøleskap. Olivenolje stivner i kulda – ta den ut 20 minutter før bruk.
+- **Beslektet:** [sesamdressingen (T39)](#t39-sesamdressing-til-kålsalat) er den asiatiske varianten, og [majonesen (T122)](#t122-majones) er den stabile emulsjonen av samme prinsipp.
 
 ---
 
@@ -19159,13 +19159,13 @@ Kokt tomatsaus kjørt glatt og deretter silt gjennom et kjøkkenhåndkle. Siling
 
 ### Notater
 
-- **«1 hvitløk» er tvetydig i notatet.** Et helt hvitløkhode er plausibelt til 800 g tomat og en times koking, og ett enkelt fedd ville knapt merkes. Her er det tolket som et helt hode – si fra hvis det skal være ett fedd. *(Presisert.)*
+- **«1 hvitløk» er tvetydig i notatet.** Et helt hvitløkshode er plausibelt til 800 g tomat og en times koking, og ett enkelt fedd ville knapt merkes. Her er det tolket som et helt hode – si fra hvis det skal være ett fedd. *(Presisert.)*
 - **Silingen er hele poenget.** En tynn pizzasaus bløter bunnen før den rekker å bli sprø. Timen i kledet fjerner vannet uten å koke bort smaken, slik lang innkoking ville gjort.
 - **Basilikumstilkene har mer smak enn bladene.** De kjøres glatt uansett, så det er ingen grunn til å kaste dem.
 - **Spisskummen og cayenne** finnes ikke i en italiensk pizzasaus. De gir en varme og en røykaktig tone som er tydelig annerledes – behold dem hvis det er den smaken du er ute etter, og dropp dem hvis du vil ha en ren napolitansk saus.
 - **Væsken som siles av** er ikke søppel. Den er tomatvann med smak, og kan brukes i en suppe eller kokes inn til en dressing.
-- **Holdbarhet:** 5 døgn kjøleskap, 6 måneder fryser. Frys i porsjoner på 1,5 dl, som dekker én pizza.
-- **Beslektet:** [G6](#g6-pizzadeig) er bunnen, og [T125](#t125-marinara--tomatsausbase) er den italienske sausen uten siling og uten krydder.
+- **Holdbarhet:** 5 døgn i kjøleskap, 6 måneder i fryseren. Frys i porsjoner på 1,5 dl, som dekker én pizza.
+- **Beslektet:** [pizzadeig (G6)](#g6-pizzadeig) er bunnen, og [marinara (T125)](#t125-marinara--tomatsausbase) er den italienske sausen uten siling og uten krydder.
 
 ---
 
@@ -19199,7 +19199,7 @@ Rødløk i en lake av vann, sukker og eddik i forholdet 3–2–1. Ferdig etter 
 - **Laken kan smaksettes** med chili, sitronskall og dill, hvitløk og laurbær, korianderfrø og ingefær, eller stjerneanis. Kilden lister opp alle.
 - **Ikke kast laken.** Den er en ferdig vinaigrettebase når løken er spist opp.
 - **Holdbarhet:** minst 2 uker i kjøleskap i glass med tett lokk.
-- **Beslektet:** [T130](#t130-hurtigsylting-av-agurk-og-gulrot) bruker samme lake på andre grønnsaker, og [T3](#t3-soyamarinert-agurk) er den asiatiske tilnærmingen.
+- **Beslektet:** [hurtigsylting av agurk og gulrot (T130)](#t130-hurtigsylting-av-agurk-og-gulrot) bruker samme lake på andre grønnsaker, og [soyamarinert agurk (T3)](#t3-soyamarinert-agurk) er den asiatiske tilnærmingen.
 
 ---
 
@@ -19233,7 +19233,7 @@ Samme prinsipp som syltet rødløk, men på faste grønnsaker som skal beholde k
 - **Salt i tillegg til sukker.** Uten salt smaker resultatet bare søtt og syrlig, og grønnsakene blir slappere.
 - **Agurk gir fra seg mye vann** og tynner ut laken over et par dager. Vil du ha den fast lenge, salt agurkstavene i 20 minutter først og klem ut vannet.
 - **Riseddik til asiatiske retter, eplecidereddik til vestlige.** Samme lake, ulik retning.
-- **Holdbarhet:** 2 uker kjøleskap. Agurken blir bløtere etter en uke, gulroten holder.
+- **Holdbarhet:** 2 uker i kjøleskap. Agurken blir bløtere etter en uke, gulroten holder.
 - **Beslektet:** [syltet rødløk (T129)](#t129-syltet-rødløk) er samme lake på løk, og [soyamarinert agurk (T3)](#t3-soyamarinert-agurk) og [koreansk sterk agurksalat (oi muchim) (T6)](#t6-koreansk-sterk-agurksalat-oi-muchim) er de asiatiske variantene.
 
 ---
