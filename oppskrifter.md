@@ -9237,10 +9237,10 @@ Gulasj er en suppe, ikke en gryterett – kilden er ettertrykkelig på det punkt
 - 2 ts salt
 - 3 løk, finhakket
 - 3 ss nøytral olje
-- ½ dl vann
+- 3 ss vann
 - 4 ss paprikapulver, helst ungarsk
 - 1 ts hel sort pepper
-- 1,5 l vann
+- 1,5 liter vann
 - 500 g potet, i små terninger
 - 200 g gulrot, i små terninger
 - 100 g persillerot, i små terninger
@@ -9252,7 +9252,7 @@ Gulasj er en suppe, ikke en gryterett – kilden er ettertrykkelig på det punkt
 ### Fremgangsmåte
 
 1. **Rens kjøttet** for de groveste hinnene og overflødig fett, skjær det i terninger på ca. 3 cm og dryss over saltet.
-2. **Stek løken myk og gyllen** i olje på svak varme i en jerngryte, **ca. 20 minutter**. Spe med ½ dl vann underveis så den ikke brenner seg. Dette er ikke et trinn å forhaste.
+2. **Stek løken myk og gyllen** i olje på svak varme i en jerngryte, **ca. 20 minutter**. Spe med 3 ss vann underveis så den ikke brenner seg. Dette er ikke et trinn å forhaste.
 3. **Ta gryta av varmen** og rør inn paprikapulveret. Paprika brenner seg på få sekunder ved høy varme og blir bitter – derfor skal gryta av platen først.
 4. **Vend kjøttet inn** i løk- og paprikablandingen. Tilsett pepperkorn og vann så det akkurat dekker kjøttet.
 5. **Kok opp uten å skumme av**, senk varmen, legg på lokk og la det småkoke i **2–3 timer** til kjøttet er mørt.
@@ -9396,7 +9396,7 @@ Tynne skiver mørt storfe i en marinade av revet pære, løk, hvitløk, ingefær
 - 1 ts finhakket ingefær
 - 1 vårløk, hakket
 - 2 ss soyasaus
-- 2 ss brunt sukker *(eller 1 ss brunt sukker og 1½ ss rissirup)*
+- 2 ss brunt sukker *(eller 1 ss brunt sukker og 1 ss + 1½ ts rissirup)*
 - 1 ss ristet sesamolje
 - Noen tynne skiver gulrot
 - En klype sort pepper
