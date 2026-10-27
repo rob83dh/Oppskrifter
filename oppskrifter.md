@@ -23806,7 +23806,7 @@ Ostekake i baskisk stil – brent topp, myk og skjelvende i midten – med hvit 
 
 **Kilde:** Andy Cooks (andy-cooks.com) · **Kjøkken:** Japansk-britisk · **Tid:** ca. 4½ t (30 min forberedelse + 2½ t heving + 25 min steking + 1 t avkjøling) · **Gir:** 1 brød
 
-Hot cross buns møter shokupan: den britiske påskebollen bakt som japansk melkebrød. Yudane-metoden – mel forkokt med kokende vann – gjør krummen usedvanlig myk, og den krydrede, appelsintrukne tørrfrukten legges inn ved forming i stedet for å eltes inn. Korset piples på før steking, og marmeladeglasuren pensles på mens brødet fortsatt er varmt.
+Hot cross buns møter shokupan: den britiske påskebollen bakt som japansk melkebrød. Yudane-metoden – mel forkokt med kokende vann – gjør krummen usedvanlig myk, og den krydrede, appelsintrukne tørrfrukten legges inn ved forming i stedet for å eltes inn. Korset sprøytes på før steking, og marmeladeglasuren pensles på mens brødet fortsatt er varmt.
 
 ### Ingredienser
 
@@ -23878,19 +23878,19 @@ Hot cross buns møter shokupan: den britiske påskebollen bakt som japansk melke
 **Steking**
 
 19. **Rør mel og vann til korset** glatt i en liten bolle. Ha blandingen i en liten plastpose og klipp av et hjørne.
-20. **Pipl én lang linje** på langs midt over brødet, og deretter en linje på tvers over hver av de tre rullene, så det dannes tre kors.
+20. **Sprøyt én lang linje** på langs midt over brødet, og deretter en linje på tvers over hver av de tre rullene, så det dannes tre kors.
 21. **Stek i 22–25 minutter**, til toppen er dypt gyllenbrun.
 22. **Rør marmeladen med kokende vann** til det er glatt, og sil bort skallbitene.
 23. **Vend brødet ut på rist** med korssiden opp. Pensle toppen med glasuren og la det avkjøle i **minst 1 time** før du skjærer det. Serveres med mykt smør.
 
 ### Notater
 
-- **Lokket brukes aldri, selv om kilden ber deg smøre det.** Steg 13 sier at både form og lokk skal smøres, og utstyrslisten spesifiserer en shokupanform *med lokk*. Men resten av oppskriften er umulig med lokket på: korset piples på toppen, brødet skal bli dypt gyllenbrunt, og glasuren pensles på. Bak uten lokk. Instruksjonen er sannsynligvis blitt stående igjen fra en vanlig shokupanoppskrift.
+- **Lokket brukes aldri, selv om kilden ber deg smøre det.** Steg 13 sier at både form og lokk skal smøres, og utstyrslisten spesifiserer en shokupanform *med lokk*. Men resten av oppskriften er umulig med lokket på: korset sprøytes på toppen, brødet skal bli dypt gyllenbrunt, og glasuren pensles på. Bak uten lokk. Instruksjonen er sannsynligvis blitt stående igjen fra en vanlig shokupanoppskrift.
 - **Du trenger derfor ikke shokupanform.** Siden lokket ikke brukes, gjør en vanlig brødform samme nytte – du får en rundet topp i stedet for firkantet, og en litt mer åpen krumme. Det er kildens eget svar i FAQ-en, og her er det ekstra relevant, siden shokupanformer knapt selges i norske butikker.
 - **210 °C varmluft er høyt for en søt deig.** Sukker, honning, egg og melk bruner raskt, og rosinene som ligger i overflaten svir seg lett. Kildens temperatur står urørt, men følg med fra rundt 15 minutter, og legg folie løst over hvis toppen mørkner før tiden er ute. Enheten er entydig – kilden oppgir både 210 °C og 410 °F.
 - **Melmengden er lett å lese feil.** Ingredienslisten sier «360 g brødmel + 25 g ekstra (yudane)». Det er altså 385 g til sammen: 25 g går i yudanen, 360 g i deigen. De 25 g hvetemelet til korset kommer i tillegg og er en annen meltype.
 - **Brødmel betyr kraftmel her.** Kilden vil ha 11–13 % protein. Vanlig norsk hvetemel ligger på 10–11 %, så bruk kraftmel, brødmel eller manitobamel. Vanlig hvetemel fungerer, men krummen blir litt mer åpen og mindre fjærende – det sier kilden selv.
-- **8 g salt er 8 g salt.** Kilden skriver «kosher salt», men når mengden er oppgitt i vekt, spiller korntypen ingen rolle. Bruk hvilket salt du vil og vei det. *(Sammenlign med [S4](#s4-shanghai-wontons-med-svin-og-pak-choi), der kilden oppgir kosher salt i volum og det faktisk blir et problem.)*
+- **8 g salt er 8 g salt.** Kilden skriver «kosher salt», men når mengden er oppgitt i vekt, spiller korntypen ingen rolle. Bruk hvilket salt du vil og vei det. *(Sammenlign med [Shanghai-wontons (S4)](#s4-shanghai-wontons-med-svin-og-pak-choi), der kilden oppgir kosher salt i volum og det faktisk blir et problem.)*
 - **4 g tørrgjær tilsvarer ca. 12 g fersk gjær.** Norske tørrgjærposer er på 11 g, så du bruker drøyt en tredel av en pose. Vil du bruke fersk gjær, smuldre 12 g i den lune melken.
 - **Yudanen må være helt kald.** Kilden er tydelig på hvorfor: en varm yudane løfter deigtemperaturen ut av gjærens beste område på 25–35 °C, og du risikerer ujevn og for rask heving. Lag den først, så tar du resten mens den kjøler seg.
 - **Smøret skal inn etter de første 8 minuttene**, ikke før. Fett hemmer glutenutviklingen hvis det er til stede fra start. Har du i alt på én gang, blir deigen fettete og slapp og henter seg ikke inn igjen. Den er ferdig når den slipper bollekanten rent og kjennes glatt, ikke klissete.
@@ -23900,7 +23900,7 @@ Hot cross buns møter shokupan: den britiske påskebollen bakt som japansk melke
 - **Uten kjøkkenmaskin** går det, men regn 15–20 minutters elting for hånd, og smørtrinnet er det tunge. Deigen skal kunne trekkes til en tynn hinne uten å revne før hevingen.
 - **Avkjølingen er ikke valgfri.** Brødet skjærer seg pent først når det er helt kaldt – minst én time på rist. Skjærer du varmt, klemmer du krummen sammen.
 - **Holdbarhet:** 3 dager i tett boks i romtemperatur. Det fryser godt: skjær hele brødet opp først, frys skivene i pose, og legg dem rett fra fryseren i brødristeren.
-- **Kilden gir to oppskrifter som bruker skivene:** en salt variant med skinke, sveitserost, kewpie-majones og egg bakt i en fordypning, og en s'mores-variant med marshmallow og sjokoladeegg. Begge er påskeleker, men den salte toastien viser at brødet tåler mer enn syltetøy.
+- **Kilden gir to oppskrifter som bruker skivene:** en salt variant med skinke, sveitserost, Kewpie-majones og egg bakt i en fordypning, og en s'mores-variant med marshmallow og sjokoladeegg. Begge er påskeleker, men den salte toastien viser at brødet tåler mer enn syltetøy.
 - **Hot cross buns er ingen norsk tradisjon**, men brødet trenger ingen påskeanledning – det ligger nær en velsmakende rosinbolle i brødform.
 
 ---
@@ -23925,7 +23925,7 @@ Brunet smør, to typer mørk sjokolade og gochujang rørt inn i bare en tredel a
 - 3 ss gochujang
 - 100 g mørk sjokolade (70 %), hakket
 - 200 g mørke sjokoladebiter
-- Flaksalt til drysning
+- Flaksalt til dryssing
 
 ### Fremgangsmåte
 
@@ -23958,8 +23958,8 @@ Brunet smør, to typer mørk sjokolade og gochujang rørt inn i bare en tredel a
 - **En klype salt er for lite.** 400 g mel, 385 g sukker og usaltet smør trenger mer enn en klype for at sødmen ikke skal bli flat. Kildens mengde står urørt, men de fleste brunsmør-cookies bruker rundt **1 ts** fint salt i deigen. Flaksaltet på toppen etterpå er noe annet – det er kontrast, ikke grunnsalting.
 - **Melet som settes av, har en funksjon kilden ikke forklarer.** Gochujang er fuktig, og den spiseskjeen mel går inn i gochujangdeigen for å kompensere. Uten den blir den tredelen løsere enn resten, og da flyter marmoreringen ut i stedet for å holde seg som årer.
 - **Ikke bland ferdig.** Kilden gjentar det tre ganger, og det er hele poenget: blandes deigene helt sammen, får du jevn, mild varme i alle kakene i stedet for variasjon. Noen få vend er nok.
-- **Brun farin, ikke «farin».** Kilden ber om *brown sugar*. I norske butikker betyr «farin» hvitt sukker – det du skal ha, er **brun farin** eller lys muscovado. Mørk muscovado gjør også nytten og gir dypere lakrisaktig tone. Vanlig sukker i stedet gir en tørrere og sprøere kake, siden det er melassen som holder på fuktigheten.
-- **Norsk strøsukker tilsvarer caster sugar**, så du trenger ikke gjøre noe med den delen – samme forhold som i [D2](#d2-sjokoladefondant).
+- **Brun farin, ikke strøsukker.** Kilden ber om *brown sugar*, som i Norge heter **brun farin**. Lys muscovado gjør samme nytte. Mørk muscovado gjør også nytten og gir dypere lakrisaktig tone. Vanlig sukker i stedet gir en tørrere og sprøere kake, siden det er melassen som holder på fuktigheten.
+- **Norsk strøsukker tilsvarer caster sugar**, så du trenger ikke gjøre noe med den delen – samme forhold som i [sjokoladefondanten (D2)](#d2-sjokoladefondant).
 - **Brunt smør går fra ferdig til brent på sekunder.** Følg nøye med når det begynner å skumme. Det skal lukte nøtteaktig og ha gyllenbrune prikker i bunnen av kjelen. Prikkene er poenget – hell dem med over i bollen.
 - **Piskingen over isbad erstatter kremingen.** Vanlig cookiedeig får luft fra kaldt smør pisket med sukker. Brunet smør er smeltet, så kilden kjøler det ned igjen og pisker det luftig før sukkeret går i. Hopper du over dette, blir kakene tettere.
 - **To sjokoladetyper er et bevisst valg.** Den hakkede smelter til ujevne lommer, bitene holder formen. 70 % holder sjokoladesmaken ren mot gochujangen; melkesjokolade blir for søtt i denne sammenhengen.
@@ -23967,7 +23967,7 @@ Brunet smør, to typer mørk sjokolade og gochujang rørt inn i bare en tredel a
 - **Glutenfritt lar seg ikke gjøre her**, og grunnen er verdt å merke seg: gochujang inneholder ofte hvete. Det er ikke bare melet som må byttes.
 - **Vaniljeekstrakt, ikke vaniljesukker.** 2 ts ekstrakt kan ikke erstattes med vaniljesukker uten at både mengde og sødme blir feil.
 - **Holdbarhet:** i tett boks i romtemperatur. Både deig og ferdige kaker kan fryses – triller du deigen til kuler før frysing, kan du steke dem noen om gangen rett fra fryseren.
-- **Samlingens andre gochujang-fusjon** er [gochujang-kylling alfredo](#30-gochujang-kylling-alfredo). Begge bygger på at gochujangens fermenterte sødme tåler å møte noe helt uvant.
+- **Beslektet:** [gochujang-kylling alfredo (nr. 30)](#30-gochujang-kylling-alfredo) bygger på samme idé – gochujangens fermenterte sødme tåler å møte noe helt uvant.
 
 ---
 
@@ -24027,7 +24027,7 @@ Fransk klassiker i tre deler: vannbakkels, sjokoladekrem og sjokoladeglasur. Kil
 
 - **Eggene står i ingredienslisten, men brukes aldri i fremgangsmåten.** Dette er en alvorlig mangel – uten egg er det ingen vannbakkels, bare en meljevning. Eggene arbeides inn *etter* at deigen har tørket i kjelen og kjølt seg til rundt 60 °C; går de i for varm deig, koagulerer de. Punkt 3 er ført inn. *(Kritisk mangel – lagt til.)*
 - **Bruk eggene etter konsistens, ikke etter antall.** To egg er et utgangspunkt; hvor mye deigen tåler avhenger av hvor mye fuktighet som fordampet i punkt 2. Deigen er ferdig når den henger i en V-form fra slikkepotten. Har du pisket inn for mye egg, kan det ikke reddes – tilsett litt om gangen. *(Lagt til.)*
-- **8 minutters tørking er svært lenge.** Standard for vannbakkels er 2–4 minutter, til deigen slipper kjelekanten og det danner seg en tynn hinne i bunnen. Åtte minutter på middels lav varme gir en mye tørrere panade, som krever tilsvarende mer egg. Kilden er konditor og vet nok hva han gjør, men vær forberedt på å bruke mer enn to egg. *(Presisering lagt til.)*
+- **8 minutters tørking er svært lenge.** Standard for vannbakkels er 2–4 minutter, til deigen slipper kjelekanten og det danner seg en tynn hinne i bunnen. Åtte minutter på middels lav varme gir en mye tørrere panade, som krever tilsvarende mer egg. Kilden er utdannet konditor, men vær forberedt på å bruke mer enn to egg. *(Presisering lagt til.)*
 - **Fryse-og-skjære-trikset er verdt å lære.** Sprøyt lange, jevne strenger på et brett med bakepapir, frys dem faste, og skjær dem så i like lengder – 12–14 cm. Da slipper du ujevne ender og éclairs i ulik størrelse. De stekes rett fra fryseren. *(Forklaring lagt til.)*
 - **Ikke åpne ovnsdøren.** Vannbakkels hever på damp; slipper du ut dampen før strukturen har satt seg, faller de sammen og kan ikke reddes. Kilden er ettertrykkelig, og med god grunn.
 - **82 °C er riktig for en eggekrem, men lavt for en med maisenna.** Konditorkrem med stivelse bør vanligvis **koke i ett til to minutter**, både for å gelatinisere stivelsen fullt ut og for å ødelegge enzymet amylase i eggeplommene – ellers kan kremen tynne seg ut i kjøleskapet. Kok den forsiktig opp under kraftig visping etter at den har tyknet. *(Faglig innvending lagt til.)*
@@ -24036,7 +24036,7 @@ Fransk klassiker i tre deler: vannbakkels, sjokoladekrem og sjokoladeglasur. Kil
 - **Fyllingen mangler i fremgangsmåten.** Stikk tre hull i bunnen av hver éclair med en tynn tyll og sprøyt kremen inn til den så vidt siver ut. Glasuren dyppes toppen i etterpå. *(Lagt til.)*
 - **Klassiske éclairs glaseres med fondant**, ikke sjokolade. Sjokoladeglasuren her er enklere og mer holdbar, men stivner hardere – oljen er der for å holde den blank og gjøre den lettere å bite gjennom. *(Bakgrunn lagt til.)*
 - **Best samme dag.** Vannbakkels trekker fuktighet fra kremen og blir bløt over natten. Ufylte skall kan derimot fryses.
-- **Beslektet:** [sjokoladefondant (D2)](#d2-sjokoladefondant) er samlingens andre mørke sjokoladedessert, og [saltkaramellsaus (T123)](#t123-saltkaramellsaus) fungerer som alternativ glasur.
+- **Beslektet:** [sjokoladefondant (D2)](#d2-sjokoladefondant) er en annen mørk sjokoladedessert, og [saltkaramellsaus (T123)](#t123-saltkaramellsaus) fungerer som alternativ glasur.
 
 ---
 
@@ -24082,10 +24082,10 @@ Brownies der nesten all tiden er venting. Røren hviler i kjøleskapet i minst e
 - **Formstørrelsen mangler.** Denne mengden passer en form på **23 × 33 cm**. Mindre form gir tykkere brownies og lengre steketid. *(Lagt til.)*
 - **Røren blir svært fast i kjøleskapet.** La den stå fremme i en halvtime før du fordeler den i formen, ellers lar den seg ikke bre utover. *(Lagt til.)*
 - **30 minutter på 180 °C gir kladdete brownies.** De skal se underbakte ut i midten når du tar dem ut – nedkjølingen gjør resten. *(Presisering lagt til.)*
-- **Fryseren stopper ettersteking.** Rett fra ovnen fortsetter browniesene å steke i den varme formen; 30 minutter i fryseren avbryter det og låser den fudgy teksturen. Deretter jevner et par timer i kjøleskap ut temperaturen. Ikke hopp over noen av trinnene – det er det siste av «100 timer».
+- **Fryseren stopper ettersteking.** Rett fra ovnen fortsetter browniesene å steke i den varme formen; 30 minutter i fryseren avbryter det og låser den seige teksturen. Deretter jevner et par timer i kjøleskap ut temperaturen. Ikke hopp over noen av trinnene – det er det siste av «100 timer».
 - **Espressopulver smaker ikke kaffe** i denne mengden. Det forsterker sjokoladen. Har du det ikke, bruk 1 ts pulverkaffe.
 - **Skjær dem kalde**, med en varm, tørr kniv som tørkes mellom hvert snitt. Romtempererte brownies smøres utover.
-- **Beslektet:** [gochujang chocolate chip cookies (B2)](#b2-gochujang-chocolate-chip-cookies) er samlingens andre amerikanske bakverk, og [saltkaramellsaus (T123)](#t123-saltkaramellsaus) passer over.
+- **Beslektet:** [gochujang chocolate chip cookies (B2)](#b2-gochujang-chocolate-chip-cookies) er et annet amerikansk bakverk, og [saltkaramellsaus (T123)](#t123-saltkaramellsaus) passer over.
 
 ---
 
