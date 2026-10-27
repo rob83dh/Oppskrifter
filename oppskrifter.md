@@ -21046,7 +21046,7 @@ Tunfisksalat rørt med Kewpie i stedet for vanlig majones, med cornichoner, rød
 - 1 ss stangselleri, finhakket *(valgfritt)*
 - 1 ss vårløk, finhakket
 - 3 ss Kewpie japansk majones
-- ½ ss sitronsaft
+- 1½ ts sitronsaft
 - 1 lite hvitløksfedd, finrevet
 - Salt og pepper
 
@@ -21085,8 +21085,8 @@ Parisisk bistroklassiker: ristet loff med skinke, ost og bechamel, gratinert til
 ### Ingredienser
 
 **Bechamel**
-- 500 ml melk
-- 40 g smør — 3 ss
+- 5 dl melk
+- 40 g smør
 - 40 g hvetemel
 - 1 klype muskat
 - Salt og pepper
@@ -21120,7 +21120,7 @@ Parisisk bistroklassiker: ristet loff med skinke, ost og bechamel, gratinert til
 ### Notater
 
 - **Ristingen av brødet er kildens viktigste tips**, og hun regner det som feil nummer én at brødet blir bløtt. Lett risting danner en skorpe som holder bechamelen ute av brødet. Ikke hopp over det.
-- **Bechamelen skal være tykkere enn til lasagne.** Den skal bli liggende på brødet, ikke renne ned i det. 40 g mel til 500 ml melk er akkurat det – ikke tynn den ut. Blir den for tykk, spe med en skvett varm melk.
+- **Bechamelen skal være tykkere enn til lasagne.** Den skal bli liggende på brødet, ikke renne ned i det. 40 g mel til 5 dl melk er akkurat det – ikke tynn den ut. Blir den for tykk, spe med en skvett varm melk.
 - **Riv osten selv.** Ferdigrevet ost er tilsatt potetmel eller cellulose for å hindre klumping, og det gjør at den smelter dårligere og blir trådete.
 - **Ikke for mye fyll inni.** Et tynt lag ost er nok – det kommer mer ost og bechamel på toppen, og for mye inni gjør smørbrødet ustabilt og fett. Forfatteren regner dette som feil nummer to.
 - **Grillelementet de siste to minuttene** gir den typiske gyllenbrune skorpen. Følg med – det går fort.
@@ -21235,7 +21235,7 @@ Amerikansk eggesalat satt med sriracha og rødløk, med sprøstekt bacon i. Ingr
 ### Ingredienser
 
 - 2 egg
-- 120 ml majones — ½ cup
+- 1,2 dl majones
 - 2 ss rødløk, finhakket
 - 1 ss sriracha
 - Paprikapulver
@@ -21253,7 +21253,7 @@ Amerikansk eggesalat satt med sriracha og rødløk, med sprøstekt bacon i. Ingr
 
 ### Notater
 
-- **Forholdet er påfallende skjevt.** 120 ml majones til bare **2 egg** gir noe som er nærmere en dipp enn en eggesalat – normalt regnes 1 ss majones per egg. Enten er eggantallet for lavt eller majonesmengden for høy. **Anbefaling: 6 egg til 120 ml majones**, eller 2 egg til 2 ss majones. *(Kritisk avvik – justering lagt til.)*
+- **Forholdet er påfallende skjevt.** 1,2 dl majones til bare **2 egg** gir noe som er nærmere en dipp enn en eggesalat – normalt regnes 1 ss majones per egg. Enten er eggantallet for lavt eller majonesmengden for høy. **Anbefaling: 6 egg til 1,2 dl majones**, eller 2 egg til 2 ss majones. *(Kritisk avvik – justering lagt til.)*
 - **Kilden oppgir ingen fremgangsmåte.** Ingredienslisten er en tekstplakat i videoen. Punkt 1–5 er rekonstruert etter standard eggesalat. *(Merknad lagt til.)*
 - **Ingen mengder på paprikapulver, salt, pepper eller bacon.** Anslag: **½ ts paprikapulver**, **50 g bacon**, salt og pepper etter smak. *(Lagt til.)*
 - **Baconet skal i helt til slutt.** Rører du det inn tidlig, suger det til seg fuktighet fra majonesen og blir bløtt i løpet av minutter. Strø det heller over ved servering. *(Lagt til.)*
