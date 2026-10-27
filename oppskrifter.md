@@ -25795,7 +25795,7 @@ Fire timer i romtemperatur, deretter 44 timer i kjøleskap på 4 °C. Det er der
 - **Deigen knas ikke etter første heving.** Den formes bare til en pølse, deles og trilles til baller. All luften du slår ut nå, kommer ikke tilbake.
 - **Durumhvete til utbaking.** Bruker du vanlig stekeovn i stedet for pizzaovn, gir durumhvete en litt sprøere bunn. Samme mel som i deigen fungerer også.
 - **Trykk fra midten og utover.** Luften skal presses ut i kanten, ikke ut av deigen. Det er det som gir den luftige kanten. Kjevle aldri en napolitansk pizza.
-- **Én time forvarming.** Steinen må være gjennomvarm, ikke bare varm på overflaten. Kortere forvarming gir bleik bunn uansett hvor høy temperaturen er.
+- **Én time forvarming.** Steinen må være gjennomvarm, ikke bare varm på overflaten. Kortere forvarming gir blek bunn uansett hvor høy temperaturen er.
 - **Øverste hylle, ikke nederste.** Dette skiller seg fra kildens korttidsdeig, der nederste rille er ett av alternativene – her er nærhet til taket og grillelementet det som gir farge på toppen i tide.
 - **Resultatet blir ikke som i en pizzaovn**, og det sier kilden selv. Men det er det nærmeste du kommer på 300 °C.
 - **63 % hydrering**, praktisk talt det samme som korttidsdeigen. Forskjellen ligger i tiden og gjæren, ikke i vannet.
@@ -25808,7 +25808,7 @@ Fire timer i romtemperatur, deretter 44 timer i kjøleskap på 4 °C. Det er der
 
 **Kilde:** Eyvind Hellstrøm, *Grunnboka* (Cappelen Damm, 2025) · **Kjøkken:** Italiensk · **Tid:** 3½ time · **Gir:** ca. 4 pizzaer
 
-Femti prosent hydrering, minimum tre timers heving, og steking på steinplate på 300 grader. Tørrere enn de andre pizzadeigene i samlingen, og dermed lettere å håndtere.
+Femti prosent hydrering, minimum tre timers heving, og steking på steinplate på 300 °C. Tørrere enn de andre pizzadeigene i samlingen, og dermed lettere å håndtere.
 
 ### Ingredienser
 
@@ -25820,22 +25820,22 @@ Femti prosent hydrering, minimum tre timers heving, og steking på steinplate p�
 
 ### Fremgangsmåte
 
-1. **Bland vann (35 grader), salt, gjær og olje.**
+1. **Bland vann (35 °C), salt, gjær og olje.**
 2. **Ha i melet** og kjør i eltemaskin i **ca. 10 minutter** til en jevn deig.
 3. **La den heve i minimum 3 timer.**
 4. **Del opp i emner på ca. 100 g** – eller mer om du ønsker en større pizza – form dem til boller, og **hev på nytt under klede eller plastfolie i ca. 30 minutter.**
 5. **Eller sett deigen i kjøleskap til senere bruk.** Den tåler minst 1 døgn kaldt.
 6. **Bak ut på mel til ca. ½ cm tykkelse** og ha på fyll etter ønske.
-7. **Stek helst på en steinplate i forvarmet ovn på ca. 300 grader i ca. 3 minutter.**
+7. **Stek helst på en steinplate i forvarmet ovn på ca. 300 °C i ca. 3 minutter.**
 
 ### Notater
 
 - **50 % hydrering er lavt**, og det er et bevisst valg. Deigen er langt lettere å håndtere enn de våtere variantene, på bekostning av noe av de store luftboblene i kanten. En god deig å begynne med.
-- **Vann på 35 grader.** Varmt nok til at gjæren starter raskt, ikke så varmt at den skades. Over 45 grader begynner gjærcellene å dø.
+- **Vann på 35 °C.** Varmt nok til at gjæren starter raskt, ikke så varmt at den skades. Over 45 °C begynner gjærcellene å dø.
 - **Damptrikset fra kilden:** sett inn en liten kopp med vann i den varme ovnen. Dampen holder overflaten fuktig så bunnen kan heve seg før skorpen setter seg, i stedet for å tørke ut.
-- **Emner på 100 g** gir små pizzaer. Til vanlig 30-centimeter regner de fleste 220–250 g.
-- **Ett døgn i kjøleskap** er dekket av kilden. Lengre kaldheving gir mer smak – se [G8](#g8-pizzadeig-med-48-timers-heving) for den ytterligheten.
-- **Beslektet:** [pizzadeig (G6)](#g6-pizzadeig), [korttidshevet pizzadeig (G7)](#g7-korttidshevet-pizzadeig) og [pizzadeig med 48 timers heving (G8)](#g8-pizzadeig-med-48-timers-heving) er samlingens øvrige pizzadeiger, og [pizzasaus (T128)](#t128-pizzasaus) og [marinara – tomatsausbase (T125)](#t125-marinara--tomatsausbase) er sausene.
+- **Emner på 100 g** gir små pizzaer. Til en vanlig pizza på 30 cm regner de fleste 220–250 g.
+- **Ett døgn i kjøleskap** er dekket av kilden. Lengre kaldheving gir mer smak – se [pizzadeig med 48 timers heving (G8)](#g8-pizzadeig-med-48-timers-heving) for den ytterligheten.
+- **Beslektet:** [pizzadeig (G6)](#g6-pizzadeig), [korttidshevet pizzadeig (G7)](#g7-korttidshevet-pizzadeig) og [pizzadeig med 48 timers heving (G8)](#g8-pizzadeig-med-48-timers-heving) er andre pizzadeiger, og [pizzasaus (T128)](#t128-pizzasaus) og [marinara – tomatsausbase (T125)](#t125-marinara--tomatsausbase) er sausene.
 
 ---
 
@@ -25851,7 +25851,7 @@ Potetene kokes med skall og presses mens de er varme. Deigen skal knapt arbeides
 - 100 g hvetemel
 - 1 egg
 - Et dryss salt
-- Et dryss kajennepepper
+- Et dryss cayennepepper
 - Et dryss revet muskatnøtt
 
 ### Fremgangsmåte
@@ -25908,7 +25908,7 @@ Deigen kjevles ut, pensles med olje og brettes i to før den dampes. Oljen mello
 - **Dobbel heving.** Første heving bygger smak og struktur, andre heving skjer etter at formen er satt – hopper du over den, blir baoen tett.
 - **Damp, ikke ovn.** Fuktig varme holder overflaten myk og hvit. I ovn får du skorpe, og da er det ikke bao lenger.
 - **Egg i deigen** er Hellstrøms variant. Tradisjonell bao-deig er ofte uten, og blir hvitere; eggene gir en rikere, gulere deig nærmere et melkebrød.
-- **Beslektet:** [nr. 18](#18-filips-stekte-bao-dumplings) bruker bao i stekt form, og [B18](#b18-tangzhong-brød) er samme familie av bløte, dampfuktige deiger.
+- **Beslektet:** [Filips stekte bao-dumplings (nr. 18)](#18-filips-stekte-bao-dumplings) bruker bao i stekt form, og [tangzhong-brød (B18)](#b18-tangzhong-brød) er samme familie av bløte, dampfuktige deiger.
 
 ---
 
@@ -25942,7 +25942,7 @@ Egg først, så mel litt etter litt, og melken helt til slutt. Rekkefølgen er d
 - **Smeltet vaniljeis i stedet for vaniljesukker** er kildens eget alternativ, og det er smartere enn det høres ut: isen gir sukker, vanilje og fett i én bevegelse, og fettet gjør pannekakene smidigere.
 - **«Veldig lite» salt**, presiserer kilden. Saltet er der for å løfte sukkeret, ikke for å smakes.
 - **Smeltet smør i røren** i tillegg til smør i pannen. Det gjør at pannekakene slipper lettere og blir mindre tørre.
-- **Beslektet:** [F2](#f2-amerikanske-pannekaker) er den tykke amerikanske typen, og [F11](#f11-ricottapannekaker) er den luftige varianten.
+- **Beslektet:** [amerikanske pannekaker (F2)](#f2-amerikanske-pannekaker) er den tykke amerikanske typen, og [ricottapannekaker (F11)](#f11-ricottapannekaker) er den luftige varianten.
 
 ---
 
@@ -25971,7 +25971,7 @@ To ingredienser: mel og sodavann. Kullsyren er det som gjør røren lett, og kon
 - **Sodavannet må være kaldt og nyåpnet.** Har flasken stått åpen, er kullsyren borte og du har i praksis brukt vann.
 - **«Som vaffelrøre» er en presis referanse.** Tynnere gir hull i belegget, tykkere gir en tung skorpe som sluker olje.
 - **Rør så lite som mulig.** Gluten gjør røren seig, og en seig tempurarøre blir hard og ikke sprø.
-- **Beslektet:** [nr. 86](#86-karaage--japansk-friturstekt-kylling) og [S32](#s32-jalapeño-poppers) bruker beslektede røre- og panerteknikker.
+- **Beslektet:** [karaage (nr. 86)](#86-karaage--japansk-friturstekt-kylling) og [jalapeño-poppers (S32)](#s32-jalapeño-poppers) bruker beslektede røre- og panerteknikker.
 
 ---
 
@@ -26033,14 +26033,14 @@ Tre ingredienser, men et par grep som avgjør alt. Melet må være masa harina, 
 ### Fremgangsmåte
 
 1. **Bland masa harina og salt** i en bolle.
-2. **Ha i vannet** litt over romtemperatur og elt til en formelig, lett fuktig deig. **Sprekker den opp, ha i mer vann, 1 ts om gangen.** Litt for mye er bedre enn litt for lite.
+2. **Ha i vannet** litt over romtemperatur og elt til en formbar, lett fuktig deig. **Sprekker den opp, ha i mer vann, 1 ts om gangen.** Litt for mye er bedre enn litt for lite.
 3. **Pakk deigen i plastfolie** eller legg den under et fuktig håndkle, og la den hvile i **20–30 minutter** så maisen får trukket til seg fuktigheten.
 4. **Klipp til to stykker frysepose** litt større enn pressens flate.
 5. **Del deigen i 12 like emner** – del først i tre, og hver av dem i fire – og trill dem til baller. **Sprekker ballene lett, var det for lite vann.**
 6. **Dekk ballene med et fuktig kjøkkenhåndkle.** De tørker ut på minutter.
 7. **Form én tortilla av gangen, rett før den skal stekes.** Legg ballen mellom plaststykkene, litt ut fra midten i retning av lokket, og press.
 8. **Press 4–5 ganger** og drei tortillaen **90 grader** mellom hver gang. Det er dette som gjør den tynn nok.
-9. **Overfør forsiktig:** dra av plasten på oversiden, vend tortillaen over i hånden så den gjenværende plasten havner øverst, og dra av den. Slipp tortillaen i panna.
+9. **Overfør forsiktig:** dra av plasten på oversiden, vend tortillaen over i hånden så den gjenværende plasten havner øverst, og dra av den. Slipp tortillaen i pannen.
 10. **Stek i tørr støpejernspanne på ca. 240 °C**, **ca. 50 sekunder per side**, og ikke mer enn **2 minutter totalt**. Den sitter fast det første halve minuttet og slipper av seg selv – la den ligge i fred.
 11. **Legg de ferdige tortillaene i brettet folie med et håndkle rundt**, og la dem hvile noen minutter før servering.
 
@@ -26051,7 +26051,7 @@ Tre ingredienser, men et par grep som avgjør alt. Melet må være masa harina, 
 - **Fire–fem pressinger med dreining.** Ett trykk gir en tortilla som er merkbart tykkere enn du tror. Dette står sjelden i oppskrifter, og er kildens viktigste funn.
 - **Deigen tørker hele veien.** Under plast i hvilen, under fuktig håndkle som baller, formet én av gangen. Blir den tørr, sprekker kantene og tortillaen revner i pressen.
 - **Saltet er for lite.** Forfatteren skriver selv at de kunne tålt mer. ¼ ts til 210 g mel er lite – prøv **½ ts** neste gang. *(Lagt til.)*
-- **Hvilen etter steking er ikke sløsing.** Fuktigheten fordeler seg gjennom tortillaen, og de blir mykere og mer bøyelige enn rett fra panna.
+- **Hvilen etter steking er ikke sløsing.** Fuktigheten fordeler seg gjennom tortillaen, og de blir mykere og mer bøyelige enn rett fra pannen.
 - **Smaken er nøytral.** Maistortillas smaker lite i seg selv – det er fyllet som skal ha hovedrollen. Til gjengjeld er de glutenfrie.
 - **12 stykker veier til sammen ca. 350 g**, altså rundt 29 g per tortilla.
 - **Holdbarhet:** best samme dag. Oppbevar i tett pose i kjøleskap i 3 døgn, og varm dem raskt i tørr panne før servering.
@@ -26081,11 +26081,11 @@ Tre ingredienser: maismel, vann og salt. Deigbollene veies til 20 gram hver og p
 
 ### Notater
 
-- **Maismelet må være nikstamalisert.** Hari Masa, som kilden bruker, er behandlet med kalk, og det er dette som gjør at deigen henger sammen uten gluten. Vanlig maismel eller polenta blir bare grøt.
+- **Maismelet må være nixtamalisert.** Hari Masa, som kilden bruker, er behandlet med kalk, og det er dette som gjør at deigen henger sammen uten gluten. Vanlig maismel eller polenta blir bare grøt.
 - **Tørr panne, ingen olje.** Lefsen skal bakes, ikke stekes. Fett gir en myk, seig flate i stedet for de tørre flekkene som kjennetegner en god tortilla.
 - **20 gram per lefse** er et presist mål som gir jevn tykkelse. Øyemål gir ujevne lefser som steker ulikt.
 - **Håndkleet er ikke valgfritt.** Dampen fra lefsene holder dem myke. Ligger de fritt, blir de stive i løpet av få minutter.
-- **Beslektet:** [G15](#g15-maistortillas) er samlingens andre maistortilla – sammenlign forholdet mellom mel og vann, og [G14](#g14-tortillas-med-gresk-yoghurt) er hvetevarianten.
+- **Beslektet:** [maistortillas (G15)](#g15-maistortillas) er en annen maistortilla – sammenlign forholdet mellom mel og vann – og [tortillas med gresk yoghurt (G14)](#g14-tortillas-med-gresk-yoghurt) er hvetevarianten.
 
 ---
 
