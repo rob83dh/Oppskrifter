@@ -25185,7 +25185,7 @@ Brødskiver trukket i egg og melk og stekt i smør. Gårsdagens brød er bedre e
 - 1 ts vaniljeekstrakt
 - ½ ts kanel
 - En klype salt
-- 15 g smør til steking *(mengde lagt til.)*
+- 1 ss smør til steking *(mengde lagt til)*
 
 **Til servering**
 - Lønnesirup
@@ -25222,7 +25222,7 @@ Sprøstekt bacon og speilegg mellom to skiver smurt brød. Ingen saus – bare b
 - 4 skiver godt brød eller 2 rundstykker
 - 6 skiver bacon
 - 2 egg
-- 25 g smør, godt med *(mengde lagt til.)*
+- 2 ss smør *(mengde lagt til)*
 - Salt og nykvernet sort pepper
 
 ### Fremgangsmåte
@@ -25261,7 +25261,7 @@ Pannekaker med ricotta i røren og piskede eggehviter vendt inn. Resultatet er l
 - 2 ss sukker
 - Revet skall av 1 sitron
 - ½ ts salt
-- 15 g smør til steking *(mengde lagt til.)*
+- 1 ss smør til steking *(mengde lagt til)*
 
 ### Fremgangsmåte
 
@@ -25303,7 +25303,7 @@ Eggerøre som skal ha konsistens som en luftig risgrøt. Fløte eller rømme rø
 
 ### Fremgangsmåte
 
-1. **Visp eggene med en gaffel** sammen med **1 ss kaldt vann** og salt, til de blir luftige.
+1. **Visp eggene med en gaffel** sammen med **2 ss kaldt vann** og salt, til de blir luftige. *(Kilden sier 1 ss her, men 2 ss i ingredienslisten.)*
 2. **Smelt smør og olivenolje** på middels varme i en kasserolle eller stekepanne.
 3. **Ha eggeblandingen i smøret** og rør med visp eller trespade **uten stans**.
 4. **La eggene bli til en tykkere masse.**
@@ -25463,7 +25463,7 @@ Posjerte egg over hvitløksyoghurt med tørket ramsløk og sitronskall, toppet m
 - 4 egg
 - En skvett klar eddik (til posjering)
 - 4 ss usaltet smør
-- 2,5 ts pul biber (Aleppo-pepper)
+- 2½ ts pul biber (Aleppo-pepper)
 - 4 dl yoghurt (gresk eller tyrkisk)
 - 1 ts ramsløk (kan sløyfes – eventuelt hvitløk)
 - Zest av en halv sitron
