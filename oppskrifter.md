@@ -24745,12 +24745,12 @@ Tangzhong er en kinesisk bakemetode: en liten del av melet kokes med melk til en
 - **Yudane er den japanske slektningen**, som kilden nevner. Forskjellen er at yudane skålder melet med kokende vann og hviler over natten, mens tangzhong kokes på platen og kan brukes med en gang.
 - **Smøret først etter 15 minutter.** Fett legger seg rundt glutentrådene og hemmer utviklingen av dem. Deigen må derfor bygge struktur først. Samme prinsipp som i brioche, og grunnen til at eltetiden virker ekstrem.
 - **25–30 minutter i maskin er riktig**, ikke en trykkfeil. Dette er en av de mest eltekrevende deigene i samlingen.
-- **190 °C, så ned til 175 straks brødet er inne.** Den ekstra varmen kompenserer for temperaturfallet når ovnsdøren åpnes.
+- **190 °C, så ned til 175 °C straks brødet er inne.** Den ekstra varmen kompenserer for temperaturfallet når ovnsdøren åpnes.
 - **Kilden oppgir «1 personer».** Det er åpenbart en feil i oppskriftsdataene – det blir ett brød på 8–10 boller i en literform. *(Presisert.)*
 - **Dette er en grunndeig.** Kilden peker selv på at den kan brukes til kanelsnurrer, bollekrans og skolebrød. Vil du ha den søtere, øk sukkeret.
 - **Salt vri:** elt inn friske urter, hakkede oliven og soltørkede tomater.
 - **Holdbarhet:** 3–4 døgn i romtemperatur, altså tydelig lenger enn vanlig brød – det er hele poenget med metoden. Tåler frysing.
-- **Beslektet:** [B1](#b1-hot-cross-shokupan--krydret-japansk-melkebrød) er den japanske melkebrødvarianten, og [B17](#b17-eltefritt-landbrød) er motsatsen – ingen elting i det hele tatt.
+- **Beslektet:** [hot cross shokupan (B1)](#b1-hot-cross-shokupan--krydret-japansk-melkebrød) er den japanske melkebrødvarianten, og [eltefritt landbrød (B17)](#b17-eltefritt-landbrød) er motsatsen – ingen elting i det hele tatt.
 
 ---
 
@@ -24782,16 +24782,16 @@ Melkebrødsdeig med honning og smør. Bollene klemmes flatere før andre heving,
 6. **Ha litt mel på hånden og klem bollene litt flatere.**
 7. **Dekk med et rent kjøkkenhåndkle** og la dem heve til dobbel størrelse, **i ca. 30 minutter**.
 8. **Pensle forsiktig med pisket egg** og strø over sesamfrø eller valmuefrø hvis du vil.
-9. **Stek midt i ovnen på ca. 180 grader i ca. 20 minutter.**
+9. **Stek midt i ovnen på ca. 180 °C i ca. 20 minutter.**
 
 ### Notater
 
 - **Klemmingen er det som skiller burgerbrød fra rundstykker.** En bolle hever oppover og blir en kule. Klemmer du den flat før andre heving, hever den utover, og du får en flate å legge burgeren på.
-- **Honning i stedet for sukker** gir både søtme og fuktighet, og den bruner overflaten raskere. Derfor holder 180 grader.
+- **Honning i stedet for sukker** gir både sødme og fuktighet, og den bruner overflaten raskere. Derfor holder 180 °C.
 - **Melk, ikke vann.** Melkefettet og melkesukkeret gir et mykt, finporet brød som ikke smuldrer under en saftig burger.
 - **Pensle forsiktig**, understreker kilden. Trykker du med penselen på en ferdig hevet bolle, faller den sammen og reiser seg ikke igjen.
 - **1 kg mel gir 16 brød.** Halver hele oppskriften hvis du ikke skal ha fullt bord – deigen tåler det uten justeringer.
-- **Beslektet:** [B18](#b18-tangzhong-brød) er en beslektet myk melkebrødsdeig, og [nr. 53](#53-koreansk-kyllingburger) er en av burgerne i samlingen.
+- **Beslektet:** [tangzhong-brød (B18)](#b18-tangzhong-brød) er en beslektet myk melkebrødsdeig, og [koreansk kyllingburger (nr. 53)](#53-koreansk-kyllingburger) er en av burgerne i samlingen.
 
 ---
 
@@ -24827,7 +24827,7 @@ Norsk vaffelrøre med kardemomme, den varianten alle kjenner. Ingen gjær, ingen
 - **Spe med melken litt om gangen, ikke alt på én gang.** Klumper i vaffelrøre kommer nesten alltid av at all væsken går i samtidig. Melet trenger å bli fuktet gradvis for å løse seg opp.
 - **Halvtimen med svelling gjør to ting.** Melet suger opp væske, og glutenet som ble utviklet under røringen slapper av. Hopper du over den, blir vaflene både seigere og mer utsatt for å sette seg fast.
 - **Rist, ikke tallerken.** Legger du vaflene oppå hverandre, damper de og mister sprøheten på et par minutter.
-- **Kardemomme er det norske signaturen.** Uten den er dette bare en vaffel; med den er det en norsk vaffel. Mal den gjerne selv fra hele kapsler — ferdigmalt taper seg fort.
+- **Kardemomme er den norske signaturen.** Uten den er dette bare en vaffel; med den er det en norsk vaffel. Mal den gjerne selv fra hele kapsler — ferdigmalt taper seg fort.
 - **Røren blir bedre av å stå lenger.** En time eller natten over i kjøleskap gir jevnere vafler. Rør lett om før steking.
 - **Beslektet:** [Hellstrøms pannekakerøre (G12)](#g12-hellstrøms-pannekakerøre) er samme familie uten bakepulver, [amerikanske pannekaker (F2)](#f2-amerikanske-pannekaker) er den tykke varianten i panne, og [ricottapannekaker (F11)](#f11-ricottapannekaker) den luftigste av dem alle.
 
