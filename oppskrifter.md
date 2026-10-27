@@ -9159,7 +9159,7 @@ Lammeskank melet og brunet, lagt i en smaksbunn av rotgrønnsaker, hvitvin og to
 - **Væskenivået avgjør om det blir braisering eller koking.** To tredjedeler opp på kjøttet er riktig. Dekkes skankene helt, koker de, og du mister den stekte smaken fra bruningen.
 - **Gremolata lages samme dag.** Hvitløk og sitronskall taper seg raskt, og poenget med den er at den er rå og skarp mot tre timer med kokt kjøtt.
 - **Holdbarhet:** 3 døgn kjøleskap, 3 måneder fryser. Bedre dag to. Avkjøl skankene i sausen så de ikke tørker ut.
-- **Beslektet:** [nr. 59](#59-krydrede-lammekjøttboller-med-agurk--og-yoghurtsaus) bruker samme krydderfamilie på lam, [nr. 105](#105-pot-roast--braisert-høyrygg-med-rotgrønnsaker) er samme braiseringsteknikk, og T40 hummus passer ved siden av.
+- **Beslektet:** [nr. 59](#59-krydrede-lammekjøttboller-med-agurk--og-yoghurtsaus) bruker samme krydderfamilie på lam, [nr. 105](#105-pot-roast--braisert-høyrygg-med-rotgrønnsaker) er samme braiseringsteknikk, og [hummus (T40)](#t40-hummus) passer ved siden av.
 
 ---
 
@@ -9229,7 +9229,7 @@ Kalveskank i tykke skiver, melet og brunet, braisert i hvitvin og tomat til kjø
 
 **Kilde:** Peter Nagy, delt med Matprat (matprat.no) · **Kjøkken:** Ungarsk · **Tid:** ca. 3½ time · **Porsjoner:** 6 *(ikke oppgitt i kilden)*
 
-Gulasj er en suppe, ikke en gryterett – kilden er ettertrykkelig på det punktet. Løken frises i tjue minutter, paprikapulveret røres inn utenfor varmen, og kjøttet trekker i to til tre timer før grønnsakene kommer i. Ungarsk paprikapulver er det som avgjør smaken.
+Gulasj er en suppe, ikke en gryterett – kilden er ettertrykkelig på det punktet. Løken freses i tjue minutter, paprikapulveret røres inn utenfor varmen, og kjøttet trekker i to til tre timer før grønnsakene kommer i. Ungarsk paprikapulver er det som avgjør smaken.
 
 ### Ingredienser
 
@@ -9312,8 +9312,8 @@ Tynt kjøtt marinert i lime, appelsin, hvitløk og koriander, stekt hardt og kor
 ### Notater
 
 - **Fiberretningen er hele forskjellen.** Flankestek har lange, tydelige fibre. På tvers gir korte fibre og mørt kjøtt, langsmed gir tråder. Se etter linjene i kjøttet før du skjærer, ikke etter.
-- **Syren mørner ikke, den koker.** Åtte timer er nyttig for smak, men over et døgn begynner limesaften å bryte ned overflaten slik at den blir grøtet. Dette er en marinade for smak, ikke for mørning.
-- **Flankestek fås hos slakter,** og heter av og til «bavette» eller «slaktarens biff». Ytrefilet fungerer, men er magrere og tåler dårligere den harde steken.
+- **Syren mørner ikke, den koker.** Åtte timer er nyttig for smak, men over et døgn begynner limesaften å bryte ned overflaten slik at den blir grøtete. Dette er en marinade for smak, ikke for mørning.
+- **Flankestek fås hos slakter,** og heter av og til «bavette» eller «slakterens biff». Ytrefilet fungerer, men er magrere og tåler dårligere den harde steken.
 - **Pannen skal ryke.** Er den ikke varm nok, slipper kjøttet væske og koker. Stek i to omganger hvis pannen er liten.
 - **Hviletiden på 10 minutter** gjelder selv for tynt kjøtt. Skjærer du med en gang, renner saften ut på fjøla i stedet for å bli i kjøttet.
 - **Holdbarhet:** 2 døgn kjøleskap. Kjøttet blir seigt ved oppvarming – spis det heller kaldt i salat dagen etter.
@@ -9368,7 +9368,7 @@ Fransk kalvefrikassé der kjøttet aldri brunes. Det trekkes i lys kraft med gr�
 
 - **Kjøttet skal aldri brunes.** Det er hele definisjonen av en blanquette – en «hvit» gryte. Bruner du kjøttet, lager du en fricassée, som er en annen og mørkere rett.
 - **Forkokingen i to minutter** trekker ut blod og proteiner som ellers ville flokket seg og gjort kraften grumsete. Det virker som sløsing, men det er forskjellen på en klar og en grå saus.
-- **80 °C er den harde grensen.** Eggeplommene i legeringen koaguleret over det, og sausen blir kornete uten å kunne reddes. Ta kjelen av platen mens du rører den inn.
+- **80 °C er den harde grensen.** Eggeplommene i legeringen koagulerer over det, og sausen blir kornete uten å kunne reddes. Ta kjelen av platen mens du rører den inn.
 - **Kalvebog er riktig stykke.** Bryst fungerer også. Ytrefilet og andre magre stykker blir tørre – det er bindevevet som gir sausen fylde.
 - **Sitronsaften til slutt** er nødvendig. Retten er fløte, smør og eggeplomme, og uten syre blir den kvalmende etter tre munnfuller.
 - **Nellikspikeren i løken** er en fransk konvensjon som gjør det lett å fiske løken opp igjen, samtidig som nelliken gir en svak sødme til kraften. To spiker er nok til halvannen liter.
@@ -9380,7 +9380,7 @@ Fransk kalvefrikassé der kjøttet aldri brunes. Det trekkes i lys kraft med gr�
 
 ## 174. Bulgogi
 
-**Kilde:** Maangchi (maangchi.com) *(22 512 likerklikk på YouTube, 4,7 av 5 fra 466 stemmer)* · **Kjøkken:** Koreansk · **Tid:** 15 min + 30 min til natten over i marinade · **Porsjoner:** 2–3 som hovedrett, 4 med ris og banchan *(ikke oppgitt i kilden)*
+**Kilde:** Maangchi (maangchi.com) *(22 512 likes på YouTube, 4,7 av 5 fra 466 stemmer)* · **Kjøkken:** Koreansk · **Tid:** 15 min + 30 min til natten over i marinade · **Porsjoner:** 2–3 som hovedrett, 4 med ris og banchan *(ikke oppgitt i kilden)*
 
 Tynne skiver mørt storfe i en marinade av revet pære, løk, hvitløk, ingefær og soya, stekt hardt og kort. Pæren er ikke bare sødme – enzymene i den mørner kjøttet. Navnet betyr «ildkjøtt», og kull er den beste varmekilden hvis du har muligheten.
 
@@ -9426,7 +9426,7 @@ Tynne skiver mørt storfe i en marinade av revet pære, løk, hvitløk, ingefær
 - **Kull slår alt annet.** Maangchi begrunner det: marinaden og fettet drypper ned på kullene, brenner opp der og kommer tilbake som røyk over kjøttet. Innendørs er støpejern nest best.
 - **Vegetarvariant:** samme marinade, men bytt kjøttet med 10–12 store tørkede shiitake, bløtlagt i varmt vann i noen timer, klemt tørre og skåret tynt. Det står i kilden.
 - **Holdbarhet:** kjøttet kan ligge i marinaden 2 døgn i kjøleskap, eller fryses ferdig marinert i 3 måneder. Stekt bulgogi bør spises samme dag.
-- **Beslektet:** [korean BBQ Lamb (nr. 58)](#58-korean-bbq-lamb) er samme prinsipp på lam, [yangnyeomjang – koreansk dippsaus (T12)](#t12-yangnyeomjang--koreansk-dippsaus) og [kimchi (T7)](#t7-kimchi) hører til bordet, og [koreansk sterk agurksalat (oi muchim) (T6)](#t6-koreansk-sterk-agurksalat-oi-muchim) er den friske motvekten.
+- **Beslektet:** [Korean BBQ Lamb (nr. 58)](#58-korean-bbq-lamb) er samme prinsipp på lam, [yangnyeomjang – koreansk dippsaus (T12)](#t12-yangnyeomjang--koreansk-dippsaus) og [kimchi (T7)](#t7-kimchi) hører til bordet, og [koreansk sterk agurksalat (oi muchim) (T6)](#t6-koreansk-sterk-agurksalat-oi-muchim) er den friske motvekten.
 
 ---
 
@@ -9495,7 +9495,7 @@ Aubergine i lag med tomatsaus, parmesan og basilikum. Den lange saltingen av aub
 
 ### Fremgangsmåte
 
-1. **Legg auberginskivene i et dørslag** i lag med salt imellom, og la dem stå i **45 minutter**.
+1. **Legg aubergineskivene i et dørslag** i lag med salt imellom, og la dem stå i **45 minutter**.
 2. **Skyll av saltet** og klem skivene tørre mellom kjøkkenpapir. De skal være tydelig slappere enn da du startet.
 3. **Stek skivene** i olivenolje i panne, i omganger, til de er gylne på begge sider. Legg dem på papir.
 4. **Forvarm ovnen til 180 °C.**
