@@ -7572,7 +7572,7 @@ Kylling og sopp i en melkebasert saus bygget på jevning – altså en béchamel
 ### Ingredienser
 
 - 2 kyllingbryst, delt vannrett i tynnere fileter
-- 12 g olje til steking *(mengde lagt til.)*
+- 1 ss olje til steking *(Lagt til.)*
 - ½ stor løk, finhakket
 - 250 g sopp, i skiver *(mengde lagt til)*
 - 4–5 hvitløksfedd, finhakket
@@ -7622,7 +7622,7 @@ Salat der kokt ris stekes tørr og sprø i ovnen og brukes som crunch i stedet f
 - 125 g kokt hvit ris, gjerne dagen gammel — ca. 50 g tørr ris
 - 1 ts chiliolje
 - ½ ts sesamolje
-- ½ ss soyasaus *(fremgangsmåten sier 1 ss – se notat)*
+- 1½ ts soyasaus *(fremgangsmåten sier 1 ss – se notat)*
 
 **Salat**
 - 2 store agurker, i terninger *(oppdeling ikke oppgitt i kilden)*
@@ -7634,7 +7634,7 @@ Salat der kokt ris stekes tørr og sprø i ovnen og brukes som crunch i stedet f
 **Gochujangmajones**
 - 125 g gresk yoghurt
 - 1 ss lettmajones
-- ½ ss gochujang
+- 1½ ts gochujang
 - 2 ts søtningsmiddel
 - 2 ss sriracha
 - 1 ts hvitløkspulver
@@ -7652,7 +7652,7 @@ Salat der kokt ris stekes tørr og sprø i ovnen og brukes som crunch i stedet f
 
 ### Notater
 
-- **Soyasausmengden spriker.** Ingredienslisten sier ½ ss, fremgangsmåten sier 1 ss. Bruk **½ ss** – mer væske gjør det vanskeligere å få risen sprø, og det er den lavere mengden som er oppført som ingrediens. *(Rettelse lagt til.)*
+- **Soyasausmengden spriker.** Ingredienslisten sier ½ ss, fremgangsmåten sier 1 ss. Bruk **1½ ts** – mer væske gjør det vanskeligere å få risen sprø, og det er den lavere mengden som er oppført som ingrediens. *(Rettelse lagt til.)*
 - **Risen må være kald.** Kilden sier «cooked white rice», men ikke at den bør være avkjølt eller helst dagen gammel. Fersk, varm ris inneholder mye mer fuktighet, damper på brettet og blir seig i stedet for sprø. Kokt ris fra dagen før er ideelt. *(Lagt til.)*
 - **Fordel risen tynt og rør hvert tiende minutt.** Ligger den i en haug, blir kantene brune mens midten fortsatt er myk. Kildens «stir occasionally» er for vagt til å være til hjelp.
 - **Airfryer går raskere:** 180 °C i 12–15 minutter, med risting av kurven annethvert minutt. *(Alternativ lagt til.)* Se også [T23](#t23-potetbåter-i-airfryer) for prinsippet.
@@ -7678,7 +7678,7 @@ Hvite bønner og cherrytomater i en base av løk som er kokt ned til syltetøyko
 
 - 3 ss ekstra virgin olivenolje
 - 2 gule løk, svært tynt skivet
-- ¾ ts flaksalt
+- ½ ts + ¼ ts flaksalt
 - ½ ts paprikapulver
 - ½ ts pul biber
 - 500 g cherrytomater
@@ -7707,7 +7707,7 @@ Hvite bønner og cherrytomater i en base av løk som er kokt ned til syltetøyko
 - **Bønnene skal bare varmes gjennom.** De er allerede kokte, og hard koking her gjør dem melne. Rør forsiktig og med slikkepott, ikke sleiv.
 - **Sitronsaft og persille går i etter at pannen er tatt av varmen** – eller i alle fall helt til slutt. Syren blir flat og persillen svart hvis de koker med.
 - **Ferske cherrytomater er hele poenget.** Hermetiske gir en helt annen, mørkere og syrligere rett. Er tomatene bleke om vinteren, tilsett ½ ts sukker eller et par soltørkede tomater for å ta igjen sødmen. *(Lagt til.)*
-- **Smak til med salt på slutten.** De ¾ ts flaksalt er beregnet for løken alene, og bønnene trenger sitt eget. Flaksalt veier mindre enn fint salt per teskje – bruker du vanlig bordsalt, halver mengden.
+- **Smak til med salt på slutten.** Flaksaltet i ingredienslisten er beregnet for løken alene, og bønnene trenger sitt eget. Flaksalt veier mindre enn fint salt per teskje – bruker du vanlig bordsalt, halver mengden.
 - **Brødet fortjener oppmerksomhet.** Retten er tenkt som *yahni på toast*: godt surdeigsbrød, ristet, gnidd med et halvt hvitløksfedd og med en skvett olivenolje over. Serveres den som gryte i stedet, passer ris eller bulgur.
 - **Retten er vegansk** slik den står, og blir bedre dagen etter. Den lar seg fryse, men bønnene blir mykere.
 - **Beslektet:** [hvitbønnegryte med tomat og spinat (SU16)](#su16-hvitbønnegryte-med-tomat-og-spinat) er den italienske slektningen med samme grunnidé, og [hummus (T40)](#t40-hummus) hører til samme kjøkken.
@@ -7730,7 +7730,7 @@ Kikerter ovnsstekt til de er sprø, vendt i en klissete gochujangsaus og servert
 - 1 ss gochujang
 - 1 ss soyasaus
 - 1 ss riseddik
-- ½ ss sesamolje
+- 1½ ts sesamolje
 - 1 ss agavesirup eller lønnesirup
 - 1 hvitløksfedd, revet
 - Revet ingefær *(ca. 1 ts – mengde lagt til)*
@@ -7757,7 +7757,7 @@ Kikerter ovnsstekt til de er sprø, vendt i en klissete gochujangsaus og servert
 - **Kilden freser ingefær og hvitløk først**, og begrunner det selv: rå revet hvitløk i en saus som bare varmes så vidt, blir skarp og påtrengende. Ta det med.
 - **Salt forsiktig.** Gochujang og soyasaus er begge salte, og kikertene er allerede saltet i ovnen. Smak på sausen før du tilsetter noe mer.
 - **Riseddik og agave gjør samme jobb fra hver sin kant** – syre og sødme balanserer saltet og styrken i gochujangen. Har du ikke agave, er honning like bra hvis retten ikke skal være vegansk.
-- **Gochujangstyrken varierer mye mellom merker.** Koreanske bokser er merket med et varmenivå fra 1 til 5. Er du usikker, start med ½ ss og smak deg opp.
+- **Gochujangstyrken varierer mye mellom merker.** Koreanske bokser er merket med et varmenivå fra 1 til 5. Er du usikker, start med 1½ ts og smak deg opp.
 - **Airfryer er raskere:** 190 °C i 15–18 minutter, med risting av kurven et par ganger underveis. *(Alternativ lagt til.)*
 - **Retten er vegansk** med agave- eller lønnesirup, og gir en full måltidsporsjon med ris. Som tilbehør eller snacks rekker den til fire.
 - **Beslektet:** [kremet gochujang-kokoskylling (nr. 32)](#32-kremet-gochujang-kokoskylling) og [yangnyeomjang (T12)](#t12-yangnyeomjang--koreansk-dippsaus) bruker samme smaksbilde, og [sprø rissalat med kylling og gochujangmajones (nr. 139)](#139-sprø-rissalat-med-kylling-og-gochujangmajones) har den samme utfordringen med å holde noe sprøtt.
@@ -7898,14 +7898,14 @@ Risoni kokt rett i tomatsausen i én panne, med stekte reker vendt inn til slutt
 - En klype chiliflak
 - 1 rød paprika, uten frø og i terninger
 - 1 boks cherrytomater
-- 4 dl risoni
+- 340 g risoni
 - 2 ss tomatpuré
 - 1 kyllingbuljongterning
 - 1 ts tørket oregano
 - 60 g spinat
 - Skall og saft fra 1 sitron
 - 600 g frosne store reker
-- ⅕ pakke fetaost, smuldret *(se notat)*
+- 100 g fetaost, smuldret *(kilden sier ⅕ pakke – se notat)*
 - 1 potte fersk dill
 - 1 potte fersk basilikum
 - Salt og pepper
@@ -7926,7 +7926,7 @@ Risoni kokt rett i tomatsausen i én panne, med stekte reker vendt inn til slutt
 
 - **«⅕ pakke fetaost» er en merkelig angivelse.** En vanlig pakke er 150–200 g, så en femtedel blir 30–40 g – altfor lite til fire porsjoner av en rett der fetaen er en av tre ingredienser i tittelen. Sannsynligvis er det en skrivefeil for **⅓** eller mer. Regn **100 g**. *(Justering lagt til.)*
 - **«De knuste tomatene» i punkt 4 finnes ikke i ingredienslisten.** Kilden ber deg helle i både cherrytomatene og krossede tomater, men bare den ene boksen er oppført. Én boks holder gitt at du også tilsetter en boks vann; vil du følge teksten bokstavelig, legg til en boks hakkede tomater og øk væsken tilsvarende. *(Avvik notert.)*
-- **4 dl risoni til én boks tomat og én boks vann er lite væske.** Risoni suger omtrent tre ganger sitt eget volum. Regn med å spe underveis – kilden nevner det, men undervurderer hvor mye. Ha 3–4 dl varmt vann eller kraft klart. *(Presisering lagt til.)*
+- **340 g risoni til én boks tomat og én boks vann er lite væske.** Risoni suger omtrent tre ganger sitt eget volum. Regn med å spe underveis – kilden nevner det, men undervurderer hvor mye. Ha 3–4 dl varmt vann eller kraft klart. *(Presisering lagt til.)*
 - **Rør ofte, og bruk vid panne.** Risoni frigjør mye stivelse og setter seg i bunnen på sekunder. Det er derfor retten blir kremet uten fløte – men også derfor den svir seg lett. Middels lav varme.
 - **Frosne reker må tines og tørkes godt.** Steker du dem fra frossen, avgir de vann og kokes i stedet for å få stekeflate. Tin dem, klem dem tørre i papir, og stek dem raskt på høy varme – **1 minutt per side** er nok. *(Lagt til.)*
 - **Rekene skal bare varmes gjennom til slutt.** De er allerede ferdigstekte fra punkt 1, og koker de med i sausen, blir de gummiaktige. Vend dem inn av varmen om nødvendig.
