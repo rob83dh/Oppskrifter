@@ -6334,7 +6334,6 @@ Pizzabunn av gresk yoghurt, selvhevende mel og proteinpulver – ingen gjær og 
 - **Kalkunpepperoni er lite utbredt her.** Vanlig pepperoni fungerer, men gir mer fett; kyllingpølse i skiver er et mellomsteg.
 - **Bruk revet mozzarella i blokk**, ikke fersk – fersk mozzarella inneholder for mye vann og gjør bunnen bløt. Samme poeng som i [SU8](#su8-tomatsuppe-med-grilled-cheese).
 - **230 °C er omregnet fra 450 °F.**
-- **Samlingens eneste pizza**, og den eneste gjærfrie deigen ved siden av bakverkene.
 
 ---
 
@@ -6394,7 +6393,7 @@ Høyrygg marinert et døgn i rødvin med grønnsaker og urter, brunet og braiser
 - **Salt, pepper og persille står ikke i ingredienslisten**, men brukes i fremgangsmåten. Regn 1–1½ ts salt til kjøttet og en liten neve persille.
 - **Melet er oppgitt som valgfritt**, men fremgangsmåten bruker det uten forbehold. Sløyfer du det, får du en tynnere sjy – da kan du koke den inn til slutt i stedet.
 - **«Stjerneløk» er de små, hele løkene** som hører til i en bourguignon. I norske butikker selges de som **perleløk eller sølvløk**, ofte frosne, og de fungerer utmerket. Femten stykker til seks porsjoner er beskjedent – det tåler å dobles.
-- **Baconet kommer på til slutt, ikke i gryta.** Det er et bevisst valg: det holder seg sprøtt som topping. Klassisk bourguignon bruner lardons i starten og koker dem med, hvilket gir mer røyk i sausen men mykt bacon. Begge deler er gode, men de gjør ulike ting.
+- **Baconet kommer på til slutt, ikke i gryta.** Det er et bevisst valg: det holder seg sprøtt som topping. Klassisk bourguignon bruner lardons i starten og koker dem med, noe som gir mer røyk i sausen, men mykt bacon. Begge deler er gode, men de gjør ulike ting.
 - **Sopp og småløk stekes hver for seg** og kommer i de siste femten minuttene. Samme grep som i [coq au vin (nr. 109)](#109-coq-au-vin), og av samme grunn: grønnsaker som koker halvannen time i vin, blir grå og bløte.
 - **Marinadegrønnsakene koker med hele veien**, i motsetning til i mange franske versjoner der marinaden siles. Etter halvannen time er de kokt helt myke og går delvis opp i sausen – det er slik den skal være her. Vil du ha en klarere saus, kan du sile marinaden og bruke bare væsken.
 - **Soyasausen er ikke tradisjonell**, men gir farge og umami. Samme grep som i [den ungarske soppsuppen (SU9)](#su9-ungarsk-soppsuppe).
@@ -6436,12 +6435,12 @@ Tørkede chili og hele krydder ristes, kokes møre i oksekraft og mikses til en 
 ### Fremgangsmåte
 
 1. **Rist krydderet.** Rist de tørkede chiliene, kanelstangen, nellik, spisskummen, korianderfrø og laurbærblad lett i en tørr panne. *(Se notat – dette går fort.)*
-2. **Sverte grønnsakene.** Svi tomater, løk og hvitløk i en støpejernsgryte til de har fått mørke flekker.
+2. **Svi grønnsakene.** Svi tomater, løk og hvitløk i en støpejernsgryte til de har fått mørke flekker.
 3. **Kok chilibasen.** Ha de tørkede chiliene, tomatene, løken, hvitløken, spisskummen, nellik, korianderfrø, oksebuljongpulver, oregano og oksekraften i en middels gryte. La det småkoke **10–15 minutter**, til chili og grønnsaker er myke. **Hold kanelstangen og laurbærbladene utenfor.**
 4. **Brun kjøttet imens.** Varm avokadooljen i støpejernsgryta, salt kjøttet, og brun bitene i flere omganger. Sett dem til side.
 5. **Miks og sil.** Kjør chili, grønnsaker og krydder glatt sammen med kraften. Press sausen gjennom en grovmasket sil ned i støpejernsgryta, og la den småkoke **5 minutter** på middels sterk varme.
 6. **Braiser.** Legg kjøttet tilbake i sausen sammen med soyasaus, eddik, **kanelstangen og laurbærbladene**. Skru ned til svak varme og legg på lokk.
-7. **La det trekke til kjøttet faller fra hverandre.** Store biter på ca. 250 g trenger **4–4½ time**; terninger på 2,5 cm klarer seg med **3 timer**.
+7. **La det trekke til kjøttet faller fra hverandre.** Store biter på ca. 250 g trenger **4–4½ timer**; terninger på 2,5 cm klarer seg med **3 timer**.
 8. **Server** med consomé, koriander, lime, hakket løk og tortillaer.
 
 ### Notater
@@ -6457,7 +6456,7 @@ Tørkede chili og hele krydder ristes, kokes møre i oksekraft og mikses til en 
 - **Høyrygg er riktig stykke**, som i [pot roast (nr. 105)](#105-pot-roast--braisert-høyrygg-med-rotgrønnsaker) og [boeuf bourguignon (nr. 115)](#115-boeuf-bourguignon). Fire timer krever bindevev.
 - **Silingen er ikke valgfri.** Chiliskall som ikke er silt bort, gir en grynete saus uansett hvor godt du mikser.
 - **Consoméen er halve retten.** Den røde kraften serveres i en skål ved siden av, til dypping av tortillaer – det er dette som skiller birria fra en vanlig gryte.
-- **Samlingens sjette braisering**, og den eneste meksikanske. Se også [chili con carne (nr. 103)](#103-chili-con-carne), som bruker tørket chili på en helt annen måte.
+- Se også [chili con carne (nr. 103)](#103-chili-con-carne), som bruker tørket chili på en helt annen måte.
 
 ---
 
@@ -6507,7 +6506,7 @@ Kyllingbryst delt i tynne fileter, vendt i krydret mel og stekt gyllent, med en 
 
 ## 118. Hachis parmentier – fransk cottage pie
 
-**Kilde:** gjengitt oppskrift *(opphavsperson ikke oppgitt)* · **Kjøkken:** Fransk · **Tid:** ca. 4½ time totalt *(ikke oppgitt i kilden)* · **Porsjoner:** 6
+**Kilde:** gjengitt oppskrift *(opphavsperson ikke oppgitt)* · **Kjøkken:** Fransk · **Tid:** ca. 4½ timer totalt *(ikke oppgitt i kilden)* · **Porsjoner:** 6
 
 Oksekjeve braisert tre timer i rødvin, revet og blandet med løk og hvitløk, dekket av en smørrik potetpuré av ovnsbakte poteter og gratinert. Den franske slektningen av cottage pie.
 
@@ -6565,11 +6564,10 @@ Oksekjeve braisert tre timer i rødvin, revet og blandet med løk og hvitløk, d
 - **Potetene bakes hele, ikke kokes**, og det er hele forskjellen. Bakte poteter tar ikke opp vann, så puréen blir tettere og smakfullere – og tåler de 75 g smøret uten å bli rennende. De 2 ss melk er tilsvarende lite med vilje.
 - **Oksekjeve fås hos slakter**, ofte på bestilling, og er billig. Har du ikke tilgang, gir høyrygg eller bibringe samme resultat på samme tid – se [pot roast (nr. 105)](#105-pot-roast--braisert-høyrygg-med-rotgrønnsaker) og [boeuf bourguignon (nr. 115)](#115-boeuf-bourguignon).
 - **«3 poteter» er upresist.** Til seks porsjoner trenger du rundt 900 g melne bakepoteter for å dekke formen skikkelig.
-- **Begge delene er oppgitt til seks porsjoner**, hvilket betyr at hele braiseringen går inn i paien. Braiseringen kan også serveres som egen rett, men da rekker den ikke til begge deler.
-- **Total tid er ikke oppgitt.** Tre timers braisering, én time med potetene og tjue minutter gratinering gir rundt 4½ time – men braiseringen kan gjøres dagen før, og retten blir bedre av det.
+- **Begge delene er oppgitt til seks porsjoner**, noe som betyr at hele braiseringen går inn i paien. Braiseringen kan også serveres som egen rett, men da rekker den ikke til begge deler.
+- **Total tid er ikke oppgitt.** Tre timers braisering, én time med potetene og tjue minutter gratinering gir rundt 4½ timer – men braiseringen kan gjøres dagen før, og retten blir bedre av det.
 - **Cottage pie og hachis parmentier er ikke helt det samme.** Britisk cottage pie bruker kjøttdeig av storfe og en enklere potetmos *(shepherd's pie er den samme retten med lam)*. Dette er den franske versjonen: braisert kjøtt revet i tråder og en smørrik purée. Kilden bruker begge navnene.
 - **Emmentaler kan byttes** med gruyère eller Jarlsberg – begge smelter godt og bruner fint.
-- **Samlingens sjuende braisering**, og den eneste som brukes som fyll i en annen rett.
 
 ---
 
@@ -6613,7 +6611,6 @@ Oksehale saltet, støvet i mel og brunet, og braisert i hvitvin, tomat og oksekr
 - **Oksehale er fettrik.** La gryta hvile de 20 minuttene kilden anbefaler, og skum av fettet som legger seg på toppen – eller sett den kaldt over natten og løft av det stivnede fettet. Retten blir dessuten bedre dagen etter. *(Lagt til.)*
 - **En liter kraft pluss en boks tomater er mye væske.** Den skal gå omtrent halvveis opp på kjøttet, ikke dekke det – bruk mindre hvis gryta er trang.
 - **Oksehale fås hos slakter og i frysedisken**, ofte rimeligere enn andre braiseringsstykker. Se også [nr. 113](#113-braisert-oksehale-med-mac-and-cheese-søtpotet-og-grønnkål), som bruker den i en amerikansk sammenheng.
-- **Samlingens åttende braisering.**
 
 ---
 
@@ -6672,7 +6669,7 @@ Den kjøttfrie utgaven av chili con carne: løk og paprika freset med tørket kr
 - **Bønnene kommer i helt til slutt** og skal bare varmes gjennom. De er ferdigkokte og går i oppløsning hvis de koker med i halvtimen.
 - **Retten er mild som skrevet.** Én fersk chili og 1 ts chilipulver til fire porsjoner gir lite varme. Kilden sier selv at mengden kan justeres.
 - **Persille og koriander står i ingredienslisten uten mengde** og uten plass i fremgangsmåten – de hører hjemme rørt inn til slutt eller strødd over.
-- **Samlingens andre chili**, og den vegetariske motparten til [nr. 103](#103-chili-con-carne). Den er også langt raskere: én time mot tre pluss bløtlegging.
+- **Den vegetariske motparten til** [nr. 103](#103-chili-con-carne). Den er også langt raskere: én time mot tre pluss bløtlegging.
 
 ---
 
@@ -6713,7 +6710,7 @@ Den franske klassikeren med førti hvitløksfedd: feddene trekkes møre i smør 
 - **Maldonsalt til slutt** er saltflak strødd over den oppdelte kyllingen, ikke salt i tilberedningen.
 - **250 g smør til én kylling er mye**, og det er meningen. Halvparten går til hvitløken og bruningen, halvparten til den avsluttende sausen.
 - **Norske kyllinger er ofte mindre enn 2 kg** – vanlig størrelse er 1,1–1,5 kg. Da kortes ovnstiden til 40–50 minutter, men styr etter termometeret.
-- **Samlingens andre helstekte kylling.** [Nr. 104](#104-helstekt-kylling-med-urtesmør) bruker urtesmør under skinnet og steker i gryte over grønnsaker; denne bygger alt på hvitløk og smør.
+- **Sammenlign med** [nr. 104](#104-helstekt-kylling-med-urtesmør) bruker urtesmør under skinnet og steker i gryte over grønnsaker; denne bygger alt på hvitløk og smør.
 
 ---
 
