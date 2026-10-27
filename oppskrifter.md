@@ -6710,7 +6710,7 @@ Den franske klassikeren med førti hvitløksfedd: feddene trekkes møre i smør 
 - **Maldonsalt til slutt** er saltflak strødd over den oppdelte kyllingen, ikke salt i tilberedningen.
 - **250 g smør til én kylling er mye**, og det er meningen. Halvparten går til hvitløken og bruningen, halvparten til den avsluttende sausen.
 - **Norske kyllinger er ofte mindre enn 2 kg** – vanlig størrelse er 1,1–1,5 kg. Da kortes ovnstiden til 40–50 minutter, men styr etter termometeret.
-- **Sammenlign med** [nr. 104](#104-helstekt-kylling-med-urtesmør) bruker urtesmør under skinnet og steker i gryte over grønnsaker; denne bygger alt på hvitløk og smør.
+- **Sammenlign med** [nr. 104](#104-helstekt-kylling-med-urtesmør), som bruker urtesmør under skinnet og steker i gryte over grønnsaker; denne bygger alt på hvitløk og smør.
 
 ---
 
@@ -6718,7 +6718,7 @@ Den franske klassikeren med førti hvitløksfedd: feddene trekkes møre i smør 
 
 **Kilde:** Olivia Adriance (TikTok, 28. februar 2024) · **Kjøkken:** Tex-Mex · **Tid:** ca. 50 min *(ikke oppgitt i kilden)* · **Porsjoner:** 4–6 *(ikke oppgitt i kilden)*
 
-Kyllinglår gnidd inn med en krydderblanding, brunet og braisert i kraft og salsa på glass, revet i tråder og vendt tilbake i den inn kokte sausen. Serveres i tortillaer med rødkålsalat.
+Kyllinglår gnidd inn med en krydderblanding, brunet og braisert i kraft og salsa på glass, revet i tråder og vendt tilbake i den innkokte sausen. Serveres i tortillaer med rødkålsalat.
 
 ### Ingredienser
 
@@ -6770,7 +6770,7 @@ Kyllinglår gnidd inn med en krydderblanding, brunet og braisert i kraft og sals
 - **Kyllingen rives før sausen kokes inn**, ikke etter. Rekkefølgen er riktig: sausen trenger fem–sju minutter uten lokk for å tykne, og den tiden bruker du på rivingen.
 - **Kyllinglår, ikke bryst.** Tjuefem minutters braisering ville gjort bryst tørt og trevlete – lår tåler det og blir mørt.
 - **Tilbehøret finnes i samlingen:** [pico de gallo (T20)](#t20-pico-de-gallo) og [mango- og avokadosalsa (T25)](#t25-mango--og-avokadosalsa), som også har en oppskrift på hjemmelagde tortillachips.
-- **Samlingens tredje meksikansk-inspirerte kyllingrett**, ved siden av [taco-salatbowlen (nr. 93)](#93-taco-salatbowl-med-kylling) og [fajitasalaten (nr. 94)](#94-fajitasalat-med-kylling) – og den eneste som braiseres.
+- **Andre meksikansk-inspirerte kyllingretter:** [taco-salatbowlen (nr. 93)](#93-taco-salatbowl-med-kylling) og [fajitasalaten (nr. 94)](#94-fajitasalat-med-kylling).
 
 ---
 
@@ -6809,7 +6809,7 @@ Saftige kjøttboller av karbonadedeig og svinekjøttdeig med bløtlagt loff, og 
 
 **Kjøttbollene**
 
-1. **Bland alt godt** i kjøkkenmaskin – kjøttdeiger, loff, melk, løk, salt, pepper og muskat.
+1. **Bløtlegg loffen** i melken i noen minutter. *(Presisert – se notat.)* **Bland så alt godt** i kjøkkenmaskin – kjøttdeiger, loff, melk, løk, salt, pepper og muskat.
 2. **Form bollene.** Sett en bolle med vann ved siden av, dypp begge hender i vannet, ta opp en passe mengde farse, form bollen med hendene, og legg den rett i pannen.
 3. **Stek bollene** gyllenbrune og gjennomstekte.
 
@@ -6935,7 +6935,7 @@ Kyllingbiter vendt i en røre av egg, maisenna og krydder, stekt sprø i panne, 
 - **Airfryerversjonen krever en endring**: maisennaen skal ikke blandes inn i røren, men brukes som et separat lag. Uten den endringen blir belegget klumpete.
 - **Grønnsaker serveres ved siden av, ikke i pannen.** Forfatteren er tydelig på det – grønnsaker i sausen gjør kyllingen bløt. Dampet brokkoli, sukkererter eller agurk i skiver er hennes forslag.
 - **Rester holder 3 dager** i kjøleskap, men skorpen mykner ved oppvarming.
-- **Samlingens tredje panerte kylling i asiatisk saus**, ved siden av [sesamkylling (nr. 90)](#90-sesamkylling-sesame-chicken) og [koreansk friturstekt kylling (nr. 102)](#102-koreansk-friturstekt-kylling) – og den klart enkleste, siden den verken krever frityr eller dobbeltsteking.
+- **Sammenlign med** [sesamkylling (nr. 90)](#90-sesamkylling-sesame-chicken) og [koreansk friturstekt kylling (nr. 102)](#102-koreansk-friturstekt-kylling). Denne er den klart enkleste, siden den verken krever frityr eller dobbeltsteking.
 
 ---
 
@@ -6991,7 +6991,7 @@ Kyllinglår i terninger krydret med paprika, spisskummen og oregano, stekt med r
 - **Skal du lage mange**, hold dem varme på et brett i ovnen på **100 °C varmluft**, løst dekket med folie. Da holder de seg i opptil en time.
 - **Tilbehøret finnes i samlingen:** [pico de gallo (T20)](#t20-pico-de-gallo) og [mango- og avokadosalsa (T25)](#t25-mango--og-avokadosalsa).
 - **En leser tilsetter 1 ss chipotle i adobo** i kyllingen, med forfatterens tilslutning. Se [nr. 94](#94-fajitasalat-med-kylling) om tilgjengelighet i Norge.
-- **Samlingens fjerde meksikansk-inspirerte kyllingrett**, ved siden av [taco-salatbowl med kylling (nr. 93)](#93-taco-salatbowl-med-kylling), [fajitasalat med kylling (nr. 94)](#94-fajitasalat-med-kylling) og [braiserte kyllingtacos (nr. 122)](#122-braiserte-kyllingtacos).
+- **Andre meksikansk-inspirerte kyllingretter:** [taco-salatbowl med kylling (nr. 93)](#93-taco-salatbowl-med-kylling), [fajitasalat med kylling (nr. 94)](#94-fajitasalat-med-kylling) og [braiserte kyllingtacos (nr. 122)](#122-braiserte-kyllingtacos).
 
 ---
 
