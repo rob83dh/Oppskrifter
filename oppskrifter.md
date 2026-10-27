@@ -22231,8 +22231,8 @@ Kald sommerdessert av små sagoperler i søtet kokosmelk, med mangopuré og bite
 
 ### Ingredienser
 
-- 2 dl sagoperler (ca. 180 g), den lille hvite typen
-- 400 ml kokosmelk med fullt fettinnhold (1 boks)
+- 180 g sagoperler, den lille hvite typen
+- 4 dl kokosmelk med fullt fettinnhold (1 boks)
 - 2 ss honning
 - 2 ss sukker
 - 4 modne mango
@@ -22266,7 +22266,7 @@ Kald sommerdessert av små sagoperler i søtet kokosmelk, med mangopuré og bite
 - **Kokosmelk på boks skiller seg ofte** — fett øverst, væske under. Det er normalt. Rist boksen før du åpner den og rør det sammen.
 - **Spises helst innen et par timer.** Sagoperlene fortsetter å suge til seg kokosmelken og gjør desserten stadig tykkere, mer som pudding. Er den blitt for tykk, sper du med mer kokosmelk. Holder seg 3–4 dager i kjøleskap, men skjær gjerne fersk mango over ved servering.
 - **Bytter du frukt**, hold deg unna sitrus og syrlig frukt som ananas — enzymene og syren ødelegger konsistensen. Melon og vannmelon anbefales av kilden.
-- **Næringsinnhold oppgitt i kilden**, per porsjon på ca. 3½ dl: 338 kcal, 2,5 g protein, 52 g karbohydrat, 15 g fett.
+- **Næringsinnhold oppgitt i kilden**, per porsjon på ca. 3,5 dl: 338 kcal, 2,5 g protein, 52 g karbohydrat, 15 g fett.
 
 ---
 
@@ -22292,7 +22292,7 @@ Sjokoladekake med flytende kjerne, stekt i porsjonsformer i sju–åtte minutter
 
 1. **Forvarm ovnen** til **200 °C varmluft**.
 2. **Smelt sjokoladen.** Brekk sjokoladen i små biter og ha den i en varmebestandig bolle sammen med smøret. Sett bollen over en kjele med småkokende vann – bunnen skal **ikke** berøre vannet – og rør til alt er smeltet. Sett til side i **5 minutter**.
-3. **Smør 4 porsjonsformer** à 200 ml med det ekstra smøret. *(Strø dem deretter med kakao og bank ut overskuddet – se notat.)*
+3. **Smør 4 porsjonsformer** à 2 dl med det ekstra smøret. *(Strø dem deretter med kakao og bank ut overskuddet – se notat.)*
 4. **Pisk eggeblandingen.** Visp egg, eggeplommer og sukker i en stor bolle til blandingen lysner og blir luftig. Vend inn mel og salt til det er jevnt. *(Vend forsiktig – se notat.)*
 5. **Vend inn sjokoladen** til det så vidt er blandet, og fordel røren jevnt i formene. *(Sjokoladen er varm og eggene rå – hell den i en tynn stråle mens du vender hele tiden. Se notat.)*
 6. **Sett formene på en stekeplate** og stek i **7–8 minutter**, til toppen så vidt har satt seg.
@@ -22300,12 +22300,12 @@ Sjokoladekake med flytende kjerne, stekt i porsjonsformer i sju–åtte minutter
 
 ### Notater
 
-- **Kilden motsier seg selv om antall porsjoner.** Oppskriftskortet sier 6, men både utstyrslisten og steg 3 sier **4 former à 200 ml**, og hele stekediskusjonen er bygget rundt den størrelsen. 4 er riktig. Skal du ha 6, må du enten skalere opp med halvparten eller bruke mindre former – og da endres steketiden.
+- **Kilden motsier seg selv om antall porsjoner.** Oppskriftskortet sier 6, men både utstyrslisten og steg 3 sier **4 former à 2 dl**, og hele stekediskusjonen er bygget rundt den størrelsen. 4 er riktig. Skal du ha 6, må du enten skalere opp med halvparten eller bruke mindre former – og da endres steketiden.
 - **Kakaopulveret mangler i ingredienslisten.** Det dukker bare opp i tipsdelen: smør formene, strø dem med kakao og bank ut overskuddet. Det gir en bittersøt skorpe utenpå og – viktigere – gjør at kaken slipper formen rent. Mel eller sukker gjør samme jobb, men ser dårligere ut.
 - **Steg 5 slik det står, kan gi deg sjokoladeomelett.** «Vend inn sjokoladen» sier ingenting om at den smeltede blandingen er varm og eggene rå. Kilden forklarer det i tipsdelen: hell sjokoladen i en jevn stråle mens du vender hele tiden, så du tempererer den inn. Tømmer du alt oppi på én gang, koagulerer plommene.
 - **«Vend inn til det er jevnt» inviterer til overblanding.** Kildens egen forklaringstekst sier at melet skal vendes forsiktig inn, fordi overblanding utvikler gluten og gir en stiv kake i stedet for en myk. De to formuleringene trekker i hver sin retning – følg forklaringen, ikke steget: slutt i det melet har forsvunnet.
 - **Vinduet mellom flytende og gjennomstekt er smalt.** Kilden er tydelig: ta dem ut i det toppen ser ut til å ha satt seg, for restvarmen fortsetter å steke dem i et par minutter mens de står. Er kjernen fast, har du stekt dem ett minutt for lenge. Og **ikke åpne ovnsdøren underveis** – temperaturfallet får dem til å falle sammen.
-- **Formstørrelsen styrer tiden.** 200 ml er kildens anbefaling. Mindre former, og kjernen stekes gjennom før utsiden setter seg; større, og kaken kollapser under sin egen vekt når du vender den ut. Har du 150 ml-former, stek i **5–6 minutter** og sjekk tidlig.
+- **Formstørrelsen styrer tiden.** 2 dl er kildens anbefaling. Mindre former, og kjernen stekes gjennom før utsiden setter seg; større, og kaken kollapser under sin egen vekt når du vender den ut. Har du former på 1,5 dl, stek i **5–6 minutter** og sjekk tidlig.
 - **Norsk sukker er allerede caster.** Kilden ber om caster sugar fordi amerikansk og australsk «granulated» er grovere og løser seg dårligere i eggene. Vanlig norsk strøsukker har omtrent samme kornstørrelse som caster – du trenger ikke gjøre noe.
 - **Eggstørrelsen påvirker resultatet.** Australske «large» egg veier rundt 59 g, som tilsvarer norske **M**. Bruker du L (63–73 g), blir røren litt løsere og kjernen litt mer flytende – ingen katastrofe, men sjekk et halvt minutt tidligere. Romtemperert egg pisker seg luftigere enn kjøleskapskaldt; ta dem ut 30 minutter før.
 - **Sjokoladen er hele smaken.** 70 % er balansepunktet: mindre gir en vanlig sjokoladekake, mer kan bli bittert. Bruk ordentlig kokesjokolade, ikke billig «sjokoladetrekk» med vegetabilsk fett – den smelter annerledes og smaker deretter.
@@ -22328,8 +22328,8 @@ Den thailandske klassikeren mango sticky rice pakket i vietnamesisk rispapir. Kl
 ### Ingredienser
 
 - 4 ark rispapir
-- 1 cup klebrig ris (glutinous rice) — ca. 185 g tørr *(se notat om mengden)*
-- 1 cup kokoskrem — ca. 240 ml
+- ca. 185 g klebrig ris (glutinous rice) *(se notat om mengden)*
+- 2,4 dl kokoskrem
 - 1 ss honning
 - 1 ss brun farin
 - 1 moden mango, skrelt og skåret i tynne strimler
@@ -22351,7 +22351,7 @@ Den thailandske klassikeren mango sticky rice pakket i vietnamesisk rispapir. Kl
 ### Notater
 
 - **Klebrig ris kan ikke bare kokes etter pakken på 15 minutter.** Kilden setter av 15 minutters koketid og henviser til pakken, men glutinous rice skal tradisjonelt **bløtlegges i minst 4 timer, helst over natten**, og deretter dampes i 20–25 minutter. Kokt som vanlig ris blir den grøtete i stedet for å få de separate, seige kornene desserten lever av. Regn dette som en dessert du starter dagen før.
-- **Rismengden passer ikke til fire ruller.** 1 cup tørr klebrig ris blir rundt 450 g ferdig, mens fire ruller trenger kanskje 150 g til sammen. Ris- og kokosblandingen er altså skalert til en full porsjon mango sticky rice for fire, mens rispapiret og mangoen er skalert til fire ruller. Enten halverer du ris og kokoskrem, eller så serverer du resten som vanlig mango sticky rice ved siden av – det siste er ikke det dummeste.
+- **Rismengden passer ikke til fire ruller.** 185 g tørr klebrig ris blir rundt 450 g ferdig, mens fire ruller trenger kanskje 150 g til sammen. Ris- og kokosblandingen er altså skalert til en full porsjon mango sticky rice for fire, mens rispapiret og mangoen er skalert til fire ruller. Enten halverer du ris og kokoskrem, eller så serverer du resten som vanlig mango sticky rice ved siden av – det siste er ikke det dummeste.
 - **Saltet mangler helt, og det er den største svakheten.** Ekte mango sticky rice har alltid en klype salt i kokossausen; det er kontrasten mot sødmen som gjør retten. Uten blir den flatt søt. Ha i ¼ ts salt i punkt 4. *(Lagt til.)*
 - **Tradisjonelt holdes litt kokossaus av** til å helles over ved servering, i stedet for at alt trekkes inn i risen. Her forsvinner all sausen inn i risen fordi den skal kunne rulles – det er en fornuftig tilpasning til formatet, men noe av kremetheten går tapt.
 - **Kilden motsier seg selv om avkjølingen.** Brødteksten sier «la den kjølne i 10–15 minutter», oppskriftskortet sier «la den kjølne **helt**, minst 15 minutter». Det er ikke det samme: klebrig ris med kokoskrem holder på varmen lenge, og 15 minutter gjør den ikke kald. Følg kortet og ta deg tid – varm ris gjør rispapiret bløtt og klissete, akkurat som kildens eget tips advarer mot.
@@ -22429,13 +22429,13 @@ Briochskiver smurt inn med honning- og brunsukkersmør på alle seks flater og b
 
 **Toast**
 - 4 tykke skiver brioche
-- 80 g romtemperert usaltet smør — 6 ss
-- 55 g lys farin — ¼ cup
+- 80 g romtemperert usaltet smør
+- 55 g lys farin
 - 2 ss honning
 - En klype salt
 
 **Vaniljekrem** *(valgfritt)*
-- 120 ml kald kremfløte
+- 1,2 dl kald kremfløte
 - 1 ss vaniljepasta
 - 1 ss melis
 
@@ -22462,7 +22462,7 @@ Briochskiver smurt inn med honning- og brunsukkersmør på alle seks flater og b
 - **Skivene må være tykke** – 3–4 cm, slik at innsiden holder seg myk mens utsiden blir sprø. Tynne skiver blir bare skorpe. Kilden sier «thick» uten mål. *(Lagt til.)*
 - **Følg med de siste minuttene.** Farin og honning brenner lett på 180 °C, og forskjellen mellom karamellisert og brent er kort. Sjekk etter 6 minutter i andre omgang. *(Lagt til.)*
 - **Ta vare på skorpene.** De kan smøres med resten av smørblandingen og bakes sammen med skivene som småbiter, eller tørkes til brødsmuler.
-- **Kremen skal ikke være søt.** Forfatteren advarer selv – 1 ss melis til 120 ml fløte er lite med vilje, siden toasten allerede er svært søt. Følg det rådet.
+- **Kremen skal ikke være søt.** Forfatteren advarer selv – 1 ss melis til 1,2 dl fløte er lite med vilje, siden toasten allerede er svært søt. Følg det rådet.
 - **Fløten må være kald** for å piske seg stiv. Bollen og vispen kan også kjøles ti minutter først.
 - **Saltkaramellen forfatteren viser til** finnes i samlingen som [T123](#t123-saltkaramellsaus) – fra samme kokk. Drypp den over rett før servering.
 - **Serveres lun, ikke varm eller kald.** Retten er en slektning av japansk *shibuya honey toast*, som lages av et helt uthulet melkebrød. Se [hot cross shokupan (B1)](#b1-hot-cross-shokupan--krydret-japansk-melkebrød) om du vil bake brødet selv.
@@ -22478,9 +22478,9 @@ Den klassiske franske sjokolademoussen: bare sjokolade, egg og sukker. Ingen fl�
 ### Ingredienser
 
 - 135 g sjokolade, 72 %
-- 85 g eggeplomme — ca. 5 plommer
+- 5 eggeplommer (ca. 85 g)
 - 25 g strøsukker
-- 250 g eggehvite — ca. 7 hviter
+- 7 eggehviter (ca. 250 g)
 - 60 g strøsukker
 
 ### Fremgangsmåte
@@ -22495,9 +22495,9 @@ Den klassiske franske sjokolademoussen: bare sjokolade, egg og sukker. Ingen fl�
 
 - **Sjokoladen må ikke være for varm eller for kald når den møter plommene.** Dette er stedet oppskriften ryker: smeltet sjokolade på 50 °C+ koagulerer eggeplommene til små klumper, mens sjokolade under 35 °C stivner umiddelbart i kontakt med kalde plommer og gir en kornete mousse. Sikt mot **40–45 °C**, og la plommene være romtemperert. *(Kritisk tillegg.)*
 - **Eggedosis-stadiet er ikke pynt.** Plommene skal piskes til de er lyse og tykke nok til at en bånd av røren blir liggende noen sekunder på overflaten før den synker. Det tar 4–5 minutter med elektrisk visp. Underpisket eggedosis gir en tung, tett mousse. *(Forklaring lagt til.)*
-- **Sukkermengden i marengsen er lav.** 60 g til 250 g hvite er under en fjerdedel – en klassisk fransk marengs bruker dobbelt til firedobbelt. Det gir en mindre søt og mer sjokoladedrevet mousse, som er poenget, men marengsen blir tilsvarende ustabil og faller raskere sammen. Pisk den ferdig **rett før** den skal brukes, og vend den inn med det samme. *(Faglig presisering lagt til.)*
+- **Sukkermengden i marengsen er lav.** 60 g til ca. 250 g hvite er under en fjerdedel – en klassisk fransk marengs bruker dobbelt til firedobbelt. Det gir en mindre søt og mer sjokoladedrevet mousse, som er poenget, men marengsen blir tilsvarende ustabil og faller raskere sammen. Pisk den ferdig **rett før** den skal brukes, og vend den inn med det samme. *(Faglig presisering lagt til.)*
 - **Første tredel skal røres inn, ikke vendes.** Den er der for å løse opp den tunge sjokoladebasen, så de siste to tredelene kan vendes inn uten at du må røre luften ut av dem. Kildens rekkefølge er riktig, men den forklarer ikke hvorfor. *(Forklaring lagt til.)*
-- **Du sitter igjen med eggeplommer til overs.** 250 g hvite tilsvarer ca. 7 egg, mens 85 g plomme bare er 5 – altså 2 plommer i overskudd. De kan gå til [majones (T122)](#t122-majones) eller sjokoladekremen i [éclairs (B3)](#b3-sjokoladeéclairs). *(Praktisk merknad lagt til.)*
+- **Du sitter igjen med eggeplommer til overs.** 7 hviter og 5 plommer betyr 2 plommer i overskudd. De kan gå til [majones (T122)](#t122-majones) eller sjokoladekremen i [éclairs (B3)](#b3-sjokoladeéclairs). *(Praktisk merknad lagt til.)*
 - **Settetiden mangler i kilden.** Regn **minst 4 timer**, gjerne over natten. Moussen inneholder ingen gelatin – det er sjokoladens kakaosmør som stivner og gir strukturen, og det tar tid. *(Lagt til.)*
 - **Rå egg er uproblematisk i Norge.** Norske egg har kontrollert salmonellastatus. Er du gravid eller har nedsatt immunforsvar, bruk pasteurisert eggehvite og eggeplomme. Se samme notat i [T122](#t122-majones).
 - **72 % sjokolade er mørkt og bevisst.** Med bare 25 + 60 g sukker totalt blir moussen tydelig bitter. Vil du ha den mildere, bruk 60–65 % sjokolade heller enn å øke sukkeret – mer sukker i marengsen endrer teksturen.
@@ -22521,13 +22521,13 @@ Ostekake uten steking, lagvis i matbokser: knuste kjeks i bunnen, kremostblandin
 - Weetabix, ønsket mengde — ca. 4 stykker
 - 1 pk Philadelphia light
 - Litt Sukrin melis — ca. 2 ss
-- Ca. ½ dl vann
+- Ca. 3 ss vann *(Omregnet fra ½ dl.)*
 
 ### Fremgangsmåte
 
 1. **Kok opp geléen**, tilsett yoghurten og sett blandingen til side.
 2. **Knus digestivekjeksene og weetabixen** og fordel dem i matboksene.
-3. **Rør kremosten.** Bland Philadelphia og melisen. Kilden har i tillegg i ca. ½ dl vann, så blandingen blir lettere å jobbe med.
+3. **Rør kremosten.** Bland Philadelphia og melisen. Kilden har i tillegg i ca. 3 ss vann, så blandingen blir lettere å jobbe med.
 4. **Legg på kremostblandingen** oppå kjeksbunnen i matboksene. Dette krever god tålmodighet.
 5. **Hell geléblandingen på toppen.**
 
@@ -22539,7 +22539,7 @@ Ostekake uten steking, lagvis i matbokser: knuste kjeks i bunnen, kremostblandin
 - **Ingen mengder på kjeks, weetabix eller melis.** Anslag til fire porsjoner: **8 digestivekjeks**, **4 weetabix** og **2 ss melis**. Juster etter hvor tykk bunn du vil ha. *(Lagt til.)*
 - **Bunnen er tørr og løs, ikke en klassisk kjeksbunn.** Det er ingen smør i den, så den binder ikke – den blir liggende som smuler under fyllet. Det fungerer i matboks, men vil du ha en fastere bunn, smelt 50 g smør og bland inn. Da er den derimot ikke like lett lenger. *(Presisering lagt til.)*
 - **Weetabix bløtes raskt opp.** Den suger fuktighet fra laget over og blir myk i løpet av noen timer. Vil du ha crunch, hold den utenfor og strø den over rett før servering.
-- **Vannet i kremosten tynner den ut.** ½ dl til én pakke Philadelphia gjør den lettere å bre, men også løsere. Alternativt kan du røre kremosten myk med en slikkepott først, eller varme den 10 sekunder i mikroen – da trenger du mindre vann og får et fastere lag. *(Alternativ lagt til.)*
+- **Vannet i kremosten tynner den ut.** 3 ss til én pakke Philadelphia gjør den lettere å bre, men også løsere. Alternativt kan du røre kremosten myk med en slikkepott først, eller varme den 10 sekunder i mikroen – da trenger du mindre vann og får et fastere lag. *(Alternativ lagt til.)*
 - **YT vaniljeyoghurt** er Tines proteinyoghurt og gir retten mesteparten av proteinet. Gresk yoghurt eller skyr fungerer, men er syrligere – da trenger du litt mer søtning.
 - **Sukrin melis kan byttes mot vanlig melis** i samme mengde hvis du ikke trenger sukkerfri variant.
 - **Holdbarhet:** 3–4 dager i kjøleskap i tett boks. Geléen holder seg fint; bunnen blir mykere for hver dag.
