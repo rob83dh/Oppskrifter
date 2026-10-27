@@ -8752,7 +8752,7 @@ Familieoppskrift på birria de res, kokt på tre kjøttstykker og margbein i nes
 3. **Bløtlegg chiliene.** Legg dem i varmt vann i **20 minutter**, til de er myke.
 4. **Miks adoboen.** Kjør chiliene glatte sammen med hvitløk, ingefær, oregano, det ristede krydderet, eddiken, buljongterningen og nok vann til at mikseren går rundt.
 5. **Sil.** Press adoboen gjennom en grovmasket sil ned i gryta med kjøttet. Ha i laurbærbladene.
-6. **La det trekke.** Skru ned til svak varme, legg på lokk og la det småkoke i **3½–4½ time**, til kjøttet faller fra hverandre.
+6. **La det trekke.** Skru ned til svak varme, legg på lokk og la det småkoke i **3½–4½ timer**, til kjøttet faller fra hverandre.
 7. **Smak til** med salt og eventuelt mer buljong.
 8. **Server.** Plukk kjøttet fra beinene og hakk det. Sil kraften og server den som consomé ved siden av, med koriander, hakket løk, lime og tortillaer.
 
@@ -8762,7 +8762,7 @@ Familieoppskrift på birria de res, kokt på tre kjøttstykker og margbein i nes
 - **Dette er en enorm porsjon.** Nesten **7 kg kjøtt** og 6 liter vann – en festmengde til 15–20 personer, som forklarer «grandma approved». Til vanlig middag kan alt deles på fire uten at noe endres. *(Presisering lagt til.)*
 - **Metoden er en annen enn i [nr. 116](#116-birria--meksikansk-braisert-oksekjøtt).** Der brunes kjøttet først og braiseres i en tykk saus; her kokes det i vann fra start, slik at du får rikelig med tynn consomé. Det er den tradisjonelle taco-varianten – du trenger mye kraft for å dyppe. Vil du ha begge deler, brun kjøttet før det går i vannet.
 - **Margbeina er ikke pynt.** De er grunnen til at consoméen får kropp og det røde fettlaget på toppen som tortillaene dyppes i før de stekes til quesabirria. Uten dem blir kraften tynn. Bestill dem hos slakteren. *(Forklaring lagt til.)*
-- **Skum av de første 20 minuttene.** Sju kilo kjøtt gir mye protein­skum. Får det koke inn, blir consoméen grumsete i stedet for klar og dyp rød. *(Lagt til.)*
+- **Skum av de første 20 minuttene.** Sju kilo kjøtt gir mye proteinskum. Får det koke inn, blir consoméen grumsete i stedet for klar og dyp rød. *(Lagt til.)*
 - **Dobbelt så mye chili som i [nr. 116](#116-birria--meksikansk-braisert-oksekjøtt)** – 20 guajillo mot 10, og opptil 8 árbol mot 2. Med fire ganger så mye kjøtt er forholdet omtrent likt, bortsett fra árbol, som gjør denne merkbart sterkere. Start i nedre ende.
 - **Fjern stilk og frø.** Kilden nevner det ikke, men frøene gir bitterhet. Samme presisering som i [nr. 116](#116-birria--meksikansk-braisert-oksekjøtt).
 - **Ristingen tar sekunder.** Brent tørket chili blir bitter og kan ikke reddes.
@@ -8868,7 +8868,7 @@ Vårrisotto der erter, aspargesstilker og ramsløk kokes og mikses til en knallg
 - **Puréen skal i sent.** Kokes den lenge, mister den den grønne fargen og blir olivenfarget. Rør den inn de siste 2–3 minuttene.
 - **Mascarponen er valgfri** – den står i ingredienslisten uten forbehold, men fremgangsmåten sier «if using». Med den blir risottoen tydelig kremere og mildere.
 - **Aspargesen deles i to bruksområder:** stilkene i puréen, toppene som pynt. Knekk stilkene der de naturlig brekker, og bruk den nedre delen til puréen.
-- **Beslektet:** [risotto med asparges, spinat og sitron (nr. 67)](#67-risotto-med-asparges-spinat-og-sitron) er nærmeste slektning, og [sopprisotto med salsiccia og hasselnøtter (nr. 151)](#151-sopprisotto-med-salsiccia-og-hasselnøtter) og [safranrisotto med reker og pistasjnøtter (nr. 155)](#155-safranrisotto-med-reker-og-pistasjnøtter) er samlingens andre risottoer. Se [hvit asparges med shiitake og brunet hollandaise (nr. 145)](#145-hvit-asparges-med-shiitake-og-brunet-hollandaise) for hvit asparges.
+- **Beslektet:** [risotto med asparges, spinat og sitron (nr. 67)](#67-risotto-med-asparges-spinat-og-sitron) er nærmeste slektning, og [sopprisotto med salsiccia og hasselnøtter (nr. 151)](#151-sopprisotto-med-salsiccia-og-hasselnøtter) og [safranrisotto med reker og pistasjnøtter (nr. 155)](#155-safranrisotto-med-reker-og-pistasjnøtter) er andre risottoer i samlingen. Se [hvit asparges med shiitake og brunet hollandaise (nr. 145)](#145-hvit-asparges-med-shiitake-og-brunet-hollandaise) for hvit asparges.
 
 ---
 
@@ -8939,7 +8939,7 @@ Liten britisk kyllingpai med bacon, purre og sopp i en fløtesaus med grovkornet
 1. **Stek baconet.** Legg det i en **kald** panne og stek på middels varme til det er gyllent og lett sprøtt.
 2. **Purre og sopp i.** Fres dem noen minutter til de er myke. Tilsett hvitløken og stek et minutt til.
 3. **Smør og mel.** Ha i smøret, og når det er smeltet, rør inn melet og la det steke **1–2 minutter**.
-4. **Del opp** pannen med hvitvin og kyllingkraft.
+4. **Kok ut** pannen med hvitvin og kyllingkraft.
 5. **Fyllet ferdig.** Tilsett kylling, fløte, grovkornet sennep og urter. La det koke sammen et par minutter.
 6. **Fyll formen.** Hell blandingen i en paiform. Legg butterdeigen over, skjær vekk overskuddet og klem igjen kantene.
 7. **Pensle med egg** og stek på **180 °C i 15–20 minutter**, til lokket er gyllenbrunt.
@@ -8947,7 +8947,7 @@ Liten britisk kyllingpai med bacon, purre og sopp i en fløtesaus med grovkornet
 ### Notater
 
 - **Kyllingen må være ferdig kokt.** Kilden sier «shredded chicken» uten å nevne det – dette er en restemat-oppskrift. Bruk restene fra [helstekt kylling (nr. 104)](#104-helstekt-kylling-med-urtesmør) eller [Hellstrøms helstekte kylling med hvitløk (nr. 121)](#121-hellstrøms-helstekte-kylling-med-hvitløk), eller kjøp ferdig grillet kylling. **1 neve er ca. 100 g.** *(Kritisk presisering lagt til.)*
-- **Eggen til pensling mangler i ingredienslisten.** *(Rettelse.)*
+- **Egget til pensling mangler i kildens ingrediensliste.** *(Rettelse.)*
 - **Kald panne til baconet er riktig teknikk.** Fettet smelter langsomt ut i stedet for at kjøttet svir seg, og du får både sprøtt bacon og et fett å steke grønnsakene i. Kilden gjør det bevisst.
 - **Fyllet bør avkjøles før butterdeigen legges på.** Varmt fyll smelter smøret i deigen før den kommer i ovnen, og lokket blir flatt i stedet for luftig. La det stå 15 minutter. *(Lagt til.)*
 - **Fyllet må ikke være for tynt.** 3 dl væske til 20 g mel gir en løs saus; kok den godt inn i punkt 5, ellers renner den ut under lokket.
@@ -8992,13 +8992,13 @@ Pasta alla Norma uten pastaen: aubergine, tomat og hvitløk, med smørbønner i 
 - **Fremgangsmåten er rekonstruert, ikke gjengitt.** Kilden oppgir bare ingredienser og viser til at metoden ligger på Instagram-siden hennes. Rekkefølgen over følger teknikken i pasta alla Norma. **Verifiser mot originalen før du lager den.** *(Merknad lagt til.)*
 - **Bønnelaken skal være med, og det er bevisst.** Kilden skriver uttrykkelig «& their juices». Aquafabaen er stivelsesrik og gir sausen kropp uten fløte eller olje – det er derfor retten fungerer med bare seks ingredienser. Dette er stikk motsatt av rådet i [nr. 135](#135-kylling--og-pølsegryte-med-bønner-og-grønnsaker) og [nr. 140](#140-kuru-fasulye-yahni--tyrkisk-hvitbønnegryte), der bønnene skylles. Konsekvensen er at retten blir salt av seg selv – **salt først helt til slutt**. *(Viktig presisering.)*
 - **Kvaliteten på bønnene merkes her.** Med laken som en bærende ingrediens er billige bokser med tynn, grumsete lake et dårlig utgangspunkt. Bønner på glass – som Bold Bean Co, som kilden ellers bruker – har tykkere og renere lake. Norske smørbønner på boks fungerer, men sil bort eventuelt skum. *(Lagt til.)*
-- **Auberginen suger olje uansett hva du gjør.** Ovnsbaking, som i punkt 1, bruker en brøkdel av oljen som panne­steking og gir jevnere resultat. Vil du følge den sicilianske originalen, friteres auberginen – men da trenger du 5 dl olje. Se samme avveining i [nr. 142](#142-lasagne-alla-norma-med-salsicciaragù). *(Alternativ lagt til.)*
+- **Auberginen suger olje uansett hva du gjør.** Ovnsbaking, som i punkt 1, bruker en brøkdel av oljen pannesteking krever, og gir jevnere resultat. Vil du følge den sicilianske originalen, friteres auberginen – men da trenger du 5 dl olje. Se samme avveining i [nr. 142](#142-lasagne-alla-norma-med-salsicciaragù). *(Alternativ lagt til.)*
 - **Salting av auberginen er valgfritt.** Moderne auberginer er nesten bitterfrie, men saltingen får cellene til å kollapse så de suger mindre olje. En halvtime i dørslag hvis du har tid.
 - **Ricotta salata er det som mangler.** I en ekte alla Norma rives den saltede, tørkede ricottaen over til slutt. Cashewparmesan er den veganske erstatningen kilden foreslår, uten å oppgi oppskrift: **100 g cashewnøtter, 3 ss næringsgjær, 1 ts salt og ½ ts hvitløkspulver** kjørt til smuler i foodprosessor. *(Oppskrift lagt til.)*
 - **Hvitløken skives, ikke hakkes.** Kilden er spesifikk. Skiver blir myke og søte i sausen i stedet for å forsvinne, og det passer stilen.
 - **Retten er vegansk** slik den står.
 - **Serveres på ristet surdeigsbrød** – kilden merker innlegget med #beansontoast. Se [focaccia (B13)](#b13-focaccia-på-én-dag) eller [baguetter (B12)](#b12-baguetter-med-damp). Den fungerer også som pastasaus, og da er den i praksis en pasta alla Norma med bønner i.
-- **Beslektet:** [lasagne alla Norma (nr. 142)](#142-lasagne-alla-norma-med-salsicciaragù) er samme grunnidé i lasagneform, [hvitbønnegryte med tomat og spinat (SU16)](#su16-hvitbønnegryte-med-tomat-og-spinat) og [kuru fasulye yahni – tyrkisk hvitbønnegryte (nr. 140)](#140-kuru-fasulye-yahni--tyrkisk-hvitbønnegryte) er samlingens andre bønnegryter.
+- **Beslektet:** [lasagne alla Norma (nr. 142)](#142-lasagne-alla-norma-med-salsicciaragù) er samme grunnidé i lasagneform, [hvitbønnegryte med tomat og spinat (SU16)](#su16-hvitbønnegryte-med-tomat-og-spinat) og [kuru fasulye yahni – tyrkisk hvitbønnegryte (nr. 140)](#140-kuru-fasulye-yahni--tyrkisk-hvitbønnegryte) er andre bønnegryter i samlingen.
 
 ---
 
@@ -9041,14 +9041,14 @@ Bolognesisk lasagne har tre komponenter og ingen ost mellom lagene bortsett fra 
 - **Ingen mozzarella.** Det er den amerikansk-italienske versjonen, og den gir tråder og væske. Parmesan gir salt og en bakt skorpe i stedet. Vil du ha mozzarella, blir det en annen rett – god, men ikke denne.
 - **Grønne plater er originalen.** I Bologna brukes spinatpasta, som er grovere og holder bedre på sausen. Har du fersk pastadeig fra [G1](#g1-master-pasta-dough--grunndeig-til-fersk-eggpasta), kan du gjøre den om med 100 g spinat kokt, klemt tørr og most inn i eggeblandingen. *(Lagt til.)*
 - **Muskat i bechamelen** er standard i klassisk fransk og italiensk kjøkken, og er det som skiller en bechamel fra en hvit saus. Vær forsiktig – ¼ ts holder til en liter.
-- **Holdbarhet:** 3 døgn kjøleskap. Tåler frysing både før og etter steking. Fryst usteikt: rett fra fryseren på 180 °C i **75 minutter** med folie, deretter 15 uten.
-- **Beslektet:** [tagliatelle al Ragù (nr. 73)](#73-tagliatelle-al-ragù) er ragùen og pastavarianten av samme saus, [lasagne alla Norma med salsicciaragù (nr. 142)](#142-lasagne-alla-norma-med-salsicciaragù) er samme form med aubergine, og [langtidskokt oksragù (nr. 65)](#65-langtidskokt-oksragù) er samlingens grovere ragù på hele kjøttbiter.
+- **Holdbarhet:** 3 døgn i kjøleskap. Tåler frysing både før og etter steking. Fryst ustekt: rett fra fryseren på 180 °C i **75 minutter** med folie, deretter 15 uten.
+- **Beslektet:** [tagliatelle al Ragù (nr. 73)](#73-tagliatelle-al-ragù) er ragùen og pastavarianten av samme saus, [lasagne alla Norma med salsicciaragù (nr. 142)](#142-lasagne-alla-norma-med-salsicciaragù) er samme form med aubergine, og [langtidskokt oksragù (nr. 65)](#65-langtidskokt-oksragù) er en grovere ragù på hele kjøttbiter.
 
 ---
 
 ## 168. Biff stroganoff
 
-**Kilde:** Gladkokken (gladkokken.no) · **Kjøkken:** Russisk · **Tid:** ca. 2½ time · **Porsjoner:** 4–6 *(ikke oppgitt i kilden)*
+**Kilde:** Gladkokken (gladkokken.no) · **Kjøkken:** Russisk · **Tid:** ca. 2½ timer · **Porsjoner:** 4–6 *(ikke oppgitt i kilden)*
 
 Høyrygg i strimler surret møre i to timer, og en saus av rømme, fløte, dijon og worcestershire bygget for seg i egen gryte. De to møtes først til slutt. Dette er ikke den raske restaurantversjonen med mørbrad – det er en gryterett.
 
@@ -9096,7 +9096,7 @@ Høyrygg i strimler surret møre i to timer, og en saus av rømme, fløte, dijon
 - **Soppen inn helt til slutt.** Kokes den med, avgir den vann og blir grå. Stekt for seg beholder den både farge og tekstur.
 - **Rømme skiller seg over 90 °C.** Sausen skal småkoke, aldri fosskoke, og kjøttet bør ha kjølt seg litt før det møter den.
 - **Sitronsaften er ikke pynt.** Retten er fet av bacon, fløte og rømme, og syren til slutt er det som gjør at den ikke blir tung å spise.
-- **Holdbarhet:** 3 døgn kjøleskap. Fryser dårlig – rømmen skiller seg ved tining.
+- **Holdbarhet:** 3 døgn i kjøleskap. Fryser dårlig – rømmen skiller seg ved tining.
 - **Beslektet:** [nr. 105](#105-pot-roast--braisert-høyrygg-med-rotgrønnsaker) bruker samme stykke og samme prinsipp i amerikansk drakt, og [nr. 124](#124-steak-diane) er den raske pannesausen med sennep og worcestershire.
 
 ---
