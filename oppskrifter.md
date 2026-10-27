@@ -18889,7 +18889,7 @@ Hvit saus der en tredjedel av væsken er kremfløte. Melk og fløte varmes før 
 - 40 g meierismør
 - 40 g hvetemel
 - 5 dl helmelk
-- 2½ dl kremfløte
+- 2,5 dl kremfløte
 - Salt
 - Kajennepepper
 - Muskatnøtt *(valgfritt)*
@@ -18903,7 +18903,7 @@ Hvit saus der en tredjedel av væsken er kremfløte. Melk og fløte varmes før 
 
 ### Notater
 
-- **Fløten gjør dette til noe annet enn en bechamel.** Klassisk bechamel er melk alene. Med 2½ dl fløte til 5 dl melk er sausen langt rikere og tåler mindre koking før den blir tung.
+- **Fløten gjør dette til noe annet enn en bechamel.** Klassisk bechamel er melk alene. Med 2,5 dl fløte til 5 dl melk er sausen langt rikere og tåler mindre koking før den blir tung.
 - **Væsken må være varm.** Kald melk i varm jevning gir klumper som ingen visping fjerner. Kilden spesifiserer det, og det er den vanligste feilen.
 - **Forholdet er tynnere enn standarden.** 40 g smør og mel til 7,5 dl væske gir en løs saus; G8 bruker 70/70 til én liter, altså tykkere. Velg etter bruk – denne kler grateng, den tykkere kler lasagne.
 - **Kajenne i stedet for hvit pepper** er kildens signatur og går igjen gjennom hele boka.
