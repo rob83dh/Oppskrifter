@@ -5934,7 +5934,7 @@ Svinekam gnidd inn med dijon, hvitløk og eplecidereddik, bundet opp med rosmari
 - **Hviletiden er kort, men riktig.** Ti minutter er nok for et stykke av denne størrelsen, og kjernetemperaturen stiger 3–5 grader til underveis. Regn med det når du tar kammen ut.
 - **Rosmarin under hyssingen er et pent grep**, og fungerer bedre enn å legge kvistene løst i gryta: de holdes mot kjøttet og avgir olje direkte i overflaten.
 - **Temperaturene er omregnet fra fahrenheit:** 350 °F = 175 °C, 145 °F = 63 °C.
-- **Samlingens andre svinestek** ved siden av [porchetta (nr. 74)](#74-porchetta), som bindes på samme måte, men rulles og stekes langt lenger på lavere varme.
+- **Sammenlign med** [porchetta (nr. 74)](#74-porchetta), som bindes på samme måte, men rulles og stekes langt lenger på lavere varme.
 
 ---
 
@@ -5947,7 +5947,7 @@ Tynne skiver svinenakke stekt sprø og glasert i en hoisinsaus av brunt sukker, 
 ### Ingredienser
 
 **Hoisinsaus**
-- 3 ss **brunt sukker** *(se notat – ikke norsk farin)*
+- 3 ss brun farin *(se notat)*
 - 3 ss japansk soyasaus (Kikkoman)
 - 1 ss hoisinsaus
 - 1 ss riseddik
@@ -5983,7 +5983,7 @@ Tynne skiver svinenakke stekt sprø og glasert i en hoisinsaus av brunt sukker, 
 
 ### Notater
 
-- **«Farinsocker» er ikke norsk farin.** Dette er den viktigste fellen i oppskriften. Svensk *farinsocker* er **brunt sukker**, mens norsk **farin er hvitt strøsukker**. Kilden presiserer uttrykkelig at det skal være farinsocker og *ikke* strøsukker – altså det motsatte av hva en norsk leser ville forstå. Bruk brunt sukker eller lys muscovado; melassen er en del av smaken.
+- **«Farinsocker» er brun farin.** Svensk *farinsocker* tilsvarer norsk **brun farin**, og kilden presiserer uttrykkelig at det skal være farinsocker og *ikke* strøsukker. Bruk brun farin eller lys muscovado; melassen er en del av smaken.
 - **Forfatteren er uvanlig ærlig om egne avvik.** Han opplyser at han brukte feil sukker i videoen fordi han ikke hadde annet, og at han av og til dropper hvitløken helt fordi ingefæren dominerer uansett. Han ber deg smake på sausen og justere ingefær og hvitløk selv.
 - **Rør sausen før den går i pannen.** Maisennaen synker til bunns mens sausen står i kjøleskapet, og heller du bare av toppen, får du ingen jevning. Kilden sier det rett ut – et lite poeng som ofte utelates.
 - **Frysing før skjæring er samme triks som i** [nr. 87](#87-beef-and-broccoli--oksekjøtt-i-wok-med-brokkoli) **og** [nr. 88](#88-kyllingwok-med-blandede-grønnsaker). En time i fryseren gjør kjøttet fast nok til jevne, tynne skiver.
@@ -6060,7 +6060,7 @@ Kylling marinert i rødvin over natten og braisert langsomt med bacon, gulrot og
 - **Uten alkohol** går det an, sier kilden, men smaken endres tydelig: bruk kraftig kylling- eller oksekraft, en skvett mørk druejuice og eventuelt litt balsamico.
 - **Retten blir bedre dagen etter.** Kilden forklarer hvorfor kylling er et unntak fra regelen om at fjærkre ikke tåler oppvarming: kjøttet ligger i et bad av vin og fett og tørker derfor ikke ut. Holdbarhet 3–4 dager i kjøleskap, eller 2–3 måneder i fryser.
 - **Porsjonene avhenger av oppdekningen:** 4–6 store porsjoner med et helt lår per person, eller 6–8 hvis retten inngår i et måltid med forrett og dessert.
-- **Samlingens tredje braisering**, ved siden av [chili con carne](#103-chili-con-carne) og [pot roast](#105-pot-roast--braisert-høyrygg-med-rotgrønnsaker) – og den eneste der grønnsakene som skal serveres, holdes utenfor gryta til slutt.
+- **Sammenlign med de andre braiseringene**, [chili con carne](#103-chili-con-carne) og [pot roast](#105-pot-roast--braisert-høyrygg-med-rotgrønnsaker). Denne er den eneste der grønnsakene som skal serveres, holdes utenfor gryta til slutt.
 
 ---
 
@@ -6106,13 +6106,13 @@ Butterdeig med et lag fersk geitost rørt med crème fraîche og sitronskall, de
 - **Glutenfritt** med glutenfri butterdeig, som kilden påpeker fås i helsekostbutikker.
 - **Kildens variasjoner:** hakkede valnøtter eller pinjekjerner for knasing; blåmuggost eller feta for en kraftigere smak; en skvett honning før steking for sødme mot syren.
 - **Vegetarisk**, og lett å skalere – kutt den i små firkanter som tapasrett.
-- **Samlingens andre rett med grønn asparges**, ved siden av [SJ9](#sj9-ovnsbakt-laks-med-grønn-asparges) fra samme forfatter.
+- Se også [SJ9](#sj9-ovnsbakt-laks-med-grønn-asparges) fra samme forfatter.
 
 ---
 
 ## 111. Braiserte short ribs med hvitløkskonfit-potetmos
 
-**Kilde:** gjengitt oppskrift *(opphavsperson ikke oppgitt)* · **Kjøkken:** Amerikansk · **Tid:** ca. 3½ time *(ikke oppgitt i kilden)* · **Porsjoner:** 4
+**Kilde:** gjengitt oppskrift *(opphavsperson ikke oppgitt)* · **Kjøkken:** Amerikansk · **Tid:** ca. 3½ timer *(ikke oppgitt i kilden)* · **Porsjoner:** 4
 
 Short ribs brunet og braisert i rødvin og oksekraft i tre timer, servert på potetmos moset med hele hvitløksfedd fra konfit. Yoghurt i stedet for fløte i mosen.
 
@@ -6155,13 +6155,13 @@ Short ribs brunet og braisert i rødvin og oksekraft i tre timer, servert på po
 
 - **Overskriften i kilden er feil.** Ingredienslisten står oppført under «For the Garlic Herb Chicken», men kilden har selv publisert en rettelse: overskriften skal ignoreres, oppskriften er for short ribs.
 - **Hvitløkskonfiten tar to timer og må planlegges.** Den lages på 120 °C parallelt med braiseringen, men ovnen skal samtidig holde 165 °C – i praksis må du enten lage konfiten dagen før, kjøpe den ferdig, eller godta at ribbene braiseres på lavere temperatur i lengre tid. Kilden nevner ikke konflikten. *(Merknad lagt til.)*
-- **Total tid er ikke oppgitt.** Med bruning, tre timers braisering og potetmos ender du på rundt 3½ time, uten konfiten.
+- **Total tid er ikke oppgitt.** Med bruning, tre timers braisering og potetmos ender du på rundt 3½ timer, uten konfiten.
 - **Short ribs heter ikke det i alle norske ferskvaredisker.** Spør etter tverrskåret bibringe eller høyrygg med bein; enkelte kjeder selger dem nå under det engelske navnet. 900 g med bein til fire er en beskjeden porsjon – regn heller 1,2–1,5 kg hvis kjøttet skal bære måltidet.
 - **Gresk yoghurt i potetmosen** i stedet for fløte og smør er et bevisst lettere valg, og fungerer fordi konfitoljen bidrar med fettet. Rør den inn av varmen, så den ikke skiller seg.
 - **Konfitfeddene moses hele inn i potetene** – det er dette som gir mosen smaken, ikke rå hvitløk.
 - **Bakepoteter, altså melne**, er riktig her. Fastkokende gir klissete mos.
 - **Temperaturene er omregnet fra fahrenheit:** 325 °F = 165 °C, 250 °F = 120 °C.
-- **Samlingens fjerde braisering**, ved siden av [chili con carne](#103-chili-con-carne), [pot roast](#105-pot-roast--braisert-høyrygg-med-rotgrønnsaker) og [coq au vin](#109-coq-au-vin).
+- **Se også de andre braiseringene:** [chili con carne](#103-chili-con-carne), [pot roast](#105-pot-roast--braisert-høyrygg-med-rotgrønnsaker) og [coq au vin](#109-coq-au-vin).
 
 ---
 
@@ -6226,7 +6226,7 @@ Kyllinglår stekt i panne og ferdigkokt i en saus av kyllingkraft, dijon og sitr
 
 ## 113. Braisert oksehale med mac and cheese, søtpotet og grønnkål
 
-**Kilde:** gjengitt oppskrift *(opphavsperson ikke oppgitt)* · **Kjøkken:** Amerikansk (soul food) · **Tid:** ca. 3½ time *(ikke oppgitt i kilden)* · **Porsjoner:** 4 boller
+**Kilde:** gjengitt oppskrift *(opphavsperson ikke oppgitt)* · **Kjøkken:** Amerikansk (soul food) · **Tid:** ca. 3½ timer *(ikke oppgitt i kilden)* · **Porsjoner:** 4 boller
 
 En hel tallerken i fire deler: oksehale braisert i tre timer, mac and cheese med gresk yoghurt, karamelliserte søtpoteter og langkokt grønnkål med bacon og eddik.
 
@@ -6290,7 +6290,7 @@ En hel tallerken i fire deler: oksehale braisert i tre timer, mac and cheese med
 - **Eddiken i grønnkålen er ikke valgfri.** Syren balanserer fettet fra baconet og oksehalen, og er en fast del av amerikansk soul food-tradisjon.
 - **Tidsplanen er stram.** Oksehalen okkuperer ovnen på 165 °C i tre timer, mens søtpotetene skal ha 200 °C. Stek søtpotetene etter at oksehalen er ute, mens den hviler.
 - **Temperaturene er omregnet fra fahrenheit:** 325 °F = 165 °C, 400 °F = 200 °C.
-- **Samlingens andre mac and cheese**, ved siden av [nr. 106](#106-mac-and-cheese) – den er langt rikere, denne er den lette varianten med yoghurt.
+- **Sammenlign med** [nr. 106](#106-mac-and-cheese): den er langt rikere, denne er den lette varianten med yoghurt.
 
 ---
 
