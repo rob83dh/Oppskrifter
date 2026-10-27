@@ -7997,7 +7997,7 @@ Hvit asparges trukket i en søtet, syrlig lake, servert med sprøstekt shiitake 
 - **Sukkeret i laken er ikke for å gjøre retten søt** – det balanserer den lette bitterheten som er hvit asparges' særtrekk. Tysk og svensk tradisjon gjør det samme. Ikke kutt det.
 - **Sherryeddik og soya til soppen er uten mengder.** Regn **1 ts av hver** til 150 g shiitake, tilsatt helt til slutt i pannen så det damper av mot varmen.
 - **Shiitake må stekes tørt først.** Som all sopp avgir den mye vann – ha den i tørr, varm panne til væsken er borte, og tilsett så oljen. Ellers blir den seig i stedet for sprø. Samme prinsipp som i [kantarellsaus (T43)](#t43-kantarellsaus). *(Lagt til.)*
-- **Hvit asparges er sesongvare i Norge**, i praksis fra slutten av april til midten av juni, importert fra Tyskland og Nederland. Den fås hos Meny og i grønnsakshandler. Grønn asparges kan brukes, men trenger bare 3–4 minutter og skal ikke skrelles – da er det en annen rett. Se [ovnsbakt laks med grønn asparges (SJ9)](#sj9-ovnsbakt-laks-med-grønn-asparges) og [aspargespai (nr. 110)](#110-aspargespai-med-fersk-geitost).
+- **Hvit asparges er sesongvare i Norge**, i praksis fra slutten av april til midten av juni, importert fra Tyskland og Nederland. Den fås hos Meny og hos grønnsakshandlere. Grønn asparges kan brukes, men trenger bare 3–4 minutter og skal ikke skrelles – da er det en annen rett. Se [ovnsbakt laks med grønn asparges (SJ9)](#sj9-ovnsbakt-laks-med-grønn-asparges) og [aspargespai (nr. 110)](#110-aspargespai-med-fersk-geitost).
 - **Laken kan gjenbrukes.** Sil den og bruk den som base i en suppe eller risotto – den er full av aspargessmak. *(Lagt til.)*
 
 ---
@@ -8163,7 +8163,7 @@ Ris ristet i kyllingfettet, kokt i kokosmelk med gul karripasta, med kyllingen l
 - **La risen dryppe godt av etter skyllingen.** Punkt 1 ber deg skylle til vannet er klart, punkt 3 ber deg riste risen tørr – det henger ikke sammen med mindre du siler den skikkelig først. Våt ris damper i pannen i stedet for å ristes. *(Presisering lagt til.)*
 - **Ikke rør i risen etter at lokket er på.** Kilden sier det ikke, men omrøring frigjør stivelse og gir grøtaktig ris. La den være i fred de 15 minuttene.
 - **La retten hvile 5–10 minutter med lokket på etter at platen er skrudd av.** Da fordeler fuktigheten seg, og risen blir jevn i stedet for våt i bunnen og tørr på toppen. *(Lagt til.)*
-- **«Kokosflan» er en skrivefeil for kokosflarn** – altså kokosflak eller kokoschips. De fås i norske butikker og helsekost. Rist dem lett i tørr panne før bruk, så får de nøttesmak. *(Presisering lagt til.)*
+- **«Kokosflan» i kilden er en skrivefeil for kokosflak**, også solgt som kokoschips. De fås i norske butikker og helsekost. Rist dem lett i tørr panne før bruk, så får de nøttesmak. *(Presisering lagt til.)*
 - **Limen brukes delt.** Skallet går i riskokingen, saften i toppingen. Kilden oppgir bare «1 lime» uten å forklare det. *(Presisering lagt til.)*
 - **Kjernetemperatur 75 °C.** Kyllingen ligger oppå risen og dampes ferdig – den blir ikke sprø, og skal ikke være det her. Er lårfiletene tykke, gi dem et par minutter ekstra i punkt 2.
 - **Gul karripasta varierer mye i salt og styrke** mellom merker. Thailandske pastaer som Mae Ploy og Maesri er kraftigere enn europeiske. Smak på blandingen i punkt 4 før du salter i det hele tatt – ofte trenger retten ikke mer salt.
@@ -8215,7 +8215,7 @@ Kyllinglår marinert i østerssaus og shaoxingvin, vendt i maisenna og stekt spr
 
 ### Notater
 
-- **Å trekke kjelen av platen før honningen går i, er det som får sausen til å fungere.** Honning brenner seg raskt og blir bitter, og hvitløken er allerede på grensen etter to minutter. Restvarmen er nok til å løse alt sammen. Ikke frist til å «koke inn» sausen – den skal ikke kokes i det hele tatt. *(Verdt å merke seg.)*
+- **Å trekke kjelen av platen før honningen går i, er det som får sausen til å fungere.** Honning brenner seg raskt og blir bitter, og hvitløken er allerede på grensen etter to minutter. Restvarmen er nok til å løse alt sammen. Ikke la deg friste til å «koke inn» sausen – den skal ikke kokes i det hele tatt. *(Verdt å merke seg.)*
 - **Et helt hvitløkshode i sausen er mye, og det er meningen.** Det tilsvarer 10–12 fedd, i tillegg til de 2 ss i marinaden – til sammen bruker retten omtrent to hoder. Er det for mye, halver, men da mister sausen sin karakter.
 - **Sausen ødelegger sprøheten i løpet av minutter.** Dette er den innebygde konflikten i alle retter av denne typen. Vend kyllingen i sausen helt til slutt, rett før servering – eller enda bedre: skjær opp kyllingen, legg den på risen og hell sausen over på tallerkenen. Da beholder du begge deler. *(Lagt til.)*
 - **Kyllinglår med skinn og uten bein er sjelden vare i Norge.** Ferskvaredisken kan beine ut lår for deg. Uten skinn fungerer det også – da blir paneringen den sprø delen. Se samme problem i [nr. 2](#2-honning--sitron--og-hvitløkskylling).
@@ -8224,7 +8224,7 @@ Kyllinglår marinert i østerssaus og shaoxingvin, vendt i maisenna og stekt spr
 - **Ingen salt noe sted, og det er riktig.** Soyasaus og østerssaus står for saltet i marinaden, og sausen har 3 ss soya til. Ikke tilsett mer.
 - **Shaoxingvin** fås i asiatiske butikker på Grønland og Tøyen. Tørr sherry er kildens eget alternativ og fungerer godt.
 - **Risen står oppført under marinaden**, som er en formateringsfeil i kilden – den hører til servering. Mengde er ikke oppgitt; regn 130 g tørr jasminris til to porsjoner. *(Avvik notert.)*
-- **Sammenlign med de tre andre honningkyllingene i samlingen:** [honning-, sitron- og hvitløkskylling (nr. 2)](#2-honning--sitron--og-hvitløkskylling) bruker sitronskall og paprika og lager sausen i samme panne, [honningkylling (nr. 31)](#31-honningkylling) er frityrstekt takeaway-stil, og [honning- og hvitløkskylling – kokkelise sin versjon (nr. 129)](#129-honning--og-hvitløkskylling--kokkelise-sin-versjon) bruker lår med bein og ovnsbakt brokkolini. Denne er den mest hvitløksdrevne av dem, og den eneste der sausen ikke kokes. Se også [sprø kylling i sweet chili-saus (nr. 125)](#125-sprø-kylling-i-sweet-chili-saus).
+- **Sammenlign med de andre honningkyllingene:** [honning-, sitron- og hvitløkskylling (nr. 2)](#2-honning--sitron--og-hvitløkskylling) bruker sitronskall og paprika og lager sausen i samme panne, [honningkylling (nr. 31)](#31-honningkylling) er frityrstekt takeaway-stil, og [honning- og hvitløkskylling – kokkelise sin versjon (nr. 129)](#129-honning--og-hvitløkskylling--kokkelise-sin-versjon) bruker lår med bein og ovnsbakt brokkolini. Denne er den mest hvitløksdrevne av dem, og den eneste der sausen ikke kokes. Se også [sprø kylling i sweet chili-saus (nr. 125)](#125-sprø-kylling-i-sweet-chili-saus).
 
 ---
 
