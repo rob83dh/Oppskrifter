@@ -13901,7 +13901,7 @@ Forkokte rødbeter med tomat, ingefær og vineddik. Serveres med en dillrømme r
 - 1–2 gul løk eller salatløk
 - 3–4 middels store tomater
 - 2 ss olivenolje
-- ½ dl vineddik
+- 3 ss vineddik
 - 1 ss revet frisk ingefær
 - 1 ts sukker
 - 3 dl grønnsakbuljong eller vann
@@ -13930,7 +13930,7 @@ Forkokte rødbeter med tomat, ingefær og vineddik. Serveres med en dillrømme r
 
 - **Rødbetene er allerede kokt når de går i.** De førti minuttene er til for at smakene skal møtes, ikke for å koke rotgrønnsaken mør. Bruker du rå rødbeter, må du regne med minst en time ekstra.
 - **Tomatkjernene siles og saften brukes.** Der de fleste oppskrifter kaster dem, er de her en gratis syrlig væske som går rett i suppen. Samme grep som i [T92](#t92-hellstrøms-vierge-saus).
-- **En halv desiliter vineddik er mye**, og det er poenget. Rødbet er svært søtt; uten kraftig syre blir suppen kvalmende. Sukkeret balanserer den andre veien.
+- **Tre spiseskjeer vineddik er mye**, og det er poenget. Rødbet er svært søtt; uten kraftig syre blir suppen kvalmende. Sukkeret balanserer den andre veien.
 - **Ingefær i borsjtsj-familien** er kildens eget avvik og trekker suppen bort fra det østeuropeiske mot noe friskere.
 - **Rømmen røres for seg, ikke i suppen.** Blandet inn ville den blitt rosa og forsvunnet; på toppen er den både syre og kontrast.
 - **Beslektet:** [T74](#t74-hellstrøms-rødkål-med-fiken) bruker samme sur-søte balanse i en rød grønnsak.
@@ -13948,9 +13948,9 @@ To hundre gram parmesan i to omganger, kokt ut i melk, fløte og kyllingkraft.
 - 200 g parmesan
 - 1 gul løk eller salatløk
 - 2–3 ss olivenolje
-- ¼ l helmelk
-- ¼ l kremfløte
-- ½ l kyllingkraft, eller vann med buljongterning
+- 2,5 dl helmelk
+- 2,5 dl kremfløte
+- 5 dl kyllingkraft, eller vann med buljongterning
 - 1 laurbærblad
 - 1 liten bouquet garni av frisk timian, rosmarin og estragon
 
@@ -14024,10 +14024,10 @@ Fem ingredienser. En fjerdedel av tomatene tørkes i ovnen og brukes som garnity
 
 ### Ingredienser
 
-- 1 l cherrytomater eller andre modne tomater
+- ca. 700 g cherrytomater eller andre modne tomater
 - 8–10 hvitløkfedd
-- 1 l kyllingkraft, grønnsakkraft eller vann
-- ½ dl olivenolje
+- 1 liter kyllingkraft, grønnsakskraft eller vann
+- 3 ss olivenolje
 - En klype salt
 
 ### Fremgangsmåte
@@ -14061,7 +14061,7 @@ To skiver skjæres av blomkålen og stekes gyllenbrune som topping. Resten kokes
 - 100 g revet fersk parmesan
 - 3 dl helmelk
 - 1 dl kremfløte
-- ½ l grønnsakbuljong eller vann
+- 5 dl grønnsaksbuljong eller vann
 - 2–3 ss olivenolje
 - 1–2 ss smør
 - Salt
@@ -14143,7 +14143,7 @@ Et halvt kilo sopp i to sorter. En fjerdedel stekes for seg som garnityr, resten
 - 2 salatløk
 - 2 sjalottløk
 - 1 dl olivenolje
-- 1 l grønnsakbuljong
+- 1 liter grønnsaksbuljong
 - Saften fra 1 sitron
 - Gressløk
 - Salt
@@ -14229,7 +14229,7 @@ Fiskebuljong jevnet med melk og mel ristet sammen i et syltetøyglass, med laks 
 - 2 ss hvetemel
 - 200 g laks eller annen rød fisk
 - 200 g torskefilet eller annen hvit fisk
-- 1 dl frosne erter
+- ca. 70 g frosne erter
 - 1 dl kremfløte
 - ½ ts salt
 - ½ ts pepper
@@ -14262,12 +14262,12 @@ Hummeren forvelles to minutter og kjøles brått i isvann, kjøttet plukkes ut o
 ### Ingredienser
 
 - 2 hummer
-- 15 g olje, til steking *(mengde lagt til.)*
+- 1 ss olje til steking *(Lagt til.)*
 - 2 ss tomatpuré
 - 2 sjalottløk
 - 2 fedd hvitløk
 - 1 gulrot
-- 0,5 dl cognac
+- 3 ss cognac
 - 2 dl hvitvin
 - 5 dl vann
 - 5 dl kremfløte
@@ -14275,7 +14275,7 @@ Hummeren forvelles to minutter og kjøles brått i isvann, kjøttet plukkes ut o
 - Sitronsaft
 - Salt og pepper
 - Fersk estragon
-- 15 g smør, til steking av hummerkjøttet *(mengde lagt til.)*
+- 1 ss smør til steking av hummerkjøttet *(Lagt til.)*
 
 ### Fremgangsmåte
 
