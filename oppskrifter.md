@@ -4716,7 +4716,7 @@ Kinesisk takeaway-stekt ris i sin enkleste form: dagsgammel ris, egg, løk og er
 
 ### Ingredienser
 
-- 2 cups dagsgammel kokt hvit ris, helst langkornet — ca. 330 g kokt, tilsvarer ca. 130 g tørr ris *(kokt, ikke rå – se notat)*
+- 330 g dagsgammel kokt hvit ris, helst langkornet — ca. 130 g tørr ris *(Omregnet fra 2 cups kokt ris – se notat.)*
 - 2 store egg, sammenvispet
 - ½ liten gul løk, i små terninger
 - 2 ss frosne erter og gulrøtter, tint *(valgfritt)*
@@ -4746,8 +4746,8 @@ Kinesisk takeaway-stekt ris i sin enkleste form: dagsgammel ris, egg, løk og er
 - **Kortkornet eller klissete ris må forstekes i olje.** Varm et par spiseskjeer olje på middels varme, fres risen i 1–2 minutter til kornene er dekket av olje og så vidt begynner å bli varme, og skyv den så til siden mens du freser grønnsakene i den andre halvdelen av pannen. Kilden legger dette som eget tips, og det er det grepet som redder norsk rundkornet ris.
 - **Oljemengden er høyere enn du tror.** 2 ss til eggene, litt til grønnsakene og 1 ss til når risen går i – altså 3–4 ss for én porsjon. Det er nettopp dette som gir takeaway-smaken, men det er verdt å vite hva man får.
 - **Ingen hvitløk, og det er med vilje.** En leser spurte, og forfatteren svarer at kinesisk takeaway-eggestekt ris ikke inneholder hvitløk. Skal du ha det, er det en annen rett.
-- **Ingen salt heller.** All saltingen kommer fra soyasaus og østerssaus. Merk likevel at kildens egen næringsberegning viser 1667 mg natrium for én porsjon – det er mye. Bruk lettsaltet soyasaus, som kilden anbefaler, eller ta ned til 1½ ss vanlig.
-- **Erstatninger for østerssaus**, alle fra kilden: ½ ss søt soyasaus pluss 1½ ss vanlig soyasaus; eller 2 ss soyasaus totalt og et par klyper sukker; eller soppbasert «østerssaus», som er vegansk. Samlingen omtaler den siste også i [nr. 11](#11-dumplings-i-spicy-peanøtt-udonsuppe).
+- **Ingen salt heller.** All saltingen kommer fra soyasaus og østerssaus. Merk likevel at kildens egen næringsberegning viser 1667 mg natrium for én porsjon – det er mye. Bruk lettsaltet soyasaus, som kilden anbefaler, eller ta ned til 1 ss + 1½ ts vanlig.
+- **Erstatninger for østerssaus**, alle fra kilden: 1½ ts søt soyasaus pluss 1 ss + 1½ ts vanlig soyasaus; eller 2 ss soyasaus totalt og et par klyper sukker; eller soppbasert «østerssaus», som er vegansk. Samlingen omtaler den siste også i [nr. 11](#11-dumplings-i-spicy-peanøtt-udonsuppe).
 - **Shaoxingvinen kan sløyfes helt**, sier forfatteren i kommentarfeltet – den gjør risen mer aromatisk, men er ikke nødvendig. Trenger du et glutenfritt alternativ, foreslår hun tørr sherry fortynnet med like deler vann.
 - **Oljen står feil i kildens ingrediensliste**, oppført som «oil as needed for garnish». Den brukes til steking, ikke pynt.
 - **Trinnummereringen i bloggens fremgangsmåte hopper over 6** og går rett fra 5 til 7. Ingen steg mangler – det er bare en nummereringsfeil.
@@ -4768,12 +4768,12 @@ Kjøttdeigsalat med fiskesaus, limesaft, sjalottløk, friske urter og ristet ris
 **Salaten**
 - 450 g kyllingkjøttdeig, eller annen kjøttdeig *(se notat)*
 - 1 ts chiliflak, mer eller mindre etter smak
-- 1½ ss fiskesaus
-- 2½ ss limesaft, saften av 1–1½ lime
+- 1 ss + 1½ ts fiskesaus
+- 2 ss + 1½ ts limesaft, saften av 1–1½ lime
 - 1 ss ristet rismel *(kjøpt eller hjemmelaget – se under)*
 - 1 sjalottløk, skivet
 - 2 vårløk, skivet
-- ½ dl koriander, grovhakket
+- 10 g koriander, grovhakket
 - 2 ss mynteblader
 - 2 ss vann til steking *(lagt til – se notat)*
 
@@ -4825,7 +4825,7 @@ Kyllinglår marinert i sake, soya og ingefær, vendt i potetmel og friturstekt t
 ### Ingredienser
 
 - 450 g kyllinglårfilet uten skinn, i biter på 2,5–5 cm
-- 60 ml sake
+- 4 ss sake
 - 2 ss lys soyasaus, gjerne lettsaltet
 - 2 ts revet ingefær
 - 1 ts salt
@@ -4856,7 +4856,7 @@ Kyllinglår marinert i sake, soya og ingefær, vendt i potetmel og friturstekt t
 - **Potetmel er nøyaktig det du skal ha, og det heter potetmel i norske butikker.** Kilden skriver *potato starch* og fraråder uttrykkelig maisenna, som gir en hard, knasende skorpe i stedet for den lette og sprø. Her er du heldig: norsk potetmel er samme vare som japansk katakuriko, og finnes i enhver dagligvare. Ikke bytt til maisstivelse.
 - **Den doble stekingen er ikke valgfri.** Første runde på lav temperatur steker kyllingen gjennom, hvilen lar restvarmen jevne seg ut og fuktighet fordampe fra overflaten, og den korte runden på høy varme gir skorpen. Hopper du over den andre, får du bleik og bløt karaage.
 - **La marinaden dryppe av før panéringen.** Kilden er tydelig: for våt kylling gjør potetmelet klumpete, og løst mel som faller av, gjør frityroljen grumsete og kortlivet.
-- **Sake er ikke bare smak.** Kilden forklarer at den tar bort den rå kyllinglukten og holder kjøttet saftig gjennom stekingen. Har du den ikke: 1 del shaoxingvin til 3 deler vann, altså 1 ss shaoxing og 3 ss vann per ¼ cup sake. Alkoholfritt går også – bare vann – men da mister du en del av effekten.
+- **Sake er ikke bare smak.** Kilden forklarer at den tar bort den rå kyllinglukten og holder kjøttet saftig gjennom stekingen. Har du den ikke: 1 del shaoxingvin til 3 deler vann, altså 1 ss shaoxing og 3 ss vann i stedet for de 4 ss sake. Alkoholfritt går også – bare vann – men da mister du en del av effekten.
 - **Kyllinglår, ikke bryst.** Låret tåler frityren og blir saftig; bryst blir tørt. Skjær bitene like store, ellers blir de ferdige til ulik tid.
 - **Karaage er ikke katsu.** Forskjellen, som kilden forklarer godt: karaage er protein vendt i mel eller stivelse og friturstekt, mens katsu er en flat kotelett panert i egg og panko. Samlingen har begge – se [tonkatsu](#8-tonkatsu) og [katsu curry](#56-katsu-curry).
 - **Kewpie-majones er lagd på bare eggeplommer**, som majonesen i [T122](#t122-majones). Vil du komme nær den hjemme, bytt sitronsaften der mot riseddik. Ferdigkjøpt kewpie fås i asiatiske butikker, det samme gjelder shichimi togarashi.
@@ -4896,7 +4896,7 @@ Takeaway-klassikeren *jiè lán niú*. Tynt skåret flankestek marineres med nat
 - 450 g brokkoli i buketter
 - 1 ss finhakket hvitløk (ca. 2 fedd)
 - 1 ss finhakket ingefær (ca. 2,5 cm)
-- 25 g nøytral olje til woking *(mengde lagt til.)*
+- 3 ss nøytral olje til woking *(Lagt til.)*
 - Ristede sesamfrø *(valgfritt)*
 
 ### Fremgangsmåte
@@ -4919,7 +4919,7 @@ Takeaway-klassikeren *jiè lán niú*. Tynt skåret flankestek marineres med nat
 - **Kilden motsier seg selv om soyamengden.** Oppskriftskortet sier ½ cup, altså 8 ss, mens forfatteren i et svar til en leser skriver at «oppskriften bruker 6 ss soyasaus». Sannsynligvis er oppskriften justert etter at svaret ble skrevet. Kortets mengde står her, men 6 ss er verdt å prøve hvis du vil ha den mildere.
 - **Brokkolitiden spriker.** Bloggteksten sier 2–3 minutter, oppskriftskortet 30 sekunder til 3 minutter – og forfatteren opplyser at hun selv koker i **ca. 1 minutt**, fordi hun vil ha brokkolien sprø. Ett minutt er et godt utgangspunkt.
 - **Ikke bytt shaoxingvin med riseddik.** Forfatteren er uvanlig tydelig på dette i kommentarfeltet: eddik er ren syre og hører ikke hjemme i marinaden. Tørr sherry fortynnet med like deler vann er det gode alternativet, og du kan også sløyfe vinen helt og bruke litt mer vann – da blir retten mindre aromatisk, men fortsatt god.
-- **Fersk ingefær er å foretrekke**, men skal du bruke pulver, oppgir forfatteren ¼–⅓ ts malt ingefær per spiseskje fersk. Maisenna kan byttes med arrowrot i samme mengde.
+- **Fersk ingefær er å foretrekke**, men skal du bruke pulver, oppgir forfatteren ¼ ts malt ingefær per spiseskje fersk. Maisenna kan byttes med arrowrot i samme mengde.
 - **Sausen kan justeres.** Vil du ha den tykkere, øk maisennaen med 1–2 ts; tynnere, reduser tilsvarende. Blir den for tykk i pannen, spe med litt varmt vann.
 - **Flashstekingen er verdt bryet** hvis du ikke skyr litt ekstra olje: kjøttet blir ferdig på 15–30 sekunder og forblir saftig. Bruker du den metoden, sett oljen til side og bruk en ren panne til resten – eller vær svært forsiktig med å helle av den varme oljen.
 - **Trinnummereringen i bloggteksten har to punkt 5.** Ingen steg mangler.
@@ -4948,8 +4948,8 @@ Takeaway-wok med *velvetet* kyllingbryst og forvellede grønnsaker i en tykk, bl
 
 **Woksaus**
 - 1,8 dl vann
-- 2½ ss vanlig soyasaus *(se notat)*
-- 1½ ss sukker
+- 2 ss + 1½ ts vanlig soyasaus *(se notat)*
+- 1 ss + 1½ ts sukker
 - 1 ts kyllingbuljongpulver *(valgfritt)*
 - ¼ ts mørk soyasaus *(valgfritt, for farge)*
 - 2 ss maisenna
@@ -4959,7 +4959,7 @@ Takeaway-wok med *velvetet* kyllingbryst og forvellede grønnsaker i en tykk, bl
 - 450 g blandede grønnsaker etter eget valg, i passende biter *(kilden bruker brokkoli, gulrot, paprika, squash, sopp og sukkererter)*
 - 1 ss finhakket hvitløk (2–3 fedd)
 - 1 ss finhakket ingefær (ca. 2,5 cm)
-- 20 g nøytral olje til steking *(mengde lagt til.)*
+- 3 ss nøytral olje til steking *(Lagt til.)*
 
 ### Fremgangsmåte
 
@@ -5034,7 +5034,7 @@ Laks vendt i en marinade av miso, soya, mirin og hvitløk, og stekt i airfryer e
 - **Kilden motsier seg selv om ovnstemperaturen.** Den illustrerte fremgangsmåten sier at laksen skal ut ved **135 °F (57 °C)** og etterstekes til 140 °F (60 °C) i ovnsvarianten, mens oppskriftskortet sier **125 °F (52 °C)** og 130 °F (54 °C) for samme metode. Airfryer-varianten sier 52 °C begge steder. Kortets tall er det riktige hvis du vil ha saftig laks; 57 °C gir gjennomstekt fisk. Kilden forklarer selv skillet: 52 °C for «akkurat ferdig», 57 °C hvis du foretrekker godt stekt.
 - **Temperaturene er omregnet fra fahrenheit:** 400 °F = 200 °C, 125 °F = 52 °C, 130 °F = 54 °C, 135 °F = 57 °C, 140 °F = 60 °C. Kilden nevner også at amerikanske FDA anbefaler 145 °F (63 °C), men skriver rett ut at laksen da er godt overstekt. Dette stemmer med rådet i [nr. 75](#75-pannestekt-laks-med-tzatziki-og-ris-lavfodmap) og [nr. 83](#83-honningglasert-laks-med-hvitløk): 48–52 °C i kjernen.
 - **Marinaden må kokes opp før den brukes som saus.** Den har vært i kontakt med rå fisk, og kilden er tydelig på at den skal opp i full koking. Det er ikke en smaksinstruksjon.
-- **Mengden gjenværende marinade er optimistisk anslått.** Kilden regner med ca. ¼ cup (60 ml) til overs, men det meste av de knappe 8 spiseskjeene fester seg til fisken. Regn med mindre, og sett den til side i en liten kjele der den ikke koker bort.
+- **Mengden gjenværende marinade er optimistisk anslått.** Kilden regner med ca. 4 ss til overs, men det meste av de knappe 8 spiseskjeene fester seg til fisken. Regn med mindre, og sett den til side i en liten kjele der den ikke koker bort.
 - **Hvit miso (shiro) er anbefalt.** Jo mørkere misoen er, desto saltere – rød miso fungerer, men da må mengden ned. Retten er uansett salt: kildens beregning viser 1770 mg natrium per porsjon, fra miso og soya til sammen. Bruk lettsaltet soyasaus, som kilden ber om.
 - **225 g laks per person er en stor porsjon** etter norsk standard, der 150–180 g er vanlig. Bruker du mindre fileter, kortes steketiden tilsvarende – styr etter kjernetemperatur, ikke klokka.
 - **Mirin kan byttes** med 3 deler sake til 1 del sukker – altså 1 ss sake og 1 ts sukker per spiseskje mirin. Alkoholfritt alternativ er *honteri*, en alkoholfri mirin. Merk at mye av det som selges som mirin i vanlige butikker er «aji-mirin», som allerede er tilsatt sukker og sirup.
@@ -5056,18 +5056,18 @@ Kyllinglår i lett maisennarøre, friturstekt to ganger og vendt i en søt, blan
 
 **Kyllingen**
 - 900 g kyllinglårfilet uten skinn, renset og i biter på ca. 2,5 cm
-- 60 ml vann
+- 4 ss vann
 - ½ ts salt
 - ½ ts natron
 - 2 store egg
-- 1,2 dl maisenna (ca. 60 g)
+- 60 g maisenna
 - 1 ss nøytral olje
 - Ristede sesamfrø til pynt
 
 **Sausen**
 - 1,2 dl ketchup
 - 1,2 dl vann
-- 1,2 dl sukker (ca. 100 g) *(se notat)*
+- 100 g sukker *(se notat)*
 - 2 ss hvit eddik *(se notat om styrke)*
 - 1 ss maisenna
 - 1 ss lettsaltet soyasaus
@@ -5089,8 +5089,8 @@ Kyllinglår i lett maisennarøre, friturstekt to ganger og vendt i en søt, blan
 
 ### Notater
 
-- **Sausen er svært søt, og det er meningen.** 1,2 dl sukker pluss 1,2 dl ketchup gir 31,6 g sukker per porsjon etter kildens egen beregning. Det er slik amerikansk takeaway-sesamkylling smaker, men det er verdt å vite før du lager den. Kilden sier selv at mengden kan justeres – ned til 0,8 dl gir en tydelig mindre søt saus uten at balansen ryker, siden eddiken da får mer plass.
-- **Norsk husholdningseddik er sterkere enn amerikansk.** Kilden bruker white vinegar på 5 %; norsk eddik er som regel 7 %. 2 ss av den norske gir altså rundt 40 % mer syre. Bruk 1½ ss, eller riseddik, som ligger nærmere i styrke.
+- **Sausen er svært søt, og det er meningen.** 100 g sukker pluss 1,2 dl ketchup gir 31,6 g sukker per porsjon etter kildens egen beregning. Det er slik amerikansk takeaway-sesamkylling smaker, men det er verdt å vite før du lager den. Kilden sier selv at mengden kan justeres – ned til ca. 70 g gir en tydelig mindre søt saus uten at balansen ryker, siden eddiken da får mer plass.
+- **Norsk husholdningseddik er sterkere enn amerikansk.** Kilden bruker white vinegar på 5 %; norsk eddik er som regel 7 %. 2 ss av den norske gir altså rundt 40 % mer syre. Bruk 1 ss + 1½ ts, eller riseddik, som ligger nærmere i styrke.
 - **Ingen sesamolje, og det er bevisst.** En leser spurte om det manglet, og forfatteren svarer at kinesisk takeaway-sesamkylling ikke bruker sesamolje – sesamsmaken kommer fra frøene på toppen. Vil du ha den likevel, går det fint, men da er det ikke lenger samme rett.
 - **Sausmengden er knapp.** Flere lesere melder at ikke alle bitene ble dekket. Doble gjerne sausen hvis du liker retten rikelig sausbelagt – kylling og saus er uansett skilt til siste steg.
 - **Natron og vann er samme grep som i** [nr. 87](#87-beef-and-broccoli--oksekjøtt-i-wok-med-brokkoli) **og** [nr. 88](#88-kyllingwok-med-blandede-grønnsaker): natronet mørner og hjelper kjøttet å holde på vannet. Her er det egg og maisenna i tillegg, så det blir en røre og ikke bare et belegg.
