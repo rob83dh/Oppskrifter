@@ -22915,7 +22915,7 @@ Vaniljekrem bakt i vannbad og toppet med et lag brent sukker. Kremen skal skjelv
 - **Lave, vide former er riktig.** Dype former gir feil forhold mellom knasende lokk og krem.
 - **Grillelementet i ovnen fungerer** hvis du ikke har brenner, men kremen blir lunken. Sett formene i isvann mens du griller.
 - **Holdbarhet:** kremen 3 døgn kjøleskap uten sukkerlokk.
-- **Beslektet:** [D16](#d16-crème-caramel) bruker samme krem i motsatt rekkefølge.
+- **Beslektet:** [crème caramel (D16)](#d16-crème-caramel) bruker samme krem i motsatt rekkefølge.
 
 ---
 
@@ -22958,7 +22958,7 @@ Karamell i bunnen av formen, eggekrem over, bakt i vannbad og vendt ut på fatet
 - **Egg og plommer sammen** gir riktig fasthet: bare egg blir gummiaktig, bare plommer blir for løs til å vendes ut.
 - **Formene skal ikke smøres.** Karamellen gjør jobben.
 - **Holdbarhet:** 3 døgn kjøleskap i formen. Vend ut først ved servering.
-- **Beslektet:** [D15](#d15-crème-brûlée) er samme krem med karamellen på toppen i stedet for i bunnen, og [T123](#t123-saltkaramellsaus) er karamellen som egen komponent.
+- **Beslektet:** [crème brûlée (D15)](#d15-crème-brûlée) er samme krem med karamellen på toppen i stedet for i bunnen, og [saltkaramellsaus (T123)](#t123-saltkaramellsaus) er karamellen som egen komponent.
 
 ---
 
@@ -22970,7 +22970,7 @@ Epler karamellisert i pannen med butterdeig lagt over, bakt i ovn og vendt opp n
 
 ### Ingredienser
 
-- 1,2 kg faste epler *(gravenstein eller cox)*, skrelt, delt i fire og kjernet
+- 1,2 kg faste epler *(Gravenstein eller Cox)*, skrelt, delt i fire og kjernet
 - 150 g sukker
 - 80 g smør, i terninger
 - 1 vaniljestang, frøene
@@ -22992,12 +22992,12 @@ Epler karamellisert i pannen med butterdeig lagt over, bakt i ovn og vendt opp n
 ### Notater
 
 - **Fem minutters hvile, ikke mer.** Venter du, stivner karamellen og limer kaken fast i pannen. Venter du ikke, renner den kokende karamellen ut over kanten.
-- **Faste epler.** Melne sorter som norsk aroma faller helt sammen. Gravenstein, cox eller granny smith holder formen.
+- **Faste epler.** Melne sorter som Aroma faller helt sammen. Gravenstein, Cox eller Granny Smith holder formen.
 - **Pakk eplene tett.** De krymper med en tredjedel, og løs pakking gir hull i den ferdige kaken.
 - **Støpejern eller annen ovnsfast panne.** Den skal fra platetopp til ovn uten å byttes.
 - **Butterdeigen brettes ned mellom epler og panne.** Det danner en kant som holder karamellen inne når kaken vendes.
 - **Holdbarhet:** best samme dag, lunken. Kan varmes 10 minutter på 180 °C dagen etter.
-- **Beslektet:** [T123](#t123-saltkaramellsaus) bruker samme karamellteknikk.
+- **Beslektet:** [saltkaramellsaus (T123)](#t123-saltkaramellsaus) bruker samme karamellteknikk.
 
 ---
 
@@ -23029,12 +23029,12 @@ Tre ingredienser og ti minutters arbeid. Sitronsyren får fløten til å stivne 
 ### Notater
 
 - **Fløten må ha minst 35 % fett.** Med lettere fløte stivner den ikke. Det er fettet syren griper tak i.
-- **De tre minuttenes koking er nødvendige.** De fordamper akkurat nok væske til at forholdet blir riktig. Kokes den kortere, blir dessertene rennende.
+- **De tre minuttenes koking er nødvendige.** De fordamper akkurat nok væske til at forholdet blir riktig. Kokes den kortere, blir desserten rennende.
 - **Sitronsaften inn etter kokingen.** Kokes syren med, kan fløten skille seg.
 - **Forholdet er 6 dl fløte til 1,2 dl sitronsaft.** Det er omtrent én sitron per 2 dl fløte. Mindre syre gir ikke stivning.
 - **Dette er en rik dessert.** Små glass er riktig – 1 dl per person holder.
 - **Holdbarhet:** 3 døgn kjøleskap, dekket. Tåler ikke frysing.
-- **Beslektet:** [D4](#d4-pistasjpanna-cotta-med-rømme-og-blåbær) og [D20](#d20-panna-cotta-med-gelétopping) er samme sjanger med gelatin.
+- **Beslektet:** [pistasjpanna cotta (D4)](#d4-pistasjpanna-cotta-med-rømme-og-blåbær) og [panna cotta med gelétopping (D20)](#d20-panna-cotta-med-gelétopping) er samme sjanger med gelatin.
 
 ---
 
@@ -23054,7 +23054,7 @@ Noe mellom en pannekake og en eggestand, bakt over frukt. Fransk landkjøkken, l
 - 1 ss vaniljeekstrakt
 - 30 g smeltet smør, pluss til formen
 - En klype salt
-- Melis til drysning
+- Melis til dryssing
 
 ### Fremgangsmåte
 
@@ -23062,7 +23062,7 @@ Noe mellom en pannekake og en eggestand, bakt over frukt. Fransk landkjøkken, l
 2. **Fordel kirsebærene** i formen i ett lag.
 3. **Visp egg og sukker** sammen, og sikt inn melet og saltet.
 4. **Spe med melken** litt om gangen til røren er glatt, og rør inn vanilje og smeltet smør.
-5. **La røren hvile i 15 minutter** så melet svelle.
+5. **La røren hvile i 15 minutter**, så melet sveller.
 6. **Hell røren over bærene** og stek i **35–40 minutter**, til clafoutien er gyllen og oppblåst og en tannpirker kommer ren ut.
 7. **La den synke sammen** – det gjør den alltid – og server lunken med melis over.
 
@@ -23116,7 +23116,7 @@ Kokt fløte satt med gelatin, med et klart gelélokk over. Gelatinmengden avgjø
 - **Hell over en skje.** Da treffer ikke strålen overflaten direkte og lager ikke krater.
 - **Vil du vende den ut** av formen i stedet for å servere i glass, øk til 4 plater. Da tåler den å stå fritt.
 - **Holdbarhet:** 3 døgn kjøleskap. Tåler ikke frysing.
-- **Beslektet:** [D4](#d4-pistasjpanna-cotta-med-rømme-og-blåbær) er samlingens andre panna cotta, og [D18](#d18-lemon-posset) setter fløte uten gelatin.
+- **Beslektet:** [pistasjpanna cotta (D4)](#d4-pistasjpanna-cotta-med-rømme-og-blåbær) er en annen panna cotta, og [lemon posset (D18)](#d18-lemon-posset) setter fløte uten gelatin.
 
 ---
 
@@ -23124,7 +23124,7 @@ Kokt fløte satt med gelatin, med et klart gelélokk over. Gelatinmengden avgjø
 
 **Kilde:** Klassisk standardversjon · **Kjøkken:** Vestlig · **Tid:** 20 min + 3 timer i kjøleskap · **Porsjoner:** 6
 
-Kokt sjokoladekrem jevnet med maisenna, ikke bakt og ikke pisket. Den er tettere enn mousse og mykere enn fondant, og av samlingens sjokoladedesserter er den den eneste som lages på platetopp.
+Kokt sjokoladekrem jevnet med maisenna, ikke bakt og ikke pisket. Den er tettere enn mousse og mykere enn fondant, og lages på platetopp.
 
 ### Ingredienser
 
@@ -23156,7 +23156,7 @@ Kokt sjokoladekrem jevnet med maisenna, ikke bakt og ikke pisket. Den er tettere
 - **Silen fanger det som likevel klumpet seg.** Ti sekunders arbeid som redder konsistensen.
 - **Snerk eller ikke** er en smakssak. Uten plastfolie får du et fast lag på toppen som mange regner som halve poenget.
 - **Holdbarhet:** 4 døgn kjøleskap. Tåler ikke frysing.
-- **Beslektet:** [sjokoladefondant (D2)](#d2-sjokoladefondant), [mousse au chocolat (D6)](#d6-mousse-au-chocolat) og [saltkaramell- og sjokoladeterte (D9)](#d9-saltkaramell--og-sjokoladeterte) er samlingens andre mørke sjokoladedesserter.
+- **Beslektet:** [sjokoladefondant (D2)](#d2-sjokoladefondant), [mousse au chocolat (D6)](#d6-mousse-au-chocolat) og [saltkaramell- og sjokoladeterte (D9)](#d9-saltkaramell--og-sjokoladeterte) er andre mørke sjokoladedesserter.
 
 ---
 
@@ -23196,13 +23196,13 @@ Kjeksbunn, karamell, banan og krem. Navnet er banan og toffee slått sammen, og 
 
 ### Notater
 
-- **Boksene må være dekket av vann hele tiden.** En boks som blir liggende tørr, kan eksplodere. Dette er den eneste reelle faren i hele samlingen, og den er verdt å ta på alvor. Sett en tallerken over gryta og sjekk hver halvtime.
+- **Boksene må være dekket av vann hele tiden.** En boks som blir liggende tørr, kan eksplodere. Dette er en reell fare og verdt å ta på alvor. Sett en tallerken over gryten og sjekk hver halvtime.
 - **Ferdig kokt karamell finnes** som *dulce de leche* eller karamellisert kondensert melk på boks, og sparer deg de tre timene.
 - **Bananene skives sent.** De mørkner i løpet av en time. Er kaken laget på forhånd, legg dem på rett før kremen.
 - **Kremen skal være løst pisket.** Stivpisket krem blir tung og smørete ved siden av karamellen.
 - **Flaksaltet i karamellen** er ikke tradisjonelt, men to bokser kondensert melk er svært søtt, og saltet er det som gjør kaken spiselig i mer enn to munnfuller.
 - **Holdbarhet:** 2 døgn kjøleskap. Bunnen bløtner etter det.
-- **Beslektet:** [T123](#t123-saltkaramellsaus) er samlingens andre karamell, og [D12](#d12-ostekake-med-rabarbra-og-jordbær) bruker samme kjeksbunn.
+- **Beslektet:** [saltkaramellsaus (T123)](#t123-saltkaramellsaus) er en annen karamell, og [ostekake med rabarbra og jordbær (D12)](#d12-ostekake-med-rabarbra-og-jordbær) bruker samme kjeksbunn.
 
 ---
 
