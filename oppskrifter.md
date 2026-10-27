@@ -14811,7 +14811,7 @@ Grønne bønner som frityrsteker noen sekunder til skallet blemmer, og deretter 
 
 ### Notater
 
-- **Bønnene må være knusktørre før de går i oljen.** Vann i 190 gradig olje spruter voldsomt. Kilden ber deg tørke dem, men sier ikke hvorfor — dette er punktet der man brenner seg. Ta det bokstavelig, og senk dem forsiktig ned.
+- **Bønnene må være knusktørre før de går i oljen.** Vann i olje på 190 °C spruter voldsomt. Kilden ber deg tørke dem, men sier ikke hvorfor — dette er punktet der man brenner seg. Ta det bokstavelig, og senk dem forsiktig ned.
 - **«Fyll wokken halvveis med olje» er i overkant.** Oljen stiger når bønnene går i, og en full wok kan koke over på en varm plate. Fyll maks en tredjedel, og bruk en gryte med høye kanter framfor en vid wok hvis du er usikker.
 - **Enheten på hvitpepperen mangler i kilden** — det står bare «1/4 White pepper». ¼ ts er ført opp her, som passer til mengden bønner og MSG.
 - **Blemmene er hele poenget.** De 45 sekundene i varm olje får skallet til å sprekke litt, slik at bønnen blir myk inni og fortsatt har spenst. Steker du dem lenger, blir de slappe.
@@ -14853,7 +14853,7 @@ Hjemmelaget chili crisp med sprø hvitløk og sjalottløk. Løken frityrstekes f
 
 ### Notater
 
-- **Hell den varme oljen over i flere omganger.** 190 gradig olje over tørre chiliflak bruser voldsomt opp de første sekundene. Bruk en bolle som er minst dobbelt så stor som du tror du trenger, sett den i vasken, og hell sakte. Dette er punktet der det går galt.
+- **Hell den varme oljen over i flere omganger.** Olje på 190 °C over tørre chiliflak bruser voldsomt opp de første sekundene. Bruk en bolle som er minst dobbelt så stor som du tror du trenger, sett den i vasken, og hell sakte. Dette er punktet der det går galt.
 - **Løken skal tas opp mens den fortsatt er lyst gyllen.** Den etterstekes i egen restvarme og blir mørkere etter at den er silt fra. Venter du til den er brun i kjelen, smaker den brent i den ferdige oljen. Kilden sier «høy varme» — middels varme gir deg langt bedre kontroll, særlig fordi hvitløk brenner før sjalottløken er ferdig.
 - **Chiliflakene avgjør alt.** Sichuan-chiliflak er milde og aromatiske, ikke brennsterke. Bytter du til cayenne eller vanlige knuste chiliflak i samme mengde, får du noe helt annet og langt sterkere. Kilden oppgir 3,5 dl; vekten varierer mye med hvor grovt flakene er malt, så 120 g er et anslag.
 - **Soyasausen inneholder vann**, og det har to følger: den spruter når den treffer varm olje, så la blandingen falle til ro først, og den forkorter holdbarheten. **Oppbevar oljen i kjøleskap** og bruk den innen noen uker. Vil du ha en oljeblanding som står lenge i romtemperatur, sløyf soyasausen.
@@ -14918,7 +14918,7 @@ Koreansk allroundsaus til dumplings, pajeon, ris, grønnsaker og grillet kjøtt.
 - 1 fersk chili, finhakket
 - 3 ss soyasaus
 - 3 ss vann
-- 1 ss riseddik *(eller hvitvins- eller eplesidereddik)*
+- 1 ss riseddik *(eller hvitvins- eller eplecidereddik)*
 - 1 ss sukker
 - 1 ss sesamfrø
 - 1 ss sesamolje
@@ -14941,7 +14941,7 @@ Koreansk allroundsaus til dumplings, pajeon, ris, grønnsaker og grillet kjøtt.
 - **Sesamoljen sist**, og rør godt — den legger seg gjerne som en hinne på toppen. Rør om igjen før servering.
 - **Holdbarhet:** en uke i kjøleskap i tett glass. Hvitløken og vårløken er de ferskeste ingrediensene og avgjør hvor lenge den holder. Forfatteren har den alltid stående.
 - **Bruksområder:** dumplings, pajeon og andre koreanske pannekaker, dampet ris, kokte eller dampede grønnsaker, tofu og grillet kjøtt. Passer godt til [samgyeopsal](#50-samgyeopsal--koreansk-grillet-svinesideflesk-med-kimchiris) og til dumplingene i samlingen.
-- Samlingens andre dippsaus til dumplings. [Dumplingsausen](#t5-dumplingsaus) er kinesisk, med svart eddik og chiliolje, og har en malt, mørkere smak. Denne er friskere og tydelig koreansk med gochugaru og vårløk.
+- **Sammenlign med** [dumplingsausen (T5)](#t5-dumplingsaus), som er kinesisk, med svart eddik og chiliolje, og har en malt, mørkere smak. Denne er friskere og tydelig koreansk med gochugaru og vårløk.
 
 ---
 
@@ -14973,10 +14973,10 @@ Grunnpesto med basilikum, pinjekjerner, hvitløk og parmesan. Kjøres bevisst ik
 - **Morter er den opprinnelige metoden.** *Pesto* kommer av *pestare*, å knuse. Det tar lengre tid, men gir en tekstur maskinen ikke får til, og ingen varmeutvikling.
 - **«1 bunt basilikum» er upresist.** En norsk potte gir omtrent 50–60 g plukkede blader. Bruk bladene, ikke stilkene — motsatt av hva som gjelder i [oksragùen](#65-langtidskokt-oksragù) og [kokoskarrien](#44-kokoskarri-med-laks), der det nettopp er stilkene som brukes.
 - **20 g parmesan er beskjedent** for denne oljemengden. Tradisjonell pesto alla genovese bruker mer ost, og gjerne en blanding av parmigiano og pecorino. Vil du ha den fyldigere, øk osten framfor å kutte oljen.
-- **Rist pinjekjernene i tørr panne** til de er lyst gyllne. De brenner fort, så hold dem i bevegelse. Kilden oppgir dem som ristede, men sier ikke hvordan.
+- **Rist pinjekjernene i tørr panne** til de er lyst gylne. De brenner fort, så hold dem i bevegelse. Kilden oppgir dem som ristede, men sier ikke hvordan.
 - **Holdbarhet:** i tett glass i kjøleskap i omtrent en uke, med et lag olivenolje over overflaten så den ikke oksiderer. Kan fryses i isbitform og tas ut porsjonsvis.
 - **Valnøtter er et rimeligere bytte** for pinjekjerner, som i [pestognocchien](#66-kremet-pestognocchi).
-- Fra samme forfatter som [lasagnaen](#72-lasagna), [Tagliatelle al Ragù](#73-tagliatelle-al-ragù), [Andy Cooks sin Pad Kra Pao](#7-andy-cooks-sin-pad-kra-pao) og [Korean BBQ Lamb](#58-korean-bbq-lamb).
+- Fra samme forfatter som [lasagnen](#72-lasagna), [Tagliatelle al Ragù](#73-tagliatelle-al-ragù), [Andy Cooks sin Pad Kra Pao](#7-andy-cooks-sin-pad-kra-pao) og [Korean BBQ Lamb](#58-korean-bbq-lamb).
 
 ---
 
@@ -15039,16 +15039,16 @@ Ekte aioli, uten egg. Hvitløken støtes til en helt glatt pasta i morter, og ol
 
 ### Notater
 
-- **Dette er ikke hvitløksmajones.** Det som selges og serveres som aioli i norske butikker og på de fleste restauranter, er majones tilsatt hvitløk. Ekte aioli inneholder ikke egg i det hele tatt – emulsjonen holdes sammen av hvitløkens eget slimstoff alene. Begge deler er gode sauser, men de er ikke samme sak, og denne er markert skarpere og mer hvitløksdrevet. Vil du ha varianten med egg, rør revet hvitløk inn i [majonesen i G3](#t122-majones).
-- **Hvitløken må være helt glatt før noe annet skjer.** Gjenværende fibre og biter emulgerer ikke, og da får du olje med hvitløksbiter i stedet for en saus. Regn flere minutter i mortelen. Saltet er ikke bare smak her – det virker som slipemiddel og hjelper deg å bryte ned feddene.
+- **Dette er ikke hvitløksmajones.** Det som selges og serveres som aioli i norske butikker og på de fleste restauranter, er majones tilsatt hvitløk. Ekte aioli inneholder ikke egg i det hele tatt – emulsjonen holdes sammen av hvitløkens eget slimstoff alene. Begge deler er gode sauser, men de er ikke samme sak, og denne er markert skarpere og mer hvitløksdrevet. Vil du ha varianten med egg, rør revet hvitløk inn i [majonesen (T122)](#t122-majones).
+- **Hvitløken må være helt glatt før noe annet skjer.** Gjenværende fibre og biter emulgerer ikke, og da får du olje med hvitløksbiter i stedet for en saus. Regn flere minutter i morteren. Saltet er ikke bare smak her – det virker som slipemiddel og hjelper deg å bryte ned feddene.
 - **Rekkefølgen i kilden er den vanskeligste varianten.** Sitronsaften går i før oljen, altså før emulsjonen har tatt tak. Væske tidlig gjør en eggfri emulsjon mer ustabil, og tradisjonell allioli lages med hvitløk, salt og olje alene – syren kommer eventuelt til slutt. Følger du kilden og den ikke vil ta seg, er det nesten alltid dette som er årsaken. Hold da igjen halve sitronsaften til emulsjonen er etablert.
-- **Her er ekstra virgin olivenolje riktig valg**, i motsetning til i [majonesen](#t122-majones). Forskjellen er redskapet: en stavmikser sprenger olivenoljens polyfenoler og gjør den bitter, mens mortelen ikke gjør det. Bruk en olje du liker smaken av – den er halve retten.
+- **Her er ekstra virgin olivenolje riktig valg**, i motsetning til i [majonesen](#t122-majones). Forskjellen er redskapet: en stavmikser sprenger olivenoljens polyfenoler og gjør den bitter, mens morteren ikke gjør det. Bruk en olje du liker smaken av – den er halve retten.
 - **Fjern den grønne spiren i feddene.** Hvitløk som har begynt å spire er bitter og harsk, og i en saus med fire fedd og ingenting å gjemme seg bak, kjennes det godt. Del feddet på langs og pirk ut kimen. Fersk, fast hvitløk gir også mer av slimstoffet som får emulsjonen til å holde.
 - **75 g olje til 4 fedd er i overkant, men gjennomførbart.** Hvitløk alene emulgerer langt dårligere enn eggeplomme, og jo mer olje du presser inn, desto mer skjør blir sausen. Ta det virkelig langsomt med den første spiseskjeen.
 - **Slik redder du en skilt aioli:** støt et nytt fedd med salt i en ren morter, og spe den skilte blandingen ned i det, litt om gangen. Vil den fortsatt ikke, redder en eggeplomme den – men da har du hvitløksmajones, ikke aioli. *(Lagt til; kilden sier ingenting om hva du gjør når den skiller seg.)*
 - **Holdbarhet:** 2–3 dager i kjøleskap i tett glass. Emulsjonen er mindre stabil enn majones og kan skille seg – rør den sammen igjen. La den ikke stå framme i romtemperatur over tid; rå hvitløk i olje er ikke noe du vil oppbevare lunkent. *(Lagt til.)*
 - **Serveres til** grillet og stekt kjøtt, fisk, skalldyr, stekt potet, grønnsaker og som dipp til brød. Den tåler ikke oppvarming – rør den inn etter at retten er tatt av varmen, eller server den ved siden av.
-- **Tredje mortersaus fra samme forfatter** i samlingen, sammen med [pesto](#t13-pesto) og [chimichurri](#t14-chimichurri). Alle tre står og faller på at grunnstoffet – basilikum, persille, hvitløk – behandles riktig før noe annet tilsettes.
+- **Andre mortersauser fra samme forfatter:** [pesto](#t13-pesto) og [chimichurri](#t14-chimichurri). Alle tre står og faller på at grunnstoffet – basilikum, persille, hvitløk – behandles riktig før noe annet tilsettes.
 
 ---
 
@@ -15082,14 +15082,14 @@ Grønnsaksretten som alltid står på bordet i et kantonesisk familiemåltid. Bo
 ### Notater
 
 - **4 minutters forvelling forutsetter store hoder.** Kilden deler hvert hode i tre, altså snakker den om vanlig bok choy på 250–350 g stykket. I norske butikker er det som regel **baby bok choy** du får tak i, og den er ferdig på **1½–2 minutter** delt i to. Stikk en kniv i den tykkeste delen av stilken: den skal gi etter, men fortsatt ha bitt. Overkokt bok choy blir vasstrukken og henger ikke på sausen.
-- **Rennav grundig.** Vann som følger med fra kjelen fortynner sausen og hindrer maisennaen i å ta tak. Rist dørslaget hardt, gjerne to ganger.
+- **Renn av grundig.** Vann som følger med fra kjelen fortynner sausen og hindrer maisennaen i å ta tak. Rist dørslaget hardt, gjerne to ganger.
 - **Kald wok er hele poenget med hvitløken.** Legger du hvitløk i varm olje, svir kantene seg før midten er gjennomstekt. Ved å starte kaldt og på middels lav varme, tørker den jevnt ut og blir sprø helt gjennom. Ta den opp **like før** den ser ferdig ut – den fortsetter å mørkne på tørkepapiret, og brent hvitløk er bittert.
 - **Hvitløksoljen er ikke søl, den er en ingrediens.** Den blir igjen i wokken og gir sausen bunn. Ikke tørk ut wokken mellom steg 2 og 4.
 - **«Lys soyasaus» er den kinesiske typen** – tynn, salt og lys i fargen, ikke å forveksle med japansk lys soya eller med «light» i betydningen redusert salt. Den er saltere enn mørk soyasaus, som først og fremst gir farge.
 - **Erstatninger:** tørr sherry, sake eller mirin for shaoxingvin, slik samlingen ellers noterer i [nr. 7](#7-andy-cooks-sin-pad-kra-pao). Vegetarisk østerssaus finnes som soppsaus (*mushroom sauce*) i asiatiske butikker – se notatet i [nr. 11](#11-dumplings-i-spicy-peanøtt-udonsuppe).
 - **Peanøttolje kan byttes.** Her stekes hvitløken på middels lav varme, så røykpunktet betyr lite. Raps- eller solsikkeolje gjør samme nytte.
 - **Porsjonsangivelsen forutsetter et delt bord.** Kilden presiserer selv at seks porsjoner gjelder når retten er én av flere på bordet. Som eneste grønnsak til to personer er dette rikelig, men ikke seks middager.
-- **Samlingens andre bok choy-oppføring**, [T2](#t2-hvitløks-bok-choy), bruker motsatt teknikk: rå bok choy woket på sterk varme til all væske er kokt bort, uten saus. Den blir tørrere og mer brent i kantene; denne blir blank og saftig. Erstatningsgrønnsakene som står der – choy sum, yu choy, gai lan og kinakål – fungerer like godt her, men juster forvellingstiden etter tykkelsen på stilkene.
+- **Sammenlign med** [T2](#t2-hvitløks-bok-choy), som bruker motsatt teknikk: rå bok choy woket på sterk varme til all væske er kokt bort, uten saus. Den blir tørrere og mer brent i kantene; denne blir blank og saftig. Erstatningsgrønnsakene som står der – choy sum, yu choy, gai lan og kinakål – fungerer like godt her, men juster forvellingstiden etter tykkelsen på stilkene.
 
 ---
 
@@ -15124,14 +15124,14 @@ Tykke potetskiver som først brunes hardt i panne, bastes i skummende smør med 
 - **Kilden sier aldri at potetene skal skrelles.** Steg 2 nevner bare skjæring og avrunding av kantene med skreller, og steg 3 skylling. Fondantpoteter skrelles alltid – skallet blir seigt i braiseringen og ødelegger den glatte overflaten retten er ute etter. Skrell dem før du skjærer.
 - **Gourmandine finnes ikke i norske butikker.** Det er en fransk allroundpotet med fast, fin konsistens. Her hjemme er utfordringen at de store potetene ofte er de melne: Asterix og Beate er store nok, men Beate og Kerrs Pink faller fra hverandre i løpet av 40 minutter i kraft. Velg heller de største **fastkokende** du finner – Folva eller Laila – og godta at skivene blir mindre. Må du bruke Asterix, sjekk dem etter 30 minutter.
 - **Kraften skal ikke dekke potetene.** 4 dl er riktig i en trang panne der væsken når omtrent halvveis opp på skivene; i en vid panne blir det bare en hinne, og potetene damper ikke ferdig. Toppen skal stikke opp og fortsette å brune mens bunnen braiserer. Juster mengden etter pannen din, ikke etter tallet.
-- **Pannen må tåle ovn.** Kilden sier «minst 10 cm dyp», men ikke noe om at den skal settes i 180 grader – bruk støpejern eller en stekepanne med metallhåndtak, og husk grytelapp når den kommer ut. *(Lagt til.)*
+- **Pannen må tåle ovn.** Kilden sier «minst 10 cm dyp», men ikke noe om at den skal settes i ovnen på 180 °C – bruk støpejern eller en stekepanne med metallhåndtak, og husk grytelapp når den kommer ut. *(Lagt til.)*
 - **Skylling og tørking er ikke pynt.** Skyllingen tar vekk overflatestivelsen, tørkingen sørger for at de bruner i stedet for å dampe og klistre seg fast. Hopp over det, og de setter seg i pannen.
 - **Smøret går i etter vendingen, ikke før.** Poteten brunes først i olje, som tåler den høye varmen. Smøret kommer inn når varmen er moderert og gir nøttesmak og basting. Går det for varmt, svir smørets melkeproteiner seg og bastingen smaker brent.
 - **Ingen ferdighetstest i kilden.** «Gjennomstekte» er alt som står. En kniv eller kjøttspyd skal gli inn i midten uten motstand. 40 minutter på 180 °C stemmer for 3 cm skiver av fastkokende potet; blir de tykkere, trenger de lenger.
 - **Ovnstemperaturen er entydig.** Kilden oppgir både 180 °C og 356 °F, så her er det ingen tvil om enheten.
 - **Vegetarisk:** bytt kyllingkraften mot en god grønnsakskraft. Smøret og hvitløken bærer smaken uansett.
 - **Kan forberedes.** Brun potetene og bast dem ferdig i forkant, og sett dem i ovnen når du trenger dem. Ferdigstekte kan de varmes opp igjen på 180 °C i 10–15 minutter med litt kraft i pannen. *(Lagt til; kilden sier ingenting om dette.)*
-- **Samlingens andre potettilbehør** er [gamja jorim](#t11-gamja-jorim--koreanske-soyabraiserte-poteter) – også braiserte poteter, men i soya og sukker til de er glaserte. Samme grunnidé, helt annen retning.
+- **Sammenlign med** [gamja jorim (T11)](#t11-gamja-jorim--koreanske-soyabraiserte-poteter) – også braiserte poteter, men i soya og sukker til de er glaserte. Samme grunnidé, helt annen retning.
 - **Passer til** stekt og grillet kjøtt. [Aiolien i T15](#t15-aioli) er et godt følge, og rosmarinen gjør dem naturlige til lam.
 
 ---
