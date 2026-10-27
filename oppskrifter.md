@@ -13140,9 +13140,9 @@ Ferske tomater bakt på høy varme sammen med hvitløk, løk og rød paprika, og
 - Salt og sort pepper etter smak — ca. 1 ts salt *(mengde lagt til)*
 - ½ ts tørket basilikum
 - ½ ts tørket oregano
-- 4,8 dl kyllingkraft
+- 5 dl kyllingkraft
 - 2 ss friske urter – basilikum, persille eller oregano
-- 60 ml revet parmesan til pynt *(valgfritt)*
+- 20 g revet parmesan til pynt *(valgfritt)*
 - 1,2 dl kremfløte *(valgfritt – se notat)*
 - Fersk basilikum i tynne strimler til pynt *(valgfritt)*
 
@@ -13165,7 +13165,7 @@ Ferske tomater bakt på høy varme sammen med hvitløk, løk og rød paprika, og
 - **Langpannen må ha kant.** 1,4 kg tomater slipper mye væske, og den væsken er en del av suppen. Et flatt stekebrett gir søl i ovnen og tapt smak.
 - **Tidsangivelsen tar ikke høyde for forvarming.** Å få en ovn opp i 230 °C tar gjerne 10–15 minutter i tillegg til de oppgitte 40.
 - **230 °C er omregnet fra 450 °F.**
-- **4,8 dl kraft til 1,4 kg tomater er lite**, og med vilje: dette skal være en tykk suppe, ikke en tynn. Vil du ha den tynnere, spe med mer kraft etter miksingen.
+- **5 dl kraft til 1,4 kg tomater er lite**, og med vilje: dette skal være en tykk suppe, ikke en tynn. Vil du ha den tynnere, spe med mer kraft etter miksingen.
 - **Suppen er vegetarisk hvis du bytter til grønnsakskraft**, og vegansk hvis du dropper fløte og parmesan.
 - **Samlingens andre amerikanske suppe**, ved siden av [marry me chicken-suppen](#su1-marry-me-chicken-suppe-med-gnocchi) – men der den er tung og kremet, er denne først og fremst tomat.
 
@@ -13187,14 +13187,14 @@ Vegetarisk grønnsakssuppe med bønner, pasta og tomat, bygget på en soffritto 
 - Nykvernet sort pepper
 - 3 hvitløksfedd, revet
 - 800 g hakkede tomater på boks *(to norske bokser – se notat)*
-- 3,5 dl kokte hvite bønner eller kidneybønner, avrent og skylt
-- 2,4 dl grønne bønner, hakket
-- 9,5 dl grønnsakskraft
+- ca. 240 g kokte hvite bønner eller kidneybønner (1 boks), avrent og skylt
+- ca. 120 g grønne bønner, hakket
+- 1 liter grønnsakskraft
 - 2 laurbærblad
 - 1 ts tørket oregano
 - 1 ts tørket timian
-- 1,8 dl liten pasta – makaroni, små skjell, orecchiette eller ditalini
-- 1,2 dl hakket fersk persille
+- ca. 130 g liten pasta – makaroni, små skjell, orecchiette eller ditalini
+- ca. 15 g fersk persille, hakket
 - Chiliflak *(valgfritt)*
 - Revet parmesan *(valgfritt)*
 
@@ -13207,14 +13207,14 @@ Vegetarisk grønnsakssuppe med bønner, pasta og tomat, bygget på en soffritto 
 
 ### Notater
 
-- **Pastaen suger opp kraften, og det er oppskriftens kjente svakhet.** En leser satt igjen med «en gryte grøtete pasta uten kraft». Forfatteren erkjenner problemet i brødteksten: suppen er best rett etter at den er lagd, og skal du forberede den eller ha rester, bør pastaen **kokes separat** og røres i porsjonsvis. Alternativt sløyfer du pastaen helt og øker bønnene med ca. 2,4 dl – da holder suppen seg fint i **4 dager**.
+- **Pastaen suger opp kraften, og det er oppskriftens kjente svakhet.** En leser satt igjen med «en gryte grøtete pasta uten kraft». Forfatteren erkjenner problemet i brødteksten: suppen er best rett etter at den er lagd, og skal du forberede den eller ha rester, bør pastaen **kokes separat** og røres i porsjonsvis. Alternativt sløyfer du pastaen helt og øker bønnene med ca. 150 g – da holder suppen seg fint i **4 dager**.
 - **800 g hakkede tomater er to norske bokser.** Kilden bruker én amerikansk boks på 28 oz; norske er 400 g.
-- **Bønnemengden tilsvarer omtrent én norsk boks.** 3,5 dl avrente bønner er innholdet i en 400 g-boks etter avrenning. Hvite cannellinibønner er det tradisjonelle, men kilden godtar også navy- og kidneybønner.
+- **Bønnemengden tilsvarer omtrent én norsk boks.** 240 g avrente bønner er innholdet i en 400 g-boks etter avrenning. Hvite cannellinibønner er det tradisjonelle, men kilden godtar også navy- og kidneybønner.
 - **Åtte minutter er i knappeste laget for grønnsakene.** Flere lesere melder at de trengte lenger, og det stemmer med terningstørrelsen – hakk dem smått, eller regn 10–12 minutter. Soffritton er suppens smaksfundament, og den skal være myk, ikke bare varm.
 - **Kokte bønners kokevann er en gratis smaksforsterker.** Koker du bønnene selv, foreslår kilden å bruke kokevannet i stedet for deler av grønnsakskraften. Det gir suppen mer fylde.
 - **Suppen er endeløst fleksibel**, og kilden lister sine egne bytter: fennikel i stedet for selleri, squash i stedet for grønne bønner, ferske plommetomater i stedet for hermetiske om sommeren, spinat eller grønnkål rørt inn mot slutten, og perlefarro eller bygg i stedet for pasta.
 - **Vegetarisk som skrevet, og vegansk uten parmesan.** Kilden foreslår en skje pesto i stedet for ost – også god med vanlig pesto, som samlingen har i [T13](#t13-pesto).
-- **1,2 dl hakket persille er mye**, og det er meningen: her er den en ingrediens, ikke pynt.
+- **15 g persille er mye**, og det er meningen: her er den en ingrediens, ikke pynt.
 - **Samlingens andre italienske suppe finnes ikke** – dette er den første, og den eneste vegetariske hovedretten blant supper i samlingen.
 
 ---
@@ -13229,12 +13229,12 @@ Tomater bakt i ovn og kokt sammen med langsomt stekt løk og hvitløk, mikset gl
 
 **Suppen**
 - 1 kg tomater, delt *(kilden spriker om hvordan – se notat)*
-- 80 ml ekstra virgin olivenolje, delt
+- 75 g ekstra virgin olivenolje, delt
 - 100 g smør, delt *(se notat)*
 - 2 gule løk, finskivet
 - Klype salt og sort pepper
 - 5 hvitløksfedd, knust
-- 250 ml kyllingkraft
+- 2,5 dl kyllingkraft
 - 12 basilikumblader
 
 **Grilled cheese**
@@ -13279,7 +13279,7 @@ Tomater bakt i ovn og kokt sammen med langsomt stekt løk og hvitløk, mikset gl
 - **Røkt cheddar er vanskelig i Norge.** Kilden er nøye: det skal være **ordentlig røkt** ost, ikke røyksmakstilsatt. Finner du den ikke, er kildens eget alternativ vanlig kraftig cheddar pluss en liten klype røkt paprikapulver **i suppen** – ikke i osten.
 - **Mozzarella i blokk, ikke fersk.** Fersk mozzarella inneholder for mye vann og gjør toasten bløt. Blokkmozzarella, ofte solgt som pizzamozzarella, smelter jevnt og gir tråden.
 - **400 g ost til fire smørbrød** er 100 g per stykk. Det er mye, og det er poenget.
-- **250 ml kraft til 1 kg tomater** gir en tykk suppe. Vil du ha den tynnere, spe etter miksingen.
+- **2,5 dl kraft til 1 kg tomater** gir en tykk suppe. Vil du ha den tynnere, spe etter miksingen.
 - **Basilikumen holdes utenfor hvis du lager på forhånd.** Suppen holder 3 dager i kjøleskap og 3 måneder i fryseren, men kilden anbefaler å tilsette basilikumen først ved oppvarming, så smaken holder seg frisk.
 - **Toast varmes i panne eller press**, aldri i mikro – kilden kaller det «a one-way ticket to soggy town».
 - **Vegetarisk** ved å bytte kyllingkraften mot grønnsakskraft.
@@ -13296,18 +13296,18 @@ Sopp og løk stekt i smør, smakssatt med paprikapulver, dill og soyasaus, jevne
 ### Ingredienser
 
 - 4 ss usaltet smør
-- 4,8 dl hakket løk
+- 2 store løk, hakket — ca. 300 g
 - 450 g friske sjampinjonger, skivet
 - 2 ts tørket dill
 - 1 ss paprikapulver *(se notat)*
 - 1 ss soyasaus
-- 4,8 dl kyllingkraft
-- 2,4 dl melk
+- 5 dl kyllingkraft
+- 2,5 dl melk
 - 3 ss hvetemel
 - 1 ts salt
 - Sort pepper etter smak
 - 2 ts sitronsaft
-- 60 ml hakket fersk persille
+- ca. 10 g fersk persille, hakket
 - 1,2 dl rømme
 
 ### Fremgangsmåte
@@ -13394,14 +13394,14 @@ Løk karamellisert langsomt i opptil en time, kokt ut med cognac og hvitvin, jev
 - 2 ss hvetemel
 - 3 ss cognac eller whisky
 - 1,2 dl tørr hvitvin
-- 9,5 dl kyllingkraft, eller oksekraft for den tradisjonelle versjonen
+- 1 liter kyllingkraft, eller oksekraft for den tradisjonelle versjonen
 - 1 liten urtebukett – timian, rosmarin, sar og laurbær, bundet med hyssing
 - Salt og pepper
 
 **Toppingen**
 - 8 skiver baguette, gjerne dagsgammel
 - 1 hvitløksfedd
-- 2,4 dl revet ost – gruyère, comté eller emmental *(kilden godtar også Jarlsberg)*
+- ca. 90 g revet ost – gruyère, comté eller emmental *(kilden godtar også Jarlsberg)*
 
 ### Fremgangsmåte
 
@@ -13446,7 +13446,7 @@ Tomatbasert grønnsakssuppe med sopp, rødvin og røkt paprika, der tortellini o
 - 1 ts røkt paprikapulver
 - 1 ss tomatpuré
 - 200 g sopp, i skiver
-- 120 ml rødvin
+- 1,2 dl rødvin
 - 1 liter grønnsakskraft
 - 400 g hele hermetiske tomater
 - 100 g crème fraîche
