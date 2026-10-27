@@ -12829,6 +12829,9 @@ Tynne skiver rå laks (Lerøy backloin) med en syrlig, søt-sterk thai-dressing 
 - **Sponset innhold:** dette er et betalt partnerskap med @leroynorge om produktet Lerøy backloin.
 - **Fjern frøene i chilien** for en mildere dipp – med frø blir den betydelig sterkere.
 - **Sammenlign med:** [89. Miso-laks](#89-miso-laks) og [83. Honningglasert laks med hvitløk](#83-honningglasert-laks-med-hvitløk) for tilberedt laks med asiatiske smaker; denne er rå, i carpaccio-/ceviche-stil.
+
+---
+
 ## SJ19. Crudo med laks – kokos-miso-yuzu-dressing
 
 **Kilde:** @fysenpaa (Instagram, 28. august 2025) · **Kjøkken:** Norsk-japansk fusjon · **Tid:** ca. 15 min · **Porsjoner:** forrett til 2–3
@@ -12928,7 +12931,7 @@ Kremet suppe med soltørkede tomater, kylling og gnocchi, rundet av med kremost,
 
 **Kilde:** ivy / @ivyskitchn (TikTok, 6. juli 2025) · **Kjøkken:** Thai-inspirert · **Tid:** ca. 20 min *(ikke oppgitt i kilden)* · **Porsjoner:** 1–2 *(ikke oppgitt i kilden)*
 
-Frosne dumplings kokt rett i en rask rød karrikraft av kokosmelk, fiskesaus og makrutlimeblader. Samlingens femte variant av samme grunnidé, og den med minst væske.
+Frosne dumplings kokt rett i en rask rød karrikraft av kokosmelk, fiskesaus og makrutlimeblader. Varianten av denne grunnidéen med minst væske.
 
 ### Ingredienser
 
@@ -12957,11 +12960,11 @@ Frosne dumplings kokt rett i en rask rød karrikraft av kokosmelk, fiskesaus og 
 - **«Soup dumplings» er ikke det du vil ha her.** Uttrykket betyr *xiao long bao* – dumplings fylt med kraft i geléform, som er lagd for å dampes og spises hele. Legger du dem i kokende væske i tolv minutter, sprekker de og gir fra seg sin egen suppe. Bruk vanlige frosne dumplings, gyoza eller potstickers; det er nesten sikkert det kilden faktisk mener.
 - **Tolv minutter er lenge for frosne dumplings.** De fleste er ferdige på **6–8 minutter** i småkokende væske, og koker de lenger, går skinnet i oppløsning. Sjekk etter 6 minutter og styr etter fyllet, ikke etter klokka.
 - **Dette er mer saus enn suppe.** 1,2–1,8 dl kraft og 80 g kokosmelk er i underkant av 2,5 dl væske til 8–10 dumplings, og de suger til seg en del underveis. Til sammenligning bruker [nr. 39](#39-rød-karri-dumplingsuppe-med-reker) og [nr. 45](#45-rød-karri-dumplingsuppe-med-kylling--brendan-pang-sin-versjon) langt mer. Vil du ha en reell suppe, doble kraften.
-- **Makrutlimeblader og limesaft er ikke det samme**, selv om kilden setter dem som alternativer. Bladene gir sitrusaroma uten syre; saften gir syre uten aroma. Har du begge, bruk begge – blader mens det koker, et par dråper saft ved servering. Frosne blader fra asiatisk butikk er nesten like gode som ferske, jf. [Nr. 76](#76-green-curry-med-kylling).
+- **Makrutlimeblader og limesaft er ikke det samme**, selv om kilden setter dem som alternativer. Bladene gir sitrusaroma uten syre; saften gir syre uten aroma. Har du begge, bruk begge – blader mens det koker, et par dråper saft ved servering. Frosne blader fra asiatisk butikk er nesten like gode som ferske, jf. [nr. 76](#76-green-curry-med-kylling).
 - **Karripastaens styrke varierer voldsomt mellom merker.** Én spiseskje av Mae Ploy er noe helt annet enn én spiseskje av en mild vestlig variant. Smak på kraften i punkt 2 før du går videre.
 - **80 g kokosmelk av en boks på 4 dl** gir mye til overs. Resten holder seg noen dager i kjøleskap i tett boks, eller kan fryses i isbitform.
 - **Ingen salt i oppskriften**, og det trengs ikke: fiskesausen og karripastaen er begge salte. Smak til slutt.
-- **Samlingens femte rød karri-dumplingsuppe.** De andre er [med reker (nr. 39)](#39-rød-karri-dumplingsuppe-med-reker), [RealChefPauls versjon (nr. 40)](#40-rød-karri-dumplingsuppe-med-kylling--realchefpaul-sin-versjon), [saltnpiipas versjon (nr. 41)](#41-rød-karri-dumplingsuppe-med-kylling--saltnpiipa-sin-versjon) og [Brendan Pangs original (nr. 45)](#45-rød-karri-dumplingsuppe-med-kylling--brendan-pang-sin-versjon), alle med kylling. Denne er den minste og raskeste – en enkeltporsjon snarere enn en gryte.
+- **Andre røde karri-dumplingsupper:** [med reker (nr. 39)](#39-rød-karri-dumplingsuppe-med-reker), [RealChefPauls versjon (nr. 40)](#40-rød-karri-dumplingsuppe-med-kylling--realchefpaul-sin-versjon), [saltnpiipas versjon (nr. 41)](#41-rød-karri-dumplingsuppe-med-kylling--saltnpiipa-sin-versjon) og [Brendan Pangs original (nr. 45)](#45-rød-karri-dumplingsuppe-med-kylling--brendan-pang-sin-versjon), Denne er den minste og raskeste – en enkeltporsjon snarere enn en gryte.
 
 ---
 
@@ -13018,15 +13021,15 @@ Nudelsuppe bygget på hjemmelaget rød karripasta, med kyllinglår kokt i krafte
 ### Notater
 
 - **Du trenger ti makrutlimeblader**, ikke seks – seks går i pastaen og fire i suppen. Det er verdt å vite før du står i butikken. Frosne blader fra asiatisk butikk fungerer godt, og kilden bekrefter at både tørkede og frosne går an. Har du ingen, foreslår den limeskall pluss litt sitrongress som nødløsning.
-- **Chilitypen er ikke oppgitt**, og det er den samme uklarheten som i [nr. 78](#78-panang-curry-med-svinefilet). Her er frøene ristet ut, hvilket demper en god del, men syv tørkede thaichili er fortsatt kraftig kost. Store, milde tørkede chili gir farge og fylde uten samme varme. Kilden advarer selv om at retten er «on the spicier side».
+- **Chilitypen er ikke oppgitt**, og det er den samme uklarheten som i [nr. 78](#78-panang-curry-med-svinefilet). Her er frøene ristet ut, noe som demper en god del, men syv tørkede thaichili er fortsatt kraftig kost. Store, milde tørkede chili gir farge og fylde uten samme varme. Kilden advarer selv om at retten er «on the spicier side».
 - **Korianderstilker, ikke røtter.** Det er en praktisk forskjell fra [nr. 78](#78-panang-curry-med-svinefilet), som krever korianderrøtter – noe som knapt selges i Norge. Stilkene fra en vanlig potte eller bunt gjør nytten her, og oppskriften er dermed lettere å gjennomføre.
 - **«Echalion shallot» er den avlange sjalottløken**, ofte kalt bananesjalott. Vanlig norsk sjalottløk fungerer – bruk to hvis de er små.
 - **Kyllingen kokes hel og skjæres etterpå.** Åtte minutter under lokk pluss fem i suppen med kokoskrem gir mørt lårkjøtt, og hvilen på fem minutter før oppskjæring holder på saften. Ikke skjær kyllingen først – da blir den tørr.
 - **Nudlene kokes separat, og det er med hensikt.** Kilden forklarer det godt: koker du dem i suppen, tykner stivelsen kraften. Ferdigkokte udonnudler skylles kort i varmt vann; tørkede kokes til litt før al dente, siden de mykner videre i den varme suppen.
 - **600 g ferdigkokte udonnudler** er tre til fire pakker – de selges gjerne i 200 g-poser i asiatiske butikker.
 - **Kokoskrem, ikke kokosmelk.** Kilden er nøye her: se etter minst 60 % kokosekstrakt og få tilsetningsstoffer, og unngå lettvarianter. Kokoskremen skal være tykk og skjebar, ikke rennende.
-- **Rekepasta og galangal** fås i asiatiske butikker; galangal frossen er et fullgodt alternativ, jf. [Nr. 78](#78-panang-curry-med-svinefilet). Ingefær er ikke en erstatning.
-- **Samlingens andre hjemmelagde thaikarripasta**, etter panangpastaen i [nr. 78](#78-panang-curry-med-svinefilet). Denne kjøres i blender i stedet for morter, hvilket er raskere, men gir en litt løsere pasta – ta den gjerne et hakk grovere hvis du vil ha mer tekstur i suppen.
+- **Rekepasta og galangal** fås i asiatiske butikker; galangal frossen er et fullgodt alternativ, jf. [nr. 78](#78-panang-curry-med-svinefilet). Ingefær er ikke en erstatning.
+- **Sammenlign med** panangpastaen i [nr. 78](#78-panang-curry-med-svinefilet). Denne kjøres i blender i stedet for morter, noe som er raskere, men gir en litt løsere pasta – ta den gjerne et hakk grovere hvis du vil ha mer tekstur i suppen.
 
 ---
 
@@ -13071,7 +13074,6 @@ Løk og squash svettes ned, karripulveret ristes utenfor varmen, og alt kokes op
 - **«2 ss karri» er norsk karripulver**, altså den milde blandingen som selges i vanlig dagligvare. To spiseskjeer til en liter er en tydelig, men ikke sterk suppe.
 - **Kyllingen legges i skålen, ikke i kjelen.** Da holder bitene formen og blir ikke kokt en gang til. Varm gjerne skålene først, slik at kyllingen ikke kjøler ned suppen.
 - **Oljemengden er ikke oppgitt.** En spiseskje holder til å svette løk og squash.
-- **Samlingens første norske suppe**, og en av få retter i samlingen fra en navngitt norsk kokk.
 
 ---
 
