@@ -21748,7 +21748,7 @@ Sideflesk brunet til fettet er rendret, braisert i soya, hoisin og østerssaus, 
 - 900 g svinesideflesk med svor, ca. 4 cm tykt
 - 1 ss nøytral olje
 - 7,2 dl vann
-- 60 ml Shaoxing-vin eller tørr sherry
+- 4 ss Shaoxing-vin eller tørr sherry
 - 3 ss hoisinsaus
 - 3 ss soyasaus
 - 3 ss østerssaus
@@ -21764,7 +21764,7 @@ Sideflesk brunet til fettet er rendret, braisert i soya, hoisin og østerssaus, 
 - ½ ts salt
 
 **Hoisin- og soyasaus**
-- 60 ml hoisinsaus
+- 4 ss hoisinsaus
 - 1 ss soyasaus
 
 **Til servering**
@@ -21789,7 +21789,7 @@ Sideflesk brunet til fettet er rendret, braisert i soya, hoisin og østerssaus, 
 ### Notater
 
 - **Braiseringen tåler et friskt kok, ikke bare et småkok.** Kilden er eksplisitt: bevegelsen i væsken hjelper fettet å bryte ned. Sideflesk er ikke et magert stykke som blir seigt av hardhendt behandling.
-- **Innkokingen til 2,4 dl er hele sausen.** Braisekraften er tynn og salt rett fra gryta. Redusert til en kopp blir den sirupsaktig og legger seg som en glasur på kjøttet.
+- **Innkokingen til 2,4 dl er hele sausen.** Braisekraften er tynn og salt rett fra gryta. Redusert til 2,4 dl blir den sirupsaktig og legger seg som en glasur på kjøttet.
 - **Fettskillekanne, eller kjøleskap.** Skummer du ikke av fettet, blir hver bao fetere enn den trenger å være. Har du tid, kjøl kraften helt — da stivner fettet og løftes av i ett stykke.
 - **Daikonen er ikke pynt.** Sukker og salt trekker ut vannet så skivene blir sprø og lettsyrlige. De er motvekten til fettet, og uten dem blir retten tung etter to bao.
 - **Kjøttet kan lages to dager i forveien** og varmes forsiktig under lokk. Det blir bedre av å stå.
@@ -21812,8 +21812,8 @@ Kyllingbiter marinert i soya og fem kryddere, bundet med egg og maisenna og stek
 - 1 ts ingefærpulver
 - 1 ts fem kryddere
 - 1 egg
-- 0,6 dl maisenna
-- 0,6 dl nøytral olje, til steking
+- ca. 35 g maisenna *(Omregnet fra 0,6 dl.)*
+- 4 ss nøytral olje, til steking
 
 **Til servering**
 - 8 bao
@@ -21852,13 +21852,13 @@ Char siu-smakene — hoisin, honning, fem kryddere, Shaoxing — kokt inn i kjø
 
 - 450 g kjøttdeig av svin
 - 3 vårløk, det hvite og det grønne hver for seg
-- 1¼ ss revet ingefær
+- 1 ss + 1 ts revet ingefær *(Presisert fra 1¼ ss.)*
 - 2 ss soyasaus
-- ¾ ts fem kryddere
+- ½ ts + ¼ ts fem kryddere
 - 2 ss Shaoxing-vin, eller tørr sherry
 - 2 ss honning
 - 4 ss hoisinsaus
-- ½ ss fiskesaus
+- 1½ ts fiskesaus
 - ¼ ts salt
 
 ### Fremgangsmåte
@@ -21908,7 +21908,7 @@ Kildens vri på påskelammet: dumplings med lammedeig, five spice og østerssaus
 - 2 ss mirin
 - 2 ss riseddik
 - 3 ss soyasaus
-- 2 ss yuzu-sirup (kan erstattes med 2 ss limejuice og 1,5 ts honning)
+- 2 ss yuzu-sirup (kan erstattes med 2 ss limesaft og 1½ ts honning)
 
 ### Fremgangsmåte
 
@@ -21928,7 +21928,7 @@ Kildens vri på påskelammet: dumplings med lammedeig, five spice og østerssaus
 1. Fyll hver dumplingwrapper med en raus teskje fyll. Legg fyllet i midten.
 2. Brett dumplingen tett sammen. Ekstra digg om dumplingen har en liten «vulkanåpning» øverst, slik at sausen kommer seg inn ved servering.
 3. Legg de ferdigbrettede dumplingene på et brett med et vått kjøkkenhåndkle over, slik at de ikke tørker ut.
-4. Stek dem på medium varme i en panne til bunnen blir gyllen. Fyll deretter pannen med ca. 0,3 dl vann, og ha på lokk slik at det damper.
+4. Stek dem på medium varme i en panne til bunnen blir gyllen. Hell deretter ca. 2 ss vann i pannen, og ha på lokk slik at det damper.
 5. Når vannet er fordampet og dumplingene er litt gjennomsiktige, er de ferdige.
 
 ### Notater
