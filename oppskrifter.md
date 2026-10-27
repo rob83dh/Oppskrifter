@@ -3745,7 +3745,7 @@ Hjemmelagde potetgnocchi av bakte poteter, vendt i en pesto rørt ut med fløte.
 - **Rist pinjekjernene i tørr panne** før de kjøres. De brenner fort, så hold dem i bevegelse og ta dem av mens de er lyst gylne.
 - **Porsjonsantall er ikke oppgitt.** 1,1 kg poteter gir 4–6 porsjoner. Rå gnocchi kan fryses på brett og kokes rett fra fryseren.
 - **Valnøtter i stedet for pinjekjerner** er kildens eget alternativ, og en god del rimeligere.
-- Samlingens eneste gnocchirett. Se også grunnoppskriftene på [pastadeig](#g1-master-pasta-dough--grunndeig-til-fersk-eggpasta) og [pasta ruvida](#g2-pasta-ruvida--teksturert-eggpasta) hvis du vil lage pastaen fra bunnen også.
+- Se også grunnoppskriftene på [pastadeig](#g1-master-pasta-dough--grunndeig-til-fersk-eggpasta) og [pasta ruvida](#g2-pasta-ruvida--teksturert-eggpasta) hvis du vil lage pastaen fra bunnen også.
 
 ---
 
@@ -3797,7 +3797,7 @@ Risotto som får farge og smak fra en puré av blansjert asparges og spinat, rø
 - **Risfasen tar 18–20 minutter** fra første øse kraft. Kilden oppgir ingen tid.
 - **Carnaroli fungerer like godt som arborio** og er litt mer tilgivende — den blir sjeldnere grøtete hvis du koker den et minutt for lenge.
 - **Sitronskallet i, ikke saften.** Saften kan gjøre risottoen løs og for syrlig. Vil du ha mer syre, tilsett noen dråper helt til slutt.
-- Samlingens eneste risotto. Se også de øvrige italienske rettene, blant annet [ndujapasta](#61-ndujapasta) og [cacio e pepe](#62-cacio-e-pepe--vincenzos-plate-sin-versjon), som bygger på samme prinsipp om å emulgere ost inn i en varm rett.
+- Se også [ndujapasta](#61-ndujapasta) og [cacio e pepe](#62-cacio-e-pepe--vincenzos-plate-sin-versjon), som bygger på samme prinsipp om å emulgere ost inn i en varm rett.
 
 ---
 
@@ -3873,7 +3873,7 @@ Romersk klassiker uten fløte. Sausen bindes over vannbad — bollen settes over
 - **Guanciale kan byttes med pancetta eller bacon**, men da må du sikre at det er fett nok — det avsmeltede fettet er en bærende ingrediens, ikke bare smak. Norsk bacon er dessuten røkt, noe guanciale ikke er.
 - **Kilden anbefaler bronseekstrudert pasta**, fordi den ru overflaten holder bedre på sausen. Det er samme prinsipp som i [pasta ruvida](#g2-pasta-ruvida--teksturert-eggpasta) — lager du pastaen selv, får du den effekten der.
 - **Spises med én gang.** Rester holder seg 3 dager i kjøleskap, men sausen stivner og retten blir en annen.
-- **Carbonara er én av fire romerske klassikere.** Samlingen har nå tre av dem i en eller annen form: denne, [cacio e pepe](#62-cacio-e-pepe--vincenzos-plate-sin-versjon) i to versjoner, og [pasta alla zozzona](#63-pasta-alla-zozzona), som låner fra alle sammen. Amatriciana mangler.
+- **Carbonara er én av fire romerske klassikere.** Se også [cacio e pepe](#62-cacio-e-pepe--vincenzos-plate-sin-versjon) i to versjoner, [pasta alla zozzona](#63-pasta-alla-zozzona), som låner fra alle sammen, og [carbonara × amatriciana-hybrid (nr. 220)](#220-carbonara--amatriciana-hybrid).
 
 ---
 
@@ -3917,7 +3917,7 @@ Vårrett med mye asparges i forhold til pasta. Aspargesen deles i to: stilkene k
 - **Knekk av de trevlete endene** i stedet for å skjære — aspargesen brekker av seg selv der det møre begynner.
 - **Ta vare på pastavannet.** Uten stivelsen fra det blir dette olje og pasta ved siden av hverandre i stedet for en samlet rett. Dette er det viktigste tillegget til kildens ingrediensliste.
 - **Ingen ost er oppgitt**, og retten trenger den strengt tatt ikke. Vil du ha den, passer revet pecorino eller parmesan.
-- Samlingens andre aspargesrett. Se også [risotto med asparges, spinat og sitron](#67-risotto-med-asparges-spinat-og-sitron).
+- Se også [risotto med asparges, spinat og sitron](#67-risotto-med-asparges-spinat-og-sitron).
 
 ---
 
@@ -3962,7 +3962,7 @@ Svinefilet brunet, penslet med grovkornet sennep, rullet i salvie og rosmarin, o
 - **Svinefilet er magert og tørker fort ut.** De 25–30 minuttene er et anslag som avhenger av tykkelsen — stol på termometeret, ikke klokka.
 - **Retten er ikke en tradisjonell italiensk klassiker**, men bygger på toskanske smaker: salvie, rosmarin og hvitløk, som i porchetta. Kilden kaller den toskansk.
 - **Porsjonsantall er ikke oppgitt.** To svinefileter gir 6–8 porsjoner.
-- Samlingens fjerde svinekjøttrett. Se også [siu yuk](#42-sprøstekt-svinesideflesk-siu-yuk), [buta no kakuni](#49-buta-no-kakuni--japansk-braisert-svinesideflesk) og [samgyeopsal](#50-samgyeopsal--koreansk-grillet-svinesideflesk-med-kimchiris) — alle på sideflesk, mens denne bruker den magre indrefileten.
+- Se også [siu yuk](#42-sprøstekt-svinesideflesk-siu-yuk), [buta no kakuni](#49-buta-no-kakuni--japansk-braisert-svinesideflesk) og [samgyeopsal](#50-samgyeopsal--koreansk-grillet-svinesideflesk-med-kimchiris) — alle på sideflesk, mens denne bruker den magre indrefileten.
 
 ---
 
@@ -4030,7 +4030,7 @@ Hjemmelaget lasagne av tre komponenter: langtidskokt ragù av svin og okse, fers
 
 12. **Del deigen i to** og hold den ene halvdelen dekket. Kjevle den andre ut til et rektangel på ca. 1 cm.
 13. **Kjør den gjennom maskinen** på videste innstilling to ganger. Gjør en konvoluttbrett, klem sammen, og kjør to ganger til på samme innstilling.
-14. **Trinn ned én hakk om gangen** og kjør to ganger på hvert trinn, til nest tynneste innstilling.
+14. **Trinn ned ett hakk om gangen** og kjør to ganger på hvert trinn, til nest tynneste innstilling.
 15. **Forkok platene.** *(Se notat — dette steget mangler i kildens fremgangsmåte.)* Kok platene kort i saltet vann, avkjøl dem i isvann, og legg dem på et oljet brett.
 
 **Bechamel**
@@ -4052,7 +4052,7 @@ Hjemmelaget lasagne av tre komponenter: langtidskokt ragù av svin og okse, fers
 - **Muskatnøtt står i bechamel-metoden, men ikke i ingredienslisten.** Regn med et par tak på rivjernet.
 - **Parmesanskorpen er ikke pynt.** Den ligger i ragùen gjennom hele kokingen og gir en dybde revet ost ikke gir. Har du ingen, rører kilden inn 20 g ekstra revet parmesan mot slutten. Ta vare på skorper i fryseren.
 - **Lag ragùen dagen før.** Kilden anbefaler det selv: smaken blir dypere, og du slipper å kjøre tre komponenter samme dag. Ragùen kan lages 3 dager i forveien, bechamelen og pastadeigen 1 dag.
-- **Spinaten må klemmes helt tørr.** Vått spinat endrer hydreringen i deigen, og da må du kompensere med mer mel — som gir en seigere pasta.
+- **Spinaten må klemmes helt tørr.** Våt spinat endrer hydreringen i deigen, og da må du kompensere med mer mel — som gir en seigere pasta.
 - **Bechamelen skal være lys, ikke brun.** To minutter er nok til å koke bort melsmaken. Blir jevningen mørkere, farger den den hvite sausen.
 - **Klumper kommer av mel visperen ikke har nådd**, ikke av at melken tilsettes for fort. Visp helt ut i hjørnene av kjelen.
 - **Hold lagene tynne.** Med fem lag i en dyp form er fristelsen å fylle hvert lag godt. Kilden fraråder det — tynne lag steker jevnere og skjæres renere.
@@ -4060,7 +4060,7 @@ Hjemmelaget lasagne av tre komponenter: langtidskokt ragù av svin og okse, fers
 - **Bruk fast mozzarella som lar seg rive**, ikke fersk mozzarella i lake. Sistnevnte slipper for mye væske i formen.
 - **Med tørre plater i stedet:** ca. 250 g. Bløtlegg dem 5 minutter i varmt vann, eller bruk typen som ikke skal forkokes. Gjør lagene litt våtere, siden tørre plater trekker fuktighet ut av sausene.
 - **Rødvinen bør være kraftig** — sangiovese eller shiraz. Kilden bruker som regel vin fra samme område som retten.
-- **Frysing:** best ufersket. Frys før steking, tin over natten i kjøleskap, og stek fra kald med 15 minutter ekstra under folie. Ragùen alene fryser utmerket.
+- **Frysing:** frys lasagnen før steking, tin den over natten i kjøleskap, og stek fra kald med 15 minutter ekstra under folie. Ragùen alene fryser utmerket.
 - Se også [langtidskokt oksragù](#65-langtidskokt-oksragù) hvis du vil ha ragù uten hele lasagneprosjektet, og [grunndeigen til fersk eggpasta](#g1-master-pasta-dough--grunndeig-til-fersk-eggpasta) som alternativ pastadeig uten spinat.
 - Fra samme forfatter som [Andy Cooks sin Pad Kra Pao](#7-andy-cooks-sin-pad-kra-pao) og [Korean BBQ Lamb](#58-korean-bbq-lamb).
 
@@ -4189,8 +4189,8 @@ Italiensk svinestek: sideflesk rullet rundt indrefileten med en urtemarinade av 
 - **Fennikelpollen er nesten umulig å få tak i her.** Ristede og lett knuste fennikelfrø er kildens eget alternativ og gjør samme nytte.
 - **Snitt svoren på tvers av hyssingretningen.** Da skjærer ikke hyssingen ned i snittene og lager ujevn svor.
 - **Skjær bare det du skal spise.** Rullen holder seg saftig så lenge den er hel. 3 dager i kjøleskap. Varm skiver på 180 °C i 10–15 minutter — eller spis den kald i et rundstykke, som kilden anbefaler.
-- **Dette er den fjerde retten i samlingen på svinesideflesk**, og den eneste som ruller kjøttet. Se også [siu yuk](#42-sprøstekt-svinesideflesk-siu-yuk), [buta no kakuni](#49-buta-no-kakuni--japansk-braisert-svinesideflesk) og [samgyeopsal](#50-samgyeopsal--koreansk-grillet-svinesideflesk-med-kimchiris).
-- Fra samme forfatter som [lasagnaen](#72-lasagna), [Tagliatelle al Ragù](#73-tagliatelle-al-ragù) og [pestoen](#t13-pesto).
+- **Andre retter på svinesideflesk:** [siu yuk](#42-sprøstekt-svinesideflesk-siu-yuk), [buta no kakuni](#49-buta-no-kakuni--japansk-braisert-svinesideflesk) og [samgyeopsal](#50-samgyeopsal--koreansk-grillet-svinesideflesk-med-kimchiris).
+- Fra samme forfatter som [lasagnen](#72-lasagna), [Tagliatelle al Ragù](#73-tagliatelle-al-ragù) og [pestoen](#t13-pesto).
 
 ---
 
