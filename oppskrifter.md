@@ -12441,7 +12441,7 @@ Fisk i hjemmelaget *kroeung* – den kambodsjanske karripastaen – rørt med ko
 - **Galangal kan byttes med ingefær**, sier kilden – smaken blir en annen, men retten fungerer. Det er en mildere linje enn i [nr. 78](#78-panang-curry-med-svinefilet), der byttet frarådes.
 - **Ti makrutlimeblader til sammen:** seks i pastaen og fire på toppen til slutt.
 - **Fersk gurkemeie farger alt den kommer nær.** Bruk hansker hvis du velger den fremfor pulver.
-- **Samlingens tredje hjemmelagde asiatiske karripasta**, etter [panangpastaen (nr. 78)](#78-panang-curry-med-svinefilet) og de to thaipastaene fra Zena's Kitchen – og den eneste kambodsjanske.
+- **Andre hjemmelagde asiatiske karripastaer:** [panangpastaen (nr. 78)](#78-panang-curry-med-svinefilet) og de to thaipastaene fra Zena's Kitchen.
 
 ---
 
@@ -12482,13 +12482,13 @@ Fisk i hjemmelaget *kroeung* – den kambodsjanske karripastaen – rørt med ko
 - **Mengden smør eller olje er ikke oppgitt.** En spiseskje holder til å svette tre purre og tre gulrøtter.
 - **Fiskekraft er det ideelle**, men kilden godtar grønnsaks- eller kyllingkraft – det blir bare mindre fiskesmak. Norsk fiskefond eller fiskebuljongterning fungerer godt, og hjemmelaget kraft av fiskebein og -hoder er best.
 - **Faste poteter, gjerne små med skallet på.** Melne poteter koker i stykker og gjør suppen grøtete.
-- **Dillmengden er avgjørende, ikke pynt.** «En bunt» er rundt 20 g, og suppen skal smake tydelig av dill – det er dette som gjør den finsk snarere enn bare en fiskesuppe. Fryst dill fungerer; tørket er et klart nedgrader.
+- **Dillmengden er avgjørende, ikke pynt.** «En bunt» er rundt 20 g, og suppen skal smake tydelig av dill – det er dette som gjør den finsk snarere enn bare en fiskesuppe. Fryst dill fungerer; tørket er en klar nedgradering.
 - **Sitronen er ikke tradisjonell**, opplyser kilden – hun tilsetter den selv for friskhet.
 - **Skal ikke fryses.** Fløten tåler det dårlig. Holdbarhet 3 dager i kjøleskap, og suppen blir gjerne bedre dagen etter.
 - **Melkefri versjon:** plantebasert fløte av soya eller cashew, eller en purert hvit bønnepuré, som kilden foreslår.
 - **Andre fisker fungerer**, ifølge forfatteren: ørret og makrell blant de fete, eller torsk, hyse og kveite blant de faste hvite. Flere lesere blander flere sorter.
 - **Serveres med grovt rugbrød** – kildens eget forslag, og lett tilgjengelig i Norge.
-- **Nær slektning av norsk fiskesuppe**, men uten rotselleri og med dill som dominerende urt. Samlingens tolvte lakserett.
+- **Nær slektning av norsk fiskesuppe**, men uten rotselleri og med dill som dominerende urt.
 
 ---
 
@@ -12496,7 +12496,7 @@ Fisk i hjemmelaget *kroeung* – den kambodsjanske karripastaen – rørt med ko
 
 **Kilde:** Géraldine Leverd / La Cuisine de Géraldine (lacuisinedegeraldine.fr) · **Kjøkken:** Fransk · **Tid:** 50 min (10 min forberedelse + 40 min i ovn) · **Porsjoner:** 4
 
-Eggestand med crème fraîche og maisenna, bakt i quicheform med forvellet brokkoli, røkelaks og rødløk strødd over. Ingen paideig – maisennaen er det som holder den sammen.
+Eggestanning med crème fraîche og maisenna, bakt i quicheform med forvellet brokkoli, røkelaks og rødløk strødd over. Ingen paideig – maisennaen er det som holder den sammen.
 
 ### Ingredienser
 
@@ -12516,7 +12516,7 @@ Eggestand med crème fraîche og maisenna, bakt i quicheform med forvellet brokk
 
 1. **Forvarm ovnen til 180 °C.**
 2. **Forvell brokkolien.** Del den i små buketter og kok dem **3–4 minutter** i kokende, saltet vann. Renn av, legg dem i isvann, og renn av igjen. *(Se notat.)*
-3. **Rør eggestanden.** Visp eggene med maisenna, melk, crème fraîche og hakket dill. Smak til med salt og pepper.
+3. **Rør eggestanningen.** Visp eggene med maisenna, melk, crème fraîche og hakket dill. Smak til med salt og pepper.
 4. **Finhakk rødløken** og skjær røkelaksen i biter.
 5. **Smør og strø formen**, og hell eggeblandingen i. *(Se notat om melet.)*
 6. **Fordel brokkoli, laks og rødløk** utover overflaten.
@@ -12525,8 +12525,8 @@ Eggestand med crème fraîche og maisenna, bakt i quicheform med forvellet brokk
 
 ### Notater
 
-- **Retten er merket glutenfri, men steg 5 sier at formen skal mjøles.** Det er en åpenbar selvmotsigelse: maisennaen gjør selve quichen glutenfri, men hvetemel i formen ødelegger det. Strø formen med **maisenna eller rismel** i stedet, eller kle den med bakepapir. *(Presisert.)*
-- **Maisennaen er hele konstruksjonen.** Uten paidegg er det de 40 g maisenna som gjør at eggestanden holder formen når du skjærer den. Ikke reduser mengden.
+- **Retten er merket glutenfri, men steg 5 sier at formen skal meles.** Det er en åpenbar selvmotsigelse: maisennaen gjør selve quichen glutenfri, men hvetemel i formen ødelegger det. Strø formen med **maisenna eller rismel** i stedet, eller kle den med bakepapir. *(Presisert.)*
+- **Maisennaen er hele konstruksjonen.** Uten paideig er det de 40 g maisenna som gjør at eggestanningen holder formen når du skjærer den. Ikke reduser mengden.
 - **Kilden forklarer hvorfor brokkolien forvelles og kjøles i isvann**, og det er sjeldent presist: fargen holder seg grønn, teksturen blir sprø uten å bli hard, grønnsaken blir lettere fordøyelig, og den er delvis ferdigkokt når den går i ovnen. Hopper du over isbadet, blir brokkolien olivengrønn.
 - **Fyllet legges oppå, ikke røres inn.** Brokkoli, laks og løk fordeles over overflaten og synker delvis ned under stekingen. Det gir en pen overflate, men også ujevn fordeling – rører du dem inn, blir hver bit likere.
 - **Fersk laks fungerer like godt som røkt**, bekrefter forfatteren i kommentarfeltet: skjær den i små biter og behandle den likt. Med norsk røkelaks av god kvalitet kan det være et poeng – den varmebehandles her og mister noe av det som gjør den verdt prisen.
@@ -12534,7 +12534,6 @@ Eggestand med crème fraîche og maisenna, bakt i quicheform med forvellet brokk
 - **Kilden anbefaler 50/50 fløte og melk**, men er tydelig på at forholdet kan skyves: bare fløte gir en rikere quiche, bare melk en lettere. Yoghurt naturell i stedet for crème fraîche og skummet melk gir den letteste versjonen.
 - **Kildens variasjoner:** squash, spinat, purre eller ovnsbakte grønnsaker i stedet for brokkoli; bacon eller fetaost i stedet for laks; sopp eller feta for en vegetarversjon; og revet comté eller parmesan i tillegg for mer fylde.
 - **Holdbarhet:** 2–3 dager i kjøleskap. **Kan fryses** i ferdige stykker og varmes på 160 °C i 10–15 minutter – kilden er tydelig på at dette går fint, i motsetning til de fløtebaserte suppene hennes.
-- **Samlingens trettende lakserett**, og den eneste som er bakt som eggestand.
 
 ---
 
@@ -12583,7 +12582,7 @@ Tomatsuppe med potet, kapers og en klype cayenne, der hermetisk tunfisk vendes f
 - **Ferske tomater** kan brukes om sommeren i stedet for hermetiske.
 - **Holdbarhet:** 4 dager i kjøleskap, og suppen fryser godt. Den blir bedre etter noen timer eller dagen etter.
 - **Glutenfri og melkefri** som skrevet.
-- **Samlingens andre sjømatsuppe**, ved siden av [lohikeitto (SJ11)](#sj11-lohikeitto--finsk-laksesuppe) – og den eneste som bruker hermetisk fisk.
+- **Se også** [lohikeitto (SJ11)](#sj11-lohikeitto--finsk-laksesuppe).
 
 ---
 
@@ -12591,7 +12590,7 @@ Tomatsuppe med potet, kapers og en klype cayenne, der hermetisk tunfisk vendes f
 
 **Kilde:** Emily English / @emthenutritionist (TikTok, 27. juni 2023) · **Kjøkken:** Italiensk-inspirert · **Tid:** ca. 40 min · **Porsjoner:** 2
 
-Torsk pochert i en grønnsakstung puttanesca-saus, alt i én ovnsfast panne, med hvitløksbrød som stekes samtidig. Kilden oppgir 615 kcal og 50 g protein per porsjon, og bemerker selv at porsjonene er store.
+Torsk posjert i en grønnsakstung puttanesca-saus, alt i én ovnsfast panne, med hvitløksbrød som stekes samtidig. Kilden oppgir 615 kcal og 50 g protein per porsjon, og bemerker selv at porsjonene er store.
 
 ### Ingredienser
 
@@ -12687,7 +12686,7 @@ Ovnsristede grønnsaker vendt i risoni med feta og oliven, med en sitron- og dij
 
 ### Fremgangsmåte
 
-1. **Ovnsrist grønnsakene.** Sett ovnen på **200 °C varmluft**. Skjær aubergine, squash og paprika i jevnstore terninger. Bland dem på et stekebrett med litt olivenolje, salt, pepper, oregano og hvitløk. Rist i ovnen i **20–25 minutter**, til de er gyllne. Ta dem ut og vend inn hakket basilikum.
+1. **Ovnsrist grønnsakene.** Sett ovnen på **200 °C varmluft**. Skjær aubergine, squash og paprika i jevnstore terninger. Bland dem på et stekebrett med litt olivenolje, salt, pepper, oregano og hvitløk. Rist i ovnen i **20–25 minutter**, til de er gylne. Ta dem ut og vend inn hakket basilikum.
 2. **Kok risonien** etter anvisningen på pakken, i saltet vann med buljongterningene i. Skyll den raskt i kaldt vann for å fjerne overflødig stivelse, så den ikke klistrer seg sammen. La den renne av.
 3. **Lag dressingen.** Visp sammen sitronsaft, olivenolje, honning og dijonsennep i en liten bolle. Smak til med salt og pepper.
 4. **Bland salaten.** Bland den kokte risonien med de ristede grønnsakene, smuldret feta, hakket rødløk, soltørkede tomater, oliven og ferske cherrytomater. Tilsett **halvparten** av dressingen og vend godt rundt.
@@ -12792,6 +12791,9 @@ Fiskefarse fra bunnen i foodprosessor: fisk og salt først, så krydder, potetme
 - **Samme farse, tre retter.** *Fiskepudding:* fyll en smurt brødform, bank ut luftlommene, sett i vannbad og stek på **125 °C i 40–45 minutter**. *Fiskeboller:* form med skje eller sprøytepose i vann som så vidt bobler, og la dem trekke **5–10 minutter**. Kraften kan brukes til saus.
 - **Andre fiskeslag går fint** — sei, lyr, torsk, laks, steinbit. Feit fisk gir mykere farse.
 - **Beslektet:** [ertepuré (T136)](#t136-ertepuré) og [kokte poteter (T135)](#t135-kokte-poteter) er det klassiske tilbehøret sammen med brunet løk, og [kjøttkaker med kålstuing (nr. 195)](#195-kjøttkaker-med-kålstuing) er samme farseprinsipp på kjøtt.
+
+---
+
 ## SJ18. Rå laks med thai-dipp
 
 **Kilde:** @fysenpaa og @leroynorge (Instagram, betalt partnerskap, 21. september 2025) · **Kjøkken:** Norsk-thai · **Tid:** ca. 20 min · **Porsjoner:** forrett til 3–4
