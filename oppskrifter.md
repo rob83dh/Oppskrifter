@@ -1096,7 +1096,7 @@ En av de raskeste rettene du kan lage. Nudler i en nøtteaktig, syrlig og sterk 
 1. **Bland sausen.** Rør sammen peanøttsmør, hvitløk, mesteparten av vårløken (spar litt til topping), chiliolje, gochugaru, sesamfrø, honning, riseddik og soyasaus i en stor bolle.
 2. **Stek kjøttdeigen.** Varm peanøttoljen i en panne på god varme. Ha i kjøttdeigen og saltet, og stek til den har fått farge. Tilsett hvitløken og stek i 30 sekunder til, og hell så over soyasausen.
 3. **Kok nudlene.** Kok nudlene etter anvisningen på pakken. Ta vare på ca. 1 dl av kokevannet før du siler dem.
-4. **Løs opp sausen.** Rør et par spiseskjeer av det varme nudlevannet inn i sausen til den får konsistens som tynn krem. Peanøttsmøret trenger dette for å ikke bli klumpete.
+4. **Løs opp sausen.** Rør et par spiseskjeer av det varme nudlevannet inn i sausen til den får konsistens som tynn krem. Peanøttsmøret trenger dette for ikke å bli klumpete.
 5. **Vend sammen.** Ha nudlene i bollen og vend dem godt i sausen.
 6. **Anrett.** Fordel i to boller, topp med kjøttdeigen og resten av vårløken.
 
@@ -1147,7 +1147,7 @@ Kremet, nøtteaktig suppe på soyamelk med udon-nudler og dampede dumplings. Ful
 ### Fremgangsmåte
 
 1. **Kutt.** Skjær opp vårløk, chili og sjalottløk. Spar litt vårløk og chili til topping.
-2. **Stek smaksbunnen.** Stek alt i litt olje i en kasserolle. Tilsett hvitløkspastaen – eller fersk hvitløk helt mot slutten, som er viktig for å unngå bitter smak.
+2. **Stek smaksbunnen.** Stek alt i litt olje i en kasserolle, og rør inn hvitløkspastaen. Bruker du fersk hvitløk, har du den i helt til slutt, så den ikke blir bitter.
 3. **Hell over soyamelken** og la det småkoke.
 4. **Bland peanøttsausen** i en egen bolle: peanøttsmør, mushroom sauce, søt soyasaus, chili crisp og sesamolje.
 5. **Rør sausen inn** i kasserollen sammen med grønnsakskraften, og eventuelt litt ekstra chili crisp for mer varme.
@@ -1163,7 +1163,6 @@ Kremet, nøtteaktig suppe på soyamelk med udon-nudler og dampede dumplings. Ful
 - **Mushroom sauce** (soppsaus) er en vegetarisk erstatning for østerssaus, og finnes i asiatiske butikker. Har du den ikke, bruk østerssaus – eller 1 ss soyasaus pluss en klype sukker.
 - **Søt soyasaus** = kecap manis, tykk og sirupsaktig. Ikke det samme som vanlig soyasaus.
 - Antall dumplings er ikke oppgitt i originalen. 8–10 til to personer passer.
-- Sesamfrø nevnes i toppingen, men ikke i ingredienslisten.
 - **Beslektet:** [spicy peanøtt-ramen med crispy kjøttdeig (nr. 223)](#223-spicy-peanøtt-ramen-med-crispy-kjøttdeig) er Ragne Tremoens ramenversjon, med crispy kjøttdeig i stedet for dumplings.
 
 ---
@@ -1195,7 +1194,7 @@ Pho virker som noe man bare får på restaurant, men det er få retter som gir s
 - Sriracha og/eller hoisinsaus
 
 **Ellers**
-- Risnudler (banh pho)
+- 300–400 g tørre risnudler (bánh phở) *(Lagt til.)*
 
 ### Fremgangsmåte
 
@@ -1210,7 +1209,7 @@ Pho virker som noe man bare får på restaurant, men det er få retter som gir s
 9. **Etter 1,5 time:** ta ut kyllingen og riv den i biter. Sett den til side.
 10. **Sil kraften** for krydderrester og annet.
 11. **Smak til.** Juster med fiskesaus, sukker og salt.
-12. **Kok nudlene.** Risnudler trenger bare ca. 10 sekunder i kokende vann.
+12. **Kok nudlene.** Tørre risnudler kokes eller bløtlegges etter anvisningen på pakken. Ferske trenger bare 10–20 sekunder i kokende vann.
 13. **Anrett.** Legg nudler og alt tilbehøret i en stor bolle og hell den varme kraften over.
 14. **Server** med fersk lime og sriracha eller hoisin etter smak.
 
@@ -1220,7 +1219,7 @@ Pho virker som noe man bare får på restaurant, men det er få retter som gir s
 - **Skum av tidlig og ofte.** De første 30 minuttene avgjør om kraften blir klar eller grumsete.
 - **Ikke la det fosskoke.** Kraften skal så vidt boble. Kraftig koking emulgerer fettet og gjør kraften uklar.
 - **Pho-kryddersett** finnes i vietnamesiske og asiatiske butikker. Lager du det selv: stjerneanis, kanelstang, nellik, korianderfrø, fennikelfrø og litt svart kardemomme.
-- **Risnudler mangler i originalens ingrediensliste**, men brukes i fremgangsmåten. Regn ca. 100 g tørre nudler per person, eller en pakke ferske.
+- **Risnudler mangler i originalens ingrediensliste**, men brukes i fremgangsmåten. Regn ca. 100 g tørre nudler per person.
 - **Lime, sriracha og hoisin** står også bare i fremgangsmåten.
 - **Rekkefølgen ved servering betyr noe:** nudler og tilbehør i bollen først, kokende kraft over til slutt. Den varme kraften er det som så vidt tilbereder løken og urtene.
 - Kraften blir bedre dagen etter. Lag den gjerne i forkant og varm opp ved servering.
@@ -1265,7 +1264,7 @@ Den fullverdige varianten: margbein og oksekjake trukket i et helt døgn til kra
 
 1. **Grill grønnsakene.** Svi sjalottløk, løk og ingefær direkte over flammen eller under grillelementet til de er godt svidde. Det er dette som gir kraften dybde.
 2. **Forkok kjøttet.** Kok margbein og oksekjake i 15 minutter for å trekke ut blod og urenheter.
-3. **Vask gryte og kjøtt.** Skyll kjøttet forsiktig – pass på at du ikke skyller ut margen.
+3. **Vask gryte og kjøtt.** Hell av vannet, vask gryta og skyll kjøttet forsiktig – pass på at du ikke skyller ut margen.
 4. **Sett kraften på nytt vann.** Legg grønnsaker, margbein og kjaker i gryta og fyll på med friskt vann så alt er dekket.
 5. **Rist krydderet.** Rist fennikelfrø, korianderfrø, stjerneanis, kardemomme, nellik og kanel på svak varme til det dufter.
 6. **Pakk krydderet** i osteklede eller en krydderpose og legg det i gryta.
@@ -1324,9 +1323,9 @@ Snarveien: ferdig grillkylling fra butikken gir både kjøtt til toppingen og sk
 ### Fremgangsmåte
 
 1. **Svi løk og ingefær.** Del dem opp og stek dem under grillelementet til de har mørknet litt.
-2. **Plukk kyllingen.** Skill kjøttet fra skrogget, riv det opp og sett det til side. Ta vare på skrogget.
+2. **Plukk kyllingen.** Skill kjøttet fra skroget, riv det opp og sett det til side. Ta vare på skroget.
 3. **Rist krydderet.** Rist kryddermiksen i en tørr panne til den dufter og har fått litt farge. Legg den i en krydderpose.
-4. **Sett kraften.** Ha kyllingskrog, de svidde smaksbunnen, krydderposen, vannet, fiskesausen og kandissukkeret i en stor gryte eller trykkoker.
+4. **Sett kraften.** Ha kyllingskroget, den svidde løken og ingefæren, krydderposen, vannet, fiskesausen og kandissukkeret i en stor gryte eller trykkoker.
 5. **Kok.** På komfyren: kok opp og skru umiddelbart ned til svak koking i 45 minutter. I trykkoker: 30 minutter.
 6. **Server** med risnudler og det tilbehøret du liker.
 
@@ -1345,7 +1344,7 @@ Snarveien: ferdig grillkylling fra butikken gir både kjøtt til toppingen og sk
 
 ## 15. Kyllingpho, Alissa Nguyen Won
 
-**Kilde:** @alissanguyen_ (TikTok, 6. oktober 2025) · **Kjøkken:** Vietnamesisk · **Tid:** 1–2½ time · **Porsjoner:** 4–6
+**Kilde:** @alissanguyen_ (TikTok, 6. oktober 2025) · **Kjøkken:** Vietnamesisk · **Tid:** 1–2½ timer · **Porsjoner:** 4–6
 
 Nok en grillkylling-variant, men denne oppgir hele kryddersammensetningen i stedet for ferdigpose. Bruker restene av en grillkylling – skrog, skinn og kraft fra formen.
 
@@ -1433,7 +1432,7 @@ Kremet uten fløte: peanøttsmør, tahini og kokosmelk gjør jobben. Smuldret, k
 
 1. **Stek tofuen.** Smuldre opp tofuen og stek den på middels til sterk varme til den er brun.
 2. **Glaser tofuen.** Hell over soyasaus og sprø chiliolje, og rør til alt er absorbert i tofuen. Sett til side.
-3. **Fres hvitløken.** Varm olje i en panne, ha i chilioljen og hvitløken, og stek i 1–2 minutter.
+3. **Fres hvitløken.** Varm chilioljen i en kjele og fres hvitløken i 1–2 minutter.
 4. **Rør inn nøttene.** Ha i peanøttsmør og tahini og rør sammen.
 5. **Spe med væske.** Ha i kokosmelk og kraft.
 6. **Smak til.** Varm opp og tilsett fiskesaus, MSG og soyasaus. Smak til.
@@ -1444,7 +1443,7 @@ Kremet uten fløte: peanøttsmør, tahini og kokosmelk gjør jobben. Smuldret, k
 ### Notater
 
 - **Misoen skal i etter at pannen er tatt av varmen** – akkurat som i [misosuppen](#6-misosuppe). Koking ødelegger aromaen.
-- **Punkt 3 er litt uklart i originalen:** «varm opp olje … ha i chiliolje». Det holder å bruke de 2 ss chilioljen alene, den inneholder rikelig med fett.
+- **Originalen sier «varm opp olje … ha i chiliolje».** Chilioljen alene gir rikelig med fett, så den ekstra oljen er droppet.
 - **Smuldret tofu, ikke terninger.** Det gir mer overflate å brune, og teksturen ligner kjøttdeig.
 - **Ikke vegetarisk** slik den står, selv om originalen er tilpasset fra Bosh (som er vegansk). Dropp fiskesausen og bruk grønnsakskraft, så er den det.
 - **1 liter kraft pluss 3 dl kokosmelk** gir rikelig med buljong til fire porsjoner. Nudelmengden er ikke oppgitt – regn ca. 100 g tørre per person.
@@ -1501,7 +1500,7 @@ Hevet deig i stedet for gyoza-ark: sprøstekt i bunnen, luftig og myk på toppen
 3. **Del deigen.** Når deigen er ferdig hevet: rull den til en tykk pølse og del den i 10–12 like store biter. Rull hver bit til en liten ball og la dem etterheve under håndkle i 5–10 minutter.
 4. **Kjevle ut.** Kjevle hver bit til en rund leiv på ca. 12 cm i diameter. Bruk gjerne ekstra mel så det ikke setter seg fast i benken.
 5. **Fyll og lukk.** Legg ca. 45 g fyll på hver leiv, brett inn kantene og lukk godt. Gjenta med alle. *Det blir sannsynligvis farse til overs – den kan fint stekes som karbonader.*
-6. **Stek.** Varm en stekepanne du har lokk til (aluminiumsfolie funker også) på styrke 8 av 9. Ha i 2–3 ss rapsolje og legg i dumplingene med skjøten ned, så det freser. Sørg for litt mellomrom mellom dem.
+6. **Stek.** Varm en stekepanne du har lokk til (aluminiumsfolie fungerer også) på styrke 8 av 9. Ha i 2–3 ss rapsolje og legg i dumplingene med skjøten ned, så det freser. Sørg for litt mellomrom mellom dem.
 7. **Senk varmen.** Når alle er i, senk til 5 (middels) og stek til de får fin farge i bunnen.
 8. **Damp.** Hell i 1 dl vann og legg raskt på lokk. Damp i 10–12 minutter.
 9. **Server.** Dryss over sesamfrø og vårløk. Vend dem ut på et fat og server med soyadippen og eventuelt litt chiliolje.
@@ -1541,7 +1540,7 @@ Kremet, sterk kokosbuljong med reker og risnudler. Rask å lage når laksapastae
 - Ca. 150 g bønnespirer
 - 1 bunt tatsoi eller annen bladgrønnsak
 - 2 egg, bløtkokte
-- Kaffirlimeblader *(står i fremgangsmåten, men mangler i originalens ingrediensliste)*
+- 4–6 kaffirlimeblader *(Lagt til.)*
 
 **Garnityr**
 - Chiliolje
@@ -1557,16 +1556,16 @@ Kremet, sterk kokosbuljong med reker og risnudler. Rask å lage når laksapastae
 3. **Ha i kokos.** Hell i 3 dl av kokoskremen – spar den siste desiliteren til senere – sammen med kokosmelken. Kok forsiktig opp, senk varmen og la det småkoke i 5 minutter så det reduserer litt.
 4. **Tilsett limeblader og kraft**, og kok opp igjen.
 5. **Ha i reker og grønt.** Tilsett rekene, eventuelle soup dumplings og bladgrønnsakene. La alt koke i ca. 2 minutter – det fortsetter å tilberedes i den varme buljongen etter at gryta er tatt av varmen.
-6. **Rund av.** Rør inn resten av kokoskremen, en god skvis limejuice, fiskesausen og mesteparten av bønnespirene. Spar noen til pynt.
+6. **Rund av.** Rør inn resten av kokoskremen, limejuicen, fiskesausen, sukkeret og mesteparten av bønnespirene. Spar noen til pynt.
 7. **Server.** Fordel nudlene i boller og hell den varme buljongen over. Topp med koriander, chiliolje, sprøstekt sjalottløk, bløtkokt egg, ekstra bønnespirer og en limebåt.
 
 ### Notater
 
 - **Ikke overkok rekene.** To minutter i gryta er nok – ettervarmen i buljongen gjør resten. Blir de gummiaktige, er de kokt for lenge.
-- **Å steke laksapastaen først er hele poenget.** Fettet trekker ut aromaen fra pastaen. Hell du den rett i væsken, blir smaken flat.
+- **Å steke laksapastaen først er hele poenget.** Fettet trekker ut aromaen fra pastaen. Heller du den rett i væsken, blir smaken flat.
 - **Å holde igjen 1 dl kokoskrem til slutt** gir en friskere, mer uttalt kokossmak enn om alt kokes inn.
-- **Limeblader mangler i ingredienslisten**, men brukes i punkt 4. Regn 4–6 blader. Finnes frosne i asiatiske butikker.
-- **Sukkeret (1 ss) står i ingredienslisten, men brukes ikke i fremgangsmåten.** Rør det inn sammen med fiskesausen i punkt 6.
+- **Limeblader mangler i originalens ingrediensliste**, men brukes i punkt 4. Frosne finnes i asiatiske butikker.
+- **Sukkeret står i originalens ingrediensliste, men ikke i fremgangsmåten.** Det er lagt inn i punkt 6.
 - **Soup dumplings nevnes i punkt 5**, men står ikke blant ingrediensene. Valgfritt tilbehør.
 - **Porsjonsangivelsen er lav.** 1 liter kraft pluss 8 dl kokos er nærmere 3–4 porsjoner enn 2.
 - Bank sitrongresset med baksiden av en kniv før du har det i – det slipper mye mer aroma.
