@@ -11649,7 +11649,7 @@ Kyllinglårfileter marinert i en søt char siu-inspirert marinade med hoisin, fi
 - 2 ss mørk soyasaus
 - 2 ss shaoxing-vin (kan sløyfes)
 - 6 fedd hvitløk, revet
-- 6 ts five spice
+- 2 ss kinesisk femkrydder
 - 3 ss brunt sukker
 
 **Sesam-sobasalat**
@@ -11697,8 +11697,8 @@ Stekt entrecôte med en saus av karamellisert løk, mirin, soya og hvit miso –
 - 3 ss smør
 - 1 stk løk, finhakket
 - 2 fedd hvitløk, finhakket
-- 0,5 dl mirin
-- 0,4 dl lys soyasaus
+- 3 ss mirin
+- 3 ss lys soyasaus
 - 1 ss mørk soyasaus
 - 1 ss hvit miso
 - 2 ss riseddik
@@ -11746,7 +11746,7 @@ Posjert kyllinglår i strimler over agurkskiver, med en saus av tahini, peanøtt
 - 4 stk kyllinglårfileter med skinn
 - 5 skiver ingefær
 - 3 stilker vårløk
-- 3 ts salt
+- 1 ss salt
 - 1 stk agurk
 
 **Saus**
@@ -11789,7 +11789,7 @@ Kilden kaller den en «plug-in-hybrid»: amatricianaens karamelliserte tomatpur�
 
 - 180 g spaghetti eller bucatini
 - 120 g guanciale, fint strimlet
-- 1,5 ss tomatpuré
+- 1 ss + 1½ ts tomatpuré
 - 1 ts chiliflak
 - 1 hvitløksfedd, knust (med skallet på)
 - 3–4 eggeplommer
@@ -11879,7 +11879,7 @@ Rask hverdagsversjon av bolognese der pastaen kokes ferdig og vendes rett inn i 
 - 1 stk gul løk
 - 1 boks hakkede tomater
 - 2 dl oksekraft
-- 0,8 dl kremfløte *(se notat om fettinnhold)*
+- 80 g kremfløte *(se notat om fettinnhold)*
 - 1 ss hvitløkspasta
 - 1 ss tomatpuré
 - Fersk persille
