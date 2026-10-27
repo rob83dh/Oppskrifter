@@ -2637,10 +2637,10 @@ Fiskebiter posjert i kokosmelk med en frisk karripasta laget fra bunnen av hvitl
 - 550 g fast fisk i terninger — kilden bruker laks
 - 1 ts sennepsfrø
 - 1 ss ghee, eller smør
-- 400 ml kokosmelk
+- 4 dl kokosmelk
 - 1 ss lys soyasaus
 - Saft av 1 lime
-- ½ ss sukker
+- 1½ ts sukker
 
 **Topping**
 - Chiliolje *(valgfritt)*
@@ -2689,9 +2689,9 @@ Originalen som de to andre karri-dumplingsuppene i samlingen bygger på. Kraften
 - ca. 3 cm ingefær, revet
 - 2 hvitløksfedd, finhakket
 - 4 ss rød karripasta
-- ca. 950 ml kyllingkraft
-- 400 ml kokosmelk
-- 1½ ss sukker, eller etter smak
+- ca. 1 liter kyllingkraft
+- 4 dl kokosmelk
+- 1 ss + 1½ ts sukker, eller etter smak
 - 1 ss fiskesaus, eller etter smak
 - Limesaft, etter smak
 
@@ -2713,11 +2713,11 @@ Originalen som de to andre karri-dumplingsuppene i samlingen bygger på. Kraften
 ### Notater
 
 - **Wontons og pak choi kokes for seg, ikke i suppa.** Dette er hovedforskjellen fra de to avledede versjonene. Stivelsen fra dumplingarkene gjør kraften uklar og tykk hvis de kokes i den, og pak choien beholder spensten bedre i eget vann.
-- **Karripastaen bør avpasses etter merke.** 4 ss er mye, og fungerer med milde vestlige merker. Bruker du Maesri eller Mae Ploy, start på 1½ ss og øk. Kilden oppgir ikke merke, i motsetning til [nr. 41](#41-rød-karri-dumplingsuppe-med-kylling--saltnpiipa-sin-versjon), som spesifiserer Thai Kitchen — og det er sannsynligvis forklaringen på at 4 ss står der uten forbehold.
+- **Karripastaen bør avpasses etter merke.** 4 ss er mye, og fungerer med milde vestlige merker. Bruker du Maesri eller Mae Ploy, start på 1–2 ss og øk. Kilden oppgir ikke merke, i motsetning til [nr. 41](#41-rød-karri-dumplingsuppe-med-kylling--saltnpiipa-sin-versjon), som spesifiserer Thai Kitchen — og det er sannsynligvis forklaringen på at 4 ss står der uten forbehold.
 - **De ti minuttene med småkoking er ikke pynt.** Det er der løken mykner helt opp og karripastaen slipper smaken ut i kraften.
 - **Limesaften i etter kokingen.** Syren forsvinner ved varme.
 - **Sukker og fiskesaus er oppgitt «etter smak»** i originalen, med mengder som utgangspunkt. Karripastaer varierer i både salt og sødme, så smak før du har i alt.
-- **Dette er kilden de andre bygger på.** [Nr. 41](#41-rød-karri-dumplingsuppe-med-kylling--saltnpiipa-sin-versjon) har praktisk talt identiske mengder — samme 4 ss pasta, samme 950 ml kraft, samme 400 ml kokosmelk, samme sukker og fiskesaus, samme 24 wontons — med bare små justeringer i løk, hvitløk og ingefær. [Nr. 40](#40-rød-karri-dumplingsuppe-med-kylling--realchefpaul-sin-versjon) er en nedskalert og friskere variant. Skal du lage én av de tre, er dette originalen med forfatterens egen fremgangsmåte.
+- **Dette er kilden de andre bygger på.** [Nr. 41](#41-rød-karri-dumplingsuppe-med-kylling--saltnpiipa-sin-versjon) har praktisk talt identiske mengder — samme 4 ss pasta, samme liter kraft, samme 4 dl kokosmelk, samme sukker og fiskesaus, samme 24 wontons — med bare små justeringer i løk, hvitløk og ingefær. [Nr. 40](#40-rød-karri-dumplingsuppe-med-kylling--realchefpaul-sin-versjon) er en nedskalert og friskere variant. Skal du lage én av de tre, er dette originalen med forfatterens egen fremgangsmåte.
 - Se også de øvrige dumplingrettene i saus eller suppe: [dumplings i rød karri- og kokossaus (S1)](#s1-dumplings-i-rød-karri--og-kokossaus), [dumplings i spicy peanøtt-udonsuppe (nr. 11)](#11-dumplings-i-spicy-peanøtt-udonsuppe), [rød karri-dumplingsuppe med reker (nr. 39)](#39-rød-karri-dumplingsuppe-med-reker) og [tom yum-suppe med hjemmelagde dumplings (nr. 43)](#43-tom-yum-suppe-med-hjemmelagde-dumplings).
 
 ---
@@ -2793,7 +2793,7 @@ Tykke udonnudler i en japansk karrikraft laget på ferdige karriterninger og das
 - 2 ss soyasaus
 - 2 ss mirin
 - 1 ss brunt sukker
-- ca. 950 ml vann *(står ikke i kildens ingrediensliste — se notat)*
+- ca. 1 liter vann *(står ikke i kildens ingrediensliste — se notat)*
 
 ### Fremgangsmåte
 
@@ -2807,10 +2807,10 @@ Tykke udonnudler i en japansk karrikraft laget på ferdige karriterninger og das
 
 ### Notater
 
-- **Vannet mangler i kildens ingrediensliste.** Det dukker først opp i fremgangsmåten som «4 cups» — altså ca. 950 ml. Uten det kan du verken planlegge eller skalere oppskriften.
+- **Vannet mangler i kildens ingrediensliste.** Det dukker først opp i fremgangsmåten som «4 cups» — altså ca. 1 liter. Uten det kan du verken planlegge eller skalere oppskriften.
 - **Ingredienslisten og fremgangsmåten er ute av takt på soyasaus og mirin.** Listen oppgir 2 ss av hver, men punkt 3 bruker bare 1 ss av hver. Resten er ment til smakjusteringen i punkt 5. Ikke hell alt i med én gang.
 - **Karriterningene bestemmer styrken.** Golden Curry finnes i mild, medium og sterk — sjekk esken. Terningene er også godt saltet i seg selv, så vær forsiktig med ekstra soyasaus før du har smakt.
-- **To terninger på nesten en liter væske gir en tynn kraft**, ikke den tykke sausen man kjenner fra japansk karri med ris. Vil du ha den tykkere, bruk tre terninger eller reduser vannet til 7–8 dl.
+- **To terninger på en liter væske gir en tynn kraft**, ikke den tykke sausen man kjenner fra japansk karri med ris. Vil du ha den tykkere, bruk tre terninger eller reduser vannet til 7–8 dl.
 - **Nudlene koker i kraften.** Det tykner den ekstra av stivelsen, men gjør også at rester suger opp all væsken. Skal du ha rester, kok nudlene separat og hell kraften over ved servering.
 - **Dashipulver inneholder fisk**, så retten er ikke vegetarisk selv om du bytter ut kyllingen. Mange karriterninger inneholder også kjøttekstrakt.
 - **Kyllingbryst blir fort tørt.** Punkt 3 sier bevisst «halvveis gjennomstekt» — resten skjer i kraften. Følg det, ellers er kyllingen overstekt før nudlene er ferdige.
@@ -2830,11 +2830,11 @@ Sideflesk i store terninger, braisert langsomt i sake, soya og dashi til kjøtte
 
 - 450 g svinesideflesk med svor, i terninger på ca. 5 cm
 - ½ løk, i skiver
-- 80 ml sake
-- 80 ml lys soyasaus
+- 80 g sake
+- 90 g lys soyasaus
 - ca. 70 g brunt sukker
 - 2 ss mirin
-- 240 ml dashi
+- 2,5 dl dashi
 - 3 hvitløksfedd
 - 2 skiver ingefær
 - 1 vårløk
@@ -2880,7 +2880,7 @@ Sideflesk i skiver stekes i panna, spises som ssam i salatblader med hvitløk og
 - Salatblader og perillablader (kkaennip) til ssam
 - 4–6 hvitløksfedd, i skiver
 - ca. 200 g kimchi
-- 3 dl kald, kokt ris — ca. 1,2 dl tørr ris *(står ikke i kildens ingrediensliste)*
+- ca. 200 g kald, kokt ris — ca. 80 g tørr ris *(står ikke i kildens ingrediensliste)*
 - Tangpulver (gimgaru)
 - Sesamolje
 - Gressløk *(valgfritt)*
@@ -2921,7 +2921,7 @@ Stekt laks over jasminris med en silkeglatt karrisaus der mango er most inn i ko
 - 2 laksefileter
 - 1 ss rød karripasta
 - 1 ss fiskesaus
-- ½ ss sukker
+- 1½ ts sukker
 - 2 hvitløksfedd, finhakket
 - Salt
 
@@ -2931,7 +2931,7 @@ Stekt laks over jasminris med en silkeglatt karrisaus der mango er most inn i ko
 - ca. 90 g mangobiter
 - ½ ts malt spisskummen
 - 1 klype salt
-- 250 ml lett kokosmelk
+- 2,5 dl lett kokosmelk
 - 1 stilk sitrongress, banket
 - 1 tørket chili, eller 1 birds eye-chili uten frø
 - 1 ss limesaft
@@ -2986,7 +2986,7 @@ Sausen røres sammen kald i bunnen av bollen, og de nykokte nudlene varmer den o
 - 1 ss chiliolje
 - 1 ts sesamolje
 - 2 hvitløksfedd, finhakket
-- ½ ss riseddik
+- 1½ ts riseddik
 - 1 ts sukker
 - 2–3 ss varmt vann, etter ønsket konsistens
 
@@ -3045,7 +3045,7 @@ Kyllingbryst panert i knuste cornflakes, penslet med en klebrig gochujangglasur 
 - Salt og pepper
 
 **Syltet agurk**
-- Agurk i tynne skiver *(mengde ikke oppgitt)*
+- ½ agurk i tynne skiver *(Lagt til.)*
 - 1 ss riseddik
 - 2 ss lettsaltet soyasaus
 - ½ ts chiliflak
@@ -3053,10 +3053,10 @@ Kyllingbryst panert i knuste cornflakes, penslet med en klebrig gochujangglasur 
 - Sesamfrø
 
 **Klebrig glasur**
-- 30–40 g lettsaltet soyasaus
+- 2–3 ss lettsaltet soyasaus
 - 1–2 ss gochujang, etter ønsket styrke
-- 20 g honning
-- 10 g sesamolje
+- 1 ss honning
+- 2 ts sesamolje
 
 ### Fremgangsmåte
 
@@ -3096,9 +3096,9 @@ Kyllinglår i terninger, brunet og vendt i en teriyakisaus som tyknes ved innkok
 - 1 ss olivenolje eller nøytral olje
 
 **Teriyakisaus**
-- 80 ml soyasaus
-- 60 ml mirin
-- 60 ml matlagingssake
+- 90 g soyasaus
+- 4 ss mirin
+- 4 ss matlagingssake
 - 3 hvitløksfedd, finhakket
 - 1 ts revet ingefær
 - 2 ss brunt sukker
@@ -3118,9 +3118,9 @@ Kyllinglår i terninger, brunet og vendt i en teriyakisaus som tyknes ved innkok
 
 ### Notater
 
-- **Sausen tyknes ved innkoking, ikke med maisenna.** Det er den klassiske metoden, og gir en renere smak. Til gjengjeld blir 200 ml væske ikke sirupstykk på 3–4 minutter — den tykner videre når kyllingen går tilbake i panna og fortsetter å koke inn. Vil du ha den tydelig klebrig, kok den et par minutter lenger før kyllingen i.
+- **Sausen tyknes ved innkoking, ikke med maisenna.** Det er den klassiske metoden, og gir en renere smak. Til gjengjeld blir 2 dl væske ikke sirupstykk på 3–4 minutter — den tykner videre når kyllingen går tilbake i panna og fortsetter å koke inn. Vil du ha den tydelig klebrig, kok den et par minutter lenger før kyllingen i.
 - **Sake selges på Vinmonopolet** i Norge, siden det er alkohol. Matlagingssake med tilsatt salt regnes derimot som matvare og finnes i asiatiske butikker. Har du ingen av delene, kan tørr sherry brukes.
-- **Salt og pepper står i fremgangsmåten, men mangler i ingredienslisten.** Vær forsiktig med saltet — 80 ml soyasaus i sausen salter kraftig i seg selv.
+- **Salt og pepper står i fremgangsmåten, men mangler i ingredienslisten.** Vær forsiktig med saltet — 90 g soyasaus i sausen salter kraftig i seg selv.
 - **De 15 minuttene med hviletid** etter krydringen er tatt med i tidsangivelsen. Tørr overflate og hvilt kjøtt gir bedre bruning.
 - **Porsjonsantall er ikke oppgitt.** 500 g kylling er 3–4 porsjoner servert over ris.
 - **Kjernetemperatur 74 °C.**
