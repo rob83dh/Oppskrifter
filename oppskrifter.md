@@ -20114,7 +20114,7 @@ Ferdige dumplings i en kremet rød karrisaus med kokosmelk. Hverdagsmat som ser 
 
 ### Fremgangsmåte
 
-1. **Frés aromatene.** Varm sesamoljen i en vid panne. Ha i karripastaen, hvitløken og ingefæren, og frés i ca. 1 minutt til det dufter og pastaen har mørknet litt.
+1. **Fres aromatene.** Varm sesamoljen i en vid panne. Ha i karripastaen, hvitløken og ingefæren, og fres i ca. 1 minutt til det dufter og pastaen har mørknet litt.
 2. **Rør ut kokosmelken.** Hell i kokosmelken litt etter litt og rør ut karripastaen helt. Tilsett soyasaus, honning og fiskesaus.
 3. **La sausen koke inn.** La den småkoke i 5 minutter til den har tyknet litt.
 4. **Tilbered dumplingene.** Stek eller damp dumplingene etter anvisningen på pakken. Alternativt kan de legges rett i sausen og trekke i 5–6 minutter, men da blir de bløtere.
@@ -20125,7 +20125,7 @@ Ferdige dumplings i en kremet rød karrisaus med kokosmelk. Hverdagsmat som ser 
 
 - **Originalen oppgir ingen fremgangsmåte** – bare ingrediensene. Trinnene over er standardmetoden for denne typen rett.
 - **Stek dumplingene separat hvis du vil ha tekstur.** Sprøstekt bunn mot kremet saus er hele poenget. Koker du dem i sausen, blir alt mykt.
-- **Frés karripastaen i olje før kokosmelken.** Dette trekker ut fettløselig smak fra pastaen og utgjør stor forskjell.
+- **Fres karripastaen i olje før kokosmelken.** Dette trekker ut fettløselig smak fra pastaen og utgjør stor forskjell.
 - **Rød karripasta varierer kraftig i styrke** mellom merker. Maesri og Mae Ploy er sterkere enn de fleste vestlige merkene. Start med 1 ss hvis du bruker et thaimerke for første gang.
 - Bruk kokosmelk, ikke kokosdrikk – fettinnholdet er det som gir sausen tykkelse.
 - Fungerer med både vegetariske og kjøttfylte dumplings.
@@ -20136,7 +20136,7 @@ Ferdige dumplings i en kremet rød karrisaus med kokosmelk. Hverdagsmat som ser 
 
 **Kilde:** Foodieelise / @foodieelise (TikTok, 23. september 2025) · **Kjøkken:** Asiatisk · **Tid:** ca. 1 time · **Porsjoner:** 4
 
-Hjemmelagde dumplings med kyllingfarse, stekt med maizenablanding så de får sprø «skjørt». Egner seg utmerket til frysing – doble gjerne oppskriften.
+Hjemmelagde dumplings med kyllingfarse, stekt med maisennablanding så de får sprø «skjørt». Egner seg utmerket til frysing – doble gjerne oppskriften.
 
 *Skaperen presiserer selv at man bør følge den skriftlige stekemetoden under, ikke det hun gjør i videoen.*
 
@@ -20156,8 +20156,8 @@ Hjemmelagde dumplings med kyllingfarse, stekt med maizenablanding så de får sp
 - 2 ss søt soyasaus
 - 2–3 ss soyasaus
 
-**Maizenablanding**
-- 2 ts maizena
+**Maisennablanding**
+- 2 ts maisenna
 - 80 g vann
 
 **Dippsaus** (mengder ikke oppgitt – smak til)
@@ -20174,18 +20174,17 @@ Hjemmelagde dumplings med kyllingfarse, stekt med maizenablanding så de får sp
 2. **Finhakk.** Finhakk hvitløk, chili, koriander og vårløk. Riv ingefæren.
 3. **Bland fyllet.** Rør egget inn i kyllingen. Deretter hvitløk, chili, ingefær, koriander og vårløk. Til slutt rører du inn sausene.
 4. **Brett dumplingene.** Ca. 1–2 ts fyll per ark. Ikke fyll dem for fulle. Brett gjerne sammen med noen, for det tar litt tid. Teknikken er en øvelsessak – det viktigste er at du dypper fingeren i vann og stryker langs kantene, og deretter bretter og limer alle ender godt.
-5. *(Punkt 5 mangler i kilden.)*
-6. **Stek dem.** Ha litt olje i en stekepanne og stek dumplingene på middels sterk varme til de får fin skorpe under. Senk til litt under middels varme, tilsett maizenablandingen og legg på lokk. La dem dampe under lokk i 6–8 minutter. Vær forsiktig når du tar av lokket – pass på dampen. Stek videre uten lokk i noen minutter til vannet er fordampet og maizenaen er sprø.
-7. **Server.** Bruk et fat som er større enn stekepannen når du vender dumplingene rundt. Rør sammen dippsausen og smak til. Server dumplingene varme.
+5. **Stek dem.** Ha litt olje i en stekepanne og stek dumplingene på middels sterk varme til de får fin skorpe under. Senk til litt under middels varme, tilsett maisennablandingen og legg på lokk. La dem dampe under lokk i 6–8 minutter. Vær forsiktig når du tar av lokket – pass på dampen. Stek videre uten lokk i noen minutter til vannet er fordampet og maisennaen er sprø.
+6. **Server.** Bruk et fat som er større enn stekepannen når du vender dumplingene rundt. Rør sammen dippsausen og smak til. Server dumplingene varme.
 
 ### Notater
 
-- **Maizenablandingen er det som lager det sprø «skjørtet»** mellom dumplingene. Ikke hopp over den, og ikke ta av lokket for tidlig.
-- **Frys ned de du ikke bruker.** Legg dem på et brett med god avstand så de ikke fryser sammen, og flytt dem over i pose når de er gjennomfrosne. Stekes rett fra fryser med et par minutter ekstra dampetid.
-- **Punkt 5 mangler i originalen.** Sannsynligvis handlet det om å sette pannen på plass eller klargjøre maizenablandingen, men det er ikke mulig å vite sikkert.
+- **Maisennablandingen er det som lager det sprø «skjørtet»** mellom dumplingene. Ikke hopp over den, og ikke ta av lokket for tidlig.
+- **Frys ned de du ikke bruker.** Legg dem på et brett med god avstand så de ikke fryser sammen, og flytt dem over i pose når de er gjennomfrosne. Stekes rett fra fryseren med et par minutter ekstra dampetid.
+- **Kildens nummerering hopper over punkt 5.** Trolig gjaldt det å røre ut maisennablandingen; trinnene er nummerert om her.
 - **Dippsausen har ingen mengder.** Prøv 2 ss hoisin, 1 ss soyasaus, 1 ts søt soya, saften av ½ lime og litt sesamfrø som utgangspunkt.
 - Bruk kyllinglår, ikke bryst. Lårkjøtt har nok fett til at farsen ikke blir tørr.
-- **Se også [S1](#s1-dumplings-i-rød-karri--og-kokossaus)** hvis du vil bruke ferdige dumplings i en kremet karrisaus i stedet.
+- **Se også [dumplings i rød karri- og kokossaus (S1)](#s1-dumplings-i-rød-karri--og-kokossaus)** hvis du vil bruke ferdige dumplings i en kremet karrisaus i stedet.
 
 ---
 
@@ -20211,7 +20210,7 @@ Klassisk dim sum: åpne, dampede dumplings med svinekjøttdeig. Få ingredienser
 
 **Utstyr**
 - Bakepapir
-- Bambus dampkurv
+- Dampkurv av bambus
 
 ### Fremgangsmåte
 
@@ -20226,8 +20225,8 @@ Klassisk dim sum: åpne, dampede dumplings med svinekjøttdeig. Få ingredienser
 - **1 ss hvit pepper er svært mye** til 400 g kjøttdeig – det er omtrent tre ganger vanlig mengde, og hvit pepper er kraftig. Start med 1 ts og smak deg opp. Stek gjerne en liten klatt av farsen for å smake før du bretter alle.
 - **Legg bakepapir i dampkurven** og stikk noen hull i det, ellers setter dumplingene seg fast.
 - **Shumai er åpne på toppen** – de skal ikke lukkes helt igjen, slik som gyoza.
-- **Rør farsen samme vei** hele tiden, som i [nr. 18](#18-filips-stekte-bao-dumplings), så blir den fjærende i stedet for smuldrete.
-- **Tre dumpling-oppskrifter i samlingen:** disse dampede, [crispy med kylling](#s2-crispy-dumplings-med-kylling) i gyoza-ark, og [Filips stekte bao](#18-filips-stekte-bao-dumplings) med hevet deig.
+- **Rør farsen samme vei** hele tiden, som i [Filips stekte bao-dumplings (nr. 18)](#18-filips-stekte-bao-dumplings), så blir den fjærende i stedet for smuldrete.
+- **Andre dumplings:** [crispy dumplings med kylling (S2)](#s2-crispy-dumplings-med-kylling) i gyoza-ark, og [Filips stekte bao-dumplings (nr. 18)](#18-filips-stekte-bao-dumplings) med hevet deig.
 - Wontonark og bambuskurv finnes i asiatiske butikker. Har du ikke dampkurv, går det an å improvisere med en sil over en kjele og lokk over.
 
 ---
@@ -20280,7 +20279,7 @@ Familieoppskrift ført videre fra forfatterens shanghainesiske bestemor. Fyllet 
 **Koking**
 
 10. **Kok dem.** Kok opp en stor kjele med vann og salt det som til pasta. Slipp wontonene forsiktig i ved fossende koking, uten å overfylle kjelen — kok i flere omganger. La dem koke til de flyter opp, ca. 1–2 minutter. Hell i ca. 2,5 dl kaldt vann og vent til det koker opp igjen, ca. 45–60 sekunder. Sil av eller løft dem ut med hullsleiv.
-11. **Server** enten med dippsaus, i varm kyllingkraft med vårløk, eller la dem tørke 10–15 minutter etter kokingen og stek dem gyllne i panne.
+11. **Server** enten med dippsaus, i varm kyllingkraft med vårløk, eller la dem tørke 10–15 minutter etter kokingen og stek dem gylne i panne.
 
 ### Notater
 
@@ -20289,14 +20288,14 @@ Familieoppskrift ført videre fra forfatterens shanghainesiske bestemor. Fyllet 
 - **Forholdet 3:1 pak choi til kjøtt er et bevisst valg**, ikke en standard. Vil du ha kjøttrikere fyll, kan du gå helt opp til 1350 g kjøttdeig totalt for 1:1, og øke krydderet tilsvarende.
 - **Eltingen i 5 minutter er ikke valgfri.** Det er den som binder fyllet og gir spretten. Håndmikser med eltekrok fungerer hvis armen streiker.
 - **Bruker du kylling- eller kalkundeig i stedet for svin**, tilsett litt olje i fyllet. Magert fjærkre gir tørre wontons — det trengs fett for en saftig munnfull.
-- **Panne­steking:** 1 ss olje i en 25–28 cm **slippbelagt** panne. Legg wontonene i sirkler uten at de rører hverandre, hell over 2,5 dl kaldt vann, legg på lokk og sett på middels sterk varme. Kok til vannet nesten er borte, 6–7 minutter, skru ned til middels og stek videre til bunnene er gyllenbrune og sprø.
+- **Pannesteking:** 1 ss olje i en 25–28 cm **slippbelagt** panne. Legg wontonene i sirkler uten at de rører hverandre, hell over 2,5 dl kaldt vann, legg på lokk og sett på middels sterk varme. Kok til vannet nesten er borte, 6–7 minutter, skru ned til middels og stek videre til bunnene er gyllenbrune og sprø.
 - **Fra frossen:** ikke tin. Kokt: rett i kokende vann, lengre tid før de flyter opp, og to omganger med kaldt vann i stedet for én. Stekt: samme metode, 2–3 minutter ekstra.
 - **Frysing:** legg dem enkeltvis på bakepapirkledd brett uten at de rører hverandre, frys et par timer til de er faste, og pakk dem så i pose. Holder en måned.
 - **Kjernetemperatur 74 °C**, eller skjær en i to og sjekk at kjøttet ikke er rosa.
 - **Vask pak choien grundig.** Det sitter jord i skjøtene der stilkene møtes. Forfatteren legger dem i bløt i 15 minutter i vann med et par desiliter hvitvinseddik, og skyller hver enkelt etterpå.
 - **Dette er en helgeporsjon**, ikke en hverdagsmiddag: 1350 g pak choi og 650 g wontonark gir nesten hundre stykker. Halver alt hvis du bare skal ha en middag, eller lag full porsjon og frys.
 - **Innkjøp:** firkantede wontonark (ikke runde dumplingark) ligger i fryseren i asiatiske butikker. Pak choi finnes både som baby og vanlig — begge går.
-- Nærmeste slektning i samlingen er [shumai](#s3-shumai--dampede-dumplings); se også [crispy dumplings med kylling](#s2-crispy-dumplings-med-kylling) og [Filips stekte bao-dumplings](#18-filips-stekte-bao-dumplings).
+- **Beslektet:** [shumai (S3)](#s3-shumai--dampede-dumplings) er nærmest; se også [crispy dumplings med kylling (S2)](#s2-crispy-dumplings-med-kylling) og [Filips stekte bao-dumplings (nr. 18)](#18-filips-stekte-bao-dumplings).
 
 ---
 
@@ -20330,16 +20329,16 @@ Kyllingfyll med kinakål, vårløk og rikelig ingefær, brettet i runde ark. Lag
 4. **Smak på fyllet.** Stek eller mikrobølg en teskje og juster krydderet før du bretter noe.
 5. **Brett dumplingene.** En god teskje fyll midt på hvert runde ark. Fukt kanten, brett til en halvmåne og klem igjen, gjerne med folder langs kanten.
 6. **Stek dem som potstickers.** Varm litt olje i en slippbelagt panne, sett dumplingene tett men uten at de rører hverandre, og stek til bunnen er gyllen. Hell over ca. 1 dl vann, legg på lokk og la dem dampe 6–8 minutter til vannet er borte. Ta av lokket og la bunnen bli sprø igjen.
-7. **Server** med [dumplingsaus](#t5-dumplingsaus) eller soyasaus og riseddik.
+7. **Server** med [dumplingsaus (T5)](#t5-dumplingsaus) eller soyasaus og riseddik.
 
 ### Notater
 
 - **Kilden oppgir ingen fremgangsmåte**, bare ingredienslisten. Trinnene over er standard for denne typen dumplings, ikke kildens egne ord. Emneknaggen antyder potstickers, derfor stekemetoden i punkt 6.
-- **Kyllingkjøttdeig er magert og blir lett tørt.** Har du mulighet, be om deig av lårkjøtt framfor bryst, eller rør inn 1 ss nøytral olje i fyllet. Samme problemstilling nevnes uttrykkelig i [Shanghai-wontonene](#s4-shanghai-wontons-med-svin-og-pak-choi).
+- **Kyllingkjøttdeig er mager og blir lett tørr.** Har du mulighet, be om deig av lårkjøtt framfor bryst, eller rør inn 1 ss nøytral olje i fyllet. Samme problemstilling nevnes uttrykkelig i [Shanghai-wontonene (S4)](#s4-shanghai-wontons-med-svin-og-pak-choi).
 - **Kinakålen må avvannes.** Den slipper mye væske, og fyllet blir løst og vanskelig å brette uten dette steget. Kilden nevner det ikke.
 - **«1 ss kyllingbuljong» er tvetydig.** Pulver er mest sannsynlig ut fra mengden. Bruker du buljongterning, tilsvarer det omtrent én smuldret terning. Bruker du flytende fond, blir det for mye væske i fyllet.
-- **Retten er godt saltet fra før** — soyasaus, østerssaus og buljongpulver til sammen. Ikke tilsett salt uten å ha smakt på steg 4.
-- **Runde ark, ikke firkantede.** Runde brettes til halvmåner og er tykkere enn wontonark. Vil du bruke firkantede, se brettemetoden under [Shanghai-wontonene](#s4-shanghai-wontons-med-svin-og-pak-choi).
+- **Retten er godt saltet fra før** — soyasaus, østerssaus og buljongpulver til sammen. Ikke tilsett salt før du har smakt i punkt 4.
+- **Runde ark, ikke firkantede.** Runde brettes til halvmåner og er tykkere enn wontonark. Vil du bruke firkantede, se brettemetoden under [Shanghai-wontonene (S4)](#s4-shanghai-wontons-med-svin-og-pak-choi).
 - **50 stykker er en storporsjon.** Frys overskuddet rått: enkeltvis på brett til de er faste, deretter i pose. Stekes rett fra fryseren med 2–3 minutter ekstra damping.
 - **Kjernetemperatur 74 °C**, eller skjær en i to og sjekk at kjøttet ikke er rosa.
 - **Ingefærmengden er høy** — 5 cm på 450 g kjøtt. Det er bevisst og gir retten preg, men reduser hvis du vil ha den mildere.
@@ -20392,7 +20391,6 @@ Nori og ris presses ned i en muffinsform, fylles med reker i kremostblanding og 
 - **Holdbarhet:** 1–2 dager i kjøleskap, men noriarket blir bløtt. Skal du forberede, oppbevar ris, rekeblanding og nori hver for seg og sett koppene sammen rett før steking.
 - **Som måltid for to** anbefaler kilden dobbel porsjon. Seks stykker er en forrett eller en lett lunsj.
 - **Næringsinnhold oppgitt i kilden**, per stykk: 123 kcal, 5 g protein, 13 g karbohydrat, 5 g fett.
-- Samlingens første smårett som ikke også er en hovedrett.
 
 ---
 
