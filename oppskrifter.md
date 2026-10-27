@@ -2754,7 +2754,7 @@ Kremet nudelbolle bygget på eggeplomme, japansk majones og krydderpakken fra nu
 *(Kilden oppgir ingen fremgangsmåte. Trinnene under er lagt til — se notat.)*
 
 1. **Marinér kyllingen.** Bland revet hvitløk, soyasaus, mørk soyasaus og brunt sukker, og vend lårfileten i marinaden. La den stå mens du gjør klart resten.
-2. **Kok egget.** 6½ minutt fra fossende vann gir bløt plomme. Avkjøl i kaldt vann og skrell.
+2. **Kok egget.** 6½ minutter fra fossende vann gir bløt plomme. Avkjøl i kaldt vann og skrell.
 3. **Stek kyllingen** med skinnsiden ned i en panne til skinnet er gyllent og sprøtt, snu, og stek den ferdig. Pensle med resten av marinaden mot slutten og la den koke inn til en glasur. La kyllingen hvile, og skjær den i skiver.
 4. **Lag sausen.** Rør sammen eggeplomme, revet hvitløk, japansk majones og krydderpakken i bunnen av serveringsbollen.
 5. **Kok nudlene** etter anvisningen. **Ta vare på litt av kokevannet.**
@@ -2926,7 +2926,7 @@ Stekt laks over jasminris med en silkeglatt karrisaus der mango er most inn i ko
 - Salt
 
 **Mangokarri**
-- ½ sød løk, i terninger
+- ½ søt løk, i terninger
 - ca. 2 cm ingefær, finhakket
 - ca. 90 g mangobiter
 - ½ ts malt spisskummen
@@ -3021,7 +3021,7 @@ Sausen røres sammen kald i bunnen av bollen, og de nykokte nudlene varmer den o
 
 **Kilde:** sosialt innlegg, avsender ikke navngitt · **Kjøkken:** Koreansk-inspirert · **Tid:** ca. 40 min · **Porsjoner:** 4 burgere
 
-Kyllingbryst panert i knuste cornflakes, penslet med en klebrig gochujangglasur og lagt i briochebrød med kremet kålsalat og syltet agurk. Lagd som en lettere versjon av koreansk friturstekt kylling.
+Kyllingbryst panert i knuste cornflakes, penslet med en klebrig gochujangglasur og lagt i briochebrød med kremet kålsalat og syltet agurk. Laget som en lettere versjon av koreansk frityrstekt kylling.
 
 > **Kilden oppgir ingen tilberedningsmetode.** Verken steketid, temperatur eller om kyllingen skal frityrstekes, ovnsstekes eller kjøres i airfryer står noe sted. Punkt 4 nedenfor er lagt til.
 
@@ -3064,7 +3064,7 @@ Kyllingbryst panert i knuste cornflakes, penslet med en klebrig gochujangglasur 
 2. **Panér.** Vend kyllingen i sammenpisket egg og **la overflødig egg renne av**, ellers fester ikke cornflakesen seg. Trykk den deretter godt ned i de knuste cornflakesene blandet med paprika og hvitløkspulver.
 3. **Rør tilbehøret.** Bland kålsalaten, og legg agurkskivene i eddik, soyasaus, chiliflak og hvitløkspulver.
 4. **Stek kyllingen.** *(Lagt til:)* Airfryer på 200 °C i 10–12 minutter per side, eller stekeovn på 200 °C i 20–25 minutter, til paneringen er gyllen og kjernetemperaturen er **74 °C**.
-5. **Kok glasuren.** Bland soyasaus, gochujang, honning og sesamolje i en liten kjele. **Lav varme**, og la den bare koke ett til to minutter — den skal bli såvidt mørkere. Kokes den lenger, blir den seig og bitter.
+5. **Kok glasuren.** Bland soyasaus, gochujang, honning og sesamolje i en liten kjele. **Lav varme**, og la den bare koke ett til to minutter — den skal bli så vidt mørkere. Kokes den lenger, blir den seig og bitter.
 6. **Sett sammen.** Pensle kyllingen med glasuren, legg den i briocheboller med kålsalat og syltet agurk, og dryss sesamfrø over.
 
 ### Notater
