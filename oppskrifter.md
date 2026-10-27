@@ -11631,13 +11631,16 @@ Sunn og enkel hverdagsrett kilden lager på under 20 minutter – i denne versjo
 ### Notater
 
 - **Sponset innhold:** dette er en annonse for Kikkoman-produkter (@kikkoman_norge). Kilden anbefaler soyasaus med mindre salt (grønn kork) i marinaden for å styre saltnivået, og kombinerer den med ponzu for syre og umami.
-- **Kald, dagen-gammel ris er nøkkelen** til god stekt ris – ferskkokt, varm ris blir klissete i pannen. Kok gjerne ris kvelden før.
+- **Kald, dagsgammel ris er nøkkelen** til god stekt ris – ferskkokt, varm ris blir klissete i pannen. Kok gjerne ris kvelden før.
 - **Sammenlign med:** [84. Stekt ris med egg (egg fried rice)](#84-stekt-ris-med-egg-egg-fried-rice) for en enklere versjon uten marinert kylling.
+
+---
+
 ## 217. Char siu-marinert grillkylling med sesam-sobasalat
 
 **Kilde:** @fysenpaa (Instagram, 19. juni 2025) · **Kjøkken:** Kantonesisk-inspirert · **Tid:** ca. 30 min aktivt + 1 times marinering (helst over natten) · **Porsjoner:** 4
 
-Kyllinglårfileter marinert i en søt char siu-inspirert marinade med hoisin, five spice og shaoxing-vin, grillet med en innkokt glaze, og servert med en kald, sesamdressa sobanudelsalat. Kilden bruker taggene #charsiu og #grill.
+Kyllinglårfileter marinert i en søt char siu-inspirert marinade med hoisin, femkrydder og shaoxing-vin, grillet med en innkokt glasur, og servert med en kald sobanudelsalat med sesamdressing. Kilden bruker taggene #charsiu og #grill.
 
 ### Ingredienser
 
@@ -11667,28 +11670,30 @@ Kyllinglårfileter marinert i en søt char siu-inspirert marinade med hoisin, fi
 ### Fremgangsmåte
 
 **Kylling**
-1. Bland honning, hoisin, lys soyasaus, mørk soyasaus, shaoxing-vin, hvitløk, five spice og brunt sukker i en stor bolle. Rør godt til alt er jevnt blandet.
+1. Bland honning, hoisin, lys soyasaus, mørk soyasaus, shaoxing-vin, hvitløk, femkrydder og brunt sukker i en stor bolle. Rør godt til alt er jevnt blandet.
 2. Hell halvparten av marinaden i en ren beholder og sett kaldt til senere bruk.
 3. Legg lårfiletene i resten av marinaden og sørg for at de er godt dekket. La filetene marinere i minst 1 time – aller helst over natten.
-4. Før du skal starte å grille eller steke kyllingen, tar du frem den delen av marinaden du satte til side. Hell den i en liten kjele. Kok opp og la det småkoke i 5–7 minutter til den tykner og får en glaze-konsistens.
-5. Forvarm grillen til medium varme. Stek kyllingen direkte over varmen og snu hvert femte minutt mens du pensler med glazen, til kyllingen er gjennomstekt og har en gyllen, klissete overflate.
+4. Før du skal starte å grille eller steke kyllingen, tar du frem den delen av marinaden du satte til side. Hell den i en liten kjele. Kok opp og la det småkoke i 5–7 minutter, til den tykner og blir en glasur.
+5. Forvarm grillen til medium varme. Stek kyllingen direkte over varmen og snu hvert femte minutt mens du pensler med glasuren, til kyllingen er gjennomstekt og har en gyllen, klissete overflate.
 
 **Sesam-sobasalat**
-1. Kok sobanudlene i henhold til instruksjonene på pakken. Skyll dem i kaldt vann for å stoppe kokingen, og sett til side. Bland gjerne nudlene med litt sesamolje – dette forhindrer at de klebrer seg sammen.
+1. Kok sobanudlene etter anvisningen på pakken. Skyll dem i kaldt vann for å stoppe kokingen, og sett til side. Bland gjerne nudlene med litt sesamolje, så de ikke kleber seg sammen.
 2. Bland lys soyasaus, mørk soyasaus, honning, østerssaus og sesamolje i en liten bolle. Rør godt sammen til honningen er helt oppløst.
 3. I en stor bolle blander du nudlene med grønnsakene. Hell over dressingen og bland godt.
 
 ### Notater
 
-- **Halvparten av marinaden holdes alltid unna rå kylling** og brukes som glaze – dette er viktig av mattrygghetshensyn; ikke pensle med marinade som har vært i kontakt med rått kjøtt uten å koke den opp først.
+- **Halvparten av marinaden holdes alltid unna rå kylling** og brukes som glasur – dette er viktig av mattrygghetshensyn; ikke pensle med marinade som har vært i kontakt med rått kjøtt uten å koke den opp først.
 - **Shaoxing-vin kan sløyfes** helt uten stor endring i resultatet, ifølge kilden.
 - **Sammenlign med:** [35. Char siu-kylling](#35-char-siu-kylling), som er den mer tradisjonelle, ovnsstekte versjonen av samme marinadeprofil.
+
+---
 
 ## 218. Entrecôte med umamisaus og pommes frites
 
 **Kilde:** @fysenpaa (Instagram, 29. mars 2025) · **Kjøkken:** Norsk-japansk fusjon · **Tid:** ca. 1 t 20 min · **Porsjoner:** 2
 
-Stekt entrecôte med en saus av karamellisert løk, mirin, soya og hvit miso – kilden kaller den «ei lita umamibombe» og trekker frem at man slipper å kokke og redusere i timevis for å få en saus som smaker mye. Serveres med hjemmelagde pommes frites dobbeltfritert etter klassisk metode.
+Stekt entrecôte med en saus av karamellisert løk, mirin, soya og hvit miso – kilden kaller den «ei lita umamibombe» og trekker fram at man slipper å koke og redusere i timevis for å få en saus som smaker mye. Serveres med hjemmelagde pommes frites dobbeltfritert etter klassisk metode.
 
 ### Ingredienser
 
@@ -11707,7 +11712,7 @@ Stekt entrecôte med en saus av karamellisert løk, mirin, soya og hvit miso –
 - Salt og pepper
 
 **Pommes frites**
-- 3 stk bakepoteter (eller andre kokefaste poteter)
+- 3 stk bakepoteter (eller andre melne poteter)
 - Frityrolje
 - Salt
 
@@ -11724,15 +11729,17 @@ Stekt entrecôte med en saus av karamellisert løk, mirin, soya og hvit miso –
 1. Kutt potetene i strimler og legg dem i en stor kjele. Fyll på med kaldt vann og la potetene hvile i 10 minutter for å få bort stivelse.
 2. Hell av det kalde vannet og hell i nytt vann. La potetene småkoke til de er møre.
 3. Hell ut alt vannet, legg potetene på et stort stekebrett og la dem kvitte seg med damp. Sørg for at potetene ikke er fuktige før du går videre.
-4. Fyll en kjele med frityrolje. Når oljen er varm nok, friterer du potetene i flere omganger i ca. 5 minutter, slik at det ikke blir for mange fries i kjelen samtidig. Sett stekebrettet med potetene kaldt frem til rett før servering (minst 15 minutter).
-5. Rett før servering friterer du potetene igjen i omganger til de er gyldne og helt sprø. Legg i en bolle og salt.
+4. Fyll en kjele med frityrolje. Når oljen er varm nok, friterer du potetene i flere omganger i ca. 5 minutter, slik at det ikke blir for mange i kjelen samtidig. Sett stekebrettet med potetene kaldt frem til rett før servering (minst 15 minutter).
+5. Rett før servering friterer du potetene igjen i omganger til de er gylne og helt sprø. Legg i en bolle og salt.
 
 ### Notater
 
-- **Doble frityr er nøkkelen til sprøhet.** Første runde koker potetene gjennom uten å ta farge, andre runde like før servering gir den sprø skorpen. Kilden presiserer at friesene godt kan være lysere i fargen enn på bildet – de ble fritert litt for lenge i originalvideoen.
+- **Dobbel frityr er nøkkelen til sprøhet.** Første runde koker potetene gjennom uten å ta farge, andre runde like før servering gir den sprø skorpen. Kilden presiserer at pommes fritesen godt kan være lysere i fargen enn på bildet – de ble fritert litt for lenge i originalvideoen.
 - **Kjøttet trekker smak fra sausen, ikke omvendt.** Biffen legges i løkblandingen etter steking (punkt 4), slik at sausen får kjøttsjy og stekesmør inn i seg før servering.
 - **Fettøsing («basting») med smør** i punkt 3 er samme teknikk som brukes i flere av samlingens andre biffretter – se [124. Steak Diane](#124-steak-diane).
 - **Ingen eksakt tidsangivelse oppgitt i kilden** – ca. 1 t 20 min er anslått ut fra kaldtvannsbløtlegging, koking og dobbel frityr av potetene, samt tilberedning av saus og kjøtt. *(Anslått.)*
+
+---
 
 ## 219. Bang bang-kylling
 
@@ -11774,16 +11781,18 @@ Posjert kyllinglår i strimler over agurkskiver, med en saus av tahini, peanøtt
 
 ### Notater
 
-- **Ikke oppgitt saltmengde til posjeringsvannet** utover de 3 ts i ingrediens­listen – dette er kraften kyllingen trekkes i, ikke tilsatt sausen.
+- **Ikke oppgitt saltmengde til posjeringsvannet** utover saltet i ingredienslisten – dette er kraften kyllingen trekkes i, ikke tilsatt sausen.
 - **Kyllingskinnet stekes separat og sprøstekes** mens kjøttet posjeres – to prosesser som går parallelt, se punkt 2–3.
 - **Chilioljen doseres etter smak.** 1 ss er utgangspunktet i kilden, men sausen kan justeres opp for mer styrke.
-- **Beslektet:** samme prinsipp med posjert kylling og en nøttebasert saus finnes i [85. Larb gai](#85-larb-gai--laotisk-thailandsk-kyllingsalat), men med et helt annet smaksbilde.
+- **Beslektet:** [spicy peanøttnudler (nr. 52)](#52-spicy-peanøttnudler) bruker en lignende nøttebasert saus med chiliolje.
+
+---
 
 ## 220. Carbonara × amatriciana-hybrid
 
 **Kilde:** @baktungmat, «Italienska för nybörjare – Lektion 5» (Instagram) · **Kjøkken:** Italiensk · **Tid:** ca. 30 min · **Porsjoner:** 2
 
-Kilden kaller den en «plug-in-hybrid»: amatricianaens karamelliserte tomatpuré og chili smeltes inn i en klassisk carbonarakrem av eggeplommer, pecorino og guancialefett. Halvparten av den luftige krémen blandes inn i pastaen, resten toppes på til slutt sammen med sprøstekt guanciale.
+Kilden kaller den en «plug-in-hybrid»: amatricianaens karamelliserte tomatpuré og chili smeltes inn i en klassisk carbonarakrem av eggeplommer, pecorino og guancialefett. En del av den luftige kremen blandes inn i pastaen, resten legges på til slutt sammen med sprøstekt guanciale.
 
 ### Ingredienser
 
@@ -11812,11 +11821,13 @@ Kilden kaller den en «plug-in-hybrid»: amatricianaens karamelliserte tomatpur�
 ### Notater
 
 - **Guancialefettet er selve limet mellom de to rettene.** Det brukes både til å karamellisere tomatpuréen (amatricianaens smaksbunn) og vispes rett inn i eggekremen (carbonaraens bindemiddel) – derfor kalles det en «plug-in»-hybrid: to separate teknikker kobles sammen via samme fett.
-- **Kald panne fra start er avgjørende for guancialen.** Begynner du med varm panne, seiler kjøttet seg utenpå før fettet rekker å smelte ut, og du mister crispiness.
+- **Kald panne fra start er avgjørende for guancialen.** Begynner du med varm panne, lukker kjøttet seg utenpå før fettet rekker å smelte ut, og du mister sprøheten.
 - **Vannbadet i punkt 4 er ikke valgfritt.** Eggeplommene skal nesten dobles i volum og bli stabilt luftige (en «åtte» som henger igjen på overflaten er den klassiske testen for pâte à bombe-konsistens) – dette er det som gjør kremen fluffig i stedet for flytende.
-- **Kremen deles i to bruksområder:** tre firedeler bindes inn i selve pastaen med litt pastavann for glans, én firedel legges rått og luftig oppå til slutt. Blander du alt inn i pastaen, mister du den lette toppingen kilden er ute etter.
+- **Kremen deles i to bruksområder:** én firedel vendes inn i pastaen med litt pastavann for glans, resten legges luftig oppå til slutt. Blander du alt inn i pastaen, mister du den lette toppingen kilden er ute etter. *(Flagget: kildens beskrivelse av fordelingen spriker – fremgangsmåten er fulgt her.)*
 - **Hvitløken er kun til aromatisering** av fettet og fjernes før tomatblandingen avkjøles – den skal ikke bli med videre i kremen.
 - **Beslektet:** samlingens klassiske [69. Carbonara](#69-carbonara) er utgangspunktet denne bygger videre på.
+
+---
 
 ## 221. Min beste italienske bolognese
 
@@ -11848,7 +11859,7 @@ To kjøttslag og pancetta stekes hver for seg til gyllen skorpe, en klassisk sof
 ### Fremgangsmåte
 
 1. Skrell og kutt løk, gulrot og stangselleri i små terninger.
-2. Ha godt med olivenolje i en stor kjele. Ha i grønnsakene og stek på middels varme til de er blanke og myke, ikke brune.
+2. Ha godt med olivenolje i en stor kjele. Ha i grønnsakene og den finhakkede hvitløken *(antatt – se notat)*, og stek på middels varme til de er blanke og myke, ikke brune.
 3. Stek kjøttet i en separat stekepanne, litt om gangen, på høy varme til gyllen farge – begynn med pancettaen, deretter oksekjøttet, og avslutt med svinekjøttet. Steker du for mye om gangen, koker kjøttet i stedet for å bli stekt.
 4. Ha det stekte kjøttet over i kjelen med grønnsakene når det er ferdig, og fortsett stekingen.
 5. Tilsett tomatpuré og sukker i den tomme stekepannen og stek i 2 minutter. Hell over i kjelen. Ha deretter hvitvinen i stekepannen og kok ut, så alle de gode smakene som har satt seg i pannen følger med. Hell også dette over i kjelen.
@@ -11864,7 +11875,9 @@ To kjøttslag og pancetta stekes hver for seg til gyllen skorpe, en klassisk sof
 - **2,5–4 timers koketid er et spenn, ikke en fasit.** Kilden er tydelig på at lengre tid gir bedre resultat – dette er en saus det lønner seg å sette på tidlig og la stå.
 - **Ingen melk eller fløte**, til forskjell fra mange nordiske bolognese-varianter. Det er hvitvinen og den lange innkokingen som gir rundhet her, ikke meieriprodukter.
 - **Store porsjoner med hensikt.** Kilden lager alltid en stor gryte og fryser ned resten til 2–3 middager senere – bolognese er en av de rettene som blir bedre av å stå.
-- **Beslektet:** [65. Langtidskokt oksragù](#65-langtidskokt-oksragù) bruker terninger av oksekjøtt og rødvin i stedet for kvernet kjøtt og hvitvin, og [73. Tagliatelle al Ragù](#73-tagliatelle-al-ragù) er samlingens tredje langtidskokte kjøttsaus – alle tre kan sammenlignes for å se hvor ulikt «ragù» kan tilberedes.
+- **Beslektet:** [65. Langtidskokt oksragù](#65-langtidskokt-oksragù) bruker terninger av oksekjøtt og rødvin i stedet for kvernet kjøtt og hvitvin, og [73. Tagliatelle al Ragù](#73-tagliatelle-al-ragù) er en annen langtidskokt kjøttsaus – alle tre kan sammenlignes for å se hvor ulikt «ragù» kan tilberedes.
+
+---
 
 ## 222. Creamy bolognese rigatoni
 
@@ -11904,7 +11917,7 @@ Rask hverdagsversjon av bolognese der pastaen kokes ferdig og vendes rett inn i 
 ### Notater
 
 - **«Single cream» er tynnere enn norsk kremfløte** – rundt 18 % fett mot 35–38 %. Bruker du vanlig norsk kremfløte, blir sausen tyngre og rikere enn kildens original; vil du nærmere det britiske utgangspunktet, bruk lettfløte (20 %) eller spe kremfløten med litt melk. *(Presisering lagt til.)*
-- **Krydderblandingen er kildens egen signaturmiks** – hvitløksgranulat, løkgranulat, oregano, italiensk urteblanding og røkt paprika sammen gir en rundere, mer «amerikaniserte» smaksprofil enn en tradisjonell bolognese, som normalt bygger på fersk løk, gulrot og selleri alene.
+- **Krydderblandingen er kildens egen signaturmiks** – hvitløksgranulat, løkgranulat, oregano, italiensk urteblanding og røkt paprika sammen gir en rundere, mer «amerikanisert» smaksprofil enn en tradisjonell bolognese, som normalt bygger på fersk løk, gulrot og selleri alene.
 - **Ett kar, hele veien.** Til forskjell fra en tradisjonell bolognese kokes alt i samme panne uten separat bruning av kjøtt i eget kar – dette er en 30–40-minutters hverdagsversjon, ikke en langtidskokt saus.
 - **150 g pasta til 400 g kjøttdeig** er en uvanlig høy kjøtt-til-pasta-ratio – sausen er ment å være tykk og dominerende, ikke en tynn saus over mye pasta.
 - **Beslektet:** [221. Min beste italienske bolognese](#221-min-beste-italienske-bolognese) er den langtidskokte, autentiske motsatsen med to kjøttslag og hvitvin – denne er expressversjonen med fløte og ferdig krydderblanding.
