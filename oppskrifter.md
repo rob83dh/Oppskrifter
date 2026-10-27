@@ -6328,7 +6328,8 @@ Pizzabunn av gresk yoghurt, selvhevende mel og proteinpulver – ingen gjær og 
 
 - **Selvhevende mel selges ikke som standard i Norge.** Kilden gir heldigvis erstatningen selv: 150 g hvetemel, 1½ ts bakepulver og ½ ts salt. Bruk den.
 - **Deigen er klebrig, og det er normalt.** To-ingrediensdeig av yoghurt og mel henger i hendene – mel underlaget og kjevlen godt, men ikke tilsett så mye ekstra mel at deigen blir tørr.
-- **Proteinpulveret tørker ut bunnen.** 25 g pulver suger fuktighet, og bunnen blir merkbart fastere og tørrere enn en vanlig pizzabunn. Sløyfer du det, får du fortsatt en høyproteinbunn fra yoghurten alene – da bør du ta ned melet litt.
+- **Proteinpulveret er økt fra 25 til 70 gram.** Med kildens mengde gir pizzaen 22 g protein per porsjon, som ikke holder til å kalles proteinrik. 70 g bringer den til 31 g. Til gjengjeld blir deigen tørrere – spe med 1–2 ss yoghurt eller vann til den er smidig, og regn med en fastere bunn enn originalen. *(Endret.)*
+- **Proteinpulveret tørker ut bunnen.** Pulveret suger fuktighet, og bunnen blir merkbart fastere og tørrere enn en vanlig pizzabunn. Sløyfer du det, får du fortsatt en høyproteinbunn fra yoghurten alene – da bør du ta ned melet litt.
 - **Forstekingen er nødvendig.** Yoghurtdeig blir rå og seig i midten hvis toppingen går på med én gang; de 7–8 minuttene alene er det som redder bunnen.
 - **Én pizza på 25–30 cm til fire personer** er lite – to skiver hver, som kilden oppgir. Regn en pizza per to personer hvis den skal være et måltid.
 - **Kalkunpepperoni er lite utbredt her.** Vanlig pepperoni fungerer, men gir mer fett; kyllingpølse i skiver er et mellomsteg.
@@ -7601,11 +7602,10 @@ Kylling og sopp i en melkebasert saus bygget på jevning – altså en béchamel
 - **Melet må steke i et par minutter** før melken går i, ellers smaker sausen av rått mel. Kilden nevner det ikke. Rør smør og mel sammen på middels varme til blandingen bobler og lukter litt nøtteaktig, men ikke får farge. *(Lagt til.)*
 - **Melken skal i litt om gangen, og du bør vispe.** Kilden sier «gradually», og det er ikke valgfritt – heller du alt på én gang, får du klumper som ikke lar seg røre ut igjen.
 - **Soppen brunes ikke i denne rekkefølgen.** Løk og sopp går i samtidig, og løkens væske gjør at soppen damper i stedet for å brune seg. Vil du ha mer smak, stek soppen alene først til all væsken er dampet av og kantene er gyllenbrune – regn 8–10 minutter – og ha løken i etterpå. Samme fallgruve som i [nr. 33](#33-kremet-soppkylling). *(Lagt til.)*
-- **Kyllingbuljongpulver er salt.** Smak *før* du salter, ikke etter. Ett ts pulver kan tilsvare nesten en halv teskje salt.
+- **Kyllingbuljongpulver er salt.** Smak *før* du salter, ikke etter. Én ts pulver kan tilsvare nesten en halv teskje salt.
 - **Dette er en melkesaus, ikke en fløtesaus** – det er hovedforskjellen fra [nr. 33](#33-kremet-soppkylling) og [nr. 127](#127-kremet-hvitløkskylling--simple-home-edit-sin-versjon), som begge bruker kremfløte. Melkesausen er lettere og billigere, men den skiller seg lettere ved høy varme, den danner snerk hvis den står, og den tykner merkbart mens den hviler. Vil du ha den fyldigere uten å gå over til ren fløte, bytt 1 dl av melken mot kremfløte.
-- **Pastaen mangler i ingredienslisten**, selv om retten serveres over nudler i videoen. Regn 250 g til denne saltmengden. Ta vare på en øse kokevann og spe sausen med det – stivelsen binder den til pastaen. *(Lagt til.)*
+- **Pastaen mangler i ingredienslisten**, selv om retten serveres over nudler i videoen. Regn 250 g til denne sausmengden. Ta vare på en øse kokevann og spe sausen med det – stivelsen binder den til pastaen. *(Lagt til.)*
 - **Filetert kyllingbryst trenger 3–4 minutter per side** på middels sterk varme. Kjernetemperatur 70 °C. Kilden sier bare «once ready», som er lite å gå etter – bryst går fra ferdig til tørt på et par minutter.
-- **Proteinpulveret er økt fra 25 til 70 gram.** Med kildens mengde gir pizzaen 22 g protein per porsjon, som ikke holder til å kalles proteinrik. 70 g bringer den til 31 g. Til gjengjeld blir deigen tørrere – spe med 1–2 ss yoghurt eller vann til den er smidig, og regn med en fastere bunn enn originalen. *(Endret.)*
 - **Beslektet:** [nr. 33](#33-kremet-soppkylling) er den samme retten laget med fløte og parmesan, og [nr. 64](#64-fettuccine-boscaiola) er soppasta i italiensk utgave.
 
 ---
@@ -7619,7 +7619,7 @@ Salat der kokt ris stekes tørr og sprø i ovnen og brukes som crunch i stedet f
 ### Ingredienser
 
 **Sprø ris**
-- 125 g kokt hvit ris, gjerne dagen gammel — ca. 50 g tørr ris
+- 125 g kokt hvit ris, gjerne dagsgammel — ca. 50 g tørr ris
 - 1 ts chiliolje
 - ½ ts sesamolje
 - 1½ ts soyasaus *(fremgangsmåten sier 1 ss – se notat)*
@@ -7751,7 +7751,7 @@ Kikerter ovnsstekt til de er sprø, vendt i en klissete gochujangsaus og servert
 
 ### Notater
 
-- **«Ett glass eller én boks» er to helt ulike mengder.** Kilden bruker Bold Bean Co, som selger kikerter på glass på 570–700 g – langt mer enn en vanlig 400 g boks, som gir ca. 240 g avrent. Saus­mengden her passer **én boks**. Bruker du glass, doble sausen. *(Presisering lagt til.)*
+- **«Ett glass eller én boks» er to helt ulike mengder.** Kilden bruker Bold Bean Co, som selger kikerter på glass på 570–700 g – langt mer enn en vanlig 400 g boks, som gir ca. 240 g avrent. Sausmengden her passer **én boks**. Bruker du glass, doble sausen. *(Presisering lagt til.)*
 - **Tørkingen avgjør alt.** Kikerter som fortsatt er fuktige damper i stedet for å steke, og blir seige uansett hvor lenge de står. Tørk dem grundig, og la dem gjerne ligge utover på et kjøkkenhåndkle i 10 minutter først. Vil du ha dem enda sprøere, gni av skallene mens du tørker – de løsner lett og er den vanligste grunnen til at kikertene ikke blir helt sprø. *(Lagt til.)*
 - **Sausen mykner kikertene i løpet av minutter.** Dette er oppskriftens innebygde konflikt: du bruker 40 minutter på å gjøre dem sprø, og en klissete saus tar sprøheten tilbake. Vend dem inn helt til slutt, rett før servering – eller enda bedre, hell sausen over på tallerkenen i stedet for i pannen. *(Lagt til.)*
 - **Kilden freser ingefær og hvitløk først**, og begrunner det selv: rå revet hvitløk i en saus som bare varmes så vidt, blir skarp og påtrengende. Ta det med.
@@ -7807,7 +7807,7 @@ En krysning mellom melanzane alla parmigiana og lasagne, med en ragù av salsicc
 
 7. **Ricottafyllet.** Bland ricotta med halvparten av parmesanen – spar resten til lagene – og egget. Smak til med sitronsaft, salt og pepper.
 8. **Bygg lasagnen.** Sett ovnen på **190 °C**. Smør en ildfast form. Bre ut et tynt lag ricottafyll i bunnen. Legg på det første laget lasagneplater og dekk pastaen med litt mer ricottafyll.
-9. **Fortsett i lag.** Legg på et lag stekte auberginskiver. Topp med ca. **3 ss ragù**, noen biter mozzarella, litt parmesan og noen basilikumblader. Fortsett å veksle lag på lag til ingrediensene er brukt opp. Avslutt med et raust lag revet mozzarella, parmesan og basilikum.
+9. **Fortsett i lag.** Legg på et lag stekte aubergineskiver. Topp med ca. **3 ss ragù**, noen biter mozzarella, litt parmesan og noen basilikumblader. Fortsett å veksle lag på lag til ingrediensene er brukt opp. Avslutt med et raust lag revet mozzarella, parmesan og basilikum.
 10. **Stek.** Dekk formen med aluminiumsfolie og stek i **30 minutter**. Fjern folien og stek videre i **15 minutter**, til overflaten er gyllen og boblende.
 11. **La den hvile i 20 minutter** før du skjærer opp. Da holder den bedre sammen.
 
@@ -7815,12 +7815,12 @@ En krysning mellom melanzane alla parmigiana og lasagne, med en ragù av salsicc
 
 - **Sukkeret står i ingredienslisten, men nevnes aldri i fremgangsmåten.** Det hører hjemme i tomatsausen, i punkt 5 eller 6, for å balansere syren i de passerte tomatene. En klype er nok. *(Ført inn her.)*
 - **Bare 3 av de 4 hvitløksfeddene brukes.** Det fjerde er ikke gjort rede for. Nærliggende bruk: riv det i ricottafyllet, eller gni det inn i den smurte formen. *(Avvik notert.)*
-- **Salsiccia er vanskelig å få tak i i Norge.** Den selges av og til hos italienske delikatessebutikker i Oslo, ellers finnes den friske typen i noen ferskvaredisker. Enkleste erstatning: **500 g svinekjøttdeig blandet med 1 ts knuste fennikelfrø, ½ ts chiliflak, 2 revne hvitløksfedd og 1 ts salt**. Det er i praksis det salsiccia er. En svensk pakke ligger på 300–400 g, så regn den mengden hvis du finner ekte vare. *(Vekt og erstatning lagt til.)*
+- **Salsiccia er vanskelig å få tak i i Norge.** Den selges av og til hos italienske delikatessebutikker i Oslo, ellers finnes den friske typen i noen ferskvaredisker. Enkleste erstatning: **500 g svinekjøttdeig blandet med 1 ts knuste fennikelfrø, ½ ts chiliflak, 2 revne hvitløksfedd og 1 ts salt**. Det er i praksis det salsiccia er. En pakke ligger gjerne på 300–400 g, så regn den mengden hvis du finner ekte vare. *(Vekt og erstatning lagt til.)*
 - **Auberginen suger olje som en svamp.** 1 dl olivenolje rekker sjelden til 500 g aubergine i panne – regn med det dobbelte. Alternativet er å pensle skivene og ovnsbake dem på **220 °C i 20 minutter**, snudd halvveis: nesten samme resultat med en brøkdel av oljen, og langt mindre søl. *(Alternativ lagt til.)*
 - **Saltingen gjør mindre for bitterheten enn folk tror.** Moderne auberginer er foredlet nesten bitterfrie. Men saltingen har fortsatt to reelle effekter: cellene kollapser, så skivene suger mindre olje, og de holder formen bedre i lagene. Timen er altså vel anvendt, bare av en annen grunn enn den tradisjonelle. *(Presisering lagt til.)*
 - **Tørkede lasagneplater kan bli harde her.** 3 ss ragù per lag er lite væske, og dette er en tørrere lasagne enn en klassisk med bechamel. Bruk **ferske plater** hvis du kan. Må du bruke tørkede, bløtlegg dem i varmt vann i 10 minutter først, eller spe ragùen med 1 dl vann. *(Viktig – lagt til.)*
 - **Mozzarellaen må renne godt av.** Fersk mozzarella i lake gir en vassen lasagne. La kulene ligge i et dørslag i 20 minutter, klem dem lett, og tørk dem. Fiordilatte eller den fastere pizzamozzarellaen er sikrere enn buffelmozzarella.
-- **Lasagneplatemengden er ikke oppgitt.** Regn **250–300 g**, altså rundt 12 plater, til en vanlig langpanne­stor form.
+- **Lasagneplatemengden er ikke oppgitt.** Regn **250–300 g**, altså rundt 12 plater, til en form på størrelse med en langpanne.
 - **Ricotta salata er den tradisjonelle osten i alla Norma** – en fast, saltet og tørket ricotta som rives over pastaen til slutt. Her er den byttet mot fersk ricotta i et fyll, som er nødvendig for å få lagene til å henge sammen, men gjør retten mildere og kremere enn originalen. *(Bakgrunn lagt til.)*
 - **Hvilingen på 20 minutter er ikke valgfri.** Uten den flyter lagene ut på tallerkenen. Kilden har rett, og en time er enda bedre om du har tid.
 - **Bedre dagen etter.** Kilden fremhever selv at retten kan forberedes dagen før. Bygg den ferdig, dekk til og sett kaldt – legg da på 10–15 minutter ekstra steketid, siden den går kald i ovnen.
@@ -7873,7 +7873,7 @@ Squash kokt myk og mikset til en glatt, grønn krem som legger seg rundt pastaen
 - **De to hvitløksfeddene rekker ikke.** Hvitløk brukes både i skjellgryta og i squashpannen, men ingredienslisten oppgir bare to fedd totalt. Regn **4 fedd** – to hvert sted. *(Rettelse lagt til.)*
 - **Persillen brukes delt, og det er et godt grep.** Stilkene går i skjellgryta, der de tåler koking og gir smak; bladene går i squashen og på toppen. Kilden gjør det uten å forklare hvorfor. Kast aldri persillestilker – de har mer smak enn bladene.
 - **Sjekk skjellene før koking, ikke bare etter.** Kilden nevner bare at lukkede skjell skal kastes etterpå. Like viktig: skjell som allerede står åpne før koking skal lukke seg når du banker på dem – gjør de ikke det, er de døde og skal kastes. Fjern også skjegget ved å dra det mot spissen. Forfatteren melder selv at 80 % av hans egne skjell var ubrukelige, noe som sier noe om hvor mye kvaliteten varierer. *(Matsikkerhet lagt til.)*
-- **Frosne blåskjell oppfører seg annerledes.** De er som regel forkokte, og «koker til de åpner seg» gir liten mening – de åpner seg ikke på nytt, og de avgir langt mindre kraft. Bruker du frosne, kok vinen inn med hvitløk og persillestilker til det halve for å lage en erstatning for skjellkraften, og varm skjellene i den til slutt. Ferske blåskjell fås i norske fiskediskar det meste av året. *(Alternativ lagt til.)*
+- **Frosne blåskjell oppfører seg annerledes.** De er som regel forkokte, og «koker til de åpner seg» gir liten mening – de åpner seg ikke på nytt, og de avgir langt mindre kraft. Bruker du frosne, kok vinen inn med hvitløk og persillestilker til det halve for å lage en erstatning for skjellkraften, og varm skjellene i den til slutt. Ferske blåskjell fås i norske fiskedisker det meste av året. *(Alternativ lagt til.)*
 - **Salt forsiktig.** Skjellkraften er svært salt, og den går i to steder – både i squashen og i den ferdige pastaen. Salt squashen lett i punkt 5 og smak til helt på slutten. *(Lagt til.)*
 - **Squash inneholder mye vann.** Skal kremen bli tykk nok til å henge på pastaen, må squashen kokes til væsken er borte og bitene begynner å ta farge – det tar lengre tid enn man tror, regn 15–20 minutter. Går du for tidlig videre, får du grønt vann. Silingen kilden anbefaler hjelper på tekstur, men ikke på tynn krem.
 - **Ta vare på litt pastavann.** Kilden bruker bare skjellkraft, men et par spiseskjeer stivelsesrikt kokevann er det som binder krem og pasta sammen til en ekte emulsjon. Uten det glir kremen av. *(Lagt til.)*
