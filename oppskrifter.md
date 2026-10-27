@@ -16699,7 +16699,7 @@ Pavé betyr brostein på fransk, og beskriver retten godt. Potetskiver bakt i sm
 - 1,5 kg melne poteter *(se notat om sort)*
 - 100 g smør, delt i to porsjoner på 50 g
 - 2 hvitløksfedd, finhakket
-- 80 ml kylling- eller grønnsakskraft
+- 80 g kylling- eller grønnsakskraft
 - 1 ss friske timianblader, hakket, pluss ekstra til pynt
 
 **Form:** 20 cm firkantet kakeform med løs bunn
@@ -16723,7 +16723,7 @@ Pavé betyr brostein på fransk, og beskriver retten godt. Potetskiver bakt i sm
 - **Oppskriften inneholder ikke salt.** Verken i lagene eller i smørkraften. Det er sannsynligvis fordi forfatteren bruker saltet smør og saltet kraft, som hun svarer en leser. Men 1,5 kg potet trenger mer enn det – **salt lett hvert lag**, slik en av leserne gjør. *(Mangel – lagt til.)*
 - **Pressemetoden forvirret mange lesere**, og forfatteren har måttet forklare den flere ganger: folien er større enn formen, så den brettes inn slik at den ligger *inni* formen og hindrer at pappen blir våt. Deretter legges papp eller en mindre form oppå, og vekten fordeles jevnt med bokser. *(Presisering hentet fra kommentarfeltet.)*
 - **Smøret er delt i to like porsjoner** – 50 g i kraften, 50 g til pensling før siste steking. Det manglet opprinnelig i oppskriftskortet og ble rettet etter et leserspørsmål. *(Bakgrunn.)*
-- **80 ml kraft til 1,5 kg potet er svært lite.** Dette er en pavé, ikke en grateng – potetene skal bakes møre i sitt eget vann og i smøret, ikke ligge i væske. Sammenlign med [T27](#t27-gratin-dauphinois), som bruker 750 ml til 1,5 kg. Ikke fyll på mer; da får du ikke en blokk som lar seg skjære.
+- **80 g kraft til 1,5 kg potet er svært lite.** Dette er en pavé, ikke en grateng – potetene skal bakes møre i sitt eget vann og i smøret, ikke ligge i væske. Sammenlign med [gratin dauphinois (T27)](#t27-gratin-dauphinois), som bruker 7,5 dl til 1,5 kg. Ikke fyll på mer; da får du ikke en blokk som lar seg skjære.
 - **Fersk timian, aldri tørket.** Forfatteren er tydelig: tørket timian blir treaktig og smaker helt annerledes. Salvie eller rosmarin er hennes egne alternativer.
 - **1 time på 180 °C er kortere enn de andre pavéene i samlingen** – [T18](#t18-potetpavé) og [T54](#t54-pomme-anna-pavé--hybrid) bruker 2–2½ time. Sjekk med spyd før du tar den ut; er potetene ikke helt møre, faller blokken fra hverandre under kniven.
 - **Ovnssteking i stedet for fritering** er den store forskjellen fra [T18](#t18-potetpavé). 50 minutter på 200 °C gir sprø kanter uten en liter olje, men mindre jevn sprøhet enn frityren. Til gjengjeld er det langt enklere og billigere.
@@ -16957,8 +16957,8 @@ Væsken kokes opp med rødvinseddik og olivenolje før den helles over. Smaken g
 
 - 200 g couscous
 - 2 dl kokende vann
-- ½ dl rødvinseddik
-- ½ dl olivenolje
+- 3 ss + 1 ts rødvinseddik *(Omregnet fra ½ dl.)*
+- 3 ss + 1 ts olivenolje *(Omregnet fra ½ dl.)*
 - Saften fra ½ sitron
 - ½ ts Worcestershiresaus
 - ½ ts tabasco
