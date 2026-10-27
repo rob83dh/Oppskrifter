@@ -24167,13 +24167,13 @@ Cookies uten hviletid – ferdige på under en halvtime. To sukkertyper og revet
 - **Oppskriften er ganget med 1,5.** Kilden bruker 35 g egg, omtrent tre fjerdedeler av et egg. Med alle mengdene ganget med 1,5 går det opp i ett helt egg (str. M), og forholdet i deigen er det samme. *(Justert.)*
 - **Deigen rekker til ca. 13 kuler à 65 g**, men kilden legger seks per brett med god avstand. Stek i flere omganger. *(Presisering lagt til.)*
 - **De to sukkertypene gjør ulike jobber.** Lys farin er fuktig og gir seig midte; demerara er grovt og tørt, løser seg ikke helt opp, og gir sprø kanter og en svak karamellknasing. Bytter du alt til vanlig sukker, mister du begge deler. Demerara fås i norske butikker; råsukker er nærmeste alternativ. *(Bakgrunn lagt til.)*
-- **Ingen hviletid er hele poenget.** De fleste gode cookie-oppskrifter hviler deigen i 24–72 timer, som [B4](#b4-100-timers-brownies) gjør med brownies. Denne er bygget for å hoppe over det, og forfatteren spør selv om han er gal. Hviler du deigen over natten, blir de bedre – men da er de ikke lenger ferdige på 30 minutter.
+- **Ingen hviletid er hele poenget.** De fleste gode cookie-oppskrifter hviler deigen i 24–72 timer, som [100-timers brownies (B4)](#b4-100-timers-brownies) gjør med brownies. Denne er bygget for å hoppe over det, og forfatteren spør selv om det er galskap. Hviler du deigen over natten, blir de bedre – men da er de ikke lenger ferdige på 30 minutter.
 - **190 °C er høyt for cookies**, og med vilje: høy varme setter kantene raskt mens midten fortsatt er rå. De skal se underbakte og bleke i midten ut når du tar dem ut. De setter seg på brettet.
 - **La dem stå 5 minutter på brettet** før du flytter dem over på rist. Rett ut av ovnen faller de fra hverandre. *(Lagt til.)*
 - **Sjokoladen skal hakkes, ikke være chips.** Hakket sjokolade gir ujevne biter og lommer av smeltet sjokolade gjennom hele kaken; chips er tilsatt stabilisator og holder formen. Kilden bruker en plate på 70 %.
 - **Ekstra sjokolade på toppen** er et rent visuelt grep, men det virker – trykk et par biter ned i toppen av hver kule før steking.
 - **Bakepulveret er lite med vilje** (kilden oppgir 1 g til halv porsjon); disse skal være tette og seige, ikke luftige.
-- **Beslektet:** [gochujang chocolate chip cookies (B2)](#b2-gochujang-chocolate-chip-cookies) er samlingens andre cookie, og [100-timers brownies (B4)](#b4-100-timers-brownies) den motsatte tilnærmingen – all smaken fra tid i stedet for teknikk.
+- **Beslektet:** [gochujang chocolate chip cookies (B2)](#b2-gochujang-chocolate-chip-cookies) er en annen cookie, og [100-timers brownies (B4)](#b4-100-timers-brownies) den motsatte tilnærmingen – all smaken fra tid i stedet for teknikk.
 
 ---
 
@@ -24232,7 +24232,7 @@ Tett, saftig sitronkake som trekkes med sitronsirup mens den er varm og pakkes i
 - **Innpakkingen over natten er ikke bare oppbevaring.** Den fordeler fuktigheten fra sirupen jevnt gjennom hele kaken. Kaken er merkbart bedre dag to enn dag én. *(Verdt å følge.)*
 - **De tre minuttene i ovnen tørker glasuren** til en tynn, matt skorpe som ikke klistrer. Uten dem forblir den klissete i dagevis. Ikke lenger enn tre minutter – da smelter den i stedet.
 - **Glasurkonsistensen er beskrevet godt:** rennende honning. For tynn glasur renner av, for tykk lar seg ikke pensle jevnt.
-- **Beslektet:** [kladdkake (B5)](#b5-kladdkake-i-langpanne) og [sjokoladecookies (B6)](#b6-sjokoladecookies-med-appelsin--matt-adlard-sin-versjon) er samlingens andre bakverk fra samme sjanger, og den siste er fra samme kokk.
+- **Beslektet:** [kladdkake (B5)](#b5-kladdkake-i-langpanne) og [sjokoladecookies med appelsin (B6)](#b6-sjokoladecookies-med-appelsin--matt-adlard-sin-versjon) er samme sjanger; cookiesene er fra samme kokk.
 
 ---
 
@@ -24255,7 +24255,7 @@ Britiske påskeboller med sultanas, sukat, appelsinskall og kanel – og eple, s
 - 90 g sultanarosiner
 - 50 g sukat
 - Revet skall av 1 appelsin
-- 1 eple, skrellet, uten kjernehus og finhakket
+- 1 eple, skrelt, uten kjernehus og finhakket
 - 1 ts malt kanel
 
 **Kors og glasur**
@@ -24314,11 +24314,11 @@ Ciabatta med 75 % hydrering – så våt deig at den verken kan eltes eller form
 5. **Hell deigen ut** på et melet underlag og del den i **3 stykker uten å presse**.
 6. **La stykkene hvile i 30 minutter.**
 7. **Stek på 230 °C** med en form med vann i ovnen, for damp.
-8. **Etter 15 minutter**, senk til **200 °C** og stek videre til brødene er gyllne og sprø.
+8. **Etter 15 minutter**, senk til **200 °C** og stek videre til brødene er gylne og sprø.
 
 ### Notater
 
-- **Steketiden i punkt 8 mangler.** Kilden sier bare «til de er gyllne». Regn **10–15 minutter** etter temperatursenkingen, altså **25–30 minutter totalt**. Brødene er ferdige når de høres hule ut når du banker på bunnen, eller ved kjernetemperatur **96–98 °C**. *(Kritisk mangel – lagt til.)*
+- **Steketiden i punkt 8 mangler.** Kilden sier bare «til de er gylne». Regn **10–15 minutter** etter temperatursenkingen, altså **25–30 minutter totalt**. Brødene er ferdige når de høres hule ut når du banker på bunnen, eller ved kjernetemperatur **96–98 °C**. *(Kritisk mangel – lagt til.)*
 - **Saltet strøs over uten å røres inn**, og det er ikke en forglemmelse. Salt hemmer gjæren og strammer glutenet; ved å holde det på overflaten de første 20 minuttene får melet tid til å suge til seg vann og danne gluten uforstyrret – en forenklet autolyse. Det blandes inn under strekk-og-brett i punkt 3. *(Forklaring lagt til.)*
 - **75 % hydrering er svært vått**, og det er hele poenget: deigen kan ikke formes, men de store luftboblene overlever fordi du aldri klemmer dem ut. Fukt hendene i vann i stedet for å bruke mer mel når du håndterer den. *(Presisering lagt til.)*
 - **Én runde strekk og brett er i minste laget.** De fleste eltefrie ciabattaoppskrifter gjør **3–4 runder** med 30 minutters mellomrom, og det gir merkbart bedre struktur og høyde. Kildens ene runde fungerer, men brødene blir flatere. *(Anbefaling lagt til.)*
@@ -24329,8 +24329,8 @@ Ciabatta med 75 % hydrering – så våt deig at den verken kan eltes eller form
 - **Dampen er avgjørende for skorpen.** Sett en langpanne i bunnen av ovnen mens den forvarmes, og hell i kokende vann rett før brødene går inn. **Ta ut vannformen når du senker temperaturen** – da får skorpen tørrvarme og blir sprø i stedet for seig. *(Presisering lagt til.)*
 - **Forvarm ovnen skikkelig**, gjerne med bakestein eller et omvendt stekebrett inne. Ciabatta trenger kraftig bunnvarme for å få det siste hoppet i ovnen.
 - **La brødene avkjøles helt før du skjærer.** Innmaten er ikke ferdig før den er kald – skjærer du varmt, blir den klissete.
-- **Best samme dag.** Ciabatta blir tørr raskt; frys den i stedet, og friskn den opp 5 minutter på 200 °C.
-- **Beslektet:** [hot cross shokupan (B1)](#b1-hot-cross-shokupan--krydret-japansk-melkebrød) er samlingens andre gjærbakst, og brødet her passer til [puttanesca-torsk (SJ14)](#sj14-puttanesca-torsk-med-hvitløksbrød), [hummus (T40)](#t40-hummus) og [pisket ricotta (S13)](#s13-pisket-ricotta-med-marinerte-oliven-chili-og-appelsin).
+- **Best samme dag.** Ciabatta blir tørr raskt; frys den i stedet, og frisk den opp 5 minutter på 200 °C.
+- **Beslektet:** [hot cross shokupan (B1)](#b1-hot-cross-shokupan--krydret-japansk-melkebrød) er en annen gjærbakst, og brødet her passer til [puttanesca-torsk (SJ14)](#sj14-puttanesca-torsk-med-hvitløksbrød), [hummus (T40)](#t40-hummus) og [pisket ricotta (S13)](#s13-pisket-ricotta-med-marinerte-oliven-chili-og-appelsin).
 
 ---
 
@@ -24370,7 +24370,7 @@ Ciabatta i rundstykkeformat, bygget på fire runder strekk og brett i stedet for
 9. **Strekk deigen** forsiktig ut til jevn tykkelse og strø litt mel på toppen.
 10. **Del i 8 rektangler** og flytt dem over på brettene, med god plass mellom hver til heving og utflyting.
 11. **Dekk lett** med et kjøkkenhåndkle og la dem etterheve i **30 minutter**.
-12. **Stek** i **20–25 minutter**, til de er gyllne.
+12. **Stek** i **20–25 minutter**, til de er gylne.
 13. **Flytt dem over på rist** for å avkjøles før du deler dem.
 
 ### Notater
@@ -24378,9 +24378,9 @@ Ciabatta i rundstykkeformat, bygget på fire runder strekk og brett i stedet for
 - **Havsaltet i ingredienslisten brukes aldri.** Det skal strøs over rundstykkene før steking – kilden nevner det ikke i noe trinn. *(Rettelse lagt til.)*
 - **Kilden hopper fra steg 2 til steg 4** i sin egen nummerering. Det mangler ingen instruksjon; det er en tellefeil. *(Notert.)*
 - **32 °C vann er nøyaktig oppgitt med hensikt.** Det er den temperaturen som gir rask, jevn gjæraktivitet uten å skade gjæren – over 45 °C dør den. Bruk termometer, eller sikt mot litt varmere enn kroppstemperatur.
-- **79 % hydrering.** 4,75 dl vann til 600 g mel gir en enda våtere deig enn [B9](#b9-ciabattabaguette-uten-elting). Våt hånd, ikke mer mel, er nøkkelen til å håndtere den – mel som eltes inn nå ødelegger både struktur og hydrering.
-- **Fire runder strekk og brett er det som erstatter eltingen.** Hver runde bygger gluten uten at du klemmer ut luften. Dette er den viktigste forskjellen fra [B9](#b9-ciabattabaguette-uten-elting), som bare gjør én runde – og grunnen til at disse blir høyere og luftigere. *(Sammenligning lagt til.)*
-- **Ingen damp i denne oppskriften.** [B9](#b9-ciabattabaguette-uten-elting) bruker en form med vann i ovnen; her er det utelatt. Damp gir sprøere og blankere skorpe, og er verdt å legge til – sett en langpanne i bunnen under forvarming og hell i kokende vann rett før brettene går inn. *(Forslag lagt til.)*
+- **79 % hydrering.** 4,75 dl vann til 600 g mel gir en enda våtere deig enn [ciabattabaguetten (B9)](#b9-ciabattabaguette-uten-elting). Våt hånd, ikke mer mel, er nøkkelen til å håndtere den – mel som eltes inn nå ødelegger både struktur og hydrering.
+- **Fire runder strekk og brett er det som erstatter eltingen.** Hver runde bygger gluten uten at du klemmer ut luften. Dette er den viktigste forskjellen fra [ciabattabaguetten (B9)](#b9-ciabattabaguette-uten-elting), som bare gjør én runde – og grunnen til at disse blir høyere og luftigere. *(Sammenligning lagt til.)*
+- **Ingen damp i denne oppskriften.** [Ciabattabaguetten (B9)](#b9-ciabattabaguette-uten-elting) bruker en form med vann i ovnen; her er det utelatt. Damp gir sprøere og blankere skorpe, og er verdt å legge til – sett en langpanne i bunnen under forvarming og hell i kokende vann rett før brettene går inn. *(Forslag lagt til.)*
 - **Sett brettene inn ett om gangen** hvis ovnen din er liten. To brett samtidig senker temperaturen og gir bleke rundstykker.
 - **Kjernetemperatur 96–98 °C** er sikreste ferdigtest, eller bank på bunnen – den skal låte hul. *(Lagt til.)*
 - **Sterkt hvetemel er ikke valgfritt** ved denne hydreringen. Vanlig norsk hvetemel klarer det, men italiensk tipo 0 eller bakemel merket «sterkt» holder langt bedre på vannet.
