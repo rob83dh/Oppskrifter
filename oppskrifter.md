@@ -13524,7 +13524,7 @@ Brune linser kokt med gulrot, stangselleri og poteter i grønnsakskraft, smakssa
 - **Kildens avslutning:** en skvett sitronsaft og hakket persille rett før servering. Det er verdt å ta med – gryta er tung og trenger syre.
 - **Fryser godt** – kilden oppgir inntil ett år i tett boks.
 - **Vegansk og glutenfri** som skrevet, forutsatt at soyasausen er glutenfri eller sløyfes.
-- **Samlingens eneste rene belgfruktgryte**, og den mest proteinrike vegetarretten: 19 g protein og 24 g fiber per porsjon.
+- **Næring ifølge kilden:** 19 g protein og 24 g fiber per porsjon.
 
 ---
 
@@ -13573,7 +13573,6 @@ Sellerirot kokt mør i grønnsakskraft og mikset glatt med kremost i stedet for 
 - **Toppingene er valgfrie, men er halve retten.** Sellerirot smaker mildt kokt, og både saltet fra baconet og knasingen fra brødsmulene er det som gjør suppen til et måltid. Vegetarisk uten bacon – da bør brødsmulene få litt ekstra salt.
 - **Holdbarhet:** 3 dager i kjøleskap, og suppen fryser godt. Spe med kraft eller melk ved oppvarming.
 - **En leser tilsatte pepperrot** dagen etter, med godt resultat – et naturlig grep til en mild rotgrønnsak.
-- **Samlingens tredje sellerisuppe-slektning:** [SU5](#su5-fransk-løksuppe) og [SU11](#su11-fransk-løksuppe--géraldine-sin-versjon) bruker stangselleri i urtebuketten, mens denne er den eneste som bruker selve rota.
 
 ---
 
@@ -13610,7 +13609,7 @@ Butternut, hvitløk og sjalottløk bakt sammen i ovn og mikset med varm grønnsa
 
 ### Notater
 
-- **Suppen er kremet uten fløte, melk eller ost.** Butternutens eget stivelsesinnhold gjør jobben – 160 kcal per porsjon, den letteste suppen i samlingen.
+- **Suppen er kremet uten fløte, melk eller ost.** Butternutens eget stivelsesinnhold gjør jobben – 160 kcal per porsjon, en av de letteste suppene i samlingen.
 - **Ovnsbakingen er hele poenget**, men den er valgfri: kilden opplyser at terningene også kan kokes i kraften i 20 minutter. Da mister du karamelliseringen, som er det som skiller denne fra en vanlig gresskarsuppe.
 - **Bruk blender, ikke stavmikser**, anbefaler kilden. Stavmikser gir en grovere konsistens; en kraftig bordblender er det som gir den helt silkeglatte teksturen.
 - **Piment d'Espelette fås knapt i Norge.** Det er en mild, fruktig baskisk chili. Cayennepepper er kildens eget alternativ, men den er skarpere – bruk mindre. Mildt chilipulver eller søt røkt paprika kommer nærmere i karakter.
@@ -13665,7 +13664,7 @@ Rødløk stekt med paprika, chiliflak og tomatpuré, kokt inn med hermetiske tom
 - **Kan gjøres til kjøttrett** ved å brune kyllingpølse eller kjøttdeig sammen med løken, sier kilden.
 - **Vegetarisk som skrevet**, og vegansk ved å bytte parmesanen mot et plantebasert alternativ.
 - **Smaker bedre dagen etter.** Holdbarhet 3 dager i kjøleskap, og gryta fryser godt.
-- **Samlingens andre hvitbønnerett** ved siden av [tunfisk- og hvitbønnesalaten (SJ8)](#sj8-tunfisk--og-hvitbønnesalat) – samme bønne, men varm og krydret i stedet for kald og sitrusfrisk.
+- **Sammenlign med** [tunfisk- og hvitbønnesalaten (SJ8)](#sj8-tunfisk--og-hvitbønnesalat) – samme bønne, men varm og krydret i stedet for kald og sitrusfrisk.
 
 ---
 
@@ -13704,7 +13703,7 @@ Hvite bønner der en tredel mikses glatt og røres tilbake i gryta – all kreme
 
 ### Notater
 
-- **Bønnepuréen er hele teknikken.** En tredel av bønnene mikset med kraft gir suppen kremethet uten fløte – flere lesere trekker fram nettopp det. Grepet er verdt å huske til andre suppe: det fungerer i alle bønne- og linsesupper.
+- **Bønnepuréen er hele teknikken.** En tredel av bønnene mikset med kraft gir suppen kremethet uten fløte – flere lesere trekker fram nettopp det. Grepet er verdt å huske til andre supper: det fungerer i alle bønne- og linsesupper.
 - **1 ts chiliflak er mye.** To lesere melder at retten ble for sterk. Start med **½ ts**. Samme forbehold som i [SU16](#su16-hvitbønnegryte-med-tomat-og-spinat) fra samme forfatter.
 - **Oljemengden manglet opprinnelig.** En leser måtte spørre hvor mye olivenolje som skulle brukes, og forfatteren la den inn i oppskriften etterpå – 1–2 ss.
 - **Tre bokser bønner er mye.** Amerikanske bokser på 425 g gir rundt 850 g avrent totalt; norske bokser på 400 g gir ca. 240 g avrent hver, så du trenger **tre til fire** for å komme dit. Se samme regnestykke i [SJ8](#sj8-tunfisk--og-hvitbønnesalat) og [SU16](#su16-hvitbønnegryte-med-tomat-og-spinat).
@@ -13712,7 +13711,7 @@ Hvite bønner der en tredel mikses glatt og røres tilbake i gryta – all kreme
 - **Sitronen kommer helt til slutt**, sammen med spinaten og osten. Syren er det som holder en ellers tung bønnesuppe frisk – ikke kok den med.
 - **Vegansk** ved å bytte parmesanen mot næringsgjær eller et plantebasert alternativ; kremetheten kommer uansett fra bønnene, ikke osten.
 - **Holdbarhet:** 3–4 dager i kjøleskap, 3 måneder i fryser, og suppen smaker bedre dagen etter.
-- **Samlingens tredje hvitbønnerett**, etter [SJ8](#sj8-tunfisk--og-hvitbønnesalat) og [SU16](#su16-hvitbønnegryte-med-tomat-og-spinat) – kald salat, krydret gryte og kremet suppe av samme bønne.
+- **Se også** [SJ8](#sj8-tunfisk--og-hvitbønnesalat) og [SU16](#su16-hvitbønnegryte-med-tomat-og-spinat) – kald salat, krydret gryte og kremet suppe av samme bønne.
 
 ---
 
@@ -13749,7 +13748,7 @@ Alt går i ovnen samtidig – tomater, paprika, chili, løk og et helt hvitløks
 2. **Stek grønnsakene.** Legg tomater, paprika, chili, løk og hvitløk i en ildfast form. Drypp over olivenolje og krydre rikelig med salt og pepper. Legg hvitløken med snittflaten opp. Stek i **40–50 minutter**, til grønnsakene er myke og har fått skikkelig med farge.
 3. **Lag suppen.** Ta ut formen. Klem den myke, ristede hvitløken ut av skallet og kast skallet. Ha alle grønnsakene i en kjele eller blender og hell på buljongen *(løs opp terningene i 5 dl kokende vann først – se notat)*. Miks suppen glatt med stavmikser eller i blender. Hell den tilbake i kjelen og la den koke sammen et par minutter.
 4. **Fløten i.** Rør den inn og smak til med salt og rikelig med sort pepper.
-5. **Lag smørbrødene.** Smør utsiden av hver brødskive. Legg på smelteost og revet lagret ost. Stek smørbrødene i en panne med olje på middels varme til de er gyllne og osten har smeltet – legg gjerne på et lodd. Del dem i to.
+5. **Lag smørbrødene.** Smør utsiden av hver brødskive. Legg på smelteost og revet lagret ost. Stek smørbrødene i en panne med olje på middels varme til de er gylne og osten har smeltet – legg gjerne på et lodd. Del dem i to.
 6. **Server** den varme suppen i skåler, straks, sammen med de nystekte smørbrødene.
 
 ### Notater
@@ -13762,7 +13761,7 @@ Alt går i ovnen samtidig – tomater, paprika, chili, løk og et helt hvitløks
 - **1–2 dl fløte er et stort spenn.** 1 dl gir en tomatdrevet suppe, 2 dl en tydelig kremet. Start med 1 dl og smak. Suppen skal ikke fosskoke etter at fløten er i.
 - **«Hamburgerost» er svensk for smelteost i skiver.** Den er ikke der for smakens skyld, men fordi den smelter jevnt og trekker tråder – det er slik en amerikansk grilled cheese skal oppføre seg. Den lagrede osten står for smaken. Bruker du bare vanlig norsk gulost, blir smørbrødet fettskilt og oljete. I Norge finner du smelteost i skiver fra blant annet Kavli og Synnøve. *(Forklaring og erstatning lagt til.)*
 - **Kilden spriker om fettet i pannen.** Ingredienslisten sier olivenolje, fremgangsmåten sier rapsolje. Bruk nøytral olje – olivenolje brenner lettere på den varmen og temperaturen du trenger her. *(Avvik notert.)*
-- **Loddet er ikke pynt.** Press smørbrødet ned med en tung panne eller en kjele mens det steker – kontakten mellom brød og panne er det som gir jevn gylden skorpe og smeltet ost samtidig. Samme grep som i [SU8](#su8-tomatsuppe-med-grilled-cheese).
+- **Loddet er ikke pynt.** Press smørbrødet ned med en tung panne eller en kjele mens det steker – kontakten mellom brød og panne er det som gir jevn gyllen skorpe og smeltet ost samtidig. Samme grep som i [SU8](#su8-tomatsuppe-med-grilled-cheese).
 - **Middels varme, ikke høy.** Osten trenger lengre tid enn brødet. Blir brødet mørkt før osten smelter, er varmen for høy.
 - **Suppen fryser godt** uten fløten – rør den inn ved oppvarming. Smørbrødene må lages ferske.
 
@@ -13779,12 +13778,12 @@ To squash behandlet på hver sin måte: den ene kokes til suppe, den andre steke
 **Suppen**
 - 2 squash
 - 1 løk
-- 2 hvitløkfedd
+- 2 hvitløksfedd
 - 4 ss smør
 - 4 ss olivenolje
 - Vann
 - Frisk timian
-- En knivspiss kajennepepper
+- En knivspiss cayennepepper
 - Salt
 
 **Toppingen**
@@ -13796,10 +13795,10 @@ To squash behandlet på hver sin måte: den ene kokes til suppe, den andre steke
 
 1. **Fjern det harde i endene på squashene.** Skrell den ene på langs med potetskreller – behold litt av det grønne. Høvle den i tynne skiver på mandolin, eller del opp med kniv.
 2. **Skjær løken i strimler og fres den i en kjele med litt smør.**
-3. **Skrell hvitløkfeddene, knus dem med kniv** og tilsett i kjelen.
+3. **Skrell hvitløksfeddene, knus dem med kniv** og tilsett i kjelen.
 4. **Ha i squashen og fres videre.** Tilsett olivenolje og la det frese på sterk varme. **Blandingen skal ikke ta farge.**
 5. **Hell på vann til det dekker** og la det koke kraftig i **8–10 minutter**.
-6. **Tilsett litt frisk timian og en knivspiss kajennepepper.**
+6. **Tilsett litt frisk timian og en knivspiss cayennepepper.**
 7. **Kjør med stavmikser til suppe- eller sauskonsistens**, juster med litt vann og tilsett smør. Smak til med salt.
 8. **Til toppingen:** skrell den andre squashen, del den på langs og skrap ut innmaten. Kutt i grove skiver.
 9. **Fres skivene i varm panne med litt olivenolje på middels varme.** De kan gjerne få litt farge, men skal ikke bli brent.
@@ -13849,7 +13848,7 @@ Skjellene damper åpne på to minutter, kraften filtreres og monteres med smør 
 - **Oppskummingen er anretningen.** Stavmikseren pisker luft inn i den fettrike kraften og gir et lett skum i stedet for en tung saus. Det må gjøres i siste sekund – skummet faller sammen i løpet av minutter.
 - **Skjell som ikke åpner seg, kastes.** Kilden nevner det ikke, men regelen er absolutt. *(Lagt til.)*
 - **Ingen fløte.** Suppen er bygget på skjellkraft, vin og fett alene, og smaker langt renere av hav enn en kremet skjellsuppe.
-- **Beslektet:** [SJ13](#sj13-tunfisk--og-tomatsuppe) er samlingens andre sjømatsuppe, og [T114](#t114-hellstrøms-beurre-blanc) bruker samme montering med vin og smør.
+- **Beslektet:** [SJ13](#sj13-tunfisk--og-tomatsuppe) er en annen sjømatsuppe, og [T114](#t114-hellstrøms-beurre-blanc) bruker samme montering med vin og smør.
 
 ---
 
@@ -13876,7 +13875,7 @@ Seks til åtte løk freset i olivenolje og kokt i kraft i en halvtime. Krutongen
 1. **Skrell løken og skjær den i fine strimler.**
 2. **Fres den i varm olivenolje under omrøring** til den blir blank og lett gyllenbrun.
 3. **Tilsett kraft eller vann** og småkok på middels varme i **ca. 30 minutter**. Smak til med salt.
-4. **Skjær lyst brød uten skorpe i grove terninger**, vend dem i litt olivenolje og stek dem i ildfast form eller på stekebrett med bakepapir på **200 grader**, til de er gyllenbrune.
+4. **Skjær lyst brød uten skorpe i grove terninger**, vend dem i litt olivenolje og stek dem i ildfast form eller på stekebrett med bakepapir på **200 °C**, til de er gyllenbrune.
 5. **Dekk krutongene med skiver av ost** og la osten smelte over dem.
 6. **Server suppen i dype, varme tallerkener** og legg krutongene med smeltet ost på toppen.
 
@@ -13886,7 +13885,7 @@ Seks til åtte løk freset i olivenolje og kokt i kraft i en halvtime. Krutongen
 - **Krutongene gratineres separat.** Den klassiske metoden er å gratinere hele suppebollen under grillelementet. Her går osten på brødet alene, som gjør at krutongene holder seg sprø i stedet for å suge seg fulle.
 - **Lett gyllenbrun, ikke mørk.** Løken skal bare så vidt ta farge. Kraftig karamellisering ville gitt en mørkere og søtere suppe – det er [T82](#t82-hellstrøms-løkkompott) som gjør den jobben.
 - **Beaufort og Comté er begge alpeoster** med nøtteaktig smak og god smelteevne. Gruyère er nærmeste erstatning. *(Lagt til.)*
-- **Beslektet:** [SU5](#su5-fransk-løksuppe) og [SU11](#su11-fransk-løksuppe--géraldine-sin-versjon) er samlingens to andre løksupper.
+- **Beslektet:** [SU5](#su5-fransk-løksuppe) og [SU11](#su11-fransk-løksuppe--géraldine-sin-versjon) er andre løksupper i samlingen.
 
 ---
 
