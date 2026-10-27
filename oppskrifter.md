@@ -16692,7 +16692,7 @@ Dauphinois som ender som pavé: hårtynne potetlag med trukket fløte og emmenta
 
 **Kilde:** Amanda / Chez Le Rêve Français (chezlerevefrancais.com), publisert 10. mai 2020, oppdatert 18. september 2020 · **Kjøkken:** Fransk · **Tid:** ca. 2 t aktivt + natten over i kjøleskap · **Gir:** 12 stykker
 
-Pavé betyr brostein på fransk, og beskriver retten godt. Potetskiver bakt i smør, hvitløk og kraft, presset over natten og ovnsstekt sprø i smør. Til forskjell fra [T18](#t18-potetpavé) friteres den ikke – alt skjer i ovnen.
+Pavé betyr brostein på fransk, og beskriver retten godt. Potetskiver bakt i smør, hvitløk og kraft, presset over natten og ovnsstekt sprø i smør. Til forskjell fra [potetpavéen (T18)](#t18-potetpavé) friteres den ikke – alt skjer i ovnen.
 
 ### Ingredienser
 
@@ -16719,18 +16719,18 @@ Pavé betyr brostein på fransk, og beskriver retten godt. Potetskiver bakt i sm
 
 ### Notater
 
-- **Kilden sier uttrykkelig at potetene ikke skal skylles**, og begrunner det med stivelsen. Det bekrefter innvendingen mot bløtleggingen i [T18](#t18-potetpavé), der kilden ber deg legge skivene i kaldt vann – og der blokken derfor lett faller fra hverandre. *(Verdt å merke seg.)*
-- **Oppskriften inneholder ikke salt.** Verken i lagene eller i smørkraften. Det er sannsynligvis fordi forfatteren bruker saltet smør og saltet kraft, som hun svarer en leser. Men 1,5 kg potet trenger mer enn det – **salt lett hvert lag**, slik en av leserne gjør. *(Mangel – lagt til.)*
+- **Kilden sier uttrykkelig at potetene ikke skal skylles**, og begrunner det med stivelsen. Det bekrefter innvendingen mot bløtleggingen i [potetpavéen (T18)](#t18-potetpavé), der kilden ber deg legge skivene i kaldt vann – og der blokken derfor lett faller fra hverandre. *(Verdt å merke seg.)*
+- **Oppskriften inneholder ikke salt.** Verken i lagene eller i smørkraften. Det er sannsynligvis fordi forfatteren bruker saltet smør og saltet kraft, slik hun svarer en leser. Men 1,5 kg potet trenger mer enn det – **salt lett hvert lag**, slik en av leserne gjør. *(Mangel – lagt til.)*
 - **Pressemetoden forvirret mange lesere**, og forfatteren har måttet forklare den flere ganger: folien er større enn formen, så den brettes inn slik at den ligger *inni* formen og hindrer at pappen blir våt. Deretter legges papp eller en mindre form oppå, og vekten fordeles jevnt med bokser. *(Presisering hentet fra kommentarfeltet.)*
 - **Smøret er delt i to like porsjoner** – 50 g i kraften, 50 g til pensling før siste steking. Det manglet opprinnelig i oppskriftskortet og ble rettet etter et leserspørsmål. *(Bakgrunn.)*
 - **80 g kraft til 1,5 kg potet er svært lite.** Dette er en pavé, ikke en grateng – potetene skal bakes møre i sitt eget vann og i smøret, ikke ligge i væske. Sammenlign med [gratin dauphinois (T27)](#t27-gratin-dauphinois), som bruker 7,5 dl til 1,5 kg. Ikke fyll på mer; da får du ikke en blokk som lar seg skjære.
 - **Fersk timian, aldri tørket.** Forfatteren er tydelig: tørket timian blir treaktig og smaker helt annerledes. Salvie eller rosmarin er hennes egne alternativer.
-- **1 time på 180 °C er kortere enn de andre pavéene i samlingen** – [T18](#t18-potetpavé) og [T54](#t54-pomme-anna-pavé--hybrid) bruker 2–2½ time. Sjekk med spyd før du tar den ut; er potetene ikke helt møre, faller blokken fra hverandre under kniven.
-- **Ovnssteking i stedet for fritering** er den store forskjellen fra [T18](#t18-potetpavé). 50 minutter på 200 °C gir sprø kanter uten en liter olje, men mindre jevn sprøhet enn frityren. Til gjengjeld er det langt enklere og billigere.
+- **1 time på 180 °C er kortere enn i de andre pavéene** – [potetpavéen (T18)](#t18-potetpavé) og [pomme Anna pavé (T54)](#t54-pomme-anna-pavé--hybrid) bruker 2–2½ time. Sjekk med spyd før du tar den ut; er potetene ikke helt møre, faller blokken fra hverandre under kniven.
+- **Ovnssteking i stedet for fritering** er den store forskjellen fra [potetpavéen (T18)](#t18-potetpavé). 50 minutter på 200 °C gir sprø kanter uten en liter olje, men mindre jevn sprøhet enn frityren. Til gjengjeld er det langt enklere og billigere.
 - **Maris Piper er britisk.** Norske motsvarigheter er **Beate, Kerrs Pink eller Pimpernel**. Forfatteren advarer selv mot fastkokende poteter, som mangler stivelsen som limer lagene.
 - **12 stykker fra en 20 cm form** blir små – ca. 5 × 6 cm. Regn dem som porsjonsstykker til fire–seks personer, ikke tolv.
 - **Kan lages to dager i forveien**, og uferdige stykker kan fryses innpakket i plastfolie. Det er hele poenget med metoden: alt utenom siste steking gjøres på forhånd.
-- **Samlingens fire pavé- og Anna-varianter:** [potetpavé (T18)](#t18-potetpavé) friterer, [pommes Anna (T50)](#t50-pommes-anna) hopper over pressingen, [pomme Anna pavé – hybrid (T54)](#t54-pomme-anna-pavé--hybrid) bruker klaret smør og urter mellom lagene, og denne bruker kraft og ovn. [Gratin dauphinois på 15 timer – Chef Romain Avril sin versjon (T57)](#t57-gratin-dauphinois-på-15-timer--chef-romain-avril-sin-versjon) er den samme teknikken med fløte og ost.
+- **Pavé- og Anna-variantene:** [potetpavé (T18)](#t18-potetpavé) friterer, [pommes Anna (T50)](#t50-pommes-anna) hopper over pressingen, [pomme Anna pavé – hybrid (T54)](#t54-pomme-anna-pavé--hybrid) bruker klaret smør og urter mellom lagene, og denne bruker kraft og ovn. [Gratin dauphinois på 15 timer – Chef Romain Avril sin versjon (T57)](#t57-gratin-dauphinois-på-15-timer--chef-romain-avril-sin-versjon) er den samme teknikken med fløte og ost.
 
 ---
 
@@ -16801,7 +16801,7 @@ Aubergine svidd til skallet er sotet og innmaten faller sammen, blandet med tahi
 ### Fremgangsmåte
 
 1. **Svi auberginene hele.** Legg dem rett på gassflammen, på grillen eller under grillelementet i ovnen, og snu dem med jevne mellomrom i **20–30 minutter**, til skallet er sotet overalt og de har falt helt sammen.
-2. **La dem renne av.** Legg auberginene i en sil i **20 minutter**. De inneholder mye vann, og får det bli med, blir dippen tynn.
+2. **La dem renne av.** Legg auberginene i en sil i **20 minutter**. De inneholder mye vann, og får det være med, blir dippen tynn.
 3. **Skrap ut innmaten** med en skje og kast skallet. Hakk kjøttet grovt med kniv – ikke bruk stavmikser.
 4. **Bland inn** tahini, hvitløk, sitronsaft, olivenolje, salt og spisskummen.
 5. **Smak til.** Den skal være tydelig syrlig og litt bitter.
@@ -16811,10 +16811,10 @@ Aubergine svidd til skallet er sotet og innmaten faller sammen, blandet med tahi
 
 - **Ovnsbakt aubergine gir ikke baba ganoush.** Uten svidd skall mangler den røyken som er hele identiteten, og da har du laget en auberginepuré. Har du gasskomfyr, bruk flammen.
 - **Avrenningen på 20 minutter** er trinnet folk hopper over. En aubergine er for det meste vann, og resultatet blir en rennende dipp hvis vannet blir med.
-- **Kniv, ikke stavmikser.** Baba ganoush skal ha struktur. Kjøres den glatt, blir den en helt annen konsistens enn den skal ha – da nærmer du deg hummus i tekstur.
+- **Kniv, ikke stavmikser.** Baba ganoush skal ha struktur. Kjøres den glatt, nærmer den seg hummus i tekstur.
 - **Tahini skiller seg i glasset.** Rør den godt sammen før du måler opp, ellers får du bare olje eller bare fast masse.
-- **Holdbarhet:** 4 døgn kjøleskap. Smaken blir rundere dag to. Tåler ikke frysing.
-- **Beslektet:** [T40](#t40-hummus) er den andre halvparten av samme meze-bord, og [T41](#t41-ovnsbakt-paprika--og-tomatsalat-med-bocconcini) hører til samme servering.
+- **Holdbarhet:** 4 døgn i kjøleskap. Smaken blir rundere dag to. Tåler ikke frysing.
+- **Beslektet:** [hummus (T40)](#t40-hummus) er den andre halvparten av samme meze-bord, og [ovnsbakt paprika- og tomatsalat (T41)](#t41-ovnsbakt-paprika--og-tomatsalat-med-bocconcini) hører til samme servering.
 
 ---
 
@@ -16861,8 +16861,8 @@ Tyrkisk bulgursalat med tomatpuré, granateplesirup og en stor mengde persille o
 - **Granateplesirup er ikke til å bytte ut.** Den er tykk, mørk og syrlig-søt, og det er den som gjør kısır til kısır i stedet for en tabbouleh. Fås i innvandrerbutikker og i de større dagligvarebutikkene.
 - **Mengden persille skal virke overdreven.** En stor bunt til 250 g bulgur er riktig. Dette er en urtesalat med bulgur i, ikke omvendt.
 - **Smak til to ganger.** Bulgur suger opp salt og syre mens den hviler, så det som smakte riktig med én gang, smaker flatt etter ti minutter.
-- **Holdbarhet:** 3 døgn kjøleskap. Agurk og tomat trekker vann – vend dem inn først når du skal servere hvis du lager den på forhånd.
-- **Beslektet:** [nr. 150](#150-sumakkylling-med-havrerissalat-og-hvitløksyoghurt) bruker samme sumak og samme kornprinsipp, og [T40](#t40-hummus) hører til samme bord.
+- **Holdbarhet:** 3 døgn i kjøleskap. Agurk og tomat trekker vann – vend dem inn først når du skal servere hvis du lager den på forhånd.
+- **Beslektet:** [sumakkylling med havrerissalat (nr. 150)](#150-sumakkylling-med-havrerissalat-og-hvitløksyoghurt) bruker samme sumak og samme kornprinsipp, og [hummus (T40)](#t40-hummus) hører til samme bord.
 
 ---
 
@@ -16870,7 +16870,7 @@ Tyrkisk bulgursalat med tomatpuré, granateplesirup og en stor mengde persille o
 
 **Kilde:** Matprat (matprat.no) · **Kjøkken:** Svensk · **Tid:** ca. 55 min · **Porsjoner:** 4 *(ikke oppgitt i kilden)*
 
-Den enkleste av samlingens tre hasselbackvarianter: skrelte nypoteter, smør penslet på utenpå og paprikapulver som eneste krydder. Ingen hvitløk, ingen urter. Kniven stoppes av to grillspyd langs poteten – det er trikset som gjør at du ikke skjærer igjennom.
+Den enkleste hasselbackvarianten i samlingen: skrelte nypoteter, smør penslet på utenpå og paprikapulver som eneste krydder. Ingen hvitløk, ingen urter. Kniven stoppes av to grillspyd langs poteten – det er trikset som gjør at du ikke skjærer igjennom.
 
 ### Ingredienser
 
@@ -16896,8 +16896,8 @@ Den enkleste av samlingens tre hasselbackvarianter: skrelte nypoteter, smør pen
 ### Notater
 
 - **Grillspydtrikset er kildens beste bidrag.** To pinner langs poteten hindrer kniven i å gå helt gjennom, og du slipper å måle med øyemål. Spisepinner eller to tresleiver fungerer like godt.
-- **Paprikapulver i stedet for hvitløk** er det som skiller denne fra de to andre i samlingen. Den er mildere og mer nøytral, og passer derfor bedre ved siden av en kraftig kjøttrett.
-- **Smøret penslet på utenpå**, ikke lagt i snittene. Det gir jevnere farge, men mindre smak nede i poteten enn [T55](#t55-hasselbackpoteter--gladkokken-sin-versjon), som legger smørskiver ned mellom skivene.
+- **Paprikapulver i stedet for hvitløk** er det som skiller denne fra de andre hasselbackvariantene. Den er mildere og mer nøytral, og passer derfor bedre ved siden av en kraftig kjøttrett.
+- **Smøret penslet på utenpå**, ikke lagt i snittene. Det gir jevnere farge, men mindre smak nede i poteten enn [Gladkokken sin versjon (T55)](#t55-hasselbackpoteter--gladkokken-sin-versjon), som legger smørskiver ned mellom skivene.
 - **Skrelte poteter** er uvanlig for hasselback. Skallet gir sprøhet, men glatte, skrelte poteter blir penere – som er poenget med denne retten.
 - **225 °C er høyt.** Sjekk etter 30 minutter. Blir toppen mørk før potetene er møre, dekk med folie.
 - **Porsjoner ikke oppgitt.** 12 poteter og 178 kcal per porsjon i kildens næringstabell tilsier 4. *(Lagt til.)*
@@ -16910,7 +16910,7 @@ Den enkleste av samlingens tre hasselbackvarianter: skrelte nypoteter, smør pen
 
 **Kilde:** Gladkokken (gladkokken.no), etter Heston Blumenthals metode fra «In Search of Perfection» · **Kjøkken:** Fransk · **Tid:** ca. 1 time + tørketid · **Porsjoner:** 4
 
-Tre stadier: koking, én fritering på 160 grader, og én på 190 rett før servering. Poenget med hele metoden er å få fuktigheten ut av potetene før de skal bli sprø – derfor tørkes de i kjøleskap eller fryser mellom hvert trinn.
+Tre stadier: koking, én fritering på 160 °C og én på 190 °C rett før servering. Poenget med hele metoden er å få fuktigheten ut av potetene før de skal bli sprø – derfor tørkes de i kjøleskap eller fryser mellom hvert trinn.
 
 ### Ingredienser
 
@@ -16936,12 +16936,13 @@ Tre stadier: koking, én fritering på 160 grader, og én på 190 rett før serv
 ### Notater
 
 - **Fuktighet er fienden.** Hele metoden handler om å tørke potetene mellom hvert trinn. Kjøleskapet og fryseren brukes ikke for å kjøle dem ned, men fordi luften der er tørrere. Hopper du over tørkingen, blir de aldri ordentlig sprø.
-- **De to friteringene har ulike oppgaver.** 160 grader steker potetene ferdig gjennom og danner et tørt ytre lag. 190 grader gir farge og sprøhet på under tre minutter. Gjør du bare det siste, blir de brune utenpå og rå inni.
+- **De to friteringene har ulike oppgaver.** 160 °C steker potetene ferdig gjennom og danner et tørt ytre lag. 190 °C gir farge og sprøhet på under tre minutter. Gjør du bare det siste, blir de brune utenpå og rå inni.
 - **Kokingen skal gi ganske møre poteter.** De skal nesten være på grensen til å falle fra hverandre. Er de fortsatt faste, blir innsiden aldri myk.
 - **Ikke for mye olje i kjelen.** Kilden advarer eksplisitt: potetene inneholder fortsatt vann, det bobler kraftig, og en full kjele kan koke over. Halvfull er rikelig.
 - **Lik tykkelse betyr mer enn lik lengde.** Tynne strimler er ferdige og brente før de tykke er gjennomstekte.
 - **Alt bortsett fra den siste friteringen kan gjøres på forhånd** – dagen før, eller tidlig på dagen. Da står det bare tre minutter igjen når gjestene kommer. Dette er hele grunnen til at metoden er verdt bryet.
 - **16 store poteter til fire porsjoner** virker mye, men det er riktig for pommes frites.
+- **Potetsorten:** kilden sier kokefaste poteter, men Heston Blumenthal bruker selv Maris Piper, som er melen. Melne norske sorter som Beate eller Kerrs Pink gir luftigere innside; kokefaste gir fastere. *(Lagt til.)*
 - **Holdbarhet:** ingen for de ferdige. Kokte og én gang friterte poteter holder et døgn i kjøleskap, eller kan fryses.
 - **Beslektet:** [potetbåter i airfryer (T23)](#t23-potetbåter-i-airfryer) er hverdagsvarianten, [pommes Anna (T50)](#t50-pommes-anna) og [potetpavé (T18)](#t18-potetpavé) er de arbeidskrevende potetrettene, og [friterte mac and cheese-biter (S31)](#s31-friterte-mac-and-cheese-biter) og [jalapeño-poppers (S32)](#s32-jalapeño-poppers) bruker samme frityrgryte.
 
@@ -16981,7 +16982,7 @@ Væsken kokes opp med rødvinseddik og olivenolje før den helles over. Smaken g
 - **Klede, ikke lokk.** Kledet slipper ut damp som ellers ville kondensert på lokket og dryppet ned igjen, og gjort couscousen klissete.
 - **Tabasco og Worcestershiresaus** er uvanlige i en couscous, men gjør en presis jobb: syre og umami i en rett som ellers er nokså nøytral.
 - **Kildens forslag til innblanding:** rosiner, pistasjnøtter, cashewnøtter, grønne kokte bønner, agurk eller squash i terninger.
-- **Beslektet:** [SA4](#sa4-couscoussalat-med-granateple-og-mynte) er couscous som salat, og [T61](#t61-kısır) er den tyrkiske bulgurslektningen.
+- **Beslektet:** [couscoussalat med granateple og mynte (SA4)](#sa4-couscoussalat-med-granateple-og-mynte) er couscous som salat, og [kısır (T61)](#t61-kısır) er den tyrkiske bulgurslektningen.
 
 ---
 
