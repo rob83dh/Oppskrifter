@@ -21062,15 +21062,15 @@ Tunfisksalat rørt med Kewpie i stedet for vanlig majones, med cornichoner, rød
 
 ### Notater
 
-- **Tunfisk i vann er et bevisst valg her.** Kewpie er fetere og mer smaksrik enn vanlig majones, og bringer fettet retten trenger – tunfisk i olje ville blitt for tungt. Det er motsatt av [S15](#s15-tuna-melt-med-avokadodressing), der oljen er poenget fordi dressingen er yoghurtbasert. *(Sammenligning lagt til.)*
+- **Tunfisk i vann er et bevisst valg her.** Kewpie er fetere og mer smaksrik enn vanlig majones, og bringer fettet retten trenger – tunfisk i olje ville blitt for tungt. Det er motsatt av [tuna melt (S15)](#s15-tuna-melt-med-avokadodressing), der oljen er poenget fordi dressingen er yoghurtbasert. *(Sammenligning lagt til.)*
 - **Press tunfisken tørr.** «Avrent» er ikke nok – klem den mot silen med en skje. Vann som blir igjen tynner ut majonesen og gjør brødet bløtt. *(Lagt til.)*
 - **3 ss majones til 300 g tunfisk er lite.** Det gir en tørr, kornete salat. Regn **4–5 ss** hvis du vil ha den kremete, som en japansk *sando* skal være. *(Justering lagt til.)*
 - **Kewpie er ikke norsk majones.** Den lages på bare eggeplommer, syres med riseddik og inneholder MSG. Bytter du til vanlig majones, blir salaten flatere – kompenser med noen dråper riseddik og en klype salt. Se [sesamdressing til kålsalat (T39)](#t39-sesamdressing-til-kålsalat) og [crispy chilimajones (T48)](#t48-crispy-chilimajones), og [majones (T122)](#t122-majones) om du vil lage den selv.
-- **Cornichoner, ikke norsk sylteagurk.** Den norske er søt og trekker retten i feil retning. Cornichoner er syrlige og salte, og fås hos Meny og i delikatessebutikker. Samme presisering som i [S14](#s14-rask-cuban-sandwich).
+- **Cornichoner, ikke norsk sylteagurk.** Den norske er søt og trekker retten i feil retning. Cornichoner er syrlige og salte, og fås hos Meny og i delikatessebutikker. Samme presisering som i [rask cuban sandwich (S14)](#s14-rask-cuban-sandwich).
 - **Rå revet hvitløk i en kald salat blir skarpere med tiden.** Ett lite fedd er riktig – bruker du mer, dominerer det etter en halvtime i kjøleskapet. *(Presisering lagt til.)*
 - **Salt forsiktig.** Kewpie inneholder både salt og MSG, og cornichonene er salte.
 - **Salaten blir bedre av 30 minutter i kjøleskapet**, så smakene setter seg og løken mykner. *(Lagt til.)*
-- **Brødet avgjør om dette er et japansk sando.** Originalen bruker *shokupan* – mykt, hvitt melkebrød – med skorpen skåret av og smørbrødet delt diagonalt. Vil du bake det selv, se [hot cross shokupan (B1)](#b1-hot-cross-shokupan--krydret-japansk-melkebrød) uten krydder og frukt. Vanlig loff fungerer, men da er det et vanlig tunfisksmørbrød. *(Bakgrunn lagt til.)*
+- **Brødet avgjør om dette er en japansk sando.** Originalen bruker *shokupan* – mykt, hvitt melkebrød – med skorpen skåret av og smørbrødet delt diagonalt. Vil du bake det selv, se [hot cross shokupan (B1)](#b1-hot-cross-shokupan--krydret-japansk-melkebrød) uten krydder og frukt. Vanlig loff fungerer, men da er det et vanlig tunfisksmørbrød. *(Bakgrunn lagt til.)*
 - **Stangsellerien er valgfri, men gjør en jobb** – den er det eneste sprø elementet som holder seg sprøtt. Ikke sløyf den uten grunn.
 - **Beslektet:** [tuna melt (S15)](#s15-tuna-melt-med-avokadodressing) er den varme, stekte varianten, og [tunfisk- og hvitbønnesalat (SJ8)](#sj8-tunfisk--og-hvitbønnesalat) bruker samme boks i middelhavsdrakt.
 
@@ -21125,14 +21125,14 @@ Parisisk bistroklassiker: ristet loff med skinke, ost og bechamel, gratinert til
 - **Ikke for mye fyll inni.** Et tynt lag ost er nok – det kommer mer ost og bechamel på toppen, og for mye inni gjør smørbrødet ustabilt og fett. Forfatteren regner dette som feil nummer to.
 - **Grillelementet de siste to minuttene** gir den typiske gyllenbrune skorpen. Følg med – det går fort.
 - **Dijonen er valgfri, men er hele forfatterens poeng.** Et hårtynt lag, ikke 1 ss per skive slik mengden kan antyde – 4 ss er totalen for åtte skiver, og skal så vidt dekke.
-- **Ostevalget er ikke likegyldig.** Gruyère er skarpest, comté mest nøtteaktig, emmental mildest. Alle tre fås i norske ostediskar. Norsk Jarlsberg fungerer, men er søtere og trekker retten bort fra originalen. *(Presisering lagt til.)*
+- **Ostevalget er ikke likegyldig.** Gruyère er skarpest, comté mest nøtteaktig, emmental mildest. Alle tre fås i norske ostedisker. Norsk Jarlsberg fungerer, men er søtere og trekker retten bort fra originalen. *(Presisering lagt til.)*
 - **Skinken skal være mild kokt skinke** – *jambon blanc* – ikke røkt eller spekeskinke. Norsk kokt skinke i skiver er riktig vare.
 - **Mornaysaus som oppgradering:** rør en liten neve revet ost inn i bechamelen. Forfatterens eget tips, og verdt å prøve.
 - **Panne i stedet for ovn:** stek de sammensatte smørbrødene i smør 2–3 minutter per side, og legg deretter bechamel og ost på toppen og gratiner 5 minutter under grillen. **Lager du dem helt i panne, må bechamelen på toppen sløyfes** – de lar seg ikke snu. Da mister du gratineringen som er hele poenget. *(Kildens egen advarsel.)*
 - **Kan bygges ferdig på forhånd**, dekkes til og settes kaldt til de skal stekes. De kan også fryses ubakte i inntil en måned.
 - **Oppvarming:** ovn på 160–170 °C i 10 minutter, eller 5 minutter i airfryer. Aldri mikrobølgeovn – brødet blir bløtt.
 - **Legg et stekt egg på toppen**, så heter det croque madame.
-- **Serveres i Frankrike** med grønn salat og noen cornichoner. Se [T27](#t27-gratin-dauphinois) og [SU11](#su11-fransk-løksuppe--géraldine-sin-versjon) for flere bistroretter fra samme kokk.
+- **Serveres i Frankrike** med grønn salat og noen cornichoner. Se [gratin dauphinois (T27)](#t27-gratin-dauphinois) og [fransk løksuppe (SU11)](#su11-fransk-løksuppe--géraldine-sin-versjon) for flere bistroretter fra samme kokk.
 
 ---
 
@@ -21175,14 +21175,14 @@ Cæsarsalat rullet i tortilla, med sprøstekt bacon og en snarveisdressing satt 
 - **Kilden oppgir ingen fremgangsmåte**, bare to ingredienslister. Punkt 1–5 er rekonstruert. *(Merknad lagt til.)*
 - **Ingen mengder på kylling, bacon eller parmesan.** Anslag til én stor wrap: **150 g kyllingbryst**, **50 g bacon**, **2 ss parmesan** i dressingen og litt til å strø over. *(Lagt til.)*
 - **«1/2 tap dijon mustard» er en skrivefeil** for tsp – altså ½ ts. *(Notert.)*
-- **Dressingen mangler ansjos, og det er derfor den heter «cheats».** Worcestershiresausen dekker delvis – den inneholder ansjos – men gir langt mindre dybde enn to moste ansjosfileter. Vil du ha den ekte varen, se [nr. 156](#156-cæsarsalat-med-panert-kylling), som bruker ansjos direkte. *(Sammenligning lagt til.)*
+- **Dressingen mangler ansjos, og det er derfor den heter «cheats».** Worcestershiresausen dekker delvis – den inneholder ansjos – men gir langt mindre dybde enn to moste ansjosfileter. Vil du ha den ekte varen, se [cæsarsalat med panert kylling (nr. 156)](#156-cæsarsalat-med-panert-kylling), som bruker ansjos direkte. *(Sammenligning lagt til.)*
 - **Calabrisk chilipasta** er fermentert calabriachili i olje – fruktig, røkt og middels sterk, ikke bare hett. Fås i italienske delikatessebutikker. Erstatning: 'nduja gir samme retning med mer fett og kjøttsmak, eller sriracha for ren styrke uten den samme karakteren. *(Erstatning lagt til.)*
 - **Varm tortillaen før du ruller.** Kald tortilla sprekker langs bretten. Ti sekunder per side i tørr panne holder. *(Lagt til.)*
 - **Ikke overfyll.** Wrapen skal kunne rulles stramt – for mye fyll gjør at den sprekker og dressingen renner ut i den ene enden.
 - **Rull den i bakepapir** hvis den skal tas med, og skjær gjennom papiret. Da holder den formen.
 - **Dressingen blir bedre av en halvtime i kjøleskapet**, så hvitløken og parmesanen får satt seg. Rå revet hvitløk blir samtidig skarpere med tiden – ett halvt fedd er riktig mengde. *(Lagt til.)*
 - **Best samme dag.** Salaten faller sammen i dressingen i løpet av en time; vil du forberede, hold dressingen for seg og bygg wrapen rett før du spiser.
-- **Beslektet:** [cæsarsalat med panert kylling (nr. 156)](#156-cæsarsalat-med-panert-kylling) er samlingens fullversjon, og [Chicken tender dip (T42)](#t42-chicken-tender-dip-canes-saus) er en annen majonesbasert amerikansk dressing.
+- **Beslektet:** [cæsarsalat med panert kylling (nr. 156)](#156-cæsarsalat-med-panert-kylling) er fullversjonen som salat, og [Chicken tender dip (T42)](#t42-chicken-tender-dip-canes-saus) er en annen majonesbasert amerikansk dressing.
 
 ---
 
@@ -21216,7 +21216,7 @@ Fire ingredienser og et kvarter i ovnen. Butterdeig med et lag kremost rørt med
 - **Pensle bare kanten**, ikke fyllet. Egg på osten gir en gulaktig, ujevn overflate.
 - **«½ glass» er upresist.** Norske løkkonfityrglass er 200–300 g, så halvparten blir 100–150 g. Av dette går 3 ss – ca. 60 g – i kremosten, og resten som klatter. Bruk skjønn; for mye konfityr gjør terten søt og fuktig. *(Presisering lagt til.)*
 - **Kremosten må være romtemperert** for å la seg røre glatt med konfityren. Rett fra kjøleskapet blir blandingen klumpete. *(Lagt til.)*
-- **Geitosten bør være den faste typen**, altså en chèvre-rull, smuldret. Fersk, myk geitost avgir mye væske og gjør bunnen bløt. Skjær bort muggskorpen hvis du synes den er dominerende – se [nr. 152](#152-ovnsbakt-spisskål-med-kantareller-rødbeter-og-geitostkrem).
+- **Geitosten bør være den faste typen**, altså en chèvre-rull, smuldret. Fersk, myk geitost avgir mye væske og gjør bunnen bløt. Skjær bort muggskorpen hvis du synes den er dominerende – se [ovnsbakt spisskål med geitostkrem (nr. 152)](#152-ovnsbakt-spisskål-med-kantareller-rødbeter-og-geitostkrem).
 - **Butterdeigen skal være kald når den går i ovnen.** Har den ligget fremme mens du bygger, sett hele brettet i kjøleskapet i 10 minutter først – da hever kanten bedre. *(Lagt til.)*
 - **190 °C i 15–20 minutter forutsetter over-/undervarme.** Med varmluft, senk til 175 °C. Terten er ferdig når kanten er dypt gyllen og bunnen er gjennomstekt – løft på hjørnet og sjekk. *(Lagt til.)*
 - **La den hvile 5 minutter** før du skjærer, så setter osten seg.
@@ -21275,7 +21275,7 @@ Japanske risballer med fyll, pakket i nori. De tåler en dag i en boks og spises
 
 ### Ingredienser
 
-- 600 g kokt sushiris — ca. 270 g tørr ris, se [T131](#t131-kokt-ris)
+- 600 g kokt sushiris — ca. 270 g tørr ris, se [kokt ris (T131)](#t131-kokt-ris)
 - 2 ts salt
 - 4 ark nori, delt i to
 
@@ -21343,8 +21343,8 @@ Egg og grønnsaker bakt i langpanne og skåret i ruter. Den er like god kald som
 - **Ta den ut når midten fortsatt gynger litt.** Den ettersteker i pannen. Egg som er gjennomstekt i ovnen, blir gummiaktig når det avkjøles.
 - **Kokte poteter, ikke rå.** Rå potetskiver rekker ikke å bli møre på 30 minutter.
 - **180 °C, ikke høyere.** Egg som stekes for varmt, skiller seg og blir vandig.
-- **Holdbarhet:** 4 døgn kjøleskap. Fryser dårlig – konsistensen blir kornete.
-- **Beslektet:** [F3](#f3-fransk-eggerøre) og [S28](#s28-quiche-lorraine) bruker samme forsiktighet med eggetemperatur.
+- **Holdbarhet:** 4 døgn i kjøleskap. Fryser dårlig – konsistensen blir kornete.
+- **Beslektet:** [fransk eggerøre (F3)](#f3-fransk-eggerøre) og [quiche lorraine (S28)](#s28-quiche-lorraine) bruker samme forsiktighet med eggetemperatur.
 
 ---
 
