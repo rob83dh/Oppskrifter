@@ -1600,7 +1600,7 @@ Soyabasert buljong – den mest klassiske av ramen-stilene. Den lange koketiden 
 
 ### Notater
 
-- **Originalen er avkuttet** etter punktet om nudlene. Siste trinn er standard anretning.
+- **Originalen stopper** etter punktet om nudlene. Siste trinn er standard anretning.
 - **Én time trekking med ferdigkraft gir begrenset gevinst.** Poenget med lang koking er å trekke ut kollagen fra bein; med ferdigkjøpt kraft handler det mest om å redusere og konsentrere. 20–30 minutter gir nesten samme resultat.
 - Chashu er braisert svinenakke eller sideflesk, marinert i soya og mirin. Ferdig chashu finnes i asiatiske butikker.
 - Bruk **usaltet eller lettsaltet kraft** – soyasausen salter allerede godt.
@@ -1769,7 +1769,7 @@ Ferdigramen med smør og to typer ost rørt inn. Kvarter fra pakke til bolle.
 - **5 dl vann til to pakker er lite** – det er meningen. Dette skal bli tykt og sausaktig, ikke en suppe.
 - **Buldak er vesentlig sterkere enn Shin.** Osten demper det en del, men vær forberedt.
 - Rør inn osten på lav varme. Koker det, skiller osten seg og blir trådete.
-- Den eneste av oppskriftene i denne samlingen som er ren hurtigmat – men den funker.
+- Ren hurtigmat – men den fungerer.
 
 ---
 
@@ -1858,17 +1858,17 @@ Enkel pad thai med kylling og fritert tofu. «Lettere enn du tror», som hun skr
 
 1. **Kok nudlene.** Kok opp vann og la nudlene trekke til de er litt hardere enn al dente.
 2. **Stek proteinet.** Stek kyllingen, og eventuelt scampi. Sett til side.
-3. **Bland sausen** i samme gryte og sett den til side.
-4. **Sett sammen.** Tilsett olje i samme panne. Legg i tofu, nudler, saus og kylling, og bland godt.
+3. **Bland sausen.** Rør sammen tamarindpasta, sukker og en skvett vann i en liten skål.
+4. **Sett sammen.** Varm oljen i samme panne og fres den tynt skivede sjalottløken og tofuen i et par minutter. *(Sjalottløken er lagt inn her – se notat.)* Ha i nudler, saus og kylling, og bland godt.
 5. **Tilsett mørk soyasaus og fiskesaus.**
 6. **Egg til slutt.** Skyv nudlene over på den ene halvdelen av pannen. Knekk begge eggene på den tomme halvdelen, og rør dem inn i nudlene.
 7. **Anrett** med bønnespirer, peanøtter og lime.
 
 ### Notater
 
-- **Sjalottløken står i ingredienslisten, men brukes aldri i fremgangsmåten.** Skiv den tynt og fres den sammen med tofuen i punkt 4.
+- **Sjalottløken står i originalens ingrediensliste, men brukes aldri i fremgangsmåten.** Den er lagt inn i punkt 4.
 - **Scampi nevnes i punkt 2**, men står ikke blant ingrediensene. Valgfritt.
-- **«Saus» står som overskrift to ganger** i originalen, og den første blokken inneholder sjalottløk og egg, som ikke er saus. Jeg har omorganisert.
+- **«Saus» står som overskrift to ganger** i originalen, og den første blokken inneholder sjalottløk og egg, som ikke er saus. Listen er omorganisert her.
 - **Mørk soyasaus er utradisjonelt i pad thai.** Klassisk pad thai får farge og smak fra tamarind, palmesukker og fiskesaus. Mørk soya gjør retten mørkere og mer kinesisk-inspirert i uttrykk. Det er ikke feil, bare en annen retning – vil du nærmere originalen, dropp soyaen og bruk palmesukker i stedet for hvitt sukker.
 - **Nudlene skal være underkokte** når de går i pannen. De ferdigkoker seg i sausen, og kokes de helt ut på forhånd blir de grøtete.
 - **Ikke overfyll pannen.** Pad thai for to i én panne går bra; for fire bør du steke i to omganger.
