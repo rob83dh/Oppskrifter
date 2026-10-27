@@ -12398,7 +12398,7 @@ Fisk i hjemmelaget *kroeung* – den kambodsjanske karripastaen – rørt med ko
 - 6 makrutlimeblader
 - 5 thai-sjalottløk, eller 1–2 vanlige sjalottløk
 - 1 ts malt gurkemeie, eller 5 cm fersk
-- 5 ml vann *(hvis du bruker blender)*
+- 1 ts vann *(hvis du bruker blender)*
 
 **Chilipasta**
 - 6 hele tørkede chili
@@ -12406,7 +12406,7 @@ Fisk i hjemmelaget *kroeung* – den kambodsjanske karripastaen – rørt med ko
 
 **Amoken**
 - 500 g hvit fisk – torsk, lysing eller hvitting *(se notat)*
-- 300 ml kokosmelk + 4 ss
+- 3 dl kokosmelk + 4 ss
 - 2 egg
 - 4 never fersk spinat
 - 4 makrutlimeblader
@@ -12460,10 +12460,10 @@ Fisk i hjemmelaget *kroeung* – den kambodsjanske karripastaen – rørt med ko
 - 3 purre
 - 3 gulrøtter
 - 1,2 liter fiskekraft
-- 200 ml kremfløte
-- 1 bunt fersk dill — ca. 1 dl hakket *(mengde presisert)*
+- 2 dl kremfløte
+- 1 bunt fersk dill — ca. 20 g *(mengde presisert)*
 - 1 sitron
-- 20 g smør eller olivenolje til steking *(mengde lagt til.)*
+- 1 ss smør eller olivenolje til steking *(Lagt til.)*
 - Salt og pepper
 
 ### Fremgangsmåte
@@ -12482,7 +12482,7 @@ Fisk i hjemmelaget *kroeung* – den kambodsjanske karripastaen – rørt med ko
 - **Mengden smør eller olje er ikke oppgitt.** En spiseskje holder til å svette tre purre og tre gulrøtter.
 - **Fiskekraft er det ideelle**, men kilden godtar grønnsaks- eller kyllingkraft – det blir bare mindre fiskesmak. Norsk fiskefond eller fiskebuljongterning fungerer godt, og hjemmelaget kraft av fiskebein og -hoder er best.
 - **Faste poteter, gjerne små med skallet på.** Melne poteter koker i stykker og gjør suppen grøtete.
-- **Dillmengden er avgjørende, ikke pynt.** «En bunt» er rundt 1 dl hakket, og suppen skal smake tydelig av dill – det er dette som gjør den finsk snarere enn bare en fiskesuppe. Fryst dill fungerer; tørket er et klart nedgrader.
+- **Dillmengden er avgjørende, ikke pynt.** «En bunt» er rundt 20 g, og suppen skal smake tydelig av dill – det er dette som gjør den finsk snarere enn bare en fiskesuppe. Fryst dill fungerer; tørket er et klart nedgrader.
 - **Sitronen er ikke tradisjonell**, opplyser kilden – hun tilsetter den selv for friskhet.
 - **Skal ikke fryses.** Fløten tåler det dårlig. Holdbarhet 3 dager i kjøleskap, og suppen blir gjerne bedre dagen etter.
 - **Melkefri versjon:** plantebasert fløte av soya eller cashew, eller en purert hvit bønnepuré, som kilden foreslår.
@@ -12501,8 +12501,8 @@ Eggestand med crème fraîche og maisenna, bakt i quicheform med forvellet brokk
 ### Ingredienser
 
 - 6 egg
-- 125 ml crème fraîche
-- 125 ml helmelk
+- 1,2 dl crème fraîche
+- 1,2 dl helmelk
 - 40 g maisenna
 - 1 brokkoli — ca. 300–400 g *(vekt lagt til)*
 - 4 skiver røkelaks — ca. 100 g *(vekt lagt til)*
@@ -12557,7 +12557,7 @@ Tomatsuppe med potet, kapers og en klype cayenne, der hermetisk tunfisk vendes f
 - 2 ss kapers
 - 400 g poteter, i store terninger
 - 400 g hermetiske tomater
-- 600 ml grønnsakskraft
+- 6 dl grønnsakskraft
 - 3 kvister timian
 - 2 laurbærblad
 - 2 bokser tunfisk à 150 g, avrent
@@ -12607,13 +12607,13 @@ Torsk pochert i en grønnsakstung puttanesca-saus, alt i én ovnsfast panne, med
 - En neve kalamataoliven, halvert
 - 1 ts oregano
 - 1 ts røkt paprikapulver
-- 400 ml passata *(mengden står bare i fremgangsmåten)*
-- 150 ml vann
+- 4 dl passata *(mengden står bare i fremgangsmåten)*
+- 1,5 dl vann
 - ½ kyllingbuljongterning
 - 1 ss balsamico
 - 2 sitronskiver *(mangler i kildens ingrediensliste)*
 - 30 g fetaost
-- 12 g salt og olje til steking *(mengde lagt til.)*
+- Salt og 1 ss olje til steking *(Lagt til.)*
 
 **Hvitløksbrød**
 - ½ ciabatta, eller annet brød
@@ -12636,7 +12636,7 @@ Torsk pochert i en grønnsakstung puttanesca-saus, alt i én ovnsfast panne, med
 
 ### Notater
 
-- **Tre ting står bare i fremgangsmåten, ikke i ingredienslisten:** passataen er oppført uten mengde (400 ml), vannet (150 ml) mangler helt, og de to sitronskivene dukker først opp i punkt 5. De er ført inn i listen over. *(Rettelse lagt til.)*
+- **Tre ting står bare i fremgangsmåten, ikke i ingredienslisten:** passataen er oppført uten mengde (4 dl), vannet (1,5 dl) mangler helt, og de to sitronskivene dukker først opp i punkt 5. De er ført inn i listen over. *(Rettelse lagt til.)*
 - **Tørrsaltingen i punkt 1 er et godt grep kilden ikke forklarer.** Salt på fisken en halvtime før steking trekker ut overflatefuktighet, fastner kjøttet og gir jevnere krydring hele veien inn. Ikke hopp over det, og ikke skyll av saltet. *(Forklaring lagt til.)*
 - **Torsk går fra perfekt til tørr på et par minutter.** 10–12 minutter passer fileter på 150–180 g. Kjernetemperatur **50–52 °C** – fisken skal så vidt flake seg. Bruk termometer hvis filetene er tykke. *(Lagt til.)*
 - **Dette er puttanesca-inspirert, ikke puttanesca.** Den klassiske har ansjos, hvitløk, oliven, kapers og tomat – og ingenting annet. Her er det lagt til paprika, squash, purre og rødløk, og ansjosen er utelatt. Vil du nærmere originalen, smelt **3–4 ansjosfileter** i oljen før grønnsakene går i; de forsvinner helt og etterlater bare dybde. *(Lagt til.)*
@@ -12668,7 +12668,7 @@ Ovnsristede grønnsaker vendt i risoni med feta og oliven, med en sitron- og dij
 - 1 gul paprika
 - 1 squash
 - 2 hvitløksfedd
-- ½ ts tørket oregano — 2 krm
+- ½ ts tørket oregano *(Omregnet fra 2 krm.)*
 - 1 rødløk, hakket
 - 8 soltørkede tomater
 - 80 g fetaost
@@ -12681,8 +12681,8 @@ Ovnsristede grønnsaker vendt i risoni med feta og oliven, med en sitron- og dij
 **Dressing**
 - 2 ss olivenolje
 - Saften fra 1 sitron
-- ½ ss dijonsennep
-- ½ ss honning
+- 1½ ts dijonsennep
+- 1½ ts honning
 - Salt og pepper
 
 ### Fremgangsmåte
@@ -12704,7 +12704,7 @@ Ovnsristede grønnsaker vendt i risoni med feta og oliven, med en sitron- og dij
 - **Buljongterninger i kokevannet i tillegg til salt blir fort for salt**, særlig med feta, oliven og soltørkede tomater i salaten. Bruk **én** terning og salt vannet lett, eller to terninger og ikke noe salt. Smak på vannet før pastaen går i. *(Justering lagt til.)*
 - **Hvitløken i punkt 1 er ikke oppdelt.** Kilden sier bare «vitlök» blant det som skal på stekebrettet. Ved 200 °C i 25 minutter brenner finhakket hvitløk – bruk hele fedd med skallet på, eller grovhakkede biter, og la dem være med for aromaen. *(Presisering lagt til.)*
 - **Auberginen trenger lengre tid enn paprikaen.** Skal alt bli ferdig samtidig, skjær auberginen litt mindre enn resten, eller gi den 8 minutters forsprang på brettet. *(Lagt til.)*
-- **«2 krm» er svensk kryddmått, altså 2 ml** – i overkant av en tredjedels teskje. Regn ½ ts.
+- **Kilden oppgir «2 krm», svensk kryddmått på 2 ml** – litt under ½ ts. *(Omregnet.)*
 - **Salaten er bedre lunken enn kald.** Bland grønnsakene inn mens de fortsatt har varme igjen, så suger risonien opp dressingen. Rett fra kjøleskapet blir olivenoljen sløv og fetaen smakløs.
 - **Beslektet:** [one-pot risoni med reker og fetaost (nr. 144)](#144-one-pot-risoni-med-reker-og-fetaost) bruker samme pasta i varm utgave, [puttanesca-torsk (SJ14)](#sj14-puttanesca-torsk-med-hvitløksbrød) samme middelhavsspiskammer, og [ovnsbakt paprika- og tomatsalat med bocconcini (T41)](#t41-ovnsbakt-paprika--og-tomatsalat-med-bocconcini) samme ovnsristede paprika.
 
@@ -12773,7 +12773,7 @@ Fiskefarse fra bunnen i foodprosessor: fisk og salt først, så krydder, potetme
 - 2 ss potetmel
 - 4 dl melk, fløte eller fløtemelk, iskald
 - 2 ss hakkede friske urter *(kan utelates)*
-- 15 g smør eller margarin til steking *(mengde lagt til.)*
+- 1 ss smør eller margarin til steking *(Lagt til.)*
 
 ### Fremgangsmåte
 
