@@ -5514,7 +5514,7 @@ Misosuppe med dashi kokt fra bunnen av kombu og bonitoflak, i stedet for pulver.
 - **De to oppskriftene er uenige om tofutypen.** Denne krever **fast** tofu, med den begrunnelsen at mykere typer går i oppløsning. [Nr. 6](#6-misosuppe) noterer at silke- eller myk tofu er det tradisjonelle og mest delikate. Begge har rett på hver sin måte: silketofu er autentisk, men må has i helt til slutt og røres forsiktig.
 - **Misomengden er mer moderat her.** 4 ss til 1,2 liter mot 3 ss til 7 dl i [nr. 6](#6-misosuppe) – altså rundt 20 % mildere. Det støtter merknaden der om at 3 ss til 7 dl er i overkant kraftig.
 - **Visp eller sil misoen inn.** Kilden er nyttig konkret: miso lar seg vanskelig røre helt jevnt ut, så bruk visp eller press pastaen gjennom en finmasket sil.
-- **Tørket wakame sveller kraftig.** 60 ml tørket blir en anselig mengde – ikke fristes til mer.
+- **Tørket wakame sveller kraftig.** 4 ss tørket blir en anselig mengde – ikke fristes til mer.
 - **Næringstabellen er åpenbart feil:** 170 kcal, men 0,2 g protein og 18 mg natrium – for en suppe med 450 g tofu og 4 ss miso. Se bort fra tallene.
 - **Oppbevaring:** kilden anbefaler å holde kraft og tilbehør hver for seg, så tang og tofu ikke blir vasstrukne. Blandes de, går det også, men konsistensen taper seg.
 - **Kombu, katsuobushi, wakame og hondashi** fås i asiatiske butikker. Miso finnes også i vanlige dagligvarer.
@@ -5544,9 +5544,9 @@ Grønn karri med hjemmelaget pasta, kjørt i foodprosessor og deretter støtt i 
 - 1 ts rekepasta
 
 **Karrien**
-- 100 ml kokoskrem
+- 1 dl kokoskrem
 - 4 kyllinglårfileter uten skinn og bein, i passe store biter
-- 150 ml kyllingkraft
+- 1,5 dl kyllingkraft
 - 1 ts fiskesaus
 - 1 ts palmesukker
 - 3 makrutlimeblader, finhakket
@@ -5566,7 +5566,7 @@ Grønn karri med hjemmelaget pasta, kjørt i foodprosessor og deretter støtt i 
 ### Notater
 
 - **Tjue thaichili er ekstremt sterkt.** Kilden advarer to ganger og kaller retten «not for the faint-hearted». Vil du dempe den: fjern frø og hinner, som hjelper mye men ikke nok alene, eller bytt en del av chilien mot mild grønn chili eller grønn paprika – da beholder du fargen uten varmen. Kilden foreslår også kokosyoghurt eller agurkraita ved siden av, og en skvett lime til slutt.
-- **Dette er en tørrere og mye mer konsentrert karri enn** [nr. 76](#76-green-curry-med-kylling). Der brukes 4,2 dl kokosmelk og 2,4 dl kraft; her bare 100 ml kokoskrem og 150 ml kraft til samme antall porsjoner. Resultatet er en tykk saus som legger seg rundt kyllingen, ikke en karri du kan skje opp som suppe. Vil du ha mer saus, øk begge deler proporsjonalt.
+- **Dette er en tørrere og mye mer konsentrert karri enn** [nr. 76](#76-green-curry-med-kylling). Der brukes 4 dl kokosmelk og 2,5 dl kraft; her bare 1 dl kokoskrem og 1,5 dl kraft til samme antall porsjoner. Resultatet er en tykk saus som legger seg rundt kyllingen, ikke en karri du kan skje opp som suppe. Vil du ha mer saus, øk begge deler proporsjonalt.
 - **Krakkeleringen av kokoskremen er samme grep som i** [nr. 76](#76-green-curry-med-kylling), og kilden forklarer hvorfor det gjøres: pastaen skal frites i kokosoljen som skiller seg ut, ikke bare røres ut i væske. Det krever kokoskrem med høyt fettinnhold og uten stabilisatorer – mange merker er nettopp tilsatt stabilisator for å hindre at de skiller seg.
 - **Foodprosessor først, morter etterpå.** Kilden er ærlig om at mortelen er tung jobb, og bruker maskinen til grovarbeidet. Det er et fornuftig kompromiss mellom [nr. 78](#78-panang-curry-med-svinefilet), som støter alt for hånd, og de ferdigkjøpte pastaene.
 - **Korianderstilker, ikke røtter** – som i [SU3](#su3-thai-karri-kyllingnudelsuppe) fra samme forfatter. 40 g stilker er mye, omtrent alt fra to potter, men de er lett tilgjengelige i norske butikker, i motsetning til røttene.
@@ -5588,9 +5588,9 @@ Rød chimichurri kjørt av grillet paprika, persille og røkt paprikapulver, bru
 ### Ingredienser
 
 **Rød chimichurri**
-- 4,8 dl grillet paprika fra glass, avrent
-- 3,5 dl persilleblader
-- 1,2 dl korianderblader
+- ca. 350 g grillet paprika fra glass, avrent
+- ca. 35 g persilleblader
+- ca. 10 g korianderblader
 - 8 hvitløksfedd
 - 3½ ts røkt paprikapulver
 - 1 ts chiliflak
@@ -5629,7 +5629,7 @@ Rød chimichurri kjørt av grillet paprika, persille og røkt paprikapulver, bru
 
 ### Notater
 
-- **Risen står ikke i ingredienslisten.** Den dukker først opp i siste steg. Regn ca. 2 dl tørr ris til fire porsjoner, og sett den over før kyllingen går i ovnen.
+- **Risen står ikke i ingredienslisten.** Den dukker først opp i siste steg. Regn ca. 300 g tørr ris til fire porsjoner, og sett den over før kyllingen går i ovnen.
 - **Risten over grønnsakene er oppskriftens beste grep, og det forklares ikke.** Kyllingsjyen drypper ned på grønnsakene mens alt steker, så de får smak av marinaden uten at kyllingen ligger og koker i sin egen væske. Til gjengjeld skjermer risten grønnsakene fra den direkte varmen – de blir mer dampet enn brunet. Vil du ha ordentlig stekeskorpe på grønnsakene, gi dem 10 minutters forsprang alene før du setter risten på.
 - **Skjær gulrøttene tynt.** Skivet gulrot trenger lengre tid enn squash og cherrytomater, og under en rist kommer den knapt i mål på 25 minutter. 3–4 mm er passe.
 - **Kyllinglår er ferdige ved 74 °C**, som kilden ikke oppgir. Lår tåler noen grader over uten å bli tørt, i motsetning til bryst.
@@ -5656,10 +5656,10 @@ Kyllingbiter i en tykk røre av hvetemel og potetmel, friturstekt og vendt i en 
 - ½ ts salt
 - ½ ts sort pepper
 - 1 ts hvitløkspulver
-- 1,2 dl hvetemel
-- 1,2 dl potetmel
+- 70 g hvetemel
+- 95 g potetmel
 - 1 egg
-- 60 ml kaldt vann *(juster litt for en tykk, klebrig røre)*
+- 4 ss kaldt vann *(juster litt for en tykk, klebrig røre)*
 - Nøytral olje til fritering *(mengde ikke oppgitt)*
 
 **Sausen**
@@ -5725,7 +5725,7 @@ Storfekjøtt i terninger braisert i tre timer med chorizo, en lang liste tørre 
 - 4 ts paprikapulver
 - 2 ts røkt paprikapulver
 - 3 ts spisskummen
-- 20 g ekstra virgin olivenolje til bruning *(mengde lagt til.)*
+- 2 ss ekstra virgin olivenolje til bruning *(Lagt til.)*
 - Salt
 - 1 liter oksekraft
 
@@ -5815,7 +5815,7 @@ Høyrygg brunet og braisert i tre og en halv time under lokk, med oksekraft, tom
 - Salt og pepper
 - 1 stor løk, hakket
 - 3 hvitløksfedd, finhakket
-- 9,5 dl oksekraft
+- 1 liter oksekraft
 - 2 ss tomatpuré
 - 1 ss Worcestershiresaus
 - 1 ts tørket timian
@@ -5838,7 +5838,7 @@ Høyrygg brunet og braisert i tre og en halv time under lokk, med oksekraft, tom
 - **Grønnsakene tåler ikke tre og en halv time.** Kilden legger gulrot og poteter rundt steken før alt går i ovnen, og etter så lang tid er de kokt fullstendig i stykker. Legg dem heller i de siste **60–90 minuttene** – da er de møre og hele, og har fortsatt fått smak av kraften. Dette er den ene endringen som gjør mest for retten. *(Endret; kildens rekkefølge står beskrevet her.)*
 - **Høyrygg er riktig stykke, og det er verdt å merke seg.** Bindevevet brytes ned til gelatin i løpet av de lange timene, og kjøttet blir saftig og trådaktig i stedet for tørt. Magre stykker som flatbiff eller mørbrad gjør det motsatte – se samme problemstilling i [chili con carne (nr. 103)](#103-chili-con-carne).
 - **Kraften jevnes ikke.** Etter tre og en halv time har du mye tynn, smakfull væske igjen. Vil du ha saus: sil den, kok den inn til det halve, eller rør inn en maisennablanding. Kilden serverer den som den er. *(Lagt til.)*
-- **9,5 dl kraft er rikelig.** Væsken skal helst gå omtrent halvveis opp på steken, ikke dekke den – braisering er ikke koking. Er gryta trang, bruk mindre; er den vid, er mengden riktig.
+- **1 liter kraft er rikelig.** Væsken skal helst gå omtrent halvveis opp på steken, ikke dekke den – braisering er ikke koking. Er gryta trang, bruk mindre; er den vid, er mengden riktig.
 - **La steken hvile 15 minutter** før du deler den opp, så holder den bedre på saften. *(Lagt til.)*
 - **Lokket brukes her, i motsetning til i** [nr. 104](#104-helstekt-kylling-med-urtesmør). Det er hele forskjellen mellom braisering og steking: lokket holder dampen inne, så kjøttet koker mørt i sin egen fuktighet i stedet for å tørke ut.
 - **Yukon Gold er en allroundpotet.** Norske småpoteter eller fastkokende sorter fungerer best her – melne poteter faller fra hverandre i kraften, selv med kortere koketid.
@@ -5859,16 +5859,16 @@ Makaroni i en tykk ostesaus av cheddar og parmesan, gratinert med panko på topp
 - 340 g makaroni
 - 4 ss smør
 - 4 ss hvetemel
-- 2,4 dl melk
-- 2,4 dl kremfløte
-- 4,8 dl revet cheddar (ca. 220 g)
-- 2,4 dl revet parmesan (ca. 100 g)
+- 2,5 dl melk
+- 2,5 dl kremfløte
+- 220 g revet cheddar
+- 100 g revet parmesan
 - 1 ts paprikapulver
 - 1 ts hvitløkspulver
 - 1 ts løkpulver
 - 1 ts salt
 - ½ ts sort pepper
-- 1,2 dl panko
+- 30 g panko
 
 ### Fremgangsmåte
 
@@ -5886,7 +5886,7 @@ Makaroni i en tykk ostesaus av cheddar og parmesan, gratinert med panko på topp
 - **Osten bør ikke koke.** Kilden har cheddaren og parmesanen i mens gryta står på middels varme. Cheddar skiller seg og blir kornete når den koker – skru ned til lav varme eller ta gryta helt av før osten går i, og rør til den er smeltet av restvarmen.
 - **Riv osten selv.** Ferdigrevet ost er tilsatt antiklumpemiddel som gjør sausen grynete i stedet for glatt. Samme poeng som i [nr. 97](#97-spicy-vodka-pasta).
 - **Pankoen trenger fett.** Tørr panko på 200 °C i tjue minutter blir bleik og melen i stedet for sprø og gyllen. Vend den med 1–2 ss smeltet smør før du strør den over – samme problem som i [nr. 96](#96-sprø-kyllingstrimler-i-airfryer). *(Lagt til.)*
-- **Sausen er svært tykk og svært ostete.** 320 g ost til 4,8 dl væske og 340 g pasta gir en kompakt, rik rett – nærmere en ostegrateng enn en kremet mac and cheese. Vil du ha den løsere, øk melken til 3,5 dl.
+- **Sausen er svært tykk og svært ostete.** 320 g ost til 5 dl væske og 340 g pasta gir en kompakt, rik rett – nærmere en ostegrateng enn en kremet mac and cheese. Vil du ha den løsere, øk melken til 3,5 dl.
 - **Vær forsiktig med saltet.** 100 g parmesan er i seg selv salt, og oppskriften har 1 ts salt i tillegg. Smak etter at osten er smeltet, før du eventuelt salter mer.
 - **Gryta går rett i ovnen**, så den må være ovnsfast. Lokket brukes ikke – retten skal gratineres åpen.
 - **200 °C er omregnet fra 400 °F.**
