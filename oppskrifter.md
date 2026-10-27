@@ -2090,8 +2090,8 @@ Kyllinglår surret i en kremet kokossaus med gochujang, sitrongress og limeblade
 
 - **Bruk kokosmelk med fullt fettinnhold på boks**, ikke kokosdrikk fra kartong. Lettvarianter gir tynn og vassen saus.
 - **Ikke la sausen fosskoke.** Kokosmelk kan skille seg. Små bobler, ikke kraftig koking.
-- **Skaperen anbefaler en skvis lime helt til slutt**, selv om lime ikke står i ingredienslisten. Kokossausen er fet og trenger syren for å ikke smake tungt.
-- **Ginger nevnes i tipsene**, men står heller ikke i ingredienslisten. 1 ts revet ingefær sammen med hvitløken passer godt.
+- **Skaperen anbefaler en skvis lime helt til slutt**, selv om lime ikke står i ingredienslisten. Kokossausen er fet og trenger syren for ikke å smake tungt.
+- **Ingefær nevnes i tipsene**, men står heller ikke i ingredienslisten. 1 ts revet ingefær sammen med hvitløken passer godt.
 - **Punkt 2 sier «skinnsiden ned»**, men ingredienslisten oppgir kyllinglår uten bein, som ofte også er uten skinn. Bruk lår med skinn hvis du vil ha stekeskorpe.
 - **Kjernetemperatur 74 °C.**
 - **Steking før småkoking er ikke valgfritt.** Stekeskorpen og sjyen i bunnen er det sausen bygger på.
@@ -2234,11 +2234,11 @@ Kyllingversjonen av kantonesisk grillsvin. Søtsalt marinade med hoisin, honning
 - **Marinaden gjenbrukes som saus, og det er trygt her** — den helles i pannen i punkt 4 og koker i 8–10 minutter. Ikke pensle med rå marinade rett før servering.
 - **5 ss honning brenner lett.** Det er derfor punkt 4 sier middels lav varme og lokk. Står varmen for høyt, får du svidd sukker før kyllingen er ferdig.
 - **Ingredienslisten sier kylling uten skinn**, men punkt 3 snakker om «skinnsiden ned». Rester fra en annen versjon av oppskriften. Vil du ha stekeskorpe, bruk lår med skinn.
-- **Ovnstipsene i artikkelen hører ikke til denne metoden.** Rist, 200 °C og lufffrityr i 10–12 minutter per side er beskrevet i tipsdelen, men selve oppskriften er en pannerett. Velg én metode og hold deg til den.
+- **Ovnstipsene i artikkelen hører ikke til denne metoden.** Rist, 200 °C og airfryer i 10–12 minutter per side er beskrevet i tipsdelen, men selve oppskriften er en pannerett. Velg én metode og hold deg til den.
 - **Kjernetemperatur 74 °C.**
 - **Rød farge er ren pynt.** Tradisjonelt kom fargen fra rød gjæret ris og fermentert bønneost. Sløyfer du den, blir retten brun i stedet for rød, og smaker likt.
 - **Påstanden om «under 15 minutter»** til slutt i artikkelen er standardtekst og stemmer ikke — kortet oppgir selv 25 minutter pluss marinering.
-- **Holdbarhet:** 4 dager i kjøleskap. Kan fryses rå i marinaden eller ferdigstekt i inntil 3 måneder. Varm i ovn eller lufffrityr for å få glansen tilbake.
+- **Holdbarhet:** 4 dager i kjøleskap. Kan fryses rå i marinaden eller ferdigstekt i inntil 3 måneder. Varm i ovn eller airfryer for å få glansen tilbake.
 - **Innkjøp:** hoisin og femkrydder finnes i asiatiske butikker. Femkrydder er kraftig — ½ ts på 450 g kylling er riktig, ikke rund oppover.
 
 ---
@@ -2382,7 +2382,7 @@ Rekedumplings i en kokosbasert rød karrisuppe kokt på fiskebuljong, toppet med
 5. **Smak til** med palmesukker og fiskesaus.
 6. **Pak choi i mot slutten**, bare noen minutter, så den beholder spensten.
 7. **Dumplingene.** Kok eller damp dem etter anvisningen på pakken, eller la dem trekke i suppen de siste minuttene.
-8. **Bløtkok eggene**, 6½ minutt fra kokende vann, og avkjøl dem i kaldt vann før du skreller dem.
+8. **Bløtkok eggene**, 6½ minutter fra kokende vann, og avkjøl dem i kaldt vann før du skreller dem.
 9. **Anrett.** Øs opp suppe og dumplings, legg på halve egg og pak choi, og topp med chiliolje, sesamfrø og vårløk.
 
 ### Notater
@@ -2446,7 +2446,7 @@ Lettere og mer aromatisk enn de øvrige karri-dumplingsuppene i samlingen: mindr
 - **«3 runder soyasaus» er ikke et mål.** Det betyr en runde langs kanten av gryta, som i praksis blir 1–2 ss. Ført opp slik her. Smak deg fram — fiskesausen salter også.
 - **Kokosmelkmengden henger ikke sammen.** Kilden skriver «3 dl / 1 boks», men en standard norsk boks kokosmelk er 4 dl, ikke 3. Bruker du hele boksen, får du 4 dl og en fyldigere, mildere suppe. Begge deler fungerer — bare vit at de to angivelsene ikke er samme mengde.
 - **Gulroten er kildens eget usikkerhetsmoment.** Han skriver at den ikke er vanlig i retten, at den fungerte fint, og at han vil prøve fennikel neste gang. Fennikel ville passet godt til lime og urter.
-- **Porsjonsantall er ikke oppgitt.** 20 dumplings og 6 dl væske gir 2–3 porsjoner som hovedrett. Anslaget er mitt.
+- **Porsjonsantall er ikke oppgitt.** 20 dumplings og 6 dl væske gir 2–3 porsjoner som hovedrett. Anslaget er lagt til.
 - **Limen skal på til slutt, aldri i kokingen.** Syren forsvinner ved varme, og det er den som løfter kokosmelken.
 - **Thaibasilikum og koriander tåler ikke koking.** De legges over den ferdige suppen.
 - **Rød karripasta varierer kraftig i styrke.** 2–3 ts er lite sammenlignet med de fleste oppskrifter, så bruker du et mildt vestlig merke, kan du trenge mer. Thaimerker som Maesri og Mae Ploy er sterkere.
