@@ -18163,7 +18163,7 @@ Rørosrømme kokt inn og montert med hundre gram kaldt smør. Sennepen kommer i 
 
 ### Ingredienser
 
-- 2½ dl Rørosrømme
+- 2,5 dl Rørosrømme
 - 100 g meierismør
 - 2–3 ss dijonsennep
 - Saft fra ½ sitron
@@ -18258,7 +18258,7 @@ Tre urter og sitrusskall kjørt glatt med olivenolje. Ingen hvitløk.
 - 2–3 ss hakket persille
 - 2–3 ss hakket mynte
 - ½ ts revet sitronskall, eller skall fra appelsin eller kumquat
-- ½ dl olivenolje
+- 3 ss + 1 ts olivenolje *(Omregnet fra ½ dl.)*
 - Salt
 
 ### Fremgangsmåte
