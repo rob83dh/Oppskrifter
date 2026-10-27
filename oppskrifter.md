@@ -3761,7 +3761,7 @@ Risotto som får farge og smak fra en puré av blansjert asparges og spinat, rø
 - 2 sjalottløk, finhakket
 - 2 hvitløksfedd, finhakket
 - 20 g smør
-- 125 ml hvitvin *(eller en skvett eddik som alkoholfritt alternativ)*
+- 1,2 dl hvitvin *(eller en skvett eddik som alkoholfritt alternativ)*
 - 1,2 liter kylling- eller grønnsakskraft
 - ca. 200 g tynn asparges, trevlete ender fjernet, stilkene delt i to
 - 100 g babyspinat
@@ -3810,7 +3810,7 @@ En bevisst utradisjonell cacio e pepe. Olivenolje og smør stabiliserer emulsjon
 ### Ingredienser
 
 - 225 g spaghetti
-- 60 ml extra virgin olivenolje, delt
+- 4 ss extra virgin olivenolje, delt
 - 1 ts grovkvernet sort pepper, og mer til servering
 - 30 g usaltet smør
 - 55 g pecorino romano, svært fint revet, og mer til servering
@@ -3851,7 +3851,7 @@ Romersk klassiker uten fløte. Sausen bindes over vannbad — bollen settes over
 - 3 eggeplommer
 - 70 g pecorino romano, fint revet
 - 45 g parmigiano reggiano, fint revet
-- ½ ss hele sorte pepperkorn
+- 1½ ts hele sorte pepperkorn
 - Salt til kokevannet
 
 ### Fremgangsmåte
@@ -3981,10 +3981,10 @@ Hjemmelaget lasagne av tre komponenter: langtidskokt ragù av svin og okse, fers
 - 1 stor gulrot
 - 1 gul løk
 - 4 hvitløksfedd, finrevet
-- 60 ml olivenolje
-- 250 ml rødvin
-- 700 g passata *(600 ml i ragùen, resten på toppen)*
-- 100 ml melk
+- 4 ss olivenolje
+- 2,5 dl rødvin
+- 700 g passata *(600 g i ragùen, resten på toppen)*
+- 1 dl melk
 - Parmesanskorpe
 - Havsalt
 
@@ -3998,7 +3998,7 @@ Hjemmelaget lasagne av tre komponenter: langtidskokt ragù av svin og okse, fers
 **Bechamel**
 - 50 g smør
 - 50 g hvetemel
-- 600 ml melk
+- 6 dl melk
 - Muskatnøtt *(nevnes i fremgangsmåten, mangler i kildens ingrediensliste)*
 - Havsalt og hvit pepper
 
@@ -4015,8 +4015,8 @@ Hjemmelaget lasagne av tre komponenter: langtidskokt ragù av svin og okse, fers
 2. **Brun kjøttdeigen i omganger.** Varm 2 ss olje i en tykkbunnet gryte på sterk varme. Smuldre i en del av deigen og skru ned til middels. **La den ligge urørt i 8–10 minutter**, del den så opp med en tresleiv og brun den ferdig. Ta den ut og gjenta med resten.
 3. **Grønnsakene i.** La ca. 1 ss fett bli igjen. Ha i gulroten med litt salt og stek 2 minutter. Løken i, 2 minutter til. Så selleri og hvitløk i ett minutt.
 4. **Vinen i.** Legg kjøttet tilbake og hell over rødvinen. Kok til den er redusert med **80 prosent**.
-5. **Surr lenge.** Tilsett 600 ml av passataen og parmesanskorpen. Kok opp, skru ned, legg på lokk og la det gå i **2–6 timer**. Rør av og til, og spe med vann om det blir for tykt.
-6. **Melken til slutt.** Rør inn 100 ml melk **30 minutter før ragùen er ferdig**. Fjern skorpen og la ragùen kjølne til romtemperatur.
+5. **Surr lenge.** Tilsett 600 g av passataen og parmesanskorpen. Kok opp, skru ned, legg på lokk og la det gå i **2–6 timer**. Rør av og til, og spe med vann om det blir for tykt.
+6. **Melken til slutt.** Rør inn 1 dl melk **30 minutter før ragùen er ferdig**. Fjern skorpen og la ragùen kjølne til romtemperatur.
 
 **Spinatpasta**
 
@@ -4036,7 +4036,7 @@ Hjemmelaget lasagne av tre komponenter: langtidskokt ragù av svin og okse, fers
 **Bechamel**
 
 16. **Lag en lys jevning.** Smelt smøret i en kjele på middels sterk varme, rør inn melet og skru ned til middels. Salt, og stek i **2 minutter** til melsmaken er borte og jevningen er lys gyllen — ikke mørkere.
-17. **Melken gradvis.** Tilsett 100–150 ml om gangen under stadig visping, helt ut i hjørnene av kjelen. La sausen småkoke i **10 minutter** til den tykner. Smak til med salt og revet muskat.
+17. **Melken gradvis.** Tilsett 1–1,5 dl om gangen under stadig visping, helt ut i hjørnene av kjelen. La sausen småkoke i **10 minutter** til den tykner. Smak til med salt og revet muskat.
 
 **Legging og steking**
 
@@ -4081,9 +4081,9 @@ Ragù alla bolognese med pancetta og kjøttdeig, kokt i minst to timer, servert 
 - 1 gul løk, finhakket
 - 2 stilker selleri, i terninger
 - 3 ss olivenolje
-- 120 ml rødvin
+- 1,2 dl rødvin
 - 600 g passata
-- 220 ml melk
+- 2,2 dl melk
 - 200 g parmesan, revet
 - Fersk basilikum
 - Salt
@@ -4206,7 +4206,7 @@ Hverdagsmiddag der tilbehøret er poenget: en lavFODMAP-tzatziki uten hvitløk, 
 - 2 biter laksefilet — regn ca. 150 g per person *(mengde lagt til)*
 - Ønsket mengde ris, gjerne fullkornsris, villris eller råris — ca. 150 g tørr ris til to *(mengde lagt til)*
 - 2 tomater, eller annen ønsket salat
-- 12 g smør eller olje til steking *(mengde lagt til – står bare i fremgangsmåten)*
+- 1 ss smør eller olje til steking *(Lagt til – står bare i fremgangsmåten.)*
 - Salt og nykvernet pepper til laksen *(står bare i fremgangsmåten)*
 
 **Tzatziki**
@@ -4215,7 +4215,7 @@ Hverdagsmiddag der tilbehøret er poenget: en lavFODMAP-tzatziki uten hvitløk, 
 - En skvis sitron
 - En klype salt
 - Nykvernet pepper
-- En liten håndfull frisk dill, finhakket — eventuelt 1 liten ts tørket dill
+- En liten håndfull frisk dill, finhakket — eventuelt 1 ts tørket dill
 
 ### Fremgangsmåte
 
