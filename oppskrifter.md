@@ -12886,17 +12886,17 @@ Kremet suppe med soltørkede tomater, kylling og gnocchi, rundet av med kremost,
 - Hvitløks- og urtekrydderblanding *(mengde ikke oppgitt – se notat)*
 - 1 ts herbes de Provence
 - ½ ts chiliflak
-- 1,2 dl soltørkede tomater, hakket
+- ca. 70 g soltørkede tomater, hakket
 - 3 ss tomatpuré
 - 6–7 hvitløksfedd, finhakket
 - 1 toppet ss kyllingbuljongpulver
-- 9,5 dl vann
-- 2,4 dl kremfløte
+- 1 liter vann
+- 2,5 dl kremfløte
 - 450 g gnocchi
-- ca. 2,4 dl kokt kylling *(mengden er dekket til i skjermbildet – se notat)*
+- ca. 280 g kokt kylling *(mengden er dekket til i skjermbildet – se notat)*
 - 115 g kremost, romtemperert
-- 1,2 dl nyrevet parmesan
-- 4,7 dl fersk babyspinat, hakket
+- 40 g nyrevet parmesan
+- ca. 60 g fersk babyspinat, hakket
 - 2 ss fersk basilikum, hakket
 
 ### Fremgangsmåte
@@ -12916,10 +12916,10 @@ Kremet suppe med soltørkede tomater, kylling og gnocchi, rundet av med kremost,
 - **Suppen er allerede godt saltet før du salter.** Buljongpulver, parmesan, kremost, soltørkede tomater og den saltede krydderblandingen bidrar alle. Smak helt til slutt, i punkt 7, og ikke før.
 - **Gnocchien fortsetter å suge væske.** 450 g gnocchi i knappe 1,2 liter væske gir en tykk suppe allerede ved servering, og rester blir til grøt i kjøleskapet. Skal du ha rester, kok gnocchien separat og ha den i porsjonsvis. *(Lagt til.)*
 - **Kremosten må være romtemperert**, og varmen må være av. Kald kremost i varm suppe klumper seg, og fortsatt koking får fløte og ost til å skille seg. Kilden er tydelig på begge deler.
-- **Norsk buljongpulver er saltere** enn amerikansk «chicken bouillon» i pastaform. Én toppet spiseskje pulver til 9,5 dl vann er mye – regn heller to terninger, eller start med halvparten og smak til.
+- **Norsk buljongpulver er saltere** enn amerikansk «chicken bouillon» i pastaform. Én toppet spiseskje pulver til 1 liter vann er mye – regn heller to terninger, eller start med halvparten og smak til.
 - **Oljen fra tomatglasset er ikke en tilfeldighet.** Den er full av smak fra tomatene og urtene de har ligget i, og gjør mer for suppen enn ren olivenolje ville gjort. Bruk soltørkede tomater i olje, ikke tørre.
 - **Ingen tid er oppgitt for suppen totalt.** Med hakking av grønnsaker regner du rundt 35 minutter fra start til bords.
-- **Spinaten faller kraftig sammen.** 4,7 dl fersk baby spinat blir til nesten ingenting – ikke bli overrasket, og ikke reduser mengden.
+- **Spinaten faller kraftig sammen.** 60 g fersk babyspinat blir til nesten ingenting – ikke bli overrasket, og ikke reduser mengden.
 - **Om navnet.** «Marry me chicken» er en amerikansk nettrett med kylling i kremet saus med soltørkede tomater og parmesan. Navnet er beholdt, siden retten er kjent under det.
 
 ---
@@ -12938,7 +12938,7 @@ Frosne dumplings kokt rett i en rask rød karrikraft av kokosmelk, fiskesaus og 
 - ½ middels løk, i terninger
 - 2 hvitløksfedd, finhakket
 - 1,2–1,8 dl kylling- eller grønnsakskraft
-- 80 ml kokosmelk
+- 80 g kokosmelk
 - 1 ts fiskesaus
 - 1 ts sukker
 - 2 makrutlimeblader, eller saften av 1 lime *(se notat)*
@@ -12956,10 +12956,10 @@ Frosne dumplings kokt rett i en rask rød karrikraft av kokosmelk, fiskesaus og 
 
 - **«Soup dumplings» er ikke det du vil ha her.** Uttrykket betyr *xiao long bao* – dumplings fylt med kraft i geléform, som er lagd for å dampes og spises hele. Legger du dem i kokende væske i tolv minutter, sprekker de og gir fra seg sin egen suppe. Bruk vanlige frosne dumplings, gyoza eller potstickers; det er nesten sikkert det kilden faktisk mener.
 - **Tolv minutter er lenge for frosne dumplings.** De fleste er ferdige på **6–8 minutter** i småkokende væske, og koker de lenger, går skinnet i oppløsning. Sjekk etter 6 minutter og styr etter fyllet, ikke etter klokka.
-- **Dette er mer saus enn suppe.** 1,2–1,8 dl kraft og 80 ml kokosmelk er i underkant av 2,5 dl væske til 8–10 dumplings, og de suger til seg en del underveis. Til sammenligning bruker [nr. 39](#39-rød-karri-dumplingsuppe-med-reker) og [nr. 45](#45-rød-karri-dumplingsuppe-med-kylling--brendan-pang-sin-versjon) langt mer. Vil du ha en reell suppe, doble kraften.
+- **Dette er mer saus enn suppe.** 1,2–1,8 dl kraft og 80 g kokosmelk er i underkant av 2,5 dl væske til 8–10 dumplings, og de suger til seg en del underveis. Til sammenligning bruker [nr. 39](#39-rød-karri-dumplingsuppe-med-reker) og [nr. 45](#45-rød-karri-dumplingsuppe-med-kylling--brendan-pang-sin-versjon) langt mer. Vil du ha en reell suppe, doble kraften.
 - **Makrutlimeblader og limesaft er ikke det samme**, selv om kilden setter dem som alternativer. Bladene gir sitrusaroma uten syre; saften gir syre uten aroma. Har du begge, bruk begge – blader mens det koker, et par dråper saft ved servering. Frosne blader fra asiatisk butikk er nesten like gode som ferske, jf. [Nr. 76](#76-green-curry-med-kylling).
 - **Karripastaens styrke varierer voldsomt mellom merker.** Én spiseskje av Mae Ploy er noe helt annet enn én spiseskje av en mild vestlig variant. Smak på kraften i punkt 2 før du går videre.
-- **80 ml kokosmelk av en 400 ml boks** gir mye til overs. Resten holder seg noen dager i kjøleskap i tett boks, eller kan fryses i isbitform.
+- **80 g kokosmelk av en boks på 4 dl** gir mye til overs. Resten holder seg noen dager i kjøleskap i tett boks, eller kan fryses i isbitform.
 - **Ingen salt i oppskriften**, og det trengs ikke: fiskesausen og karripastaen er begge salte. Smak til slutt.
 - **Samlingens femte rød karri-dumplingsuppe.** De andre er [med reker (nr. 39)](#39-rød-karri-dumplingsuppe-med-reker), [RealChefPauls versjon (nr. 40)](#40-rød-karri-dumplingsuppe-med-kylling--realchefpaul-sin-versjon), [saltnpiipas versjon (nr. 41)](#41-rød-karri-dumplingsuppe-med-kylling--saltnpiipa-sin-versjon) og [Brendan Pangs original (nr. 45)](#45-rød-karri-dumplingsuppe-med-kylling--brendan-pang-sin-versjon), alle med kylling. Denne er den minste og raskeste – en enkeltporsjon snarere enn en gryte.
 
@@ -12991,12 +12991,12 @@ Nudelsuppe bygget på hjemmelaget rød karripasta, med kyllinglår kokt i krafte
 **Suppen**
 - 640 g kyllinglårfilet uten skinn og bein
 - Salt og pepper
-- 500 ml kyllingkraft
+- 5 dl kyllingkraft
 - 2 ts fiskesaus
 - 1 ss soyasaus
 - 4 makrutlimeblader, finhakket
 - 1 ts sukker
-- 250 ml kokoskrem
+- 2,5 dl kokoskrem
 - Revet skall av 1 lime
 - En liten neve thaibasilikum, revet i biter
 - En skvett limesaft *(valgfritt)*
@@ -13004,7 +13004,7 @@ Nudelsuppe bygget på hjemmelaget rød karripasta, med kyllinglår kokt i krafte
 
 ### Fremgangsmåte
 
-1. **Bløtlegg chilien** i 250 ml kokende vann i **15 minutter**. Renn godt av.
+1. **Bløtlegg chilien** i 2,5 dl kokende vann i **15 minutter**. Renn godt av.
 2. **Kjør pastaen.** Ha alle ingrediensene til karripastaen i en blender eller kraftig foodprosessor og kjør til den er glatt, eller nesten glatt. Sett til side.
 3. **Marinér kyllingen.** Legg lårfiletene i en bolle, salt og pepre dem, og vend inn **1 ss av karripastaen**. La dem stå i minst **15 minutter**, eller inntil 4 timer.
 4. **Brun kyllingen.** Varm litt olje i en tykkbunnet gryte på middels sterk varme og stek filetene **2–3 minutter på hver side**. Ta dem opp, men la olje og sjy bli igjen i gryta.
@@ -13038,7 +13038,7 @@ Løk og squash svettes ned, karripulveret ristes utenfor varmen, og alt kokes op
 
 ### Ingredienser
 
-- Olivenolje til steking *(mengde ikke oppgitt)*
+- 1 ss olivenolje til steking *(Lagt til.)*
 - 1 løk
 - 2 hvitløksfedd
 - 1 squash
