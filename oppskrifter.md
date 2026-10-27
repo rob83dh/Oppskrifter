@@ -23823,7 +23823,7 @@ Hot cross buns møter shokupan: den britiske påskebollen bakt som japansk melke
 - 360 g brødmel
 - 11 g honning
 - 4 g tørrgjær
-- 180 ml melk, lunken — ca. 35 °C *(temperatur lagt til)*
+- 1,8 dl melk, lunken — ca. 35 °C *(temperatur lagt til)*
 - 1 egg, sammenvispet
 - 1 ts malt kanel
 - ¼ ts malt allehånde
@@ -23836,9 +23836,9 @@ Hot cross buns møter shokupan: den britiske påskebollen bakt som japansk melke
 
 **Kors og glasur**
 - 25 g hvetemel
-- 30 ml vann
+- 2 ss vann
 - 1 ss appelsinmarmelade
-- 3 ts kokende vann
+- 1 ss kokende vann
 
 ### Fremgangsmåte
 
@@ -23895,7 +23895,7 @@ Hot cross buns møter shokupan: den britiske påskebollen bakt som japansk melke
 - **Yudanen må være helt kald.** Kilden er tydelig på hvorfor: en varm yudane løfter deigtemperaturen ut av gjærens beste område på 25–35 °C, og du risikerer ujevn og for rask heving. Lag den først, så tar du resten mens den kjøler seg.
 - **Smøret skal inn etter de første 8 minuttene**, ikke før. Fett hemmer glutenutviklingen hvis det er til stede fra start. Har du i alt på én gang, blir deigen fettete og slapp og henter seg ikke inn igjen. Den er ferdig når den slipper bollekanten rent og kjennes glatt, ikke klissete.
 - **Frukten legges inn ved forming, ikke i eltingen.** Rosiner og korinter river opp glutennettverket hvis de eltes gjennom deigen. Ved å fordele dem på de utkjevlede platene får du dem jevnt fordelt uten å ødelegge strukturen.
-- **Appelsinsaften varierer.** Én appelsin gir alt fra 60 til 100 ml. Frukten skal trekke, ikke svømme – har du en stor og saftig appelsin, holder det med det meste av saften.
+- **Appelsinsaften varierer.** Én appelsin gir alt fra 4 ss til 1 dl. Frukten skal trekke, ikke svømme – har du en stor og saftig appelsin, holder det med det meste av saften.
 - **Tørrfrukten kan byttes fritt**, sier kilden, så lenge samlet vekt holdes på **175 g**. Rosiner, tranebær, hakkede aprikoser og sukat fungerer alle.
 - **Uten kjøkkenmaskin** går det, men regn 15–20 minutters elting for hånd, og smørtrinnet er det tunge. Deigen skal kunne trekkes til en tynn hinne uten å revne før hevingen.
 - **Avkjølingen er ikke valgfri.** Brødet skjærer seg pent først når det er helt kaldt – minst én time på rist. Skjærer du varmt, klemmer du krummen sammen.
@@ -23917,7 +23917,7 @@ Brunet smør, to typer mørk sjokolade og gochujang rørt inn i bare en tredel a
 - 165 g sukker
 - 220 g brun farin *(se notat)*
 - 2 egg
-- 10 ml vaniljeekstrakt
+- 2 ts vaniljeekstrakt
 - 400 g hvetemel
 - 1 ts bakepulver
 - ½ ts natron
@@ -23955,7 +23955,7 @@ Brunet smør, to typer mørk sjokolade og gochujang rørt inn i bare en tredel a
 
 - **Kilden sier tre forskjellige ting om hvilingen.** Brødteksten slår fast i fet skrift at deigen **må** hvile natten over. Steg 9 sier 2–4 timer, helst natten over. FAQ-en sier nei, du må ikke. Realiteten ligger nærmest steg 9: hvilen er ikke påkrevd for at kakene skal bli spiselige, men den gjør en stor forskjell. Melet rekker å hydrere, sukkeret trekker fuktighet ut av deigen, og kald deig flyter langsommere ut i ovnen – det gir høyere kaker med seig kjerne i stedet for flate og sprø. Ta natten over hvis du har tid.
 - **«En toppet spiseskje» går ikke opp med 24 stykker.** Ferdig deig veier rundt 1,3 kg, altså **ca. 55 g per cookie** når den deles i 24 – det er store kaker, omtrent en golfball. En toppet spiseskje er 25–30 g og ville gitt nærmere 45–50 stykker. Vei deigen og del på 24, så treffer du steketiden på 10–12 minutter. Lager du små, må du ned til 8–9 minutter. Med 55 g-emner bør du dessuten gi dem mer enn 3 cm mellomrom – regn 6–7 cm, og maks åtte per brett.
-- **En klype salt er for lite.** 400 g mel, 385 g sukker og usaltet smør trenger mer enn en klype for at sødmen ikke skal bli flat. Kildens mengde står urørt, men de fleste brunsmør-cookies bruker **¾–1 ts** fint salt i deigen. Flaksaltet på toppen etterpå er noe annet – det er kontrast, ikke grunnsalting.
+- **En klype salt er for lite.** 400 g mel, 385 g sukker og usaltet smør trenger mer enn en klype for at sødmen ikke skal bli flat. Kildens mengde står urørt, men de fleste brunsmør-cookies bruker rundt **1 ts** fint salt i deigen. Flaksaltet på toppen etterpå er noe annet – det er kontrast, ikke grunnsalting.
 - **Melet som settes av, har en funksjon kilden ikke forklarer.** Gochujang er fuktig, og den spiseskjeen mel går inn i gochujangdeigen for å kompensere. Uten den blir den tredelen løsere enn resten, og da flyter marmoreringen ut i stedet for å holde seg som årer.
 - **Ikke bland ferdig.** Kilden gjentar det tre ganger, og det er hele poenget: blandes deigene helt sammen, får du jevn, mild varme i alle kakene i stedet for variasjon. Noen få vend er nok.
 - **Brun farin, ikke «farin».** Kilden ber om *brown sugar*. I norske butikker betyr «farin» hvitt sukker – det du skal ha, er **brun farin** eller lys muscovado. Mørk muscovado gjør også nytten og gir dypere lakrisaktig tone. Vanlig sukker i stedet gir en tørrere og sprøere kake, siden det er melassen som holder på fuktigheten.
@@ -23965,7 +23965,7 @@ Brunet smør, to typer mørk sjokolade og gochujang rørt inn i bare en tredel a
 - **To sjokoladetyper er et bevisst valg.** Den hakkede smelter til ujevne lommer, bitene holder formen. 70 % holder sjokoladesmaken ren mot gochujangen; melkesjokolade blir for søtt i denne sammenhengen.
 - **Styrken varierer med merket.** Gochujang fås i asiatiske butikker og i den internasjonale hyllen i større norske dagligvarer, og styrken spriker mellom produsentene – smak på din før du doserer. Kilden kaller resultatet lett til middels sterkt. Vil du ha mer futt, bytter du den hakkede sjokoladen mot chilisjokolade.
 - **Glutenfritt lar seg ikke gjøre her**, og grunnen er verdt å merke seg: gochujang inneholder ofte hvete. Det er ikke bare melet som må byttes.
-- **Vaniljeekstrakt, ikke vaniljesukker.** 10 ml ekstrakt kan ikke erstattes med vaniljesukker uten at både mengde og sødme blir feil.
+- **Vaniljeekstrakt, ikke vaniljesukker.** 2 ts ekstrakt kan ikke erstattes med vaniljesukker uten at både mengde og sødme blir feil.
 - **Holdbarhet:** i tett boks i romtemperatur. Både deig og ferdige kaker kan fryses – triller du deigen til kuler før frysing, kan du steke dem noen om gangen rett fra fryseren.
 - **Samlingens andre gochujang-fusjon** er [gochujang-kylling alfredo](#30-gochujang-kylling-alfredo). Begge bygger på at gochujangens fermenterte sødme tåler å møte noe helt uvant.
 
@@ -23989,17 +23989,17 @@ Fransk klassiker i tre deler: vannbakkels, sjokoladekrem og sjokoladeglasur. Kil
 - 2 egg
 
 **Sjokoladekrem**
-- 75 g eggeplomme
+- 4 eggeplommer (ca. 75 g)
 - 55 g strøsukker
 - 22 g maisenna
-- 375 g helmelk
+- 3,75 dl helmelk
 - 85 g kremfløte
 - 150 g sjokolade, 72 %
 - 85 g smør
 
 **Sjokoladeglasur**
 - 150 g sjokolade, 72 %
-- 15 g nøytral olje
+- 1 ss nøytral olje
 
 ### Fremgangsmåte
 
@@ -24100,11 +24100,11 @@ Kladdkake i stor porsjon, laget for å deles opp og fryses. Kilden har den ligge
 ### Ingredienser
 
 - 6 egg
-- 7 dl strøsukker — ca. 600 g
+- 600 g strøsukker
 - 1 ts vaniljepulver
 - 450 g lunkent smeltet smør
-- 2,5 dl kakao — ca. 100 g
-- 4,5 dl hvetemel — ca. 270 g
+- 100 g kakao
+- 270 g hvetemel
 - 1 klype flaksalt
 
 ### Fremgangsmåte
@@ -24126,8 +24126,8 @@ Kladdkake i stor porsjon, laget for å deles opp og fryses. Kilden har den ligge
 - **Ikke pisk eggene til eggedosis.** Kladdkake skal være tett og seig, ikke luftig. Visp bare til sukkeret er oppløst. Pisker du inn mye luft, hever kaken seg og blir tørr i midten – det motsatte av hensikten. *(Presisering lagt til.)*
 - **30 minutter er et utgangspunkt, ikke en fasit.** Kaken skal skjelve i midten når du tar den ut og virke tydelig underbakt. Den setter seg videre mens den avkjøles. Vil du ha den fastere, gi den 5 minutter til – men ikke mer.
 - **Avkjølingen er en del av oppskriften.** Kladdkake rett ut av ovnen er flytende i midten. Den må bli helt kald før den kan skjæres, og kilden anbefaler kjøleskap eller fryser i en time. *(Verdt å følge.)*
-- **7 dl sukker er svært mye** – rundt 600 g til 15 porsjoner, altså 40 g rent sukker per bit i tillegg til det som allerede er i røren. Kilden kaller den selv en «sukkerbombe». Kutt til 5 dl hvis du vil ha den mindre søt; teksturen tåler det, siden det er smør og egg som binder.
-- **Volummålene er upresise for mel og kakao.** Vei dem heller: 4,5 dl hvetemel er ca. **270 g**, og 2,5 dl kakao ca. **100 g**. Skjevt oppmålt mel er den vanligste årsaken til tørr kladdkake. *(Omregning lagt til.)*
+- **600 g sukker er svært mye** til 15 porsjoner – altså 40 g rent sukker per bit i tillegg til det som allerede er i røren. Kilden kaller den selv en «sukkerbombe». Kutt til ca. 430 g hvis du vil ha den mindre søt; teksturen tåler det, siden det er smør og egg som binder.
+- **Kilden oppgir sukker, mel og kakao i volum.** Mengdene over er omregnet til vekt: 7 dl sukker er ca. 600 g, 4,5 dl hvetemel ca. 270 g og 2,5 dl kakao ca. 100 g. Skjevt oppmålt mel er den vanligste årsaken til tørr kladdkake. *(Omregnet.)*
 - **Bakepapir i bunnen, fett på sidene** – som kilden sier. En så stor, klissete kake er umulig å få ut ellers.
 - **Frysing er hele poenget.** Pakk hver bit for seg i plast; de tåler 3 måneder. Ta dem rett fra fryseren og gi dem 20–30 sekunder i mikroen, ikke et helt minutt – da blir de varme og flytende.
 - **Flaksalt i røren forsvinner litt.** Vil du ha saltsmaken tydelig, strø litt over toppen før steking i stedet. *(Forslag lagt til.)*
