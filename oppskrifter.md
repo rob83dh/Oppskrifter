@@ -14370,7 +14370,7 @@ Skallene ristes i ovnen i stedet for i panne, og suppen jevnes med maisenna i me
 - **Hvitvinseddiken står med mengde, men brukes «om du vil».** En leser har spurt om nettopp dette i kommentarfeltet. To spiseskjeer er maks — start med én og smak. *(Flagget.)*
 - **Sjøkrepsene er allerede kokte.** De skal bare varmes gjennom i punkt 12, ikke stekes. Ett minutt er nok.
 - **Noilly Prat** er fransk tørr vermut, og gir en urteaktig bitterhet tørr hvitvin ikke har. Den fås på Vinmonopolet og holder seg måneder i kjøleskap etter åpning. *(Lagt til.)*
-- **Beslektet:** Samlingen har tre bisquer. [Hummerbisque (SU31)](#su31-hummerbisque) bruner skallene i panne og koker inn 5 dl fløte — den rike ytterkanten. Denne rister dem i ovn og jevner med melk — den magre. [Krepsehale capellini (nr. 203)](#203-krepsehale-capellini) bruker bisquen som pastasaus, men hopper over bruningen helt. Se også [Hellstrøms skalldyrkraft (G28)](#g28-hellstrøms-skalldyrkraft), som er grunnkraften uten fløte.
+- **Beslektet:** [Hummerbisque (SU31)](#su31-hummerbisque) bruner skallene i panne og koker inn 5 dl fløte — den rike ytterkanten. Denne rister dem i ovn og jevner med melk — den magre. [Krepsehale capellini (nr. 203)](#203-krepsehale-capellini) bruker bisquen som pastasaus, men hopper over bruningen helt. Se også [Hellstrøms skalldyrkraft (G28)](#g28-hellstrøms-skalldyrkraft), som er grunnkraften uten fløte.
 
 ---
 
@@ -14452,7 +14452,7 @@ Hjemmelaget kyllingkraft trukket med kanel, stjerneanis, nellik, kardemomme og f
 **Til servering**
 - Risnudler
 - Bønnespirer
-- Thaibasil
+- Thaibasilikum
 - Koriander
 - Lime, i båter
 
@@ -14474,7 +14474,7 @@ Hjemmelaget kyllingkraft trukket med kanel, stjerneanis, nellik, kardemomme og f
 
 **Servering**
 1. Ta det rensede kyllingkjøttet i strimler og fordel i skåler sammen med kokte risnudler.
-2. Øs varm kraft over, og topp med bønnespirer, thaibasil og koriander. Server med limebåter ved siden av.
+2. Øs varm kraft over, og topp med bønnespirer, thaibasilikum og koriander. Server med limebåter ved siden av.
 3. Server kylling-dippen ved siden av.
 
 ### Notater
@@ -14691,7 +14691,7 @@ Sprø agurkbiter i gochugaru, hvitløk og sesam. Saltes og skylles først, slik 
 - **Punkt 5 i originalen sier bare «ha ingrediensene i en bolle og bland»** uten å nevne agurken. Det er en glipp i skrivingen — agurkbitene skal selvsagt vendes inn.
 - **Holdbarhet:** best første dagen, brukbar i 2–3 dager. Agurken fortsetter å slippe væske, så rør om før servering.
 - **Næringsinnhold oppgitt i kilden**, per porsjon av fire: 85 kcal, 3 g protein, 12 g karbohydrat, 4 g fett.
-- Samlingen har nå to agurktilbehør: denne og [soyamarinert agurk](#t3-soyamarinert-agurk). Den er mildere og soyadominert, denne er sterk og sesampreget. T3 kan lages på fem minutter, denne trenger et kvarter til salting.
+- **Sammenlign med** [soyamarinert agurk (T3)](#t3-soyamarinert-agurk). Den er mildere og soyadominert, denne er sterk og sesampreget. T3 kan lages på fem minutter, denne trenger et kvarter til salting.
 
 ---
 
