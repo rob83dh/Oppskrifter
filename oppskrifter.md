@@ -10926,9 +10926,9 @@ Nordindisk korma i mogulsk stil: kylling marinert i yoghurt, og en saus bygget a
 ### Notater
 
 - **Løken er hele smaksgrunnlaget.** Tolv minutter høres lenge ut, men det er der sødmen og dybden kommer fra. Blek løk gir en blek korma, og ingen mengde krydder retter det opp.
-- **Nøttene skal i etter at varmen er av.** De skal bare varmes gjennom i restvarmen. Fresner du dem, blir de bitre og pureen grå.
+- **Nøttene skal i etter at varmen er av.** De skal bare varmes gjennom i restvarmen. Freser du dem, blir de bitre og puréen grå.
 - **Ingen stivelse.** Kremetheten kommer fra yoghurt og nøttepuré alene. Maisenna gjør den slimete.
-- **Bein gir bedre korma.** Kraften fra beina trekker ut i sausen mens den koker. Bruk du kyllingbryst, tørker det lett ut — lår er tryggere.
+- **Bein gir bedre korma.** Kraften fra beina trekker ut i sausen mens den koker. Bruker du kyllingbryst, tørker det lett ut — lår er tryggere.
 - **Kylling korma mot kylling tikka masala:** korma har ingen tomat og ingen svimerker. Legger du i mye tomat, ender du opp med tikka masala.
 - **Rose- eller kewravann** nevnes i kilden som en valgfri avslutning. Noen dråper gir en blomsteraktig duft. Swasthi bruker det selv bare i lammekorma.
 - **Beslektet:** [kylling tikka masala (nr. 201)](#201-kylling-tikka-masala) er den kraftige motsatsen med tomat, [garam masala (G19)](#g19-garam-masala) er krydderblandingen som går i både marinaden og gryta, og [Hellstrøms basmatiris (T65)](#t65-hellstrøms-basmatiris) er risen ved siden av.
@@ -10988,7 +10988,7 @@ Sjøkreps bakt i smør med timian og dill, servert på capellini vendt i en bisq
 - **Mengden pasta er ikke oppgitt.** Regn 80 g tørr capellini per person. *(Lagt til.)*
 - **Ingen salt i krepsemarinaden.** Salt smørblandingen lett før du pensler. *(Lagt til.)*
 - **«3 ss hakkede tomater»** tilsvarer omtrent én middels tomat. De er der for syre og farge, ikke for tomatsmak.
-- **Beslektet:** [Hellstrøms skalldyrkraft (G28)](#g28-hellstrøms-skalldyrkraft) gjør nettopp det denne oppskriften hopper over — freser skallene først — og kan brukes som bisquebase, [sjøkreps med cowboysmør (SJ1)](#sj1-sjøkreps-med-cowboysmør) er samlingens andre sjøkrepsrett, og [safranrisotto med reker og pistasjnøtter (nr. 155)](#155-safranrisotto-med-reker-og-pistasjnøtter) bygger på samme idé om å bruke skalldyrkraft som smaksbunn. Samlingens to bisquesupper er [hummerbisque (SU31)](#su31-hummerbisque) og [med sjøkreps og reker (SU32)](#su32-skalldyrbisque-med-sjøkreps-og-reker).
+- **Beslektet:** [Hellstrøms skalldyrkraft (G28)](#g28-hellstrøms-skalldyrkraft) gjør nettopp det denne oppskriften hopper over — freser skallene først — og kan brukes som bisquebase, [sjøkreps med cowboysmør (SJ1)](#sj1-sjøkreps-med-cowboysmør) er en annen sjøkrepsrett, og [safranrisotto med reker og pistasjnøtter (nr. 155)](#155-safranrisotto-med-reker-og-pistasjnøtter) bygger på samme idé om å bruke skalldyrkraft som smaksbunn. Bisquesuppene i samlingen er [hummerbisque (SU31)](#su31-hummerbisque) og [med sjøkreps og reker (SU32)](#su32-skalldyrbisque-med-sjøkreps-og-reker).
 
 ---
 
@@ -11017,7 +11017,7 @@ Tre ingredienser: pasta, smør og **et helt hvitløkhode**. Det er ikke en trykk
 3. **Smelt smøret** i en liten kjele på middels til middels lav varme, og tilsett hvitløken. **Fres i 3–7 minutter**, til hvitløken akkurat er gyllen. Rør eller sving kjelen innimellom.
 4. **Ta kjelen av varmen med én gang** hvitløken er gyllen — den går fra gyllen og søt til brun og bitter på kort tid.
 5. **Løft pastaen over i smøret** med hullsleiv eller tang, ikke i dørslag. **Ta vare på kokevannet.**
-6. **Vend alt sammen** og spe med pastavann til sausen er silkeaktig. Den tykner mens den står, så legg deg på den blaute siden.
+6. **Vend alt sammen** og spe med pastavann til sausen er silkeaktig. Den tykner mens den står, så legg deg på den bløte siden.
 7. **Topp med det du vil ha** av det valgfrie, og server med én gang.
 
 ### Notater
@@ -11107,7 +11107,7 @@ Kjøttdeig som slippes i store, ujevne klumper i glovarm støpejernspanne og **f
 4. **Slipp kjøttet ned i panna i store, ujevne klumper** og **la det ligge helt i ro i 6–8 minutter**, til bunnen er mørk og sprø.
 5. **Vend kjøttet med en tresleiv** og del opp de største bitene.
 6. **Rør inn valnøtter og tranebær** og stek videre **2–3 minutter**, til kjøttet er gjennomstekt og nøttene ristet.
-7. **Smak til den kalde yoghurten** med det siste teskjeen salt, og bre den utover et serveringsfat.
+7. **Smak til den kalde yoghurten** med den siste teskjeen salt, og bre den utover et serveringsfat.
 8. **Legg det sprø kjøttet oppå**, og avslutt med granateplesirup, friske mynteblader og pita eller ris.
 
 ### Notater
