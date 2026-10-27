@@ -3193,7 +3193,7 @@ Japansk karri av ferdige karriterninger, med løk, potet og gulrot, servert ved 
 - 100 g gulrot, i skiver på 7 mm
 - 1 ss olje
 - 115 g japansk karriblanding (½ pakke à 230 g)
-- 800 ml vann
+- 8 dl vann
 - 4 porsjoner kokt ris, varm — ca. 300 g tørr ris, se [kokt ris (T131)](#t131-kokt-ris)
 - 4 kyllingschnitzler, skåret i 2,5 cm brede strimler *(egen oppskrift — se notat)*
 
@@ -3215,7 +3215,7 @@ Japansk karri av ferdige karriterninger, med løk, potet og gulrot, servert ved 
 - **Schnitzelen er ikke med i denne oppskriften.** Kilden lenker til en egen oppskrift på japansk kyllingschnitzel, og de 25 minuttene gjelder bare karrien. Du kan bruke [tonkatsu](#8-tonkatsu) fra samlingen i stedet — forfatteren sier selv at svinekotelett fungerer like godt som kylling.
 - **Start schnitzelen når vannet går i gryta** i punkt 3. Da er de to ferdige omtrent samtidig, og schnitzelen bør være nystekt.
 - **Kilden motsier seg selv om styrken.** Ingredienslisten oppgir «Mild», mens notatet under og teksten i artikkelen begge sier medium sterk. Velg selv — karriblokker finnes i mild, medium og sterk, og forskjellen er betydelig.
-- **Vannmengden avhenger av merket.** 800 ml gjelder House Vermont. Bruker du S&B Golden Curry eller et annet merke, følg anvisningen på pakken. Det er den vanligste kilden til for tynn eller for tykk karri.
+- **Vannmengden avhenger av merket.** 8 dl gjelder House Vermont. Bruker du S&B Golden Curry eller et annet merke, følg anvisningen på pakken. Det er den vanligste kilden til for tynn eller for tykk karri.
 - **Grønnsakene er bevisst skåret små.** Forfatteren vil at schnitzelen skal være hovedpersonen, og mange restauranter serverer katsukarri helt uten grønnsaker i sausen.
 - **Rør i bunnen underveis.** Karriblandingen inneholder mel og fett og brenner seg lett fast når den er oppløst.
 - **Retten er kaloririk** — kilden oppgir 945 kcal per porsjon og anbefaler tørt å spise grønnsaker resten av dagen.
@@ -3252,30 +3252,30 @@ Kyllingindrefilet i tredelt panering, frityrstekt to ganger og vendt i en søtst
 - 1 ts løkpulver
 
 **Våt røre**
-- 1 dl av det krydrede melet
+- 60 g av det krydrede melet
 - 1 egg
-- 240 ml kaldt kullsyrevann
+- 2,5 dl kaldt kullsyrevann
 
 **Til vending**
 - 125 g hvetemel
 
 **Steking**
-- ca. 1,9 liter nøytral olje
+- ca. 2 liter nøytral olje
 
 **Saus**
-- 120 ml soyasaus
+- 1,2 dl soyasaus
 - 3 ss sukker
 - 2 ss honning
 - 2 ss gochujang
-- ½ ss gochugaru
+- 1½ ts gochugaru
 - 1 ss riseddik
-- 60 ml vann
+- 4 ss vann
 
 ### Fremgangsmåte
 
 1. **Krydre kyllingen.** Bland salt, hvit og sort pepper, hvitløkspulver, løkpulver, ingefærpulver og cayenne, og gni det inn i indrefiletene. La dem stå i **minst 20 minutter**, så saltet trekker inn.
 2. **Bland det krydrede melet.** Rør sammen mel, salt, pepper og pulverkrydderne. **Dryss i 1–2 ss kullsyrevann og gni melet mellom hendene**, slik at det danner seg små klumper. Det er disse som blir de sprø flakene i den ferdige paneringen.
-3. **Rør den våte røren.** Visp 1 dl av det krydrede melet sammen med egget og kullsyrevannet til det er glatt. Ha det rene melet i en tredje bolle.
+3. **Rør den våte røren.** Visp 60 g av det krydrede melet sammen med egget og kullsyrevannet til det er glatt. Ha det rene melet i en tredje bolle.
 4. **Panér i tre trinn.** Vend kyllingen først i det rene melet, så i den våte røren — la overskuddet renne av — og til slutt i det krydrede melet. Klem paneringen godt fast med hendene. La kyllingen hvile på et brett i **15 minutter** mens oljen varmes.
 5. **Første steking.** Frityrstek i omganger på **175 °C i 4–5 minutter**, til bitene er lyst gyllenbrune. Ta dem opp.
 6. **Andre steking.** La oljen komme tilbake til 175 °C, og stek bitene en gang til i **1–2 minutter**, til de er dypt gyllenbrune. La dem hvile.
@@ -3293,7 +3293,7 @@ Kyllingindrefilet i tredelt panering, frityrstekt to ganger og vendt i en søtst
 - **Løkpulver står i ingredienslisten til kyllingen, men ikke i selve krydderblandingen i kildens fremgangsmåte.** Det er tatt med her; det gjør ingen skade.
 - **Halver gochujang og gochugaru** hvis du er følsom for sterk mat. Kilden anbefaler det selv.
 - **Kjernetemperatur 74 °C.**
-- **1,9 liter olje er mye.** Bruk en gryte med høye kanter, fyll den maks til en tredjedel, og sil oljen gjennom kaffefilter når den er avkjølt hvis du vil bruke den om igjen.
+- **2 liter olje er mye.** Bruk en gryte med høye kanter, fyll den maks til en tredjedel, og sil oljen gjennom kaffefilter når den er avkjølt hvis du vil bruke den om igjen.
 - **Holdbarhet:** 3–4 dager i kjøleskap, men sprøheten forsvinner. Varm opp i airfryer på 175 °C i 6–8 minutter, eller i ovn på 190 °C på rist i 10 minutter.
 - **Riseddik kan byttes** med eplesidereddik.
 - Samlingens fjerde koreanske kyllingrett. Se også [koreansk popcorn-kylling](#3-koreansk-popcorn-kylling), [ovnsstekt koreansk kylling](#29-ovnsstekt-koreansk-kylling) og [koreansk kyllingburger](#53-koreansk-kyllingburger). Denne er den eneste med dobbelsteking i frityr.
@@ -3308,14 +3308,14 @@ Lammekoteletter i en marinade av gochujang, hvitløk og svart eddik, grillet på
 
 ### Ingredienser
 
-- Lammekoteletter *(mengde ikke oppgitt — se notat)*
+- 600–800 g lammekoteletter *(Lagt til – se notat.)*
 - 4 hvitløksfedd, finhakket
 - 1 vårløk, finhakket
 - 2 ss gochujang
 - 1 ss lys soyasaus
-- 1½ ss brunt sukker
+- 1 ss + 1½ ts brunt sukker
 - 1 ss kinesisk svart eddik
-- ½ ss sesamolje
+- 1½ ts sesamolje
 
 ### Fremgangsmåte
 
@@ -3353,7 +3353,7 @@ Lammekjøttboller med rikelig persille og sjukryddermiks, brunet i panne og ette
 - 1 egg
 - ½ ts salt
 - Pepper
-- ½ ss sjukrydder (baharat)
+- 1½ ts sjukrydder (baharat)
 - Olivenolje til steking *(står ikke i kildens ingrediensliste)*
 
 **Agurk- og yoghurtsaus**
@@ -3405,7 +3405,7 @@ Små kjøttboller der brød, løk og persille kjøres til en pasta i foodprosess
 
 **Kjøttbollene**
 - 80 g brød, gjerne litt tørt — innmaten av et godt brød, skorpen skåret bort, i terninger
-- 80 ml helmelk
+- 80 g helmelk
 - 50 g rødløk, i terninger *(ca. ½ liten løk)*
 - 10 g persille *(ca. 4 stilker)*
 - 500 g kjøttdeig av storfe
@@ -3421,7 +3421,7 @@ Små kjøttboller der brød, løk og persille kjøres til en pasta i foodprosess
 - 2 bokser à 400 g hele, skrelte San Marzano-tomater
 - 1 boks vann
 - Salt
-- Eventuelt ½ ss brunt sukker *(se notat)*
+- Eventuelt 1½ ts brunt sukker *(se notat)*
 
 **Servering**
 - Pasta til 4
@@ -3438,7 +3438,7 @@ Små kjøttboller der brød, løk og persille kjøres til en pasta i foodprosess
 6. **Start sausen.** Varm olivenoljen og legg i hvitløksfeddene og basilikumen. La dem trekke smak i oljen et par minutter på lav varme.
 7. **Tomatene i.** Ta ut hvitløken og kast den. Klem tomatene i med hendene — **vær forsiktig, de spruter kraftig når de treffer den varme oljen.** Fyll den ene boksen med vann og hell i. Skru ned til svak småkoking og legg lokket delvis på.
 8. **La sausen koke i ca. 40 minutter**, til tomatene har falt helt sammen. Smak til med salt, og eventuelt sukker.
-9. **Rull bollene** imens. Bruk en ½ ss målskje til å porsjonere, og legg dem på et stekebrett.
+9. **Rull bollene** imens, ca. 9 g hver, og legg dem på et stekebrett.
 10. **Brun dem i svært varm ovn** i **4–5 minutter**, til de har fått farge. Kilden går så høyt som 240 °C varmluft med grillelement.
 11. **Over i sausen.** Legg bollene i sausen og la det boble svakt i **10–20 minutter**. Spe med en skvett vann hvis sausen tørker inn — den skal reduseres, men fortsatt være løs.
 12. **Server** med pasta og revet parmigiano.
@@ -3446,11 +3446,11 @@ Små kjøttboller der brød, løk og persille kjøres til en pasta i foodprosess
 ### Notater
 
 - **Ikke kjør kjøttdeigen for lenge i maskinen.** Kilden understreker dette. Overarbeidet kjøttdeig blir kompakt og gummiaktig i stedet for mør. Stopp så snart massen begynner å samle seg.
-- **55 boller av 500 g kjøttdeig er svært små** — rundt 9 gram hver, målt med en halv spiseskje. Det er bevisst, og forklarer hvorfor de bare trenger 4–5 minutter i ovnen. Vil du ha norske kjøttbollestørrelser, blir det langt færre, og de trenger lengre tid både i ovnen og i sausen.
+- **55 boller av 500 g kjøttdeig er svært små** — rundt 9 gram hver. Det er bevisst, og forklarer hvorfor de bare trenger 4–5 minutter i ovnen. Vil du ha norske kjøttbollestørrelser, blir det langt færre, og de trenger lengre tid både i ovnen og i sausen.
 - **Ovnen skal være glovarm.** De 4–5 minuttene er kun for å gi farge; bollene blir ferdige i sausen. 240 °C med grill er høyt, så følg med.
 - **Tomatene spruter når de treffer den varme oljen.** Klem dem i forsiktig, og hold litt avstand.
 - **Hvitløken tas ut og kastes.** Den er der for å smaksette oljen, ikke for å spises. Basilikumen kan bli liggende.
-- **Sukkeret er ikke fast** — det avhenger av hvor syrlige tomatene er. Smak sausen først. Kilden bruker gjerne brunt sukker framfor hvitt, og rundt ½ ss.
+- **Sukkeret er ikke fast** — det avhenger av hvor syrlige tomatene er. Smak sausen først. Kilden bruker gjerne brunt sukker framfor hvitt, og rundt 1½ ts.
 - **San Marzano gir mildere og sødere saus** enn vanlige hermetiske tomater. Finnes i italienske butikker og en del dagligvarebutikker. Bruker du vanlige hele, skrelte tomater, er det oftere behov for sukkeret.
 - **Bruk innmaten av brødet**, ikke skorpen, og la det gjerne være litt tørt. 80 g brødkrumme er mye i volum.
 - **Kjernetemperatur 70–75 °C** for kvernet storfekjøtt, men med boller på ni gram som trekker 10–20 minutter i saus, er det ikke noe problem.
@@ -3529,8 +3529,8 @@ Romersk klassiker av bare tre ting: pasta, pecorino romano og sort pepper. Kreme
 3. **Rist pepperen.** Sett en vid panne på svak varme og dekk bunnen med rikelig nykvernet sort pepper. Rist den i ca. 2 minutter, og skru så av varmen.
 4. **Bland osten.** Ha litt sort pepper i den revne pecorinoen i en egen liten bolle og rør sammen.
 5. **Pastaen over.** Løft pastaen med en tang rett over i panna — **ta vare på kokevannet.** Skru varmen på igjen.
-6. **Hell i en kopp pastavann**, nok til å dekke mesteparten av pastaen.
-7. **Kok i 2 minutter** under stadig omrøring. Ta så en kopp pastavann til, og rør litt av det inn i pecorinoen. Tilsett mer, litt om gangen, og rør til osten blir en tykk, jevn krem.
+6. **Hell i ca. 2 dl pastavann**, nok til å dekke mesteparten av pastaen.
+7. **Kok i 2 minutter** under stadig omrøring. Ta så ca. 2 dl pastavann til, og rør litt av det inn i pecorinoen. Tilsett mer, litt om gangen, og rør til osten blir en tykk, jevn krem.
 8. **Ta panna av varmen.** *(Lagt til:)* La den stå et halvt minutt, slik at den ikke er glovarm.
 9. **Rør inn ostekremen.** *(Lagt til:)* Vend den inn i pastaen utenfor varmen, og rør kraftig til sausen er blank og kremet og legger seg rundt pastaen. Spe med mer pastavann om den er for tykk. Server med én gang, med mer pepper over.
 
@@ -3606,8 +3606,8 @@ Kremet soppasta med bacon, sjalottløk og hvitvin. Sopp og bacon stekes til all 
 - 1 hvitløksfedd, revet
 - 1 ss smør
 - 1 ss olivenolje
-- 120 ml hvitvin
-- 200 ml kremfløte
+- 1,2 dl hvitvin
+- 2 dl kremfløte
 - 50 g parmesan, revet
 - 1 ss persille, hakket
 - Salt og pepper
@@ -3623,7 +3623,7 @@ Kremet soppasta med bacon, sjalottløk og hvitvin. Sopp og bacon stekes til all 
 
 ### Notater
 
-- **Forholdet mellom saus og pasta er påfallende skjevt.** 100 g pasta mot 200 g bacon, 200 g sopp og 200 ml fløte gir en rett som er langt mer saus enn pasta. Slik den står, er den én svært rikelig porsjon. Skal du servere to eller tre, øk pastaen til 250–300 g og la resten stå — sausmengden holder godt.
+- **Forholdet mellom saus og pasta er påfallende skjevt.** 100 g pasta mot 200 g bacon, 200 g sopp og 2 dl fløte gir en rett som er langt mer saus enn pasta. Slik den står, er den én svært rikelig porsjon. Skal du servere to eller tre, øk pastaen til 250–300 g og la resten stå — sausmengden holder godt.
 - **Væsken må dampe helt av i punkt 1.** Sopp slipper mye vann, og går fløten i før det er borte, blir sausen tynn og grå i stedet for konsentrert. De 5–10 minuttene er et minimum, ikke et maksimum.
 - **Gi soppen plass.** Ligger 200 g sopp i lag i panna, damper den i stedet for å brune. Bruk en vid panne, eller stek i to omganger.
 - **Vinen skal koke nesten helt bort.** «Redusert med 90 prosent» betyr at det bare skal ligge igjen en sirupaktig rest i bunnen. Kokes den for kort, smaker sausen surt av rå vin.
@@ -3644,15 +3644,15 @@ Oksekjøtt i store terninger brunes hardt, surrer i to og en halv time i tomat o
 ### Ingredienser
 
 - 1 kg høyrygg eller høyribbe, i terninger på ca. 5 cm
-- 1½ ss olivenolje
+- 1 ss + 1½ ts olivenolje
 - 1 gul løk, i terninger
 - 6 hvitløksfedd, knust og hakket
 - En klype chiliflak *(valgfritt)*
 - 90 g tomatpuré
-- 125 ml rødvin, gjerne pinot noir
+- 1,2 dl rødvin, gjerne pinot noir
 - 1 buljongterning, smuldret
 - 800 g hakkede tomater
-- 125 ml oksekraft
+- 1,2 dl oksekraft
 - 6 kvister frisk timian
 - 3 tørkede laurbærblad
 - 5–6 basilikumstilker *(valgfritt)*
@@ -3717,7 +3717,7 @@ Hjemmelagde potetgnocchi av bakte poteter, vendt i en pesto rørt ut med fløte.
 - Saft av ½ sitron
 
 **Saus**
-- 160 ml kremfløte
+- 1,6 dl kremfløte
 - Ekstra parmesan
 - Sort pepper
 
