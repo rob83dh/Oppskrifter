@@ -22051,7 +22051,7 @@ Mjuke, saftige dumplings fylt med langtidsbraisert shortrib i miso-, soya- og sa
 
 **Varmebehandling**
 - **Bambussteamer:** Legg dumplingene i bambussteameren og damp over kokende vann. De er klare når de blir litt gjennomsiktige.
-- **Stekepanne:** Stek på medium varme til bunnen er gyllen. Hell i ca. 0,3 dl vann, ha på lokk og damp til vannet er borte. Snu og stek andre siden.
+- **Stekepanne:** Stek på medium varme til bunnen er gyllen. Hell i ca. 2 ss vann, ha på lokk og damp til vannet er borte. Snu og stek andre siden.
 - Topp med syltet rødløk.
 
 ### Notater
@@ -22093,8 +22093,8 @@ Thailandske grillspyd av marinert svinenakke (moo ping), servert med Nam Jim Jae
 - 1 agurk, grovhakket
 - 2 sjalottløk, finhakket
 - ½ bunt koriander
-- 0,5 dl riseddik
-- 0,5 dl sukker
+- 3 ss + 1 ts riseddik *(Omregnet fra 0,5 dl.)*
+- 40 g sukker *(Omregnet fra 0,5 dl.)*
 - 1 ts salt
 
 ### Fremgangsmåte
@@ -22105,7 +22105,7 @@ Thailandske grillspyd av marinert svinenakke (moo ping), servert med Nam Jim Jae
 3. Server med ris, crack-sausen og den syltede thaisalaten.
 
 **Crack-sauce**
-1. Lag rispulveret: stek 3 ts riskorn på middels varme til risen får en gyllen farge. Knus deretter til et fint pulver i en morter, eller blend det. Sett til side.
+1. Lag rispulveret: stek 1 ss riskorn på middels varme til risen får en gyllen farge. Knus deretter til et fint pulver i en morter, eller blend det. Sett til side.
 2. Rør sammen limejuice, fiskesaus, tamarind-paste og brunt sukker i en bolle. Pass på at sukkeret er helt oppløst.
 3. Tilsett koriander, vårløk og sjalottløk, og topp med rispulveret.
 
@@ -22172,7 +22172,7 @@ Pot stickers med kvernet høyrygg og kinesisk gressløk, pannestekt til gyllen b
 - 1 ts pepper
 - 2 ts ingefær, revet
 - 2 ts sesamolje
-- 1,5 ss maizena
+- 1 ss + 1½ ts maisenna
 - 1 ts salt
 
 **Saus**
@@ -22200,7 +22200,7 @@ Pot stickers med kvernet høyrygg og kinesisk gressløk, pannestekt til gyllen b
 1. Fyll hver dumplingwrapper med en raus teskje fyll. Legg fyllet i midten.
 2. Brett dumplingen til en halvmåneform med rynkete kant. Ekstra fint om dumplingen får en liten åpning øverst, slik at sausen senere kan trekke inn.
 3. Legg de ferdigbrettede dumplingene på et brett med et vått kjøkkenhåndkle over, slik at de ikke tørker ut.
-4. Stek dem på medium varme i en panne til bunnen blir gyllen. Fyll deretter pannen med ca. 0,3 dl vann og legg på lokk slik at de dampes ferdig.
+4. Stek dem på medium varme i en panne til bunnen blir gyllen. Hell deretter ca. 2 ss vann i pannen og legg på lokk slik at de dampes ferdig.
 5. Når vannet er fordampet, snur du dumplingene og steker den andre siden til den også er gyllen.
 6. Topp med vårløk, syltet rødløk og sausen.
 
