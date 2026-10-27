@@ -20426,20 +20426,20 @@ Potetmos eltet med klebrig rismel til en seig, tyggbar deig, stekt gyllen i pann
 3. **Form kakene.** Del massen i 6–7 baller og trykk dem flate. Legg eventuelt en strimmel nori rundt hver. Sett til side.
 4. **Kok inn sausen.** Ha soyasaus, mirin, sukker og vann i en liten kjele — **ikke smøret ennå**. La det småkoke i 3–5 minutter til det tykner litt. Ta kjelen av varmen.
 5. **Stek kakene.** Varm 2 ss olje i en panne på middels varme og stek kakene gyllenbrune på begge sider.
-6. **Glaser dem.** Hell av overflødig olje fra panna. **Ta panna av varmen**, hell over sausblandingen sammen med smøret, og vend kakene så de dekkes.
+6. **Glaser dem.** Hell av overflødig olje fra pannen. **Ta pannen av varmen**, hell over sausblandingen sammen med smøret, og vend kakene så de dekkes.
 7. **Server med én gang.**
 
 ### Notater
 
 - **Dette skal spises varmt og med én gang.** Kilden er tydelig på det, og med god grunn: den seige mochi-konsistensen blir hard og kjedelig når kakene kjølner. De lar seg ikke varme opp igjen på en god måte.
 - **Klebrig rismel og maisenna gir ikke samme resultat.** Rismelet er det som gir den karakteristiske seigheten. Maisenna fungerer som nødløsning, men gir en mykere, mer potetkakeaktig konsistens uten tyggemotstanden. Klebrig rismel (shiratamako eller mochiko) finnes i asiatiske butikker.
-- **Bruk melne poteter.** Mandelpotet, beate eller andre melne sorter moser seg glatte. Faste poteter gir klumpete deig.
+- **Bruk melne poteter.** Mandelpotet, Beate eller andre melne sorter moser seg glatte. Faste poteter gir klumpete deig.
 - **Smøret holdes utenfor innkokingen med vilje.** Det røres inn helt til slutt, av varmen, sammen med sausen. Det er dette som gir glasuren glans og fyldighet — kokes smøret med, skiller sausen seg og blir fet.
 - **Hell av oljen før sausen går i.** Ellers blander stekeoljen seg med glasuren, og den legger seg ikke på kakene.
-- **Panna skal av varmen før sausen i.** Sukkeret i mirinen og sausen brenner fort ved direkte varme.
+- **Pannen skal av varmen før sausen går i.** Sukkeret i mirinen og sausen brenner fort ved direkte varme.
 - **Nori er valgfritt**, men strimlene gjør kakene lettere å plukke opp og gir en salt kontrast.
-- **Forholdet er ca. 10 % mel til potet.** Skalerer du opp, hold deg til det — mer mel gir gummiaktige kaker, mindre gir kaker som faller fra hverandre i panna.
-- Fra samme avsenders izakaya-serie som [buta no kakuni](#49-buta-no-kakuni--japansk-braisert-svinesideflesk), og de to passer godt sammen på et bord.
+- **Forholdet er ca. 10 % mel til potet.** Skalerer du opp, hold deg til det — mer mel gir gummiaktige kaker, mindre gir kaker som faller fra hverandre i pannen.
+- Fra samme avsenders izakaya-serie som [buta no kakuni (nr. 49)](#49-buta-no-kakuni--japansk-braisert-svinesideflesk), og de to passer godt sammen på et bord.
 
 ---
 
@@ -20493,14 +20493,14 @@ Sushiris presses flat, kjøles til den er fast, skjæres i firkanter og frityrst
 
 - **Laksen er så vidt brunet på én side og altså nesten rå.** Norsk oppdrettslaks regnes som trygg å spise rå, siden fôringen gjør parasittrisikoen neglisjerbar. Villaks bør derimot fryses først, ved −20 °C i minst et døgn. Kjøp fisk du vet er ment for å spises rå, og hold den kald fram til servering.
 - **«2 agurker» i kilden gir ingen mening.** Åtte biter trenger rundt seksten tynne skiver, altså et lite stykke av én agurk. Sannsynligvis er det ment små snackagurker. Kjøp én vanlig agurk og bruk det du trenger.
-- **4 dl vann til 2 dl ris er mye.** Vanlig forhold for sushiris er nærmere 1:1,25. Mer vann gir klissere ris som holder bedre sammen når den presses, men blir den grøtete, reduser vannet neste gang.
+- **4 dl vann til 2 dl ris er mye.** Vanlig forhold for sushiris er nærmere 1:1,25. Mer vann gir klissete ris som holder bedre sammen når den presses, men blir den grøtete, reduser vannet neste gang.
 - **Risen må skylles til vannet er klart.** Overflatestivelsen er det som gjør risen grøtete i stedet for kornete, og steget er ikke valgfritt her.
 - **Tørk risbitene før de går i oljen.** De kommer rett fra fryseren, og overflatefukt spruter kraftig i 2,5 cm varm olje. La dem stå et par minutter og tørk dem lett med papir.
 - **Kilden oppgir ingen tid for chilimarinaden.** Bland den først, så trekker den mens risen står i fryseren.
 - **Serrano og caribe finnes ikke i norske butikker.** Bruk hvilken som helst fersk chili — én mild og én sterk gir samme kontrast. Kilden sier selv at chilitypen kan byttes fritt.
 - **Det må være sushiris.** Vanlig kortkornet ris klistrer seg ikke nok til å holde formen når bitene skjæres og stekes. Calrose, japonica eller ris merket sushiris.
 - **Næringstallet i kilden på 2437 kcal gjelder hele porsjonen**, ikke én bit, selv om det står oppført per servering.
-- Samlingens andre forrett med ris og sjømat. Se også [sushikopper med reker](#s6-sushikopper-med-reker), som stekes i ovnen og bruker gjennomstekte reker i stedet for rå fisk.
+- **Se også** [sushikopper med reker (S6)](#s6-sushikopper-med-reker), som stekes i ovnen og bruker gjennomstekte reker i stedet for rå fisk.
 
 ---
 
@@ -20541,14 +20541,14 @@ Ferske, ukokte rispapirruller med kaldt kyllingpålegg, risvermicelli, paprika, 
 - **Kilden kaller dem «spring rolls» i oppskriftskortet**, men dette er ferske ruller som ikke stekes. Vårruller er de friterte – forfatteren har en egen oppskrift på nettopp det (cha gio). Det vietnamesiske navnet for disse er *gỏi cuốn*, og det er brukt i overskriften her.
 - **Koketiden på 8 minutter stemmer ikke.** Det eneste som varmebehandles, er nudlene, og de tar 2 minutter. Regn 15 minutter totalt hvis du bruker pålegg, mer hvis du koker kylling først.
 - **Urtene mangler, og det er det største tapet.** Ekte gỏi cuốn er full av mynte, koriander og gjerne thaibasilikum – det er urtene som gjør rullene friske i stedet for bare fylte. Kilden foreslår selv å tilsette urter i brødteksten, men de er ikke med i oppskriften. Legg inn et par mynteblader og noen korianderkvister per rull.
-- **«3 ss peanut butter sauce» er misvisende.** Ingredienslisten kan leses som ferdigkjøpt peanøttsaus, men fremgangsmåten viser at det er ren peanøttsmør som skal vispes med soya og vann. Bruk usøtet peanøttsmør.
+- **«3 ss peanut butter sauce» er misvisende.** Ingredienslisten kan leses som ferdigkjøpt peanøttsaus, men fremgangsmåten viser at det er rent peanøttsmør som skal vispes med soya og vann. Bruk usøtet peanøttsmør.
 - **Dippen er tynn i smaken slik den står.** Peanøttsmør, soya og vann gir salt og fett, men ingen syre og lite sødme. En skvis limesaft og ½ ts sukker eller honning løfter den betydelig, og et revet hvitløksfedd gjør den mer lik den man får servert. Kildens egen brødtekst nevner hoisin som det klassiske alternativet.
 - **Ikke bløtlegg rispapiret for lenge.** Den vanligste feilen er å vente til arket er helt mykt i vannet – da fortsetter det å mykne på benken og går i stykker når du ruller. Ta det opp mens det fortsatt kjennes litt stivt; det er ferdig innen du har lagt på fyllet.
 - **Rullene kleber seg til hverandre.** Legg dem med litt avstand på fatet, eller skill dem med salatblad. Skal de stå en stund, dekk dem med et fuktig kjøkkenhåndkle – de tørker ut og blir seige i kjøleskapet.
 - **Mengdene er omtrentlige i kilden:** «en neve», «1 porsjon», «litt». Anslagene i ingredienslisten er lagt til for at oppskriften skal kunne skaleres. 5 ruller til to personer er en liten forrett, ikke et måltid, selv om kilden oppgir både forrett og hovedrett.
 - **Skyll spirene godt** før bruk. De spises rå her.
 - **Kilden foreslår selv variasjoner:** reker, tofu eller tynne biffskiver i stedet for kylling, avokado eller kål blant grønnsakene, og mer nudler hvis rullene skal mette mer.
-- **Samme forfatter står bak** [japansk karri-udon](#48-japansk-karri-udon-med-kylling), [Korean beef bowl](#80-korean-beef-bowl--koreansk-kjøttdeig-med-gochujangsaus) og [yuk sung](#81-yuk-sung--kinesiske-salatwraps-med-kyllingkjøttdeig) i samlingen. Yuk sung er samme idé med varmt fyll i salatblad i stedet for kaldt i rispapir.
+- **Samme forfatter står bak** [japansk karri-udon (nr. 48)](#48-japansk-karri-udon-med-kylling), [Korean beef bowl (nr. 80)](#80-korean-beef-bowl--koreansk-kjøttdeig-med-gochujangsaus) og [yuk sung (nr. 81)](#81-yuk-sung--kinesiske-salatwraps-med-kyllingkjøttdeig). Yuk sung er samme idé med varmt fyll i salatblad i stedet for kaldt i rispapir.
 
 ---
 
@@ -20584,15 +20584,15 @@ Wontonark presset ned i en muffinsform og forstekt sprø, fylt med kremost, baco
 - **Baconet skal være ferdigstekt før det går i fyllet**, men kilden gir ingen anvisning på det – det står bare «cooked and finely chopped» i ingredienslisten. Stek det sprøtt, la det renne av på papir, og hakk det når det er avkjølt. *(Presisert.)*
 - **Ovnen skal ned i temperatur underveis**, fra 190 °C til 175 °C. Det er lett å lese forbi, men koppene er allerede gyllenbrune etter forstekingen og svir seg i den andre runden hvis varmen står på.
 - **Temperaturene er omregnet fra fahrenheit:** 375 °F = 190 °C, 350 °F = 175 °C. Ved oppvarming: 350 °F = 175 °C i ovn, 325 °F = 165 °C i airfryer.
-- **Wontonark fås frosne i asiatiske butikker**, i samme hylle som dumplingskiver – samlingen bruker dem allerede i [Shanghai-wontons](#s4-shanghai-wontons-med-svin-og-pak-choi). La dem tine helt før du former dem, ellers sprekker de. En leser brukte vårrullplater delt i fire med godt resultat.
-- **Fersk jalapeño er ikke alltid å oppdrive i Norge**, og syltet er ikke en erstatning – se samme problemstilling i [T20](#t20-pico-de-gallo). Vanlig grønn chili fungerer, men styrken varierer mye, så smak på en bit før du doserer tre av dem. Kilden opplyser at søt paprika også går, men da forsvinner hele poenget med retten.
+- **Wontonark fås frosne i asiatiske butikker**, i samme hylle som dumplingskiver – samlingen bruker dem allerede i [Shanghai-wontons (S4)](#s4-shanghai-wontons-med-svin-og-pak-choi). La dem tine helt før du former dem, ellers sprekker de. En leser brukte vårrullplater delt i fire med godt resultat.
+- **Fersk jalapeño er ikke alltid å oppdrive i Norge**, og syltet er ikke en erstatning – se samme problemstilling i [pico de gallo (T20)](#t20-pico-de-gallo). Vanlig grønn chili fungerer, men styrken varierer mye, så smak på en bit før du doserer tre av dem. Kilden opplyser at søt paprika også går, men da forsvinner hele poenget med retten.
 - **Styrken styres av frøene.** Kilden fjerner dem og beskriver resultatet som «mildt sterkt her og der». Vil du ha futt, la noen frø være igjen. Bruk hansker – tre finhakkede jalapeño er nok til at hendene svir lenge etterpå.
 - **Kremosten bør være romtemperert**, ellers lar den seg ikke røre jevnt med resten. Bruk naturell fullfett, ikke smakstilsatt.
 - **Melken tynner ut fyllet** så det blir silkeaktig etter steking. Den kan sløyfes, eller byttes med fløte eller rømme. Norsk rømme er fetere og tykkere enn amerikansk sour cream, så bruk litt mindre.
 - **Kan forberedes, men ikke ferdig.** Fyllet kan lages dagen før, og koppene kan forstekes 1–2 dager i forveien – men fyll dem først rett før de skal i ovnen. Fylte kopper som står, blir bløte i bunnen. Alt dette står i kildens kommentarfelt, ikke i oppskriften.
 - **Minimuffinsform gir 24 mindre biter** i stedet for 12 – et godt selskapsformat, ifølge en leser.
 - **Holdbarhet:** 4 dager i kjøleskap i tett boks. Varmes opp på 175 °C i ovn eller 165 °C i airfryer i 5–10 minutter, men de blir aldri like sprø som nystekte.
-- **Samlingens andre «kopp»-smårett** er [sushikopper med reker](#s6-sushikopper-med-reker) – samme idé om spiselig form fylt med noe kremet, men kald og japansk-inspirert der denne er varm og amerikansk.
+- **Sammenlign med** [sushikopper med reker (S6)](#s6-sushikopper-med-reker) – samme idé om spiselig form fylt med noe kremet, men kald og japansk-inspirert der denne er varm og amerikansk.
 
 ---
 
@@ -20644,11 +20644,11 @@ Sprø utenpå, saftige inni. Potetmos og plukket oksehalekjøtt formet til bolle
 - **Ett egg, skilt.** Kilden oppgir ½ egg i farsen og ½ egg til paneringen. Her er egget skilt i stedet: plommen binder farsen, og hviten holder pankoen på plass. Blir farsen for løs, tilsett en ekstra spiseskje potetmel. *(Justert.)*
 - **Potetene må dampe seg tørre.** Dette er det viktigste steget for at krokettene skal holde formen. Våt potetmos gir en farse som sprekker i frityren, og da renner alt ut i oljen. La dem stå i den varme kjelen et par minutter etter avrenning, og mos dem først når dampen har lagt seg.
 - **Farsen skal være kald når den formes og paneres.** Halvtimen i kjøleskapet er et minimum – en time er bedre, og ligger de i fryseren i 15 minutter rett før panering, holder de seg enda bedre sammen. *(Lagt til.)*
-- **Melne potetsorter** er mandelpotet, pimpernell, Kerrs Pink, Ringerikspotet og gulløye, ifølge kilden. Faste sorter som Asterix og Beate gir en klissete mos som ikke fungerer her.
+- **Melne potetsorter** er mandelpotet, Pimpernel, Kerrs Pink, Ringerikspotet og Gulløye, ifølge kilden. Faste sorter som Asterix gir en klissete mos som ikke fungerer her. *(Kilden nevner også Beate som fast, men den regnes vanligvis som melen.)*
 - **Spar på kraften fra oksehalen.** Kilden er tydelig på dette, og med god grunn – braisert oksehalekraft er noe av det beste du kan ha på lur. Den hører hjemme i [fransk løksuppe (SU5)](#su5-fransk-løksuppe), [fransk løksuppe – Géraldine sin versjon (SU11)](#su11-fransk-løksuppe--géraldine-sin-versjon) eller [boeuf bourguignon (nr. 115)](#115-boeuf-bourguignon).
 - **2 cm olje er minimum, ikke anbefaling.** Bollene skal helst flyte fritt. Bruk heller 4–5 cm i en høy gryte, og friter i små puljer – legger du i for mange samtidig, faller temperaturen og krokettene suger olje. *(Lagt til.)*
 - **Dobbel panering gir tryggere resultat.** Kjør mel–eggehvite–panko, og deretter egg–panko en gang til (da trengs ett egg til). Krokettene blir sprøere og risikoen for at de sprekker faller merkbart. *(Lagt til.)*
-- **Limemajonesen blir bedre av hjemmelaget majones**, noe kilden også påpeker – se [T122](#t122-majones). Rør inn limeskallet et kvarter før servering, så trekker aromaen ut i majonesen. Sammenlign med yuzumajonesen i [T19](#t19-sprø-potetsalat-med-yuzumajones).
+- **Limemajonesen blir bedre av hjemmelaget majones**, noe kilden også påpeker – se [majonesen (T122)](#t122-majones). Rør inn limeskallet et kvarter før servering, så trekker aromaen ut i majonesen. Sammenlign med yuzumajonesen i [sprø potetsalat (T19)](#t19-sprø-potetsalat-med-yuzumajones).
 - **Kan fryses ferdig panert.** Friter dem da rett fra frossen på **170 °C** og regn 1–2 minutter ekstra, så de blir gjennomvarme uten at pankoen brenner. Ferdig friterte kroketter friskes opp 5–6 minutter i ovn på 200 °C. *(Presisering lagt til.)*
 
 ---
@@ -20676,13 +20676,13 @@ Saltmandlene som står på bordet på ethvert spansk tapassted. Fire steg, ingen
 
 - **«Kok» og «skåld» er samme operasjon.** Kilden lister dem som to steg, men skålding *er* å koke kort og dra av skallet. Ett minutt i kokende vann, deretter kaldt vann, og skallet spretter av når du klemmer. *(Presisering lagt til.)*
 - **Ferdig skåldede mandler finnes i norske butikker** og kutter hele steg 1. De selges som «skåldede mandler» eller «blancherte mandler» og er et fullgodt utgangspunkt. *(Alternativ lagt til.)*
-- **Mandlene må være knusktørre før de går i oljen.** Dette er det eneste stedet oppskriften kan gå virkelig galt: vann i 160-gradig olje spruter kraftig, og fuktige mandler blir seige i stedet for sprø. Tørk dem godt, og la dem gjerne ligge 10 minutter i ovnen på 100 °C for å være sikker. *(Sikkerhets- og teknikknotat lagt til.)*
+- **Mandlene må være knusktørre før de går i oljen.** Dette er det eneste stedet oppskriften kan gå virkelig galt: vann i olje på 160 °C spruter kraftig, og fuktige mandler blir seige i stedet for sprø. Tørk dem godt, og la dem gjerne ligge 10 minutter i ovnen på 100 °C for å være sikker. *(Sikkerhets- og teknikknotat lagt til.)*
 - **160 °C er bevisst lavt.** Mandler brenner raskt og skal varmes gjennom, ikke bare få farge på overflaten. Regn **3–4 minutter**, og rør hele tiden. *(Tidsanslag lagt til.)*
 - **Ta dem opp litt før de ser ferdige ut.** Nøtter fortsetter å mørkne av ettervarmen etter at de er tatt ut av oljen, og brente mandler er bitre og ikke til å redde. Sikt mot lys gyllen, ikke gyllenbrun, i selve oljen.
 - **Salt mens de er varme.** Saltet fester seg bare i den tynne oljefilmen på overflaten – har mandlene rukket å avkjøles, faller det av. Bruk flaksalt, som gir tydelige saltkorn i stedet for jevn salthet.
 - **Friter i puljer.** For mange mandler samtidig senker oljetemperaturen og gir ujevn steking.
 - **Marconamandler er den spanske originalen** – rundere, mykere og søtere enn vanlige mandler, og verdt å se etter i delikatessebutikker. Vanlige mandler fungerer helt fint, men blir litt fastere.
-- **Olivenolje gir mer spansk karakter**, men bruk vanlig, ikke ekstra virgin – den sistnevnte tåler ikke 160 °C godt og blir bitter. Se notatet i [T122](#t122-majones) om samme problem.
+- **Olivenolje gir mer spansk karakter**, men bruk vanlig, ikke ekstra virgin – den sistnevnte tåler ikke 160 °C godt og blir bitter. Se notatet i [majonesen (T122)](#t122-majones) om samme problem.
 - **Variasjoner:** vend de varme mandlene i ½ ts røkt paprikapulver sammen med saltet, eller friter et par kvister rosmarin i oljen de siste 30 sekundene og smuldre dem over. *(Lagt til.)*
 - **Oppbevaring:** helt avkjølt i tett glass i romtemperatur, 2 uker. De blir bløte av fuktighet, så ikke kjøleskap.
 - **Passer på tapasbordet** sammen med [hummus (T40)](#t40-hummus) eller [ovnsbakt paprika- og tomatsalat (T41)](#t41-ovnsbakt-paprika--og-tomatsalat-med-bocconcini), og ved siden av [kroketter med oksehale (S11)](#s11-kroketter-med-oksehale).
