@@ -14714,8 +14714,8 @@ Klassisk napakålkimchi med chilipasta av koreansk pære, hvitløk, ingefær og 
 - 1 koreansk pære
 - 6 hvitløksfedd
 - 5 cm ingefær, skrellet
-- 60 ml fiskesaus
-- 80 ml koreansk chiliflak (gochugaru)
+- 4 ss fiskesaus
+- ca. 35 g koreansk chiliflak (gochugaru)
 
 ### Fremgangsmåte
 
@@ -14739,7 +14739,7 @@ Klassisk napakålkimchi med chilipasta av koreansk pære, hvitløk, ingefær og 
 - **Luft ut glasset daglig.** Fermenteringen produserer CO₂, og et tett glass kan bygge opp betydelig trykk. Derfor også lufterommet i punkt 7.
 - **Grønnsakene må stå under laken.** Det som stikker opp i luft, mugner. Press ned med en ren stein, et lite glass eller et kålblad.
 - **Koreansk pære (nashi)** finnes i asiatiske butikker og av og til i større dagligvarebutikker. Erstatt med en fast, saftig vanlig pære eller et halvt eple — pæren bidrar med sukker som gjæringen lever av, så den kan ikke sløyfes helt.
-- **Gochugaru, ikke andre chiliflak.** Samme poeng som i [agurksalaten](#t6-koreansk-sterk-agurksalat-oi-muchim): koreansk chiliflak er mildere og søtere, og gir fargen. 80 ml er ca. 30–35 g.
+- **Gochugaru, ikke andre chiliflak.** Samme poeng som i [agurksalaten](#t6-koreansk-sterk-agurksalat-oi-muchim): koreansk chiliflak er mildere og søtere, og gir fargen. Kilden oppgir 80 ml, altså ca. 30–35 g.
 - **Fiskesausen kan byttes** med lys soyasaus eller misopasta for vegetarversjon, men smaken blir grunnere.
 - **Holdbarhet:** flere måneder i kjøleskap, og den fortsetter å syrne sakte. Blir den for sur til å spises som den er, er den perfekt til kimchistuing, kimchistekt ris eller [cheesy koreansk ramen](#25-cheesy-koreansk-ramen).
 - **Til forskjell fra [T6](#t6-koreansk-sterk-agurksalat-oi-muchim)** er dette faktisk fermentert. T6 er en fersk salat som bare heter kimchi.
@@ -14756,9 +14756,9 @@ Bløtkokte egg som trekker i søtet soyalake til plommen er klissete og gyllen. 
 
 - 6 egg, størrelse M *(se notat om eggstørrelse)*
 - Eddik til kokevannet *(valgfritt — 2 ss per 1,2–1,4 liter vann)*
-- 120 ml lettsaltet soyasaus *(se notat)*
-- 60 ml vann
-- 60 ml mirin
+- 1,2 dl lettsaltet soyasaus *(se notat)*
+- 4 ss vann
+- 4 ss mirin
 - 2 ss sukker
 
 ### Fremgangsmåte
@@ -14774,7 +14774,7 @@ Bløtkokte egg som trekker i søtet soyalake til plommen er klissete og gyllen. 
 - **Eggstørrelsen er viktigere enn den ser ut.** Kildens 6 minutter gjelder amerikanske «large» egg rett fra kjøleskapet, som veier rundt 55 g — det tilsvarer norske **M**, ikke L. Bruker du norske L-egg (63–73 g), legg til rundt 30 sekunder. Ellers får du en løsere plomme enn tiltenkt.
 - **Eggene skal rett fra kjøleskapet** i kokende vann. Romtemperert egg blir mer kokt på samme tid.
 - **Oppskriften forutsetter lettsaltet soyasaus.** Bruker du vanlig, blir laken for salt — reduser soyasausen med et par spiseskjeer og spe med tilsvarende mer vann.
-- **Eggene må ligge under laken.** 240 ml væske dekker sjelden seks egg i en vid boks. Legg et stykke plastfolie rett på overflaten, eller marinér i en tett pose der laken presses inntil. Alternativet er å snu eggene med jevne mellomrom.
+- **Eggene må ligge under laken.** Knappe 2,5 dl væske dekker sjelden seks egg i en vid boks. Legg et stykke plastfolie rett på overflaten, eller marinér i en tett pose der laken presses inntil. Alternativet er å snu eggene med jevne mellomrom.
 - **Marineringen skal skje i kjøleskap**, ikke på benken.
 - **Ikke gjenbruk laken til en ny runde egg.** Kilden fraråder det av hensyn til mattrygghet, og smaken blir uansett tynnere for hver gang. Restlaken er derimot utmerket i wok eller stekte retter, innen en uke.
 - **Ta eggene ut av laken etter senest 36 timer.** Blir de liggende, blir de både for salte og seige i hviten.
@@ -14833,15 +14833,15 @@ Hjemmelaget chili crisp med sprø hvitløk og sjalottløk. Løken frityrstekes f
 
 ### Ingredienser
 
-- 700 ml nøytral olje *(se notat om oljetype)*
+- 7 dl nøytral olje *(se notat om oljetype)*
 - 2 store sjalottløk, i skiver
 - 12 hvitløksfedd, i skiver
-- ca. 3,5 dl sichuan-chiliflak *(se notat)*
+- ca. 120 g sichuan-chiliflak *(se notat)*
 - 1 ss sesamfrø
-- ½ ss salt
-- ½ ss sukker
+- 1½ ts salt
+- 1½ ts sukker
 - 2 ss soyasaus
-- ½ ss sesamolje
+- 1½ ts sesamolje
 
 ### Fremgangsmåte
 
@@ -14855,9 +14855,9 @@ Hjemmelaget chili crisp med sprø hvitløk og sjalottløk. Løken frityrstekes f
 
 - **Hell den varme oljen over i flere omganger.** 190 gradig olje over tørre chiliflak bruser voldsomt opp de første sekundene. Bruk en bolle som er minst dobbelt så stor som du tror du trenger, sett den i vasken, og hell sakte. Dette er punktet der det går galt.
 - **Løken skal tas opp mens den fortsatt er lyst gyllen.** Den etterstekes i egen restvarme og blir mørkere etter at den er silt fra. Venter du til den er brun i kjelen, smaker den brent i den ferdige oljen. Kilden sier «høy varme» — middels varme gir deg langt bedre kontroll, særlig fordi hvitløk brenner før sjalottløken er ferdig.
-- **Chiliflakene avgjør alt.** Sichuan-chiliflak er milde og aromatiske, ikke brennsterke. Bytter du til cayenne eller vanlige knuste chiliflak i samme mengde, får du noe helt annet og langt sterkere. 3,5 dl er et volummål — vekten varierer mye med hvor grovt flakene er malt.
+- **Chiliflakene avgjør alt.** Sichuan-chiliflak er milde og aromatiske, ikke brennsterke. Bytter du til cayenne eller vanlige knuste chiliflak i samme mengde, får du noe helt annet og langt sterkere. Kilden oppgir 3,5 dl; vekten varierer mye med hvor grovt flakene er malt, så 120 g er et anslag.
 - **Soyasausen inneholder vann**, og det har to følger: den spruter når den treffer varm olje, så la blandingen falle til ro først, og den forkorter holdbarheten. **Oppbevar oljen i kjøleskap** og bruk den innen noen uker. Vil du ha en oljeblanding som står lenge i romtemperatur, sløyf soyasausen.
-- **Oljetypen i kilden er en betalt annonse.** Innlegget er merket som samarbeid og anbefaler et bestemt merke avokadoolje. Enhver nøytral olje med høyt røykpunkt gjør samme nytte — rapsolje, solsikkeolje eller peanøttolje. Med 700 ml i oppskriften utgjør prisforskjellen mye.
+- **Oljetypen i kilden er en betalt annonse.** Innlegget er merket som samarbeid og anbefaler et bestemt merke avokadoolje. Enhver nøytral olje med høyt røykpunkt gjør samme nytte — rapsolje, solsikkeolje eller peanøttolje. Med 7 dl i oppskriften utgjør prisforskjellen mye.
 - **Sørg for at all løken er dekket av olje** i det ferdige glasset. Biter som stikker opp i luft, blir bløte og harskner først.
 - **Bruk et rent, tørt glass.** Vann i glasset forkorter holdbarheten ytterligere.
 - **Mengden er ikke oppgitt**, men oppskriften gir omtrent en liter. Det er mye — halver gjerne første gang.
@@ -14875,11 +14875,11 @@ Potetbiter brunet i panna og deretter kokt inn i en søtsalt soyalake til den ty
 
 - 450 g fastkokende poteter, vasket og skrelt
 - 1 ss nøytral olje
-- 60 ml lys soyasaus
+- 4 ss lys soyasaus
 - 2 ss mirin
 - 1 ss sukker
 - 2 hvitløksfedd, finhakket
-- 160 ml vann
+- 1,6 dl vann
 - 1 ts sesamolje
 - 1 ss sesamfrø
 
@@ -14897,7 +14897,7 @@ Potetbiter brunet i panna og deretter kokt inn i en søtsalt soyalake til den ty
 - **Motsatt vei:** blir sausen borte før potetene er møre, spe med et par desiliter vann til og kok videre. Det står i kildens egne notater.
 - **Skjær bitene like store.** Ujevne biter gir noen som er most og noen som er rå når sausen er ferdig.
 - **«Lys soyasaus» betyr her helt vanlig allround soyasaus**, ikke lettsaltet. Merk at det motsatte gjelder i [den koreanske kyllingburgeren](#53-koreansk-kyllingburger), der samme engelske uttrykk brukes om lettsaltet soya. Sjekk alltid hva kilden mener.
-- **Retten er salt.** 60 ml soyasaus på 450 g poteter gir rundt 880 mg natrium per porsjon. Den er ment som banchan i små mengder ved siden av annen mat, ikke som hovedtilbehør i store porsjoner.
+- **Retten er salt.** 4 ss soyasaus på 450 g poteter gir rundt 880 mg natrium per porsjon. Den er ment som banchan i små mengder ved siden av annen mat, ikke som hovedtilbehør i store porsjoner.
 - **Ikke bruk olivenolje** til bruningen — kilden er uttrykkelig på det. Raps-, solsikke- eller avokadoolje.
 - **Mangler du mirin**, kan du bruke tilsvarende mengde sukker eller sirup.
 - **Holdbarhet:** 3–4 dager i tett boks. Serveres kald på koreanske restauranter, men kan varmes. Ikke frys — potetene blir grøtete.
@@ -14955,7 +14955,7 @@ Grunnpesto med basilikum, pinjekjerner, hvitløk og parmesan. Kjøres bevisst ik
 
 - 1 bunt basilikum, plukket og vasket *(ca. 50–60 g blader)*
 - 1 hvitløksfedd
-- 120 ml olivenolje
+- 1,2 dl olivenolje
 - 30 g ristede pinjekjerner
 - 20 g parmesan, revet
 - Salt
@@ -15026,9 +15026,9 @@ Ekte aioli, uten egg. Hvitløken støtes til en helt glatt pasta i morter, og ol
 ### Ingredienser
 
 - 4 hvitløksfedd, skrelt
-- Saften av ½ sitron — ca. 20 ml *(mengde lagt til)*
+- Saften av ½ sitron *(mengde lagt til)*
 - Salt etter smak — start med ¼ ts *(mengde lagt til)*
-- 80 ml olivenolje
+- 75 g olivenolje
 
 ### Fremgangsmåte
 
@@ -15044,7 +15044,7 @@ Ekte aioli, uten egg. Hvitløken støtes til en helt glatt pasta i morter, og ol
 - **Rekkefølgen i kilden er den vanskeligste varianten.** Sitronsaften går i før oljen, altså før emulsjonen har tatt tak. Væske tidlig gjør en eggfri emulsjon mer ustabil, og tradisjonell allioli lages med hvitløk, salt og olje alene – syren kommer eventuelt til slutt. Følger du kilden og den ikke vil ta seg, er det nesten alltid dette som er årsaken. Hold da igjen halve sitronsaften til emulsjonen er etablert.
 - **Her er ekstra virgin olivenolje riktig valg**, i motsetning til i [majonesen](#t122-majones). Forskjellen er redskapet: en stavmikser sprenger olivenoljens polyfenoler og gjør den bitter, mens mortelen ikke gjør det. Bruk en olje du liker smaken av – den er halve retten.
 - **Fjern den grønne spiren i feddene.** Hvitløk som har begynt å spire er bitter og harsk, og i en saus med fire fedd og ingenting å gjemme seg bak, kjennes det godt. Del feddet på langs og pirk ut kimen. Fersk, fast hvitløk gir også mer av slimstoffet som får emulsjonen til å holde.
-- **80 ml olje til 4 fedd er i overkant, men gjennomførbart.** Hvitløk alene emulgerer langt dårligere enn eggeplomme, og jo mer olje du presser inn, desto mer skjør blir sausen. Ta det virkelig langsomt de første 20 millilitrene.
+- **75 g olje til 4 fedd er i overkant, men gjennomførbart.** Hvitløk alene emulgerer langt dårligere enn eggeplomme, og jo mer olje du presser inn, desto mer skjør blir sausen. Ta det virkelig langsomt med den første spiseskjeen.
 - **Slik redder du en skilt aioli:** støt et nytt fedd med salt i en ren morter, og spe den skilte blandingen ned i det, litt om gangen. Vil den fortsatt ikke, redder en eggeplomme den – men da har du hvitløksmajones, ikke aioli. *(Lagt til; kilden sier ingenting om hva du gjør når den skiller seg.)*
 - **Holdbarhet:** 2–3 dager i kjøleskap i tett glass. Emulsjonen er mindre stabil enn majones og kan skille seg – rør den sammen igjen. La den ikke stå framme i romtemperatur over tid; rå hvitløk i olje er ikke noe du vil oppbevare lunkent. *(Lagt til.)*
 - **Serveres til** grillet og stekt kjøtt, fisk, skalldyr, stekt potet, grønnsaker og som dipp til brød. Den tåler ikke oppvarming – rør den inn etter at retten er tatt av varmen, eller server den ved siden av.
@@ -15105,7 +15105,7 @@ Tykke potetskiver som først brunes hardt i panne, bastes i skummende smør med 
 - 3 ss olje
 - Salt etter smak — ca. ½ ts *(mengde lagt til)*
 - 60 g smør
-- 400 ml kyllingkraft
+- 4 dl kyllingkraft
 - 3 hvitløksfedd, knust
 - 2 kvister rosmarin
 
@@ -15123,7 +15123,7 @@ Tykke potetskiver som først brunes hardt i panne, bastes i skummende smør med 
 
 - **Kilden sier aldri at potetene skal skrelles.** Steg 2 nevner bare skjæring og avrunding av kantene med skreller, og steg 3 skylling. Fondantpoteter skrelles alltid – skallet blir seigt i braiseringen og ødelegger den glatte overflaten retten er ute etter. Skrell dem før du skjærer.
 - **Gourmandine finnes ikke i norske butikker.** Det er en fransk allroundpotet med fast, fin konsistens. Her hjemme er utfordringen at de store potetene ofte er de melne: Asterix og Beate er store nok, men Beate og Kerrs Pink faller fra hverandre i løpet av 40 minutter i kraft. Velg heller de største **fastkokende** du finner – Folva eller Laila – og godta at skivene blir mindre. Må du bruke Asterix, sjekk dem etter 30 minutter.
-- **Kraften skal ikke dekke potetene.** 400 ml er riktig i en trang panne der væsken når omtrent halvveis opp på skivene; i en vid panne blir det bare en hinne, og potetene damper ikke ferdig. Toppen skal stikke opp og fortsette å brune mens bunnen braiserer. Juster mengden etter pannen din, ikke etter tallet.
+- **Kraften skal ikke dekke potetene.** 4 dl er riktig i en trang panne der væsken når omtrent halvveis opp på skivene; i en vid panne blir det bare en hinne, og potetene damper ikke ferdig. Toppen skal stikke opp og fortsette å brune mens bunnen braiserer. Juster mengden etter pannen din, ikke etter tallet.
 - **Pannen må tåle ovn.** Kilden sier «minst 10 cm dyp», men ikke noe om at den skal settes i 180 grader – bruk støpejern eller en stekepanne med metallhåndtak, og husk grytelapp når den kommer ut. *(Lagt til.)*
 - **Skylling og tørking er ikke pynt.** Skyllingen tar vekk overflatestivelsen, tørkingen sørger for at de bruner i stedet for å dampe og klistre seg fast. Hopp over det, og de setter seg i pannen.
 - **Smøret går i etter vendingen, ikke før.** Poteten brunes først i olje, som tåler den høye varmen. Smøret kommer inn når varmen er moderert og gir nøttesmak og basting. Går det for varmt, svir smørets melkeproteiner seg og bastingen smaker brent.
