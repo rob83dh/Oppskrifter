@@ -13898,7 +13898,7 @@ Forkokte rødbeter med tomat, ingefær og vineddik. Serveres med en dillrømme r
 ### Ingredienser
 
 - 300 g rødbeter, kokt eller bakt og uten skall
-- 1–2 gul løk eller salatløk
+- 1–2 gule løk eller salatløk
 - 3–4 middels store tomater
 - 2 ss olivenolje
 - 3 ss vineddik
@@ -13971,7 +13971,7 @@ To hundre gram parmesan i to omganger, kokt ut i melk, fløte og kyllingkraft.
 - **Konstant omrøring er ikke valgfritt.** Ost og melk brenner seg i bunnen i løpet av minutter, og brent parmesan ødelegger hele gryta.
 - **Denne bruker parmesanen selv, ikke skorpene.** Den vanlige italienske metoden er å koke ut oppsparte skorper. Her går 200 gram ost rett i – langt dyrere, og langt kraftigere.
 - **Kildens forslag til topping:** brødkrutonger, gressløk og stekt pancetta eller sideflesk.
-- **Beslektet:** [SU17](#su17-kremet-hvitbønnesuppe-med-parmesan) og [SU26](#su26-hellstrøms-blomkålsuppe-med-parmesan) er samlingens andre parmesansupper.
+- **Beslektet:** [SU17](#su17-kremet-hvitbønnesuppe-med-parmesan) og [SU26](#su26-hellstrøms-blomkålsuppe-med-parmesan) er andre parmesansupper i samlingen.
 
 ---
 
@@ -13997,7 +13997,7 @@ Halvparten av tomatene bakes i ovnen før alt kjøres kaldt. Vannmelon kan ersta
 
 ### Fremgangsmåte
 
-1. **Del cherrytomatene i to**, ha dem i en stekepanne med litt olivenolje, og sett dem i ovnen på **ca. 180 grader i ca. en halvtime**.
+1. **Del cherrytomatene i to**, ha dem i en stekepanne med litt olivenolje, og sett dem i ovnen på **ca. 180 °C i ca. en halvtime**.
 2. **Rens hvitløk, løk, agurk og paprika.** Fjern kjernen i paprikaen.
 3. **Del klasetomatene i fire** og bland dem med de bakte cherrytomatene.
 4. **Del løken og agurken grovt.**
@@ -14045,7 +14045,7 @@ Fem ingredienser. En fjerdedel av tomatene tørkes i ovnen og brukes som garnity
 - **Tomatene kokes aldri hele.** De kjøres til juice først, som betyr at suppen koker inn på minutter i stedet for i en time. Konsistensen styres av innkokingen alene.
 - **De tørkede tomatene er garnityr, ikke ingrediens.** De går ikke i suppen; de legges på toppen som konsentrert smak og tekstur.
 - **Silingen mens den er varm** er lettere enn kald – væsken er tynnere og renner raskere gjennom sikten.
-- **Beslektet:** Samlingens andre tomatsupper er [av ovnsbakte tomater (SU6)](#su6-tomatsuppe-av-ovnsbakte-tomater), [med grilled cheese (SU8)](#su8-tomatsuppe-med-grilled-cheese) og [Rajjekost sin versjon (SU18)](#su18-tomatsuppe-med-grilled-cheese--rajjekost-sin-versjon), og [Hellstrøms soltørkede tomater (T75)](#t75-hellstrøms-soltørkede-tomater) er tørketeknikken i full skala.
+- **Beslektet:** Andre tomatsupper i samlingen er [av ovnsbakte tomater (SU6)](#su6-tomatsuppe-av-ovnsbakte-tomater), [med grilled cheese (SU8)](#su8-tomatsuppe-med-grilled-cheese) og [Rajjekost sin versjon (SU18)](#su18-tomatsuppe-med-grilled-cheese--rajjekost-sin-versjon), og [Hellstrøms soltørkede tomater (T75)](#t75-hellstrøms-soltørkede-tomater) er tørketeknikken i full skala.
 
 ---
 
@@ -14211,7 +14211,7 @@ Aspargesen kokes hel og avkjøles i isvann. Toppene spares og legges i suppen ve
 - **Ertene går i helt til slutt.** De trenger under et minutt og bidrar med både farge og sødme.
 - **Poteten er jevningen.** Uten mel eller fløte er det potetstivelsen som gir suppen kropp. To middels poteter til en liter buljong er forholdet.
 - **Aspargesskrellet kan kokes ut til kraft** i stedet for å kastes – det gir en langt kraftigere aspargessmak enn grønnsakbuljong. *(Lagt til.)*
-- **Beslektet:** [T77](#t77-hellstrøms-grønne-ertepuré) bruker samme erter, og [nr. 145](#145-hvit-asparges-med-shiitake-og-brunet-hollandaise) er samlingens andre aspargesrett med hollandaise.
+- **Beslektet:** [T77](#t77-hellstrøms-grønne-ertepuré) bruker samme erter, og [nr. 145](#145-hvit-asparges-med-shiitake-og-brunet-hollandaise) er en annen aspargesrett, med hollandaise.
 
 ---
 
