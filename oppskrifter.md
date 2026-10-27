@@ -17971,14 +17971,14 @@ En majones bygget direkte på ansjos, grønn pepper, kapers og sylteagurk, spedd
 - 2 ss hakket sylteagurk
 - 1 ss hakket kapers
 - 2–3 ss hakket frisk persille
-- 1 ss cognac eller marc
+- 1 ss konjakk eller marc
 - 1 ss Worcestershiresaus
 - 3–4 dråper tabasco eller annen chilisaus
 
 ### Fremgangsmåte
 
 1. **Bland alle ingrediensene bortsett fra olivenoljen** i kjøkkenmaskin eller blender.
-2. **Kjør til god konsistens.**
+2. **Kjør til en jevn masse.**
 3. **Spe med olivenoljen, litt etter litt**, til en tykkere saus.
 
 ### Notater
@@ -17987,7 +17987,7 @@ En majones bygget direkte på ansjos, grønn pepper, kapers og sylteagurk, spedd
 - **Oljen må i langsomt.** To desiliter til to plommer er i overkant av hva en majones tåler. Går oljen for fort inn, skiller den seg – og da må du starte med en ny plomme og spe den skilte sausen inn i den.
 - **Ren olivenolje gir en kraftig saus.** Vil du ha den mildere, bytt halvparten mot en nøytral olje. Kilden gjør det ikke. *(Lagt til.)*
 - **Grønn pepper er ikke svart pepper.** Madagaskar-pepperkorn i lake er myke og fruktige, nærmest syltede. Erstatter du med malt svart pepper, blir sausen bare skarp.
-- **Beslektet:** [T122](#t122-majones) er grunnmajonesen, og [T15](#t15-aioli) er hvitløksversjonen.
+- **Beslektet:** [majonesen (T122)](#t122-majones) er grunnoppskriften, og [aioli (T15)](#t15-aioli) er hvitløksversjonen.
 
 ---
 
@@ -18004,7 +18004,7 @@ Cæsardressing uten egg og olje. Tykk yoghurt bærer 150 g parmesan, 10–12 ans
 - 150 g revet parmesan
 - 50 g kapers i eddik
 - 2 ss dijonsennep
-- 1–2 hvitløkfedd
+- 1–2 hvitløksfedd
 - Saften fra ½ sitron
 - Et dryss salt
 - 2–3 dråper tabasco
@@ -18017,12 +18017,12 @@ Cæsardressing uten egg og olje. Tykk yoghurt bærer 150 g parmesan, 10–12 ans
 
 ### Notater
 
-- **Dette er ikke dressingen i [SA7](#sa7-hellstrøms-cæsarsalat).** Samme bok, samme kokk, to helt ulike oppskrifter: salaten bruker en eggeplommeemulsjon med to oljer, denne bruker yoghurt og hverken egg eller olje. Velg etter hva du er ute etter – emulsjonen er rikere, yoghurten friskere og langt mer holdbar.
+- **Dette er ikke dressingen i [Hellstrøms cæsarsalat (SA7)](#sa7-hellstrøms-cæsarsalat).** Samme bok, samme kokk, to helt ulike oppskrifter: salaten bruker en eggeplommeemulsjon med to oljer, denne bruker yoghurt og verken egg eller olje. Velg etter hva du er ute etter – emulsjonen er rikere, yoghurten friskere og langt mer holdbar.
 - **Yoghurten går i sist, og med god grunn.** Kjøres den fra start, piskes den tynn av maskinen. Den skal bare vendes glatt til slutt.
 - **150 g parmesan er en stor mengde**, og det er den som gir sausen tykkelse i fravær av olje. Kutter du ned, blir dressingen løs.
 - **Kapersen kommer med eddiken sin.** Det er den eneste syren ved siden av sitronen, og grunnen til at oppskriften ikke trenger tilsatt eddik.
 - **Ingen rå egg gjør den langt mer holdbar** – regn med en uke i kjøleskap mot ett døgn for emulsjonen. *(Lagt til.)*
-- **Beslektet:** [nr. 156](#156-cæsarsalat-med-panert-kylling) er en tredje cæsardressing i samlingen.
+- **Beslektet:** [cæsarsalat med panert kylling (nr. 156)](#156-cæsarsalat-med-panert-kylling) har en annen cæsardressing.
 
 ---
 
@@ -18053,7 +18053,7 @@ Fire ingredienser skåret i små terninger. Ingen syre tilsatt – frukten står
 - **Fersk ananas, ikke hermetisk.** Hermetisk ananas ligger i sukkerlake og har mistet både syre og struktur.
 - **Mynte og koriander trekker i hver sin retning.** Mynte gir en kjølig, søtlig salsa som kler svinekjøtt; koriander gir en mer meksikansk profil som kler fisk og kylling.
 - **Lages rett før servering.** Salt trekker væske ut av frukten i løpet av en halvtime, og salsaen svømmer. *(Lagt til.)*
-- **Beslektet:** [T25](#t25-mango--og-avokadosalsa) er samme sjanger med avokado i stedet for ananas.
+- **Beslektet:** [mango- og avokadosalsa (T25)](#t25-mango--og-avokadosalsa) er samme sjanger med avokado i stedet for ananas.
 
 ---
 
@@ -18061,7 +18061,7 @@ Fire ingredienser skåret i små terninger. Ingen syre tilsatt – frukten står
 
 **Kilde:** Eyvind Hellstrøm, *Grunnboka* (Cappelen Damm, 2025) · **Kjøkken:** Meksikansk · **Tid:** 15 min · **Gir:** ca. 5 dl *(ikke oppgitt i kilden)*
 
-Guacamole uten tomat, løk og chili. Avokado, koriander, lime – og en knivspiss karri.
+Guacamole uten tomat, løk og chili. Avokado, koriander, lime – og en knivsodd karri.
 
 ### Ingredienser
 
@@ -18069,24 +18069,24 @@ Guacamole uten tomat, løk og chili. Avokado, koriander, lime – og en knivspis
 - 1 liten bunt frisk koriander
 - Saft og skall av 1–2 lime
 - Fingersalt
-- En knivspiss kajennepepper
-- En knivspiss karri
+- En knivsodd cayennepepper
+- En knivsodd karri
 
 ### Fremgangsmåte
 
 1. **Del avokadoene i to, vipp ut steinen**, skrap ut kjøttet med en skje og ha det i en bolle.
 2. **Riv limeskall på rivjern.**
-3. **Tilsett salt, kajennepepper, karri, limesaft og limeskall.**
+3. **Tilsett salt, cayennepepper, karri, limesaft og limeskall.**
 4. **Hakk frisk koriander** og bland med avokadokjøttet.
 5. **Bland alt godt med gaffel eller skje.** Har du kryddermorter, er det smart å knuse alle ingrediensene i den.
 
 ### Notater
 
-- **Karri i guacamole er kildens eget avvik**, og det er en liten mengde med stor effekt: gurkemeien og spisskummen i blandingen gir en jordaktig bunn avokado ellers mangler. Forvent ikke noe som smaker karri.
+- **Karri i guacamole er kildens eget avvik**, og det er en liten mengde med stor effekt: gurkemeien og spisskummen i blandingen gir en jordaktig bunn som avokado ellers mangler. Forvent ikke noe som smaker karri.
 - **Limeskallet, ikke bare saften.** Skallet bærer de aromatiske oljene; saften bærer bare syren. De fleste guacamoleoppskrifter bruker bare det siste.
 - **Faste avokadoer, ikke bløte.** Kilden spesifiserer det. Overmodne gir en grå, vandig mos uansett hvor godt du blander.
 - **Ingen tomat, løk eller chili** gjør dette til en langt renere avokadosmak enn folk forventer av guacamole – nærmere en krydret puré.
-- **Beslektet:** [T47](#t47-guacamole) er den klassiske versjonen med tomat, rødløk og jalapeño støtt i morter.
+- **Beslektet:** [Rajjekosts guacamole (T47)](#t47-guacamole) er den klassiske versjonen med tomat, rødløk og jalapeño støtt i morter.
 
 ---
 
@@ -18120,7 +18120,7 @@ Spinat forvellet ett minutt og mikset med nøttebrunt smør. En teskje sukker ba
 - **Sukkeret er ikke for sødme.** En teskje til 250 g demper den metalliske jernsmaken spinat har, uten at retten oppfattes som søt. Klassisk fransk grep.
 - **Nøttebrunt smør, ikke smeltet.** Melkeproteinene som brunes gir en nøtteaktig dybde som er hele smaksbunnen. Smeltet smør gir bare fett.
 - **«Server umiddelbart» er kildens instruks**, men den nevner selv at sausen kan avkjøles, oppbevares noen dager og varmes etter behov. Fargen blir da mattere.
-- **Beslektet:** [G5](#g5-hellstrøms-grønne-pastadeig) bruker spinatpuré i deig, og [T126](#t126-brunet-smør-og-ghee) er teknikken bak det nøttebrune smøret.
+- **Beslektet:** [grønn pastadeig (G5)](#g5-hellstrøms-grønne-pastadeig) bruker spinatpuré i deig, og [brunet smør og ghee (T126)](#t126-brunet-smør-og-ghee) er teknikken bak det nøttebrune smøret.
 
 ---
 
@@ -18151,7 +18151,7 @@ Jalapeño og koriander kjørt glatt med to eggeplommer og to desiliter olivenolj
 - **Bare bladene av korianderen.** Stilkene er fiberrike og gir en trevlete saus som ikke blir glatt uansett hvor lenge maskinen går. De har god smak, men hører hjemme i noe kokt.
 - **Rå eggeplommer betyr kort holdbarhet.** Kilden skriver flere dager i kjøleskap; regn med to–tre for sikkerhets skyld. *(Presisert.)*
 - **Kilden foreslår den** til grillede grønnsaker, grillet kjøtt og stekt fisk.
-- **Beslektet:** [T106](#t106-hellstrøms-grønne-olje) er samme grønnfarge uten egg, og [T96](#t96-hellstrøms-guacamole) er den andre grønne meksikanskinspirerte sausen i boka.
+- **Beslektet:** [grønn olje (T106)](#t106-hellstrøms-grønne-olje) har samme grønne farge uten egg, og [guacamolen (T96)](#t96-hellstrøms-guacamole) er den andre grønne, meksikansk-inspirerte sausen i boka.
 
 ---
 
@@ -18159,7 +18159,7 @@ Jalapeño og koriander kjørt glatt med to eggeplommer og to desiliter olivenolj
 
 **Kilde:** Eyvind Hellstrøm, *Grunnboka* (Cappelen Damm, 2025) · **Kjøkken:** Norsk · **Tid:** 15 min · **Porsjoner:** 4 *(ikke oppgitt i kilden)*
 
-Rørosrømme kokt inn og montert med hundre gram kaldt smør. Sennepen kommer i etter at kasserollen er av varmen.
+Rørosrømme kokt inn og montert med 100 g kaldt smør. Sennepen kommer i etter at kasserollen er av varmen.
 
 ### Ingredienser
 
@@ -18169,13 +18169,13 @@ Rørosrømme kokt inn og montert med hundre gram kaldt smør. Sennepen kommer i 
 - Saft fra ½ sitron
 - Estragon eller gressløk
 - Salt
-- Et dryss kajennepepper
+- Et dryss cayennepepper
 
 ### Fremgangsmåte
 
 1. **Kok Rørosrømmen i en kasserolle** til en litt tykkere konsistens.
 2. **Pisk inn kaldt smør i terninger mens det koker.**
-3. **Tilsett sitronsaft etter egen smak**, kajennepepper og salt.
+3. **Tilsett sitronsaft etter egen smak**, cayennepepper og salt.
 4. **Ta kasserollen av varmen** og visp inn dijonsennep og gressløk eller estragon.
 5. **Sausen skal ikke koke etter at sennepen er tilsatt.**
 
@@ -18185,7 +18185,7 @@ Rørosrømme kokt inn og montert med hundre gram kaldt smør. Sennepen kommer i 
 - **Rørosrømme er 35 % fett** og tåler koking uten å skille seg. Lettrømme eller crème fraîche med lavere fettinnhold ostner. Bytter du, velg noe med minst 30 %. *(Lagt til.)*
 - **Kaldt smør i kokende rømme** er samme montering som i en beurre blanc. Kaldt fett i varm væske under pisking gir en blank binding; romtemperert smør legger seg som en oljehinne.
 - **Estragon eller gressløk trekker i hver sin retning.** Estragon gir en fransk, anisaktig saus som kler kylling og fisk; gressløk gir en mildere, nordisk profil.
-- **Beslektet:** [T114](#t114-hellstrøms-beurre-blanc) bruker samme monteringsteknikk med vin i stedet for rømme.
+- **Beslektet:** [beurre blanc (T114)](#t114-hellstrøms-beurre-blanc) bruker samme monteringsteknikk med vin i stedet for rømme.
 
 ---
 
@@ -18198,7 +18198,7 @@ Fem ingredienser i maskinen. Ingen risting av pinjekjernene, ingen morter.
 ### Ingredienser
 
 - 1 bunt basilikum
-- 3–4 skrelte hvitløkfedd uten spiren
+- 3–4 skrelte hvitløksfedd uten spiren
 - 30 g parmesan
 - 2 ss pinjekjerner
 - 1 dl olivenolje
@@ -18210,7 +18210,7 @@ Fem ingredienser i maskinen. Ingen risting av pinjekjernene, ingen morter.
 ### Notater
 
 - **Spiren ut av hvitløken.** Med tre–fire fedd rå hvitløk i en kald saus er den grønne kimen tydelig bitter. Kilden nevner det i selve ingredienslisten, ikke bare i fremgangsmåten.
-- **Urisdede pinjekjerner.** Ristede gir en mørkere, nøtteaktigere pesto; rå gir en mildere og mer kremet en. Kilden velger det siste, i motsetning til de fleste.
+- **Uristede pinjekjerner.** Ristede gir en mørkere, mer nøtteaktig pesto; rå gir en mildere og mer kremet en. Kilden velger det siste, i motsetning til de fleste.
 - **«Glatt konsistens» er et valg.** Tradisjonell pesto støtes i morter og har tekstur. Maskinkjørt til glatt er en annen saus – jevnere, men uten de små bitene som fester seg til pastaen.
 - **Kilden kaller den «Pesto 1»** i boka, ved siden av «Pesto 2» med smør. Navnene er beskrivende her, siden nummereringen ikke sier noe utenfor boka. *(Presisert.)*
 - **Beslektet:** [Andy Cooks sin pesto (T13)](#t13-pesto) har ristede kjerner og bevisst tekstur, [med smør (T101)](#t101-hellstrøms-pesto-med-smør) er samme oppskrift med smør, og [pestosmør (T90)](#t90-hellstrøms-pestosmør) kombinerer begge.
@@ -18221,16 +18221,16 @@ Fem ingredienser i maskinen. Ingen risting av pinjekjernene, ingen morter.
 
 **Kilde:** Eyvind Hellstrøm, *Grunnboka* (Cappelen Damm, 2025) · **Kjøkken:** Italiensk · **Tid:** 10 min · **Gir:** ca. 2,5 dl *(ikke oppgitt i kilden)*
 
-Basilikum og hvitløk kjørt med hundre gram temperert smør. Ingen parmesan, ingen pinjekjerner.
+Basilikum og hvitløk kjørt med 100 g temperert smør. Ingen parmesan, ingen pinjekjerner.
 
 ### Ingredienser
 
 - 1 potte eller bunt basilikum
-- 3–4 skrelte hvitløkfedd uten spiren
+- 3–4 skrelte hvitløksfedd uten spiren
 - 100 g temperert smør
 - 1 dl olivenolje
 - Salt
-- Kajennepepper
+- Cayennepepper
 
 ### Fremgangsmåte
 
@@ -18238,10 +18238,10 @@ Basilikum og hvitløk kjørt med hundre gram temperert smør. Ingen parmesan, in
 
 ### Notater
 
-- **Uten parmesan blir dette en urtesmør, ikke en pesto.** Osten er det som gir vanlig pesto salt og umami. Her må saltet og kajennen gjøre hele jobben, og smaken blir renere basilikum.
+- **Uten parmesan blir dette et urtesmør, ikke en pesto.** Osten er det som gir vanlig pesto salt og umami. Her må saltet og cayennen gjøre hele jobben, og smaken blir renere basilikum.
 - **Temperert smør, ikke kaldt.** Kaldt smør i en maskin med olje gir klumper som aldri blir glatte.
-- **Den stivner i kjøleskapet.** Til forskjell fra [T100](#t100-hellstrøms-pesto) kan denne skjæres i skiver og legges på varm mat – som er hele poenget med smørandelen.
-- **Boka kaller den «Pesto 2».** Forskjellen fra [T90](#t90-hellstrøms-pestosmør) er at pestosmøret har både parmesan og pinjekjerner i tillegg. Tre beslektede oppskrifter i samme bok. *(Presisert.)*
+- **Den stivner i kjøleskapet.** Til forskjell fra [Hellstrøms pesto (T100)](#t100-hellstrøms-pesto) kan denne skjæres i skiver og legges på varm mat – som er hele poenget med smørandelen.
+- **Boka kaller den «Pesto 2».** Forskjellen fra [pestosmøret (T90)](#t90-hellstrøms-pestosmør) er at pestosmøret har både parmesan og pinjekjerner i tillegg. Tre beslektede oppskrifter i samme bok. *(Presisert.)*
 - **Beslektet:** [Hellstrøms pesto (T100)](#t100-hellstrøms-pesto), [pestosmør (T90)](#t90-hellstrøms-pestosmør) og [persillesmør (T111)](#t111-hellstrøms-persillesmør) er de nærmeste slektningene.
 
 ---
@@ -18271,8 +18271,8 @@ Tre urter og sitrusskall kjørt glatt med olivenolje. Ingen hvitløk.
 - **Klassisk gremolata har hvitløk, og denne har det ikke.** Den milanesiske originalen er persille, sitronskall og hvitløk, hakket tørt og strødd over osso buco. Her er hvitløken byttet mot mynte og basilikum, og alt er kjørt til en saus med olje.
 - **Kumquat er det mest interessante alternativet.** Hele frukten kan brukes – skallet er søtt og fruktkjøttet syrlig, motsatt av sitron. Får du tak i den, gir den en gremolata med langt mer sødme.
 - **Bare det gule av sitronskallet.** Det hvite under er bittert, og i en saus med bare ½ ts skall merkes det umiddelbart.
-- **Kilden kaller den en saus**, ikke et drys. Det er et brudd med tradisjonen, og betyr at den kan skjees ut ved siden av i stedet for å strøs over.
-- **Beslektet:** [T89](#t89-hellstrøms-sitron-i-salt) nevner gremolata som bruksområde, og [nr. 169](#169-braisert-lammeskank-med-gremolata) er retten den klassisk hører til.
+- **Kilden kaller den en saus**, ikke et dryss. Det er et brudd med tradisjonen, og betyr at den kan skjees ut ved siden av i stedet for å strøs over.
+- **Beslektet:** [sitron i salt (T89)](#t89-hellstrøms-sitron-i-salt) nevner gremolata som bruksområde, og [braisert lammeskank med gremolata (nr. 169)](#169-braisert-lammeskank-med-gremolata) er retten den klassisk hører til.
 
 ---
 
