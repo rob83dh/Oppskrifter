@@ -20702,8 +20702,8 @@ Ricotta kjørt glatt i foodprosessor og bredt ut på et fat, med en marinade av 
 - Salt og pepper
 
 **Marinerte oliven og topping**
-- 1 dl oliven uten stein, delte
-- ½ dl olivenolje av god kvalitet
+- ca. 60 g oliven uten stein, delte *(Omregnet fra 1 dl.)*
+- 3 ss + 1 ts olivenolje av god kvalitet *(Omregnet fra ½ dl.)*
 - 2 sjalottløk
 - 1 ts chiliflak
 - Revet skall av ½ appelsin
@@ -20724,12 +20724,12 @@ Ricotta kjørt glatt i foodprosessor og bredt ut på et fat, med en marinade av 
 
 ### Notater
 
-- **Frityroljen mangler i ingredienslisten.** Du trenger nok olje til å dekke løkringene – ca. 3 dl i en liten kjele. Den er ikke den samme som den ½ dl olivenoljen, som går i marinaden ubrukt. *(Lagt til.)*
+- **Frityroljen mangler i ingredienslisten.** Du trenger nok olje til å dekke løkringene – ca. 3 dl i en liten kjele. Den er ikke den samme som olivenoljen, som går ubrukt i marinaden. *(Lagt til.)*
 - **Sjalottløken skal tas opp mens den fortsatt er lys gyllen.** Den etterstekes kraftig i sin egen restvarme og blir mørkere etter at den er tatt opp – venter du til den er brun i kjelen, smaker den brent. La den renne av på papir og salt den med en gang. Samme fallgruve som i [T10](#t10-hvitløks-chiliolje-chili-crisp).
 - **Løken bør ikke marineres i olje hvis den skal være sprø.** Her ligger en innebygd konflikt i oppskriften: kilden ber deg friter løken og så legge den i oljeblandingen for å marinere. Den blir bløt i løpet av minutter. **Hold halvparten utenfor og strø den over helt til slutt** – da får du både smaken i oljen og crunchen på toppen. *(Justering lagt til.)*
 - **Ricottaen må være kald.** Kilden understreker det, og med god grunn: romtemperert ricotta blir grynete i stedet for glatt, og skiller seg lettere. Rett fra kjøleskapet.
 - **Norsk ricotta er våtere enn italiensk.** Er den løs, la den renne av i et kaffefilter eller klede i kjøleskapet i en time før du pisker den – ellers flyter den utover fatet i stedet for å holde formen. *(Lagt til.)*
-- **1 ts chiliflak er lite til ½ dl olje**, men chilien skal ligge i bakgrunnen her, bak appelsin og rosmarin. Vil du ha mer, øk heller til 1½ ts enn å bytte til en sterkere type.
+- **1 ts chiliflak er lite til drøye 3 ss olje**, men chilien skal ligge i bakgrunnen her, bak appelsin og rosmarin. Vil du ha mer, øk heller til 1½ ts enn å bytte til en sterkere type.
 - **Rosmarinen bør knuses eller varmes.** Hele kvister avgir lite på 20 minutter i kald olje. To alternativer: strip nålene og hakk dem fint, eller varm oljen forsiktig til ca. 70 °C med rosmarinen i og la den trekke mens den kjøles ned. Det siste gir mest aroma. *(Lagt til.)*
 - **Appelsinskallet skal rives fint og bare det ytterste laget.** Det hvite under er bittert, og i en så enkel rett merkes det med en gang.
 - **Honningen er ikke valgfri pynt.** Den er motvekten til salt oliven og chili, og er det som gjør retten til noe mer enn ost med olje på. Vær raus.
@@ -20787,17 +20787,17 @@ Tunfisksalat der majonesen er byttet mot en dressing av avokado og gresk yoghurt
 - 8 skiver brød
 - 2 bokser tunfisk i olje
 - 2 avokadoer
-- 1,2 dl gresk yoghurt
+- 120 g gresk yoghurt
 - 2 ts dijonsennep
 - Saften av ½ sitron
-- 0,5 dl cornichoner i terninger
+- ca. 30 g cornichoner i terninger *(Omregnet fra 0,5 dl.)*
 - 1 ss kapers
 - ¼ rødløk, finhakket
 - ⅓ jalapeño, finhakket
 - 2 ss hakket dill
 - 1 ss hakket persille
 - Salt og pepper
-- 20 g smør eller olje til steking *(mengde lagt til.)*
+- 1 ss smør eller olje til steking *(mengde lagt til)*
 
 ### Fremgangsmåte
 
@@ -20835,7 +20835,7 @@ Tapasklassikeren: en tykk bechamel med serranoskinke og løk, kjølt helt fast, 
 - 2 ss olivenolje
 - 50 g smør
 - 50 g hvetemel
-- 500 ml helmelk
+- 5 dl helmelk
 - 1 ts revet muskatnøtt
 - 1 ts salt
 - 1 ts hvit pepper
@@ -20851,7 +20851,7 @@ Tapasklassikeren: en tykk bechamel med serranoskinke og løk, kjølt helt fast, 
 1. **Sprøstek skinken** i 1 ss olivenolje og ta den ut av pannen.
 2. **Mykgjør løken** i samme panne i mer olivenolje, med en klype salt.
 3. **Lag jevningen.** Ha smøret i samme panne. Når det er smeltet, rør inn melet til en roux. La den steke ut i **3–4 minutter** før du begynner å tilsette melken.
-4. **Spe med melken**, **100 ml om gangen**, under kontinuerlig visping, så sausen blir helt glatt.
+4. **Spe med melken**, **1 dl om gangen**, under kontinuerlig visping, så sausen blir helt glatt.
 5. **Skinke og løk tilbake.** Rør dem inn og smak til med salt, hvit pepper og muskat.
 6. **Kjøl massen.** Bre den utover et brett, legg plastfolie løst over så den ikke tørker ut, og sett den kaldt.
 7. **Form krokettene.** *(Steget mangler i kilden – se notat.)* Del den kalde massen i like store biter og rull dem til sylindre eller kuler med lett fuktede hender.
@@ -20862,9 +20862,9 @@ Tapasklassikeren: en tykk bechamel med serranoskinke og løk, kjølt helt fast, 
 
 - **Kjølingen er det som avgjør om dette går bra.** Kilden sier «chill in a fridge» uten tid. Massen må være **helt gjennomkald og fast** – regn **minst 3 timer**, gjerne over natten. Er den lunken i midten, sprekker krokettene i frityren og fyllet renner ut. Bre den i et tynt lag, maks 2 cm, så går det raskere. *(Kritisk presisering lagt til.)*
 - **Formingen mangler i fremgangsmåten.** Punkt 7 hopper rett fra kald masse til panering. Del massen opp, form sylindre eller baller med lett fuktede hender, og legg dem på et brett før du panerer. *(Lagt til.)*
-- **50 g mel til 500 ml melk gir en tykk, men ikke fast bechamel.** Det er riktig for smaken – tynn bechamel gir det kremete, nesten flytende fyllet som kjennetegner en god croqueta – men det gjør massen krevende å håndtere. Er du usikker første gang, gå opp til **65 g mel**. Da blir de fastere og lettere, på bekostning av litt kremethet. *(Justering lagt til.)*
+- **50 g mel til 5 dl melk gir en tykk, men ikke fast bechamel.** Det er riktig for smaken – tynn bechamel gir det kremete, nesten flytende fyllet som kjennetegner en god croqueta – men det gjør massen krevende å håndtere. Er du usikker første gang, gå opp til **65 g mel**. Da blir de fastere og lettere, på bekostning av litt kremethet. *(Justering lagt til.)*
 - **Melet må stekes ut i 3–4 minutter.** Kilden er tydelig, og det er viktigere her enn i en vanlig saus: rått mel smaker tydelig gjennom i et fyll som skal spises som det er. Blandingen skal boble og lukte lett nøtteaktig, men ikke ta farge.
-- **100 ml om gangen, under kontinuerlig visping.** Heller du alt på én gang, får du klumper som ikke lar seg redde i en så tykk saus.
+- **1 dl om gangen, under kontinuerlig visping.** Heller du alt på én gang, får du klumper som ikke lar seg redde i en så tykk saus.
 - **Dobbel panering anbefales.** Kjør mel–egg–smuler, og deretter egg–smuler en gang til. Fyllet er flytende når det varmes opp, og ett lag panering er lite margin. Samme råd som i [S11](#s11-kroketter-med-oksehale). *(Lagt til.)*
 - **160 °C er lavere enn vanlig frityr, og med hensikt.** Fyllet er allerede ferdig – oljen skal bare gjøre paneringen sprø og varme kjernen. Høyere temperatur svir paneringen før midten er varm. Kildens 3–4 minutter per side er rikelig for kroketter på denne størrelsen; regn heller **2–3 minutter totalt** hvis de er små.
 - **Friter i små puljer.** For mange samtidig senker oljetemperaturen, og da suger paneringen olje.
@@ -20886,8 +20886,8 @@ Tapasklassikeren: en tykk bechamel med serranoskinke og løk, kjølt helt fast, 
 ### Ingredienser
 
 - 1 middels stor til stor rødskallet potet, skrellet
-- 15 g en raus klatt smør *(mengde lagt til.)*
-- 10 g en liten skvett olje *(mengde lagt til.)*
+- 1 ss smør *(mengde lagt til)*
+- 2 ts olje *(mengde lagt til)*
 
 **Topping**
 - Crème fraîche
@@ -20931,8 +20931,8 @@ Hjemmelaget kopi av McDonald's hashbrown, men i dobbel størrelse. Fire ingredie
 ### Ingredienser
 
 - 5 bakepoteter — ca. 1,2 kg
-- 1½ ss salt — ca. 27 g *(se notat)*
-- 30 g maisenna — ¼ cup
+- 1 ss + 1½ ts salt — ca. 27 g *(se notat)*
+- 30 g maisenna
 - 3 ss nøytral olje
 
 ### Fremgangsmåte *(delvis rekonstruert – se notat)*
@@ -20947,7 +20947,7 @@ Hjemmelaget kopi av McDonald's hashbrown, men i dobbel størrelse. Fire ingredie
 ### Notater
 
 - **Bare punkt 1 er kildens egen tekst.** Innlegget oppgir ingrediensene, antall stykker og første steg – resten av fremgangsmåten mangler i det jeg har fått tak i. Punkt 2–6 er rekonstruert etter standard metode for denne typen hashbrowns. **Verifiser mot videoen før du følger den.** *(Merknad lagt til.)*
-- **1½ ss salt er svært mye til 1,2 kg potet** – rundt 27 g, altså over 2 % av vekten. Sannsynligvis er mesteparten ment til kokevannet, ikke til selve massen. Salt kokevannet godt, og bruk **1 ts** i blandingen. Smak deg fram. *(Justering lagt til.)*
+- **1 ss + 1½ ts salt er svært mye til 1,2 kg potet** – rundt 27 g, altså over 2 % av vekten. Sannsynligvis er mesteparten ment til kokevannet, ikke til selve massen. Salt kokevannet godt, og bruk **1 ts** i blandingen. Smak deg fram. *(Justering lagt til.)*
 - **Forkokingen er det som skiller denne fra en rösti.** Rå revet potet – som i [S17](#s17-potetrösti-med-crème-fraîche-og-gochugaru) – gir en helt annen, mer trådete tekstur. Forkokte poteter gir den melne, sammenhengende innmaten McDonald's-hashbrownen er kjent for. Ikke kok dem helt møre; da faller de fra hverandre på rivjernet.
 - **Frysing før steking er ikke valgfritt.** Massen holder ikke formen på egen hånd, og en kald, fast blokk lar seg skjære i pene rektangler og går ikke i oppløsning i oljen. Minst en time. *(Lagt til.)*
 - **Isvannet i punkt 1** hindrer potetene i å mørkne mens du jobber. Med hele terninger skyller det bort lite stivelse, i motsetning til når man skyller revet potet.
@@ -20970,7 +20970,7 @@ Tapasklassikeren, men ovnsbakt i stedet for fritert. Potetene forvelles i vann m
 **Poteter**
 - 1,1 kg poteter, i terninger på ca. 2 cm
 - ½ ts natron
-- 60 ml olivenolje
+- 4 ss olivenolje
 - Salt og pepper
 - Hakket bladpersille til pynt *(valgfritt)*
 
@@ -20985,7 +20985,7 @@ Tapasklassikeren, men ovnsbakt i stedet for fritert. Potetene forvelles i vann m
 - Salt
 
 **Hvitløksmajones**
-- 60 ml majones av god kvalitet
+- 4 ss majones av god kvalitet
 - 1 hvitløksfedd, revet
 - 1 ts sitronsaft
 
