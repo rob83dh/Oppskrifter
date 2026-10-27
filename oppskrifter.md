@@ -17325,7 +17325,7 @@ Rødkål kokt i rødvin og sherryeddik, med tørket fiken og dadler som eneste s
 - 1 rødløk
 - 4 tørkede fiken
 - 2 dadler
-- ½ dl sherryeddik
+- 3 ss + 1 ts sherryeddik *(Omregnet fra ½ dl.)*
 - 2 dl rødvin
 - 1 dl olivenolje
 - Salt
@@ -17399,7 +17399,7 @@ Puy-linser kokt med kardemommefrø, montert med kaldt smør og en egen persillep
 - 1 squash
 - 1 stor bunt kruspersille
 - 50 g smør
-- ½ dl olivenolje
+- 3 ss + 1 ts olivenolje *(Omregnet fra ½ dl.)*
 - Gressløk eller andre milde urter til servering
 
 ### Fremgangsmåte
@@ -17503,11 +17503,11 @@ Gulrøttene kokes opp i blodappelsinsaft med spisskummen og koriander, og bakes 
 ### Ingredienser
 
 - ½ kg gulrøtter (helst nye)
-- ½ dl olivenolje
+- 3 ss + 1 ts olivenolje *(Omregnet fra ½ dl.)*
 - 2–3 hvitløkfedd
 - 2–3 blodappelsiner
 - 1 ss spisskummen
-- ½ ss malt koriander
+- 1½ ts malt koriander
 - Frisk koriander eller persille
 
 ### Fremgangsmåte
@@ -17615,7 +17615,7 @@ To ingredienser og én time. Løk karamellisert på svak varme i olje og smør t
 
 - 4–6 middels store løk
 - Olivenolje til steking
-- 15 g smør til steking *(mengde lagt til.)*
+- 1 ss smør til steking *(mengde lagt til)*
 
 ### Fremgangsmåte
 
