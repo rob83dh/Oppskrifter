@@ -8722,7 +8722,7 @@ Familieoppskrift på birria de res, kokt på tre kjøttstykker og margbein i nes
 - Ca. 1,8 kg short ribs
 - Ca. 1,4 kg oksehase
 - Ca. 900 g bein, helst med marg
-- Ca. 5,7 l vann
+- Ca. 6 liter vann
 - 1 løk
 
 **Adobo**
@@ -8759,7 +8759,7 @@ Familieoppskrift på birria de res, kokt på tre kjøttstykker og margbein i nes
 ### Notater
 
 - **Fremgangsmåten er rekonstruert, ikke gjengitt.** Kilden består utelukkende av ingredienslister. Rekkefølgen følger standard birria de res og speiler [nr. 116](#116-birria--meksikansk-braisert-oksekjøtt), som har fullstendig fremgangsmåte fra kilden. Verifiser gjerne mot videoen. *(Merknad lagt til.)*
-- **Dette er en enorm porsjon.** Nesten **7 kg kjøtt** og 5,7 liter vann – en festmengde til 15–20 personer, som forklarer «grandma approved». Til vanlig middag kan alt deles på fire uten at noe endres. *(Presisering lagt til.)*
+- **Dette er en enorm porsjon.** Nesten **7 kg kjøtt** og 6 liter vann – en festmengde til 15–20 personer, som forklarer «grandma approved». Til vanlig middag kan alt deles på fire uten at noe endres. *(Presisering lagt til.)*
 - **Metoden er en annen enn i [nr. 116](#116-birria--meksikansk-braisert-oksekjøtt).** Der brunes kjøttet først og braiseres i en tykk saus; her kokes det i vann fra start, slik at du får rikelig med tynn consomé. Det er den tradisjonelle taco-varianten – du trenger mye kraft for å dyppe. Vil du ha begge deler, brun kjøttet før det går i vannet.
 - **Margbeina er ikke pynt.** De er grunnen til at consoméen får kropp og det røde fettlaget på toppen som tortillaene dyppes i før de stekes til quesabirria. Uten dem blir kraften tynn. Bestill dem hos slakteren. *(Forklaring lagt til.)*
 - **Skum av de første 20 minuttene.** Sju kilo kjøtt gir mye protein­skum. Får det koke inn, blir consoméen grumsete i stedet for klar og dyp rød. *(Lagt til.)*
@@ -8836,11 +8836,11 @@ Vårrisotto der erter, aspargesstilker og ramsløk kokes og mikses til en knallg
 - 300 g arborio- eller carnaroliris
 - 1 liten sjalottløk, finhakket
 - 2 hvitløksfedd, finhakket
-- 150 ml tørr hvitvin
-- 1–1,2 l varm kylling- eller grønnsakskraft
+- 1,5 dl tørr hvitvin
+- 1–1,2 liter varm kylling- eller grønnsakskraft
 - 150 g frosne erter
 - 1–2 bunter asparges
-- 1 stor neve ramsløk
+- ca. 30 g ramsløk (en stor neve)
 - 50 g smør
 - 60 g parmesan, finrevet
 - 75 g mascarpone *(valgfritt – se notat)*
@@ -8882,7 +8882,7 @@ Bechamel med tre oster og svart trøffelpasta, gratinert til den er gyllen. Kort
 
 - 2 ss smør
 - 2 ss hvetemel
-- 600 ml melk
+- 6 dl melk
 - 1 liten neve revet cheddar — ca. 50 g
 - 1 liten neve revet Red Leicester — ca. 50 g
 - 1 liten neve revet mozzarella — ca. 50 g
@@ -8899,9 +8899,9 @@ Bechamel med tre oster og svart trøffelpasta, gratinert til den er gyllen. Kort
 
 ### Notater
 
-- **Makaronien mangler mengde**, og det er den bærende ingrediensen. Regn **300 g tørr makaroni** til 600 ml melk. Kok den 2 minutter kortere enn pakken sier – den koker videre i ovnen. *(Kritisk mangel – lagt til.)*
-- **2 ss mel til 600 ml melk gir en tynn saus.** Standard bechamel er 1 ss mel per 2,5 dl melk, altså **2,5 ss** her – og til mac and cheese vil du ha den tykkere, ikke tynnere. Bruk **3 ss smør og 3 ss mel**. Samme innvending som i [nr. 138](#138-kremet-soppkylling--zelavie14-sin-versjon). *(Justering lagt til.)*
-- **Ostemengdene er «små never».** Anslag: 50 g av hver, altså 150 g totalt til 600 ml melk. Det er i minste laget for en mac and cheese – [nr. 106](#106-mac-and-cheese) er langt osterikere. Doble gjerne.
+- **Makaronien mangler mengde**, og det er den bærende ingrediensen. Regn **300 g tørr makaroni** til 6 dl melk. Kok den 2 minutter kortere enn pakken sier – den koker videre i ovnen. *(Kritisk mangel – lagt til.)*
+- **2 ss mel til 6 dl melk gir en tynn saus.** Standard bechamel er 1 ss mel per 2,5 dl melk, altså mellom 2 og 3 ss her – og til mac and cheese vil du ha den tykkere, ikke tynnere. Bruk **3 ss smør og 3 ss mel**. Samme innvending som i [nr. 138](#138-kremet-soppkylling--zelavie14-sin-versjon). *(Justering lagt til.)*
+- **Ostemengdene er «små never».** Anslag: 50 g av hver, altså 150 g totalt til 6 dl melk. Det er i minste laget for en mac and cheese – [nr. 106](#106-mac-and-cheese) er langt osterikere. Doble gjerne.
 - **Red Leicester finnes ikke i norske butikker.** Den er mild, nøtteaktig og oransje. Nærmeste erstatning er en mild cheddar eller norsk Norvegia – fargen er det du mister. *(Erstatning lagt til.)*
 - **Trøffelpasta er dyrt, og 3–4 ss er mye.** Start med 2 ss og smak – trøffelaroma blir fort dominerende og kjemisk. De fleste rimelige trøffelpastaene er smaksatt med syntetisk 2,4-ditiapentan, ikke ekte trøffel; les innholdsfortegnelsen. *(Bakgrunn lagt til.)*
 - **Ta pannen av varmen før ostene går i.** Kilden sier det ikke, men ost i kokende bechamel skiller seg og blir trådete. *(Lagt til.)*
@@ -8924,10 +8924,10 @@ Liten britisk kyllingpai med bacon, purre og sopp i en fløtesaus med grovkornet
 - 1–2 hvitløksfedd
 - 15 g smør
 - 20 g hvetemel
-- 100 ml hvitvin
-- 200 ml kyllingkraft
-- En god skvett kremfløte
-- 1 neve kokt kylling i strimler, blanding av bryst og lår
+- 1 dl hvitvin
+- 2 dl kyllingkraft
+- 3–4 ss kremfløte *(Presisert fra «en god skvett».)*
+- ca. 100 g kokt kylling i strimler, blanding av bryst og lår
 - 1 ts grovkornet sennep
 - ½ ts fersk timian
 - 1 ts fersk persille
@@ -8950,7 +8950,7 @@ Liten britisk kyllingpai med bacon, purre og sopp i en fløtesaus med grovkornet
 - **Eggen til pensling mangler i ingredienslisten.** *(Rettelse.)*
 - **Kald panne til baconet er riktig teknikk.** Fettet smelter langsomt ut i stedet for at kjøttet svir seg, og du får både sprøtt bacon og et fett å steke grønnsakene i. Kilden gjør det bevisst.
 - **Fyllet bør avkjøles før butterdeigen legges på.** Varmt fyll smelter smøret i deigen før den kommer i ovnen, og lokket blir flatt i stedet for luftig. La det stå 15 minutter. *(Lagt til.)*
-- **Fyllet må ikke være for tynt.** 300 ml væske til 20 g mel gir en løs saus; kok den godt inn i punkt 5, ellers renner den ut under lokket.
+- **Fyllet må ikke være for tynt.** 3 dl væske til 20 g mel gir en løs saus; kok den godt inn i punkt 5, ellers renner den ut under lokket.
 - **Salt og pepper er ikke nevnt.** Bacon og kraft bidrar, men smak til.
 - **«Deglaze the plan» er en skrivefeil** for «pan». *(Notert.)*
 - **Porsjonsstørrelsen er liten** – 1–2 personer. Ganger du opp, øker steketiden med formens dybde; regn 25–30 minutter for en fire-porsjons pai.
@@ -8992,7 +8992,7 @@ Pasta alla Norma uten pastaen: aubergine, tomat og hvitløk, med smørbønner i 
 - **Fremgangsmåten er rekonstruert, ikke gjengitt.** Kilden oppgir bare ingredienser og viser til at metoden ligger på Instagram-siden hennes. Rekkefølgen over følger teknikken i pasta alla Norma. **Verifiser mot originalen før du lager den.** *(Merknad lagt til.)*
 - **Bønnelaken skal være med, og det er bevisst.** Kilden skriver uttrykkelig «& their juices». Aquafabaen er stivelsesrik og gir sausen kropp uten fløte eller olje – det er derfor retten fungerer med bare seks ingredienser. Dette er stikk motsatt av rådet i [nr. 135](#135-kylling--og-pølsegryte-med-bønner-og-grønnsaker) og [nr. 140](#140-kuru-fasulye-yahni--tyrkisk-hvitbønnegryte), der bønnene skylles. Konsekvensen er at retten blir salt av seg selv – **salt først helt til slutt**. *(Viktig presisering.)*
 - **Kvaliteten på bønnene merkes her.** Med laken som en bærende ingrediens er billige bokser med tynn, grumsete lake et dårlig utgangspunkt. Bønner på glass – som Bold Bean Co, som kilden ellers bruker – har tykkere og renere lake. Norske smørbønner på boks fungerer, men sil bort eventuelt skum. *(Lagt til.)*
-- **Auberginen suger olje uansett hva du gjør.** Ovnsbaking, som i punkt 1, bruker en brøkdel av oljen som panne­steking og gir jevnere resultat. Vil du følge den sicilianske originalen, friteres auberginen – men da trenger du en halv liter olje. Se samme avveining i [nr. 142](#142-lasagne-alla-norma-med-salsicciaragù). *(Alternativ lagt til.)*
+- **Auberginen suger olje uansett hva du gjør.** Ovnsbaking, som i punkt 1, bruker en brøkdel av oljen som panne­steking og gir jevnere resultat. Vil du følge den sicilianske originalen, friteres auberginen – men da trenger du 5 dl olje. Se samme avveining i [nr. 142](#142-lasagne-alla-norma-med-salsicciaragù). *(Alternativ lagt til.)*
 - **Salting av auberginen er valgfritt.** Moderne auberginer er nesten bitterfrie, men saltingen får cellene til å kollapse så de suger mindre olje. En halvtime i dørslag hvis du har tid.
 - **Ricotta salata er det som mangler.** I en ekte alla Norma rives den saltede, tørkede ricottaen over til slutt. Cashewparmesan er den veganske erstatningen kilden foreslår, uten å oppgi oppskrift: **100 g cashewnøtter, 3 ss næringsgjær, 1 ts salt og ½ ts hvitløkspulver** kjørt til smuler i foodprosessor. *(Oppskrift lagt til.)*
 - **Hvitløken skives, ikke hakkes.** Kilden er spesifikk. Skiver blir myke og søte i sausen i stedet for å forsvinne, og det passer stilen.
@@ -9061,7 +9061,7 @@ Høyrygg i strimler surret møre i to timer, og en saus av rømme, fløte, dijon
 - 2 ss røkt paprikapulver
 - 1 ss sukker
 - 6 dl kalvekraft
-- 15 g smør til steking *(mengde lagt til.)*
+- 1 ss smør til steking *(Lagt til.)*
 - Salt og pepper
 
 **Sausen**
@@ -9075,7 +9075,7 @@ Høyrygg i strimler surret møre i to timer, og en saus av rømme, fløte, dijon
 **Til slutt**
 - 300 g sjampinjong, i skiver
 - 1 ss sitronsaft
-- 15 g smør til steking *(mengde lagt til.)*
+- 1 ss smør til steking *(Lagt til.)*
 
 ### Fremgangsmåte
 
