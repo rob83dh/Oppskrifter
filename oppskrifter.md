@@ -8331,8 +8331,8 @@ Risotto med carnaroliris, sopp stekt for seg og ristede hasselnøtter, avsluttet
 4. **Spe med kraft.** Tilsett den varme kraften litt om gangen under stadig omrøring med en tregaffel.
 5. **Sett timer på 18 minutter** fra første øse kraft. Sørg for at risen alltid akkurat er dekket av kraft mens den putrer på middels varme.
 6. **Mantecatura.** Avslutt med å røre inn en siste liten øse kraft, smøret og den revne parmesanen. Legg på lokk og la kjelen stå ved siden av platen i **5–10 minutter**.
-7. **Stek soppen** i resten av smøret til den har fått fin farge.
-8. **Fullfør.** Etter at risottoen har hvilt i 5 minutter, rør eller slyng den. Vend inn soppen, de hakkede nøttene, sitronsaften og rikelig med basilikum.
+7. **Stek soppen og salsicciaen** i resten av smøret til begge har fått fin farge. Smuldre salsicciaen ut i pannen. *(Salsicciaen er lagt inn her – se notat.)*
+8. **Fullfør.** Etter at risottoen har hvilt i 5 minutter, rør eller slyng den. Vend inn soppen og salsicciaen, de hakkede nøttene, sitronsaften og rikelig med basilikum.
 
 ### Notater
 
@@ -8349,7 +8349,7 @@ Risotto med carnaroliris, sopp stekt for seg og ristede hasselnøtter, avsluttet
 - **Salt helt til slutt.** Buljongterninger, parmesan og salsiccia er alle salte, og risottoen koker inn.
 - **Gni skallet av hasselnøttene** mens de er varme, i et kjøkkenhåndkle. Skallet er bittert.
 - **Sitron og basilikum er ikke tradisjonelt i en sopprisotto**, men fungerer – syren løfter en ellers tung rett. Begge går i helt til slutt, av varmen.
-- **Beslektet:** [risotto med asparges, spinat og sitron (nr. 67)](#67-risotto-med-asparges-spinat-og-sitron) er samlingens andre risotto, og [kremet soppkylling (nr. 33)](#33-kremet-soppkylling) og [fettuccine Boscaiola (nr. 64)](#64-fettuccine-boscaiola) bruker samme sopp-teknikk.
+- **Beslektet:** [risotto med asparges, spinat og sitron (nr. 67)](#67-risotto-med-asparges-spinat-og-sitron) er en annen risotto i samlingen, og [kremet soppkylling (nr. 33)](#33-kremet-soppkylling) og [fettuccine Boscaiola (nr. 64)](#64-fettuccine-boscaiola) bruker samme sopp-teknikk.
 
 ---
 
@@ -8478,7 +8478,7 @@ Kyllingterninger brunet raskt og lagt til side, risoni kokt i samme panne med so
 3. **Bygg smaksbunnen.** I samme panne: tilsett soltørkede tomater, cherrytomater, hvitløk, løk og chiliflak. Ha så i tomatpuréen. La alt steke sammen under omrøring i **3–4 minutter**.
 4. **Risonien i.** Hell i risoni, buljongterning og vann, og rør godt.
 5. **La det trekke.** Skru ned til middels varme, legg på lokk og la det småkoke i ca. **12 minutter**. Løft på lokket annethvert minutt og rør, så risonien ikke setter seg fast i bunnen.
-6. **Fullfør.** Når risonien er gjennomkokt, tilsett fløte og spinat. Rør i ca. **1 minutt**, til spinaten har falt sammen.
+6. **Fullfør.** Når risonien er gjennomkokt, tilsett fløte, spinat og kyllingen. *(Kyllingen er lagt inn her – se notat.)* Rør i ca. **1 minutt**, til spinaten har falt sammen.
 7. **Parmesanen i.** Rør den inn til slutt, ta pannen av varmen og server.
 
 ### Notater
@@ -8534,7 +8534,7 @@ Risotto alla milanese med sjømat: safran, carnaroliris og en gremolata av persi
 1. **Lag gremolataen.** Finhakk persille, dill og hvitløk. Bland med olivenolje, sitronsaft og revet sitronskall. Smak til med salt, og sett til side.
 2. **Varm kraften** i en egen kjele og hold den småputrende. Løs safranen i en øse av den varme kraften.
 3. **Start risottoen.** Finhakk sjalottløk, hvitløk og chili, og fres dem myke i olivenolje uten å ta farge.
-4. **Risten i.** Tilsett risen og la den frese med et par minutter til kornene er blanke.
+4. **Risen i.** Tilsett risen og la den frese med et par minutter til kornene er blanke.
 5. **Vinen i.** Hell på hvitvinen og la den koke helt inn.
 6. **Spe med kraft.** Tilsett den varme kraften litt om gangen under stadig omrøring, så risen akkurat er dekket. Rør inn safrankraften etter ca. halvveis. Regn **18 minutter** fra første øse.
 7. **Mantecatura.** Ta kjelen av varmen og rør inn smøret og den revne parmesanen. Legg på lokk og la den hvile i **5 minutter**.
@@ -8658,7 +8658,7 @@ Risotto satt med tandoorisaus, med et krisp av cashewnøtter, sesamfrø og karri
 ### Notater
 
 - **Tandoorisausen mangler fullstendig.** Den står oppført som ingrediens, men uten mengde og uten oppskrift – og det er den som gir retten navnet sitt. Uten den er dette en helt vanlig parmesanrisotto. Oppskriften må suppleres fra kilden før den kan lages som tiltenkt. *(Kritisk mangel.)*
-- **Forslag til erstatning, hvis du vil lage den likevel:** fres 2 ss tandoorimasala i litt olje til det dufter, rør inn 2 ss tomatpuré og 1 dl gresk yoghurt eller fløte, og la det trekke sammen et par minutter. Rør inn ca. 2 dl i risottoen i punkt 6. **Dette er min rekonstruksjon, ikke kildens.** *(Tydelig merket.)*
+- **Forslag til erstatning, hvis du vil lage den likevel:** fres 2 ss tandoorimasala i litt olje til det dufter, rør inn 2 ss tomatpuré og 1 dl gresk yoghurt eller fløte, og la det trekke sammen et par minutter. Rør inn ca. 2 dl i risottoen i punkt 6. **Dette er et tillegg, ikke kildens.** *(Tydelig merket.)*
 - **Fremgangsmåten er også rekonstruert.** Kilden består utelukkende av ingredienslister. Rekkefølgen følger standard risottoteknikk, som i [nr. 151](#151-sopprisotto-med-salsiccia-og-hasselnøtter) og [nr. 155](#155-safranrisotto-med-reker-og-pistasjnøtter).
 - **Nøttekrispen har ingen mengder i det hele tatt.** Anslag til fire porsjoner: **75 g cashewnøtter**, **1 ss sesamfrø**, **½ potte koriander**, **1 ts karri**, **1 ts fiskesaus**. *(Lagt til.)*
 - **Fiskesaus i en risotto er uvanlig, men logisk her** – den gjør samme jobb som ansjos i italiensk matlaging og binder det indiske og italienske sammen. Vær sparsom; den er svært salt.
