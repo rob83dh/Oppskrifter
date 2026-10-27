@@ -21541,24 +21541,24 @@ Mac and cheese med bacon, kjølt til den er fast, skåret i terninger, panert og
 ### Ingredienser
 
 **Baconmac**
-- 284 g bacon *(ca. 14 skiver)*
-- 227 g makaroni
+- ca. 280 g bacon *(ca. 14 skiver)*
+- ca. 225 g makaroni
 - 30 g baconfett eller usaltet smør
 - 16 g hvetemel
-- 270 ml helmelk
+- 2,7 dl helmelk
 - 1 ts fint havsalt
 - ½ ts sort pepper
 - ½ ts hvitløkspulver
-- ⅛ ts cayennepepper
-- ⅛ ts revet muskat
-- 227 g lagret cheddar, revet
-- 227 g Monterey Jack, revet *(eller mozzarella, gruyère eller fontina)*
+- ¼ ts cayennepepper *(Presisert fra ⅛ ts.)*
+- ¼ ts revet muskat *(Presisert fra ⅛ ts.)*
+- ca. 225 g lagret cheddar, revet
+- ca. 225 g Monterey Jack, revet *(eller mozzarella, gruyère eller fontina)*
 
 **Panering**
 - 125 g hvetemel
 - ¼ ts fint havsalt
-- ⅛ ts sort pepper
-- ⅛ ts løkpulver
+- ¼ ts sort pepper *(Presisert fra ⅛ ts.)*
+- ¼ ts løkpulver *(Presisert fra ⅛ ts.)*
 - 2 store egg, sammenvispet
 - 180 g krydret panko
 - Nøytral olje til fritering
@@ -21586,7 +21586,7 @@ Mac and cheese med bacon, kjølt til den er fast, skåret i terninger, panert og
 - **De tre timene i kjøleskap er hele oppskriften.** Uten dem holder ikke blokken formen, og bitene faller fra hverandre i oljen. Over natten er bedre enn tre timer.
 - **Fryseren før fritering** er det andre grepet. Iskalde biter rekker å få skorpe før osten inni smelter og lekker ut.
 - **Makaronien skylles i kaldt vann.** Det bryter med regelen om aldri å skylle pasta, men her er poenget å stoppe kokingen og skylle av stivelse, ikke å få saus til å feste seg.
-- **Jevningen er svært lett** – 16 g mel til 270 ml melk. Det er meningen. Osten står for det meste av bindingen, og en tykk jevning ville gjort blandingen melete.
+- **Jevningen er svært lett** – 16 g mel til 2,7 dl melk. Det er meningen. Osten står for det meste av bindingen, og en tykk jevning ville gjort blandingen melete.
 - **Krydret panko fås sjelden i Norge.** Bland vanlig panko med ½ ts salt, ½ ts hvitløkspulver, ½ ts løkpulver, 1 ts paprikapulver og 1 ts tørket oregano per 180 g. *(Lagt til.)*
 - **Baconfett i jevningen gir røyk.** Lager du dem uten bacon, bruk samme mengde smør.
 - **Forberedelse:** macen kan lages tre døgn i forveien, eller panerte biter fryses i inntil én måned. Friter dem rett fra frossen med **1–2 minutter ekstra** – de skal ikke tines.
@@ -21609,7 +21609,7 @@ Uthulede jalapeño fylt med ost, panert i tre lag og fritert. Frøene og hinnene
 - 12 store jalapeño
 - 250 g mozzarella eller pizzaost, revet
 - 1 stor eggehvite
-- 1 dl hvetemel
+- 60 g hvetemel *(Omregnet fra 1 dl.)*
 
 **Frityrrøre**
 - 90 g hvetemel
@@ -21617,7 +21617,7 @@ Uthulede jalapeño fylt med ost, panert i tre lag og fritert. Frøene og hinnene
 - 3 ts bakepulver
 - 1 egg
 - 1,25 dl vann
-- 0,75 dl fløte
+- 75 g fløte *(Omregnet fra 0,75 dl.)*
 - Olje til fritering
 
 **Chiliaioli**
