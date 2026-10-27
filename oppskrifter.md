@@ -23215,7 +23215,7 @@ Sukkerbrød gjennomtrukket av tre typer melk. Kaken skal se drivende våt ut nå
 ### Ingredienser
 
 **Kaken**
-- 5 egg, delt
+- 5 egg, skilt
 - 200 g sukker
 - 150 g hvetemel
 - 1 ts bakepulver
@@ -23231,7 +23231,7 @@ Sukkerbrød gjennomtrukket av tre typer melk. Kaken skal se drivende våt ut nå
 **Topp**
 - 4 dl kremfløte
 - 2 ss melis
-- Kanel til drysning
+- Kanel til dryssing
 
 ### Fremgangsmåte
 
@@ -23275,7 +23275,7 @@ Frossen dessert som ikke krever ismaskin. Luften piskes inn i eggekrem og fløte
 
 ### Fremgangsmåte
 
-1. **Kle en brødform** *(ca. 25 cm)* med plastfolie, med god overheng.
+1. **Kle en brødform** *(ca. 25 cm)* med plastfolie, med godt overheng.
 2. **Pisk eggeplommer og sukker over vannbad** til blandingen er lys, tykk og har nådd **70 °C**, **6–8 minutter**. Da er eggene trygge.
 3. **Ta bollen av vannbadet** og pisk videre til blandingen er helt avkjølt. Dette tar noen minutter og er nødvendig.
 4. **Rør inn pistasjpasta, vanilje og salt.**
@@ -23287,12 +23287,12 @@ Frossen dessert som ikke krever ismaskin. Luften piskes inn i eggekrem og fløte
 ### Notater
 
 - **70 °C gjør eggene trygge.** Semifreddo er en av få frosne desserter med egg som ikke kokes videre, og temperaturmålingen er hele forskjellen på trygt og ikke.
-- **Eggekremen må avkjøles før fløten inn.** Varm krem smelter fløten, og du mister luften som gjør desserten myk.
+- **Eggekremen må avkjøles før fløten går i.** Varm krem smelter fløten, og du mister luften som gjør desserten myk.
 - **Fløten piskes løst.** Stivpisket fløte lar seg ikke vende inn uten at du slår ut luften.
 - **Den skal ikke fryses hardt som iskrem.** Semifreddo betyr «halvkald», og konsistensen skal være mellom iskrem og mousse.
 - **Ti minutter på benken** før servering. Rett fra fryseren er den for hard til å skjæres pent.
 - **Holdbarhet:** 1 måned i fryser, godt pakket.
-- **Beslektet:** [D31](#d31-mango-sorbet) er den frosne dessertens motsatte ytterpunkt, uten fett.
+- **Beslektet:** [mango sorbet (D31)](#d31-mango-sorbet) er den frosne dessertens motsatte ytterpunkt, uten fett.
 
 ---
 
@@ -23300,7 +23300,7 @@ Frossen dessert som ikke krever ismaskin. Luften piskes inn i eggekrem og fløte
 
 **Kilde:** Klassisk standardversjon · **Kjøkken:** Italiensk · **Tid:** 3 min · **Porsjoner:** 4
 
-Vaniljeis med varm espresso helt over. Den raskeste desserten som finnes, og den eneste i samlingen som ikke kan forberedes.
+Vaniljeis med varm espresso helt over. Den raskeste desserten som finnes, og den kan ikke forberedes.
 
 ### Ingredienser
 
@@ -23365,7 +23365,7 @@ To små pannekaker med søt rødbønnepasta imellom. Honning i røren gir den bl
 - **Hvilen på et kvarter** lar melet svelle, og røren blir glattere.
 - **Anko fås ferdig på boks** i asiatiske butikker. Hjemmelaget krever bløtlegging og et par timers koking av azukibønner.
 - **Holdbarhet:** 2 døgn i romtemperatur, pakket enkeltvis i plast. Tåler frysing.
-- **Beslektet:** [D27](#d27-mochi-is) bruker samme bønnepasta og samme kjøkken.
+- **Beslektet:** [mochi-is (D27)](#d27-mochi-is) bruker samme bønnepasta og samme kjøkken.
 
 ---
 
@@ -23403,7 +23403,7 @@ Iskuler pakket inn i mochideig. Isen må være steinhard og deigen håndteres ra
 - **Arbeid raskt og med kalde hender.** Skyll hendene i kaldt vann underveis.
 - **Shiratamako gir finere konsistens** enn mochiko, men begge fungerer. Vanlig rismel gjør det ikke – det må være klebrig ris.
 - **Holdbarhet:** 2 uker i fryser i tett boks. Deigen blir hardere over tid.
-- **Beslektet:** [D26](#d26-dorayaki) er samme kjøkken, og [S7](#s7-imomochi--japansk-potetmochi) bruker samme teknikk salt.
+- **Beslektet:** [dorayaki (D26)](#d26-dorayaki) er samme kjøkken, og [imomochi (S7)](#s7-imomochi--japansk-potetmochi) er en salt slektning.
 
 ---
 
@@ -23428,7 +23428,7 @@ Koreansk skavet is med søte røde bønner, riskaker og kondensert melk. Den byg
 ### Fremgangsmåte
 
 1. **Gjør alt tilbehør klart først.** Bingsu settes sammen på under et minutt, og isen begynner å smelte med en gang.
-2. **Skav isen** i ismaskin, eller kjør isbitene i en kraftig blender i omganger til de er fluffy.
+2. **Skav isen** i ismaskin, eller kjør isbitene i en kraftig blender i omganger til de er luftige.
 3. **Legg isen i en dyp bolle** og form den til en haug.
 4. **Fordel de røde bønnene** over toppen.
 5. **Legg riskakene** i et lag over bønnene.
@@ -23443,7 +23443,7 @@ Koreansk skavet is med søte røde bønner, riskaker og kondensert melk. Den byg
 - **Melkeis-varianten er verdt å prøve.** Frys melk og kondensert melk i isbitbrett i stedet for vann, så får du noe mellom sorbet og skavet is.
 - **Injeolmi er riskaker rullet i ristet soyabønnemel.** Vanlige små riskaker fungerer, men mangler den nøtteaktige tonen.
 - **Holdbarhet:** ingen. Retten smelter og må spises umiddelbart. Bønnene holder 5 døgn i kjøleskap.
-- **Beslektet:** [D27](#d27-mochi-is) bruker samme riskakeprinsipp, og [D1](#d1-mango-sago) er samlingens andre asiatiske kalde dessert.
+- **Beslektet:** [mochi-is (D27)](#d27-mochi-is) bruker samme riskakeprinsipp, og [mango sago (D1)](#d1-mango-sago) er en annen asiatisk kald dessert.
 
 ---
 
@@ -23480,7 +23480,7 @@ Kald risgrøt vendt sammen med pisket krem, servert med rød saus. Norsk juledes
 ### Notater
 
 - **Grøten må være helt kald.** Lunken grøt smelter kremen, og riskremen blir tynn og trist.
-- **Rør grøten myk før kremen inn.** Kald risgrøt setter seg til en fast masse, og forsøker du å vende krem inn i den, får du klumper som ikke lar seg røre ut.
+- **Rør grøten myk før kremen går i.** Kald risgrøt setter seg til en fast masse, og forsøker du å vende krem inn i den, får du klumper som ikke lar seg røre ut.
 - **Kremen piskes ikke stiv.** Den skal kunne vendes inn uten at du slår ut luften.
 - **Potetmelsausen må ikke koke lenge.** Gir du den mer enn et raskt oppkok, mister potetmelet bindeevnen og sausen blir tynn igjen.
 - **Mandelen i bollen** er tradisjonen. Den som får den, får marsipangrisen.
