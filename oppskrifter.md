@@ -19797,7 +19797,7 @@ Rå fisk marinert i soya og sesam, servert over ris med grønnsaker. Hawaiiansk 
 - 1 vårløk, i tynne ringer
 
 **Bollen**
-- 400 g kokt sushiris — ca. 180 g tørr ris, se [T131](#t131-kokt-ris)
+- 400 g kokt sushiris — ca. 180 g tørr ris, se [kokt ris (T131)](#t131-kokt-ris)
 - 1 avokado, i skiver
 - ½ agurk, i terninger
 - 100 g edamamebønner
@@ -19814,7 +19814,7 @@ Rå fisk marinert i soya og sesam, servert over ris med grønnsaker. Hawaiiansk 
 ### Fremgangsmåte
 
 1. **Bland marinaden** av soyasaus, sesamolje, riseddik, ingefær og vårløk.
-2. **Vend fiskeneterningene inn** og la dem stå kaldt i **10–15 minutter**. Ikke lenger.
+2. **Vend fiskebitene inn** og la dem stå kaldt i **10–15 minutter**. Ikke lenger.
 3. **Rør sammen dressingen** av majones, sriracha og limesaft.
 4. **Legg risen i bunnen** av to boller, romtemperert eller lun.
 5. **Fordel fisk og grønnsaker** i felter over risen.
@@ -19827,7 +19827,7 @@ Rå fisk marinert i soya og sesam, servert over ris med grønnsaker. Hawaiiansk 
 - **Risen skal ikke være rykende varm.** Varm ris under rå fisk gir en ubehagelig lunken tekstur. Romtemperert er riktig.
 - **Til matpakke: hold delene adskilt.** Ris i bunnen, fisk i eget rom, dressing i en liten beholder. Alt blandet på morgenen er en grøt til lunsj.
 - **Holdbarhet:** spises samme dag. Rå fisk i marinade holder seg ikke til dagen etter.
-- **Beslektet:** [T131](#t131-kokt-ris) er risen, [SJ4](#sj4-krydret-marinert-laks) er samme fisk i annen drakt.
+- **Beslektet:** [kokt ris (T131)](#t131-kokt-ris) er risen, og [krydret marinert laks (SJ4)](#sj4-krydret-marinert-laks) er samme fisk i annen drakt.
 
 ---
 
@@ -19857,7 +19857,7 @@ Salat som blir bedre av å stå. Den kan lages søndag og spises onsdag, og er e
 
 ### Fremgangsmåte
 
-1. **Skyll og tørk kikertene** godt. Aquafaba-væsken gir en sleip konsistens hvis den blir med.
+1. **Skyll og tørk kikertene** godt. Kikertvannet (aquafaba) gir en sleip konsistens hvis det blir med.
 2. **Legg rødløken i sitronsaften** i 10 minutter mens du gjør resten klart. Det tar bort den skarpe kanten.
 3. **Rist dressingen sammen** av sitronsaft med løk, olivenolje, hvitløk, spisskummen, sumak, salt og pepper.
 4. **Bland kikerter, persille, agurk og tomat** i en bolle.
@@ -19870,8 +19870,8 @@ Salat som blir bedre av å stå. Den kan lages søndag og spises onsdag, og er e
 - **Rødløk i syre først** er et lite grep med stor effekt. Rå rødløk dominerer alt, syrebehandlet rødløk gir bare sødme og knas.
 - **Mengden persille skal virke for stor.** Dette er en urtesalat med kikerter i, ikke motsatt.
 - **Fetaen inn til slutt**, ellers går den i oppløsning og gjør dressingen grumsete.
-- **Holdbarhet:** 4 døgn kjøleskap, og faktisk best dag to. Legg tomat og feta i separat rom hvis den skal ligge lenger enn to dager.
-- **Beslektet:** [T61](#t61-kısır) og [SA4](#sa4-couscoussalat-med-granateple-og-mynte) er samme sjanger med korn i stedet for belgfrukt.
+- **Holdbarhet:** 4 døgn i kjøleskap, og faktisk best dag to. Legg tomat og feta i separat rom hvis den skal ligge lenger enn to dager.
+- **Beslektet:** [kısır (T61)](#t61-kısır) og [couscoussalat med granateple og mynte (SA4)](#sa4-couscoussalat-med-granateple-og-mynte) er samme sjanger med korn i stedet for belgfrukt.
 
 ---
 
@@ -19884,7 +19884,7 @@ Pastasalat som ikke tørker ut i boksen. Trikset er å blande pestoen inn mens p
 ### Ingredienser
 
 - 400 g kort pasta *(fusilli, penne eller farfalle)*
-- 2 dl pesto, se [T13](#t13-pesto)
+- 2 dl pesto, se [pesto (T13)](#t13-pesto)
 - 250 g cherrytomater, delt i to
 - 150 g mozzarella i miniballer
 - 100 g ruccola
@@ -19907,8 +19907,8 @@ Pastasalat som ikke tørker ut i boksen. Trikset er å blande pestoen inn mens p
 - **Kokevannet er ikke valgfritt.** Stivelsen i det gjør at pestoen fester seg i stedet for å skille seg. Uten det tørker salaten ut i løpet av en time.
 - **Kok pastaen akkurat al dente.** Den mykner videre mens den står i dressingen.
 - **Ruccola inn til slutt.** Blandes den inn tidlig, faller den sammen og blir slapp.
-- **Holdbarhet:** 3 døgn kjøleskap. Ta den ut 20 minutter før servering – kald olivenolje stivner og salaten kjennes tørr.
-- **Beslektet:** [T13](#t13-pesto) er pestoen, og [SJ15](#sj15-risonisalat-med-sprøstekt-røye) er samme prinsipp med risoni.
+- **Holdbarhet:** 3 døgn i kjøleskap. Ta den ut 20 minutter før servering – kald olivenolje stivner og salaten kjennes tørr.
+- **Beslektet:** [pesto (T13)](#t13-pesto) er pestoen, og [risonisalat med sprøstekt røye (SJ15)](#sj15-risonisalat-med-sprøstekt-røye) er samme prinsipp med risoni.
 
 ---
 
@@ -19921,7 +19921,7 @@ Couscous bløtlagt i kokende kraft, blandet med urter, granateple og pistasj. Fe
 ### Ingredienser
 
 - 300 g couscous
-- 4 dl kokende kyllingkraft, se [G22](#g22-kyllingkraft)
+- 4 dl kokende kyllingkraft, se [kyllingkraft (G22)](#g22-kyllingkraft)
 - 2 ss olivenolje
 - 1 ts salt
 - 1 granateple, kjernene
@@ -19954,8 +19954,8 @@ Couscous bløtlagt i kokende kraft, blandet med urter, granateple og pistasj. Fe
 - **Gaffel, ikke skje.** Skjeen presser kornene sammen til en kake.
 - **Dressingen inn mens den er lun.** Couscous suger til seg dressing i varm tilstand, og legger den seg utenpå kald couscous, blir salaten tørr.
 - **Kanel i en salat høres rart ut** og er helt riktig. Den er standard i nordafrikansk kjøkken og gir en varme som holder retten fra å bli bare frisk.
-- **Holdbarhet:** 4 døgn kjøleskap, best dag to.
-- **Beslektet:** [T61](#t61-kısır) er den tyrkiske slektningen med bulgur, og [SA2](#sa2-kikertsalat-med-sitron-og-persille) samme sjanger.
+- **Holdbarhet:** 4 døgn i kjøleskap, best dag to.
+- **Beslektet:** [kısır (T61)](#t61-kısır) er den tyrkiske slektningen med bulgur, og [kikertsalat med sitron og persille (SA2)](#sa2-kikertsalat-med-sitron-og-persille) er samme sjanger.
 
 ---
 
@@ -19995,8 +19995,8 @@ Amerikansk sandwichfyll: kokt kylling i en dressing av majones og yoghurt, med d
 - **Selleristilken er ikke pynt.** Den gir den knasen som holder salaten fra å bli en ensartet masse.
 - **Kokt kyllingfilet blir lett tørr.** Rester fra en grillet kylling, gjerne med litt lårkjøtt, gir langt bedre resultat.
 - **Estragon er den klassiske urten** i denne salaten. Har du den ikke, er gressløk nest best.
-- **Holdbarhet:** 3 døgn kjøleskap. Druene begynner å slippe væske etter to dager.
-- **Beslektet:** [S22](#s22-spicy-cæsarwrap-med-kylling) og [S24](#s24-eggesalat-med-sriracha-og-bacon) er samme sjanger med annen base.
+- **Holdbarhet:** 3 døgn i kjøleskap. Druene begynner å slippe væske etter to dager.
+- **Beslektet:** [spicy cæsarwrap med kylling (S22)](#s22-spicy-cæsarwrap-med-kylling) og [eggesalat med sriracha og bacon (S24)](#s24-eggesalat-med-sriracha-og-bacon) er samme sjanger med annen base.
 
 ---
 
@@ -20041,8 +20041,8 @@ Puylinser holder formen og faller ikke sammen, og det gjør dem til den beste be
 - **Dressingen inn mens linsene er varme.** Da suger de den til seg. Kalde linser lar dressingen ligge i bunnen av bollen.
 - **Puylinser holder formen.** Vanlige brune linser koker lettere i stykker, røde faller helt sammen. Puy eller beluga er riktig her.
 - **Spisskummen ristes hel.** Ferdigmalt spisskummen har mistet mesteparten av oljene, og forskjellen er stor i en rett der krydderet er hovedsmaken.
-- **Holdbarhet:** 4 døgn kjøleskap, best dag to. Feta og valnøtt i eget rom hvis den skal ligge lenge.
-- **Beslektet:** [SA2](#sa2-kikertsalat-med-sitron-og-persille) er samme sjanger, og [SU13](#su13-vegetarisk-linsegryte) bruker samme belgfrukt varmt.
+- **Holdbarhet:** 4 døgn i kjøleskap, best dag to. Feta og valnøtt i eget rom hvis den skal ligge lenge.
+- **Beslektet:** [kikertsalat med sitron og persille (SA2)](#sa2-kikertsalat-med-sitron-og-persille) er samme sjanger, og [vegetarisk linsegryte (SU13)](#su13-vegetarisk-linsegryte) bruker samme belgfrukt varmt.
 
 ---
 
@@ -20054,7 +20054,7 @@ Dressingen kjøres glatt i kjøkkenmaskin med rå eggeplommer, ansjos og to olje
 
 ### Ingredienser
 
-- 2–3 romano salathoder
+- 2–3 hoder romanosalat
 - 4 eggeplommer
 - 6 ansjosfileter
 - 1 ss dijonsennep
@@ -20083,7 +20083,7 @@ Dressingen kjøres glatt i kjøkkenmaskin med rå eggeplommer, ansjos og to olje
 - **Rå eggeplommer emulgerer dressingen.** Den er i praksis en tynn majones. Bruk ferske egg, og lag den samme dag.
 - **«Server umiddelbart» er ikke en høflighetsfrase.** Kilden er eksplisitt: en salat som må vente på gjestene blir fort en trist opplevelse. Salt og syre trekker vann ut av bladene i løpet av minutter.
 - **Ansjos er ikke valgfritt.** Seks fileter høres mye ut, men de smelter inn i dressingen og oppfattes som salt og dybde, ikke som fisk. Uten dem er det en parmesandressing.
-- **Beslektet:** [nr. 156](#156-cæsarsalat-med-panert-kylling) er samme dressing som hovedrett med panert kylling, og [T122](#t122-majones) er emulsjonen den bygger på.
+- **Beslektet:** [cæsarsalat med panert kylling (nr. 156)](#156-cæsarsalat-med-panert-kylling) er cæsarsalat som hovedrett, og [majonesen (T122)](#t122-majones) er emulsjonen den bygger på.
 
 ---
 
