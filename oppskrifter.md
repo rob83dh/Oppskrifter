@@ -15711,7 +15711,7 @@ Tynne potetskiver bakt i fløte og melk trukket med timian, rosmarin, laurbær o
 
 ### Notater
 - **Chilipulver står oppført to ganger** i kildens liste – først 1 ts, så ¼ ts. Trolig er det ment som én mengde. Bruk 1 ts, eller 1¼ ts hvis du vil ha begge.
-- **«Chili powder» er en krydderblanding**, ikke ren chili. Norsk chilipulver er ren, malt chili og langt sterkere – samme felle som i [T23](#t23-potetbåter-i-airfryer) og [nr. 94](#94-fajitasalat-med-kylling).
+- **«Chili powder» er en krydderblanding**, ikke ren chili. Norsk chilipulver er ren, malt chili og langt sterkere – samme felle som i [potetbåtene (T23)](#t23-potetbåter-i-airfryer) og [fajitasalaten (nr. 94)](#94-fajitasalat-med-kylling).
 - **Kilden oppgir bare ⅛ ts røkt paprika**, svært lite ved siden av teskjeer av alt annet. Øk til ½ ts om du vil merke røyken.
 
 ---
@@ -15734,7 +15734,7 @@ Tynne potetskiver bakt i fløte og melk trukket med timian, rosmarin, laurbær o
 
 ### Notater
 - **Dette er den søteste marinaden i samlingen.** BBQ-saus er allerede sukkerholdig, og lønnesirupen kommer i tillegg – den svir seg raskt og blir bitter over sterk varme. **Grill indirekte, og pensle først mot slutten.**
-- **1 ss chilipulver er mye.** Er det norsk, ren chili, blir marinaden sterk; er det amerikansk krydderblanding, er mengden riktig. Se [T32](#t32-fajitamarinade).
+- **1 ss chilipulver er mye.** Er det norsk, ren chili, blir marinaden sterk; er det amerikansk krydderblanding, er mengden riktig. Se [fajitamarinaden (T32)](#t32-fajitamarinade).
 - **Eddiken balanserer sødmen** og gjør at marinaden ikke blir klissete søt – ikke reduser den.
 
 ---
@@ -15800,7 +15800,7 @@ Tynne potetskiver bakt i fløte og melk trukket med timian, rosmarin, laurbær o
 - 5 hvitløksfedd
 - 1 liten løk
 - 3 vårløk
-- 1 ss fersk ingefær
+- 1 ss revet fersk ingefær
 - 4 ss soyasaus
 - 2 ss brunt sukker
 - 1 ss allehånde
@@ -15845,7 +15845,7 @@ Tynne potetskiver bakt i fløte og melk trukket med timian, rosmarin, laurbær o
 
 ### Notater
 - **Kildens ingrediensliste har en dublett:** linjen «rødvinseddik» følges av «eddik eller hvit eddik», som er en avkuttet gjentakelse. Det er én eddikmengde: 3 ss.
-- **Samlingens tredje chimichurri.** [T14](#t14-chimichurri) er den klassiske argentinske uten koriander og spisskummen; [nr. 101](#101-rød-chimichurri-kyllingbowl) er den røde med grillet paprika. Denne ligger imellom – grønn som originalen, men med koriander og spisskummen, som er meksikanske trekk.
+- **Sammenlign med** [chimichurri (T14)](#t14-chimichurri), den klassiske argentinske uten koriander og spisskummen, og [rød chimichurri-kyllingbowl (nr. 101)](#101-rød-chimichurri-kyllingbowl), den røde med grillet paprika. Denne ligger imellom – grønn som originalen, men med koriander og spisskummen, som er meksikanske trekk.
 - **Norsk husholdningseddik er 7 %**, mot amerikansk 5 %. Bruker du hvit eddik i stedet for rødvinseddik, ta 2 ss i stedet for 3.
 - **Fungerer både som marinade og saus**, men bruk to porsjoner – marinaden som har vært i kontakt med rått kjøtt, skal ikke serveres.
 
@@ -15901,13 +15901,13 @@ Kremet sesamdressing av typen som følger med tonkatsu og katsu på japanske res
 
 - **Knusingen er hele poenget.** Hele sesamfrø sitter ikke fast i dressingen og gir lite smak – de trenger å sprekke for at oljen skal komme ut. Har du ikke morter, kan du kjevle over dem i en frysepose eller finhakke dem med kniv. Dette er i praksis en enkel *goma-dressing*; restaurantversjonen bruker ofte ferdig sesampasta (*neri goma*) i stedet.
 - **Sesamfrø brenner raskt.** De går fra gylne til brente på under et halvminutt. Ta dem ut av pannen så snart de dufter, og hell dem over i en kald skål – ettervarmen i pannen fortsetter å riste dem. *(Lagt til.)*
-- **Kewpie er ikke det samme som norsk majones.** Den lages på bare eggeplommer og syres med riseddik i stedet for sitron, og har MSG i seg – derfor er den både rundere og mer umami. Bytter du til vanlig norsk majones, blir dressingen flatere; kompenser med noen dråper ekstra riseddik og et lite dryss salt. Se notatet i [nr. 47](#47-enkel-ramen-med-kylling--matkanalen-sin-versjon) om forskjellen, og [T122](#t122-majones) om du vil lage plommemajonesen selv – bytt sitronen mot riseddik, så nærmer du deg Kewpie.
+- **Kewpie er ikke det samme som norsk majones.** Den lages på bare eggeplommer og syres med riseddik i stedet for sitron, og har MSG i seg – derfor er den både rundere og mer umami. Bytter du til vanlig norsk majones, blir dressingen flatere; kompenser med noen dråper ekstra riseddik og et lite dryss salt. Se notatet i [enkel ramen med kylling (nr. 47)](#47-enkel-ramen-med-kylling--matkanalen-sin-versjon) om forskjellen, og [majonesen (T122)](#t122-majones) om du vil lage plommemajonesen selv – bytt sitronen mot riseddik, så nærmer du deg Kewpie.
 - **Ingen salt i oppskriften.** Soyasausen står for saltet, så smak til før du eventuelt tilsetter mer.
 - **1½ ts sukker er ganske søtt** for 2 ss majones, og det er med vilje – japansk kålsalatdressing ligger søtere enn norsk coleslaw. Vil du ha den mindre søt, start på 1 ts.
-- **Salt kålen først.** Strimle kålen tynt, dryss over ¼ ts salt, masser det inn og la den stå 5 minutter før du blander i dressingen. Da mykner den uten å bli vassen, og dressingen tynnes ikke ut på tallerkenen. Samme prinsipp som i [T4](#t4-sesamcoleslaw), som er en ferdig kålsalat med sesam og litt annen dressing.
+- **Salt kålen først.** Strimle kålen tynt, dryss over ¼ ts salt, masser det inn og la den stå 5 minutter før du blander i dressingen. Da mykner den uten å bli vassen, og dressingen tynnes ikke ut på tallerkenen. Samme prinsipp som i [sesamcoleslawen (T4)](#t4-sesamcoleslaw), som er en ferdig kålsalat med sesam og litt annen dressing.
 - **For tykk?** Spe med 1–2 ts vann til ønsket konsistens.
 - **Holdbarhet:** 4–5 dager i kjøleskap i tett glass. Kjøpt Kewpie er pasteurisert, så den tåler mer enn hjemmelaget majones – se [T122](#t122-majones), som bare holder 3–4 dager.
-- **Passer til** [tonkatsu](#8-tonkatsu) og [nr. 128](#128-tonkatsu--miwa-sin-versjon), [karaage](#86-karaage--japansk-friturstekt-kylling) og [katsu curry](#56-katsu-curry) – alt som er fritert og trenger noe friskt og kremet ved siden av.
+- **Passer til** [tonkatsu (nr. 8)](#8-tonkatsu), [Miwas tonkatsu (nr. 128)](#128-tonkatsu--miwa-sin-versjon), [karaage (nr. 86)](#86-karaage--japansk-friturstekt-kylling) og [katsu curry (nr. 56)](#56-katsu-curry) – alt som er fritert og trenger noe friskt og kremet ved siden av.
 
 ---
 
@@ -15976,7 +15976,7 @@ Paprika stekt til skallet er svart, flådd og vendt med tomat, basilikum, hvitl�
 - En god skvett olivenolje
 - Paprikaolje, maks 4 ss *(se notat – dette er ikke en kjøpevare)*
 - Salt
-- Ferskt, varmt baguette
+- Fersk, varm baguette
 
 ### Fremgangsmåte
 
@@ -16002,7 +16002,7 @@ Paprika stekt til skallet er svart, flådd og vendt med tomat, basilikum, hvitl�
 - **3 rå hvitløksfedd er mye** i en salat som skal stå og trekke – den blir skarpere med tiden. Finhakk eller riv dem, og la dem ligge i olivenoljen noen minutter før alt blandes, så mykner de. Vil du ha den mildere, bruk 1–2 fedd. *(Lagt til.)*
 - **Bocconcini** er små mozzarellakuler i lake, og selges i Norge som mozzarellaperler eller mini mozzarella hos Meny og Coop Mega. Renn dem godt av – laken tynner ut dressingen.
 - **Salt paprikaen og tomatene før osten går i.** Bocconcini er mild og usaltet, og salter du til slutt, ender det med å ligge på osten i stedet for å trekke inn i grønnsakene. Kildens rekkefølge i punkt 9 er riktig her.
-- **Salaten blir bedre av en halvtime på benken**, så smakene setter seg. Den bør derimot ikke stå lenge i kjøleskap med osten i – mozzarella blir gummiaktig av kulde. Serveres den romtemperert.
+- **Salaten blir bedre av en halvtime på benken**, så smakene setter seg. Den bør derimot ikke stå lenge i kjøleskap med osten i – mozzarella blir gummiaktig av kulde. Server den romtemperert.
 - **Paprikabasen kan lages på forhånd.** Uten ost og basilikum holder de flådde paprikaene med væsken sin **4–5 dager** i kjøleskap under et lag olivenolje. Da er salaten fem minutters arbeid på serveringsdagen. *(Lagt til.)*
 - **Ferdig grillet paprika på glass** er snarveien, men gir et helt annet resultat – den er syltet i eddik og lake, og du får ingen paprikaolje. Dropp den her.
 - **Varmluft går raskere.** 210 °C varmluft i 35–45 minutter tilsvarer kildens 230 °C over-/undervarme. *(Omregning lagt til.)*
@@ -16069,7 +16069,7 @@ Fløtesaus med kantareller, kalvefond og en skje solbærgelé. Kildens eneste te
 1. **Rens kantarellene** tørt med pensel eller en tørr klut. Del de store, la de små være hele.
 2. **Tørrstek dem.** Ha dem i en varm, tørr panne uten fett og stek på høy varme til all væsken har dampet bort og de begynner å knitre. Ikke forvell dem.
 3. **Smør i pannen.** Tilsett en klatt smør og stek videre til kantarellene har fått farge.
-4. **Del opp med konjakk.** Hell den i og la den koke helt inn, så alkoholen forsvinner.
+4. **Konjakken i.** Hell den i og la den koke helt inn, så alkoholen forsvinner.
 5. **Fonden i.** Tilsett kalvefonden og kok den inn til omtrent halvparten.
 6. **Fløten i.** Hell i fløten og la sausen småkoke til den har tyknet og dekker baksiden av en skje.
 7. **Smak til** med solbærgelé, salt og pepper.
