@@ -10421,7 +10421,7 @@ Kyllingbryst med skinn, stekt til det er nesten gjennomstekt fra skinnsiden alen
 - **Banansjalottløk** er den lange, avlange typen. Vanlig sjalottløk fungerer like godt – regn 3–4 små.
 - **Verken tid eller porsjoner er oppgitt i kilden.** To kyllingbryst gir to porsjoner, og retten tar rundt tretti minutter. *(Lagt til.)*
 - **Holdbarhet:** 2 døgn kjøleskap. Skinnet mister sprøheten, så skjær kyllingen i skiver og varm den forsiktig i sausen.
-- **Beslektet:** [kremet hvitløks- og sennepskylling – Chef Jack Ovens sin versjon (nr. 130)](#130-kremet-hvitløks--og-sennepskylling--chef-jack-ovens-sin-versjon) og [kremet kylling med gnocchi (nr. 131)](#131-kremet-kylling-med-gnocchi) er samlingens andre kremede kyllingretter i panne, og [fondantpoteter (T17)](#t17-fondantpoteter) er et alternativt tilbehør.
+- **Beslektet:** [kremet hvitløks- og sennepskylling – Chef Jack Ovens sin versjon (nr. 130)](#130-kremet-hvitløks--og-sennepskylling--chef-jack-ovens-sin-versjon) og [kremet kylling med gnocchi (nr. 131)](#131-kremet-kylling-med-gnocchi) er andre kremete kyllingretter i panne, og [fondantpoteter (T17)](#t17-fondantpoteter) er et alternativt tilbehør.
 
 ---
 
@@ -10453,12 +10453,12 @@ Hellstrøms risotto spes med **kokende vann**, ikke kraft. Smaken kommer fra sm�
 
 ### Notater
 
-- **Vann, ikke kraft.** Dette skiller oppskriften fra alle de fem risottoene i samlingen. Poenget er at parmesan, smør og sitron skal stå fram rent, uten kraftens dybde. Det er en bevisst nedstripping, ikke en forglemmelse.
+- **Vann, ikke kraft.** Dette skiller oppskriften fra alle de andre risottoene i samlingen. Poenget er at parmesan, smør og sitron skal stå fram rent, uten kraftens dybde. Det er en bevisst nedstripping, ikke en forglemmelse.
 - **1 dl olivenolje og 100 g smør til 200 g ris** er svært mye fett. Det er også hele grunnen til at retten er kremet uten fløte.
 - **«Tyktflytende risgrøt» er målet.** Står risottoen stille på tallerkenen, er den for tørr. Den skal flyte langsomt utover.
 - **Kokende vann, ikke varmt.** Kaldt eller lunkent vann stopper kokingen hver gang du heller på, og risen slipper stivelsen ujevnt.
 - **Røringen er ikke overtro.** Kornene gnir mot hverandre og frigjør stivelse, og det er stivelsen som binder retten.
-- **Beslektet:** Samlingens risottoretter er [med asparges (nr. 67)](#67-risotto-med-asparges-spinat-og-sitron), [sopprisotto (nr. 151)](#151-sopprisotto-med-salsiccia-og-hasselnøtter), [med reker (nr. 155)](#155-safranrisotto-med-reker-og-pistasjnøtter), [med ramsløk (nr. 161)](#161-risotto-med-ramsløk-erter-og-asparges) og [med kylling (nr. 188)](#188-safranrisotto-med-kylling) – alle bruker kraft.
+- **Beslektet:** De andre risottoene i samlingen er [med asparges (nr. 67)](#67-risotto-med-asparges-spinat-og-sitron), [sopprisotto (nr. 151)](#151-sopprisotto-med-salsiccia-og-hasselnøtter), [med reker (nr. 155)](#155-safranrisotto-med-reker-og-pistasjnøtter), [med ramsløk (nr. 161)](#161-risotto-med-ramsløk-erter-og-asparges) og [med kylling (nr. 188)](#188-safranrisotto-med-kylling) – alle bruker kraft.
 
 ---
 
