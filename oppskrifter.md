@@ -25502,8 +25502,8 @@ Eggpastadeig med høy plommeandel. Resultatet er en seig, læraktig deig som ikk
 ### Ingredienser
 
 - 360 g tipo 00-mel
-- 135 g hele egg *(ca. 2½ egg, str. M — se notat)*
-- 85 g eggeplommer *(ca. 4–5 plommer)*
+- 3 egg, str. M *(kilden oppgir 135 g – se notat)*
+- 4 eggeplommer *(kilden oppgir 85 g)*
 
 ### Fremgangsmåte
 
@@ -25518,7 +25518,7 @@ Eggpastadeig med høy plommeandel. Resultatet er en seig, læraktig deig som ikk
 
 ### Notater
 
-- **Eggene veies, og det er poenget.** Eggstørrelser varierer kraftig, og vekten er det som styrer hydreringen i deigen. 135 g hele egg tilsvarer omtrent 2½ norske M-egg, og 85 g plommer omtrent 4–5 plommer — men vei heller enn å telle.
+- **Hele egg i stedet for halve.** Kilden veier eggene: 135 g hele egg og 85 g plommer, til sammen ca. 220 g. Tre M-egg og fire plommer gir omtrent samme totalvekt, med litt mer hvite og litt mindre plomme. Kjennes deigen klebrig, elt inn litt ekstra mel; er den for tørr, se under. *(Justert.)*
 - **Hvilen kan ikke droppes.** Uten den blir deigen gummiaktig og trekker seg tilbake når du prøver å kjevle den. Forfatteren er uttrykkelig på dette punktet.
 - **For tørr deig:** hold hendene under springen og gå rett tilbake til eltingen uten å tørke dem. Det tilfører akkurat nok vann uten å gjøre deigen for våt.
 - **For klebrig deig:** dryss et lite dryss tipo 00 på benken og elt deigen direkte oppå, slik at den tar opp bare litt om gangen.
@@ -25570,7 +25570,7 @@ Pastadeig uten egg, av durumhvete og vann. Dette er sørens pasta – den som br
 ### Ingredienser
 
 - 400 g semolina rimacinata *(fint malt durumhvete)*
-- 200 ml lunkent vann
+- 2 dl lunkent vann
 - 1 ts salt
 
 ### Fremgangsmåte
@@ -25585,7 +25585,7 @@ Pastadeig uten egg, av durumhvete og vann. Dette er sørens pasta – den som br
 ### Notater
 
 - **Semolina rimacinata, ikke vanlig semolina.** Vanlig, grov semolina gir en sandet deig. Rimacinata er dobbeltmalt og fin som mel. Fås i italienske butikker og hos de større dagligvarekjedene.
-- **Forholdet er 2:1 på vekt.** 400 g mel til 200 ml vann. Trenger deigen mer, ta en spiseskje av gangen – for våt deig kleber seg til benken og lar seg ikke forme.
+- **Forholdet er 2:1 på vekt.** 400 g mel til 2 dl (200 g) vann. Trenger deigen mer, ta en spiseskje av gangen – for våt deig kleber seg til benken og lar seg ikke forme.
 - **Deigen skal føles for stiv.** Den mykner under hvilen, når vannet har fordelt seg gjennom melet.
 - **Denne tåler koking bedre enn eggpasta.** Uten egg er det bare gluten som holder formen, og resultatet er en pasta med tydelig tyggemotstand.
 - **Holdbarhet:** deigen 2 døgn i kjøleskap. Formet pasta tørkes helt og holder da måneder, eller fryses på brett før den samles i pose.
