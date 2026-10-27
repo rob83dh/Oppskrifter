@@ -19969,7 +19969,7 @@ Amerikansk sandwichfyll: kokt kylling i en dressing av majones og yoghurt, med d
 
 - 500 g kokt kyllingfilet, i terninger *(rester eller grillet kylling)*
 - 2 dl majones
-- 1 dl gresk yoghurt
+- 100 g gresk yoghurt
 - 2 stilker stilkselleri, i små terninger
 - 200 g røde druer, delt i to
 - 80 g valnøtter, ristet og grovhakket
