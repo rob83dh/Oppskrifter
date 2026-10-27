@@ -11195,17 +11195,17 @@ Hjemmelaget utgave av kjederetten: chipotlemarinert kylling, korianderris med li
 - 1 ts malt spisskummen
 - 1 ts tørket oregano
 - 1 ts sort pepper
-- 120 ml vann
+- 1,2 dl vann
 
 **Maissalsaen**
 - 1 pose frossen søtmais
 - 1 jalapeño, i terninger
 - ¼ rødløk, i terninger
-- 60 ml koriander, hakket
+- ca. 10 g koriander, hakket
 - Salt og pepper
 
 **Korianderrisen**
-- Kokt ris, kokt med 1 laurbærblad
+- Ris av ca. 300 g tørr ris, kokt med 1 laurbærblad *(Mengde lagt til – se notat.)*
 - 1 potte koriander, finhakket
 - Saften fra 2 lime
 - 2 ss smør og 2 ss olje
@@ -11249,7 +11249,7 @@ Forenklet, alt-i-én-gryte-utgave av hainansk kylling og ris: kylling og ris kok
 - ¼ ts salt (1,5 g)
 
 **Ris**
-- 1⅔ cup jasminris (200 g) *(se notat om mengde)*
+- 200 g jasminris *(Omregnet fra 1⅔ cup – se notat om mengde.)*
 - 6 fedd hvitløk (15 g)
 - 1 cm ingefær (15 g)
 - 2 vårløk (30 g)
@@ -11383,7 +11383,7 @@ Kilden kaller denne "verdens beste lasagne" – en klassisk kjøttsauslasagne me
 
 - **Mengder for pastaplater, fersk mozzarella og ricotta er ikke oppgitt i kilden** – bruk gjerne en standard eske pastaplater (ca. 250 g) og 200–250 g av hver ost, avhengig av formstørrelsen.
 - **Trekketiden på minst fire timer for kjøttsausen** er det kilden peker på som selve nøkkelen til smaken – ikke skynd deg forbi dette trinnet.
-- **"Tre boksemål vann"** betyr samme volum som de tomme tomatboksene ble målt opp med (typisk 3 × 400 ml).
+- **"Tre boksemål vann"** betyr samme volum som de tomme tomatboksene ble målt opp med (typisk 3 × 4 dl).
 - **Beslektet:** samlingen har fra før [72. Lasagna](#72-lasagna), [142. Lasagne alla Norma med salsicciaragù](#142-lasagne-alla-norma-med-salsicciaragù), [167. Lasagne alla bolognese](#167-lasagne-alla-bolognese) og [184. Hvit sopplasagne](#184-hvit-sopplasagne) – denne skiller seg ut med pancetta i sausen og dobbel ost (fersk mozzarella + ricotta) i lagene.
 
 ## 212. Lammecarré med panang curry og urtetopping
@@ -11409,7 +11409,7 @@ Kildens påskelam-rett og "take på panang curry" – en hjemmelaget currypaste 
 **Saus og lam**
 - 1 rack lammecarré (8–10 ribber)
 - 3 ss curry-paste (over)
-- 1 boks kokoskrem (400 ml)
+- 1 boks kokoskrem (4 dl)
 - 3 ss sukker
 - 5 ss fiskesaus
 - 1 kaffirlimeblad ekstra (kan byttes med limeskall)
@@ -11463,7 +11463,7 @@ Frisk sensommerbowl med ovnsbakte, marinerte kyllinglår, kald quinoasalat med u
 
 **Ingefærdipp**
 - 1 thai chili, uten frø
-- 1 knoll ingefær, grovhakket
+- 1 stor bit ingefær (ca. 5 cm), grovhakket
 - 3 fedd hvitløk, grovhakket
 - 2 ss thai fiskesaus
 - Saften av 1 lime
@@ -11517,7 +11517,7 @@ Saftig kylling med sprø cashewnøtter i en søt-salt soya-/østerssaus – en r
 - 2 fedd hvitløk, finhakket
 - ½ løk, i grove biter
 - 1 pakke brokkolini, grovhakket
-- 1,5 dl ristede cashewnøtter
+- ca. 75 g ristede cashewnøtter
 
 ### Fremgangsmåte
 
@@ -11545,7 +11545,7 @@ En langtidsbraisert shortrib-ragu krydret med miso, soyasaus og mirin i stedet f
 - 2 kg shortribs
 - 1 stor løk, finhakket
 - 5 fedd hvitløk, finhakket
-- 1,5 ss ingefær, finhakket
+- 1 ss + 1½ ts ingefær, finhakket
 - 3 ss lys miso
 - 2 ss soyasaus
 - 3 ss mirin
