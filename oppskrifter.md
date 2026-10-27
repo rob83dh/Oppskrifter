@@ -5568,14 +5568,14 @@ Grønn karri med hjemmelaget pasta, kjørt i foodprosessor og deretter støtt i 
 - **Tjue thaichili er ekstremt sterkt.** Kilden advarer to ganger og kaller retten «not for the faint-hearted». Vil du dempe den: fjern frø og hinner, som hjelper mye men ikke nok alene, eller bytt en del av chilien mot mild grønn chili eller grønn paprika – da beholder du fargen uten varmen. Kilden foreslår også kokosyoghurt eller agurkraita ved siden av, og en skvett lime til slutt.
 - **Dette er en tørrere og mye mer konsentrert karri enn** [nr. 76](#76-green-curry-med-kylling). Der brukes 4 dl kokosmelk og 2,5 dl kraft; her bare 1 dl kokoskrem og 1,5 dl kraft til samme antall porsjoner. Resultatet er en tykk saus som legger seg rundt kyllingen, ikke en karri du kan skje opp som suppe. Vil du ha mer saus, øk begge deler proporsjonalt.
 - **Krakkeleringen av kokoskremen er samme grep som i** [nr. 76](#76-green-curry-med-kylling), og kilden forklarer hvorfor det gjøres: pastaen skal frites i kokosoljen som skiller seg ut, ikke bare røres ut i væske. Det krever kokoskrem med høyt fettinnhold og uten stabilisatorer – mange merker er nettopp tilsatt stabilisator for å hindre at de skiller seg.
-- **Foodprosessor først, morter etterpå.** Kilden er ærlig om at mortelen er tung jobb, og bruker maskinen til grovarbeidet. Det er et fornuftig kompromiss mellom [nr. 78](#78-panang-curry-med-svinefilet), som støter alt for hånd, og de ferdigkjøpte pastaene.
+- **Foodprosessor først, morter etterpå.** Kilden er ærlig om at morteren er tung jobb, og bruker maskinen til grovarbeidet. Det er et fornuftig kompromiss mellom [nr. 78](#78-panang-curry-med-svinefilet), som støter alt for hånd, og de ferdigkjøpte pastaene.
 - **Korianderstilker, ikke røtter** – som i [SU3](#su3-thai-karri-kyllingnudelsuppe) fra samme forfatter. 40 g stilker er mye, omtrent alt fra to potter, men de er lett tilgjengelige i norske butikker, i motsetning til røttene.
 - **Elleve makrutlimeblader til sammen:** åtte i pastaen og tre i karrien. Kjøp deretter.
 - **Galangal trenger ikke skrelles** her, opplyser kilden – den skjæres bare tynt. Frossen galangal fungerer.
 - **Retten inneholder ingen grønnsaker.** Til forskjell fra [nr. 76](#76-green-curry-med-kylling), som har thai-aubergine, bambusskudd og paprika, er dette bare kylling i saus. Kilden foreslår i brødteksten babymais, aubergine, bambusskudd, paprika, squash eller sukkererter – legg dem i sammen med kraften i punkt 7.
 - **Pastaen kan lages på forhånd:** en uke i kjøleskap, eller frosset i isbitform og pakket i pose. Da har du en porsjon klar til å røres rett i varm kokoskrem senere.
 - **Ingen servering er oppgitt.** Jasminris er det opplagte følget.
-- **Samlingens andre grønne karri**, etter [nr. 76](#76-green-curry-med-kylling), som bruker ferdigkjøpt pasta med tre hjemmelagde forbedringer. Har du tid, gir denne mer; har du ikke, er den andre et godt kompromiss.
+- **Sammenlign med** [nr. 76](#76-green-curry-med-kylling), som bruker ferdigkjøpt pasta med tre hjemmelagde forbedringer. Har du tid, gir denne mer; har du ikke, er den andre et godt kompromiss.
 
 ---
 
@@ -5695,8 +5695,8 @@ Kyllingbiter i en tykk røre av hvetemel og potetmel, friturstekt og vendt i en 
 - **«Corn syrup» er lys sirup her.** Koreanske oppskrifter bruker ofte glukosesirup fordi den gir blankere glasur enn honning uten å tilføre smak. Lys sirup fra dagligvaren gjør samme nytte.
 - **Oljemengden er ikke oppgitt.** Til biter av denne størrelsen trenger du 5–7 cm i en høy gryte, og gryta bør ikke fylles mer enn en tredel – røren bruser når den treffer varm olje.
 - **Vend eller drypp er et reelt valg.** Vender du kyllingen i sausen, blir alt jevnt dekket, men skorpen mykner i løpet av minutter. Drypper du, holder den seg sprø lenger. Serverer du til flere, dryppes sausen over ved bordet.
-- **Kjernetemperaturen er oppgitt**, hvilket er uvanlig for en TikTok-oppskrift – 74 °C, omregnet fra 165 °F. Oljetemperaturen er også oppgitt i begge enheter.
-- **Samlingens tredje koreanske kyllingrett.** [Nr. 3](#3-koreansk-popcorn-kylling) er panert i cornflakes og stekt i airfryer, [nr. 53](#53-koreansk-kyllingburger) er en burger. Denne er den eneste som faktisk friteres.
+- **Kjernetemperaturen er oppgitt**, noe som er uvanlig for en TikTok-oppskrift – 74 °C, omregnet fra 165 °F. Oljetemperaturen er også oppgitt i begge enheter.
+- **Andre koreanske kyllingretter:** [nr. 3](#3-koreansk-popcorn-kylling) er panert i cornflakes og stekt i airfryer, [nr. 53](#53-koreansk-kyllingburger) er en burger, og [nr. 57](#57-korean-fried-chicken) er dobbeltstekt i frityr med tredelt panering.
 
 ---
 
@@ -5830,7 +5830,7 @@ Høyrygg brunet og braisert i tre og en halv time under lokk, med oksekraft, tom
 3. **Fres smaksbunnen.** Ha løk og hvitløk i gryta og stek dem myke, **ca. 3 minutter**.
 4. **Bygg kraften.** Rør inn oksekraft, tomatpuré, Worcestershiresaus, timian og rosmarin, og la det koke opp.
 5. **Kjøttet tilbake.** Legg steken i gryta og øs litt av kraften over.
-6. **Legg på lokk og stek i 3–3½ time**, til kjøttet faller fra hverandre med en gaffel. **Ha gulrøttene og potetene i de siste 60–90 minuttene.** *(Se notat – kilden har dem i fra start.)*
+6. **Legg på lokk og stek i 3–3½ timer**, til kjøttet faller fra hverandre med en gaffel. **Ha gulrøttene og potetene i de siste 60–90 minuttene.** *(Se notat – kilden har dem i fra start.)*
 7. **Server.** Skjær eller riv steken opp, og server med grønnsakene og kraften fra gryta.
 
 ### Notater
