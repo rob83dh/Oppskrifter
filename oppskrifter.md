@@ -20725,8 +20725,8 @@ Ricotta kjørt glatt i foodprosessor og bredt ut på et fat, med en marinade av 
 ### Notater
 
 - **Frityroljen mangler i ingredienslisten.** Du trenger nok olje til å dekke løkringene – ca. 3 dl i en liten kjele. Den er ikke den samme som olivenoljen, som går ubrukt i marinaden. *(Lagt til.)*
-- **Sjalottløken skal tas opp mens den fortsatt er lys gyllen.** Den etterstekes kraftig i sin egen restvarme og blir mørkere etter at den er tatt opp – venter du til den er brun i kjelen, smaker den brent. La den renne av på papir og salt den med en gang. Samme fallgruve som i [T10](#t10-hvitløks-chiliolje-chili-crisp).
-- **Løken bør ikke marineres i olje hvis den skal være sprø.** Her ligger en innebygd konflikt i oppskriften: kilden ber deg friter løken og så legge den i oljeblandingen for å marinere. Den blir bløt i løpet av minutter. **Hold halvparten utenfor og strø den over helt til slutt** – da får du både smaken i oljen og crunchen på toppen. *(Justering lagt til.)*
+- **Sjalottløken skal tas opp mens den fortsatt er lys gyllen.** Den etterstekes kraftig i sin egen restvarme og blir mørkere etter at den er tatt opp – venter du til den er brun i kjelen, smaker den brent. La den renne av på papir og salt den med en gang. Samme fallgruve som i [hvitløks-chilioljen (T10)](#t10-hvitløks-chiliolje-chili-crisp).
+- **Løken bør ikke marineres i olje hvis den skal være sprø.** Her ligger en innebygd konflikt i oppskriften: kilden ber deg fritere løken og så legge den i oljeblandingen for å marinere. Den blir bløt i løpet av minutter. **Hold halvparten utenfor og strø den over helt til slutt** – da får du både smaken i oljen og crunchen på toppen. *(Justering lagt til.)*
 - **Ricottaen må være kald.** Kilden understreker det, og med god grunn: romtemperert ricotta blir grynete i stedet for glatt, og skiller seg lettere. Rett fra kjøleskapet.
 - **Norsk ricotta er våtere enn italiensk.** Er den løs, la den renne av i et kaffefilter eller klede i kjøleskapet i en time før du pisker den – ellers flyter den utover fatet i stedet for å holde formen. *(Lagt til.)*
 - **1 ts chiliflak er lite til drøye 3 ss olje**, men chilien skal ligge i bakgrunnen her, bak appelsin og rosmarin. Vil du ha mer, øk heller til 1½ ts enn å bytte til en sterkere type.
@@ -20763,7 +20763,7 @@ Snarveien til en cubano: kokt skinke, ost, sennep og cornichoner i baguette, pre
 
 ### Notater
 
-- **Majones på utsiden i stedet for smør er hovedgrepet.** Majones er olje og eggeplomme, tåler høyere varme enn smør uten å brenne, og gir en jevnere og sprøere skorpe. Grepet er velkjent fra grilled cheese – se [SU8](#su8-tomatsuppe-med-grilled-cheese) og [SU18](#su18-tomatsuppe-med-grilled-cheese--rajjekost-sin-versjon), som begge bruker smør i stedet.
+- **Majones på utsiden i stedet for smør er hovedgrepet.** Majones er olje og eggeplomme, tåler høyere varme enn smør uten å brenne, og gir en jevnere og sprøere skorpe. Grepet er velkjent fra grilled cheese – se [tomatsuppe med grilled cheese (SU8)](#su8-tomatsuppe-med-grilled-cheese) og [Rajjekosts versjon (SU18)](#su18-tomatsuppe-med-grilled-cheese--rajjekost-sin-versjon), som begge bruker smør i stedet.
 - **Presset er ikke valgfritt.** En cubano *er* en presset sandwich – det er derfor den heter *cubano prensado*. Loddet skal ligge på hele steketiden, og du skal presse den flat, ikke bare holde den nede. Har du panini-presse, er det riktig redskap.
 - **Dette er en snarvei, og kilden er ærlig om det.** En ekte cubano har både kokt skinke **og** langtidsstekt svinekjøtt – *lechón asado*, marinert i sitrus og hvitløk – og swiss cheese. Her er svinet utelatt og skinken doblet. Vil du nærme deg originalen, bruk restene av [porchetta (nr. 74)](#74-porchetta) eller [flæskesteg (nr. 132)](#132-flæskesteg-i-airfryer--dansk-svinestek-med-sprø-svor). *(Bakgrunn lagt til.)*
 - **Osttypen er ikke oppgitt.** En cubano bruker sveitserost – Jarlsberg eller Norvegia er nærmeste norske. Osten skal smelte, ikke bli oljete, så unngå de fetteste lagrede typene.
@@ -20811,7 +20811,7 @@ Tunfisksalat der majonesen er byttet mot en dressing av avokado og gresk yoghurt
 
 - **Kilden sier ikke hvor mye dressing som skal i salaten.** Den blir brukt to steder – i salaten og som dipp – uten at fordelingen er oppgitt. Regn **halvparten** i salaten; mer, og fyllet blir for løst til å holde seg mellom brødskivene. *(Presisering lagt til.)*
 - **Retten mangler ost, tross navnet.** En *tuna melt* er per definisjon tunfisksalat med smeltet ost, grillet. Her er den utelatt helt. Vil du ha den ekte varen, legg 2 skiver ost i hvert smørbrød – cheddar eller Norvegia. Uten ost er dette et stekt tunfisksmørbrød, som er godt, men noe annet. *(Avvik notert.)*
-- **Fettet til steking mangler også.** Smør på utsiden av brødskivene er standard; majones fungerer enda bedre og gir jevnere skorpe – se [S14](#s14-rask-cuban-sandwich). *(Lagt til.)*
+- **Fettet til steking mangler også.** Smør på utsiden av brødskivene er standard; majones fungerer enda bedre og gir jevnere skorpe – se [rask cuban sandwich (S14)](#s14-rask-cuban-sandwich). *(Lagt til.)*
 - **Tunfisk i olje, ikke i vann.** Kilden er tydelig, og det er riktig: oljen bærer smaken, og tunfisk i vann blir tørr og trevlete. Renn av det meste av oljen, men ikke press fisken helt tørr.
 - **Avokadodressingen brunes.** Den holder seg grønn i et par timer takket være sitronsaften, men ikke lenger. Lag den samme dag, og press plastfolie ned mot overflaten på den delen som skal være dipp. *(Lagt til.)*
 - **Sitronsaften brukes to steder** – i dressingen og i salaten – men ½ sitron er oppført én gang. Regn **1 hel sitron**. *(Rettelse lagt til.)*
@@ -20826,7 +20826,7 @@ Tunfisksalat der majonesen er byttet mot en dressing av avokado og gresk yoghurt
 
 **Kilde:** Chef Thom Bateman / @chefthombateman (TikTok, 23. januar 2023) · **Kjøkken:** Spansk · **Tid:** 30 min + minst 3 timers kjøling · **Gir:** 8–10 kroketter
 
-Tapasklassikeren: en tykk bechamel med serranoskinke og løk, kjølt helt fast, formet, panert og fritert. Til forskjell fra potetkrokettene i [S11](#s11-kroketter-med-oksehale) er fyllet her en saus, ikke en mos – og det er kjølingen som gjør den mulig å håndtere.
+Tapasklassikeren: en tykk bechamel med serranoskinke og løk, kjølt helt fast, formet, panert og fritert. Til forskjell fra [krokettene med oksehale (S11)](#s11-kroketter-med-oksehale) er fyllet her en saus, ikke en mos – og det er kjølingen som gjør den mulig å håndtere.
 
 ### Ingredienser
 
@@ -20856,7 +20856,7 @@ Tapasklassikeren: en tykk bechamel med serranoskinke og løk, kjølt helt fast, 
 6. **Kjøl massen.** Bre den utover et brett, legg plastfolie løst over så den ikke tørker ut, og sett den kaldt.
 7. **Form krokettene.** *(Steget mangler i kilden – se notat.)* Del den kalde massen i like store biter og rull dem til sylindre eller kuler med lett fuktede hender.
 8. **Panér.** Når massen er helt kald, rigg opp krydret mel, sammenpisket egg og brødsmuler, med et brett til de ferdig panerte krokettene. Dypp i mel, så egg, så brødsmuler. Du kan kjøle dem igjen her – **10 minutter i fryseren** holder.
-9. **Friter** på **160 °C** i **3–4 minutter på hver side**, til de er gyllne og sprø hele veien rundt.
+9. **Friter** på **160 °C** i **3–4 minutter på hver side**, til de er gylne og sprø hele veien rundt.
 
 ### Notater
 
@@ -20865,7 +20865,7 @@ Tapasklassikeren: en tykk bechamel med serranoskinke og løk, kjølt helt fast, 
 - **50 g mel til 5 dl melk gir en tykk, men ikke fast bechamel.** Det er riktig for smaken – tynn bechamel gir det kremete, nesten flytende fyllet som kjennetegner en god croqueta – men det gjør massen krevende å håndtere. Er du usikker første gang, gå opp til **65 g mel**. Da blir de fastere og lettere, på bekostning av litt kremethet. *(Justering lagt til.)*
 - **Melet må stekes ut i 3–4 minutter.** Kilden er tydelig, og det er viktigere her enn i en vanlig saus: rått mel smaker tydelig gjennom i et fyll som skal spises som det er. Blandingen skal boble og lukte lett nøtteaktig, men ikke ta farge.
 - **1 dl om gangen, under kontinuerlig visping.** Heller du alt på én gang, får du klumper som ikke lar seg redde i en så tykk saus.
-- **Dobbel panering anbefales.** Kjør mel–egg–smuler, og deretter egg–smuler en gang til. Fyllet er flytende når det varmes opp, og ett lag panering er lite margin. Samme råd som i [S11](#s11-kroketter-med-oksehale). *(Lagt til.)*
+- **Dobbel panering anbefales.** Kjør mel–egg–smuler, og deretter egg–smuler en gang til. Fyllet er flytende når det varmes opp, og ett lag panering er lite margin. Samme råd som i [krokettene med oksehale (S11)](#s11-kroketter-med-oksehale). *(Lagt til.)*
 - **160 °C er lavere enn vanlig frityr, og med hensikt.** Fyllet er allerede ferdig – oljen skal bare gjøre paneringen sprø og varme kjernen. Høyere temperatur svir paneringen før midten er varm. Kildens 3–4 minutter per side er rikelig for kroketter på denne størrelsen; regn heller **2–3 minutter totalt** hvis de er små.
 - **Friter i små puljer.** For mange samtidig senker oljetemperaturen, og da suger paneringen olje.
 - **Serranoskinken skal sprøstekes først** og gir fett og salt til hele fyllet. Bruk tynne skiver og hakk dem etter stekingen. Spekeskinke fra norske butikker fungerer; ekte jamón serrano fås i delikatessebutikker.
@@ -20885,7 +20885,7 @@ Tapasklassikeren: en tykk bechamel med serranoskinke og løk, kjølt helt fast, 
 
 ### Ingredienser
 
-- 1 middels stor til stor rødskallet potet, skrellet
+- 1 middels stor til stor rødskallet potet, skrelt
 - 1 ss smør *(mengde lagt til)*
 - 2 ts olje *(mengde lagt til)*
 
@@ -20908,14 +20908,14 @@ Tapasklassikeren: en tykk bechamel med serranoskinke og løk, kjølt helt fast, 
 
 ### Notater
 
-- **Poteten skal ikke skylles etter riving.** Kilden legger den *hele* poteten i vann før riving – det hindrer misfarging – men river den rett i pannen etterpå. Stivelsen på de revne strimlene er limet som holder röstien sammen. Presser du ut væsken, kan du med fordel la stivelsen som legger seg i bunnen av bollen bli med tilbake. *(Presisering lagt til.)*
+- **Poteten skal ikke skylles etter riving.** Kilden legger *hele* poteten i vann før riving – det hindrer misfarging – men river den rett i pannen etterpå. Stivelsen på de revne strimlene er limet som holder röstien sammen. Presser du ut væsken, kan du med fordel la stivelsen som legger seg i bunnen av bollen bli med tilbake. *(Presisering lagt til.)*
 - **Pressingen er det viktigste steget.** Vann i pannen gir damping i stedet for steking, og röstien blir grå og bløt. Klem den revne poteten hardt i et rent kjøkkenhåndkle – langt mer effektivt enn et dørslag alene. *(Lagt til.)*
-- **Rødskallet potet er ikke opplagt valg.** Norske rødskallede sorter som Asterix er middels faste og fungerer, men klassisk rösti bruker melne poteter, der stivelsen binder bedre. Beate eller Kerrs Pink gir en röstie som henger tydeligere sammen. *(Presisering lagt til.)*
+- **Rødskallet potet er ikke et opplagt valg.** Norske rødskallede sorter som Asterix er middels faste og fungerer, men klassisk rösti bruker melne poteter, der stivelsen binder bedre. Beate eller Kerrs Pink gir en rösti som henger tydeligere sammen. *(Presisering lagt til.)*
 - **Middels lav varme er riktig, og krever tålmodighet.** Poteten er rå og skal gjennomstekes samtidig som utsiden blir sprø. Høy varme gir brent overflate og rå kjerne. Kildens 3–4 minutter per side forutsetter et tynt lag – én potet i en liten panne. Lager du dobbel porsjon i stor panne, må tiden opp.
 - **Ikke rør i den.** Press den flat én gang og la den være. Piller du i kantene, faller den fra hverandre når du skal snu.
 - **Salt først etter stekingen.** Salt i den revne poteten trekker ut vann i pannen, akkurat det du nettopp har presset ut. Flaksalt på toppen til slutt. *(Lagt til.)*
-- **Gochugaru er ikke vanlige chiliflak.** De koreanske er milde, fruktige og dyprøde, og gir farge mer enn styrke. Vanlige knuste chiliflak i samme mengde blir markant sterkere. Gochugaru fås i asiatiske butikker på Grønland og Tøyen. Se samme presisering i [T45](#t45-chiliolje--chef-jack-ovens-sin-versjon).
-- **Fermentert hvitløkshonning** er hele hvitløksfedd lagt i honning i flere uker – hvitløken mykner og honningen blir tynnere og krydret. Kilden har oppskriften på egen konto. Vanlig honning fungerer, og en ørliten mengde revet hvitløk rørt i gir en tilnærming. Merk at hvitløk i honning ved romtemperatur har samme botulismeproblematikk som hvitløk i olje – se [T45](#t45-chiliolje--chef-jack-ovens-sin-versjon). *(Bakgrunn og forbehold lagt til.)*
+- **Gochugaru er ikke vanlige chiliflak.** De koreanske er milde, fruktige og dyprøde, og gir farge mer enn styrke. Vanlige knuste chiliflak i samme mengde blir markant sterkere. Gochugaru fås i asiatiske butikker på Grønland og Tøyen. Se samme presisering i [Chef Jack Ovens' chiliolje (T45)](#t45-chiliolje--chef-jack-ovens-sin-versjon).
+- **Fermentert hvitløkshonning** er hele hvitløksfedd lagt i honning i flere uker – hvitløken mykner og honningen blir tynnere og krydret. Kilden har oppskriften på egen konto. Vanlig honning fungerer, og en ørliten mengde revet hvitløk rørt i gir en tilnærming. Merk at hvitløk i honning ved romtemperatur har samme botulismeproblematikk som hvitløk i olje – se [Chef Jack Ovens' chiliolje (T45)](#t45-chiliolje--chef-jack-ovens-sin-versjon). *(Bakgrunn og forbehold lagt til.)*
 - **Ingen mengder på toppingen**, og det spiller liten rolle: en spiseskje crème fraîche, en klype gochugaru, litt dill og en skvett honning per rösti.
 - **Honning og chili mot syrlig crème fraîche** er kombinasjonen som bærer retten. Ikke kutt honningen fordi den virker rar på potet – den er motvekten til saltet og syren.
 - **Skalerer dårlig.** Én potet per panne. Skal du lage flere, stek dem etter tur og hold dem varme på rist i ovnen på 100 °C, aldri stablet.
@@ -20946,12 +20946,12 @@ Hjemmelaget kopi av McDonald's hashbrown, men i dobbel størrelse. Fire ingredie
 
 ### Notater
 
-- **Bare punkt 1 er kildens egen tekst.** Innlegget oppgir ingrediensene, antall stykker og første steg – resten av fremgangsmåten mangler i det jeg har fått tak i. Punkt 2–6 er rekonstruert etter standard metode for denne typen hashbrowns. **Verifiser mot videoen før du følger den.** *(Merknad lagt til.)*
+- **Bare punkt 1 er kildens egen tekst.** Innlegget oppgir ingrediensene, antall stykker og første steg – resten av fremgangsmåten mangler i den tilgjengelige teksten. Punkt 2–6 er rekonstruert etter standard metode for denne typen hashbrowns. **Verifiser mot videoen før du følger den.** *(Merknad lagt til.)*
 - **1 ss + 1½ ts salt er svært mye til 1,2 kg potet** – rundt 27 g, altså over 2 % av vekten. Sannsynligvis er mesteparten ment til kokevannet, ikke til selve massen. Salt kokevannet godt, og bruk **1 ts** i blandingen. Smak deg fram. *(Justering lagt til.)*
-- **Forkokingen er det som skiller denne fra en rösti.** Rå revet potet – som i [S17](#s17-potetrösti-med-crème-fraîche-og-gochugaru) – gir en helt annen, mer trådete tekstur. Forkokte poteter gir den melne, sammenhengende innmaten McDonald's-hashbrownen er kjent for. Ikke kok dem helt møre; da faller de fra hverandre på rivjernet.
+- **Forkokingen er det som skiller denne fra en rösti.** Rå revet potet – som i [potetröstien (S17)](#s17-potetrösti-med-crème-fraîche-og-gochugaru) – gir en helt annen, mer trådete tekstur. Forkokte poteter gir den melne, sammenhengende innmaten McDonald's-hashbrownen er kjent for. Ikke kok dem helt møre; da faller de fra hverandre på rivjernet.
 - **Frysing før steking er ikke valgfritt.** Massen holder ikke formen på egen hånd, og en kald, fast blokk lar seg skjære i pene rektangler og går ikke i oppløsning i oljen. Minst en time. *(Lagt til.)*
 - **Isvannet i punkt 1** hindrer potetene i å mørkne mens du jobber. Med hele terninger skyller det bort lite stivelse, i motsetning til når man skyller revet potet.
-- **Russetpotet finnes ikke i Norge.** Det er en melen bakepotet – norske motsvarigheter er **Beate, Kerrs Pink eller Pimpernel**. Fastkokende sorter binder ikke og gir vasne hashbrowns. *(Erstatning lagt til.)*
+- **Russetpotet finnes ikke i Norge.** Det er en melen bakepotet – norske motsvarigheter er **Beate, Kerrs Pink eller Pimpernel**. Fastkokende sorter binder ikke og gir vasstrukne hashbrowns. *(Erstatning lagt til.)*
 - **Maisenna, ikke hvetemel.** Maisenna gir en sprøere og lettere skorpe og binder uten å gjøre massen deigete.
 - **De 3 ss olje er i blandingen**, ikke til steking. Stekefettet kommer i tillegg.
 - **Kan fryses ferdig formet** og stekes rett fra frossen – da er de klare til frokost når som helst. Legg på et par minutter i pannen.
@@ -20994,11 +20994,11 @@ Tapasklassikeren, men ovnsbakt i stedet for fritert. Potetene forvelles i vann m
 **Potetene**
 
 1. **Varm brettet med ovnen.** Sett et stort stekebrett inn i kald ovn og forvarm til **260 °C**.
-2. **Forvell potetene.** Ha natron og salt i en kjele med vann og kok opp. Ha i potetene, legg på lokk og kok opp igjen. Så snart vannet koker, sett klokka på **1 minutt**. Hell av i dørslag.
+2. **Forvell potetene.** Ha natron og salt i en kjele med vann og kok opp. Ha i potetene, legg på lokk og kok opp igjen. Så snart vannet koker, ta tiden: **1 minutt**. Hell av i dørslag.
 3. **Rør dem.** Ha potetene tilbake i kjelen og rør i **30 sekunder**. Tilsett så olivenoljen, salt og pepper, og rør til potetene er helt dekket.
 4. **Over på det varme brettet.** Ta brettet forsiktig ut av ovnen og fordel potetene i ett lag.
 5. **Stek 15 minutter.**
-6. **Snu dem** med stekespade og stek videre i **15–25 minutter**, til de er gyllne og sprø.
+6. **Snu dem** med stekespade og stek videre i **15–25 minutter**, til de er gylne og sprø.
 
 **Salsa brava**
 
@@ -21023,7 +21023,7 @@ Tapasklassikeren, men ovnsbakt i stedet for fritert. Potetene forvelles i vann m
 - **Det forvarmede brettet er ikke valgfritt.** Poteter som treffer et glovarmt brett begynner å steke umiddelbart; på et kaldt brett damper de først. Sett brettet inn i kald ovn, som kilden sier, så det ikke slår seg.
 - **Yukon Gold er en middels melen potet.** Norsk **Beate** ligger nærmest. Helt melne sorter som Kerrs Pink faller lettere fra hverandre i natronvannet; helt fastkokende gir for lite stivelse til grøtlaget. *(Erstatning lagt til.)*
 - **Ikke overskrid det ene minuttet.** Natron akselererer nedbrytingen kraftig, og potetene går fra perfekt til grøt på kort tid.
-- **Kildens «aioli» er hvitløksmajones**, og hun sier det rett ut selv. Ekte aioli lages uten egg, bare hvitløk og olje – se [T15](#t15-aioli). Vil du lage majonesen fra bunnen, se [T122](#t122-majones). Snarveien her er både vanlig og god.
+- **Kildens «aioli» er hvitløksmajones**, og hun sier det rett ut selv. Ekte aioli lages uten egg, bare hvitløk og olje – se [aioli (T15)](#t15-aioli). Vil du lage majonesen fra bunnen, se [majonesen (T122)](#t122-majones). Snarveien her er både vanlig og god.
 - **800 g tomat til 1,1 kg potet gir mye saus.** Halvparten holder til retten; resten er utmerket som pastasaus eller til [croquetas (S16)](#s16-croquetas-de-jamón--spanske-skinkekroketter). *(Presisering lagt til.)*
 - **Spansk røkt paprika – pimentón – finnes i tre styrker:** *dulce* (søt), *agridulce* (halvsterk) og *picante* (sterk). Kilden bruker den søte og henter styrken fra cayenne. Fås hos Meny og i delikatessebutikker.
 - **Madrids salsa brava inneholder ofte ingen tomat i det hele tatt** – den lages på paprikapulver, mel, kraft og eddik. Tomatbaserte versjoner er vanlige ellers i Spania og i utlandet. Denne er altså en variant, ikke den strengeste originalen. *(Bakgrunn lagt til.)*
