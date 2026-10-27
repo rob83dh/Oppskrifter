@@ -17329,26 +17329,26 @@ Rødkål kokt i rødvin og sherryeddik, med tørket fiken og dadler som eneste s
 - 2 dl rødvin
 - 1 dl olivenolje
 - Salt
-- Kajennepepper
+- Cayennepepper
 
 ### Fremgangsmåte
 
-1. **Kutt rødkålen i 4 og deretter i tynne strimler.** Unngå de hvite, tykke stammene.
+1. **Del rødkålen i fire og skjær den i tynne strimler.** Unngå de hvite, tykke stammene.
 2. **Skrell og kutt rødløken på samme måte.**
 3. **Fres rødløken i olivenolje til den er blank**, og rør inn kålen.
 4. **Tilsett fiken og dadler skåret i terninger** og bland godt.
 5. **Tilsett sherryeddik og rødvin.**
-6. **Kok i ca. 30 minutter** og arbeid sammen til en god tekstur.
-7. **Smak til med salt og kajennepepper.**
+6. **Kok i ca. 30 minutter** under jevnlig omrøring, til kålen er mør.
+7. **Smak til med salt og cayennepepper.**
 
 ### Notater
 
 - **Frukten erstatter sukkeret.** Norsk rødkål er tradisjonelt søtet med sukker og eddik hver for seg. Her kommer sødmen fra fiken og dadler, som samtidig bidrar med fiber og binder kraften mens den koker inn.
 - **De hvite stammene skal bort.** De er seige og blir aldri møre på samme tid som bladene, uansett hvor lenge kålen koker.
-- **Sherryeddik, ikke husholdningseddik.** Den er mildere og har en nøtteaktig dybde som tåler rødvinen. Vanlig eddik i samme mengde blir skarpt.
+- **Sherryeddik, ikke husholdningseddik.** Den er mildere og har en nøtteaktig dybde som tåler rødvinen. Vanlig eddik i samme mengde blir for skarp.
 - **En hel desiliter olivenolje** er mye for en kålrett, og den er ikke bare stekefett – den ligger igjen i den ferdige retten og gjør den blank og fyldig.
 - **Kilden kaller retten «Rødkål-fiken».** Navnet er utvidet her for å gjøre den søkbar. *(Presisert.)*
-- **Beslektet:** [T129](#t129-syltet-rødløk) er samme sur-søte prinsipp i kald utgave.
+- **Beslektet:** [syltet rødløk (T129)](#t129-syltet-rødløk) er samme sur-søte prinsipp i kald utgave.
 
 ---
 
@@ -17356,7 +17356,7 @@ Rødkål kokt i rødvin og sherryeddik, med tørket fiken og dadler som eneste s
 
 **Kilde:** Eyvind Hellstrøm, *Grunnboka* (Cappelen Damm, 2025) · **Kjøkken:** Italiensk · **Tid:** ca. 3½ t · **Gir:** ca. 4 dl *(ikke oppgitt i kilden)*
 
-Tomatene tørkes i ovnen på 90 grader i tre timer. Prosessen gir en forsterket sursøt smak.
+Tomatene tørkes i ovnen på 90 °C i tre timer. Prosessen gir en forsterket sursøt smak.
 
 ### Ingredienser
 
@@ -17370,16 +17370,16 @@ Tomatene tørkes i ovnen på 90 grader i tre timer. Prosessen gir en forsterket 
 2. **Del dem i to og skrap ut kjerner og innmat.**
 3. **Salt dem lett.**
 4. **Ha dem i en stor panne og ringle olivenolje over.**
-5. **Sett pannen i ovnen på 90 grader** og la tomatene tørke i **ca. 3 timer**.
+5. **Sett pannen i ovnen på 90 °C** og la tomatene tørke i **ca. 3 timer**.
 
 ### Notater
 
-- **90 grader er tørking, ikke steking.** Over 100 grader begynner sukkeret å karamellisere og tomatene blir stekte i stedet for tørkede. Den sursøte konsentrasjonen kilden beskriver kommer av at vann fordamper langsomt mens alt annet blir stående.
+- **90 °C er tørking, ikke steking.** Over 100 °C begynner sukkeret å karamellisere og tomatene blir stekte i stedet for tørkede. Den sursøte konsentrasjonen kilden beskriver kommer av at vann fordamper langsomt mens alt annet blir stående.
 - **Kjernene må ut.** Det er der vannet sitter, og med dem i tar tørkingen langt lengre tid uten at smaken blir bedre.
 - **Ett kilo blir til overraskende lite.** Tomater er over 90 % vann, så regn med at volumet krymper til en brøkdel. Det er normalt.
 - **Oppbevaring:** i en beholder med lokk, dekket med litt ekstra olivenolje, i kjøleskap i noen dager. Oljen holder luften unna.
 - **Ikke soltørket i egentlig forstand.** Navnet er innarbeidet, men dette er ovnstørkede tomater – de blir myke og saftige, ikke lærharde som de tørre man kjøper i pose.
-- **Beslektet:** [T125](#t125-marinara--tomatsausbase) er den kokte tomatbasen, og [T41](#t41-ovnsbakt-paprika--og-tomatsalat-med-bocconcini) bruker samme konsentrasjonsprinsipp i en salat.
+- **Beslektet:** [marinara (T125)](#t125-marinara--tomatsausbase) er den kokte tomatbasen, og [ovnsbakt paprika- og tomatsalat (T41)](#t41-ovnsbakt-paprika--og-tomatsalat-med-bocconcini) bruker samme konsentrasjonsprinsipp i en salat.
 
 ---
 
@@ -17387,13 +17387,13 @@ Tomatene tørkes i ovnen på 90 grader i tre timer. Prosessen gir en forsterket 
 
 **Kilde:** Eyvind Hellstrøm, *Grunnboka* (Cappelen Damm, 2025) · **Kjøkken:** Fransk · **Tid:** ca. 1 t · **Porsjoner:** 4 *(ikke oppgitt i kilden)*
 
-Puy-linser kokt med kardemommefrø, montert med kaldt smør og en egen persillepuré, med separat stekte grønnsaker vendt inn til slutt.
+Puy-linser kokt med kardemomme, montert med kaldt smør og en egen persillepuré, med separat stekte grønnsaker vendt inn til slutt.
 
 ### Ingredienser
 
 - 150 g grønne linser «du Puy»
-- 3–4 kardemommefrø
-- 5 dl grønnsakbuljong eller vann
+- 3–4 hele kardemommekapsler *(kilden skriver «kardemommefrø»)*
+- 5 dl grønnsaksbuljong eller vann
 - 2 salatløk
 - 2 gulrøtter
 - 1 squash
@@ -17404,7 +17404,7 @@ Puy-linser kokt med kardemommefrø, montert med kaldt smør og en egen persillep
 
 ### Fremgangsmåte
 
-1. **Skyll linsene i kaldt vann** og kok dem sammen med kardemommefrøene i vann eller grønnsakbuljong på **svak varme i ca. 40 minutter**. Tilsett mer væske etter behov – linsene må ikke koke tørre.
+1. **Skyll linsene i kaldt vann** og kok dem sammen med kardemommen i vann eller grønnsaksbuljong på **svak varme i ca. 40 minutter**. Tilsett mer væske etter behov – linsene må ikke koke tørre.
 2. **Skrell og kutt grønnsakene i passende skiver.** Fres dem i olivenolje til de er møre, men fortsatt faste.
 3. **Plukk persillen for stilker og kok den i saltet vann i 5 minutter.** Avkjøl i kaldt vann og la den renne av.
 4. **Kjør persillen med litt vann til fin puré** i kjøkkenmaskin, og sett til side.
@@ -17414,11 +17414,11 @@ Puy-linser kokt med kardemommefrø, montert med kaldt smør og en egen persillep
 ### Notater
 
 - **Du Puy-linser holder formen.** De er små, mørkegrønne og har et fastere skall enn vanlige grønne linser, som koker i stykker på førti minutter. Bytter du sort, kort ned tiden og sjekk underveis.
-- **Kardemomme i linser er uvanlig og med vilje.** Frøene gir en svak blomsteraktig tone som løfter en ellers jordnær rett. Hele frø, ikke malt – de skal kunne plukkes ut.
-- **Persillen kokes før den mikses.** Fem minutter i kokende vann bryter ned cellevegger nok til at puréen blir glatt i stedet for trevlet, og avkjølingen i kaldt vann låser fargen. Rå persille gir en mørk, grumsete saus.
+- **Kardemomme i linser er uvanlig og med vilje.** Den gir en svak blomsteraktig tone som løfter en ellers jordnær rett. Hele kapsler, ikke malt – de skal kunne plukkes ut.
+- **Persillen kokes før den mikses.** Fem minutter i kokende vann bryter ned cellevegger nok til at puréen blir glatt i stedet for trevlete, og avkjølingen i kaldt vann låser fargen. Rå persille gir en mørk, grumsete saus.
 - **Kaldt smør monteres inn.** Smøret skal emulgere i restvæsken, ikke smelte i den. Kaldt fett i varm væske under omrøring gir en blank binding; romtemperert smør skiller seg.
 - **Kilden foreslår retten både alene** og til stekt lam, kalvelever, lammelever, nyrer, stekt fisk og skalldyr.
-- **Beslektet:** [SA6](#sa6-linsesalat-med-feta-og-ristet-spisskummen) er kald linserett, og [SU13](#su13-vegetarisk-linsegryte) er den varme gryten.
+- **Beslektet:** [linsesalat med feta (SA6)](#sa6-linsesalat-med-feta-og-ristet-spisskummen) er en kald linserett, og [vegetarisk linsegryte (SU13)](#su13-vegetarisk-linsegryte) en varm.
 
 ---
 
@@ -17433,7 +17433,7 @@ Frosne petits pois kokt i ett minutt og kjørt glatt med hundre gram smør.
 - 400 g små erter, petits pois (frosne)
 - 100 g smør
 - Salt
-- Kajennepepper
+- Cayennepepper
 
 ### Fremgangsmåte
 
@@ -17441,15 +17441,15 @@ Frosne petits pois kokt i ett minutt og kjørt glatt med hundre gram smør.
 2. **Slå av vannet** og ha ertene i blender eller kjøkkenmaskin.
 3. **Del smøret i mindre terninger og ha det i.**
 4. **Kjør sammen til en glatt puré eller mos.**
-5. **Smak til med salt og kajennepepper.**
+5. **Smak til med salt og cayennepepper.**
 
 ### Notater
 
 - **Ett minutt, ikke mer.** Frosne erter er allerede forvellet før de fryses. Kokingen skal bare varme dem gjennom – lengre tid gjør fargen olivengrå og smaken flat.
 - **Petits pois, ikke vanlige erter.** De små er søtere og har tynnere skall, som gir en glattere puré uten at du må sile. Store erter etterlater skallrester.
 - **Frosne slår ferske her.** Erter mister sødme raskt etter høsting, og de fryses vanligvis innen timer. Dette er en av få grønnsaker der frossen er det faglig riktige valget.
-- **Hundre gram smør til fire hundre gram erter** er et forhold på én til fire. Det er en fransk puré, ikke en lett grønnsaksmos, og smøret er det som gjør den blank.
-- **Beslektet:** [T67](#t67-hellstrøms-mandelpotetpuré) er samme monteringsprinsipp med potet.
+- **100 g smør til 400 g erter** er et forhold på én til fire. Det er en fransk puré, ikke en lett grønnsaksmos, og smøret er det som gjør den blank.
+- **Beslektet:** [mandelpotetpuréen (T67)](#t67-hellstrøms-mandelpotetpuré) er samme monteringsprinsipp med potet.
 
 ---
 
@@ -17464,11 +17464,11 @@ Tørkede kikerter kokt møre med løk, gulrot og ras el hanout, og kjørt glatt 
 - 100 g kikerter
 - 1 gulrot
 - 1 løk
-- 2 hvitløkfedd
+- 2 hvitløksfedd
 - 1 ss spisskummen
 - 1 ss ras el hanout
 - ½ ts malt nellik
-- 1 l vann eller grønnsakbuljong
+- 1 l vann eller grønnsaksbuljong
 - Olivenolje
 - Sitronsaft
 - Salt
@@ -17478,7 +17478,7 @@ Tørkede kikerter kokt møre med løk, gulrot og ras el hanout, og kjørt glatt 
 1. **Legg kikertene i bløt i kaldt vann over natten.**
 2. **Skrell og finhakk løk, hvitløk og gulrot**, og fres i olivenolje.
 3. **Tilsett kikerter og krydder.**
-4. **Ha i vann eller grønnsakbuljong til det dekker kikertene.** Kok til de er møre og tilsett eventuelt litt mer vann underveis. Dette tar **ca. 2 timer** avhengig av kvaliteten på kikertene.
+4. **Ha i vann eller grønnsaksbuljong til det dekker kikertene.** Kok til de er møre og tilsett eventuelt litt mer vann underveis. Dette tar **ca. 2 timer** avhengig av kvaliteten på kikertene.
 5. **Smak til med salt og eventuelt mer spisskummen.**
 6. **Kjør kikerter og kokevann i kjøkkenmaskin til en glatt puré.**
 7. **Tilsett olivenolje og sitronsaft etter smak.**
@@ -17490,7 +17490,7 @@ Tørkede kikerter kokt møre med løk, gulrot og ras el hanout, og kjørt glatt 
 - **To timer er et anslag, ikke en fasit.** Gamle tørkede kikerter kan bruke tre timer eller aldri bli helt møre. Kilden nevner dette selv – kvaliteten avgjør.
 - **Krydderet freses med grønnsakene før væsken.** Spisskummen, ras el hanout og nellik er alle fettløselige; noen sekunder i varm olje henter ut langt mer aroma enn to timer i kokevann ville gjort.
 - **100 g tørkede kikerter blir ca. 250 g kokte.** Det er en beskjeden mengde – dobler du den, dobler du også væsken. *(Presisert.)*
-- **Beslektet:** [SA2](#sa2-kikertsalat-med-sitron-og-persille) er kikerter kaldt, og [G19](#g19-garam-masala) er samlingens andre sammensatte krydderblanding.
+- **Beslektet:** [kikertsalat med sitron og persille (SA2)](#sa2-kikertsalat-med-sitron-og-persille) er kikerter servert kalde, og [garam masala (G19)](#g19-garam-masala) er en annen sammensatt krydderblanding.
 
 ---
 
@@ -17504,7 +17504,7 @@ Gulrøttene kokes opp i blodappelsinsaft med spisskummen og koriander, og bakes 
 
 - ½ kg gulrøtter (helst nye)
 - 3 ss + 1 ts olivenolje *(Omregnet fra ½ dl.)*
-- 2–3 hvitløkfedd
+- 2–3 hvitløksfedd
 - 2–3 blodappelsiner
 - 1 ss spisskummen
 - 1½ ts malt koriander
@@ -17525,9 +17525,9 @@ Gulrøttene kokes opp i blodappelsinsaft med spisskummen og koriander, og bakes 
 - **Blodappelsin er syrligere enn vanlig appelsin.** Bruker du vanlig, blir retten merkbart søtere – kompenser med et par teskjeer sitronsaft.
 - **Skallet fra bare én appelsin, saften fra alle.** Skallet bærer de bitre oljene og blir dominerende i mengde; saften er væsken retten koker inn i.
 - **Lokket er nødvendig.** Uten det fordamper appelsinsaften før gulrøttene er møre, og du sitter igjen med tørre gulrøtter i en brent sirup.
-- **Kilden oppgir ikke ovnstemperatur.** 180 grader er et fornuftig utgangspunkt for 30 minutter under lokk. *(Flagget.)*
+- **Kilden oppgir ikke ovnstemperatur.** 180 °C er et fornuftig utgangspunkt for 30 minutter under lokk. *(Flagget.)*
 - **Hele gulrøtter tar lengre tid enn staver.** Er de tykke, regn med 40–45 minutter.
-- **Beslektet:** [T80](#t80-hellstrøms-gulrøtter-med-ingefær-og-koriander) er den nordiske motsatsen med samme grønnsak.
+- **Beslektet:** [gulrøtter med ingefær og koriander (T80)](#t80-hellstrøms-gulrøtter-med-ingefær-og-koriander) er den nordiske motsatsen med samme grønnsak.
 
 ---
 
@@ -17563,8 +17563,8 @@ Gulrøttene kokes med revet ingefær i akkurat så mye vann at det er fordampet 
 - **Det krever at du følger med.** Metoden har ingen sikkerhetsmargin – for lite vann og de svir seg, for mye og du sitter igjen med en tynn kraft. Start med så vidt dekkende vann og spe om nødvendig.
 - **Kaldt smør til slutt binder restvæsken.** Det lille som er igjen i bunnen blir en blank glasur i stedet for å renne av.
 - **«Al dente» om gulrøtter er kildens egen formulering**, og den er presis: gulrøtter som er kokt helt myke mister både smak og tekstur.
-- **Pepperrotsausen er en majones**, ikke en fløtesaus. Se [T122](#t122-majones) for grunnoppskriften.
-- **Beslektet:** [T79](#t79-hellstrøms-gulrøtter-bakt-med-spisskummen) er den nordafrikanske motsatsen med samme grønnsak.
+- **Pepperrotsausen er en majones**, ikke en fløtesaus. Se [majonesen (T122)](#t122-majones) for grunnoppskriften.
+- **Beslektet:** [gulrøtter bakt med spisskummen (T79)](#t79-hellstrøms-gulrøtter-bakt-med-spisskummen) er den nordafrikanske motsatsen med samme grønnsak.
 
 ---
 
@@ -17572,12 +17572,12 @@ Gulrøttene kokes med revet ingefær i akkurat så mye vann at det er fordampet 
 
 **Kilde:** Eyvind Hellstrøm, *Grunnboka* (Cappelen Damm, 2025) · **Kjøkken:** Fransk · **Tid:** ca. 20 min · **Porsjoner:** 4 *(ikke oppgitt i kilden)*
 
-Kantarellene stekes tørre først, og monteres så med noen skjeer vann og kaldt smør til en blank sky rundt soppen.
+Kantarellene stekes tørre først, og monteres så med noen skjeer vann og kaldt smør til en blank saus rundt soppen.
 
 ### Ingredienser
 
 - 500 g ferske kantareller
-- 2 hvitløkfedd
+- 2 hvitløksfedd
 - 2–3 ss olivenolje
 - 2–3 ss vann
 - 50 g smør
@@ -17592,16 +17592,16 @@ Kantarellene stekes tørre først, og monteres så med noen skjeer vann og kaldt
 1. **Rens kantarellene og fres dem i varm olivenolje** til væsken har fordampet og soppen er lettstekt og tørr.
 2. **Bland inn knust hvitløk og salt.**
 3. **Ha i 2–3 ss vann og kok opp.**
-4. **Visk inn kaldt smør i terninger.**
+4. **Visp inn kaldt smør i terninger.**
 5. **Smak til med sitronsaft, salt og friske, hakkede urter.**
 
 ### Notater
 
-- **Soppen må stekes tørr før noe annet skjer.** Kantareller er fulle av vann, og tilsetter du fett eller væske før det har fordampet, koker de i stedet for å steke. Vent til pannen slutter å freser og soppen begynner å synge.
+- **Soppen må stekes tørr før noe annet skjer.** Kantareller er fulle av vann, og tilsetter du fett eller væske før det har fordampet, koker de i stedet for å steke. Vent til pannen slutter å frese og soppen begynner å synge.
 - **Vannet er ikke en feil.** To–tre skjeer virker meningsløst rett etter at du har dampet bort væsken, men det er akkurat nok til at smøret kan emulgere i stedet for å skille seg. Uten det får du smeltet smør i bunnen.
 - **Hvitløken kommer sent.** Knust hvitløk i en varm, tørr panne brenner på et halvminutt og blir bitter. Her går den i etter at soppen er ferdigstekt.
 - **Estragon er det uvanlige valget.** Persille og gressløk er standard til sopp; estragonen trekker retten mot det franske og gir en anisaktig tone som kler kantarellenes pepperaktighet.
-- **Beslektet:** [T43](#t43-kantarellsaus) er samme sopp kokt ut til saus.
+- **Beslektet:** [kantarellsaus (T43)](#t43-kantarellsaus) er samme sopp kokt ut til saus.
 
 ---
 
@@ -17609,7 +17609,7 @@ Kantarellene stekes tørre først, og monteres så med noen skjeer vann og kaldt
 
 **Kilde:** Eyvind Hellstrøm, *Grunnboka* (Cappelen Damm, 2025) · **Kjøkken:** Fransk · **Tid:** ca. 1 t · **Gir:** ca. 4 dl *(ikke oppgitt i kilden)*
 
-To ingredienser og én time. Løk karamellisert på svak varme i olje og smør til den er bløt og gyllen.
+Løk, olje og smør – og én time. Løk karamellisert på svak varme i olje og smør til den er bløt og gyllen.
 
 ### Ingredienser
 
@@ -17629,7 +17629,7 @@ To ingredienser og én time. Løk karamellisert på svak varme i olje og smør t
 - **Olje og smør sammen, ikke ett av dem.** Oljen hever røykpunktet så smøret ikke svir seg gjennom hele timen, og smøret gir smaken. Bare olje blir flatt, bare smør blir svidd.
 - **Fine strimler, ikke terninger.** Strimler kollapser jevnt og blir til en sammenhengende kompott. Terninger holder formen og gir noe annet.
 - **Ikke rør for ofte.** Løken må få ligge i kontakt med bunnen for å ta farge. Rør hvert femte minutt, ikke hvert halvminutt. *(Presisert.)*
-- **Beslektet:** [SU5](#su5-fransk-løksuppe) bygger på den samme karamelliseringen.
+- **Beslektet:** [fransk løksuppe (SU5)](#su5-fransk-løksuppe) bygger på den samme karamelliseringen.
 
 ---
 
