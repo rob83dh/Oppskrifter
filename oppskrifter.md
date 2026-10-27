@@ -7189,7 +7189,7 @@ Tynne kyllingfileter i en fløtesaus med to typer sennep, hvitvin og friske urte
 ### Fremgangsmåte
 
 1. **Krydre kyllingen.** Ha filetene i en bolle med løkpulver, hvitløkspulver, salt og pepper, og bland godt.
-2. **Stek kyllingen.** Varm en panne på middels sterk varme, tilsett olivenoljen og stek filetene **3½ minutt på hver side**. Ta dem ut og sett til side.
+2. **Stek kyllingen.** Varm en panne på middels sterk varme, tilsett olivenoljen og stek filetene **3½ minutter på hver side**. Ta dem ut og sett til side.
 3. **Surr løken.** I samme panne på middels sterk varme, tilsett olivenolje og løk og surr i **5 minutter** under jevnlig omrøring. Tilsett hvitløken og stek **1 minutt** under konstant omrøring. Smak til.
 4. **Kok inn vinen.** Hell i vin eller kraft og kok opp. Rør godt og la koke inn i **2 minutter**, til det er redusert til det halve. Rør inn begge sennepstypene og la det koke **1 minutt**. Smak til.
 5. **Tilsett fløten.** Kok opp, skru ned til lav varme og la det småkoke **6–8 minutter**, til sausen er redusert og tyknet.
@@ -7204,7 +7204,7 @@ Tynne kyllingfileter i en fløtesaus med to typer sennep, hvitvin og friske urte
 - **De to sennepstypene gjør ulike jobber.** Dijon er emulgatoren som binder sausen og gir skarpheten; den grovkornede gir tekstur og en mildere, søtere syre. Bytter du all sennep til én type, blir sausen enten for skarp og glatt eller for mild og kornete. Har du bare dijon, bruk ca. 40 g totalt.
 - **«Thickened cream» er australsk fløte med fortykningsmiddel**, ca. 35 % fett. Norsk kremfløte på 38 % er riktig erstatning – samme konklusjon som i [nr. 127](#127-kremet-hvitløkskylling--simple-home-edit-sin-versjon). Crème fraîche skiller seg i denne sausen og skal ikke brukes.
 - **Sausen skal småkoke, aldri fosskoke.** Dijon og fløte skiller seg ved hard koking. Blir den likevel kornete, ta pannen av varmen og visp inn en skvett kald fløte.
-- **Kjernetemperatur 68–70 °C.** 3½ minutt per side forutsetter at filetene faktisk er delt på langs og banket jevnt tynne – er de tykkere enn ca. 1,5 cm, blir de rå i midten. Kyllingen får dessuten ett minutt til i sausen på slutten, så ta den heller ut litt tidlig enn sent.
+- **Kjernetemperatur 68–70 °C.** 3½ minutter per side forutsetter at filetene faktisk er delt på langs og banket jevnt tynne – er de tykkere enn ca. 1,5 cm, blir de rå i midten. Kyllingen får dessuten ett minutt til i sausen på slutten, så ta den heller ut litt tidlig enn sent.
 - **Urtene skal helt til slutt.** Persille og estragon mister aromaen på under et par minutter i varm saus. Timian tåler mer og kan gjerne gå i sammen med fløten.
 - **Uten alkohol:** kraft fungerer, men mangler syren vinen bidrar med. Tilsett 1 ts hvitvinseddik eller en skvett sitron sammen med sennepen for å kompensere. *(Lagt til.)*
 - **Potetmos er riktig tilbehør** – sausen er tynn nok til å trenge noe å samle seg i. Se potetmosen i [nr. 111](#111-braiserte-short-ribs-med-hvitløkskonfit-potetmos). Ris eller godt brød fungerer også.
@@ -7309,7 +7309,7 @@ Dansk flæskesteg gjort i airfryer. *Flæskesteg* er en fellesbetegnelse for svi
 - **Kilden har rett om hvilingen.** Dekker du til med folie, dannes det damp under, og svoren du nettopp har brukt 70 minutter på blir bløt igjen. La den stå åpent og trekkfritt – kjernetemperaturen stiger 3–5 grader videre, og kjøttsaften fordeler seg.
 - **Er svoren ikke sprø når tiden er ute**, gi den 5–10 minutter til på 200 °C og hold øye med den hele tiden. Overgangen fra sprø til brent er kort. Samme utfordring som med [porchettaen i nr. 74](#74-porchetta), der løsningen er tørking i kjøleskap på forhånd – det kan du gjøre her også, over natten uten lokk.
 - **Svinestek med svor er ikke hyllevare i Norge.** Svoren fjernes som regel i norske kjøttdisker, så du må be om den eller bestille på forhånd. Rundt jul er juleribbe det enkleste tilgjengelige alternativet og fungerer godt til denne metoden. Se også [nr. 107](#107-ovnsstekt-svinekam-med-dijon-og-rosmarin) for svinekam i ovn.
-- **Dansk servering:** rødkål, brunede kartofler og brun saus. Skysjyen i bunnen av airfryeren er for tynn og saltet til å bli saus alene, men kan siles og brukes som smakstilsetning.
+- **Dansk servering:** rødkål, brunede kartofler og brun saus. Sjyen i bunnen av airfryeren er for tynn og saltet til å bli saus alene, men kan siles og brukes som smakstilsetning.
 
 ---
 
@@ -7388,7 +7388,7 @@ Fransk klassiker: melvendt kyllingbryst i en saus av sjalottløk, hvitvin, kraft
 1. **Klargjør kyllingen.** Tørk brystene med kjøkkenpapir og krydre dem med salt og pepper på begge sider. Ha mel på en tallerken, vend brystene i det så de får et tynt lag på hver side, og skrap av overflødig mel.
 2. **Brun kyllingen.** Varm en skvett olivenolje i en stor panne på middels sterk varme. Brun brystene **2–3 minutter på hver side** til de er gyllenbrune. Ta dem ut på en ren tallerken.
 3. **Start sausen.** Ha mer olivenolje og sjalottløken i samme panne og surr i **2 minutter**. Tilsett hvitløken.
-4. **Kok inn.** Del opp med hvitvinen og skrap løs alt det brune i bunnen av pannen. Hell i kraften og la det småkoke i **15 minutter**, til væsken er tydelig redusert.
+4. **Kok inn.** Kok ut pannen med hvitvinen og skrap løs alt det brune i bunnen av pannen. Hell i kraften og la det småkoke i **15 minutter**, til væsken er tydelig redusert.
 5. **Fullfør sausen.** Skru ned varmen, rør inn sennepen, og deretter crème fraîchen. Rør godt og avslutt med timianen.
 6. **Ferdigstek kyllingen.** Legg brystene tilbake i pannen, legg på lokk og la det stå på **lav varme i 10 minutter**. Kjernetemperaturen skal være 75 °C.
 7. **Pynt** med fersk timian eller oregano og sitronskiver.
@@ -7443,7 +7443,7 @@ Fransk klassiker: melvendt kyllingbryst i en saus av sjalottløk, hvitvin, kraft
 
 ### Notater
 
-- **Kilden oppgir ingen krydder­mengder.** *(Lagt til.)* Start med **2 ts spisskummen og 2 ts røkt paprikapulver** til denne mengden, rør inn og smak. Røkt paprika tåler dårlig å overdoseres – den blir bitter.
+- **Kilden oppgir ingen kryddermengder.** *(Lagt til.)* Start med **2 ts spisskummen og 2 ts røkt paprikapulver** til denne mengden, rør inn og smak. Røkt paprika tåler dårlig å overdoseres – den blir bitter.
 - **Spisskummen er ikke karve.** Dette er en av de vanligste forvekslingene i norske kjøkken: engelsk *cumin* er spisskummen, mens *caraway* er karve. Karve gir en helt annen, nordisk smak og hører ikke hjemme her. *(Presisering lagt til.)*
 - **400 g babyspinat er fire store poser.** Det koker inn til nesten ingenting, men går ikke i gryta på én gang – ha den i i tre–fire omganger og rør ned mellom hver. 200 g er rikelig hvis du synes det blir for mye. *(Lagt til.)*
 - **Røkt pølse er upresist for norske butikker.** Med røkt paprikapulver i krydderet er **chorizo** nærmest det som er ment, og gir mest smak. Kabanoss fungerer også. Vanlig norsk røkt servelat er mildere og gir mindre. Forfatteren sier selv at bacon er et fullgodt bytte, og at pølsen kan sløyfes helt.
