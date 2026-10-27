@@ -21654,7 +21654,7 @@ Uthulede jalapeño fylt med ost, panert i tre lag og fritert. Frøene og hinnene
 
 **Kilde:** Christy Denney / The Girl Who Ate Everything (the-girl-who-ate-everything.com) *(4,5 av 5 fra 58 vurderinger)* · **Kjøkken:** Amerikansk · **Tid:** 25 min · **Gir:** 12 stykker
 
-Pizzadeig rullet med pepperoni og mozzarella, skåret i skiver og pensles med hvitløkssmør før steking. Serveres med varm marinara til dipping. Ferdig på under en halvtime hvis du bruker ferdig deig.
+Pizzadeig rullet med pepperoni og mozzarella, skåret i skiver og penslet med hvitløkssmør før steking. Serveres med varm marinara til dipping. Ferdig på under en halvtime hvis du bruker ferdig deig.
 
 ### Ingredienser
 
@@ -21710,7 +21710,7 @@ Polenta kokt med parmesan og smør, satt kaldt over natten, panert i knust cornf
 - 50 g revet parmesan
 - 20 g meierismør
 - Salt
-- Kajennepepper
+- Cayennepepper
 - 50 g knust cornflakes
 - Frityrolje
 
@@ -21718,11 +21718,11 @@ Polenta kokt med parmesan og smør, satt kaldt over natten, panert i knust cornf
 
 1. **Kok opp vann og polenta under omrøring.**
 2. **La det småkoke i noen minutter** til det blir en tykk masse, og tilsett revet parmesan og smør.
-3. **Smak til med salt og kajennepepper.**
+3. **Smak til med salt og cayennepepper.**
 4. **Ha polentamassen over i en rektangulær form, ca. 2 cm dyp**, og dekk til med plastfolie.
 5. **Sett formen i kjøleskap eller fryser. La den stå kaldt over natten.**
-6. **Skjær lengder av den kalde polentamassen** og paner disse med knust cornflakes.
-7. **Stek i frityrolje i ca. 1 minutt på ca. 180 grader**, til de er gylne.
+6. **Skjær staver av den kalde polentamassen** og panér dem i knust cornflakes.
+7. **Stek i frityrolje i ca. 1 minutt på ca. 180 °C**, til de er gylne.
 8. **La dem renne av på kjøkkenpapir.**
 
 ### Notater
@@ -21730,9 +21730,9 @@ Polenta kokt med parmesan og smør, satt kaldt over natten, panert i knust cornf
 - **Cornflakes i stedet for brødrasp** gir en grovere og mer uregelmessig overflate, som blir sprøere og holder sprøheten lenger. Samme tanke som panko, bare med et annet utgangspunkt.
 - **Natten over er ikke en anbefaling.** Varm polenta er grøt. Den må stivne helt for å kunne skjæres i staver som holder formen i frityren.
 - **2 cm dybde** gir staver med riktig forhold mellom sprø skorpe og kremet innmat. Tynnere blir de bare sprø, tykkere blir de tunge.
-- **Ett minutt på 180 grader.** Polentaen er allerede ferdig kokt – frityren skal bare gi farge og skorpe. Lengre tid gir en stav som eksploderer innenfra.
-- **Kajennepepper, ikke chili.** Kilden vil ha varme uten smak av chili, som ville konkurrert med parmesanen.
-- **Beslektet:** [S31](#s31-friterte-mac-and-cheese-biter) bruker samme prinsipp – stivne først, panere, fritere – og [T63](#t63-pommes-frites) er den andre friterte stivelsen i samlingen.
+- **Ett minutt på 180 °C.** Polentaen er allerede ferdig kokt – frityren skal bare gi farge og skorpe. Lengre tid gir en stav som eksploderer innenfra.
+- **Cayennepepper, ikke chili.** Kilden vil ha varme uten smak av chili, som ville konkurrert med parmesanen.
+- **Beslektet:** [friterte mac and cheese-biter (S31)](#s31-friterte-mac-and-cheese-biter) bruker samme prinsipp – stivne først, panere, fritere – og [pommes frites (T63)](#t63-pommes-frites) er en annen fritert stivelse.
 
 ---
 
@@ -21754,7 +21754,7 @@ Sideflesk brunet til fettet er rendret, braisert i soya, hoisin og østerssaus, 
 - 3 ss østerssaus
 - 3 ss brunt sukker
 - 3 hele tørkede chili
-- 3 fedd hvitløk, knust
+- 3 hvitløksfedd, knust
 - 2 stjerneanis
 - 2,5 cm ingefær, delt i tre
 
@@ -21779,8 +21779,8 @@ Sideflesk brunet til fettet er rendret, braisert i soya, hoisin og østerssaus, 
 1. **Skjær sideflesket i 2 cm brede strimler**, og del strimlene på tvers til 16 like store biter på 5–6 cm.
 2. **Varm oljen i en tykkbunnet gryte på middels sterk varme.** Legg i kjøttet i ett lag — er det trangt, vent til de første bitene har krympet. **Stek 15–20 minutter** til de er gyllenbrune, og snu halvveis.
 3. **Bland vann, Shaoxing-vin, hoisin, soyasaus, østerssaus og sukker** i en bolle mens kjøttet bruner.
-4. **Hell blandingen i gryta** sammen med chili, hvitløk, stjerneanis og ingefær. Kok opp, og senk til et **friskt småkok**. Legg på lokk og la det koke **ca. 1 time**, til en gaffel går lett inn i kjøttet. Rør av og til.
-5. **Ta gryta av varmen og løft ut kjøttet** med hullsleiv. La kraften stå i 5 minutter, skum av fettet og kast de faste bitene.
+4. **Hell blandingen i gryten** sammen med chili, hvitløk, stjerneanis og ingefær. Kok opp, og senk til et **friskt småkok**. Legg på lokk og la det koke **ca. 1 time**, til en gaffel går lett inn i kjøttet. Rør av og til.
+5. **Ta gryten av varmen og løft ut kjøttet** med hullsleiv. La kraften stå i 5 minutter, skum av fettet og kast de faste bitene.
 6. **Kok kraften inn til 2,4 dl** på middels varme, **ca. 15 minutter**. Vend kjøttet inn igjen og hold det varmt.
 7. **Bland daikon, sukker og salt** og sett kaldt til servering.
 8. **Rør sammen hoisin og soyasaus** i en liten bolle.
@@ -21789,11 +21789,11 @@ Sideflesk brunet til fettet er rendret, braisert i soya, hoisin og østerssaus, 
 ### Notater
 
 - **Braiseringen tåler et friskt kok, ikke bare et småkok.** Kilden er eksplisitt: bevegelsen i væsken hjelper fettet å bryte ned. Sideflesk er ikke et magert stykke som blir seigt av hardhendt behandling.
-- **Innkokingen til 2,4 dl er hele sausen.** Braisekraften er tynn og salt rett fra gryta. Redusert til 2,4 dl blir den sirupsaktig og legger seg som en glasur på kjøttet.
+- **Innkokingen til 2,4 dl er hele sausen.** Braisekraften er tynn og salt rett fra gryten. Redusert til 2,4 dl blir den sirupsaktig og legger seg som en glasur på kjøttet.
 - **Fettskillekanne, eller kjøleskap.** Skummer du ikke av fettet, blir hver bao fetere enn den trenger å være. Har du tid, kjøl kraften helt — da stivner fettet og løftes av i ett stykke.
 - **Daikonen er ikke pynt.** Sukker og salt trekker ut vannet så skivene blir sprø og lettsyrlige. De er motvekten til fettet, og uten dem blir retten tung etter to bao.
 - **Kjøttet kan lages to dager i forveien** og varmes forsiktig under lokk. Det blir bedre av å stå.
-- **Beslektet:** [Hellstrøms bao-deig (G11)](#g11-hellstrøms-bao-deig) er buksene du damper til dette, [sprøstekt svinesideflesk (siu yuk) (nr. 42)](#42-sprøstekt-svinesideflesk-siu-yuk) tar samme stykke motsatt vei, og [buta no kakuni (nr. 49)](#49-buta-no-kakuni--japansk-braisert-svinesideflesk) er den japanske braiseringen med dashi i stedet for hoisin. Se også de øvrige bao-fyllene: [med sprø kylling (S36)](#s36-bao-fyll-med-sprø-kylling) og [char siu med kjøttdeig (S37)](#s37-char-siu-bao-fyll-med-kjøttdeig).
+- **Beslektet:** [Hellstrøms bao-deig (G11)](#g11-hellstrøms-bao-deig) er bollene du damper til dette, [sprøstekt svinesideflesk (siu yuk) (nr. 42)](#42-sprøstekt-svinesideflesk-siu-yuk) tar samme stykke motsatt vei, og [buta no kakuni (nr. 49)](#49-buta-no-kakuni--japansk-braisert-svinesideflesk) er den japanske braiseringen med dashi i stedet for hoisin. Se også de øvrige bao-fyllene: [med sprø kylling (S36)](#s36-bao-fyll-med-sprø-kylling) og [char siu med kjøttdeig (S37)](#s37-char-siu-bao-fyll-med-kjøttdeig).
 
 ---
 
@@ -21834,11 +21834,11 @@ Kyllingbiter marinert i soya og fem kryddere, bundet med egg og maisenna og stek
 
 ### Notater
 
-- **Tjue minutter kaldt er ikke valgfritt.** Maisennaen må få trekke væske fra marinaden før steking, ellers ligger den som tørt pulver og slipper i panna.
-- **Middels varme, ikke sterk.** Bitene er små og røra er tynn — for høy varme svir belegget før kjøttet er gjennomstekt.
-- **Lårfilet fungerer like godt** og tåler et minutt for mye i panna. Kilden nevner det som et fullgodt bytte.
+- **Tjue minutter kaldt er ikke valgfritt.** Maisennaen må få trekke væske fra marinaden før steking, ellers ligger den som tørt pulver og slipper i pannen.
+- **Middels varme, ikke sterk.** Bitene er små og røren er tynn — for høy varme svir belegget før kjøttet er gjennomstekt.
+- **Lårfilet fungerer like godt** og tåler et minutt for mye i pannen. Kilden nevner det som et fullgodt bytte.
 - **Fyllet er ikke bundet til bao.** Kilden foreslår roti, wraps eller ris. Det holder seg tre dager i kjøleskap og kan varmes opp igjen i to.
-- **Beslektet:** [Hellstrøms bao-deig (G11)](#g11-hellstrøms-bao-deig) er buksene du damper til dette. Se også de øvrige bao-fyllene: [braisert svinesideflesk (S35)](#s35-gua-bao--braisert-svinesideflesk) og [char siu med kjøttdeig (S37)](#s37-char-siu-bao-fyll-med-kjøttdeig).
+- **Beslektet:** [Hellstrøms bao-deig (G11)](#g11-hellstrøms-bao-deig) er bollene du damper til dette. Se også de øvrige bao-fyllene: [braisert svinesideflesk (S35)](#s35-gua-bao--braisert-svinesideflesk) og [char siu med kjøttdeig (S37)](#s37-char-siu-bao-fyll-med-kjøttdeig).
 
 ---
 
@@ -21872,10 +21872,13 @@ Char siu-smakene — hoisin, honning, fem kryddere, Shaoxing — kokt inn i kjø
 ### Notater
 
 - **Kokingen tykner fyllet, den koker ikke kjøttet.** Kjøttdeigen er ferdig etter fem minutter. De ti neste er til for at hoisin og honning skal redusere og binde — går du kortere, renner fyllet ut av baoen.
-- **Fiskesausen lukter kraftig i pannen og forsvinner i det ferdige fyllet.** Kilden anbefaler den, men halverer du mengden hvis lukten plager deg.
+- **Fiskesausen lukter kraftig i pannen og forsvinner i det ferdige fyllet.** Kilden anbefaler den, men halver mengden hvis lukten plager deg.
 - **Salt til slutt, ikke før.** Soyasaus, hoisin og fiskesaus tar med seg mye salt hver for seg. Smak før du tilsetter noe.
 - **Den grønne delen av vårløken går i etter varmen.** Den skal være frisk mot det søte og salte, og blir grå av å koke.
 - **Beslektet:** [char siu-kylling (nr. 35)](#35-char-siu-kylling) er samme smaksbilde på hel kylling, [Filips stekte bao-dumplings (nr. 18)](#18-filips-stekte-bao-dumplings) fylles rå og stekes, og [Hellstrøms bao-deig (G11)](#g11-hellstrøms-bao-deig) er deigen. Se også de øvrige bao-fyllene: [braisert svinesideflesk (S35)](#s35-gua-bao--braisert-svinesideflesk) og [med sprø kylling (S36)](#s36-bao-fyll-med-sprø-kylling).
+
+---
+
 ## S38. Lammedumplings med sitrusdipp
 
 **Kilde:** @fysenpaa (Instagram) · **Kjøkken:** Kinesisk-japansk fusjon · **Tid:** ca. 2 t (inkl. hviletid for deigen) · **Gir:** 40 dumplings
@@ -21913,9 +21916,9 @@ Kildens vri på påskelammet: dumplings med lammedeig, five spice og østerssaus
 ### Fremgangsmåte
 
 **Dumplingdeig**
-1. Bland mel og salt sammen i en bolle. Hell deretter kokvarmt vann i bollen og rør rundt med en sleiv til deigen er kald nok til å ta på.
+1. Bland mel og salt sammen i en bolle. Hell deretter det kokende vannet i bollen og rør rundt med en sleiv til deigen er kald nok til å ta på.
 2. Kna deigen i rundt 10 minutter til den er glatt og fin. La den hvile 1 time i romtemperatur.
-3. Del deigen i fire like deler. Rull hver del til en lang pølse og del pølsen i ti biter. Press alle bitene flate til små pucker, og kjevle til dumplingwrapper. 40 stk totalt. Legg et vått tørkle over for å unngå at de tørker ut.
+3. Del deigen i fire like deler. Rull hver del til en lang pølse og del pølsen i ti biter. Press alle bitene flate til små runde lapper, og kjevle dem ut til dumplingark, 40 i alt. Legg et fuktig kjøkkenhåndkle over så de ikke tørker ut.
 
 **Dumplingfyll**
 1. Bland sammen alle ingrediensene til en jevn farse.
@@ -21925,10 +21928,10 @@ Kildens vri på påskelammet: dumplings med lammedeig, five spice og østerssaus
 2. La blandingen kjøle seg litt ned før du blander inn resten av ingrediensene. Ha sausen i kjøleskapet frem til servering.
 
 **Bretting og steking**
-1. Fyll hver dumplingwrapper med en raus teskje fyll. Legg fyllet i midten.
-2. Brett dumplingen tett sammen. Ekstra digg om dumplingen har en liten «vulkanåpning» øverst, slik at sausen kommer seg inn ved servering.
+1. Fyll hvert dumplingark med en raus teskje fyll. Legg fyllet i midten.
+2. Brett dumplingen tett sammen. Det er fint om dumplingen har en liten «vulkanåpning» øverst, slik at sausen kommer seg inn ved servering.
 3. Legg de ferdigbrettede dumplingene på et brett med et vått kjøkkenhåndkle over, slik at de ikke tørker ut.
-4. Stek dem på medium varme i en panne til bunnen blir gyllen. Hell deretter ca. 2 ss vann i pannen, og ha på lokk slik at det damper.
+4. Stek dem på middels varme i en panne til bunnen blir gyllen. Hell deretter ca. 2 ss vann i pannen, og ha på lokk slik at det damper.
 5. Når vannet er fordampet og dumplingene er litt gjennomsiktige, er de ferdige.
 
 ### Notater
@@ -21936,7 +21939,9 @@ Kildens vri på påskelammet: dumplings med lammedeig, five spice og østerssaus
 - **Teknikken er klassisk potsticker/gyoza-metode:** brunes tørt i panne først, dampes deretter med vann under lokk – det gir sprø bunn og myk, gjennomstekt topp.
 - **«Maisenna»** er maisstivelse (maizena) – bindes inn i farsen for en saftigere, mer sammenhengende konsistens.
 - **Yuzu-sirup** kan være vanskelig å oppdrive i vanlige norske butikker; asiatiske matbutikker eller nettbutikker fører den. Erstatningen med lime og honning gir en lignende søt-syrlig profil, men uten yuzuens karakteristiske aroma.
-- **Ingen eksakt dato oppgitt** for publisering i kilden – lagt inn under påskelam-temaet sammen med [212. Lammecarré med panang curry og urtetopping](#212-lammecarré-med-panang-curry-og-urtetopping).
+- **Ingen eksakt dato oppgitt** for publisering i kilden – lagt inn under påskelam-temaet sammen med [lammecarré med panang curry og urtetopping (nr. 212)](#212-lammecarré-med-panang-curry-og-urtetopping).
+
+---
 
 ## S39. Vietnamesiske stekte vårruller (Saigon-stil) med dipp
 
@@ -21949,32 +21954,32 @@ Enkle, sprø vårruller av rispapir med svinekjøttfarse, akkurat slik kilden sp
 **Vårruller**
 - 400 g svinekjøttdeig
 - 1 stor sjalottløk, finhakket
-- 2 fedd hvitløk, finhakket
+- 2 hvitløksfedd, finhakket
 - 1 eggehvite
 - 1 ss fiskesaus
 - 1 ss østerssaus
 - 1 ss rapsolje
 - 1 ts sukker
-- 15 stk rispapir
+- 15 ark rispapir
 - Nøytral olje til frityrsteking
 
 **Dipp**
 - 5 ss fiskesaus
 - 4 ss riseddik
-- 4 ss limejuice
-- 5 fedd hvitløk, finhakket
-- 2 hele thai chili, finhakket
+- 4 ss limesaft
+- 5 hvitløksfedd, finhakket
+- 2 hele thaichili, finhakket
 - 5 ss sukker
 - 5 ss vann
 
 **Til servering**
 - Hjertesalat
-- Mynte, koriander og thai basilikum (eller andre urter etter ønske)
+- Mynte, koriander og thaibasilikum (eller andre urter etter ønske)
 
 ### Fremgangsmåte
 
 **Farse og rulling**
-1. Finhakk sjalottløk og hvitløk. Bland svinekjøttdeig, sjalottløk, hvitløk, eggehvite, fiskesaus, østerssaus og rapsolje til en jevn farse.
+1. Finhakk sjalottløk og hvitløk. Bland svinekjøttdeig, sjalottløk, hvitløk, eggehvite, fiskesaus, østerssaus, rapsolje og sukker til en jevn farse.
 2. Fyll en dyp tallerken med vann. Dypp et ark rispapir raskt i vannet og legg det på en tørr tallerken. Legg litt farse i midten av rispapiret og brett tett sammen (som en tacolefse).
 3. Legg vårrullene på et brett og sett dem til tørk i kjøleskapet i om lag 1 time.
 
@@ -21983,7 +21988,7 @@ Enkle, sprø vårruller av rispapir med svinekjøttfarse, akkurat slik kilden sp
 
 **Dipp**
 1. Finhakk hvitløk og chili.
-2. Bland fiskesaus, riseddik, limejuice, sukker og vann, og rør til sukkeret er oppløst. Ha i hvitløk og chili. Oppbevar i kjøleskap til servering.
+2. Bland fiskesaus, riseddik, limesaft, sukker og vann, og rør til sukkeret er oppløst. Ha i hvitløk og chili. Oppbevar i kjøleskap til servering.
 
 ### Notater
 
@@ -21991,6 +21996,9 @@ Enkle, sprø vårruller av rispapir med svinekjøttfarse, akkurat slik kilden sp
 - **1 time i kjøleskapet før steking** er viktig – det gjør rispapiret mer stabilt og hindrer at rullene sprekker i den varme oljen.
 - **180 °C oljetemperatur** uten termometer: test med en tresleiv eller spisepinne – jevne bobler rundt betyr riktig temperatur.
 - **Ingen mengdeangivelse for salat/urter** i kilden – server rikelig, gjerne i en salatbladpakke rundt hver vårrull.
+
+---
+
 ## S40. Miso shortrib-dumplings med braisert kraft-dipp
 
 **Kilde:** @fysenpaa (Instagram, 16. oktober 2025) · **Kjøkken:** Kinesisk-japansk fusjon · **Tid:** ca. 5–6 t (inkl. braisering og hviletid for deigen) · **Gir:** 40 dumplings
