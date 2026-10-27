@@ -10822,7 +10822,7 @@ Yoghurtmarinert kyllinglår svidd hardt i tørr panne, i en saus som freses lag 
 - 1 ts malt koriander
 - 1 ts paprikapulver
 - 1 ss nøytral olje
-- ⅛ ts cayennepepper
+- ¼ ts cayennepepper *(Presisert fra ⅛ ts.)*
 - 2 ts sitronsaft
 - 1 klype sort pepper
 - 1–2 ss nøytral olje, til steking
@@ -10832,20 +10832,20 @@ Yoghurtmarinert kyllinglår svidd hardt i tørr panne, i en saus som freses lag 
 - 1 ss garam masala
 - 2 ts malt koriander
 - 1 ts malt spisskummen
-- ⅛ ts malt kardemomme
-- ⅛ ts cayennepepper
+- ¼ ts malt kardemomme *(Presisert fra ⅛ ts.)*
+- ¼ ts cayennepepper *(Presisert fra ⅛ ts.)*
 
 **Saus**
-- 65 ml nøytral olje — ca. 4 ss *(Flagget: kilden skriver 3 ss, som er 45 ml.)*
+- 4 ss nøytral olje *(Flagget: kilden skriver 3 australske ss à 20 ml.)*
 - 30 g smør eller ghee
 - 1 løk, finhakket
 - 1 ts salt
 - 2 ss revet ingefær
 - 6 fedd hvitløk, finrevet
 - 1 ss paprikapulver, ikke røkt
-- 400 ml passata
-- 400 ml vann
-- 100 ml kremfløte
+- 4 dl passata
+- 4 dl vann
+- 1 dl kremfløte
 - 1 ts sukker
 - 50 g smør eller ghee
 
@@ -10885,18 +10885,18 @@ Nordindisk korma i mogulsk stil: kylling marinert i yoghurt, og en saus bygget a
 **Marinade**
 - 500 g kylling, helst med bein
 - 3 ss yoghurt
-- 1 ss ingefær- og hvitløkspasta, eller ½ ss finrevet av hver
+- 1 ss ingefær- og hvitløkspasta, eller 1½ ts finrevet av hver
 - ¼ ts gurkemeie
 - 1 ts kashmiri chilipulver, eller paprikapulver
 - 1 ts garam masala
 - ½ ts salt
 
 **Løk- og nøttepuré**
-- 1½ ss ghee eller nøytral olje
+- 1 ss + 1½ ts ghee eller nøytral olje
 - 2 grønne kardemommekapsler
-- 2 gule løk, i skiver — ca. 2,4 dl *(Omregnet fra 1 cup.)*
+- 2 gule løk, i skiver
 - 10 hele cashewnøtter eller mandler, eller 5 av hver
-- 0,6 dl yoghurt
+- 4 ss yoghurt
 
 **Til gryta**
 - 1–2 ss ghee eller nøytral olje
@@ -10907,7 +10907,7 @@ Nordindisk korma i mogulsk stil: kylling marinert i yoghurt, og en saus bygget a
 - 1–2 grønne chili, delt på langs
 - 1,2 dl varmt vann, mer ved behov
 - ¼ ts salt
-- ½–¾ ts garam masala
+- ½–1 ts garam masala
 - 1½ ts malt koriander
 - ¼ ts kashmiri chilipulver, for farge
 - 2 ss frisk koriander, finhakket
@@ -10917,7 +10917,7 @@ Nordindisk korma i mogulsk stil: kylling marinert i yoghurt, og en saus bygget a
 1. **Bland kyllingen med yoghurt, ingefær og hvitløk, gurkemeie, salt, chilipulver og garam masala.** Vend godt så alt er dekket. Dekk til og sett til side, eller kjøl over natten.
 2. **Varm ghee i en panne og ha i 2 kardemommekapsler og løken.** Stek under jevnlig omrøring til løken er gyllenbrun og karamellisert, **10–12 minutter**. Den må ikke svi seg.
 3. **Ta panna av varmen og ha i nøttene.** La det kjølne helt.
-4. **Kjør løk, nøtter og yoghurt til en helt glatt puré.** Har du en svak blender, bløtlegg nøttene i varmt vann i 30 minutter først, eller kjør med ½ dl ekstra vann — da dropper du tilsvarende vann i punkt 6.
+4. **Kjør løk, nøtter og yoghurt til en helt glatt puré.** Har du en svak blender, bløtlegg nøttene i varmt vann i 30 minutter først, eller kjør med 3 ss ekstra vann — da dropper du tilsvarende vann i punkt 6.
 5. **Varm ghee i samme panne** og ha i laurbærblad, kanel, nellik og kardemomme. Når de begynner å frese, tilsett grønn chili og den marinerte kyllingen. **Stek på middels varme i 5–6 minutter**, til lukten av rå ingefær og hvitløk er borte.
 6. **Tilsett løkpuréen, salt, malt koriander, garam masala og chilipulver.** Rør inn det varme vannet og kok opp.
 7. **Legg på lokk og la det trekke på middels lav varme** til kyllingen er gjennomkokt og du ser spor av olje på overflaten. Er sausen for tykk, spe med varmt vann. Er den for tynn, kok den inn uten lokk på sterk varme noen minutter.
@@ -11080,7 +11080,7 @@ Kjøttdeig som slippes i store, ujevne klumper i glovarm støpejernspanne og **f
 ### Ingredienser
 
 **Agurkyoghurten**
-- 480 ml gresk yoghurt
+- 5 dl gresk yoghurt
 - 2 små agurker, finhakket
 - 3 ss mynte, hakket
 - 1 stort hvitløksfedd, revet
@@ -11134,14 +11134,14 @@ Kjøttdeig i tykk sjy under et lokk av parmesanpotetmos, stekt til overflaten er
 - 900 g kjøttdeig av storfe
 - 2 ss smør
 - 1 gul løk, finhakket
-- 120 ml stangselleri, i terninger
-- 120 ml gulrot, i terninger
+- ca. 60 g stangselleri, i terninger
+- ca. 60 g gulrot, i terninger
 - 3 hvitløksfedd, finhakket
 - 2 ss tomatpuré
-- 60 ml hvetemel
-- 480 ml oksekraft
-- 120 ml tørr rødvin
-- 120 ml frosne erter
+- 35 g hvetemel
+- 5 dl oksekraft
+- 1,2 dl tørr rødvin
+- ca. 70 g frosne erter
 - 2 ss worcestershiresaus
 - 4 kvister timian
 - 2 tørkede laurbærblad
@@ -11149,9 +11149,9 @@ Kjøttdeig i tykk sjy under et lokk av parmesanpotetmos, stekt til overflaten er
 
 **Potetlokket**
 - 1,1 kg poteter
-- 120 ml helmelk
+- 1,2 dl helmelk
 - 5 ss smør, delt
-- 180 ml revet parmesan, delt
+- ca. 60 g revet parmesan, delt
 
 ### Fremgangsmåte
 
@@ -11162,7 +11162,7 @@ Kjøttdeig i tykk sjy under et lokk av parmesanpotetmos, stekt til overflaten er
 5. **Tilsett kraft, rødvin, erter, worcestershiresaus, timian, laurbærblad og 1 ts salt og pepper.** La det småkoke **7–10 minutter**, til det er tykt som sjy.
 6. **Fjern timian og laurbærblad**, vend kjøttet tilbake, og sett pannen til side.
 7. **Kok potetene** i rikelig saltet vann i **15 minutter**, til en kniv går lett gjennom. Hell av vannet.
-8. **Mos potetene i kjelen** med melken, **4 ss av smøret** og **120 ml av parmesanen**, til de akkurat er kremete.
+8. **Mos potetene i kjelen** med melken, **4 ss av smøret** og **40 g av parmesanen**, til de akkurat er kremete.
 9. **Bre potetmosen helt utover kjøttet** i panna. Drypp over det siste smøret og strø over resten av parmesanen.
 10. **Stek 30 minutter**, til overflaten er gyllen og det bobler i kantene. **La stå 10 minutter** før servering.
 
