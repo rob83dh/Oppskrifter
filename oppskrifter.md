@@ -12001,7 +12001,7 @@ Sjøkrepshaler delt på langs, stekt i panne eller på grill, og pensles med et 
 
 - 8–12 sjøkrepshaler, delt på langs *(mengde lagt til)*
 - Salt og pepper
-- 12 g olje til steking *(mengde lagt til.)*
+- 1 ss olje til steking *(Lagt til.)*
 
 **Cowboysmør** *(alle mengder lagt til – kilden lister bare ingrediensene)*
 - 200 g smør, romtemperert
@@ -12051,7 +12051,7 @@ Rå laks i små terninger, vendt i sjalottløk trukket i fortynnet eddik, med ka
 
 - 125 g fersk laksefilet, i små terninger
 - 2 ts sjalottløk, finhakket
-- 5 ml hvitvinseddik
+- 1 ts hvitvinseddik
 - 1 ts vann
 - 1 ss olivenolje
 - 1 ts sitronsaft
@@ -12074,7 +12074,7 @@ Rå laks i små terninger, vendt i sjalottløk trukket i fortynnet eddik, med ka
 - **Fremgangsmåten i kilden stopper på halvveien.** Den forklarer bare hvordan laksen skjæres og holdes kald, og slutter med «sett den i kjøleskapet mens du gjør klar resten av ingrediensene». Hva som skjer videre – blanding, smaksjustering, anretning – står ingen steder. Punktene 3 til 5 er lagt til her etter standard tartarmetode.
 - **Rå laks og norske regler.** Norsk oppdrettslaks kan spises rå uten forutgående frysing; fôret gjør at parasitter ikke er et problem, og den er unntatt frysekravet. **Villaks og sjøørret må derimot fryses** ved −20 °C i minst 24 timer før den spises rå. Kjøp fisken hos fiskehandler eller i ferskvaredisken, si fra at den skal spises rå, og bruk den samme dag. *(Lagt til; kilden sier bare «ferskest mulig».)*
 - **Isbadet er ikke overdrevet.** Kilden gjentar at fisken skal være kald «hele tiden». Rå laks som blir lunken, mister spenst og begynner å lukte. La bollen stå på is helt til den skal anrettes.
-- **Eddik og vann sammen har en grunn kilden ikke forklarer.** De 5 ml eddik fortynnet med 1 ts vann er en klassisk fransk teknikk: sjalottløken mykner og mister det rå bittet uten at retten blir for syrlig. Bland de to og la løken stå i et par minutter før resten går i.
+- **Eddik og vann sammen har en grunn kilden ikke forklarer.** Teskjeen eddik fortynnet med 1 ts vann er en klassisk fransk teknikk: sjalottløken mykner og mister det rå bittet uten at retten blir for syrlig. Bland de to og la løken stå i et par minutter før resten går i.
 - **Vend laksen inn helt til slutt.** Syren fra eddik og sitron begynner å «koke» fisken – den blir blek, fast og til slutt melen. Blandes tartaren mer enn fem–ti minutter før servering, mister du den rå, silkeaktige teksturen som er hele poenget.
 - **«Seasoning» er ikke tallfestet.** Kapers, sennep og tabasco bidrar alle med salt og syre, så start forsiktig – rundt ¼ ts salt – og smak etter at alt er blandet.
 - **Grovkornet sennep, ikke dijon.** Hele sennepsfrø gir tekstur og små smellere av syre; dijon ville blitt glattere og mer dominerende. Begge deler fungerer, men de gir ulike retter.
@@ -12098,13 +12098,13 @@ Laks i biter, krydret og panert i panko, stekt sprø i airfryer og vendt i en gl
 - 2 ts tørket italiensk krydderblanding
 - 2 ts salt *(se notat)*
 - 1 ss paprikapulver (edelsøt)
-- 1,2 dl panko
-- 80 ml honning
+- 30 g panko
+- 110 g honning
 - 1–2 ss hot sauce
 
 **Chipotlesaus**
 - 1,2 dl gresk yoghurt naturell
-- 60 ml majones
+- 4 ss majones
 - 1 chipotle fra boks i adobosaus *(se notat)*
 - 1 hvitløksfedd
 - Saften av 1 lime
@@ -12126,7 +12126,7 @@ Laks i biter, krydret og panert i panko, stekt sprø i airfryer og vendt i en gl
 - **Kilden har nesten ingen fremgangsmåte.** Den består av en ingrediensliste og to setninger: steketiden i airfryer, og at chipotlesausen kjøres glatt i foodprosessor. Hvordan olje, krydder, panko, honning og hot sauce skal brukes, står ingen steder. Punktene 1, 2 og 4 er rekonstruert etter måten slike laksebiter normalt lages: krydder og panko *før* steking, honning og hot sauce som glasur *etter*. Har du sett videoen, er det verdt å sjekke om rekkefølgen stemmer.
 - **Honning og hot sauce hører sammen** – det er en «hot honey», og den skal på etter steking. Gikk den på før, ville sukkeret svidd seg i airfryeren lenge før laksen var ferdig.
 - **2 ts salt er mye til 300–400 g laks.** Kilden oppgir «2 ts av hver» for hvitløkspulver, italiensk krydder og salt. Krydderne tåler mengden, saltet gjør det knapt – og glasuren og sausen bidrar i tillegg. Start med 1 ts og smak.
-- **80 ml honning er også rikelig.** Til to fileter blir dette en markert søt rett. Vil du dempe den, halver honningen og behold mengden hot sauce.
+- **110 g honning er også rikelig.** Til to fileter blir dette en markert søt rett. Vil du dempe den, halver honningen og behold mengden hot sauce.
 - **Chipotle i adobo fås ikke i vanlige norske butikker.** Boksen finnes i meksikanske spesialbutikker og på nett. Alternativ: **½–1 ts chipotlepasta**, eller ¼ ts chipotlepulver rørt ut med 1 ts tomatpuré og noen dråper eddik. Se samme problemstilling i [nr. 94](#94-fajitasalat-med-kylling).
 - **«Sweet paprika» er vanlig edelsøt paprikapulver**, ikke røkt. Røkt paprika ville dratt retten i samme retning som chipotlen og gjort den ensformig.
 - **190 °C er omregnet fra 380 °F.** Går airfryeren din bare til 200, er det uansett innenfor. Merk at 8–10 minutter gir godt gjennomstekt laks – vil du ha den saftigere i midten, sjekk allerede etter 6 minutter. Til sprøstekte biter er noe mer gjennomsteking en del av formatet, i motsetning til [de hele filetene i samlingen](#89-miso-laks).
@@ -12170,7 +12170,7 @@ Laks i biter vendt i en tykk marinade av gresk yoghurt, chilipasta og sitron, st
 - **Yoghurten har en funksjon kilden ikke forklarer.** Den legger seg som et beskyttende lag rundt fisken så den ikke tørker ut, og melkeproteinene og melkesukkeret bruner raskt under grillelementet – det er derfor du får farge på ti minutter. Vanlig yoghurt naturell er for tynn; den greske skal være tykk nok til å bli sittende.
 - **Steketiden gir godt gjennomstekt laks.** 6–7 minutter pluss 4 under grill på biter à 5 cm er mer enn de 48–52 °C samlingen ellers anbefaler for hel laksefilet, blant annet i [nr. 75](#75-pannestekt-laks-med-tzatziki-og-ris-lavfodmap). Her er det et bevisst valg – overflaten skal bli sprø. Vil du ha den saftigere, sjekk etter 5 minutter i første trinn.
 - **Skyll basmatirisen** før koking, til vannet renner klart. Kilden hopper over det, men uskylt basmati blir klebrig i stedet for løs. *(Lagt til.)*
-- **2:1-forholdet gjelder vann til ris etter vekt**, altså 400 ml vann til 200 g ris. Det stemmer for basmati.
+- **2:1-forholdet gjelder vann til ris etter vekt**, altså 4 dl vann til 200 g ris. Det stemmer for basmati.
 - **200 g ris til fire** er 50 g tørr per person – nok som tilbehør, knapt hvis risen skal være hovedsaken.
 - **Samlingens åttende lakserett**, og den andre som bruker yoghurt i marinaden – sammen med [laksebitene i SJ3](#sj3-laksebiter-med-chipotlesaus), som bruker gresk yoghurt i sausen i stedet.
 
@@ -12272,11 +12272,11 @@ Purre og forkokte poteter bakt under bakepapir i en saus av crème fraîche, dij
 - 400 g nypoteter
 - 1 sitron
 - 100 g crème fraîche, eller rømme
-- 100 ml helmelk
+- 1 dl helmelk
 - 1 ss dijonsennep
 - 2 ss kapers
 - 6 kvister dill, hakket
-- 60 ml vann
+- 4 ss vann
 - Salt og pepper
 
 ### Fremgangsmåte
@@ -12295,7 +12295,7 @@ Purre og forkokte poteter bakt under bakepapir i en saus av crème fraîche, dij
 - **Grønnsakene forkokes og forstekes, laksen kommer sist.** Det er nettopp den trinndelingen jeg måtte legge til i [SJ5](#sj5-ovnsbakt-laks-med-poteter-bønner-og-blåmuggostsaus) – her er den innebygget fra start, og det er grunnen til at denne oppskriften faktisk går opp.
 - **Bakepapiret har en funksjon.** Det hindrer at purren bruner og tørker ut mens den blir mør, og holder på dampen fra vannet. Det tas av når laksen legges på, så fisken får direkte varme. Samme prinsipp som i [gratin dauphinois (T27)](#t27-gratin-dauphinois) fra samme forfatter.
 - **Vask purren grundig.** Jord setter seg mellom lagene og lar seg ikke skylle bort utenfra – skjær den i skiver først, og vask skivene i en bolle med vann.
-- **Målene spriker litt i ingredienslisten:** «½ cup» er oppgitt både for crème fraîche (100 g) og melk (100 ml), mens en amerikansk cup er 240 ml. De metriske tallene er de riktige.
+- **Målene spriker litt i ingredienslisten:** «½ cup» er oppgitt både for crème fraîche (100 g) og melk (1 dl), mens en amerikansk cup er 240 ml. De metriske tallene er de riktige.
 - **Crème fraîche eller rømme?** Norsk crème fraîche ligger nærmest den franske. Rømme er syrligere og gir en spissere saus – begge fungerer, men de smaker ulikt. Kilden åpner også for lettere varianter.
 - **Laksen bør ha skinn**, sier kilden, fordi det holder fisken saftig gjennom stekingen.
 - **Kan forberedes.** Forfatterens eget råd i kommentarfeltet: gjør alt fram til punkt 6, sett formen kaldt, og legg på laksen og stek 20–25 minutter i forvarmet ovn når du skal spise. Ferdig laget rett tåler oppvarming dårlig – fisken blir tørr.
