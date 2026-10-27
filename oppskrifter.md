@@ -26531,7 +26531,7 @@ En kokevæske, ikke en kraft. Vann og hvitvin med sjalottløk og gulrot, ferdig 
 - 1 gulrot
 - 1 ss olivenolje
 - 1 l vann
-- ¼ l tørr hvitvin (muscadet eller lignende)
+- 2,5 dl tørr hvitvin (muscadet eller lignende)
 - 1–2 ss hakket frisk estragon og kjørvel, eller basilikum
 
 ### Fremgangsmåte
