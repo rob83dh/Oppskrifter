@@ -18618,7 +18618,7 @@ Tre–fire desiliter rødvin kokt inn med sjalottløk til marmelade, og blandet 
 ### Notater
 
 - **Kasserollen fortsetter å steke etter at den er av platen.** Det er derfor kilden ber deg røre videre. Restvarmen i en tykkbunnet kasserolle er nok til å ta smøret fra nøttebrunt til svidd på et halvminutt.
-- **Tykkbunnet er ikke en anbefaling.** Tynn bunn gir lokale hetepunkter der melkeproteinene brenner seg lenge før resten er brunet.
+- **Tykk bunn er mer enn en anbefaling.** Tynn bunn gir lokale hetepunkter der melkeproteinene brenner seg lenge før resten er brunet.
 - **Aromaen kommer før fargen er ferdig.** Lukten av hasselnøtt er det pålitelige signalet – fargen er vanskelig å bedømme i en mørk kasserolle.
 - **Navnet betyr «hasselnøttsmør»**, ikke at det er smør av hasselnøtter. Det viser til aromaen som oppstår når melkeproteinene brunes.
 - **Beslektet:** [brunet smør og ghee (T126)](#t126-brunet-smør-og-ghee) dekker samme teknikk i større porsjon og viser i tillegg hvordan man lager ghee. [Hellstrøms spinatsaus (T97)](#t97-hellstrøms-spinatsaus) og [Hellstrøms soyasmørsaus (T116)](#t116-hellstrøms-soyasmørsaus) bygger begge på nøttebrunt smør.
@@ -18640,26 +18640,26 @@ Hvitvin kokt inn til en fjerdedel, og 150 g kaldt smør pisket inn uten at sause
 - Saften av ½ sitron
 - 2 ss pisket kremfløte
 - Salt
-- Hvit pepper eller kajennepepper
+- Hvit pepper eller cayennepepper
 
 ### Fremgangsmåte
 
 1. **Fres sjalottløken i olivenolje** i en kasserolle **uten at den tar farge**.
-2. **Tilsett hvitvin og kok inn til ¼.**
+2. **Tilsett hvitvin og kok inn til en fjerdedel.**
 3. **Pisk inn kaldt smør i terninger over middels varme** til fin konsistens, **uten at det koker**.
-4. **Smak til med salt, sitronsaft og hvit pepper eller kajennepepper.**
+4. **Smak til med salt, sitronsaft og hvit pepper eller cayennepepper.**
 5. **Hold sausen varm.**
 6. **Tilsett 2 ss pisket kremfløte** for ekstra luftig saus.
 
 ### Notater
 
-- **Sausen må aldri koke.** Over ca. 90 grader skiller emulsjonen seg og smøret legger seg som olje på toppen. Dette er den eneste virkelige fallgruven i oppskriften.
+- **Sausen må aldri koke.** Over ca. 90 °C skiller emulsjonen seg og smøret legger seg som olje på toppen. Dette er den eneste virkelige fallgruven i oppskriften.
 - **Kaldt smør, én terning om gangen.** Hver terning skal være nesten helt innarbeidet før den neste går i. Går det for fort, rekker ikke emulsjonen å bygge seg.
-- **Innkokingen til ¼ er ikke omtrentlig.** Det er syren og den konsentrerte vinen som holder emulsjonen stabil. For mye væske igjen, og smøret har ingenting å binde seg til.
+- **Innkokingen til en fjerdedel er ikke omtrentlig.** Det er syren og den konsentrerte vinen som holder emulsjonen stabil. For mye væske igjen, og smøret har ingenting å binde seg til.
 - **Pisket fløte er en stabilisator forkledd som luft.** Fettet i fløten gjør sausen mer tilgivende hvis den skal holdes varm en stund, i tillegg til at den blir lettere.
-- **Holdes varm, ikke varmes opp igjen.** En beurre blanc tåler å stå lunt i en vannbadeform, men ikke å kjøles ned og varmes på nytt. *(Presisert.)*
+- **Holdes varm, ikke varmes opp igjen.** En beurre blanc tåler å stå lunt i vannbad, men ikke å kjøles ned og varmes på nytt. *(Presisert.)*
 - **Beurre rouge er samme saus med rødvin.** Kilden gir ingen egen oppskrift, men sier: bytt hvitvinen mot rødvin, og bland inn friske, hakkede urter som kjørvel, estragon, persille og gressløk helt til slutt. Resultatet er mørkere og kraftigere, og hører til rødt kjøtt der beurre blanc hører til fisk.
-- **Beslektet:** [T99](#t99-hellstrøms-sennepssaus) bruker samme montering med rømme, og [T86](#t86-hellstrøms-purreløk) er samme prinsipp med vann.
+- **Beslektet:** [sennepssausen (T99)](#t99-hellstrøms-sennepssaus) bruker samme montering med rømme, og [purreløken (T86)](#t86-hellstrøms-purreløk) er samme prinsipp med vann.
 
 ---
 
@@ -18672,11 +18672,11 @@ Ett kilo cherrytomater freset på sterk varme og kokt inn i tjue minutter med sh
 ### Ingredienser
 
 - 1 kg cherrytomater
-- 2–3 hvitløkfedd
+- 2–3 hvitløksfedd
 - 2–3 ss olivenolje
 - 1–2 ss sherryeddik
 - Salt
-- Kajennepepper
+- Cayennepepper
 
 ### Fremgangsmåte
 
@@ -18685,7 +18685,7 @@ Ett kilo cherrytomater freset på sterk varme og kokt inn i tjue minutter med sh
 3. **Varm olivenolje i en vid kjele** og fres hvitløken og tomatene på relativt sterk varme.
 4. **La det koke godt sammen under omrøring med tresleiv i ca. 20 minutter.**
 5. **Tilsett litt vann og sherryeddik underveis** til riktig konsistens.
-6. **Smak til med salt og kajennepepper.**
+6. **Smak til med salt og cayennepepper.**
 7. **Behold som den er, eller sil av** til finere konsistens.
 
 ### Notater
@@ -18695,7 +18695,7 @@ Ett kilo cherrytomater freset på sterk varme og kokt inn i tjue minutter med sh
 - **Sherryeddiken går i underveis, ikke til slutt.** Den kokes delvis inn og blir en del av sausen i stedet for å ligge på toppen som syre.
 - **Skallene blir igjen om du ikke siler.** Cherrytomatskall er tynne, men mange. Kilden lar det være opp til deg; siles den, blir sausen glatt, men du mister volum.
 - **Ingen løk og ingen urter.** Det gjør sausen til en ren tomatsmak, i motsetning til en marinara.
-- **Beslektet:** [T125](#t125-marinara--tomatsausbase) er tomatsausbasen med løk og urter, og [T92](#t92-hellstrøms-vierge-saus) er den kalde tomatsausen.
+- **Beslektet:** [marinara (T125)](#t125-marinara--tomatsausbase) er tomatsausbasen med løk og urter, og [vierge-sausen (T92)](#t92-hellstrøms-vierge-saus) er den kalde tomatsausen.
 
 ---
 
@@ -18722,12 +18722,12 @@ Nøttebrunt smør tatt av varmen og tilsatt ingefær, soya og sitron. Ingenting 
 
 ### Notater
 
-- **Alt går i etter at kasserollen er av platen.** Smøret er over 150 grader når det er brunet; ingefær og hvitløk ville svidd seg på sekunder. Restvarmen er nok til å ta råsmaken av dem.
+- **Alt går i etter at kasserollen er av platen.** Smøret er over 150 °C når det er brunet; ingefær og hvitløk ville svidd seg på sekunder. Restvarmen er nok til å ta råsmaken av dem.
 - **Hvitløken går i sammen med sjalottløken** og ingefæren i punkt 2. *(Flagget og presisert.)*
 - **Soya og brunet smør er samme smaksfamilie.** Begge er resultat av Maillard-reaksjoner, og de forsterker hverandre i stedet for å konkurrere. Det er derfor kombinasjonen fungerer på tvers av kjøkkener.
 - **Sitronsaften kutter fettet.** 150 g smør uten syre blir tungt; en halv sitron er akkurat nok til å gjøre sausen spiselig i mengde.
 - **Lages rett før servering.** Sausen stivner når den kjøles og lar seg ikke varme opp igjen uten å skille seg. *(Lagt til.)*
-- **Beslektet:** [T113](#t113-hellstrøms-beurre-noisette) er det brunede smøret alene, og [T107](#t107-hellstrøms-vinaigrette-med-soya) er den kalde soyavarianten.
+- **Beslektet:** [beurre noisette (T113)](#t113-hellstrøms-beurre-noisette) er det brunede smøret alene, og [vinaigrette med soya (T107)](#t107-hellstrøms-vinaigrette-med-soya) er den kalde soyavarianten.
 
 ---
 
@@ -18753,7 +18753,7 @@ Reduksjonen kokes til marmelade, plommene piskes til dobbelt volum med vann, og 
 
 ### Fremgangsmåte
 
-1. **Fres sjalottløken i olivenolje** og tilsett hvitvinen. **Kok inn til marmeladekonsistens** uten at det tar farge.
+1. **Fres sjalottløken i litt av olivenoljen** og tilsett hvitvinen. **Kok inn til marmeladekonsistens** uten at det tar farge.
 2. **Ta kasserollen av platen og tilsett halvparten av vannet.**
 3. **Bland den andre halvparten med eggeplommene.** Pisk til det skummer og **dobler seg i volum**.
 4. **Bland dette sammen med den innkokte marmeladen.**
@@ -18765,11 +18765,11 @@ Reduksjonen kokes til marmelade, plommene piskes til dobbelt volum med vann, og 
 ### Notater
 
 - **Plommene piskes til dobbelt volum før de møter reduksjonen.** Det er dette trinnet som gir sausen luft og gjør den lettere enn en tung smøremulsjon. Hopper du over det, får du en béarnaise som ligger flatt på tallerkenen.
-- **«Uten at massen blir til eggerøre» er hele risikoen.** Over ca. 70 grader koagulerer plommene. Pisk kontinuerlig og ta kasserollen av varmen med jevne mellomrom – det er ikke mulig å redde en saus som først har skilt seg.
-- **Olivenolje ved siden av smøret** er kildens eget avvik. Én desiliter olje til hundre gram smør gjør sausen friskere og litt mindre mettende enn den klassiske versjonen.
+- **«Uten at massen blir til eggerøre» er hele risikoen.** Over ca. 70 °C koagulerer plommene. Pisk kontinuerlig og ta kasserollen av varmen med jevne mellomrom – det er ikke mulig å redde en saus som først har skilt seg.
+- **Olivenolje ved siden av smøret** er kildens eget avvik. 1 dl olje til 100 g smør gjør sausen friskere og litt mindre mettende enn den klassiske versjonen.
 - **Vannet deles i to med hensikt.** Halvparten tynner reduksjonen så den ikke er for konsentrert; halvparten trengs for å piske plommene luftige. Samme mengde, to helt ulike jobber.
 - **Hollandaise er samme saus uten urter.** Kilden gir ingen egen oppskrift, men sier: utelat estragon og kjørvel, og tilsett eventuelt litt mer sitronsaft. Resultatet er den nøytrale grunnsausen som hører til fisk, egg og asparges, mens béarnaisen hører til storfe.
-- **Beslektet:** [nr. 145](#145-hvit-asparges-med-shiitake-og-brunet-hollandaise) bruker en brunet hollandaise, og [T114](#t114-hellstrøms-beurre-blanc) er den eggfrie smøremulsjonen.
+- **Beslektet:** [hvit asparges med brunet hollandaise (nr. 145)](#145-hvit-asparges-med-shiitake-og-brunet-hollandaise) bruker en brunet hollandaise, og [beurre blanc (T114)](#t114-hellstrøms-beurre-blanc) er den eggfrie smøremulsjonen.
 
 ---
 
@@ -18790,22 +18790,22 @@ Brun saus uten kraft, uten mel og uten smør. Karamellisert løk kokt ut med soy
 - 1–2 ss soyasaus
 - 5–6 dl vann
 - En klype salt
-- En knivspiss kajennepepper
+- En knivsodd cayennepepper
 
 ### Fremgangsmåte
 
 1. **Skrell og finhakk løken.** Fres den i olivenolje på middels varme til den blir gyllenbrun, **ca. 10–12 minutter**.
 2. **Tilsett sherryeddik, tomatpuré, honning, Worcestershiresaus, soyasaus og vann.**
 3. **Kok sammen til god konsistens** og kjør med stavmikser.
-4. **Smak til med salt og kajennepepper.**
+4. **Smak til med salt og cayennepepper.**
 
 ### Notater
 
-- **Løken er både smaken og jevningen.** Uten mel eller kraft er det den mikste løken som gir sausen kropp. Derfor er de ti–tolv minuttene med bruning avgjørende – rå løk gir en tynn, søtlig saus.
+- **Løken er både smaken og jevningen.** Uten mel eller kraft er det den miksede løken som gir sausen kropp. Derfor er de ti–tolv minuttene med bruning avgjørende – rå løk gir en tynn, søtlig saus.
 - **Soya og worcestershire erstatter kjøttkraften.** Begge er gjæret og fulle av glutamat, og gir den umamien en ekte brun saus henter fra beinkraft. Det er en snarvei, og kilden later ikke som noe annet.
 - **Honning og sherryeddik hører sammen.** Sødme uten syre blir klissete; syre uten sødme blir skarpt. Én spiseskje av hver er balansen.
-- **Vil du ha den ordentlige veien**, er [G25](#g25-hellstrøms-kalvekraft) utgangspunktet – kalvekraft kokt til demi-glace er den brune sausen denne imiterer.
-- **Beslektet:** [T115](#t115-hellstrøms-tomatsaus) bruker samme prinsipp om at grønnsaken selv skal binde sausen.
+- **Vil du ha den ordentlige veien**, er [kalvekraft (G25)](#g25-hellstrøms-kalvekraft) utgangspunktet – kalvekraft kokt til demi-glace er den brune sausen denne imiterer.
+- **Beslektet:** [tomatsausen (T115)](#t115-hellstrøms-tomatsaus) bruker samme prinsipp om at grønnsaken selv skal binde sausen.
 
 ---
 
@@ -18842,9 +18842,9 @@ Sjampinjongene koker med i sausen, tas ut før miksingen og legges tilbake rett 
 
 - **Soppen ut, saus mikset, sopp inn igjen.** Poenget er å få soppsmaken inn i sausen uten å miste bitene. Mikser du alt sammen, får du en grå soppsuppe; utelater du soppen fra kokingen, smaker sausen bare av fløte.
 - **Estragonkvistene knyttes med hyssing** nettopp fordi de skal ut igjen. Løse blader i en saus som skal mikses blir grønne prikker.
-- **To desiliter rømme mot én fløte** er et nordisk grep i en fransk saus. Rømmen gir syre som fløte alene mangler, og gjør sausen mindre tung.
+- **To desiliter rømme mot én desiliter fløte** er et nordisk grep i en fransk saus. Rømmen gir syre som fløte alene mangler, og gjør sausen mindre tung.
 - **Rømme tåler ikke hard koking.** Fem minutter på småkok er trygt; fosskok får den til å skille seg. *(Presisert.)*
-- **Beslektet:** [T43](#t43-kantarellsaus) er soppsaus med kantareller, og [T99](#t99-hellstrøms-sennepssaus) bruker rømme på samme måte.
+- **Beslektet:** [kantarellsaus (T43)](#t43-kantarellsaus) er soppsaus med kantareller, og [sennepssausen (T99)](#t99-hellstrøms-sennepssaus) bruker rømme på samme måte.
 
 ---
 
@@ -18874,7 +18874,7 @@ Fire ingredienser, ingen varme. Kildens svar på hva man har til alt.
 - **Smak før du salter.** Soyasausen bringer med seg rikelig med salt. Instruksen om å smake til er ikke en formalitet her.
 - **Urtevalget avgjør hva sausen er.** Estragon og kjørvel gir en fransk saus; koriander gjør den asiatisk; dill trekker den mot fisk. Samme grunnoppskrift, tre ulike retter.
 - **Lages rett før bruk.** Hakkede urter i olje mørkner i løpet av en time. *(Lagt til.)*
-- **Beslektet:** [T107](#t107-hellstrøms-vinaigrette-med-soya) er samme idé med lime og sesam, og [T116](#t116-hellstrøms-soyasmørsaus) er den varme utgaven.
+- **Beslektet:** [vinaigrette med soya (T107)](#t107-hellstrøms-vinaigrette-med-soya) er samme idé med lime og sesam, og [soyasmørsausen (T116)](#t116-hellstrøms-soyasmørsaus) er den varme utgaven.
 
 ---
 
@@ -18891,7 +18891,7 @@ Hvit saus der en tredjedel av væsken er kremfløte. Melk og fløte varmes før 
 - 5 dl helmelk
 - 2,5 dl kremfløte
 - Salt
-- Kajennepepper
+- Cayennepepper
 - Muskatnøtt *(valgfritt)*
 
 ### Fremgangsmåte
@@ -18899,16 +18899,16 @@ Hvit saus der en tredjedel av væsken er kremfløte. Melk og fløte varmes før 
 1. **Smelt smøret i en liten kjele** og rør inn hvetemelet.
 2. **Varm melk og kremfløte** og tilsett i smør- og melblandingen før oppkok.
 3. **Kok på middels varme under konstant omrøring** i noen minutter, til en tykkere saus.
-4. **Smak til med salt og kajennepepper**, sil av og hold sausen varm.
+4. **Smak til med salt og cayennepepper**, sil av og hold sausen varm.
 
 ### Notater
 
 - **Fløten gjør dette til noe annet enn en bechamel.** Klassisk bechamel er melk alene. Med 2,5 dl fløte til 5 dl melk er sausen langt rikere og tåler mindre koking før den blir tung.
 - **Væsken må være varm.** Kald melk i varm jevning gir klumper som ingen visping fjerner. Kilden spesifiserer det, og det er den vanligste feilen.
-- **Forholdet er tynnere enn standarden.** 40 g smør og mel til 7,5 dl væske gir en løs saus; G8 bruker 70/70 til én liter, altså tykkere. Velg etter bruk – denne kler grateng, den tykkere kler lasagne.
-- **Kajenne i stedet for hvit pepper** er kildens signatur og går igjen gjennom hele boka.
+- **Forholdet er tynnere enn standarden.** 40 g smør og mel til 7,5 dl væske gir en løs saus; [Bechamel (T124)](#t124-bechamel) bruker 70 g av hver til én liter, altså tykkere. Velg etter bruk – denne kler grateng, den tykkere kler lasagne.
+- **Cayenne i stedet for hvit pepper** er kildens signatur og går igjen gjennom hele boka.
 - **Silingen fanger eventuelle klumper.** Et lite sikkerhetsnett som er verdt de ti sekundene.
-- **Beslektet:** [T124](#t124-bechamel) er den klassiske versjonen uten fløte, med forholdstallet verdt å lære utenat.
+- **Beslektet:** [bechamel (T124)](#t124-bechamel) er den klassiske versjonen uten fløte, med forholdstallet verdt å lære utenat.
 
 ---
 
