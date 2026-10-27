@@ -23343,7 +23343,7 @@ To små pannekaker med søt rødbønnepasta imellom. Honning i røren gir den bl
 - 1 ts bakepulver
 - 2 ss vann
 - 300 g anko *(søt rødbønnepasta)*
-- 20 g nøytral olje til pannen *(mengde lagt til.)*
+- 1 ss nøytral olje til pannen *(mengde lagt til)*
 
 ### Fremgangsmåte
 
@@ -23416,7 +23416,7 @@ Koreansk skavet is med søte røde bønner, riskaker og kondensert melk. Den byg
 ### Ingredienser
 
 - Isbiter til 4 dl skavet is per porsjon
-- 2 dl søte røde bønner *(dan-pat, ferdig på boks)*
+- ca. 200 g søte røde bønner *(dan-pat, ferdig på boks)* *(Omregnet fra 2 dl.)*
 - 100 g injeolmi eller små riskaker
 - 1 dl søtet kondensert melk
 - Frisk frukt: jordbær, mango eller kiwi
