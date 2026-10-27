@@ -1078,13 +1078,13 @@ En av de raskeste rettene du kan lage. Nudler i en nøtteaktig, syrlig og sterk 
 - 1 ss lys soyasaus
 
 **Nudelsaus**
-- 1½ ss peanøttsmør
+- 1 ss + 1½ ts peanøttsmør
 - 2 hvitløksfedd, finhakket
 - 3 vårløk, tynt skivet
-- ½ ss sprø chiliolje (chili crisp)
+- 1½ ts sprø chiliolje (chili crisp)
 - 1 ts gochugaru (kan erstattes med mildt chilipulver)
-- ½ ss sesamfrø
-- ½ ss honning
+- 1½ ts sesamfrø
+- 1½ ts honning
 - 1 ss riseddik
 - 1 ss lys soyasaus
 
@@ -1183,7 +1183,7 @@ Pho virker som noe man bare får på restaurant, men det er få retter som gir s
 - 2 ss fiskesaus
 - 1 ts sukker
 - 2 kyllingbuljongterninger
-- Ca. 1,9 liter vann (8 cups)
+- Ca. 2 liter vann *(Omregnet.)*
 - 1 pose pho-krydder
 
 **Tilbehør**
@@ -1202,7 +1202,7 @@ Pho virker som noe man bare får på restaurant, men det er få retter som gir s
 1. **Svi løk og ingefær.** Del løken og ingefæren i to og legg dem på et tørt stekebrett. Grill under grillelementet i 8–10 minutter til de er svartsvidde i flatene. Alternativt kan du svi dem i en tørr, varm panne i noen minutter.
 2. **Rist krydderet.** Rist pho-krydderet i en varm, tørr panne til det dufter, og legg det deretter i en krydderpose eller et tesil.
 3. **Klargjør kyllingen.** Fjern skinnet fra ett av kyllinglårene. Legg all kyllingen i en stor gryte.
-4. **Fyll på vann.** Ha i ca. 1,9 liter vann – nok til at det står 5–8 cm over kyllingen.
+4. **Fyll på vann.** Ha i ca. 2 liter vann – nok til at det står 5–8 cm over kyllingen.
 5. **Tilsett resten.** Ha i de svidde løkene, ingefæren, krydderposen, fiskesausen, buljongterningene og sukkeret.
 6. **Kok opp og skum av.** La det så vidt småkoke, og skum av det hvite skummet som legger seg på overflaten. Fortsett å skumme av jevnlig de første 30 minuttene.
 7. **La det trekke uten lokk.** Sett to tidtakere: 45 minutter og 1,5 time.
@@ -1307,7 +1307,7 @@ Snarveien: ferdig grillkylling fra butikken gir både kjøtt til toppingen og sk
 - 1 bit ingefær
 - 1 pose pho-kryddermiks
 - Ca. 3,8 liter vann
-- ½ dl fiskesaus
+- 3 ss fiskesaus
 - 1 liten bit kandissukker
 
 **Syltet chililøk**
@@ -1417,7 +1417,7 @@ Kremet uten fløte: peanøttsmør, tahini og kokosmelk gjør jobben. Smuldret, k
 - 2 ss chiliolje
 - 2 ss peanøttsmør
 - 1 ss tahini
-- 300 ml kokosmelk
+- 3 dl kokosmelk
 - 1 liter kraft (oksebuljong)
 - 1 ss fiskesaus
 - 1 ts MSG (valgfritt)
@@ -1447,7 +1447,7 @@ Kremet uten fløte: peanøttsmør, tahini og kokosmelk gjør jobben. Smuldret, k
 - **Punkt 3 er litt uklart i originalen:** «varm opp olje … ha i chiliolje». Det holder å bruke de 2 ss chilioljen alene, den inneholder rikelig med fett.
 - **Smuldret tofu, ikke terninger.** Det gir mer overflate å brune, og teksturen ligner kjøttdeig.
 - **Ikke vegetarisk** slik den står, selv om originalen er tilpasset fra Bosh (som er vegansk). Dropp fiskesausen og bruk grønnsakskraft, så er den det.
-- **1 liter kraft pluss 300 ml kokosmelk** gir rikelig med buljong til fire porsjoner. Nudelmengden er ikke oppgitt – regn ca. 100 g tørre per person.
+- **1 liter kraft pluss 3 dl kokosmelk** gir rikelig med buljong til fire porsjoner. Nudelmengden er ikke oppgitt – regn ca. 100 g tørre per person.
 - **Sammenlign med [oppskrift nr. 1](#1-kremet-krydret-miso-ramen-med-kylling):** den bruker soyamelk og kyllingkraft for kremetheten, denne bruker kokosmelk, peanøttsmør og tahini. Sistnevnte blir tydelig nøttepreget og mer sørøstasiatisk i karakter.
 
 ---
@@ -1463,10 +1463,10 @@ Hevet deig i stedet for gyoza-ark: sprøstekt i bunnen, luftig og myk på toppen
 ### Ingredienser
 
 **Deig (ca. 11 dumplings)**
-- 250 g hvetemel (4,8 dl)
+- 250 g hvetemel
 - 12 g fersk gjær eller 1 ts tørrgjær
 - 1 ts sukker
-- 140 ml varmt vann
+- 1,4 dl varmt vann
 
 **Fyll**
 - 500 g blandet kjøttdeig, eller den farsen du vil
@@ -1490,9 +1490,9 @@ Hevet deig i stedet for gyoza-ark: sprøstekt i bunnen, luftig og myk på toppen
 - Chinkiang-eddik
 
 **Filips soyadipp** (kokes bare opp)
-- ½ dl japansk soyasaus
-- ½ dl vann
-- ½ dl sukker
+- 3 ss japansk soyasaus
+- 3 ss vann
+- 3 ss sukker
 
 ### Fremgangsmåte
 
@@ -1500,7 +1500,7 @@ Hevet deig i stedet for gyoza-ark: sprøstekt i bunnen, luftig og myk på toppen
 2. **Lag fyllet imens.** Bland alle fyllingrediensene til en farse. Rør gjerne samme vei hele tiden, så blir farsen litt spenstig. Sett den til side.
 3. **Del deigen.** Når deigen er ferdig hevet: rull den til en tykk pølse og del den i 10–12 like store biter. Rull hver bit til en liten ball og la dem etterheve under håndkle i 5–10 minutter.
 4. **Kjevle ut.** Kjevle hver bit til en rund leiv på ca. 12 cm i diameter. Bruk gjerne ekstra mel så det ikke setter seg fast i benken.
-5. **Fyll og lukk.** Legg litt mer enn ½ dl fyll på hver leiv, brett inn kantene og lukk godt. Gjenta med alle. *Det blir sannsynligvis farse til overs – den kan fint stekes som karbonader.*
+5. **Fyll og lukk.** Legg ca. 45 g fyll på hver leiv, brett inn kantene og lukk godt. Gjenta med alle. *Det blir sannsynligvis farse til overs – den kan fint stekes som karbonader.*
 6. **Stek.** Varm en stekepanne du har lokk til (aluminiumsfolie funker også) på styrke 8 av 9. Ha i 2–3 ss rapsolje og legg i dumplingene med skjøten ned, så det freser. Sørg for litt mellomrom mellom dem.
 7. **Senk varmen.** Når alle er i, senk til 5 (middels) og stek til de får fin farge i bunnen.
 8. **Damp.** Hell i 1 dl vann og legg raskt på lokk. Damp i 10–12 minutter.
@@ -1527,13 +1527,13 @@ Kremet, sterk kokosbuljong med reker og risnudler. Rask å lage når laksapastae
 ### Ingredienser
 
 - 250 g risnudler, kokt og silt
-- ½ dl laksapasta
+- 3 ss laksapasta
 - 4–6 hvitløksfedd, finhakket
 - Ca. 2,5 cm ingefær, skrelt og finhakket
 - 2–3 stilker sitrongress, banket
-- 400 ml kokoskrem
-- 400 ml kokosmelk
-- Ca. 950 ml kyllingkraft
+- 4 dl kokoskrem
+- 4 dl kokosmelk
+- Ca. 1 liter kyllingkraft
 - 1 ss sukker
 - 300 g reker, skrelt og renset
 - 2 ss fersk limejuice
@@ -1554,7 +1554,7 @@ Kremet, sterk kokosbuljong med reker og risnudler. Rask å lage når laksapastae
 
 1. **Kok nudlene** etter anvisningen på pakken og sett dem til side.
 2. **Stek laksapastaen.** Varm litt olje i en stor gryte på middels varme. Ha i laksapastaen og stek i 2–3 minutter til den dufter. Tilsett hvitløk, ingefær og sitrongress, og fres i 2 minutter til.
-3. **Ha i kokos.** Hell i 300 ml av kokoskremen – spar de siste 100 ml til senere – sammen med kokosmelken. Kok forsiktig opp, senk varmen og la det småkoke i 5 minutter så det reduserer litt.
+3. **Ha i kokos.** Hell i 3 dl av kokoskremen – spar den siste desiliteren til senere – sammen med kokosmelken. Kok forsiktig opp, senk varmen og la det småkoke i 5 minutter så det reduserer litt.
 4. **Tilsett limeblader og kraft**, og kok opp igjen.
 5. **Ha i reker og grønt.** Tilsett rekene, eventuelle soup dumplings og bladgrønnsakene. La alt koke i ca. 2 minutter – det fortsetter å tilberedes i den varme buljongen etter at gryta er tatt av varmen.
 6. **Rund av.** Rør inn resten av kokoskremen, en god skvis limejuice, fiskesausen og mesteparten av bønnespirene. Spar noen til pynt.
@@ -1564,11 +1564,11 @@ Kremet, sterk kokosbuljong med reker og risnudler. Rask å lage når laksapastae
 
 - **Ikke overkok rekene.** To minutter i gryta er nok – ettervarmen i buljongen gjør resten. Blir de gummiaktige, er de kokt for lenge.
 - **Å steke laksapastaen først er hele poenget.** Fettet trekker ut aromaen fra pastaen. Hell du den rett i væsken, blir smaken flat.
-- **Å holde igjen 100 ml kokoskrem til slutt** gir en friskere, mer uttalt kokossmak enn om alt kokes inn.
+- **Å holde igjen 1 dl kokoskrem til slutt** gir en friskere, mer uttalt kokossmak enn om alt kokes inn.
 - **Limeblader mangler i ingredienslisten**, men brukes i punkt 4. Regn 4–6 blader. Finnes frosne i asiatiske butikker.
 - **Sukkeret (1 ss) står i ingredienslisten, men brukes ikke i fremgangsmåten.** Rør det inn sammen med fiskesausen i punkt 6.
 - **Soup dumplings nevnes i punkt 5**, men står ikke blant ingrediensene. Valgfritt tilbehør.
-- **Porsjonsangivelsen er lav.** 950 ml kraft pluss 800 ml kokos er nærmere 3–4 porsjoner enn 2.
+- **Porsjonsangivelsen er lav.** 1 liter kraft pluss 8 dl kokos er nærmere 3–4 porsjoner enn 2.
 - Bank sitrongresset med baksiden av en kniv før du har det i – det slipper mye mer aroma.
 
 ---
