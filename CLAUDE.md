@@ -24,6 +24,8 @@ verktoy/nk_tabell.json  ← kjøkken → regionsøkeord
 verktoy/naering.py      ← kontroll av kcal/protein
 verktoy/publiser.py     ← hele byggekjeden i én kommando
 verktoy/test_app.py     ← røyktest i Chromium (Playwright)
+verktoy/hent_video.py   ← tekst, tale og skjermbilder fra TikTok/Instagram/YouTube
+.video/                 ← arbeidsmappe for videoer, ignoreres av git
 ```
 
 HTML-filene redigeres aldri for hånd for å endre oppskrifter. Appen leser
@@ -52,6 +54,28 @@ ikke `oppskrifter.md` selv; den ser bare det som er injisert.
 
 Stopper publiser.py med FEIL, rett feilen i `oppskrifter.md` og kjør på nytt.
 Bruk aldri `--uten-test` eller hopp over kontroller for å få noe ut.
+
+## Videooppskrifter (TikTok, Instagram Reels, YouTube)
+
+Oppskriften står sjelden komplett i teksten under videoen. Mengder og steg
+ligger ofte bare i det som sies eller i tekst på skjermen. Hent derfor alt:
+
+1. `python3 verktoy/hent_video.py <lenke>` – lager `.video/<id>/` med
+   `oppsummering.md` (konto, dato, likes, videotekst, transkribert tale med
+   tidspunkt) og kontaktark `ark-01.jpg …` med 9 skjermbilder hver.
+   Instagram feiler ofte uten innlogging: prøv `--cookies chrome`.
+2. Les `oppsummering.md`. **Se så på hvert kontaktark** – mengder,
+   temperaturer og ingredienser som bare vises på skjermen finnes ikke i
+   talen. Er teksten for liten, åpne enkeltbildet i `.video/<id>/bilder/`
+   (filnavnet er sekundet i videoen).
+3. Sett sammen ingredienser og fremgangsmåte fra alle tre kildene. Der de
+   motsier hverandre, gjelder det som står på skjermen foran det som sies,
+   og begge foran videoteksten. Nevn motsigelsen i notatet.
+4. Mengder som ikke står noe sted, skal ikke gjettes stille: skriv et
+   fornuftig anslag merket `*(Lagt til.)*`, eller `*(Flagget.)*` hvis det
+   er usikkert, og si fra til Rob.
+5. Kildefeltet: `@konto (TikTok, dato)` pluss antall likes, som før.
+6. Slett `.video/<id>/` når oppskriften er publisert.
 
 ## Typiske feil å se etter i kilder
 
