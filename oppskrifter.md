@@ -16995,14 +16995,14 @@ Risen bakes i ovnen under lokk i stedet for å kokes på platen, og vendes med k
 ### Ingredienser
 
 - 200 g basmatiris
-- 6 dl grønnsakbuljong eller kokosmelkvann
+- 6 dl grønnsaksbuljong eller kokosmelkvann
 - 1 liten kanelstang
-- 3–4 kardemommefrø
+- 3–4 hele kardemommekapsler *(kilden skriver «kardemommefrø»)*
 - 2 ss pistasjnøtter
 - 1–2 ss pinjekjerner
 - 1–2 ss rosiner
 - 50 g meierismør
-- 2–3 hvitløkfedd
+- 2–3 hvitløksfedd
 - 2–3 sjalottløk
 - 3 ss olivenolje
 - Salt
@@ -17012,18 +17012,18 @@ Risen bakes i ovnen under lokk i stedet for å kokes på platen, og vendes med k
 1. **Skyll risen godt i kaldt vann.**
 2. **Rens og finhakk sjalottløk og hvitløk**, og fres dette i olivenolje **uten at det tar farge**.
 3. **Tilsett risen** og bland godt over varmen.
-4. **Tilsett kokosmelkvann eller grønnsakbuljong og salt.**
-5. **Gi blandingen et oppkok**, ha på lokk, og **bak den på midterste rille på ca. 150 grader i ca. 20 minutter**.
+4. **Tilsett kokosmelkvann eller grønnsaksbuljong og salt.**
+5. **Gi blandingen et oppkok**, ha på lokk, og **bak den på midterste rille på ca. 150 °C i ca. 20 minutter**.
 6. **Bland inn kaldt smør i terninger.**
 7. **Vend inn de andre ingrediensene.**
 
 ### Notater
 
-- **Ovn i stedet for plate.** Varmen kommer fra alle kanter i stedet for bare nedenfra, og risen koker jevnt uten å svi seg i bunnen. Hundre og femti grader er lavt nok til at det aldri koker hardt.
+- **Ovn i stedet for plate.** Varmen kommer fra alle kanter i stedet for bare nedenfra, og risen koker jevnt uten å svi seg i bunnen. 150 °C er lavt nok til at det aldri koker hardt.
 - **Løken skal ikke ta farge.** Bruning ville gitt en søt, karamellisert tone som konkurrerer med kardemomme og kanel. Her skal løken bare mykne.
 - **Kaldt smør i terninger til slutt.** Kaldt fett smelter langsomt inn i den varme risen og legger seg som en hinne rundt kornene i stedet for å samle seg i bunnen.
-- **Kanelstang og hele kardemommefrø**, ikke malt. Hele krydder gir en renere aroma og lar seg plukke ut.
-- **Beslektet:** [kokt ris (T131)](#t131-kokt-ris) og [Hellstrøms japanske ris (T134)](#t134-hellstrøms-japanske-ris) er samlingens andre risoppskrifter, og [mujadara (nr. 175)](#175-mujadara) er en beslektet krydret risrett.
+- **Kanelstang og hele kardemommekapsler**, ikke malt. Hele krydder gir en renere aroma og lar seg plukke ut.
+- **Beslektet:** [kokt ris (T131)](#t131-kokt-ris) og [Hellstrøms japanske ris (T134)](#t134-hellstrøms-japanske-ris) er andre risoppskrifter, og [mujadara (nr. 175)](#175-mujadara) er en beslektet krydret risrett.
 
 ---
 
@@ -17038,28 +17038,28 @@ Potetskivene forkokes i melk til blandingen tykner, før fløte og krydder går 
 - 500 g skrelte faste poteter
 - 2 dl helmelk
 - 1 dl kremfløte
-- 2 hvitløkfedd
+- 2 hvitløksfedd
 - 50 g meierismør
 - Salt
 - Revet muskatnøtt
-- Et dryss kajennepepper
+- Et dryss cayennepepper
 
 ### Fremgangsmåte
 
 1. **Skjær potetene i skiver på ca. 2 mm.**
 2. **Ha dem i en kasserolle og hell i melk til det dekker.** Kok under omrøring i **ca. 10 minutter**, til blandingen får en tykkere konsistens.
-3. **Tilsett kremfløte, salt, revet muskatnøtt, finhakket hvitløk og kajennepepper.**
+3. **Tilsett kremfløte, salt, revet muskatnøtt, finhakket hvitløk og cayennepepper.**
 4. **Smør en ildfast form**, ha i potetblandingen og legg kaldt smør i terninger på toppen.
-5. **Stek på 150 grader i 50 minutter eller mer**, til gratengen er gjennomstekt og gyllen.
+5. **Stek på 150 °C i 50 minutter eller mer**, til gratengen er gjennomstekt og gyllen.
 
 ### Notater
 
 - **Forkokingen i melk er hele poenget.** Potetstivelsen løses ut og binder melken før gratengen går i ovnen. Uten trinnet må ovnen gjøre bindingsjobben alene, og da skiller fløten seg langt lettere.
-- **150 grader er lavt, og det er med vilje.** Kilden slår fast at jo svakere varme og jo lengre tid, jo bedre resultat. Høy varme koker fløten og gir en kornete overflate lenge før potetene er møre.
+- **150 °C er lavt, og det er med vilje.** Kilden slår fast at jo svakere varme og jo lengre tid, jo bedre resultat. Høy varme koker fløten og gir en kornete overflate lenge før potetene er møre.
 - **2 mm er tynt nok til å bli mørt, tykt nok til å holde formen.** Tykkere skiver trenger lengre tid i ovnen; tynnere går i oppløsning allerede under forkokingen.
-- **Muskat og kajenne skal ikke kjennes hver for seg.** Begge er små mengder som løfter fløten fra flat til rund. Kjenner du dem tydelig, er det for mye.
-- **Kilden oppgir hverken tid eller antall.** 500 g poteter rekker til fire som tilbehør. *(Flagget.)*
-- **Beslektet:** [T52](#t52-potetgrateng-med-trøffelbrie) er samme rett uten forkoking, med brie i stedet for muskat.
+- **Muskat og cayenne skal ikke kjennes hver for seg.** Begge er små mengder som løfter fløten fra flat til rund. Kjenner du dem tydelig, er det for mye.
+- **Kilden oppgir verken tid eller antall porsjoner.** 500 g poteter rekker til fire som tilbehør. *(Flagget.)*
+- **Beslektet:** [potetgrateng med trøffelbrie (T52)](#t52-potetgrateng-med-trøffelbrie) er samme rett uten forkoking, med brie i stedet for muskat.
 
 ---
 
@@ -17082,7 +17082,7 @@ Potetene dampes tørre etter kokingen og knuses med ballongvisp i samme kasserol
 2. **Slå av vannet og sett kasserollen tilbake på varmen.** Damp potetene raskt til de er tørre.
 3. **Ta kasserollen av varmen og knus potetene med en ballongvisp** i den samme kasserollen.
 4. **Kok opp melk og smør i en annen kasserolle**, og bland inn i potetene litt etter litt.
-5. **Visp godt til en konsistens som hverken er for fast eller for bløt.** Korriger eventuelt med litt mer melk.
+5. **Visp godt til en konsistens som verken er for fast eller for bløt.** Korriger eventuelt med litt mer melk.
 6. **Smak til med salt.**
 
 ### Notater
@@ -17092,7 +17092,7 @@ Potetene dampes tørre etter kokingen og knuses med ballongvisp i samme kasserol
 - **Ballongvisp, ikke stavmikser.** Stavmikseren river opp stivelseskornene og gjør puréen limaktig i løpet av sekunder. Vispen knuser uten å piske.
 - **Puréen tykner når den står.** Regn med å spe med litt melk hvis den skal vente. *(Presisert.)*
 - **Kildens variantforslag:** svart oliven og piment d'Espelette · persille- eller hvitløksmør · rødløk, sylteløk og cornichons · gressløk og vårløk.
-- **Beslektet:** [T71](#t71-hellstrøms-franske-potetpannekaker) bruker samme potetpuré som utgangspunkt for en røre.
+- **Beslektet:** [franske potetpannekaker (T71)](#t71-hellstrøms-franske-potetpannekaker) bruker samme potetpuré som utgangspunkt for en røre.
 
 ---
 
@@ -17100,7 +17100,7 @@ Potetene dampes tørre etter kokingen og knuses med ballongvisp i samme kasserol
 
 **Kilde:** Eyvind Hellstrøm, *Grunnboka* (Cappelen Damm, 2025) · **Kjøkken:** Vestlig · **Tid:** ca. 1 t · **Porsjoner:** 4
 
-Potetene bakes hele i stekepanne på 220 grader, tømmes for innmat, som blandes med smør og crème fraîche og fylles tilbake i skallet.
+Potetene bakes hele i stekepanne på 220 °C, tømmes for innmat, som blandes med smør og crème fraîche og fylles tilbake i skallet.
 
 ### Ingredienser
 
@@ -17114,7 +17114,7 @@ Potetene bakes hele i stekepanne på 220 grader, tømmes for innmat, som blandes
 
 ### Fremgangsmåte
 
-1. **Bak uskrelte poteter i en stekepanne** på midterste rille på **220 grader i ca. 50 minutter**. Størrelsen på potetene avgjør tiden.
+1. **Bak uskrelte poteter i en stekepanne** på midterste rille på **220 °C i ca. 50 minutter**. Størrelsen på potetene avgjør tiden.
 2. **Skjær av toppen** på de bakte potetene.
 3. **Skrap forsiktig ut potetinnmaten med en skje** uten å ødelegge skallet.
 4. **Bland inn crème fraîche eller seterrømme og smør** i potetmassen, og smak til med salt og pepper. Bland lett.
@@ -17127,7 +17127,7 @@ Potetene bakes hele i stekepanne på 220 grader, tømmes for innmat, som blandes
 - **«Bland lett» er en reell instruks.** Overarbeidet potetmasse blir seig av utløst stivelse. Vend akkurat til smøret er borte, ikke lenger.
 - **Størrelsen styrer tiden mer enn oppskriften gjør.** 50 minutter passer store bakepoteter; mindre poteter er ferdige på 35–40. Stikk med en tynn kniv – den skal gå gjennom uten motstand.
 - **Stekepanne i ovnen, ikke stekebrett.** Kilden bruker panne fordi den holder på varmen og gir undersiden av potetene en jevnere bunnvarme.
-- **Beslektet:** [T51](#t51-hasselbackpoteter-med-hvitløkssmør) og [T23](#t23-potetbåter-i-airfryer) er de andre helstekte potetene i samlingen.
+- **Beslektet:** [hasselbackpoteter med hvitløkssmør (T51)](#t51-hasselbackpoteter-med-hvitløkssmør) og [potetbåter i airfryer (T23)](#t23-potetbåter-i-airfryer).
 
 ---
 
@@ -17152,7 +17152,7 @@ Strimlene vannes ut over natten, forkokes møre, tørkes, kjøles ned og fritere
 4. **Ta dem opp, ha dem i en kjele med varmt vann og gi et oppkok.** Kok i **8–10 minutter** til de er møre. De må ikke gå i oppløsning.
 5. **La potetene renne av og tørk dem forsiktig i et rent kjøkkenklede.**
 6. **Avkjøl og sett i kjøleskap over natten, eller legg dem i fryseren.** De skal være helt avkjølte før fritering.
-7. **Varm oljen til 170–180 grader** og stek strimlene til de er sprø og gyllenbrune, **ca. 4–5 minutter per runde**. Stek lite om gangen så temperaturen holder seg.
+7. **Varm oljen til 170–180 °C** og stek strimlene til de er sprø og gyllenbrune, **ca. 4–5 minutter per runde**. Stek lite om gangen så temperaturen holder seg.
 8. **Legg dem på tørkepapir og dryss over fint salt.**
 9. **Stek frisk salvie, bladpersille eller rosmarin i den samme oljen** og bland med potetene. Server umiddelbart.
 
@@ -17163,7 +17163,7 @@ Strimlene vannes ut over natten, forkokes møre, tørkes, kjøles ned og fritere
 - **Nedkjølingen er ikke bare praktisk.** Kalde strimler i varm olje gir en brå fordampning i det ytterste laget, og det er der sprøheten skapes. Lunkne strimler suger olje i stedet.
 - **Én runde av gangen.** Overfylt gryte senker oljetemperaturen, og da koker potetene i fett i stedet for å frityrsteke. Kilden er eksplisitt på konstant temperatur.
 - **Urtene til slutt, i samme olje.** De blir sprø på sekunder og gir fra seg aroma til oljen. Salvie tåler dette bedre enn de fleste urter; koriander gjør det ikke.
-- **Beslektet:** [T23](#t23-potetbåter-i-airfryer) er den raske motsatsen, og [T70](#t70-hellstrøms-potetkake) bruker de samme strimlene uten vann i det hele tatt.
+- **Beslektet:** [potetbåter i airfryer (T23)](#t23-potetbåter-i-airfryer) er den raske motsatsen, og [potetkaken (T70)](#t70-hellstrøms-potetkake) bruker de samme strimlene uten vann i det hele tatt.
 
 ---
 
@@ -17194,11 +17194,11 @@ Rå potetstrimler presses for væske, aldri skylles, og stekes til en tynn kake 
 
 ### Notater
 
-- **Ikke skyll potetene.** Kilden skriver det med store bokstaver, og grunnen er stivelsen: den er limet som holder kaken sammen. Skyller du den bort, faller kaken fra hverandre i pannen. Dette er stikk motsatt av [pommes frites](#t69-hellstrøms-pommes-frites), der stivelsen er fienden.
+- **Ikke skyll potetene.** Kilden skriver det med store bokstaver, og grunnen er stivelsen: den er limet som holder kaken sammen. Skyller du den bort, faller kaken fra hverandre i pannen. Dette er stikk motsatt av [pommes frites (T69)](#t69-hellstrøms-pommes-frites), der stivelsen er fienden.
 - **Press ut væsken, behold stivelsen.** Kledet fjerner vannet uten å skylle bort det som binder. Vann i pannen damper potetene i stedet for å steke dem.
 - **Svak varme i ti minutter, ikke rask bruning.** Strimlene må bli møre tvers gjennom før overflaten får farge. Høy varme gir en brent bunn over rå poteter.
-- **Gressløken går på til slutt, ikke i deigen.** Finhakkede urter som steker i ti minutter blir svarte og bitre. Her ligger de beskyttet inne i bretten.
-- **Beslektet:** [S17](#s17-potetrösti-med-crème-fraîche-og-gochugaru) er samme prinsipp i énporsjonsformat med revet potet.
+- **Gressløken går på til slutt, ikke blandet i strimlene.** Finhakkede urter som steker i ti minutter blir svarte og bitre. Her ligger de beskyttet inne i bretten.
+- **Beslektet:** [potetrösti (S17)](#s17-potetrösti-med-crème-fraîche-og-gochugaru) er samme prinsipp i énporsjonsformat med revet potet.
 
 ---
 
@@ -17231,11 +17231,11 @@ Potetpuré presset gjennom sikt, bygget ut til en røre med melk, mel, egg og eg
 ### Notater
 
 - **Rekkefølgen i innblandingen er ikke tilfeldig.** Melk først tynner puréen så melet lar seg røre inn uten klumper. Kommer melet i en tett puré, får du klumper du ikke blir kvitt.
-- **Sikt, ikke potetstapper.** Siktet gir en helt glatt masse uten fiberrester. Enhver ujevnhet i puréen blir en ujevnhet i pannekaken.
+- **Sikt, ikke potetstapper.** Sikten gir en helt glatt masse uten fiberrester. Enhver ujevnhet i puréen blir en ujevnhet i pannekaken.
 - **Fire eggehviter i tillegg til tre hele egg** er det som gjør røren luftig uten å tilsette bakepulver. Hvitene skal blandes inn, ikke piskes stive – «lett hånd» er instruksen.
-- **Klaret smør tåler stekevarmen.** Vanlig smør inneholder melkeproteiner som svir seg lenge før pannekakene er gyllne. Se [T126](#t126-brunet-smør-og-ghee) for fremgangsmåten.
-- **Salt eller sukker avgjør hva retten er.** Kilden bruker den både som tilbehør til fugl og lyst kjøtt, som egen rett, og som dessert med sukker og bær.
-- **Beslektet:** [T67](#t67-hellstrøms-mandelpotetpuré) er puréen dette bygger på, og [G12](#g12-hellstrøms-pannekakerøre) er den vanlige pannekakerøren.
+- **Klaret smør tåler stekevarmen.** Vanlig smør inneholder melkeproteiner som svir seg lenge før pannekakene er gylne. Se [brunet smør og ghee (T126)](#t126-brunet-smør-og-ghee) for fremgangsmåten.
+- **Salt eller sukker avgjør hva retten er.** Kilden foreslår pannekakene både som tilbehør til fugl og lyst kjøtt, som egen rett, og som dessert med sukker og bær.
+- **Beslektet:** [mandelpotetpuréen (T67)](#t67-hellstrøms-mandelpotetpuré) er utgangspunktet, og [pannekakerøren (G12)](#g12-hellstrøms-pannekakerøre) er den vanlige varianten.
 
 ---
 
@@ -17250,7 +17250,7 @@ Vårløken kokes med potetene de siste to minuttene, og salaten blandes med vina
 - 500 g poteter (nypoteter)
 - 2–3 bunter vårløk
 - 1 rødløk
-- 1 hvitløkfedd
+- 1 hvitløksfedd
 - 4 ss fransk vinaigrette eller jalapeñosaus
 - 1 bunt gressløk eller friske urter som kjørvel, persille eller koriander
 - Ruccola
@@ -17258,10 +17258,10 @@ Vårløken kokes med potetene de siste to minuttene, og salaten blandes med vina
 
 ### Fremgangsmåte
 
-1. **Skrell eller skrubb potetene og del dem i 2 eller 4.**
+1. **Skrell eller skrubb potetene og del dem i to eller fire.**
 2. **Rens vårløken og kutt den i mindre biter.**
-3. **Kok potetene i saltet vann til de er møre.** La vårløken koke med **de siste 2 minuttene**.
-4. **Avkjøl og bland inn knust hvitløkfedd og vinaigrette eller jalapeñosaus.**
+3. **Kok potetene i saltet vann til de er møre.** Ha i vårløken **de siste 2 minuttene**.
+4. **Avkjøl og bland inn knust hvitløksfedd og vinaigrette eller jalapeñosaus.**
 5. **Bland inn finhakkede friske urter til slutt** og smak til med salt og pepper.
 6. **Vend inn tynt strimlet rødløk og ruccola rett før servering.** *(Steget mangler i kilden – se notat.)* Ruccolaen helt til slutt, så den ikke faller sammen.
 
@@ -17271,7 +17271,7 @@ Vårløken kokes med potetene de siste to minuttene, og salaten blandes med vina
 - **Vinaigretten skal på lunkne poteter.** Varm potet suger opp dressing; kald potet lar den ligge utenpå. Dette er forskjellen mellom en fransk og en majonesbasert potetsalat.
 - **Ruccola og rødløk står i ingredienslisten, men nevnes ikke i fremgangsmåten.** Begge er ment som rå innblanding rett før servering – rødløken tynt strimlet, ruccolaen vendt inn helt til slutt så den ikke faller sammen. *(Flagget og presisert.)*
 - **«Fransk vinaigrette / jalapeñosaus» er et enten–eller**, ikke begge deler. Vinaigretten gir den klassiske versjonen, jalapeñosausen en langt kraftigere salat.
-- **Beslektet:** [T19](#t19-sprø-potetsalat-med-yuzumajones) er motsatt tilnærming med majones og sprøstekte poteter, og [T127](#t127-vinaigrette) er dressingen denne bygger på.
+- **Beslektet:** [sprø potetsalat med yuzumajones (T19)](#t19-sprø-potetsalat-med-yuzumajones) er motsatt tilnærming med majones og sprøstekte poteter, og [vinaigretten (T127)](#t127-vinaigrette) er dressingen denne bygger på.
 
 ---
 
@@ -17285,7 +17285,7 @@ Tomat og løk kokes ned til en kompott i en halvtime, mens aubergine, squash og 
 
 - 1 kg tomater av beste kvalitet
 - 300 g salatløk
-- 2 hvitløkfedd
+- 2 hvitløksfedd
 - 400 g aubergine
 - 400 g squash
 - 200 g grønn paprika
@@ -17308,8 +17308,8 @@ Tomat og løk kokes ned til en kompott i en halvtime, mens aubergine, squash og 
 - **Kompotten er basen, ikke en saus å helle over.** Halvtimen koker bort væsken fra tomatene og konsentrerer smaken. Kortere tid gir en vandig ratatouille uansett hvor godt grønnsakene er stekt.
 - **Tomatkjernene tas ut.** De er der mesteparten av vannet og syren sitter. Med kjernene i må kompotten koke langt lenger for å nå samme konsistens.
 - **La grønnsakene renne av før de blandes inn.** Oljen de er stekt i har gjort jobben sin; blir den med videre, legger den seg som et fettlag over retten.
-- **Bouquet garni fjernes ikke eksplisitt i kilden**, men skal tas ut sammen med stilkene før servering. *(Presisert.)*
-- **Beslektet:** [nr. 177](#177-ratatouille) er samlingens klassiske standardversjon, som steker grønnsakene separat etter samme prinsipp, men uten tomatkompott som base.
+- **Bouquet garni fjernes ikke eksplisitt i kilden**, men skal tas ut før servering. *(Presisert.)*
+- **Beslektet:** [ratatouille (nr. 177)](#177-ratatouille) er den klassiske standardversjonen, som steker grønnsakene separat etter samme prinsipp, men uten tomatkompott som base.
 
 ---
 
