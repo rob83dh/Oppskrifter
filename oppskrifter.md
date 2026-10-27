@@ -17646,7 +17646,7 @@ Tre paprikaer svidd svarte med gassbrenner, skrubbet rene og kokt inn med løk t
 - 1 grønn paprika
 - 2 løk
 - 2 hvitløkfedd
-- ½ dl olivenolje
+- 3 ss + 1 ts olivenolje *(Omregnet fra ½ dl.)*
 - Friske urter, f.eks. basilikum, salvie og timian
 - Salt og pepper
 
@@ -17682,7 +17682,7 @@ Auberginene bakes hele til de kollapser, innmaten renner av i sil, og kokes så 
 
 - 2 hele auberginer
 - 60 g smør
-- ½ dl olivenolje
+- 3 ss + 1 ts olivenolje *(Omregnet fra ½ dl.)*
 - Saften av ½ sitron
 - En klype salt
 - En knivspiss kajennepepper
@@ -17701,7 +17701,7 @@ Auberginene bakes hele til de kollapser, innmaten renner av i sil, og kokes så 
 - **Auberginen må være gjennombakt.** Kilden gjentar det, og med god grunn: halvbakt aubergine er svampete og bitter, og ingen mengde smør retter det opp. Den skal ha falt helt sammen.
 - **Avrenningen i sil er ikke valgfri.** Aubergine er nesten bare vann. Hopper du over trinnet, koker du en time uten å komme fram til kompottkonsistens.
 - **Tørr panne, ikke olje.** Skallet skal tørke og ta farge; olje ville stekt overflaten før innsiden kollapset.
-- **60 g smør og en halv desiliter olje til to auberginer** er mye fett, og det er poenget – auberginekjøtt uten fett smaker lite.
+- **60 g smør og drøye 3 ss olje til to auberginer** er mye fett, og det er poenget – auberginekjøtt uten fett smaker lite.
 - **Beslektet:** [T73](#t73-hellstrøms-ratatouille) bruker aubergine stekt separat i stedet for bakt hel.
 
 ---
@@ -17715,7 +17715,7 @@ Hele sjalottløk begravd i grovt salt og bakt på 220 grader. Løken presses ut 
 ### Ingredienser
 
 - 12 sjalottløk
-- Grovt salt
+- Ca. 1 kg grovt salt, nok til å dekke løken *(mengde lagt til)*
 
 ### Fremgangsmåte
 
@@ -17808,7 +17808,7 @@ Kald lake helles over rå løkskiver. Ingenting kokes, verken lake eller løk.
 
 - 3 rødløk
 - 3 dl vann
-- 2 dl sukker
+- 170 g sukker *(Omregnet fra 2 dl.)*
 - 1 dl eddik 7 %
 
 ### Fremgangsmåte
@@ -17821,8 +17821,8 @@ Kald lake helles over rå løkskiver. Ingenting kokes, verken lake eller løk.
 ### Notater
 
 - **Ingenting varmes, og det er forskjellen.** Løken beholder full knas fordi den aldri møter varme. Til gjengjeld tar det lengre tid før smaken trekker inn – regn med et døgn, ikke et par timer.
-- **Sukkeret må røres helt oppløst.** Uten varme løser 2 dl sukker seg langsomt i kald væske. Rør til laken er blank før du heller den over, ellers ligger sukkeret igjen i bunnen. *(Presisert.)*
-- **Samme 3–2–1 som G13**, men med klar 7 % eddik i stedet for eplecidereddik. Klar eddik er skarpere og renere i smaken; her balanseres den av at løken er rå.
+- **Sukkeret må røres helt oppløst.** Uten varme løser 170 g sukker seg langsomt i kald væske. Rør til laken er blank før du heller den over, ellers ligger sukkeret igjen i bunnen. *(Presisert.)*
+- **Samme 3–2–1-forhold i volum som [syltet rødløk (T129)](#t129-syltet-rødløk)** – 3 dl vann, 2 dl sukker, 1 dl eddik – men med klar 7 % eddik i stedet for eplecidereddik. Klar eddik er skarpere og renere i smaken; her balanseres den av at løken er rå.
 - **Kilden nevner finhakket rødløk** som variant – da går smaken raskere inn, og du får en relish i stedet for skiver.
 - **Beslektet:** [T129](#t129-syltet-rødløk) er Matprats versjon med kokt lake. Notatet der anbefaler nettopp Hellstrøms grep – å ikke koke løken.
 
