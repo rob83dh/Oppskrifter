@@ -4256,17 +4256,17 @@ Klassisk grønn karri – *gaeng kiew waan* (แกงเขียวหวา�
 - 15 thaibasilikumblader, finstrimlet
 - 1 bit fingerrot (krachai) — ca. 5 cm *(størrelse ikke oppgitt i kilden)*, valgfritt
 - 1 ts fermentert rekepasta (gapi)
-- 3½ ss grønn karripasta, kjøpt eller hjemmelaget *(se notat om merker)*
+- 3 ss + 1½ ts grønn karripasta, kjøpt eller hjemmelaget *(se notat om merker)*
 
 **Karrien**
-- 4,2 dl kokosmelk, delt *(1¾ cups)*
-- 2,4 dl usaltet kyllingkraft *(1 cup)*
-- 450 g kyllinglår uten bein og skinn, i biter på ca. 2,5 cm *(1 lb — se notat om kyllingbryst)*
+- 4 dl kokosmelk (1 boks), delt *(Omregnet.)*
+- 2,5 dl usaltet kyllingkraft *(Omregnet.)*
+- 450 g kyllinglår uten bein og skinn, i biter på ca. 2,5 cm *(se notat om kyllingbryst)*
 - 2 ss finhakket palmesukker, ca. 25 g, eller lys brun farin
-- 1½–2 ss fiskesaus
+- 1–2 ss fiskesaus
 - 5 makrutlimeblader
-- 225 g thai-aubergine, eller 1 boks bambusskudd *(½ lb — se notat)*
-- 2½ dl thaibasilikumblader, ca. 25 g løst pakket *(1 cup)*
+- 225 g thai-aubergine, eller 1 boks bambusskudd *(se notat)*
+- 25 g thaibasilikumblader *(Omregnet.)*
 - ¼ rød paprika, i strimler
 - Jasminris til servering
 
@@ -4282,7 +4282,7 @@ Klassisk grønn karri – *gaeng kiew waan* (แกงเขียวหวา�
 2. **Kok opp kokosfløten.** Ha ca. 1,8 dl av kokosmelken i en tykkbunnet gryte og kok den opp på middels varme.
 3. **Fres pastaen.** Ha i karripastaen og fres den under hyppig omrøring i **3–5 minutter**, til kokosoljen skiller seg ut fra pastaen. Er pastaen svært tykk og ingenting skiller seg, går du bare videre. Setter den seg fast i bunnen, løs den med litt av den resterende kokosmelken eller kraften.
 4. **Kyllingen i.** Ha i kyllinglårbitene og rør dem godt sammen med pastaen.
-5. **Væske og smak.** Tilsett kyllingkraften, de resterende 2,4 dl kokosmelken, palmesukkeret og **1 ss** av fiskesausen. Vri makrutlimebladene så de knekker og gir fra seg aroma, riv dem i biter og ha dem i gryta – kast midtnervene.
+5. **Væske og smak.** Tilsett kyllingkraften, de resterende 2,2 dl kokosmelken, palmesukkeret og **1 ss** av fiskesausen. Vri makrutlimebladene så de knekker og gir fra seg aroma, riv dem i biter og ha dem i gryta – kast midtnervene.
 6. **La det trekke** rolig i **10–15 minutter**, til kyllingen er mør. *(Kilden sier 10 minutter i teksten og 10–15 i oppskriftskortet – se notat.)*
 7. **Del auberginene** imens, i biter på 6, 8 eller 12 avhengig av størrelse. Legg dem i vann hvis det går tid før de skal brukes, så de ikke mørkner.
 8. **Auberginene i.** Skyv dem ned i karrien det første minuttet, så de ikke flyter og brunes, og la dem så koke **2 minutter til** – de skal kunne stikkes gjennom med en gaffel, med litt motstand. Ikke kok dem for lenge.
@@ -4296,7 +4296,7 @@ Klassisk grønn karri – *gaeng kiew waan* (แกงเขียวหวา�
 
 ### Notater
 
-- **Kokosmelken går ikke opp med norske bokser.** 4,2 dl er 1¾ amerikanske cups; her selges kokosmelk i bokser på 400 ml. Bruk én boks og del den 1,8 dl / 2,2 dl. Differansen på 20 ml betyr ingenting. Det som betyr noe, er at melken er **full fett** – lettvarianter skiller seg ikke, og da mister du hele grunnsteget i punkt 3. Kilden anbefaler Aroy-D i kartong.
+- **Kilden oppgir 1¾ amerikanske cups kokosmelk, ca. 4,2 dl.** Her selges kokosmelk i bokser på 4 dl, så bruk én boks og del den 1,8 dl / 2,2 dl. Differansen betyr ingenting. Det som betyr noe, er at melken er **full fett** – lettvarianter skiller seg ikke, og da mister du hele grunnsteget i punkt 3. Kilden anbefaler Aroy-D i kartong.
 - **Merket på karripastaen avgjør resultatet.** Kilden er kompromissløs: Mae Ploy først, Aroy-D som nummer to, og Thai Kitchen bør unngås fordi den er altfor svak – må du bruke den, doble mengden. Mae Ploy fås i asiatiske butikker i de større byene og på nett; det er verdt turen. Styrken varierer enormt mellom merker, så bruker du et nytt merke: smak på sausen et par minutter etter at kylling og smak er i, og juster.
 - **Skal du ha i mer karripasta underveis, må den frites først.** Ikke rør rå pasta rett i gryta. Fres den ekstra mengden i litt nøytral olje i en liten kjele i noen minutter, spe med litt kokosmelk eller en kopp av karrisausen til den er hellbar, og rør den inn.
 - **Kilden motsier seg selv om koketiden.** Blogginnlegget sier 10 minutter, oppskriftskortet 10–15 minutter «eller til kyllingen er mør». Følg kortet: lår trenger gjerne de 15 minuttene for å bli virkelig møre, og kokosmelken tåler det fint. 10 minutter er nok hvis bitene er små.
@@ -4335,7 +4335,7 @@ En enklere og mildere thai biffsalat enn [nr. 26](#26-yam-nua--thai-biffsalat): 
 - ½ bunt mynte, plukket — ca. 15 g *(mengde lagt til)*
 - Saften av 1 lime
 - En klype chiliflak
-- 10 g nøytral olje til steking *(mengde lagt til – kilden griller, se notat)*
+- 1 ss nøytral olje til steking *(Lagt til – kilden griller, se notat.)*
 
 ### Fremgangsmåte
 
@@ -4353,7 +4353,7 @@ En enklere og mildere thai biffsalat enn [nr. 26](#26-yam-nua--thai-biffsalat): 
 - **Kilden bruker jasminris, tradisjonen bruker klebrig ris.** Begge blir gyllenbrune og nøtteaktige, men klebrig ris gir et grovere, mer «sandete» mel som tar dressingen bedre. Har du begge deler, velg den klebrige.
 - **Å riste makrutlimebladene med risen er kildens beste grep.** Bladene blir sprø og støtes inn i melet, og du får sitrusaromaen fordelt gjennom hele salaten i stedet for i biter man må plukke ut. Tørkede blader fungerer fint her, siden de uansett ristes.
 - **Fiskesausmengden går ikke helt opp i kilden.** Ingredienslisten sier 3 ss, marinaden bruker 2 ss, og anretningen sier bare «more fish sauce» uten mengde. Den siste spiseskjeen er det åpenbare svaret, men smak deg fram: biffen har allerede tatt opp salt fra marinaden, så det kan fort bli for mye.
-- **Spiseskjeene er 15 ml, ikke australske 20.** Forskjellen ville betydd noe i en så salt marinade – 60 ml fiskesaus i stedet for 45. Nettstedets egne omregninger avgjør spørsmålet: i [T14](#t14-chimichurri) settes 3 ss lik 1,5 fl oz, altså knappe 15 ml per skje. Bruk vanlige norske ss.
+- **Spiseskjeene er 15 ml, ikke australske 20.** Forskjellen ville betydd noe i en så salt marinade – 4 norske ss fiskesaus i stedet for 3. Nettstedets egne omregninger avgjør spørsmålet: i [T14](#t14-chimichurri) settes 3 ss lik 1,5 fl oz, altså knappe 15 ml per skje. Bruk vanlige norske ss.
 - **12 timers marinering er i overkant.** Fiskesaus og soya er saltlake; ligger biffen et helt døgn, begynner den å bli kurert i overflaten og får en skinkeaktig tekstur. 2–4 timer gir all smaken uten det.
 - **Mørk soyasaus er den kinesiske typen** (Pearl River Bridge eller tilsvarende) – tykk, søtlig og nesten svart. Japansk mørk soya er ikke det samme og gir en helt annen, saltere profil.
 - **Har du ikke grill, funker stekepanne.** Ta biffen tørr før den går i en godt varm panne med litt nøytral olje – marinaden er søt av sukkeret og brenner lett, så tørk overflaten med papir først. Olje står ikke i kildens ingrediensliste, siden den forutsetter grill.
@@ -4392,7 +4392,7 @@ Panang med hjemmelaget karripasta støtt i morter. Peanøttene i pastaen er det 
 - Karripastaen ovenfor
 - 600 g svinefilet, i skiver *(kylling eller reker fungerer også, sier kilden)*
 - 2 ss peanøttolje
-- 1 boks kokosmelk — 400 ml *(størrelse ikke oppgitt i kilden)*
+- 1 boks kokosmelk — 4 dl *(størrelse ikke oppgitt i kilden)*
 - 20 g palmesukker
 - 3 makrutlimeblader, revet i biter (+ ekstra til pynt)
 - Fiskesaus etter smak — start med 1 ss *(mengde lagt til)*
@@ -4417,7 +4417,7 @@ Panang med hjemmelaget karripasta støtt i morter. Peanøttene i pastaen er det 
 ### Notater
 
 - **Chilien er den store uklarheten i oppskriften.** «13 tørkede chili» sier verken type eller vekt, og forskjellen er dramatisk: tørket thaichili (prik haeng) er brennhet, mens den store, tørkede røde chilien panang tradisjonelt bruker, er mild og først og fremst der for farge og fylde. 13 av den store typen er riktig; 13 thaichili gjør retten nesten uspiselig. Bruk store tørkede chili på rundt 8–10 cm, fjern frøene, og regn ca. 25–30 g. Kilden skriver selv i ingressen at man bare kan redusere mengden hvis man ikke tåler styrke.
-- **Kokosmelkboksen er ikke tallfestet.** Australske bokser er 400 ml, som stemmer med norske. Bruk full fett – panang skal være rik, og lettvarianter gir en tynn, kjedelig saus.
+- **Kokosmelkboksen er ikke tallfestet.** Australske bokser er 4 dl, som stemmer med norske. Bruk full fett – panang skal være rik, og lettvarianter gir en tynn, kjedelig saus.
 - **Karrien skal være tykk, ikke suppete.** Panang er blant de tykkeste thaikarriene, og 15 minutter på lav varme er et minimum. La den gjerne koke lenger til den tykner og oljen legger seg som et rødt skjær på overflaten. Det er sånn den skal se ut.
 - **Svinefilet tåler ikke 21 minutter i gryta.** Kilden lar kjøttet koke 6 minutter før resten av kokosmelken går i, og deretter 15 minutter til. Svinefilet er magert og blir tørt og melent lenge før det. To løsninger: enten legg de skivede fileten i først de **siste 5 minuttene**, eller bytt til **svinenakke** i terninger og la den småkoke i 45–60 minutter i stedet. Nakke er dessuten billigere og gir en bedre karri.
 - **Korianderrøtter selges knapt i Norge.** Potteplantene fra dagligvaren har røtter hvis du vasker jorden av dem, ellers er de nederste, tykke stilkene den realistiske erstatningen – bruk 2 ss finhakket. Smaken sitter mest i rot og nedre stilk, ikke i bladene.
@@ -4447,7 +4447,7 @@ Samme rett som [nr. 56](#56-katsu-curry), men med et par grep til: eplet som gå
 - 2 gulrøtter, skrelt og i terninger — ca. 200 g *(vekt lagt til)*
 - 2 poteter, i terninger — ca. 350 g, fastkokende *(vekt og sort lagt til – se notat)*
 - 1 grønt eple, i terninger
-- 600 ml kyllingkraft
+- 6 dl kyllingkraft
 - 1 pakke S&B Golden Curry, ca. 92 g
 - Salt etter smak
 
@@ -4485,7 +4485,7 @@ Samme rett som [nr. 56](#56-katsu-curry), men med et par grep til: eplet som gå
 - **Vekt mangler på grønnsakene.** «2 poteter» kan være alt fra 200 til 500 g. Anslagene over er lagt inn for at retten skal kunne skaleres. Til sammenligning bruker [nr. 56](#56-katsu-curry) 400 g løk, 250 g potet og 100 g gulrot – altså mer løk og mindre gulrot enn her.
 - **Bruk fastkokende poteter.** Melne sorter som Beate, Kerrs Pink og Pimpernel går i oppløsning i løpet av de 20–25 minuttene de ligger i kraften, og karrien blir grøtete. Folva, Laila eller tilsvarende fastkokende holder formen.
 - **Mengden mel og panko er langt over behovet.** 200 g av hver er panérstasjonen, ikke det som havner på kyllingen – fire tynne stykker tar kanskje 40 g mel og 80 g panko. Kildens mengder står urørt, men regn med å kaste rester, eller bruk mindre og fyll på underveis.
-- **Golden Curry fås i mild, medium og sterk.** Pakken er 92 g, og det er nok til denne oppskriften. Den finnes i asiatiske butikker og i den internasjonale hyllen i større norske dagligvarer. Forholdet her – 92 g til 600 ml væske – ligger tett på [nr. 56](#56-katsu-curry), som bruker 115 g til 800 ml.
+- **Golden Curry fås i mild, medium og sterk.** Pakken er 92 g, og det er nok til denne oppskriften. Den finnes i asiatiske butikker og i den internasjonale hyllen i større norske dagligvarer. Forholdet her – 92 g til 6 dl væske – ligger tett på [nr. 56](#56-katsu-curry), som bruker 115 g til 8 dl.
 - **Druekjerneolje er ikke lett å få tak i her**, og trengs ikke: hvilken som helst nøytral olje med høyt røykpunkt gjør samme nytte. Rapsolje er det åpenbare valget.
 - **«Brown onion» er australsk for vanlig gul løk**, ikke rødløk og ikke sjalott.
 - **170 °C er oppgitt eksplisitt med både celsius og fahrenheit**, så her er det ingen tvil. Kilden forklarer også hvorfor: for varmt, og pankoen svir seg før kyllingen er gjennomstekt; for kaldt, og panéringen suger olje og blir bløt.
@@ -4515,14 +4515,14 @@ Hverdagsbowle på 20 minutter: kjøttdeig av storfe stekt med løk og hvitløk, 
 - 1 ts sesamfrø (til pynt)
 - Ris til 2 — ca. 150 g tørr ris *(kilden sier «2 cups» – se notat)*
 - 2 bok choy — ca. 200 g *(vekt lagt til)*
-- 10 g nøytral olje til steking *(mengde lagt til.)*
+- 1 ss nøytral olje til steking *(Lagt til.)*
 
 **Woksaus**
 - 3 ss lys soyasaus
 - 1 ss riseddik
 - 1 ts sesamolje
 - 2 ss brun farin
-- ½ ss gochujang
+- 1½ ts gochujang
 
 ### Fremgangsmåte
 
@@ -4542,7 +4542,7 @@ Hverdagsbowle på 20 minutter: kjøttdeig av storfe stekt med løk og hvitløk, 
 - **Oljen mangler i ingredienslisten.** Den dukker først opp i fremgangsmåten som «litt olje». Nøytral olje, ikke sesamolje – sesamoljen hører hjemme i sausen, der den ikke varmebehandles like hardt.
 - **Sausen tykner ikke særlig.** Det er ingen maisenna i den; den reduseres bare. Regn 2–3 minutter, og la den koke litt lenger hvis du vil ha den mer klissete. Den skal legge seg rundt kjøttet, ikke ligge som en pøl i pannen.
 - **Riseddik kan byttes med mirin**, sier kilden, men det er ingen ren erstatning: mirin er søt, og bytter du, bør du ta ned den brune farinen tilsvarende. Ellers blir retten klissete søt.
-- **½ ss gochujang gjør denne mild.** Styrken varierer mye mellom merker – smak på din. Kilden foreslår sriracha eller chili garlic sauce som erstatning, men de er ikke like: gochujang er søtere og mer fermentert, sriracha skarpere og syrligere. Se samme poeng i [nr. 22](#22-spicy-miso-ramen).
+- **1½ ts gochujang gjør denne mild.** Styrken varierer mye mellom merker – smak på din. Kilden foreslår sriracha eller chili garlic sauce som erstatning, men de er ikke like: gochujang er søtere og mer fermentert, sriracha skarpere og syrligere. Se samme poeng i [nr. 22](#22-spicy-miso-ramen).
 - **«2 bok choy» sier verken størrelse eller type.** Med 2 minutters forvelling er det baby bok choy som er ment. Bruker du store hoder, del dem og regn lenger tid – se avveiningen i [T16](#t16-bok-choy-med-østerssaus-og-sprø-hvitløk).
 - **Et stekt egg på toppen** er kildens eget forslag og en god idé – det binder ris og saus.
 - **Serveres gjerne med agurksalat.** Kilden anbefaler sin egen sterke agurksalat ved siden av; samlingen har allerede [oi muchim i T6](#t6-koreansk-sterk-agurksalat-oi-muchim), som gjør nøyaktig samme jobb: syre og sprøhet mot en søt, fet kjøttrett.
@@ -4568,12 +4568,12 @@ Kyllingkjøttdeig woket med finhakkede grønnsaker i en saus av østerssaus og t
 - 1 ts ingefærpuré eller finrevet ingefær
 - 4 hvitløksfedd, finhakket
 - 4 ss knuste peanøtter
-- 12 g nøytral olje til steking *(mengde lagt til.)*
+- 1 ss nøytral olje til steking *(Lagt til.)*
 
 **Saus**
 - 1 ss østerssaus
 - 2 ss lys soyasaus
-- ¾ ss brun farin
+- 2 ts brun farin
 - 1 ss shaoxingvin
 - 1 ss mørk soyasaus
 
@@ -4623,9 +4623,9 @@ Kinesisk husmannskost i sin reneste form: myke eggerøreputer vendt tilbake i to
 - 1 ss ketchup
 - 1 ss lys soyasaus
 - ½ ts sesamolje
-- ca. 80 ml vann *(står bare i fremgangsmåten – ⅓ cup)*
-- 10 g nøytral olje til steking *(mengde lagt til.)*
-- Kokt ris til 2 — ca. 2 dl tørr ris *(kilden oppgir 2 cups kokt ris)*
+- 80 g vann *(Omregnet – står bare i fremgangsmåten.)*
+- 1 ss nøytral olje til steking *(Lagt til.)*
+- Kokt ris til 2 — ca. 170 g tørr ris *(kilden oppgir 2 cups kokt ris)*
 
 ### Fremgangsmåte
 
@@ -4641,7 +4641,7 @@ Kinesisk husmannskost i sin reneste form: myke eggerøreputer vendt tilbake i to
 - **Kilden motsier seg selv om rekkefølgen.** Prosessoversikten i brødteksten sier: fres hvitløk og vårløk først, stek så eggene og sett dem til side. Oppskriftskortet gjør det motsatt – eggene først, i ren panne, deretter smaksbunnen. Kortet har rett: eggene skal ha pannen for seg selv så de ikke tar farge av hvitløken, og hvitløk som ligger og venter mens eggene stekes, blir brent.
 - **Eggene skal understekes.** De går tilbake i pannen i punkt 5 og stekes videre der. Tar du dem ut når de er ferdige, blir de gummiaktige i den ferdige retten. La dem være så vidt bløte i midten når du løfter dem ut.
 - **Eggene er usaltet i kilden.** Alt saltet kommer fra soyasausen til slutt, og den treffer først og fremst tomatene. En klype salt i de vispede eggene gjør stor forskjell – det er standard i kinesiske versjoner, og en spiseskje vann eller shaoxingvin i eggene gir dem dessuten en løsere, mer fløyelsaktig struktur. *(Lagt til.)*
-- **Vannet mangler i ingredienslisten.** Det dukker først opp i punkt 4 som «⅓ cup», altså rundt 80 ml. Uten det får du stekte tomater, ikke saus.
+- **Vannet mangler i ingredienslisten.** Det dukker først opp i punkt 4 som «⅓ cup», altså rundt 80 g. Uten det får du stekte tomater, ikke saus.
 - **Ketchupen er en snarvei, ikke tradisjon.** Forfatteren forklarer selv at hun bruker ketchup, brun farin og vann for å få tomatene til å koke inn raskere. Klassisk fanqie chao dan bygger på modne tomater som får gi seg av seg selv, med bare litt sukker og salt. Ketchupen gir sødme og umami, men også en tydelig vestlig tomatsaus-tone. Vil du nærmere originalen, dropp ketchupen, ta ned sukkeret til 1 ts og la tomatene koke to–tre minutter lenger.
 - **Tomatene er retten.** Utenfor sesong er norske tomater bleke og melne, og da blir dette flatt uansett hvor mye ketchup som går i. Kvisttomater eller modne plommetomater er tryggest. Et grep kilden ikke nevner: skåld tomatene og trekk av skinnet først, ellers ruller skinnbitene seg sammen til seige tråder i sausen.
 - **«2 cups kokt ris» er entydig oppgitt her**, i motsetning til i [nr. 80](#80-korean-beef-bowl--koreansk-kjøttdeig-med-gochujangsaus), der samme forfatter skriver «2 cups white rice» uten å si om det er rå eller kokt. Her er det altså ferdigkokt ris det er snakk om.
@@ -4665,9 +4665,9 @@ Laks stekt gyllen, vendt i en klissete glasur av honning, soya, riseddik og hvit
 - 2 laksefileter uten bein, eller laks i terninger *(kilden spriker – se notat)*
 - 1 ss cajunkrydder
 - Salt og pepper *(står bare i fremgangsmåten – lagt til)*
-- 10 g nøytral olje til steking *(mengde lagt til.)*
+- 1 ss nøytral olje til steking *(Lagt til.)*
 - 1 bok choy — ca. 100 g baby bok choy *(vekt og type lagt til)*
-- Kokt ris til 2 — ca. 2 dl tørr ris *(kilden sier «2 cups rice» – se notat)*
+- Kokt ris til 2 — ca. 170 g tørr ris *(kilden sier «2 cups rice» – se notat)*
 - Sesamfrø til pynt
 
 **Saus**
@@ -4700,7 +4700,7 @@ Laks stekt gyllen, vendt i en klissete glasur av honning, soya, riseddik og hvit
 - **Cajunkrydder i en asiatisk glasur er kildens eget påfunn**, og den merker retten som «American, Asian». Blandingen er paprika, cayenne, hvitløk, løk, oregano og timian – urtene trekker retten i en helt annen retning enn soya og ingefær. Det fungerer som en søt-sterk krydderskorpe, men det er ikke tradisjonelt. Vil du ha en renere asiatisk profil, bytt cajunkrydderet mot bare salt, pepper og litt hvitløkspulver.
 - **Marineringstipset motsier oppskriften.** Kilden anbefaler i tipsdelen å marinere laksen i sausen i 30 minutter «for optimal flavour», men sausen er honningbasert, og honning svir seg raskt i en varm panne. Oppskriften selv holder saus og fisk atskilt til slutt, og det er det riktige. Ignorer tipset.
 - **Honningen brenner lett.** Ta ned varmen før sausen går i pannen i punkt 8. Den trenger bare et par minutter for å tykne – koker den for hardt, blir den bitter og seig.
-- **«2 cups rice» er tvetydig igjen.** Her står det verken rå eller kokt, i motsetning til [nr. 82](#82-kinesisk-tomat--og-eggewok-fanqie-chao-dan), der samme forfatter skriver «cooked rice». Til to porsjoner er ca. 2 dl tørr ris riktig.
+- **«2 cups rice» er tvetydig igjen.** Her står det verken rå eller kokt, i motsetning til [nr. 82](#82-kinesisk-tomat--og-eggewok-fanqie-chao-dan), der samme forfatter skriver «cooked rice». Til to porsjoner er ca. 170 g tørr ris riktig.
 - **«1 bok choy» sier verken størrelse eller type.** 2 minutters forvelling peker mot baby bok choy. Kilden nevner selv i FAQ-en at du kan hoppe over forvellingen og heller woke bok choy-en i sausen hvis du vil ha den sprøere – det er et godt alternativ, og sparer en kjele.
 - **Riseddik kan byttes med hvitvinseddik**, sier kilden. Det er en brukbar erstatning her, siden sausen uansett er søt.
 - **Samlingens andre lakseretter:** [kokoskarri](#44-kokoskarri-med-laks), [mango- og kokoskarri](#51-mango--og-kokoskarri-med-laks) og [pannestekt laks med tzatziki](#75-pannestekt-laks-med-tzatziki-og-ris-lavfodmap). Denne er den søteste og raskeste av dem.
