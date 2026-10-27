@@ -6303,16 +6303,16 @@ Pizzabunn av gresk yoghurt, selvhevende mel og proteinpulver – ingen gjær og 
 ### Ingredienser
 
 **Bunnen**
-- 2,4 dl gresk yoghurt naturell, mager
-- 2,4 dl selvhevende mel *(eller 2,4 dl hvetemel + 1½ ts bakepulver + ½ ts salt – se notat)*
+- 2,5 dl gresk yoghurt naturell, mager
+- 150 g selvhevende mel *(eller 150 g hvetemel + 1½ ts bakepulver + ½ ts salt – se notat)*
 - 70 g nøytralt proteinpulver, myse eller erteprotein — ca. 2½ måleskje *(økt fra 25 g – se notat)*
 
 **Toppingen**
 - 1,2 dl pizzasaus
-- 1,8 dl revet mozzarella
+- 70 g revet mozzarella
 - 20 skiver kalkunpepperoni, eller annen pepperoni
 - ¼ ts tørket oregano
-- ⅛ ts chiliflak
+- ¼ ts chiliflak *(Presisert fra ⅛ ts.)*
 - Fersk basilikum *(valgfritt)*
 
 ### Fremgangsmåte
@@ -6326,7 +6326,7 @@ Pizzabunn av gresk yoghurt, selvhevende mel og proteinpulver – ingen gjær og 
 
 ### Notater
 
-- **Selvhevende mel selges ikke som standard i Norge.** Kilden gir heldigvis erstatningen selv: 2,4 dl hvetemel, 1½ ts bakepulver og ½ ts salt. Bruk den.
+- **Selvhevende mel selges ikke som standard i Norge.** Kilden gir heldigvis erstatningen selv: 150 g hvetemel, 1½ ts bakepulver og ½ ts salt. Bruk den.
 - **Deigen er klebrig, og det er normalt.** To-ingrediensdeig av yoghurt og mel henger i hendene – mel underlaget og kjevlen godt, men ikke tilsett så mye ekstra mel at deigen blir tørr.
 - **Proteinpulveret tørker ut bunnen.** 25 g pulver suger fuktighet, og bunnen blir merkbart fastere og tørrere enn en vanlig pizzabunn. Sløyfer du det, får du fortsatt en høyproteinbunn fra yoghurten alene – da bør du ta ned melet litt.
 - **Forstekingen er nødvendig.** Yoghurtdeig blir rå og seig i midten hvis toppingen går på med én gang; de 7–8 minuttene alene er det som redder bunnen.
@@ -6355,7 +6355,7 @@ Høyrygg marinert et døgn i rødvin med grønnsaker og urter, brunet og braiser
 - 3 laurbærblad
 - 1 kvist timian
 - 3 hvitløksfedd
-- 1 flaske rødvin (750 ml), eventuelt halvparten oksekraft
+- 1 flaske rødvin (7,5 dl), eventuelt halvparten oksekraft
 
 **Resten**
 - 2 ss hvetemel *(oppgitt som valgfritt – se notat)*
@@ -6363,7 +6363,7 @@ Høyrygg marinert et døgn i rødvin med grønnsaker og urter, brunet og braiser
 - 200 g sjampinjong
 - 15 stjerneløk *(se notat)*
 - 200 g bacon
-- 20 g smør og olje til steking *(mengde lagt til.)*
+- 1 ss smør og 1 ss olje til steking *(Lagt til.)*
 - 1 ss soyasaus
 - Salt og pepper *(mangler i ingredienslisten)*
 - Hakket persille *(mangler i ingredienslisten)*
@@ -6399,7 +6399,7 @@ Høyrygg marinert et døgn i rødvin med grønnsaker og urter, brunet og braiser
 - **Marinadegrønnsakene koker med hele veien**, i motsetning til i mange franske versjoner der marinaden siles. Etter halvannen time er de kokt helt myke og går delvis opp i sausen – det er slik den skal være her. Vil du ha en klarere saus, kan du sile marinaden og bruke bare væsken.
 - **Soyasausen er ikke tradisjonell**, men gir farge og umami. Samme grep som i [den ungarske soppsuppen (SU9)](#su9-ungarsk-soppsuppe).
 - **Høyrygg er riktig stykke** – bindevevet brytes ned til gelatin over halvannen time. Se samme poeng i [pot roast (nr. 105)](#105-pot-roast--braisert-høyrygg-med-rotgrønnsaker), og motsatt valg i [chili con carne (nr. 103)](#103-chili-con-carne).
-- **En hel flaske rødvin** er 750 ml, og halvparten kan byttes med oksekraft slik kilden åpner for. Da blir retten mildere og mindre syrlig.
+- **En hel flaske rødvin** er 7,5 dl, og halvparten kan byttes med oksekraft slik kilden åpner for. Da blir retten mildere og mindre syrlig.
 
 ---
 
@@ -6424,7 +6424,7 @@ Tørkede chili og hele krydder ristes, kokes møre i oksekraft og mikses til en 
 - 6 hele nellikspiker
 - 1 ts meksikansk oregano
 - 1 stang meksikansk kanel
-- 1,9 liter oksekraft
+- 2 liter oksekraft
 - 1 ss oksebuljongpulver
 - 2 ss lettsaltet soyasaus
 - 2 ss eplecidereddik
@@ -6475,10 +6475,10 @@ Kyllingbryst delt i tynne fileter, vendt i krydret mel og stekt gyllent, med en 
 - ½ ts sort pepper
 - 2 kyllingbryst
 - 4 hvitløksfedd, hakket
-- 150 ml kyllingkraft
-- 150 ml kremfløte
+- 1,5 dl kyllingkraft
+- 1,5 dl kremfløte
 - 15 g persille, hakket
-- 18 g olje til steking *(mengde lagt til.)*
+- 1–2 ss olje til steking *(Lagt til.)*
 
 ### Fremgangsmåte
 
@@ -6515,8 +6515,8 @@ Oksekjeve braisert tre timer i rødvin, revet og blandet med løk og hvitløk, d
 
 **Braisert oksekjeve**
 - 1,5 kg oksekjeve
-- 375 ml fyldig rødvin
-- 300 ml oksekraft
+- 3,75 dl fyldig rødvin (en halv flaske)
+- 3 dl oksekraft
 - 2 gulrøtter
 - 2 stilker stangselleri
 - 1 løk
@@ -6536,7 +6536,7 @@ Oksekjeve braisert tre timer i rødvin, revet og blandet med løk og hvitløk, d
 **Potetpuréen**
 - 3 store bakepoteter *(ca. 900 g – vekt lagt til)*
 - 75 g smør
-- 30 ml helmelk
+- 2 ss helmelk
 - Revet muskat
 - Revet emmentaler
 - Salt
@@ -6562,7 +6562,7 @@ Oksekjeve braisert tre timer i rødvin, revet og blandet med løk og hvitløk, d
 
 - **Muskat og emmentaler står i ingredienslisten, men brukes aldri i kildens fremgangsmåte.** Muskaten hører hjemme i potetpuréen og osten på toppen før gratineringen. Begge er ført inn her.
 - **Beurre manié er ikke det samme som en roux.** Smør og mel eltes sammen **rått** og vispes inn i den varme væsken til slutt – det jevner uten å måtte kokes ut på forhånd, og gir en blank saus. 130 g er mye, og gir et fyll som holder formen når du skjærer i paien.
-- **Potetene bakes hele, ikke kokes**, og det er hele forskjellen. Bakte poteter tar ikke opp vann, så puréen blir tettere og smakfullere – og tåler de 75 g smøret uten å bli rennende. De 30 ml melk er tilsvarende lite med vilje.
+- **Potetene bakes hele, ikke kokes**, og det er hele forskjellen. Bakte poteter tar ikke opp vann, så puréen blir tettere og smakfullere – og tåler de 75 g smøret uten å bli rennende. De 2 ss melk er tilsvarende lite med vilje.
 - **Oksekjeve fås hos slakter**, ofte på bestilling, og er billig. Har du ikke tilgang, gir høyrygg eller bibringe samme resultat på samme tid – se [pot roast (nr. 105)](#105-pot-roast--braisert-høyrygg-med-rotgrønnsaker) og [boeuf bourguignon (nr. 115)](#115-boeuf-bourguignon).
 - **«3 poteter» er upresist.** Til seks porsjoner trenger du rundt 900 g melne bakepoteter for å dekke formen skikkelig.
 - **Begge delene er oppgitt til seks porsjoner**, hvilket betyr at hele braiseringen går inn i paien. Braiseringen kan også serveres som egen rett, men da rekker den ikke til begge deler.
@@ -6639,9 +6639,9 @@ Den kjøttfrie utgaven av chili con carne: løk og paprika freset med tørket kr
 - 3 dl kraft eller buljong
 - 2 bokser knuste tomater
 - 1 ts brunt sukker
-- 1 liter kokte sorte bønner *(brune eller hvite fungerer også)*
+- ca. 1 kg kokte sorte bønner – 4 bokser à 400 g, avrent *(brune eller hvite fungerer også)*
 - Persille og/eller koriander
-- 15 g olje til steking *(mengde lagt til.)*
+- 2–3 ss olje til steking *(Lagt til.)*
 - Salt
 
 **Til servering**
@@ -6664,7 +6664,7 @@ Den kjøttfrie utgaven av chili con carne: løk og paprika freset med tørket kr
 
 ### Notater
 
-- **«1 liter kokte bønner» er et volummål, ikke vekt.** Det tilsvarer omtrent **fire bokser** à 400 g etter avrenning, eller rundt 350 g tørkede bønner før koking. Det er mye – bønnene er hovedingrediensen her, slik kjøttet er det i [chili con carne (nr. 103)](#103-chili-con-carne).
+- **Kilden oppgir «1 liter kokte bønner».** Det tilsvarer omtrent **fire bokser** à 400 g etter avrenning, eller rundt 350 g tørkede bønner før koking. Det er mye – bønnene er hovedingrediensen her, slik kjøttet er det i [chili con carne (nr. 103)](#103-chili-con-carne).
 - **Kanelstangen tas aldri ut.** Kilden nevner ikke at den skal fjernes, men den skal ikke spises – fisk den opp før servering. *(Lagt til.)*
 - **Sjokoladen strøs over ved servering**, ikke røres inn. Det er motsatt av [nr. 103](#103-chili-con-carne), der sjokoladen smeltes inn i gryta. Her er den et friskt, bittert element på toppen – to helt ulike bruksmåter av samme ingrediens.
 - **Oljemengden er ikke oppgitt.** «En god skvett» er 2–3 ss til denne mengden grønnsaker.
