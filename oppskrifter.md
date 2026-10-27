@@ -24763,7 +24763,7 @@ Melkebrødsdeig med honning og smør. Bollene klemmes flatere før andre heving,
 ### Ingredienser
 
 - 1 kg hvetemel
-- 5½ dl helmelk
+- 5,5 dl helmelk
 - 50 g romtemperert smør
 - 50 g honning eller sukker
 - 10 g salt
@@ -24803,8 +24803,8 @@ Norsk vaffelrøre med kardemomme, den varianten alle kjenner. Ingen gjær, ingen
 
 ### Ingredienser
 
-- 4 dl hvetemel — ca. 240 g
-- 1 dl sukker
+- 240 g hvetemel *(Omregnet fra 4 dl.)*
+- 85 g sukker *(Omregnet fra 1 dl.)*
 - 1 ts bakepulver
 - 1 ts malt kardemomme
 - 4 dl melk
