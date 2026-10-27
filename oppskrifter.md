@@ -16422,8 +16422,8 @@ Fem ingredienser. Fløte, melk og revet brie blandes i en bolle, potetskivene ve
 ### Ingredienser
 
 - 2 kg poteter
-- 350 g kremfløte
-- 80 ml melk
+- 3,5 dl kremfløte
+- 80 g melk
 - 250 g trøffelbrie, eller annen bløt ost
 - 3 hvitløksfedd, finhakket
 - Salt og pepper
@@ -16441,7 +16441,7 @@ Fem ingredienser. Fløte, melk og revet brie blandes i en bolle, potetskivene ve
 - **Skivetykkelsen er ikke oppgitt.** Bruk mandolin og skjær **2–3 mm**. Tykkere skiver blir ikke møre på halvannen time, og ujevne skiver gir en grateng som er rå noen steder og grøtet andre. *(Lagt til.)*
 - **Potetene skal ikke skrelles etter kildens tekst**, men det står heller ikke at de skal. Skrell dem – skall i en fløtegrateng gir seige biter. *(Presisering lagt til.)*
 - **Å vende potetene i væsken før de legges i formen er hovedgrepet.** Hver skive blir dekket, og osten fordeler seg jevnt gjennom hele gratengen i stedet for bare på toppen. Det er raskere og mer pålitelig enn å helle væsken over etterpå, slik [gratin dauphinois (T27)](#t27-gratin-dauphinois) gjør.
-- **430 ml væske til 2 kg potet er lite.** [T27](#t27-gratin-dauphinois) bruker 750 ml til 1,5 kg. Her kompenseres det delvis av at brien smelter og potetene selv avgir fuktighet under lokk – men gratengen blir tettere og mindre flytende. Vil du ha den kremere, øk melken til 200 ml. *(Sammenligning lagt til.)*
+- **4,3 dl væske til 2 kg potet er lite.** [Gratin dauphinois (T27)](#t27-gratin-dauphinois) bruker 7,5 dl til 1,5 kg. Her kompenseres det delvis av at brien smelter og potetene selv avgir fuktighet under lokk – men gratengen blir tettere og mindre flytende. Vil du ha den kremere, øk melken til 2 dl. *(Sammenligning lagt til.)*
 - **Dekk formen de første 45 minuttene.** Kilden nevner ikke tildekking, men med så lite væske tørker toppen ut lenge før midten er ferdig. Folie eller bakepapir over, og av de siste 20–30 minuttene for å få farge. *(Lagt til.)*
 - **Melne poteter, ikke fastkokende.** Stivelsen er det som binder gratengen sammen. Beate, Kerrs Pink eller Pimpernel. Samme prinsipp som i [pommes Anna (T50)](#t50-pommes-anna).
 - **Brie er ikke et opplagt valg i en grateng.** Den smelter til en tykk, litt trådete masse i stedet for å binde jevnt slik gruyère gjør, og skorpen kan gi en tydelig ammoniakknote i store mengder. Kilden sier «any soft cheese will work» – camembert, taleggio eller norsk Snøfrisk fungerer. Vil du ha en mer forutsigbar grateng, bruk 150 g gruyère eller emmental i stedet. *(Bakgrunn lagt til.)*
@@ -16462,8 +16462,8 @@ Den rikeste av potetgratengene i samlingen: nesten en liter fløte og melk til e
 ### Ingredienser
 
 - 1 kg poteter *(se notat om sort)*
-- 700 ml kremfløte
-- 200 ml helmelk
+- 7 dl kremfløte
+- 2 dl helmelk
 - 3 hvitløksfedd, finhakket
 - 2 ss hvitløkssmør
 - 4 ts fersk timian, hvorav 1 ts spares til topping
@@ -16486,8 +16486,8 @@ Den rikeste av potetgratengene i samlingen: nesten en liter fløte og melk til e
 ### Notater
 
 - **Fremgangsmåten er rekonstruert, ikke gjengitt.** Kilden består utelukkende av en ingrediensliste. Rekkefølgen følger standard dauphinois-teknikk og speiler [T27](#t27-gratin-dauphinois), som har fullstendig fremgangsmåte fra kilden. Verifiser gjerne mot videoen. *(Merknad lagt til.)*
-- **«200whole milk» i kilden er en skrivefeil** for 200 ml helmelk. *(Rettelse.)*
-- **900 ml væske til 1 kg potet er svært mye** – nesten dobbelt så høyt forhold som i [T27](#t27-gratin-dauphinois), som bruker 750 ml til 1,5 kg. Gratengen blir tilsvarende løs og rik, nærmest flytende rundt potetene. Det er et bevisst valg for en julerett, men vil du ha en fastere grateng som lar seg skjære i firkanter, kutt til 500 ml fløte og 150 ml melk. *(Sammenligning og justering lagt til.)*
+- **«200whole milk» i kilden er en skrivefeil** for 200 ml (2 dl) helmelk. *(Rettelse.)*
+- **9 dl væske til 1 kg potet er svært mye** – nesten dobbelt så høyt forhold som i [gratin dauphinois (T27)](#t27-gratin-dauphinois), som bruker 7,5 dl til 1,5 kg. Gratengen blir tilsvarende løs og rik, nærmest flytende rundt potetene. Det er et bevisst valg for en julerett, men vil du ha en fastere grateng som lar seg skjære i firkanter, kutt til 5 dl fløte og 1,5 dl melk. *(Sammenligning og justering lagt til.)*
 - **Med så mye væske må formen ha høye kanter.** En vid, lav form koker over. Bruk en dyp ildfast form og sett den på et stekebrett. *(Lagt til.)*
 - **Gruyère hører strengt tatt ikke hjemme i en dauphinois.** Den tradisjonelle franske versjonen inneholder ingen ost i det hele tatt – med ost blir det nærmere en *gratin savoyard*. Samme innvending gjelder [T27](#t27-gratin-dauphinois), der osten er valgfri. Her er de 150 g gruyère derimot en bærende del av retten. *(Bakgrunn lagt til.)*
 - **1 ts fersk revet muskat er raust.** [T27](#t27-gratin-dauphinois) bruker ¼ ts til halvannen ganger så mye potet. Muskat blir fort bitter og dominerende – start med ½ ts. *(Justering lagt til.)*
@@ -16508,7 +16508,7 @@ Kryssingen mellom de to potetkakene i samlingen: den tradisjonelle Pomme Anna og
 ### Ingredienser
 
 - 5 poteter, skrelt og vasket
-- 250 ml klaret smør
+- 2,5 dl klaret smør
 - 3 kvister timian, ribbet og hakket
 - 2 kvister rosmarin, ribbet og hakket
 - Salt og pepper
@@ -16559,7 +16559,7 @@ Hasselbackpoteter i ovn, med skallet på. Smøret legges på først etter en hal
 - 8 store poteter
 - 4 skiver smør, høvlet — ca. 25 g
 - 2 hvitløksfedd
-- 4 ts olivenolje
+- 1 ss + 1 ts olivenolje
 - Fersk timian eller andre urter
 - Salt og pepper
 
@@ -16635,23 +16635,23 @@ Dauphinois som ender som pavé: hårtynne potetlag med trukket fløte og emmenta
 
 **Gratengen**
 - 5 store bakepoteter *(se notat om sort)*
-- 250 ml melk
-- 250 ml kremfløte
+- 2,5 dl melk
+- 2,5 dl kremfløte
 - 8 hvitløksfedd
 - 2 sjalottløk, skrelt og hakket
 - 3 kvister rosmarin
 - 6 kvister timian
 - 2 laurbærblad
 - 1 ts muskat
-- 60 g smør — ¼ cup
-- 2 cups revet emmental — ca. 200 g
+- 60 g smør
+- ca. 200 g revet emmental
 - Salt og pepper
 
 **Ferdigstilling**
 - 4 kvister timian
 - 2 kvister rosmarin
 - 2 ss nøytral olje
-- 70 g usaltet smør — 5 ss
+- 70 g usaltet smør
 - Hvitløk *(nevnt i fremgangsmåten, mangler i lista)*
 
 ### Fremgangsmåte
@@ -16676,7 +16676,7 @@ Dauphinois som ender som pavé: hårtynne potetlag med trukket fløte og emmenta
 
 - **Forfatteren presiserer skivetykkelsen i kommentarfeltet:** hårtynt, **0,5 mm** på mandolin. Det står ikke i selve oppskriften, og det er den viktigste opplysningen i hele retten – tykkere skiver gir ikke den tette, kompakte blokken som lar seg skjære i pavéer. *(Presisering hentet fra kommentarfeltet.)*
 - **Hvitløken i ferdigstillingen mangler i ingredienslisten.** Punkt 13 ber deg tilsette hvitløk sammen med smøret og urtene, men den er ikke oppført. Regn **2–3 fedd, knust med skallet på**. *(Rettelse lagt til.)*
-- **Ost og fløte bare hvert tredje lag** er kildens grep, og det er en balansegang: nok væske til at potetene blir møre, lite nok til at blokken holder sammen under kniven. Fyller du på for hvert lag, får du en løs grateng som ikke lar seg presse. Total væskemengde er bare 500 ml til 5 poteter – langt mindre enn i [T53](#t53-gratin-dauphinois--mr-grubworks-sin-versjon), som bruker 900 ml til 1 kg.
+- **Ost og fløte bare hvert tredje lag** er kildens grep, og det er en balansegang: nok væske til at potetene blir møre, lite nok til at blokken holder sammen under kniven. Fyller du på for hvert lag, får du en løs grateng som ikke lar seg presse. Total væskemengde er bare 5 dl til 5 poteter – langt mindre enn i [Mr Grubworks sin versjon (T53)](#t53-gratin-dauphinois--mr-grubworks-sin-versjon), som bruker 9 dl til 1 kg.
 - **150 °C i fire timer er lenge og lavt med hensikt.** Potetene skal bli helt møre uten at fløten koker og skiller seg, og uten at kantene svir seg. Det er samme logikk som i [T54](#t54-pomme-anna-pavé--hybrid).
 - **Emmental smelter jevnere enn gruyère** og er mildere. 200 g til 5 poteter gir en tydelig osteaktig grateng – strengt tatt nærmere en *gratin savoyard* enn en dauphinois, som tradisjonelt ikke inneholder ost i det hele tatt. Samme innvending gjelder [T27](#t27-gratin-dauphinois) og [T53](#t53-gratin-dauphinois--mr-grubworks-sin-versjon). *(Bakgrunn lagt til.)*
 - **Potetsorten er russet.** Norske motsvarigheter er **Beate, Kerrs Pink eller Pimpernel** – melne sorter der stivelsen binder lagene. Fastkokende poteter gir en blokk som faller fra hverandre. *(Erstatning lagt til.)*
