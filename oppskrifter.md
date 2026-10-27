@@ -7113,12 +7113,12 @@ Kyllingoverlår med sprøstekt skinn i en klissete honning-soya-glasur, med ovns
 **Kylling**
 - 600 g kyllingoverlår med skinn og ben
 - Salt og kvernet pepper
-- 12 g olje til steking *(mengde lagt til.)*
+- 1 ss olje til steking *(Lagt til.)*
 
 **Saus**
 - 2 ss smør
 - 4–6 hvitløksfedd, finhakket
-- 0,75 dl flytende honning
+- 100 g flytende honning
 - 2 ss soyasaus
 - 2 ss riseddik eller limesaft
 - God klype chiliflak
@@ -7126,7 +7126,7 @@ Kyllingoverlår med sprøstekt skinn i en klissete honning-soya-glasur, med ovns
 **Tilbehør**
 - 250 g brokkolini
 - 2 vårløk, finsnittet
-- 15 g olje og salt til brokkolinien *(mengde lagt til.)*
+- 1 ss olje og salt til brokkolinien *(Lagt til.)*
 - Ris til servering
 
 ### Fremgangsmåte
@@ -7143,7 +7143,7 @@ Kyllingoverlår med sprøstekt skinn i en klissete honning-soya-glasur, med ovns
 - **Ovnen brukes bare til brokkolinien.** Kilden ber deg varme ovnen først, men kyllingen blir ferdig i pannen – det er lett å lese instruksjonen som om den skal inn i ovnen. *(Presisering lagt til.)*
 - **600 g overlår med ben blir ikke ferdig på de få minuttene sausen trenger.** Dette er den svakeste delen av oppskriften: sausen tykner på 3–5 minutter, mens lår med ben trenger 20–25 minutter totalt. To løsninger – enten brun kyllingen ferdig først på middels varme under lokk før du lager sausen, eller sett hele pannen i ovnen på 215 °C i 12–15 minutter etter at sausen er rørt sammen, og øs over et par ganger. Det siste er enklest når ovnen uansett er varm. *(Lagt til.)*
 - **Kjernetemperatur:** Mattilsynet anbefaler minst 70 °C for kylling. Overlår har mye bindevev og blir faktisk bedre ved **75–80 °C**, da bindevevet løses opp og kjøttet slipper beinet lettere. Det er ingen risiko for tørt kjøtt slik det er med bryst.
-- **0,75 dl honning er mye** – ca. 105 g til 600 g kylling. Retten er søt, og det er bevisst. De 2 ss eddik er det eneste som balanserer den, så ikke kutt dem. Vil du ha den mindre søt, gå ned til 0,5 dl honning og behold eddikmengden.
+- **100 g honning er mye** til 600 g kylling. Retten er søt, og det er bevisst. De 2 ss eddik er det eneste som balanserer den, så ikke kutt dem. Vil du ha den mindre søt, gå ned til 70 g honning og behold eddikmengden.
 - **Riseddik og limesaft er ikke likeverdige.** Riseddik gir en rundere, nøytral syre; lime gir friskhet og aroma i tillegg. Lime kler chiliflakene bedre, riseddik holder retten nærmere det kinesiske uttrykket. Sammenlign med [nr. 2](#2-honning--sitron--og-hvitløkskylling), som bruker sitronskall til samme formål.
 - **Hell av fettet før smøret.** Kyllingskinn avgir mye fett, og glasuren blir fettskilt og blank i stedet for klissete hvis du lar det ligge igjen. Kilden nevner det, og det er verdt å ta på alvor.
 - **Brokkolini** selges også som aspargesbrokkoli eller bimi, og fås ikke overalt i Norge. Vanlig brokkoli i små buketter fungerer fint på samme temperatur, men trenger 12–14 minutter i stedet for 8. Kilden skriver forresten «brokkolien» i fremgangsmåten – det er samme grønnsak.
@@ -7162,20 +7162,20 @@ Tynne kyllingfileter i en fløtesaus med to typer sennep, hvitvin og friske urte
 
 **Kylling**
 - 2–3 kyllingbryst, delt vannrett i to tynnere fileter
-- 20 ml olivenolje
-- 4 g løkpulver — ca. 1½ ts
-- 4 g hvitløkspulver — ca. 1½ ts
+- 1 ss + 1 ts olivenolje
+- 1½ ts løkpulver
+- 1½ ts hvitløkspulver
 - 14 g usaltet smør *(se notat – brukes ikke i kildens fremgangsmåte)*
 - Salt og pepper
 
 **Kremet sennepssaus**
-- 20 ml olivenolje
+- 1 ss + 1 ts olivenolje
 - 1 gul løk, finhakket
 - 6 hvitløksfedd, revet
-- 125 ml hvitvin, eller kylling- eller grønnsakskraft
+- 1,2 dl hvitvin, eller kylling- eller grønnsakskraft
 - 30 g dijonsennep
 - 20 g grovkornet sennep
-- 250 ml kremfløte
+- 2,5 dl kremfløte
 - 5 g fersk timian, ribbet og hakket
 - 5 g bladpersille, grovhakket
 - 3 g fersk estragon, ribbet
@@ -7198,9 +7198,9 @@ Tynne kyllingfileter i en fløtesaus med to typer sennep, hvitvin og friske urte
 
 ### Notater
 
-- **Australsk spiseskje er 20 ml, ikke 15.** Chef Jack Ovens er australsk, og «1 Tbsp» i kilden betyr 20 ml – noe han bekrefter selv ved å oppgi 20 ml olje og 30 g dijon for 1½ ss. Måler du med norske spiseskjeer, får du ca. en fjerdedel for lite av alt. Mengdene over er derfor oppgitt i gram og milliliter. *(Presisering lagt til.)*
+- **Australsk spiseskje er 20 ml, ikke 15.** Chef Jack Ovens er australsk, og «1 Tbsp» i kilden betyr 20 ml – noe han bekrefter selv ved å oppgi 20 ml olje og 30 g dijon for 1½ ss. Måler du med norske spiseskjeer, får du ca. en fjerdedel for lite av alt. Mengdene over er derfor regnet om til norske mål. *(Presisering lagt til.)*
 - **Smøret står i ingredienslisten, men brukes aldri i fremgangsmåten.** *(Lagt til.)* Legg det i pannen sammen med olivenoljen når du steker kyllingen, eller la det smelte over filetene de siste sekundene. Det er sannsynligvis slik det var ment.
-- **Fersk estragon er vanskelig å få tak i i Norge** – prøv Meny eller grønnsakshandlere, ellers er den sesongvare. Den er samtidig rettens signatur: anisnoten er hele grunnen til at dijon og fløte fungerer sammen her. Uten den sitter du igjen med en helt grei, men anonym sennepssaus, nokså lik [nr. 127](#127-kremet-hvitløkskylling--simple-home-edit-sin-versjon). Tørket estragon er en svakere erstatning – bruk ca. ¾ ts og tilsett den sammen med fløten, ikke helt til slutt, så den får tid til å bløtne.
+- **Fersk estragon er vanskelig å få tak i i Norge** – prøv Meny eller grønnsakshandlere, ellers er den sesongvare. Den er samtidig rettens signatur: anisnoten er hele grunnen til at dijon og fløte fungerer sammen her. Uten den sitter du igjen med en helt grei, men anonym sennepssaus, nokså lik [nr. 127](#127-kremet-hvitløkskylling--simple-home-edit-sin-versjon). Tørket estragon er en svakere erstatning – bruk ca. 1 ts og tilsett den sammen med fløten, ikke helt til slutt, så den får tid til å bløtne.
 - **De to sennepstypene gjør ulike jobber.** Dijon er emulgatoren som binder sausen og gir skarpheten; den grovkornede gir tekstur og en mildere, søtere syre. Bytter du all sennep til én type, blir sausen enten for skarp og glatt eller for mild og kornete. Har du bare dijon, bruk ca. 40 g totalt.
 - **«Thickened cream» er australsk fløte med fortykningsmiddel**, ca. 35 % fett. Norsk kremfløte på 38 % er riktig erstatning – samme konklusjon som i [nr. 127](#127-kremet-hvitløkskylling--simple-home-edit-sin-versjon). Crème fraîche skiller seg i denne sausen og skal ikke brukes.
 - **Sausen skal småkoke, aldri fosskoke.** Dijon og fløte skiller seg ved hard koking. Blir den likevel kornete, ta pannen av varmen og visp inn en skvett kald fløte.
@@ -7235,8 +7235,8 @@ Krydret kyllinglår på toppen av gnocchi i en fløtesaus med pancetta, sopp og 
 - 200 g kastanjesjampinjong, halvert eller delt i fire
 - 2 sjalottløk, finhakket
 - 2 hvitløksfedd, finhakket
-- 120 ml kyllingkraft
-- 240 ml kremfløte, romtemperert
+- 1,2 dl kyllingkraft
+- 2,5 dl kremfløte, romtemperert
 - 1 ts dijonsennep
 - 40 g nyrevet parmesan
 - 100 g babyspinat, grovhakket
@@ -7324,16 +7324,16 @@ Kantonesisk sprøstekt svineside gjort på én time i airfryer, uten døgnet med
 - 1,5 kg svinesideflesk med svor, uten bein
 
 **Krydderpasta**
-- ½ ss kosher salt — ca. ¾–1 ts fint salt
-- ½ ss hvit pepper — 5 g
-- ½ ss kinesisk femkrydder — 5 g
-- ½ ss sukker — 6 g
-- ½ ss shaoxingvin — 7 ml
+- 1 ts fint salt *(Omregnet fra ½ ss kosher salt – se notat.)*
+- 5 g hvit pepper (ca. 1½ ts)
+- 5 g kinesisk femkrydder (ca. 1½ ts)
+- 1½ ts sukker
+- 1½ ts shaoxingvin
 
 **Til svoren**
-- Ca. 2,4 dl grovt salt
-- 1 ss hvit eddik — 15 ml
-- 1 ss nøytral olje — 15 ml
+- Ca. 300 g grovt salt
+- 1 ss hvit eddik
+- 1 ss nøytral olje
 
 ### Fremgangsmåte
 
@@ -7349,9 +7349,9 @@ Kantonesisk sprøstekt svineside gjort på én time i airfryer, uten døgnet med
 
 - **Dette er hurtigversjonen av [nr. 42](#42-sprøstekt-svinesideflesk-siu-yuk), og de to bygger på motsatte prinsipper.** Nr. 42 tørker svoren udekket i kjøleskapet i 12–24 timer og lar den være uprikket; her erstattes uttørkingen av 30 minutter under et saltlag på lav varme, og svoren prikkes full av hull. Regn 14 timer mot 1 time – men også litt ulikt resultat: den lange metoden gir mørere, mer smeltende kjøtt fordi fettet får tid til å renne av ved 150 °C i halvannen time. Denne gir like sprø svor på brøkdelen av tiden, med litt fastere kjøtt.
 - **Prikkingen er det som skiller mest.** Hullene lar fettet renne ut og «fritere» svoren nedenfra, slik at den blåser seg opp. Går du gjennom til kjøttet, kommer kjøttsaft opp og hindrer akkurat det. Bruk kjøttnål, satéspyd eller en spiss kniv, og hold vinkelen flat.
-- **2,4 dl salt ser ut som en feil, men er riktig.** Det er en tørkeskorpe, ikke krydder, og alt fjernes igjen. Bruk **grovt** salt – fint salt trenger inn i svoren og gjør kjøttet uspiselig salt. Samme presisering som i [nr. 42](#42-sprøstekt-svinesideflesk-siu-yuk).
+- **300 g salt ser ut som en feil, men er riktig.** Det er en tørkeskorpe, ikke krydder, og alt fjernes igjen. Bruk **grovt** salt – fint salt trenger inn i svoren og gjør kjøttet uspiselig salt. Samme presisering som i [nr. 42](#42-sprøstekt-svinesideflesk-siu-yuk).
 - **Foliekanten må være tett.** Flere lesere melder at salt renner ned på kjøttendene og gjør de ytterste centimeterne altfor salte. Brett folien stramt inntil kjøttet hele veien rundt, og regn med å skjære av ca. 1 cm i hver ende hvis det likevel skjer. *(Erfaring fra kommentarfeltet, lagt til.)*
-- **Kosher salt er ikke norsk salt.** Amerikansk kosher salt varierer mellom merkene – Diamond Crystal veier omtrent halvparten av Morton per skje. ½ ss ligger derfor et sted mellom 4 og 7 g, altså ca. ¾–1 ts norsk fint salt. Til krydderpastaen betyr det lite, men det er verdt å vite at kilden ikke er presis her. *(Presisering lagt til.)*
+- **Kosher salt er ikke norsk salt.** Amerikansk kosher salt varierer mellom merkene – Diamond Crystal veier omtrent halvparten av Morton per skje. ½ ss ligger derfor et sted mellom 4 og 7 g, altså ca. 1 ts norsk fint salt. Til krydderpastaen betyr det lite, men det er verdt å vite at kilden ikke er presis her. *(Presisering lagt til.)*
 - **Eddiken kommer før saltet her**, i motsetning til [nr. 42](#42-sprøstekt-svinesideflesk-siu-yuk), der oljen eller eddiken pensles på *etter* at saltet er fjernet. Forfatteren begrunner det med at eddiken mykner svoren og fjerner lukt, og foretrekker det fremfor natron, som en del andre oppskrifter bruker.
 - **Shaoxingvin** fås i asiatiske butikker i Oslo. Tørr sherry er den vanlige erstatningen og fungerer godt i en krydderpasta som dette. Utelat den ikke helt – forfatteren fraråder uttrykkelig å hoppe over eller bytte noe i pastaen.
 - **Sideflesk med svor uten bein må som regel bestilles i Norge.** Du er ute etter tynnribbe der beina er skåret ut. Be ferskvaredisken om et midtstykke med jevn tykkelse og et tynt lag hvitt fett mellom kjøttlagene – det er det forfatteren spesifiserer hos slakteren.
@@ -7373,13 +7373,13 @@ Fransk klassiker: melvendt kyllingbryst i en saus av sjalottløk, hvitvin, kraft
 - 4 kyllingbryst uten skinn
 - Hvetemel til vending — ca. 3–4 ss *(mangler i kildens ingrediensliste, se notat)*
 - Salt og sort pepper
-- 20 g olivenolje *(mengde lagt til.)*
+- 1–2 ss olivenolje *(Lagt til.)*
 - 4 sjalottløk, finhakket
 - 2 hvitløksfedd, finhakket
-- 120 ml tørr hvitvin
-- 240 ml kyllingkraft
+- 1,2 dl tørr hvitvin
+- 2,5 dl kyllingkraft
 - 4 ss grovkornet dijonsennep — ca. 60 g
-- 240 ml crème fraîche eller kremfløte
+- 2,5 dl crème fraîche eller kremfløte
 - 8 kvister fersk timian
 - 1 sitron, til pynt
 
@@ -7472,7 +7472,7 @@ Kyllinglår i en marinade av lime, honning, spisskummen og cayenne, grillet og f
 - 2 ss malt spisskummen
 - 2 ss cayennepepper *(se notat – svært sterkt)*
 - 1 ss løkgranulat
-- 100 ml limesaft — ca. 3–4 lime
+- 1 dl limesaft — ca. 3–4 lime
 - 2 ss olivenolje
 - 70 g honning
 - En neve hakket koriander — ca. 3 ss
@@ -7490,7 +7490,7 @@ Kyllinglår i en marinade av lime, honning, spisskummen og cayenne, grillet og f
 
 - **2 ss cayennepepper er brennhett.** Cayenne ligger på 30 000–50 000 på Scoville-skalaen, og to spiseskjeer til ti lår er en kraftig dose selv for folk som liker sterk mat – dette er ikke det samme som amerikansk *chili powder*, som er en mild blanding. Vil du ha fargen og smaken uten styrken, start med **1–2 ts cayenne** og fyll opp med søtt eller røkt paprikapulver til du er oppe i 2 ss totalt. *(Justering lagt til.)*
 - **Marinaden må koke ordentlig, ikke bare varmes.** Den har ligget i rå kylling, og innkoking til glasur er trygt *fordi* det innebærer et par minutters skikkelig fosskoking. Skru ikke ned til lunk «for å bevare smaken» – hold den kokende til den tykner. *(Matsikkerhet, lagt til.)*
-- **Ikke marinér lenger enn 3 timer.** 100 ml limesaft er mye syre, og over natten begynner den å denaturere overflaten på kjøttet slik at teksturen blir melen. Lår tåler mer enn bryst, men kildens 2–3 timer er en øvre grense, ikke et minimum.
+- **Ikke marinér lenger enn 3 timer.** 1 dl limesaft er mye syre, og over natten begynner den å denaturere overflaten på kjøttet slik at teksturen blir melen. Lår tåler mer enn bryst, men kildens 2–3 timer er en øvre grense, ikke et minimum.
 - **Honningen er grunnen til at kyllingen ferdigstekes i ovnen.** Den svir seg på grill lenge før kjøttet er gjennomstekt. Svi derfor bare av for fargen og la ovnen gjøre resten – det er en gjennomtenkt rekkefølge, ikke en omvei.
 - **Kilden oppgir ikke om lårene er med eller uten bein.** 8–10 minutter på 200 °C etter bruning passer **utbeinede** lår. Er de med bein, regn **20–25 minutter**. *(Presisering lagt til.)*
 - **Kjernetemperatur 75 °C.** Kyllinglår blir bedre av å gå litt over minimumsgrensen – bindevevet løser seg opp og kjøttet blir mørere.
@@ -7511,7 +7511,7 @@ Hverdagsversjonen av chili con carne: kjøttdeig i stedet for grytekjøtt, og 45
 ### Ingredienser
 
 - 3 tørkede ancho-chili, frø fjernet og hakket
-- 500 ml oksekraft
+- 5 dl oksekraft
 - 2 ss oksetalg
 - 700 g kjøttdeig av storfe, 20 % fett
 - 1 rødløk, finhakket
