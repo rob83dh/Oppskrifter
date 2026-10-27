@@ -13539,10 +13539,10 @@ Sellerirot kokt mør i grønnsakskraft og mikset glatt med kremost i stedet for 
 - 1 sellerirot, ca. 1 kg
 - 1 løk, i terninger
 - 2 hvitløksfedd, finhakket
-- 9,5 dl grønnsakskraft *(samme mengde som vekten på sellerirota – se notat)*
+- 1 liter grønnsakskraft *(samme mengde som vekten på sellerirota – se notat)*
 - 2 laurbærblad
 - 4 kvister fersk timian
-- 1,2 dl kremost
+- ca. 120 g kremost
 - 2 ss olivenolje
 - Salt og sort pepper
 
@@ -13590,7 +13590,7 @@ Butternut, hvitløk og sjalottløk bakt sammen i ovn og mikset med varm grønnsa
 - 1 sjalottløk, skrelt og delt i to
 - 2 ss olivenolje
 - 1 klype piment d'Espelette, eller cayennepepper
-- 500–750 ml grønnsakskraft *(juster etter ønsket konsistens)*
+- 5–7,5 dl grønnsakskraft *(juster etter ønsket konsistens)*
 - Salt og pepper
 
 **Til servering**
@@ -13640,9 +13640,9 @@ Rødløk stekt med paprika, chiliflak og tomatpuré, kokt inn med hermetiske tom
 - 1 ts chiliflak *(se notat)*
 - 1 ss tomatpuré
 - 1,2 dl grønnsakskraft
-- 1,2 dl sorte oliven
+- ca. 70 g sorte oliven
 - 60 g revet parmesan
-- 7 dl fersk spinat
+- ca. 100 g fersk spinat
 - Salt og sort pepper
 - Fersk persille til servering
 
@@ -13658,8 +13658,8 @@ Rødløk stekt med paprika, chiliflak og tomatpuré, kokt inn med hermetiske tom
 
 - **1 ts chiliflak til to porsjoner er mye.** En norsk leser laget fire porsjoner etter oppskriften og måtte redde retten med en boks rømme fordi den ble for sterk – forfatterens svar var å bruke mindre. Start med **½ ts** og øk etter smak.
 - **Parmesanskorpe i tomatene** er kildens beste tilleggsforslag: har du en skorpe liggende, legg den i sammen med tomatene i punkt 3 og fisk den ut før servering. Den gir dybde som revet ost alene ikke gir.
-- **Urtemengden er feilplassert i oppskriftskortet.** «1/2 cup friske urter» står som **første steg i fremgangsmåten** i stedet for i ingredienslisten. Det er persillen til servering – regn ca. 1,2 dl hakket.
-- **Ferske tomater går også an:** ca. 3,5 dl hakkede per 400 g-boks, men de slipper mer væske, så koketiden må forlenges. Kilden foreslår også å ovnsbake dem først på 180 °C i 25 minutter.
+- **Urtemengden er feilplassert i oppskriftskortet.** «1/2 cup friske urter» står som **første steg i fremgangsmåten** i stedet for i ingredienslisten. Det er persillen til servering – regn ca. 15 g.
+- **Ferske tomater går også an:** ca. 400 g hakkede per boks, men de slipper mer væske, så koketiden må forlenges. Kilden foreslår også å ovnsbake dem først på 180 °C i 25 minutter.
 - **Olivenene er valgfrie** og var opprinnelig en rest forfatteren hadde liggende. Kalamata fungerer like godt som sorte, bekrefter hun.
 - **Bønnetypen er fri:** cannellini, store hvite bønner, smørbønner eller til og med røde bønner. 240 g avrent er innholdet i én norsk boks.
 - **Kan gjøres til kjøttrett** ved å brune kyllingpølse eller kjøttdeig sammen med løken, sier kilden.
@@ -13678,7 +13678,7 @@ Hvite bønner der en tredel mikses glatt og røres tilbake i gryta – all kreme
 ### Ingredienser
 
 - 3 bokser hvite bønner à ca. 425 g
-- 9,5 dl grønnsakskraft
+- 1 liter grønnsakskraft
 - 1 løk, i terninger
 - 3 gulrøtter
 - 2 stilker stangselleri
@@ -13687,8 +13687,8 @@ Hvite bønner der en tredel mikses glatt og røres tilbake i gryta – all kreme
 - 1,2 dl tørr hvitvin, eller mer kraft
 - 6 kvister fersk timian, eller tørket
 - 2 laurbærblad
-- 1,2 dl revet parmesan
-- 7 dl spinat, fersk eller frossen
+- 40 g revet parmesan
+- ca. 100 g spinat, fersk eller frossen
 - 1 sitron
 - 1–2 ss olivenolje
 - Salt og sort pepper
@@ -13741,7 +13741,7 @@ Alt går i ovnen samtidig – tomater, paprika, chili, løk og et helt hvitløks
 - 8 skiver smelteost
 - 50 g grovrevet lagret ost
 - 50 g smør
-- 15 g olje til steking *(mengde lagt til.)*
+- 1 ss nøytral olje til steking *(Lagt til.)*
 
 ### Fremgangsmåte
 
@@ -13862,7 +13862,7 @@ Seks til åtte løk freset i olivenolje og kokt i kraft i en halvtime. Krutongen
 ### Ingredienser
 
 - 6–8 løk
-- 1 l grønnsakkraft, kyllingkraft, soppkraft eller vann
+- 1 liter grønnsakskraft, kyllingkraft, soppkraft eller vann
 - 3–4 ss olivenolje
 - Salt
 
