@@ -22929,7 +22929,7 @@ Karamell i bunnen av formen, eggekrem over, bakt i vannbad og vendt ut på fatet
 
 **Karamell**
 - 200 g sukker
-- 0,5 dl vann
+- 3 ss + 1 ts vann *(Omregnet fra 0,5 dl.)*
 
 **Kremen**
 - 5 dl helmelk
