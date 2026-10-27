@@ -5115,7 +5115,7 @@ Varm ris, en boks koreansk tunfisk i chilisaus, et sprøstekt egg og litt sesamo
 
 ### Ingredienser
 
-- ca. 3,5 dl kokt hvit ris, varm — ca. 1,4 dl tørr ris
+- ca. 230 g kokt hvit ris, varm — ca. 90 g tørr ris
 - 1 boks koreansk tunfisk med chilisaus, ca. 100–150 g *(boksstørrelse ikke oppgitt – se notat)*
 - 1 stort egg + olje til steking *(valgfritt, men anbefalt)*
 - 1 ss ristet sesamolje *(se notat)*
@@ -5133,7 +5133,7 @@ Varm ris, en boks koreansk tunfisk i chilisaus, et sprøstekt egg og litt sesamo
 
 - **Alt avhenger av én bestemt boks.** Kilden bruker koreansk hermetisk tunfisk **med chilisaus** – merket «with hot pepper sauce», gjerne Dongwon. Den er marinert i en mildt sterk, søtlig saus med små biter potet, gulrot og løk, og finnes i tre styrker. Vanlig tunfisk i vann eller olje gir en helt annen og langt kjedeligere rett; kilden er uttrykkelig på det. Boksen fås i koreanske og større asiatiske butikker.
 - **Hjemmelaget erstatning** hvis du ikke får tak i den: renn av en boks vanlig tunfisk og rør inn **1–1½ ts gochujang, ½ ts sukker, ½ ts soyasaus, ½ ts sesamolje og 2 ss finhakket løk**. Varm det kort i panne så løken mykner. Det treffer profilen – søtt, salt, mildt sterkt – uten å være identisk. *(Lagt til; kilden gir ingen erstatning.)*
-- **Boksstørrelsen er ikke oppgitt.** Koreanske tunfiskbokser ligger vanligvis på 100–150 g. Til 3,5 dl ris er 150 g rikelig.
+- **Boksstørrelsen er ikke oppgitt.** Koreanske tunfiskbokser ligger vanligvis på 100–150 g. Til 230 g kokt ris er 150 g rikelig.
 - **1 ss sesamolje til én porsjon er mye.** Ristet sesamolje er kraftig, og en spiseskje dominerer lett en enkelt bolle. Start med 1–2 ts og øk om du vil.
 - **Risen må være varm.** Det er den som varmer tunfisken – ingenting annet i retten går på komfyren bortsett fra egget. Kald ris gir en lunken, seig bolle.
 - **Spis den med sjøgress.** Kilden foreslår å skje opp små porsjoner i noriark eller snacksjøgress, som en løs risball. Det er et bedre tips enn det ser ut som, og gjør retten til noe man deler.
@@ -5152,8 +5152,8 @@ Kyllinglår i store biter marinert i gochujang, gochugaru og sukker, stekt til d
 ### Ingredienser
 
 **Marinade og kylling**
-- 60 ml gochujang
-- 60 ml sukker, ca. 50 g *(eller etter smak)*
+- 4 ss gochujang
+- 50 g sukker *(eller etter smak)*
 - 2 ss finhakket hvitløk (4–5 fedd)
 - 2 ss nøytral olje, + mer til steking
 - 1 ss gochugaru (grov koreansk chiliflak)
@@ -5164,7 +5164,7 @@ Kyllinglår i store biter marinert i gochujang, gochugaru og sukker, stekt til d
 - 8 kyllinglårfileter uten skinn, i store biter (ca. 900 g)
 
 **Bollen**
-- 9,5 dl kokt hvit ris, eller annet korn — ca. 3,8 dl tørr ris
+- ca. 650 g kokt hvit ris, eller annet korn — ca. 320 g tørr ris
 - 1 hode romanosalat, i biter og vasket
 - 1 stor gulrot, skrelt og revet
 - 1 slangeagurk, skivet
@@ -5181,12 +5181,12 @@ Kyllinglår i store biter marinert i gochujang, gochugaru og sukker, stekt til d
 
 ### Notater
 
-- **Smak på marinaden før kyllingen går i.** Kilden ber deg gjøre det uttrykkelig, og det er sjeldent i en oppskrift. Gochujang varierer mye i styrke og sødme mellom merker, så ¼ cup sukker kan bli enten passe eller altfor mye. Når kyllingen først ligger i, kan du ikke justere.
+- **Smak på marinaden før kyllingen går i.** Kilden ber deg gjøre det uttrykkelig, og det er sjeldent i en oppskrift. Gochujang varierer mye i styrke og sødme mellom merker, så 50 g sukker kan bli enten passe eller altfor mye. Når kyllingen først ligger i, kan du ikke justere.
 - **Sukkeret gjør at kyllingen svir seg fort.** 50 g sukker i marinaden er det som gir de svarte kantene retten lever av, men grensen mellom karamellisert og brent er smal. Middels varme, ikke sterk, og hold øye med pannen. Kilden bruker støpejernsgrillpanne fordi den holder på varmen og gir tydelige grillstriper – vanlig støpejernspanne fungerer også.
 - **Marinaden må kokes hvis du vil bruke den som saus.** En leser spurte, og forfatteren svarer at hun ikke gjør det, men at man kan koke den et par minutter – eller sette av litt umarinert saus på forhånd, som er den tryggere løsningen.
 - **Forberedelsestidene er uvanlig romslige**, og alle kommer fra kilden: marinaden holder en uke i kjøleskap, kyllingen kan ligge i den i 3–4 dager, ferdigstekt kylling holder 3–4 dager, og grønnsakene kan kuttes 2 dager i forveien. Avokadoen skjæres samme dag. Fire døgn i en salt og søt marinade gjør likevel kjøttet merkbart fastere – et døgn holder i massevis.
 - **Gochugaru er ikke vanlige chiliflak.** Den grove koreanske typen er mildere, søtere og gir fargen. Se samme poeng i [T6](#t6-koreansk-sterk-agurksalat-oi-muchim).
-- **1 ts kosher salt tilsvarer ca. ¾ ts fint salt.** Kilden bruker grovt salt; bruker du vanlig norsk bordsalt, ta litt mindre.
+- **1 ts kosher salt tilsvarer litt under 1 ts fint salt.** Kilden bruker grovt salt; bruker du vanlig norsk bordsalt, ta litt mindre.
 - **74 °C er omregnet fra 165 °F.** Kyllinglår tåler godt å ligge noen grader over uten å bli tørt, i motsetning til bryst.
 - **Grønnsakene er ikke pynt.** Kilden er tydelig på at bollen trenger rikelig med sprøtt og rått for å balansere den kraftige marinaden. Foreslåtte bytter: rødkål, kinakål, eple, pære, grønnkål, brokkoli, spinat og spirer.
 - **Vegetarversjon med tofu**, fra kilden: skjær 700 g fast tofu i terninger på 2,5 cm og tørk dem godt. Stek dem gylne i olje, 1–2 minutter per side, og la dem renne av. Tørk ut pannen, hell i marinaden, la den småkoke, og vend tofuen i den. Vil du ha tykkere saus, visp 1 ts maisenna i marinaden før oppvarming og la den koke 10–20 sekunder. En leser har også lykkes med tempeh.
@@ -5212,9 +5212,9 @@ Kyllingkjøttdeig stekt med løk, hvitløk og tacokrydder, servert over finstrim
 - Salt etter smak *(valgfritt – se notat)*
 
 **Salatbollene**
-- 9,5 dl finstrimlet romanosalat
-- 2,4 dl revet cheddar (ca. 110 g)
-- 2,4 dl tomat i terninger
+- ca. 250 g romanosalat (1 hode), finstrimlet
+- 110 g revet cheddar
+- ca. 150 g tomat i terninger
 
 **Topping**
 - 1,2 dl rømme
@@ -5259,20 +5259,20 @@ Fajitafyll av kylling, løk og paprika stekt på ett brett i ovn eller airfryer,
 - 8 minipaprika, eller 2 vanlige
 - 4 kyllinglårfileter uten skinn og bein, i strimler *(kyllingbryst fungerer også)*
 - ¼ ts pepper
-- ½ ss hvitløkspulver
+- 1½ ts hvitløkspulver
 - ½ ts paprikapulver
 - ¼ ts chipotlepulver, eller annet **usaltet** chilikrydder *(se notat)*
-- 1½ ss olivenolje
+- 1 ss + 1½ ts olivenolje
 - Salt *(mangler i kildens liste – se notat)*
 - Jalapeño *(nevnes i fremgangsmåten, ikke i ingredienslisten)*
 
 **Salaten**
-- 4,7 dl salat, tynt strimlet
-- 2,4 dl agurk i terninger
+- ca. 120 g salat, tynt strimlet
+- ca. 150 g agurk i terninger
 - ½ rødløk, tynt skivet
 
 **Dressing**
-- 80 ml yoghurt naturell
+- 80 g yoghurt naturell
 - 1 ts olivenolje
 - 2 ts sitronsaft, etter smak
 - 1 klype salt
@@ -5294,10 +5294,10 @@ Fajitafyll av kylling, løk og paprika stekt på ett brett i ovn eller airfryer,
 - **Jalapeño dukker opp i fremgangsmåten, men står ikke i ingredienslisten.** Den er valgfri, men hvis du vil ha den, må du huske å kjøpe den.
 - **Chipotlepulver er ikke chilipulver, og ikke «chili powder».** Chipotle er røkt, tørket jalapeño malt alene – røykfull og middels sterk. Amerikansk *chili powder* er en krydderblanding (se [T23](#t23-potetbåter-i-airfryer)), og norsk chilipulver er ren, sterk chili. Kilden er tydelig på at krydderet må være **usaltet**, uansett hvilket du bruker. Chipotle fås som pulver eller pasta i meksikanske og enkelte større norske butikker; har du bare røkt paprikapulver, gir det noe av røyken, men ingen styrke.
 - **Temperaturen er omregnet fra fahrenheit:** 400 °F = 200 °C.
-- **Norsk yoghurt naturell er tynnere enn amerikansk.** Dressingen på 80 ml yoghurt, 1 ts olje og 2 ts sitron blir lettflytende uansett, men med gresk yoghurt fester den seg bedre til salaten. Er den for tykk, spe med litt vann.
+- **Norsk yoghurt naturell er tynnere enn amerikansk.** Dressingen på 80 g yoghurt, 1 ts olje og 2 ts sitron blir lettflytende uansett, men med gresk yoghurt fester den seg bedre til salaten. Er den for tykk, spe med litt vann.
 - **Sitron, ikke lime.** Kilden bruker sitronsaft, som er uvanlig i en fajitasammenheng – lime ligger nærmere. Kildens valg står, men lime er verdt å prøve.
 - **Minipaprika heter snackpaprika** i norske butikker og selges i nett. Åtte av dem tilsvarer omtrent to vanlige, slik kilden selv oppgir.
-- **Porsjonsantallet er ikke oppgitt.** Fire kyllinglårfileter er rundt 500 g, mens 4,7 dl salat er beskjedent – to porsjoner er det realistiske. Vil du strekke den til fire, doble salaten og agurken.
+- **Porsjonsantallet er ikke oppgitt.** Fire kyllinglårfileter er rundt 500 g, mens 120 g salat er beskjedent – to porsjoner er det realistiske. Vil du strekke den til fire, doble salaten og agurken.
 - **Kyllinglår er valgt med hensikt** og tåler ovnsvarmen langt bedre enn bryst, som kilden også åpner for. I en rett der kjøttet stekes uten saus, merkes forskjellen.
 - **Samme forfatter og samme grunnidé** som [nr. 93](#93-taco-salatbowl-med-kylling): meksikansk-inspirert fyll servert på salat i stedet for lefse. Den er stekt i panne, denne i ovn – og denne har den ryddigere krydringen.
 
@@ -5319,7 +5319,7 @@ Finhakket tomat, agurk, løk, jalapeño og oliven vendt i olivenolje og sitron, 
 - 2 ts ekstra virgin olivenolje
 - Saften av ½ sitron
 - 1 klype salt, etter smak *(se notat)*
-- 2,4 dl cottage cheese, 2 %
+- 250 g cottage cheese, 2 %
 - Friske urter – basilikum, oregano eller persille *(valgfritt)*
 
 ### Fremgangsmåte
@@ -5333,7 +5333,7 @@ Finhakket tomat, agurk, løk, jalapeño og oliven vendt i olivenolje og sitron, 
 
 - **Mål grønnsakene, ikke skivene.** «2 skiver tomat» og «1 skive løk» sier lite – en skive kan være alt fra 3 til 15 mm. Anslagene i ingredienslisten er lagt inn så retten kan gjentas og skaleres.
 - **Én hel jalapeño til én porsjon er mye.** Til én løkring og en halv tomat blir den den kraftigste smaken på tallerkenen. Frøene er riktignok fjernet, som demper en god del, men smak på en bit før du hakker hele. Norsk fersk jalapeño varierer dessuten mye i styrke – samme forbehold som i [S10](#s10-jalapeño-popper-wontonkopper).
-- **Klypen salt er sannsynligvis overflødig.** Åtte kalamataoliven og 2,4 dl cottage cheese bidrar allerede med rikelig salt. Smak før du salter – dette sier ikke kilden noe om.
+- **Klypen salt er sannsynligvis overflødig.** Åtte kalamataoliven og 250 g cottage cheese bidrar allerede med rikelig salt. Smak før du salter – dette sier ikke kilden noe om.
 - **Salaten vanner seg ut.** Tomat og agurk slipper væske så snart saltet og sitronen er i, og etter en halvtime ligger det en pøl under cottage cheesen. Bland dressingen inn rett før servering, eller renn av overskuddsvæsken. *(Lagt til.)*
 - **Norsk cottage cheese** fås både som vanlig og mager. Kilden bruker 2 %, som ligger mellom de to – den magre blir tørrere og trenger litt ekstra olivenolje.
 - **Urtemengden er ikke oppgitt.** En god neve grovhakket basilikum eller persille per porsjon er passe. Fersk oregano er kraftigere – da holder det med noen blader.
@@ -5353,9 +5353,9 @@ Kyllingfilet i strimler, panert i mel, egg og panko blandet med revet parmesan, 
 
 - 700 g kyllingfilet
 - 2 egg, sammenvispet
-- 1,2 dl hvetemel
-- 2,4 dl panko
-- 1,2 dl revet parmesan
+- 70 g hvetemel
+- 60 g panko
+- 40 g revet parmesan
 - ½ ts salt
 - ¼ ts pepper
 - Sprayolje *(se notat)*
@@ -5451,7 +5451,7 @@ Grønne bønner stekt til de blemmer, tatt ut, og vendt tilbake i svinekjøttdei
 **Saus**
 - 3 ss lys soyasaus
 - 1 ts mørk soyasaus
-- ½ ss sukker
+- 1½ ts sukker
 - ¼ ts MSG *(valgfritt)*
 
 ### Fremgangsmåte
@@ -5489,12 +5489,12 @@ Misosuppe med dashi kokt fra bunnen av kombu og bonitoflak, i stedet for pulver.
 **Dashi**
 - 1,2 liter vann
 - 1 stykke kombu — ca. 10 × 10 cm *(størrelse ikke oppgitt i kilden)*
-- 1 godt pakket kopp bonitoflak (katsuobushi), ca. 15–20 g, **eller** 1 ss hondashipulver
+- 15–20 g bonitoflak (katsuobushi), **eller** 1 ss hondashipulver
 
 **Suppen**
 - 4 ss misopasta, rød eller hvit
 - 1 pakke fast tofu, i terninger — ca. 450 g *(størrelse ikke oppgitt – se notat)*
-- 60 ml tørket wakame
+- 4 ss tørket wakame
 - 2 vårløk, tynt skivet, hvitt og grønt
 
 ### Fremgangsmåte
