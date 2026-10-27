@@ -15196,15 +15196,15 @@ Potetsalat der potetene ikke er bløte. De forkokes hele, halveres og presses me
 
 **Potetene**
 - 1,5 kg mandelpoteter eller andre små, fastkokende poteter *(kilden bruker kipfler – se notat)*
-- 60 ml olivenolje
+- 4 ss olivenolje
 - Havsalt og grovkvernet sort pepper — ca. 1 ts salt *(mengde lagt til)*
 - 4 vårløk, skrått skivet
 
 **Yuzumajones**
 - 2 eggeplommer
 - 1½ ts dijonsennep
-- 50 ml yuzujuice
-- 200 ml peanøttolje, eller annen nøytral olje
+- 3 ss + 1 ts yuzujuice
+- 2 dl peanøttolje, eller annen nøytral olje
 - Havsalt og hvit pepper — ca. ½ ts salt *(mengde lagt til)*
 
 ### Fremgangsmåte
@@ -15239,7 +15239,7 @@ Potetsalat der potetene ikke er bløte. De forkokes hele, halveres og presses me
 - **Hellen må være glovarm før potetene går på.** Er den for kald, damper potetene i stedet for å karamellisere, og du får ingen farge. Oljen skal skimre og bevege seg med én gang den treffer. Og når potetene først ligger med snittflaten ned: **ikke rør dem** på de 3–4 minuttene. Flytter du dem tidlig, river du av skorpen før den har rukket å danne seg.
 - **Få har stekehelle på grillen i Norge.** En støpejernspanne på komfyren er kildens eget alternativ og fungerer fint, men da må du steke i flere omganger – potetene skal ligge i ett lag med plass rundt seg.
 - **Yuzujuice fås på flaske** i asiatiske butikker og hos spesialforhandlere. Finner du den ikke, foreslår kilden en blanding av ca. **60 % sitron, 20 % lime og 20 % grapefrukt**. Det treffer syren og det svake bitterstoffet, men ikke det blomsteraktige, som er hele poenget med yuzu.
-- **Denne majonesen er syrligere og løsere enn** [T122](#t122-majones). Samme metode og samme forfatter, men forholdet er et annet: 2 plommer til 50 ml syre og 200 ml olje, mot 2 plommer til 20 ml syre og 300 ml olje. Mye syre og lite olje gir en tynnere og mer skjør emulsjon – ta ekstra god tid i steg 4. Går den i stykker, gjelder samme redning: ny plomme i ren kanne, og den skilte blandingen spedd sakte ned i den.
+- **Denne majonesen er syrligere og løsere enn** [T122](#t122-majones). Samme metode og samme forfatter, men forholdet er et annet: 2 plommer til drøye 3 ss syre og 2 dl olje, mot 2 plommer til drøye 1 ss syre og 3 dl olje. Mye syre og lite olje gir en tynnere og mer skjør emulsjon – ta ekstra god tid i steg 4. Går den i stykker, gjelder samme redning: ny plomme i ren kanne, og den skilte blandingen spedd sakte ned i den.
 - **Ikke bruk olivenolje i majonesen.** Kilden er uttrykkelig om det her: smaken er for dominerende og emulsjonen kan bli bitter. Olivenoljen hører hjemme på potetene, ikke i sausen.
 - **Hvit pepper i majonesen** er et utseendevalg – sort pepper gir prikker i en ellers blank, lys saus. Smaken blir omtrent den samme.
 - **Rå eggeplomme** er uproblematisk med norske egg, jf. notatet i [T122](#t122-majones).
@@ -15300,7 +15300,7 @@ Trekkspillskårne agurker saltet og skylt, vendt i en dressing av riseddik, soya
 - 1 ss hvitløkschiliolje
 - 3 hvitløksfedd, finhakket
 - 1 ss brun farin
-- 1½ ss soyasaus
+- 1 ss + 1½ ts soyasaus
 - 1 ts sesamolje
 - 2 vårløk, skivet
 - Sesamfrø
@@ -15404,7 +15404,7 @@ Bakepoteter i båter, vendt i olje, krydder og revet parmesan, og stekt i airfry
 
 ### Notater
 
-- **«Chili powder» betyr ikke chilipulver.** Dette er den viktigste fellen i oppskriften. Amerikansk *chili powder* er en krydderblanding med tørket chili, spisskummen, oregano og hvitløk – laget for chili con carne, og relativt mild. Norsk **chilipulver** er ren, malt chili og langt sterkere. ½ ts av den norske varianten gir en helt annen og mye hetere rett. Vil du treffe originalen, bruk en taco- eller chilikrydderblanding, eller bland selv: ¼ ts paprikapulver, ⅛ ts spisskummen, en klype oregano og en knivsodd chili.
+- **«Chili powder» betyr ikke chilipulver.** Dette er den viktigste fellen i oppskriften. Amerikansk *chili powder* er en krydderblanding med tørket chili, spisskummen, oregano og hvitløk – laget for chili con carne, og relativt mild. Norsk **chilipulver** er ren, malt chili og langt sterkere. ½ ts av den norske varianten gir en helt annen og mye hetere rett. Vil du treffe originalen, bruk en taco- eller chilikrydderblanding, eller bland selv: ¼ ts paprikapulver, ¼ ts spisskummen *(Presisert fra ⅛ ts.)*, en klype oregano og en knivsodd chili.
 - **Russet er bakepotet.** Kilden velger den fordi den er stivelsesrik og har lite vann – det gir melen kjerne og sprø overflate. Norske melne sorter som Beate, Kerrs Pink og Pimpernel gjør samme nytte, det samme gjør poteter merket «bakepotet» i dagligvaren. Fastkokende poteter blir vokse og gir aldri samme kontrast.
 - **Kilden motsier seg selv om ristingen.** Oppskriftskortet sier at du skal riste kurven halvveis, mens den illustrerte fremgangsmåten ikke nevner det – og begge deler ber deg legge båtene med skinnsiden ned. Rister du, ryker den plasseringen. Velg: enten legger du dem pent med skinnsiden ned og lar dem ligge, eller så rister du og godtar ujevn farge. Skinnsiden ned gir jevnest resultat.
 - **Ekstratiden spriker også:** 3–5 minutter i brødteksten, 5 minutter i kortet. Uansett bør du følge med – parmesanen og krydderne bruner raskere enn poteten.
@@ -15428,7 +15428,7 @@ Samme rett som [T9](#t9-hvitløksbønner-din-tai-fung-stil), men en langt letter
 - 450 g grønne bønner
 - 2 ss finhakket hvitløk (4–5 fedd)
 - ½ ts salt *(litt mindre hvis du bruker fint salt)*
-- 15 g nøytral olje med høyt røykpunkt *(mengde lagt til.)*
+- Nøytral olje med høyt røykpunkt — ca. 5 dl, nok til 1,5 cm i gryten *(mengde lagt til)*
 
 ### Fremgangsmåte
 
@@ -15466,14 +15466,14 @@ Fersk salsa av mango og avokado i terninger, med jalapeño, lime og koriander. I
 - 1 avokado, i terninger
 - 1 jalapeño, i terninger *(eller ¼ grønn paprika hvis du ikke vil ha styrke)*
 - Saften av 1 lime
-- Koriander eller persille, hakket, etter smak — ca. ½ dl *(mengde lagt til)*
+- Koriander eller persille, hakket, etter smak — ca. 10 g *(mengde lagt til)*
 - 1 klype salt, etter smak *(se notat)*
 - 1 ss olivenolje
 - Tajín-krydder *(valgfritt – se notat)*
 
 **Hjemmelagde tortillachips** *(valgfritt)*
 - 3 små hvetetortillaer
-- 5 g sprayolje eller litt olje *(mengde lagt til.)*
+- 1 ts olje eller litt sprayolje *(mengde lagt til)*
 - Salt
 
 ### Fremgangsmåte
@@ -15495,7 +15495,7 @@ Fersk salsa av mango og avokado i terninger, med jalapeño, lime og koriander. I
 - **Ingen løk i denne salsaen.** Det er uvanlig – [pico de gallo (T20)](#t20-pico-de-gallo) og de fleste ferske salsaer bygger på løk. Vil du ha bitt og skarphet, er ½ finhakket rødløk et naturlig tilskudd.
 - **Olivenolje er heller ikke tradisjonelt** i en meksikansk salsa; den gjør retten mer til en salat. Sløyfer du den, blir salsaen friskere og lettere, men limen dominerer mer.
 - **Avokadoen mørkner.** Limesaften bremser det, men ikke mer enn et par timer. Lag salsaen samme dag, og vend gjerne avokadoen inn helt til slutt hvis du forbereder resten. *(Lagt til; kilden sier ingenting om oppbevaring.)*
-- **Urtemengden er ikke oppgitt.** Regn en god neve, ca. ½ dl hakket. Koriander deler folk – persille er kildens eget alternativ, som i [T20](#t20-pico-de-gallo).
+- **Urtemengden er ikke oppgitt.** Regn en god neve, ca. 10 g. Koriander deler folk – persille er kildens eget alternativ, som i [T20](#t20-pico-de-gallo).
 - **Chipsene er en egen liten oppskrift** gjemt inne i fremgangsmåten. Ovnstemperaturen er entydig oppgitt med både 400 °F og 200 °C. Bruker du norske hvetelefser, blir de tynnere enn amerikanske tortillaer og trenger nærmere 6–8 minutter – følg med fra 5.
 - **Samlingen etterspurte allerede denne.** [Mango- og kokoskarri med laks (nr. 51)](#51-mango--og-kokoskarri-med-laks) har «mangosalsa i terninger» som valgfritt tilbehør uten å oppgi noen oppskrift. Nå finnes den.
 
@@ -15512,7 +15512,7 @@ Fem ingredienser i like deler: soyasaus, kinesisk svart eddik og chiliolje, med 
 - 1 ss soyasaus
 - 1 ss kinesisk svart eddik (chinkiang)
 - 1 ss chiliolje
-- ½ ss sesamfrø
+- 1½ ts sesamfrø
 - 1 vårløk, finhakket
 - ¼ ts sukker *(valgfritt)*
 
@@ -15542,8 +15542,8 @@ Tynne potetskiver bakt i fløte og melk trukket med timian, rosmarin, laurbær o
 ### Ingredienser
 
 - 1,5 kg poteter, skrelt *(se notat om sort)*
-- 300 ml kremfløte, minst 30 % fett
-- 450 ml helmelk
+- 3 dl kremfløte, minst 30 % fett
+- 4,5 dl helmelk
 - 6 kvister fersk timian
 - 1 kvist rosmarin
 - 2 laurbærblad
@@ -15616,7 +15616,7 @@ Tynne potetskiver bakt i fløte og melk trukket med timian, rosmarin, laurbær o
 **Kilde:** gjengitt oppskrift *(opphavsperson ikke oppgitt)* · **Kjøkken:** Asiatisk-inspirert · **Tid:** 5 min + marinering · **Gir:** ca. 1,2 dl, nok til ca. 500 g kjøtt *(ikke oppgitt i kilden)*
 
 ### Ingredienser
-- 60 ml ananasjuice
+- 4 ss ananasjuice
 - 2 ss soyasaus
 - 1 ss finhakket hvitløk
 - 1 ss løkpulver
