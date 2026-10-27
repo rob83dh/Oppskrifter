@@ -16112,7 +16112,7 @@ Peppersaus laget i pannen rett etter biffen, så alt stekefettet og den brune bu
 2. **Smelt smøret** i samme panne, så all smaken fra stekingen blir med.
 3. **Surr løken** i **2–3 minutter**. Den skal være finhakket.
 4. **Hvitløk og pepper i.** Tilsett hvitløken og den grovknuste pepperen, og stek **1 minutt**.
-5. **Kok inn kraften.** Hell i oksekraften og la den koke inn til halvparten på middels lav varme – det skal bobles.
+5. **Kok inn kraften.** Hell i oksekraften og la den koke inn til halvparten på middels lav varme – det skal boble.
 6. **Fløten i.** Tilsett fløten og la sausen koke inn og tykne i **ca. 15 minutter**.
 7. **Ferdig** når sausen dekker baksiden av en skje.
 
@@ -16124,9 +16124,9 @@ Peppersaus laget i pannen rett etter biffen, så alt stekefettet og den brune bu
 - **Sjalottløk er riktigere enn løk.** Kilden sier bare «onion» uten størrelse. En hel vanlig løk er mye og gir en søtere, grovere saus – **2 sjalottløk** ligger nærmere den franske originalen og løser seg bedre opp. Uansett: så finhakket som du klarer. *(Anbefaling lagt til.)*
 - **Saltet er utelatt fra oppskriften.** Oksekraft på terning er allerede salt, hjemmelaget kraft er det ikke. Smak til på slutten, etter innkokingen, når saltet er konsentrert. *(Lagt til.)*
 - **15 minutter er for lenge for 2 dl fløte.** Sausen er som regel ferdig etter **5–10 minutter**. Gå etter skjeen, ikke klokka – koker du for lenge, blir den seig og fettet kan skille seg ut. *(Korreksjon lagt til.)*
-- **Konjakk er den klassiske ingrediensen som mangler.** I en tradisjonell sauce au poivre deles pannen opp med 2–3 ss konjakk før kraften går i. Det gir dybde og en aroma peppersausen ellers ikke får. Anbefales. *(Lagt til.)*
+- **Konjakk er den klassiske ingrediensen som mangler.** I en tradisjonell sauce au poivre kokes pannen ut med 2–3 ss konjakk før kraften går i. Det gir dybde og en aroma peppersausen ellers ikke får. Anbefales. *(Lagt til.)*
 - **Bruk kremfløte på 38 %.** Matlagingsfløte har for lite fett til å tykne ved innkoking, og skiller seg lettere.
-- **Ikke tørk ut pannen etter biffen.** Fondet – de brune restene i bunnen – er halve smaken. Skrap dem løs når kraften går i.
+- **Ikke tørk ut pannen etter biffen.** Stekeskorpen – de brune restene i bunnen – er halve smaken. Skrap dem løs når kraften går i.
 - **Beslektet:** [Steak Diane (nr. 124)](#124-steak-diane) bygger samme type pannesaus med sennep og worcestershire, og [chimichurri (T14)](#t14-chimichurri) er alternativet når du vil ha noe friskt i stedet for kremet til biffen. Passer godt sammen med [fondantpoteter (T17)](#t17-fondantpoteter) eller [potetpavé (T18)](#t18-potetpavé).
 
 ---
@@ -16161,14 +16161,14 @@ Rask chiliolje der varm olje helles over tørre krydder og revet hvitløk og ing
 
 - **«2 minutter» er ingen temperaturangivelse.** Avhengig av kjele og komfyr kan 3,2 dl olje ligge alt fra 120 til over 220 °C etter to minutter. Riktig er **175–190 °C**: kaldere, og krydderet infuseres aldri ordentlig; varmere, og chiliflakene brenner i det oljen treffer og hele porsjonen blir bitter. Bruk termometer, eller stikk ned en tresleiv – bruser det jevnt rundt den, er du omtrent der. *(Presisering lagt til.)*
 - **Rå hvitløk og ingefær i olje krever kjøleskap.** Dette er den store forskjellen fra [T10](#t10-hvitløks-chiliolje-chili-crisp), der hvitløken frityrstekes først. Rå hvitløk lagret i olje ved romtemperatur er en kjent kilde til botulisme, fordi oljen gir et oksygenfritt miljø. Oljen som helles over, varmer hvitløken delvis, men ikke pålitelig nok til å regne den som stekt. **Oppbevar glasset i kjøleskap og bruk oljen innen et par uker.** Vil du ha en olje som tåler å stå fremme, stek hvitløken og ingefæren i oljen først og sil dem fra, slik T10 gjør. *(Matsikkerhetsnotat lagt til.)*
-- **Fersk hvitløk og ingefær inneholder vann**, og spruter kraftig når 190-gradig olje treffer. Bruk en bolle som er minst dobbelt så stor som du tror du trenger, sett den i vasken, og hell oljen i to–tre omganger. Samme fallgruve som i T10, men verre her på grunn av de ferske ingrediensene.
+- **Fersk hvitløk og ingefær inneholder vann**, og spruter kraftig når olje på 190 °C treffer. Bruk en bolle som er minst dobbelt så stor som du tror du trenger, sett den i vasken, og hell oljen i to–tre omganger. Samme fallgruve som i T10, men verre her på grunn av de ferske ingrediensene.
 - **Chiliflakene avgjør styrken fullstendig.** Kilden oppgir 120 ml og sier ikke hvilken type. Koreansk gochugaru og kinesiske sichuan-flak er milde og aromatiske; europeiske knuste chiliflak eller cayenne i samme mengde gir noe langt sterkere. Vet du ikke hva du har, start med halvparten. *(Presisering lagt til.)*
 - **Kashmiri chilipulver er der for fargen, ikke styrken.** Det er mildt og dyprødt, og fås i indiske butikker på Grønland. Erstatning: 1 ss søtt paprikapulver og en knivsodd cayenne. *(Erstatning lagt til.)*
 - **Saltmengden er ikke oppgitt.** Regn ½ ts til denne mengden.
-- **Australsk spiseskje er 20 ml**, som kilden selv bekrefter ved å oppgi 20 ml for soyasausen. Mengdene over er derfor regnet om til gram og norske mål. Se samme presisering i [nr. 130](#130-kremet-hvitløks--og-sennepskylling--chef-jack-ovens-sin-versjon).
+- **Australsk spiseskje er 20 ml**, som kilden selv bekrefter ved å oppgi 20 ml for soyasausen. Mengdene over er derfor regnet om til gram og norske mål. Se samme presisering i [kremet hvitløks- og sennepskylling (nr. 130)](#130-kremet-hvitløks--og-sennepskylling--chef-jack-ovens-sin-versjon).
 - **Soyasausen skal i etter at oljen har falt til ro**, ikke mens den fortsatt er glovarm – den er full av vann og spruter. Den forkorter også holdbarheten. Vil du ha lengst mulig holdbarhet, sløyf den.
 - **Bruk et rent og helt tørt glass.** Vanndråper i glasset gir kortere holdbarhet uansett hvor godt resten er gjort.
-- **Sammenlign med [T10](#t10-hvitløks-chiliolje-chili-crisp).** Den bruker 7 dl olje, frityrsteker hvitløk og sjalottløk til sprø biter og gir en liter chili crisp med tekstur. Denne er en fjerdedel så stor, tar ti minutter og gir en glatt, aromatisk olje uten crunch. Til dumplings og nudler vil de fleste foretrekke T10; denne er bedre som ren olje til å dryppe over ferdige retter.
+- **Sammenlign med [hvitløks-chilioljen (T10)](#t10-hvitløks-chiliolje-chili-crisp).** Den bruker 7 dl olje, frityrsteker hvitløk og sjalottløk til sprø biter og gir en liter chili crisp med tekstur. Denne er en fjerdedel så stor, tar ti minutter og gir en glatt, aromatisk olje uten crunch. Til dumplings og nudler vil de fleste foretrekke T10; denne er bedre som ren olje til å dryppe over ferdige retter.
 - **Brukes i** blant annet [spicy peanøttnudler (nr. 52)](#52-spicy-peanøttnudler), [sprø rissalat (nr. 139)](#139-sprø-rissalat-med-kylling-og-gochujangmajones) og [dumplingsaus (T5)](#t5-dumplingsaus).
 
 ---
@@ -16195,7 +16195,7 @@ Sjalottløk kokt inn med hvitvin og kalvefond, fylt ut med fløte og satt med Sa
 ### Fremgangsmåte *(rekonstruert – se notat)*
 
 1. **Finhakk sjalottløken** og surr den i smør på lav varme til den er helt myk, uten å ta farge.
-2. **Del opp med hvitvinen** og kok den inn til omtrent en fjerdedel.
+2. **Hvitvinen i.** Hell den i og kok den inn til omtrent en fjerdedel.
 3. **Kalvefonden i.** Tilsett den forsiktig, litt om gangen, og smak underveis.
 4. **Fløten i.** Hell i fløten og la sausen småkoke til den tykner og dekker baksiden av en skje.
 5. **Osten i.** Smuldre i Saint Agur og rør til den er smeltet. Ikke la sausen koke etter dette.
@@ -16226,7 +16226,7 @@ Guacamole laget på klassisk vis i morter, der løk, chili og koriander støtes 
 ### Ingredienser
 
 - 3 modne avokadoer
-- 1 tomat, uten det vandige innmatet
+- 1 tomat, uten den vandige innmaten
 - ¼ rødløk
 - 1 fersk jalapeño
 - 20 g fersk koriander
@@ -16239,7 +16239,7 @@ Guacamole laget på klassisk vis i morter, der løk, chili og koriander støtes 
 ### Fremgangsmåte
 
 1. **Støt smaksbunnen.** Finhakk løk, fersk jalapeño og koriander. Bruk en morter og støt ingrediensene til de mykner og smakene frigjøres.
-2. **Klargjør tomaten.** Del den og fjern det vandige innmatet. Skjær tomatkjøttet i små terninger.
+2. **Klargjør tomaten.** Del den og fjern den vandige innmaten. Skjær tomatkjøttet i små terninger.
 3. **Avokadoen i.** Halver avokadoene og fjern steinen forsiktig. Skrap ut fruktkjøttet med en skje og mos det ned i morteren.
 4. **Bland.** Tilsett de finhakkede tomatene og press i fersk limesaft. Bland rundt.
 5. **Smak til** med salt, pepper og lime etter egen smak. Server.
@@ -16248,7 +16248,7 @@ Guacamole laget på klassisk vis i morter, der løk, chili og koriander støtes 
 
 - **Støtingen er hele poenget, og bør skje med salt.** Kilden ber deg støte løk, chili og koriander, men nevner ikke saltet før helt til slutt. Salt i morteren fra start fungerer som slipemiddel og bryter ned cellene langt raskere – det er slik en *molcajete* brukes i Mexico. Ha i ½ ts salt sammen med smaksbunnen i punkt 1. *(Presisering lagt til.)*
 - **En vanlig morter er for liten til tre avokadoer.** Skal du følge oppskriften bokstavelig, trenger du en stor steinmorter. Enklere: støt smaksbunnen i morteren, og flytt pastaen over i en bolle før avokadoen moses ned i den. Resultatet blir det samme. *(Praktisk løsning lagt til.)*
-- **Avokadoen skal moses grovt, ikke mikses glatt.** Guacamole skal ha biter i seg. Bruk gaffel eller mortestøter, aldri stavmikser – da blir den til grønn krem.
+- **Avokadoen skal moses grovt, ikke mikses glatt.** Guacamole skal ha biter i seg. Bruk gaffel eller morterstøter, aldri stavmikser – da blir den til grønn krem.
 - **Jalapeñoens frø og hinner er der styrken sitter.** Kilden sier ikke om de skal fjernes. Vil du ha den mild, skrap dem ut; vil du ha styrke, ta med. Fersk jalapeño fås i norske butikker, men er ofte mildere enn den meksikanske. *(Lagt til.)*
 - **20 g koriander er en hel potte** og gir en tydelig korianderdrevet guacamole. Bruk både stilker og blader – stilkene har mest smak og egner seg best til støting.
 - **Å fjerne tomatens innmat er ikke pirk.** Kjernene og saften er nesten rent vann og gjør guacamolen løs og grå. Kilden har rett i å insistere på det.
@@ -16282,15 +16282,15 @@ Majones pisket fra bunnen med sriracha og sprø chiliolje rørt inn i eggeplomme
 
 ### Notater
 
-- **Chilioljen inneholder olje, og det påvirker emulsjonen.** En spiseskje sprø chiliolje er delvis fett som går inn i basen før den nøytrale oljen. Det er uproblematisk, men betyr at du bør helle den *jevne* oljen enda saktere de første 30 sekundene – emulsjonen er litt mer skjør enn i en ren majones. *(Presisering lagt til.)*
+- **Chilioljen inneholder olje, og det påvirker emulsjonen.** En spiseskje sprø chiliolje er delvis fett som går inn i basen før den nøytrale oljen. Det er uproblematisk, men betyr at du bør helle den nøytrale oljen enda saktere de første 30 sekundene – emulsjonen er litt mer skjør enn i en ren majones. *(Presisering lagt til.)*
 - **De sprø bitene forsvinner delvis i vispingen.** Vil du beholde crunchen som navnet lover, hold igjen halvparten av chilioljen og vend den inn helt til slutt, uvispet. Da får du både farge og tekstur. *(Anbefaling lagt til.)*
-- **Stavmikser går raskere enn visp.** Kilden bruker visp, som fungerer, men krever 8–10 minutters kontinuerlig arbeid og en fuktig klut under bollen. Med stavmikser i et høyt, smalt glass er den ferdig på et halvminutt – se metoden i [T122](#t122-majones). *(Alternativ lagt til.)*
-- **Skiller den seg**, ha en fersk eggeplomme i en ren bolle og spe den skilte blandingen ned i den, litt om gangen, mens du visper. Samme redning som i [T122](#t122-majones).
+- **Stavmikser går raskere enn visp.** Kilden bruker visp, som fungerer, men krever 8–10 minutters kontinuerlig arbeid og en fuktig klut under bollen. Med stavmikser i et høyt, smalt glass er den ferdig på et halvminutt – se metoden i [majonesen (T122)](#t122-majones). *(Alternativ lagt til.)*
+- **Skiller den seg**, ha en fersk eggeplomme i en ren bolle og spe den skilte blandingen ned i den, litt om gangen, mens du visper. Samme redning som i [majonesen (T122)](#t122-majones).
 - **2–3 dl olje til 2 plommer er trygt.** Én plomme takler godt over 1,5 dl. Vil du ha den tykkere, gå mot 3 dl; er den for tykk, spe med romtemperert vann.
 - **Romtempererte plommer emulgerer lettere.** Ta dem ut 20 minutter før.
 - **Rå eggeplomme er uproblematisk i Norge** – norske egg har kontrollert salmonellastatus. Er du gravid eller har nedsatt immunforsvar, bruk pasteurisert eggeplomme.
-- **Lao Gan Ma** fås i asiatiske butikker på Grønland og Tøyen, og i noen større dagligvarebutikker. Samlingens egen [hvitløks-chiliolje (T10)](#t10-hvitløks-chiliolje-chili-crisp) fungerer minst like godt her og har mer sprø løk i seg. [Chiliolje – Chef Jack Ovens sin versjon (T45)](#t45-chiliolje--chef-jack-ovens-sin-versjon) er glattere og gir mindre tekstur.
-- **Riseddik gjør denne til en slektning av Kewpie**, som også syres med riseddik i stedet for sitron. Se [T39](#t39-sesamdressing-til-kålsalat) og notatet i [nr. 47](#47-enkel-ramen-med-kylling--matkanalen-sin-versjon).
+- **Lao Gan Ma** fås i asiatiske butikker på Grønland og Tøyen, og i noen større dagligvarebutikker. [Hvitløks-chilioljen (T10)](#t10-hvitløks-chiliolje-chili-crisp) fungerer minst like godt her og har mer sprø løk i seg. [Chiliolje – Chef Jack Ovens sin versjon (T45)](#t45-chiliolje--chef-jack-ovens-sin-versjon) er glattere og gir mindre tekstur.
+- **Riseddik gjør denne til en slektning av Kewpie**, som også syres med riseddik i stedet for sitron. Se [sesamdressingen (T39)](#t39-sesamdressing-til-kålsalat) og notatet i [enkel ramen med kylling (nr. 47)](#47-enkel-ramen-med-kylling--matkanalen-sin-versjon).
 - **Holdbarhet:** 3–4 dager i kjøleskap i tett glass, siden plommene er rå. Kortere enn ferdigkjøpt majones med sriracha rørt i.
 - **Passer til** [hoisinsvin med chilimajones (nr. 108)](#108-hoisinsvin-med-chilimajones), [sprø risbiter med laks (S8)](#s8-sprø-risbiter-med-laks) og [sushikopper med reker (S6)](#s6-sushikopper-med-reker), som alle bruker sriracha rørt i ferdig majones – denne er oppgraderingen.
 
@@ -16333,7 +16333,7 @@ Mais stekt til den karamelliserer, blandet med rødløk, jalapeño og yoghurt, m
 - **Frossen mais fungerer, men må tørkes.** Tin den og klem den tørr i kjøkkenpapir – ellers avgir den vann og blir aldri brun. Hermetisk mais renner du av og tørker på samme måte. Ferske kolber gir best resultat; skjær kornene av med kniven loddrett langs kolben. *(Lagt til.)*
 - **2 dl maiskorn tilsvarer ikke 4 kolber.** Fire kolber gir nærmere 350–400 g korn. Enten er volumangivelsen for lav eller kolbeantallet for høyt – gå etter **ca. 140 g (2 dl)**, som stemmer med resten av mengdene. *(Avvik notert.)*
 - **Fetamengden er vag.** «½ fetaost» blir 75–100 g avhengig av pakken. Det er passe.
-- **Dette er en variant av mexicansk esquites** – maissalaten som selges i kopper på gaten, tradisjonelt med majones, chilipulver, lime og cotija-ost. Her er majonesen byttet mot yoghurt og cotijaen mot feta, som er den vanlige nordiske erstatningen. Vil du nærmere originalen, bland i 1 ss majones og dryss over chilipulver. *(Bakgrunn lagt til.)*
+- **Dette er en variant av meksikansk esquites** – maissalaten som selges i kopper på gaten, tradisjonelt med majones, chilipulver, lime og cotija-ost. Her er majonesen byttet mot yoghurt og cotijaen mot feta, som er den vanlige nordiske erstatningen. Vil du nærmere originalen, bland i 1 ss majones og dryss over chilipulver. *(Bakgrunn lagt til.)*
 - **Ingen chilipulver i oppskriften.** Jalapeñoen står for styrken, og den er mild i norske butikker. Et dryss røkt paprikapulver eller chipotlepulver på toppen løfter retten mye. *(Forslag lagt til.)*
 - **Best samme dag.** Maisen mister sprøheten og yoghurten tynnes ut av væsken fra løken over natten.
 - **Beslektet:** [pico de gallo (T20)](#t20-pico-de-gallo), [mango- og avokadosalsa (T25)](#t25-mango--og-avokadosalsa) og [guacamole (T47)](#t47-guacamole) hører til samme bord. Maissalsaen i [sprø peruansk kylling med ají verde og maissalsa (nr. 147)](#147-sprø-peruansk-kylling-med-ají-verde-og-maissalsa) er en tørrere variant av samme idé.
@@ -16361,9 +16361,9 @@ Fransk klassiker: hårtynne potetskiver lagt i lag med klaret smør, presset und
 
 ### Notater
 
-- **Advarselen i punkt 4 er alvorlig ment.** Det kan ligge halvannen desiliter 180-gradig smør i formen, og velter du uten å tømme det først, renner det over hånden din. Hold formen over en skål, press et lokk eller brett mot potetene, og hell av alt før du snur. *(Understreket.)*
+- **Advarselen i punkt 4 er alvorlig ment.** Det kan ligge halvannen desiliter smør på 180 °C i formen, og velter du uten å tømme det først, renner det over hånden din. Hold formen over en skål, press et lokk eller brett mot potetene, og hell av alt før du snur. *(Understreket.)*
 - **La blokken hvile 10–15 minutter før du velter.** Da setter stivelsen seg og lagene holder sammen. Kilden nevner det ikke, men det er forskjellen på en hel kake og en haug potetskiver. *(Lagt til.)*
-- **Ikke skyll potetskivene.** Stivelsen på overflaten er limet som binder lagene. Kilden sier ingenting om skylling, og det er riktig – klassisk Pommes Anna skylles aldri. Skjær og legg dem rett i formen, og jobb raskt så de ikke mørkner. Se den lengre diskusjonen i [T18](#t18-potetpavé). *(Presisering lagt til.)*
+- **Ikke skyll potetskivene.** Stivelsen på overflaten er limet som binder lagene. Kilden sier ingenting om skylling, og det er riktig – klassisk Pommes Anna skylles aldri. Skjær og legg dem rett i formen, og jobb raskt så de ikke mørkner. Se den lengre diskusjonen i [potetpavéen (T18)](#t18-potetpavé). *(Presisering lagt til.)*
 - **Maris Piper er britisk og finnes ikke i Norge.** Det er en melen allroundpotet – norske motsvarigheter er **Beate, Kerrs Pink eller Pimpernel**. Fastkokende sorter som Asterix binder ikke, og blokken faller fra hverandre. *(Erstatning lagt til.)*
 - **Skivetykkelsen er ikke oppgitt.** Bruk mandolin og skjær **1–1,5 mm**. Med kniv blir de ujevne, og ujevne lag gir hull og luftlommer. *(Lagt til.)*
 - **250 g smør gir ca. 200 g klaret smør.** Resten er vann og melkeproteiner som fjernes. Ghee fungerer direkte og sparer deg for steg 1 – det fås i asiatiske butikker og i større dagligvarebutikker.
