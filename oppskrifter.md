@@ -19291,7 +19291,7 @@ Hele hvitløksfedd trukket møre i olivenolje på lav varme. Du får to ting: my
 
 ### Ingredienser
 
-- 3 hele hvitløk, delt i fedd og skrelt *(ca. 150 g)*
+- 3 hvitløkshoder, delt i fedd og skrelt *(ca. 150 g)*
 - 3 dl olivenolje
 - 2 kvister timian
 - 1 laurbærblad
@@ -19310,8 +19310,8 @@ Hele hvitløksfedd trukket møre i olivenolje på lav varme. Du får to ting: my
 - **Feddene skal være helt dekket** av olje. Deler som stikker opp, blir mørke og harde.
 - **Dette må stå kaldt.** Hvitløk i olje ved romtemperatur er et kjent miljø for botulisme, siden oljen stenger ute oksygen. I kjøleskap og innen to uker er det trygt. Vil du oppbevare lenger, frys feddene og oljen hver for seg.
 - **Oljen er halve gevinsten.** Den er ferdig hvitløksolje til dressinger, stekefett og brød.
-- **Holdbarhet:** 2 uker kjøleskap. 6 måneder fryser.
-- **Brukes i** [nr. 111](#111-braiserte-short-ribs-med-hvitløkskonfit-potetmos).
+- **Holdbarhet:** 2 uker i kjøleskap, 6 måneder i fryseren.
+- **Brukes i** [braiserte short ribs (nr. 111)](#111-braiserte-short-ribs-med-hvitløkskonfit-potetmos).
 
 ---
 
@@ -19328,7 +19328,7 @@ Yoghurt silt til den er tykk som ferskost. To ingredienser og ett døgn i kjøle
 
 **Til servering**
 - Olivenolje
-- Za'atar, se [G20](#g20-zaatar)
+- Za'atar, se [za'atar (G20)](#g20-zaatar)
 
 ### Fremgangsmåte
 
@@ -19344,8 +19344,8 @@ Yoghurt silt til den er tykk som ferskost. To ingredienser og ett døgn i kjøle
 - **Mysen som renner av** er ikke søppel. Den kan brukes i brøddeig i stedet for vann, eller i smoothie.
 - **Vanlig yoghurt fungerer,** men gir mindre igjen. 1 kg gresk yoghurt gir ca. 600 g labneh, 1 kg vanlig gir ca. 400 g.
 - **Saltet må i før silingen**, ikke etter. Det er det som driver væsken ut.
-- **Holdbarhet:** 1 uke kjøleskap. Kuler dekket av olivenolje holder 3 uker.
-- **Beslektet:** [T40](#t40-hummus) og [T60](#t60-baba-ganoush) hører til samme bord.
+- **Holdbarhet:** 1 uke i kjøleskap. Kuler dekket av olivenolje holder 3 uker.
+- **Beslektet:** [hummus (T40)](#t40-hummus) og [baba ganoush (T60)](#t60-baba-ganoush) hører til samme bord.
 
 ---
 
@@ -19361,7 +19361,7 @@ Risen skylles flere ganger og bløtlegges en halvtime før koking. Derfor er van
 - 4,2 dl vann
 - 1 ts salt
 - 2–3 ss riseddik
-- 2–3 ss mirin *(japansk sukkerlake)*
+- 2–3 ss mirin *(søt japansk risvin)*
 
 ### Fremgangsmåte
 
@@ -19421,7 +19421,7 @@ Frosne erter kokt i buljong og most med smør. Den grønne motvekten til brun sa
 ### Ingredienser
 
 - 400 g frosne grønne erter
-- 3 dl kjøttbuljong eller grønnsakbuljong
+- 3 dl kjøttbuljong eller grønnsaksbuljong
 - 30 g smør
 - ¼ ts pepper
 - Salt, etter smak
@@ -19440,13 +19440,13 @@ Frosne erter kokt i buljong og most med smør. Den grønne motvekten til brun sa
 - **Tre minutter, ikke ti.** Ertene er allerede blansert før frysing. Lenger koking gir gråbrun puré i stedet for grønn.
 - **Grov eller fin er et valg.** Potetmoser gir rustikk puré med tekstur; stavmikser gir glatt. Den grove holder seg bedre på tallerkenen ved siden av saus.
 - **Ertestuing er samme rett med hvit jevning.** Vil du ha den, lag en jevning av 2 ss smør og 2 ss mel, spe med buljong og melk, og vend ertene inn hele.
-- **Beslektet:** [Hellstrøms grønne ertepuré (T77)](#t77-hellstrøms-grønne-ertepuré) er den franske versjonen med mynte, og [kjøttkaker med kålstuing (nr. 195)](#195-kjøttkaker-med-kålstuing) er retten den hører til.
+- **Beslektet:** [Hellstrøms grønne ertepuré (T77)](#t77-hellstrøms-grønne-ertepuré) er den franske versjonen med mye smør, og [kjøttkaker med kålstuing (nr. 195)](#195-kjøttkaker-med-kålstuing) er retten den hører til.
 
 ---
 
 ## T137. Rørte tyttebær
 
-**Kilde:** Klassisk standardversjon · **Kjøkken:** Norsk · **Tid:** 10 min + 1 døgn trekking · **Porsjoner:** ca. 5 dl
+**Kilde:** Klassisk standardversjon · **Kjøkken:** Norsk · **Tid:** 10 min + 1 døgn trekking · **Gir:** ca. 5 dl
 
 Tyttebær og sukker rørt sammen kaldt. **Ingen koking** — bærene inneholder så mye benzosyre at de konserverer seg selv. Det er derfor rørte tyttebær smaker friskere enn syltetøy.
 
@@ -19464,7 +19464,7 @@ Tyttebær og sukker rørt sammen kaldt. **Ingen koking** — bærene inneholder 
 
 ### Notater
 
-- **Halvparten så mye sukker som bær** er den klassiske forholdstallet. Vil du ha syrligere, kan du gå ned til 300 g, men da holder de seg kortere.
+- **Halvparten så mye sukker som bær** er det klassiske forholdstallet. Vil du ha syrligere, kan du gå ned til 300 g, men da holder de seg kortere.
 - **Benzosyren gjør koking unødvendig.** Tyttebær er ett av få bær som konserverer seg selv. Koker du dem, ødelegger du både friskheten og den rå bærsmaken som er hele poenget.
 - **Rør lenge nok.** Sukkeret skal løses av bærsaften, ikke av varme. Slutter du for tidlig, kjenner du sukkerkorn i flere uker.
 - **Holdbarhet:** flere måneder i kjøleskap. Åpnet glass bør stå kaldt.
@@ -19516,7 +19516,7 @@ Melne poteter, varm melk og smør. **Rekkefølgen er hele oppskriften:** smør f
 
 ### Ingredienser
 
-- 1 kg melne poteter, gjerne Beate, Pimpernell eller Kerrs Pink
+- 1 kg melne poteter, gjerne Beate, Pimpernel eller Kerrs Pink
 - 1,5 dl helmelk
 - 100 g smør, i terninger
 - 1 ts salt
