@@ -20158,7 +20158,7 @@ Hjemmelagde dumplings med kyllingfarse, stekt med maizenablanding så de får sp
 
 **Maizenablanding**
 - 2 ts maizena
-- Ca. 0,8 dl vann
+- 80 g vann
 
 **Dippsaus** (mengder ikke oppgitt – smak til)
 - Hoisin
@@ -20244,7 +20244,7 @@ Familieoppskrift ført videre fra forfatterens shanghainesiske bestemor. Fyllet 
 - 450 g svinekjøttdeig
 - 1350 g pak choi (baby eller vanlig)
 - 2 ss soyasaus
-- ca. 6 g salt *(se notat om saltmengde)*
+- 6 g salt, ca. 1 ts fint salt *(se notat om saltmengde)*
 - 1½ ts sukker
 - 3 dryss hvit pepper
 
@@ -20279,7 +20279,7 @@ Familieoppskrift ført videre fra forfatterens shanghainesiske bestemor. Fyllet 
 
 **Koking**
 
-10. **Kok dem.** Kok opp en stor kjele med vann og salt det som til pasta. Slipp wontonene forsiktig i ved fossende koking, uten å overfylle kjelen — kok i flere omganger. La dem koke til de flyter opp, ca. 1–2 minutter. Hell i ca. 2½ dl kaldt vann og vent til det koker opp igjen, ca. 45–60 sekunder. Sil av eller løft dem ut med hullsleiv.
+10. **Kok dem.** Kok opp en stor kjele med vann og salt det som til pasta. Slipp wontonene forsiktig i ved fossende koking, uten å overfylle kjelen — kok i flere omganger. La dem koke til de flyter opp, ca. 1–2 minutter. Hell i ca. 2,5 dl kaldt vann og vent til det koker opp igjen, ca. 45–60 sekunder. Sil av eller løft dem ut med hullsleiv.
 11. **Server** enten med dippsaus, i varm kyllingkraft med vårløk, eller la dem tørke 10–15 minutter etter kokingen og stek dem gyllne i panne.
 
 ### Notater
@@ -20289,7 +20289,7 @@ Familieoppskrift ført videre fra forfatterens shanghainesiske bestemor. Fyllet 
 - **Forholdet 3:1 pak choi til kjøtt er et bevisst valg**, ikke en standard. Vil du ha kjøttrikere fyll, kan du gå helt opp til 1350 g kjøttdeig totalt for 1:1, og øke krydderet tilsvarende.
 - **Eltingen i 5 minutter er ikke valgfri.** Det er den som binder fyllet og gir spretten. Håndmikser med eltekrok fungerer hvis armen streiker.
 - **Bruker du kylling- eller kalkundeig i stedet for svin**, tilsett litt olje i fyllet. Magert fjærkre gir tørre wontons — det trengs fett for en saftig munnfull.
-- **Panne­steking:** 1 ss olje i en 25–28 cm **slippbelagt** panne. Legg wontonene i sirkler uten at de rører hverandre, hell over 2½ dl kaldt vann, legg på lokk og sett på middels sterk varme. Kok til vannet nesten er borte, 6–7 minutter, skru ned til middels og stek videre til bunnene er gyllenbrune og sprø.
+- **Panne­steking:** 1 ss olje i en 25–28 cm **slippbelagt** panne. Legg wontonene i sirkler uten at de rører hverandre, hell over 2,5 dl kaldt vann, legg på lokk og sett på middels sterk varme. Kok til vannet nesten er borte, 6–7 minutter, skru ned til middels og stek videre til bunnene er gyllenbrune og sprø.
 - **Fra frossen:** ikke tin. Kokt: rett i kokende vann, lengre tid før de flyter opp, og to omganger med kaldt vann i stedet for én. Stekt: samme metode, 2–3 minutter ekstra.
 - **Frysing:** legg dem enkeltvis på bakepapirkledd brett uten at de rører hverandre, frys et par timer til de er faste, og pakk dem så i pose. Holder en måned.
 - **Kjernetemperatur 74 °C**, eller skjær en i to og sjekk at kjøttet ikke er rosa.
@@ -20361,7 +20361,7 @@ Nori og ris presses ned i en muffinsform, fylles med reker i kremostblanding og 
 - 1 ss majones
 - 2 ts soyasaus
 - Litt sriracha *(valgfritt)*
-- 1 dl ris — jasmin, sushiris eller annen kortkornet
+- 85 g ris — jasmin, sushiris eller annen kortkornet *(Omregnet fra 1 dl.)*
 - 2 noriark
 
 **Til pynt**
