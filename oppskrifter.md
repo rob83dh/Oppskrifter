@@ -1,6 +1,6 @@
 # Oppskriftssamling
 
-Sist oppdatert: 9. august 2026 · **569 oppskrifter** · 192 hovedretter, 79 tilbehør, 68 saus/marinade, 59 supper, 43 småretter, 35 desserter, 32 grunnoppskrifter, 25 salater, 30 sjømat, 17 frokost, 13 brød, 7 bakverk
+Sist oppdatert: 27. oktober 2026 · **570 oppskrifter** · 193 hovedretter, 79 tilbehør, 68 saus/marinade, 60 supper, 43 småretter, 35 desserter, 32 grunnoppskrifter, 25 salater, 30 sjømat, 17 frokost, 13 brød, 7 bakverk
 
 ## Innhold
 
@@ -221,6 +221,7 @@ Sist oppdatert: 9. august 2026 · **569 oppskrifter** · 192 hovedretter, 79 til
 | T116 | [Hellstrøms soyasmørsaus](#t116-hellstrøms-soyasmørsaus) | Saus/Marinade | Fransk-japansk | 10 min | 4 |
 | S36 | [Bao-fyll med sprø kylling](#s36-bao-fyll-med-sprø-kylling) | Smårett | Asiatisk-inspirert | 35 min | 4 |
 | 205 | [Honning- og hvitløksglasert svinesideflesk](#205-honning--og-hvitløksglasert-svinesideflesk) | Hovedrett | Asiatisk-inspirert | 30 min | 3–4 (ikke oppgitt i kilden) |
+| 223 | [Spicy peanøtt-ramen med crispy kjøttdeig](#223-spicy-peanøtt-ramen-med-crispy-kjøttdeig) | Hovedrett · Suppe | Asiatisk-inspirert | 20 min | 2 (ikke oppgitt i kilden) |
 
 ### Italiensk
 
@@ -759,6 +760,7 @@ Ramen-restaurant hjemme på en halvtime. Usøtet soyamelk gir den kremete, hvite
 - **Uten doubanjiang:** bytt til 1 ekstra ss miso pluss litt chiliflak.
 - **Ikke bytt ut soyamelken** med søtet soyadrikk – den usøtede er hele poenget med den kremete buljongen.
 - Oppgitt næringsinnhold fra kilden: ca. 546 kcal per porsjon.
+- **Beslektet:** [spicy peanøtt-ramen med crispy kjøttdeig (nr. 223)](#223-spicy-peanøtt-ramen-med-crispy-kjøttdeig) har samme soyamelk-og-doubanjiang-grunnlag, men med peanøttsmør i stedet for miso og sprø kjøttdeig i stedet for kylling.
 
 ---
 
@@ -1106,6 +1108,7 @@ En av de raskeste rettene du kan lage. Nudler i en nøtteaktig, syrlig og sterk 
 - Sprø chiliolje (chili crisp, f.eks. Lao Gan Ma) finnes i asiatiske butikker og etter hvert i vanlige dagligvarebutikker.
 - Bruk usøtet peanøttsmør hvis du har – honningen dekker sødmebehovet.
 - 5 % kjøttdeig gir lite fett i pannen. Vil du ha mer stekeskorpe, la den ligge i ro i pannen et par minutter før du rører.
+- **Beslektet:** [spicy peanøtt-ramen med crispy kjøttdeig (nr. 223)](#223-spicy-peanøtt-ramen-med-crispy-kjøttdeig) er samme kombinasjon av peanøttsmør og kjøttdeig, servert som ramen i soyamelkbuljong.
 
 ---
 
@@ -1161,6 +1164,7 @@ Kremet, nøtteaktig suppe på soyamelk med udon-nudler og dampede dumplings. Ful
 - **Søt soyasaus** = kecap manis, tykk og sirupsaktig. Ikke det samme som vanlig soyasaus.
 - Antall dumplings er ikke oppgitt i originalen. 8–10 til to personer passer.
 - Sesamfrø nevnes i toppingen, men ikke i ingredienslisten.
+- **Beslektet:** [spicy peanøtt-ramen med crispy kjøttdeig (nr. 223)](#223-spicy-peanøtt-ramen-med-crispy-kjøttdeig) er Ragne Tremoens ramenversjon, med crispy kjøttdeig i stedet for dumplings.
 
 ---
 
@@ -11890,9 +11894,65 @@ Rask hverdagsversjon av bolognese der pastaen kokes ferdig og vendes rett inn i 
 - **150 g pasta til 400 g kjøttdeig** er en uvanlig høy kjøtt-til-pasta-ratio – sausen er ment å være tykk og dominerende, ikke en tynn saus over mye pasta.
 - **Beslektet:** [221. Min beste italienske bolognese](#221-min-beste-italienske-bolognese) er den langtidskokte, autentiske motsatsen med to kjøttslag og hvitvin – denne er expressversjonen med fløte og ferdig krydderblanding.
 
+---
 
+## 223. Spicy peanøtt-ramen med crispy kjøttdeig
 
+**Kilde:** Ragne Tremoen (TikTok, betalt partnerskap, 1629 likes, 12. august 2026) · **Kjøkken:** Asiatisk-inspirert · **Tid:** 20 min · **Porsjoner:** 2 *(ikke oppgitt i kilden)*
 
+Kremet soyamelkbuljong med ingefær, en tykk peanøttpasta rørt ut i bunnen av skåla, og sprøstekt kjøttdeig med chili bean paste på toppen. I familie med japansk tantanmen.
+
+### Ingredienser
+
+**Base** *(alle mengder lagt til – kilden lister bare ingrediensene)*
+- 1 ss nøytral olje
+- 1 liten rødløk, finhakket
+- 1 ss revet ingefær
+- 4 dl kraft (vann + buljong)
+- 4 dl usøtet soyamelk
+- 1–2 ts chili crisp
+
+**Crispy spicy kjøttdeig**
+- 250 g kjøttdeig
+- 1 ss chili bean paste (doubanjiang)
+- 1 ts mushroom soy sauce
+- 1 ts mørk soyasaus
+- 1 ts sesamolje
+- ½ ts sukker eller sukrin
+
+**Peanøttblanding**
+- 3 ss peanøttsmør
+- 1 ss chili bean paste (doubanjiang)
+- 1 ss mushroom soy sauce
+- 1 ts eddik (7 %)
+- 1 ts sukker eller sukrin
+
+**Nudler og topping**
+- 2 porsjoner ramen-nudler (ca. 150 g)
+- 3 vårløk, i tynne strimler
+- 2 bløtkokte egg *(Lagt til.)*
+
+### Fremgangsmåte
+
+1. **Lag basen.** Varm oljen i en kjele og fres rødløk og ingefær på middels varme i 2–3 minutter, til løken er blank. Hell i kraft, soyamelk og chili crisp, og la det småkoke mens du gjør resten. Ikke la det fosskoke – soyamelken kan skille seg.
+2. **Kok eggene** i 6½ minutter og avkjøl dem i kaldt vann. *(Lagt til.)*
+3. **Stek kjøttdeigen crispy.** Stek kjøttdeigen i en godt varm panne. Del den opp, men la den ligge i ro mellom hver gang du rører, til den er brun og sprø i kantene. Smak til med chili bean paste, mushroom soy sauce, mørk soyasaus, sesamolje og sukker, og stek et minutt til.
+4. **Kok nudlene** etter anvisningen på pakken, og sil dem.
+5. **Bland peanøttblandingen** i en bolle: peanøttsmør, chili bean paste, mushroom soy sauce, eddik og sukker. Rør til en tykk pasta.
+6. **Rør ut i skålene.** Fordel peanøttblandingen i bunnen av to skåler. Spe med en øse varm buljong og rør til det er glatt, før du heller i resten.
+7. **Anrett.** Legg i nudlene, og topp med crispy kjøttdeig, masse vårløk og halverte egg.
+
+### Notater
+
+- **Kilden oppgir ingen mengder.** Bildeteksten lister bare ingredienser og trinn, og videoen har ingen tale. Tallene er anslag for de to skålene videoen viser. «En god mengde peanøttsmør» er tolket som 3 ss – smak deg fram.
+- **Eggene står ikke i oppskriften**, men ligger på begge skålene i videoen. Vil du marinere dem, se [ramenegg (T8)](#t8-ramenegg-ajitama).
+- **Videoen viser Coop eddik 7 %**, nesten dobbelt så sterk som riseddik (ca. 4 %). Derfor bare 1 ts. Bruker du riseddik, ta omtrent det dobbelte.
+- **Chili bean paste** er doubanjiang (Pixian-bønnepasta), salt og sterk. Sammen med soyasausene gir den nok salt til hele retten – smak på buljongen før du salter.
+- **Mushroom soy sauce** er mørk soyasaus smaksatt med sopp (f.eks. Pearl River Bridge), ikke det samme som soppsausen i nr. 11. Mangler du den, bruk mer mørk soyasaus.
+- **Sukrin** er en norsk sukkererstatning. Vanlig sukker gjør samme jobb.
+- **Bruk usøtet soyamelk**, av samme grunn som i nr. 1 og nr. 11.
+- **Sponset innhold:** innlegget er et betalt partnerskap med @skarpekniver om skålene, ikke om oppskriften.
+- **Beslektet:** [kremet krydret miso-ramen med kylling (nr. 1)](#1-kremet-krydret-miso-ramen-med-kylling) har samme soyamelk-og-doubanjiang-grunnlag, men med miso og kylling. [Dumplings i spicy peanøtt-udonsuppe (nr. 11)](#11-dumplings-i-spicy-peanøtt-udonsuppe) er Ragne Tremoens andre peanøttsuppe på soyamelk. [Chilinudler med peanøttsmør og kjøttdeig (nr. 10)](#10-chilinudler-med-peanøttsmør-og-kjøttdeig) er samme smakskombinasjon uten buljong.
 
 ---
 
