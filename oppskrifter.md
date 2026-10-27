@@ -17645,7 +17645,7 @@ Tre paprikaer svidd svarte med gassbrenner, skrubbet rene og kokt inn med løk t
 - 1 gul paprika
 - 1 grønn paprika
 - 2 løk
-- 2 hvitløkfedd
+- 2 hvitløksfedd
 - 3 ss + 1 ts olivenolje *(Omregnet fra ½ dl.)*
 - Friske urter, f.eks. basilikum, salvie og timian
 - Salt og pepper
@@ -17656,7 +17656,7 @@ Tre paprikaer svidd svarte med gassbrenner, skrubbet rene og kokt inn med løk t
 2. **Skrell og knus hvitløken** og bland den med løken.
 3. **Brenn paprikaen med gassbrenner til den er svart.**
 4. **Legg paprikaen i kaldt vann** og skrubb av så mye som mulig av det brente skinnet med en ren oppvaskbørste eller svamp.
-5. **Del paprikaen i 4 og fjern innmaten.** Kutt den i grove biter eller strimler og bland med løken.
+5. **Del paprikaen i fire og fjern innmaten.** Kutt den i grove biter eller strimler og bland med løken.
 6. **Kok på middels varme under lokk i ca. 20 minutter**, til blandingen har fått kompottkonsistens.
 7. **Tilsett finhakkede friske urter og et dryss pepper**, og smak til med salt.
 
@@ -17668,7 +17668,7 @@ Tre paprikaer svidd svarte med gassbrenner, skrubbet rene og kokt inn med løk t
 - **Salvie i en paprikarett er uvanlig** og typisk provençalsk. Den er kraftig – bruk færre blader enn av basilikum.
 - **Har du ikke gassbrenner**, går det an å svi paprikaen direkte på en gassflamme eller under grillelementet i ovnen til skinnet er svart hele veien rundt. *(Lagt til.)*
 - **Kilden foreslår den** som egen rett, og som tilbehør til posjert egg, grillet kylling og stekt fisk.
-- **Beslektet:** [T73](#t73-hellstrøms-ratatouille) bruker paprika i samme sjanger, og [T41](#t41-ovnsbakt-paprika--og-tomatsalat-med-bocconcini) er den kalde varianten.
+- **Beslektet:** [ratatouillen (T73)](#t73-hellstrøms-ratatouille) bruker paprika i samme sjanger, og [ovnsbakt paprika- og tomatsalat (T41)](#t41-ovnsbakt-paprika--og-tomatsalat-med-bocconcini) er den kalde varianten.
 
 ---
 
@@ -17685,16 +17685,16 @@ Auberginene bakes hele til de kollapser, innmaten renner av i sil, og kokes så 
 - 3 ss + 1 ts olivenolje *(Omregnet fra ½ dl.)*
 - Saften av ½ sitron
 - En klype salt
-- En knivspiss kajennepepper
+- En knivsodd cayennepepper
 
 ### Fremgangsmåte
 
-1. **Stek de uskrelte auberginene i en tørr panne eller på stekebrett** i ovnen på **220 grader i 40–50 minutter**, til de er helt myke.
+1. **Stek de uskrelte auberginene i en tørr panne eller på stekebrett** i ovnen på **220 °C i 40–50 minutter**, til de er helt myke.
 2. **Del dem i to og skrap ut innmaten.**
 3. **Ha auberginekjøttet i en sil** slik at vannet renner av.
 4. **Grovhakk kjøttet med kniv** og ha det i en kasserolle.
 5. **Tilsett sitronsaft, smør og olivenolje** og kok sammen til tykkere konsistens.
-6. **Smak til med salt og kajennepepper.**
+6. **Smak til med salt og cayennepepper.**
 
 ### Notater
 
@@ -17702,7 +17702,7 @@ Auberginene bakes hele til de kollapser, innmaten renner av i sil, og kokes så 
 - **Avrenningen i sil er ikke valgfri.** Aubergine er nesten bare vann. Hopper du over trinnet, koker du en time uten å komme fram til kompottkonsistens.
 - **Tørr panne, ikke olje.** Skallet skal tørke og ta farge; olje ville stekt overflaten før innsiden kollapset.
 - **60 g smør og drøye 3 ss olje til to auberginer** er mye fett, og det er poenget – auberginekjøtt uten fett smaker lite.
-- **Beslektet:** [T73](#t73-hellstrøms-ratatouille) bruker aubergine stekt separat i stedet for bakt hel.
+- **Beslektet:** [ratatouillen (T73)](#t73-hellstrøms-ratatouille) bruker aubergine stekt separat i stedet for bakt hel.
 
 ---
 
@@ -17710,7 +17710,7 @@ Auberginene bakes hele til de kollapser, innmaten renner av i sil, og kokes så 
 
 **Kilde:** Eyvind Hellstrøm, *Grunnboka* (Cappelen Damm, 2025) · **Kjøkken:** Fransk · **Tid:** ca. 40 min · **Porsjoner:** 4 *(ikke oppgitt i kilden)*
 
-Hele sjalottløk begravd i grovt salt og bakt på 220 grader. Løken presses ut av skallet etterpå, og saltet kan brukes om igjen.
+Hele sjalottløk begravd i grovt salt og bakt på 220 °C. Løken presses ut av skallet etterpå, og saltet kan brukes om igjen.
 
 ### Ingredienser
 
@@ -17720,7 +17720,7 @@ Hele sjalottløk begravd i grovt salt og bakt på 220 grader. Løken presses ut 
 ### Fremgangsmåte
 
 1. **Legg hele sjalottløk i en ildfast form eller jerngryte** og dekk løken med salt.
-2. **Stek i ovn på 220 grader i ca. 30 minutter.** Ovnen må være varm nok, og løken skal bli gjennombakt og bløt.
+2. **Stek i ovn på 220 °C i ca. 30 minutter.** Ovnen må være varm nok, og løken skal bli gjennombakt og bløt.
 3. **Ta løken ut av saltet** og la den avkjøles litt.
 4. **Kutt av enden på løken og press den møre løken ut av skallet.**
 5. **Legg i en skål** og tilsett om ønskelig litt olivenolje, kapers og friske urter som persille eller koriander.
@@ -17730,8 +17730,8 @@ Hele sjalottløk begravd i grovt salt og bakt på 220 grader. Løken presses ut 
 - **Saltet er en ovn, ikke en krydring.** Løken salter seg ikke gjennom skallet; saltet fordeler varmen jevnt rundt hele løken og holder på den. Resultatet er en løk som er dampet i sin egen fuktighet.
 - **Ta vare på saltet.** Kilden er tydelig: det kan brukes om igjen, og har da fått en aromatisk løksmak. Det er en gratis ingrediens til neste gang.
 - **Skallet gjør jobben som emballasje.** Derfor legges løken hel og uskrelt i – all smaken holdes inne til du presser den ut.
-- **220 grader er høyt, og det skal det være.** Lavere varme og saltet gir en løk som blir varm uten å bli søt. Karamelliseringen krever temperaturen.
-- **Beslektet:** [T82](#t82-hellstrøms-løkkompott) er den motsatte metoden – lang tid på svak varme.
+- **220 °C er høyt, og det skal det være.** Lavere varme og saltet gir en løk som blir varm uten å bli søt. Karamelliseringen krever temperaturen.
+- **Beslektet:** [løkkompotten (T82)](#t82-hellstrøms-løkkompott) er den motsatte metoden – lang tid på svak varme.
 
 ---
 
@@ -17754,18 +17754,18 @@ Purren freses i fosskokende smør og vann på sterk varme i sju–åtte minutter
 1. **Bruk den hvite delen av purren**, ca. ⅔ av lengden. Del den i to på langs og skyll under kaldt vann. Snitt den i **ca. 2 cm lengder**.
 2. **Ha en kasserolle på varm kokeplate** og tilsett like deler smør og vann.
 3. **Vannet må fosskoke før purren går i.** Tilsett purre og litt salt under kraftig omrøring.
-4. **Fres på sterk varme i 7–8 minutter.** Prosessen skal gå hurtig.
+4. **Fres på sterk varme i 7–8 minutter.** Prosessen skal gå raskt.
 5. **Spe til slutt med litt vann** og rør godt på sterk varme til en kompottlignende konsistens.
 6. **Smak til med salt og strø over piment d'Espelette.**
 
 ### Notater
 
 - **Dette er en emulsjon, ikke en koking.** Like deler smør og vann i fosskok blir en *beurre monté* – smøret holder seg bundet så lenge kokingen er kraftig nok. Skrur du ned varmen, skiller den seg umiddelbart.
-- **«Mye energi» er en teknisk instruks.** Kilden bruker uttrykket bevisst: det er bevegelsen og varmen som holder emulsjonen sammen. Forsiktig småkoking gir smeltet smør og vasstrukken purre.
+- **Kilden ber om «mye energi», og det er en teknisk instruks:** det er bevegelsen og varmen som holder emulsjonen sammen. Forsiktig småkoking gir smeltet smør og vasstrukken purre.
 - **Bare den hvite delen.** De grønne bladene er seige og trenger langt lengre tid – de hører hjemme i kraft, ikke her.
 - **Purre må skylles etter oppdeling, ikke før.** Sanden ligger mellom lagene og kommer bare ut når purren er delt på langs.
-- **Piment d'Espelette er mild, fruktig chili** fra Baskerland. Har du den ikke, gir et lite dryss søt paprika og en anelse kajenne omtrent samme sted. *(Lagt til.)*
-- **Beslektet:** [T77](#t77-hellstrøms-grønne-ertepuré) bruker samme prinsipp med smør montert i en grønnsak.
+- **Piment d'Espelette er mild, fruktig chili** fra Baskerland. Har du den ikke, gir et lite dryss søt paprika og en anelse cayenne omtrent samme smak. *(Lagt til.)*
+- **Beslektet:** [ertepuréen (T77)](#t77-hellstrøms-grønne-ertepuré) bruker samme prinsipp med smør montert i en grønnsak.
 
 ---
 
@@ -17793,8 +17793,8 @@ Hvitløken kokes opp i vann tre ganger, kastes hver gang, og kokes til slutt mø
 - **De tre oppkokene fjerner skarpheten.** Allicin, stoffet som gir rå hvitløk bittet, er vannløselig. Hver runde tar med seg mer av det, og etter tre er hvitløken søt og nøtteaktig i stedet for aggressiv.
 - **Spiren må ut.** Den grønne kimen i midten er den bitreste delen og blir ikke mildere av koking.
 - **Melken til slutt, ikke fra start.** Melk som koker tre ganger brenner seg i bunnen. Den kommer inn når vannjobben er gjort, og bidrar med fett og sødme.
-- **Silingen fanger de siste fibrene.** En stavmikser kommer langt, men hvitløk har trevler som gir en puré med kornethet hvis du hopper over siktet.
-- **Beslektet:** [T132](#t132-konfitert-hvitløk) er samme mildhet oppnådd med olje og lav varme i stedet for vann.
+- **Silingen fanger de siste fibrene.** En stavmikser kommer langt, men hvitløk har trevler som gir en kornete puré hvis du hopper over silingen.
+- **Beslektet:** [konfitert hvitløk (T132)](#t132-konfitert-hvitløk) er samme mildhet oppnådd med olje og lav varme i stedet for vann.
 
 ---
 
@@ -17824,7 +17824,7 @@ Kald lake helles over rå løkskiver. Ingenting kokes, verken lake eller løk.
 - **Sukkeret må røres helt oppløst.** Uten varme løser 170 g sukker seg langsomt i kald væske. Rør til laken er blank før du heller den over, ellers ligger sukkeret igjen i bunnen. *(Presisert.)*
 - **Samme 3–2–1-forhold i volum som [syltet rødløk (T129)](#t129-syltet-rødløk)** – 3 dl vann, 2 dl sukker, 1 dl eddik – men med klar 7 % eddik i stedet for eplecidereddik. Klar eddik er skarpere og renere i smaken; her balanseres den av at løken er rå.
 - **Kilden nevner finhakket rødløk** som variant – da går smaken raskere inn, og du får en relish i stedet for skiver.
-- **Beslektet:** [T129](#t129-syltet-rødløk) er Matprats versjon med kokt lake. Notatet der anbefaler nettopp Hellstrøms grep – å ikke koke løken.
+- **Beslektet:** [Syltet rødløk (T129)](#t129-syltet-rødløk) er Matprats versjon med kokt lake. Notatet der anbefaler nettopp Hellstrøms grep – å ikke koke løken.
 
 ---
 
@@ -17854,9 +17854,10 @@ Sitronene snittes nesten gjennom, pakkes i salt og sukker og står i lukket glas
 - **Saften kommer av seg selv.** Saltet trekker ut væske de første dagene til sitronene ligger i sin egen lake. Er de ikke dekket etter tre–fire dager, spe med presset sitronsaft. *(Lagt til.)*
 - **Sukkeret er en tiendedel av saltet.** Det konserverer ikke, men tar av den skarpeste kanten på skallet.
 - **Skallet er det man bruker.** Fruktkjøttet blir grøtete og svært salt – skyll skallet og finhakk det. Kilden nevner gremolata som bruksområde.
-- **Beslektet:** [T75](#t75-hellstrøms-soltørkede-tomater) er samme sjanger – råvare konservert på forhånd til bruk i andre retter.
+- **Beslektet:** [soltørkede tomater (T75)](#t75-hellstrøms-soltørkede-tomater) er samme sjanger – råvare konservert på forhånd til bruk i andre retter.
 
 ---
+
 ## T90. Hellstrøms pestosmør
 
 **Kilde:** Eyvind Hellstrøm, *Grunnboka* (Cappelen Damm, 2025) · **Kjøkken:** Italiensk · **Tid:** 10 min · **Gir:** ca. 3 dl *(ikke oppgitt i kilden)*
@@ -17868,10 +17869,10 @@ Pesto der halvparten av fettet er temperert smør. Alt kjøres glatt i maskin og
 - 1½ dl olivenolje
 - 100 g temperert meierismør
 - 1 potte frisk basilikum
-- 3–4 hvitløkfedd
+- 3–4 hvitløksfedd
 - 30 g parmesan
 - 2 ss pinjekjerner
-- Et dryss kajennepepper
+- Et dryss cayennepepper
 
 ### Fremgangsmåte
 
@@ -17886,7 +17887,7 @@ Pesto der halvparten av fettet er temperert smør. Alt kjøres glatt i maskin og
 - **Spiren ut av hvitløken.** Med 3–4 fedd rå hvitløk i en kald saus er den grønne kimen tydelig bitter.
 - **Ingen risting av pinjekjernene.** Kilden bruker dem rå, som gir en mildere og mer kremet pesto enn den ristede varianten.
 - **Holdbarhet:** flere dager i kjøleskap. Dekk overflaten med et lag olivenolje så holder fargen seg grønn lengre. *(Lagt til.)*
-- **Beslektet:** [T13](#t13-pesto) er den klassiske pestoen uten smør.
+- **Beslektet:** [pesto (T13)](#t13-pesto) er den klassiske pestoen uten smør.
 
 ---
 
@@ -17894,15 +17895,15 @@ Pesto der halvparten av fettet er temperert smør. Alt kjøres glatt i maskin og
 
 **Kilde:** Eyvind Hellstrøm, *Grunnboka* (Cappelen Damm, 2025) · **Kjøkken:** Fransk · **Tid:** 10 min + kjøling · **Gir:** ca. 130 g
 
-Krydret smør rullet til pølse i plastfolie. Skives legges på varm grillet fisk og erstatter saus.
+Krydret smør rullet til pølse i plastfolie. Skiver legges på varm grillet fisk og erstatter saus.
 
 ### Ingredienser
 
 - 100 g meierismør
 - 30 g ansjosfileter i olivenolje
-- 1 hvitløkfedd
+- 1 hvitløksfedd
 - 1 ss hakket persille
-- 1 ts cognac eller marc
+- 1 ts konjakk eller marc
 
 ### Fremgangsmåte
 
@@ -17914,10 +17915,10 @@ Krydret smør rullet til pølse i plastfolie. Skives legges på varm grillet fis
 ### Notater
 
 - **Pølseformen er poenget.** Rullet i folie kan smøret skjæres i jevne skiver rett fra kjøleskapet, og én skive per porsjon er all sausen retten trenger.
-- **Fryser like godt som det kjøler.** Skiver kan skjæres av frossen pølse og legges rett på varm mat. Dette er en av de få forberedelsene som tåler måneder.
+- **Tåler frysing like godt som kjøleskap.** Skiver kan skjæres av frossen pølse og legges rett på varm mat. Dette er en av de få forberedelsene som tåler måneder.
 - **30 g ansjos til 100 g smør** høres voldsomt ut, men saltet og umamien fordeler seg i fettet og oppfattes som dybde, ikke fisk.
-- **Cognac i så liten mengde** koker bort på det varme kjøttet og etterlater bare aromaen. Utelater du den, merkes det knapt.
-- **Beslektet:** [T90](#t90-hellstrøms-pestosmør) er samme idé med basilikum, og [T126](#t126-brunet-smør-og-ghee) er grunnleggende smørbehandling.
+- **Konjakk i så liten mengde** koker bort på den varme maten og etterlater bare aromaen. Utelater du den, merkes det knapt.
+- **Beslektet:** [pestosmør (T90)](#t90-hellstrøms-pestosmør) er samme idé med basilikum, og [brunet smør og ghee (T126)](#t126-brunet-smør-og-ghee) er grunnleggende smørbehandling.
 
 ---
 
@@ -17930,11 +17931,11 @@ Tomatskinn og kjerner mikses, siles og kokes inn til kompott, som blandes tilbak
 ### Ingredienser
 
 - 8–10 store tomater
-- 2 hvitløkfedd
+- 2 hvitløksfedd
 - 2 dl olivenolje
 - 4 ss hakkede friske urter (estragon, persille, kjørvel eller koriander)
 - Et dryss salt
-- Et dryss kajennepepper
+- Et dryss cayennepepper
 
 ### Fremgangsmåte
 
@@ -17942,7 +17943,7 @@ Tomatskinn og kjerner mikses, siles og kokes inn til kompott, som blandes tilbak
 2. **Dra av skinnet, del tomatene i fire og skrap ut kjernene.**
 3. **Kjør skinn og kjerner med stavmikser til juice.** Sil dette og kok inn med litt salt til kompottkonsistens. Avkjøl.
 4. **Hakk tomatkjøttet grovt** og bland det med tomatsausen.
-5. **Bland inn olivenolje, finhakket hvitløk og friske, hakkede urter**, og smak til med salt og kajennepepper. *(Hvitløken mangler i kildens fremgangsmåte – se notat.)*
+5. **Bland inn olivenolje, finhakket hvitløk og friske, hakkede urter**, og smak til med salt og cayennepepper. *(Hvitløken mangler i kildens fremgangsmåte – se notat.)*
 
 ### Notater
 
@@ -17950,8 +17951,8 @@ Tomatskinn og kjerner mikses, siles og kokes inn til kompott, som blandes tilbak
 - **Sausen er kald.** Kompotten kokes, men avkjøles før fruktkjøttet og oljen går i. Varm olivenolje i denne mengden blir tung; kald forblir den frisk.
 - **Hvitløken står i ingredienslisten, men nevnes ikke i fremgangsmåten.** Den er ment finhakket eller knust og blandet inn til slutt, sammen med urtene. *(Flagget og presisert.)*
 - **To desiliter olje til ti tomater** gjør dette til en oljesaus med tomat, ikke omvendt. Det er riktig for en vierge.
-- **Kjørvel er den franske signaturen** i urteutvalget. Får du den ikke tak i, er estragon nærmest i smak.
-- **Beslektet:** [T125](#t125-marinara--tomatsausbase) er den varme, kokte tomatsausen.
+- **Kjørvel er den franske signaturen** i urteutvalget. Får du ikke tak i den, er estragon nærmest i smak.
+- **Beslektet:** [marinara (T125)](#t125-marinara--tomatsausbase) er den varme, kokte tomatsausen.
 
 ---
 
