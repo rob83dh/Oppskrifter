@@ -20452,10 +20452,10 @@ Sushiris presses flat, kjøles til den er fast, skjæres i firkanter og frityrst
 ### Ingredienser
 
 **Ris**
-- 2 dl sushiris (calrose eller japonica)
+- 170 g sushiris (calrose eller japonica) *(Omregnet fra 2 dl.)*
 - 4 dl vann *(se notat)*
 - 2 ss riseddik
-- 1½ ss sukker
+- 1 ss + 1½ ts sukker
 - 1 klype salt
 - Nøytral olje til frityrsteking
 
@@ -20567,7 +20567,7 @@ Wontonark presset ned i en muffinsform og forstekt sprø, fylt med kremost, baco
 - 3 jalapeño, frøet og finhakket *(hold av ca. 2 ss)*
 - 2 vårløk, tynt skivet
 - 2 ss melk eller fløte
-- 5 g olje til å smøre formen *(mengde lagt til.)*
+- 1 ts olje til å smøre formen *(mengde lagt til)*
 
 ### Fremgangsmåte
 
@@ -20607,7 +20607,7 @@ Sprø utenpå, saftige inni. Potetmos og plukket oksehalekjøtt formet til bolle
 **Kroketter**
 - 300 g melen potet
 - 400 g plukket og renset kjøtt fra oksehale
-- ½ egg *(se notat)*
+- 1 eggeplomme *(kilden oppgir ½ egg – se notat)*
 - 2 ss potetmel
 
 **Limemajones**
@@ -20620,17 +20620,17 @@ Sprø utenpå, saftige inni. Potetmos og plukket oksehalekjøtt formet til bolle
 - 2 ss potetmel eller hvetemel
 - ½ ts salt
 - ½ ts pepper
-- ½ egg *(se notat)*
-- 2,5 dl panko
-- ½ l frityrolje
+- 1 eggehvite *(kilden oppgir ½ egg – se notat)*
+- ca. 60 g panko *(Omregnet fra 2,5 dl.)*
+- 5 dl frityrolje
 
 ### Fremgangsmåte
 
 1. **Kok potetene.** Skrell dem og kok dem møre. Hell av vannet og la dem dampe seg tørre. Mos dem og avkjøl.
-2. **Lag farsen.** Bland potetmos og kjøtt. Ha i egg og potetmel, bland godt og smak til med salt og pepper.
+2. **Lag farsen.** Bland potetmos og kjøtt. Ha i eggeplommen og potetmelet, bland godt og smak til med salt og pepper.
 3. **Form bollene.** Ha litt vann på hendene og form farsen til små boller. Sett dem kjølig i **minst en halvtime**.
 4. **Limemajonesen.** Bland majones med limeskall og limesaft, og smak til med sukker og salt. Sett kaldt til servering.
-5. **Rigg paneringen.** Ha mel, salt og pepper i én skål, visp egg i en annen, og ha panko i en tredje.
+5. **Rigg paneringen.** Ha mel, salt og pepper i én skål, visp eggehviten lett i en annen, og ha panko i en tredje.
 6. **Varm oljen.** Fyll en gryte eller dyp panne med **minst 2 cm** frityrolje og varm opp.
 7. **Panér.** Dypp bollene i melblandingen, så i egget, og til slutt i panko. Sørg for at de er godt dekket hele veien rundt.
 8. **Sjekk temperaturen.** Ideelt ca. **180 °C**. Bruk steketermometer, eller stikk ned en tresleiv – bruser det rundt sleiven, er oljen klar.
@@ -20641,13 +20641,13 @@ Sprø utenpå, saftige inni. Potetmos og plukket oksehalekjøtt formet til bolle
 
 - **Oppskriften starter der en annen slutter.** De 400 g plukket oksehalekjøtt forutsetter at halene allerede er brunet og trukket i vann eller kraft i **minst 4 timer**, til kjøttet løsner fra beinet. Regn dette som en toretters operasjon, eller enda bedre – lag krokettene av restene fra [langstekt oksehale (nr. 119)](#119-langstekt-oksehale) eller [braisert oksehale med mac and cheese, søtpotet og grønnkål (nr. 113)](#113-braisert-oksehale-med-mac-and-cheese-søtpotet-og-grønnkål).
 - **400 g plukket kjøtt krever mye rå oksehale.** Utbyttet er lavt – bein og fett utgjør det meste – så regn **1,3–1,5 kg rå oksehale** for å komme i mål. Kilden nevner det ikke. *(Lagt til.)*
-- **De halve eggene er en skaleringsartefakt.** Ingredienslisten oppgir ½ egg i farsen og ½ egg til paneringen, noe som er upraktisk i praksis. Visp ett egg og bruk omtrent halvparten – ca. 25 g – i farsen, og resten til paneringen. Blir farsen for løs, tilsett en ekstra spiseskje potetmel. *(Presisering lagt til.)*
+- **Ett egg, skilt.** Kilden oppgir ½ egg i farsen og ½ egg til paneringen. Her er egget skilt i stedet: plommen binder farsen, og hviten holder pankoen på plass. Blir farsen for løs, tilsett en ekstra spiseskje potetmel. *(Justert.)*
 - **Potetene må dampe seg tørre.** Dette er det viktigste steget for at krokettene skal holde formen. Våt potetmos gir en farse som sprekker i frityren, og da renner alt ut i oljen. La dem stå i den varme kjelen et par minutter etter avrenning, og mos dem først når dampen har lagt seg.
 - **Farsen skal være kald når den formes og paneres.** Halvtimen i kjøleskapet er et minimum – en time er bedre, og ligger de i fryseren i 15 minutter rett før panering, holder de seg enda bedre sammen. *(Lagt til.)*
 - **Melne potetsorter** er mandelpotet, pimpernell, Kerrs Pink, Ringerikspotet og gulløye, ifølge kilden. Faste sorter som Asterix og Beate gir en klissete mos som ikke fungerer her.
 - **Spar på kraften fra oksehalen.** Kilden er tydelig på dette, og med god grunn – braisert oksehalekraft er noe av det beste du kan ha på lur. Den hører hjemme i [fransk løksuppe (SU5)](#su5-fransk-løksuppe), [fransk løksuppe – Géraldine sin versjon (SU11)](#su11-fransk-løksuppe--géraldine-sin-versjon) eller [boeuf bourguignon (nr. 115)](#115-boeuf-bourguignon).
 - **2 cm olje er minimum, ikke anbefaling.** Bollene skal helst flyte fritt. Bruk heller 4–5 cm i en høy gryte, og friter i små puljer – legger du i for mange samtidig, faller temperaturen og krokettene suger olje. *(Lagt til.)*
-- **Dobbel panering gir tryggere resultat.** Kjør mel–egg–panko, og deretter egg–panko en gang til. Krokettene blir sprøere og risikoen for at de sprekker faller merkbart. *(Lagt til.)*
+- **Dobbel panering gir tryggere resultat.** Kjør mel–eggehvite–panko, og deretter egg–panko en gang til (da trengs ett egg til). Krokettene blir sprøere og risikoen for at de sprekker faller merkbart. *(Lagt til.)*
 - **Limemajonesen blir bedre av hjemmelaget majones**, noe kilden også påpeker – se [T122](#t122-majones). Rør inn limeskallet et kvarter før servering, så trekker aromaen ut i majonesen. Sammenlign med yuzumajonesen i [T19](#t19-sprø-potetsalat-med-yuzumajones).
 - **Kan fryses ferdig panert.** Friter dem da rett fra frossen på **170 °C** og regn 1–2 minutter ekstra, så de blir gjennomvarme uten at pankoen brenner. Ferdig friterte kroketter friskes opp 5–6 minutter i ovn på 200 °C. *(Presisering lagt til.)*
 
