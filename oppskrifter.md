@@ -7954,7 +7954,7 @@ Hvit asparges trukket i en søtet, syrlig lake, servert med sprøstekt shiitake 
 **Lake**
 - 1 liter vann
 - 1 ss salt
-- 1½ ss sukker
+- 1 ss + 1½ ts sukker
 - Alle skrell og avskjær fra aspargesen
 - 1 sitron, saft og skall
 - Urter etter eget valg
@@ -7966,13 +7966,13 @@ Hvit asparges trukket i en søtet, syrlig lake, servert med sprøstekt shiitake 
 - Sherryeddik
 - Soyasaus
 - Pepper
-- 15 g olje til steking *(mengde lagt til.)*
+- 1 ss olje til steking *(Lagt til.)*
 
 **Hollandaise**
 - 250 g smør
 - 4 eggeplommer
 - 2 sitroner, saft og skall
-- Vann *(mengde ikke oppgitt – se notat)*
+- 2 ss vann *(Lagt til – se notat.)*
 - Cayennepepper
 - Salt og pepper
 
@@ -8013,8 +8013,8 @@ Kyllinglårfilet marinert i harissa og oregano, stekt i panne, og servert i en s
 **Kylling**
 - 450 g kyllinglårfilet
 - 1 ss tørket oregano
-- ½ ts malt spisskummen — 2 krm
-- ½ ss harissapasta
+- ½ ts malt spisskummen *(Omregnet fra 2 krm.)*
+- 1½ ts harissapasta
 - 2 ss olivenolje
 - Saften fra ½ sitron
 - Salt og sort pepper
@@ -8042,10 +8042,10 @@ Kyllinglårfilet marinert i harissa og oregano, stekt i panne, og servert i en s
 
 - **Bønnene mangler helt i kildens fremgangsmåte.** De står i ingredienslisten og i rettens navn, men nevnes ikke i noe eneste steg. De hører hjemme i punkt 4, sammen med spinaten og fløten, så de får de fem minuttene de trenger til å bli varme og til å jevne sausen med stivelsen sin. De er ført inn her. *(Kritisk mangel – lagt til.)*
 - **Skyll bønnene.** Kilden sier det ikke. Lakevæsken er salt og grumsete, og retten har allerede salt fra to porsjoner harissa. *(Lagt til.)*
-- **«2 krm» er et svensk mål.** Ett kryddmått er 1 ml, så 2 krm blir 2 ml – i overkant av en tredjedels norsk teskje. Regn **½ ts**. *(Omregning lagt til.)*
+- **Kilden oppgir «2 krm», et svensk mål.** Ett kryddmått er 1 ml, så 2 krm er litt under ½ ts. *(Omregnet.)*
 - **Harissastyrken varierer voldsomt mellom merker.** Tunisisk harissa på tube kan være svært sterk, mens rose harissa er mild og blomstrete. Til sammen bruker oppskriften 1½ ss – det er mye hvis du har den sterke typen. Start med halvparten i sausen og smak til. *(Justering lagt til.)*
 - **Harissa inneholder mye salt.** Salt først i punkt 5, etter at pastaen har kokt inn i sausen.
-- **1 dl fløte er lite til en hel boks bønner.** Det er tilsiktet – sausen skal være tomatdrevet, ikke hvit – men bønnene suger væske mens de varmes. Ha 0,5 dl vann eller kraft klart til å spe med. *(Lagt til.)*
+- **1 dl fløte er lite til en hel boks bønner.** Det er tilsiktet – sausen skal være tomatdrevet, ikke hvit – men bønnene suger væske mens de varmes. Ha 3 ss vann eller kraft klart til å spe med. *(Lagt til.)*
 - **Kjernetemperatur 75 °C** for kyllinglår. Filetene er tynne og trenger 4–5 minutter per side på middels varme.
 - **Marinering over natten er verdt det**, men syre fra sitronen over mange timer gjør overflaten på kjøttet melen. Vil du marinere lenger enn 12 timer, hold sitronsaften utenfor og press den i rett før steking. *(Presisering lagt til.)*
 - **Store hvite bønner** er butterbeans eller cannellini, som selges under begge navn i norske butikker. En 400 g boks gir rundt 240 g avrent.
@@ -8128,8 +8128,8 @@ Ris ristet i kyllingfettet, kokt i kokosmelk med gul karripasta, med kyllingen l
 ### Ingredienser
 
 - 4–6 kyllinglårfileter
-- 3 dl jasminris
-- 1 boks kokosmelk — 400 ml, spar 1 ss til toppingen
+- ca. 250 g jasminris
+- 1 boks kokosmelk — 4 dl, spar 1 ss til toppingen
 - 3 ss gul karripasta
 - 1,5 dl vann *(mengde ikke oppgitt i kilden – se notat)*
 - 1 bit ingefær, i skiver
@@ -8159,7 +8159,7 @@ Ris ristet i kyllingfettet, kokt i kokosmelk med gul karripasta, med kyllingen l
 
 ### Notater
 
-- **Vannmengden mangler, og den er avgjørende.** Kilden ber deg tilsette vann uten å si hvor mye – i en rett der ris skal koke ferdig under lokk, er det den viktigste enkeltopplysningen. 3 dl jasminris trenger totalt rundt 5,5 dl væske; med 4 dl kokosmelk blir det **ca. 1,5 dl vann**. Ha en kopp varmt vann i beredskap og spe hvis risen fortsatt er hard når væsken er borte. *(Kritisk mangel – lagt til.)*
+- **Vannmengden mangler, og den er avgjørende.** Kilden ber deg tilsette vann uten å si hvor mye – i en rett der ris skal koke ferdig under lokk, er det den viktigste enkeltopplysningen. 250 g jasminris trenger totalt rundt 5,5 dl væske; med 4 dl kokosmelk blir det **ca. 1,5 dl vann**. Ha 2 dl varmt vann i beredskap og spe hvis risen fortsatt er hard når væsken er borte. *(Kritisk mangel – lagt til.)*
 - **La risen dryppe godt av etter skyllingen.** Punkt 1 ber deg skylle til vannet er klart, punkt 3 ber deg riste risen tørr – det henger ikke sammen med mindre du siler den skikkelig først. Våt ris damper i pannen i stedet for å ristes. *(Presisering lagt til.)*
 - **Ikke rør i risen etter at lokket er på.** Kilden sier det ikke, men omrøring frigjør stivelse og gir grøtaktig ris. La den være i fred de 15 minuttene.
 - **La retten hvile 5–10 minutter med lokket på etter at platen er skrudd av.** Da fordeler fuktigheten seg, og risen blir jevn i stedet for våt i bunnen og tørr på toppen. *(Lagt til.)*
@@ -8184,14 +8184,14 @@ Kyllinglår marinert i østerssaus og shaoxingvin, vendt i maisenna og stekt spr
 
 **Kylling**
 - 2 kyllinglårfileter, gjerne med skinn, utbeinet
-- ½ dl maisenna
-- 15 g nøytral olje til steking *(mengde lagt til.)*
+- 30 g maisenna
+- Nøytral olje til steking, ca. 0,5 cm i pannen *(Lagt til.)*
 
 **Marinade**
 - 2 ss finhakket hvitløk
 - 1 ss lys soyasaus
 - 1 ss østerssaus
-- ½ ss shaoxingvin, eller tørr sherry
+- 1½ ts shaoxingvin, eller tørr sherry
 - 1 ts sukker
 - ¼ ts sort pepper
 - 1 ts sesamolje
@@ -8200,7 +8200,7 @@ Kyllinglår marinert i østerssaus og shaoxingvin, vendt i maisenna og stekt spr
 - 1 helt hvitløkshode, finhakket
 - 3 ss lys soyasaus
 - 3 ss honning
-- 8 g nøytral olje *(mengde lagt til.)*
+- 2 ts nøytral olje *(Lagt til.)*
 
 **Servering**
 - Jasminris
@@ -8223,7 +8223,7 @@ Kyllinglår marinert i østerssaus og shaoxingvin, vendt i maisenna og stekt spr
 - **Maisenna gir sprøere og lettere panering enn hvetemel**, og er riktig valg her. Rist av overskuddet skikkelig; løs stivelse svir seg i oljen og gjør den grumsete.
 - **Ingen salt noe sted, og det er riktig.** Soyasaus og østerssaus står for saltet i marinaden, og sausen har 3 ss soya til. Ikke tilsett mer.
 - **Shaoxingvin** fås i asiatiske butikker på Grønland og Tøyen. Tørr sherry er kildens eget alternativ og fungerer godt.
-- **Risen står oppført under marinaden**, som er en formateringsfeil i kilden – den hører til servering. Mengde er ikke oppgitt; regn 1,5 dl tørr jasminris til to porsjoner. *(Avvik notert.)*
+- **Risen står oppført under marinaden**, som er en formateringsfeil i kilden – den hører til servering. Mengde er ikke oppgitt; regn 130 g tørr jasminris til to porsjoner. *(Avvik notert.)*
 - **Sammenlign med de tre andre honningkyllingene i samlingen:** [honning-, sitron- og hvitløkskylling (nr. 2)](#2-honning--sitron--og-hvitløkskylling) bruker sitronskall og paprika og lager sausen i samme panne, [honningkylling (nr. 31)](#31-honningkylling) er frityrstekt takeaway-stil, og [honning- og hvitløkskylling – kokkelise sin versjon (nr. 129)](#129-honning--og-hvitløkskylling--kokkelise-sin-versjon) bruker lår med bein og ovnsbakt brokkolini. Denne er den mest hvitløksdrevne av dem, og den eneste der sausen ikke kokes. Se også [sprø kylling i sweet chili-saus (nr. 125)](#125-sprø-kylling-i-sweet-chili-saus).
 
 ---
@@ -8241,7 +8241,7 @@ Krydret kyllinglår i ovn, servert på en kornsalat med hurtigsyltet rødløk, a
 - 1 ss malt spisskummen
 - 1 ss paprikapulver
 - 1 ss malt koriander
-- ½ ss cayennepepper
+- 1½ ts cayennepepper
 - 1 ss olivenolje
 - Salt og pepper
 
@@ -8260,7 +8260,7 @@ Krydret kyllinglår i ovn, servert på en kornsalat med hurtigsyltet rødløk, a
 - Salt og pepper
 
 **Salat**
-- 2,5 dl havreris *(se notat om erstatning)*
+- ca. 200 g havreris *(se notat om erstatning)*
 - 1 agurk
 - 1 paprika
 - ½ potte koriander
@@ -8268,7 +8268,7 @@ Krydret kyllinglår i ovn, servert på en kornsalat med hurtigsyltet rødløk, a
 - Salt og pepper
 
 **Topping**
-- ½ pakke fetaost
+- 75–100 g fetaost (ca. ½ pakke)
 - Sumak
 - Hakkede pistasjnøtter
 - ½ potte koriander
@@ -8292,7 +8292,7 @@ Krydret kyllinglår i ovn, servert på en kornsalat med hurtigsyltet rødløk, a
 - **Fetaosten står to ganger i anrettingen**, sannsynligvis en skrivefeil. Halv pakke, altså 75–100 g, er passe til fire.
 - **Sumak** er malte tørkede bær med en ren, sitrusaktig syre og dyp vinrød farge. Fås i midtøstenbutikker på Grønland og Tøyen, og hos Meny. Har du den ikke, er det ingen god erstatning – ekstra sitronskall kommer nærmest, men mangler fargen og den tørre syrligheten. *(Lagt til.)*
 - **Løken trenger tid.** «Hurtigsyltet» betyr minst **20 minutter** i syren for at den skal miste råskarpheten og bli rosa. Start med den. *(Presisering lagt til.)*
-- **½ ss cayenne er kraftig** – halvannen teskje til 800 g kylling. Sammen med paprikapulveret gir det en tydelig sterk rett. Start på 1 ts hvis du er usikker.
+- **1½ ts cayenne er kraftig** til 800 g kylling. Sammen med paprikapulveret gir det en tydelig sterk rett. Start på 1 ts hvis du er usikker.
 - **Rist pistasjnøttene** i tørr panne et par minutter før de hakkes. Det er en liten jobb med stor effekt.
 - **Kornsalaten er best lunken.** Bland den mens havrerisen fortsatt har varme igjen, så trekker den til seg sitron og olje.
 - **Kilden kaller retten «orientalisk».** Den er nærmere levantinsk – sumak, koriander, spisskummen og yoghurt er libanesisk og syrisk kjøkken. Den lar seg variere i det uendelige, som forfatteren sier: bytt kornet, grønnsakene eller nøttene etter sesong.
