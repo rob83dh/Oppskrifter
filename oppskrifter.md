@@ -13119,7 +13119,6 @@ Løk svettet i smør under lokk med en urtebukett, kokt ut med hvitvin og madeir
 - **Madeira kan byttes med tørr sherry**, som er like klassisk i denne sammenhengen. Begge fås på Vinmonopolet. Alkoholen koker av under de 15 minuttene.
 - **Osten avgjør resultatet.** Gruyère og comté smelter godt og har nøttesmak; kilden anbefaler å blande flere. Jarlsberg smelter fint, men er for mild til å bære retten alene – bland den i så fall med noe kraftigere.
 - **Smak til før osten går på.** Kraften, saltet i starten og osten bidrar alle – og osten kan du ikke justere etterpå.
-- **Den eneste retten i samlingen som avsluttes i ovnen i serveringsskålen.**
 - **Samme opphav som** [kyllingsuppen med karri (SU4)](#su4-eyvind-hellstrøms-kyllingsuppe-med-karri).
 
 ---
@@ -13167,7 +13166,7 @@ Ferske tomater bakt på høy varme sammen med hvitløk, løk og rød paprika, og
 - **230 °C er omregnet fra 450 °F.**
 - **5 dl kraft til 1,4 kg tomater er lite**, og med vilje: dette skal være en tykk suppe, ikke en tynn. Vil du ha den tynnere, spe med mer kraft etter miksingen.
 - **Suppen er vegetarisk hvis du bytter til grønnsakskraft**, og vegansk hvis du dropper fløte og parmesan.
-- **Samlingens andre amerikanske suppe**, ved siden av [marry me chicken-suppen](#su1-marry-me-chicken-suppe-med-gnocchi) – men der den er tung og kremet, er denne først og fremst tomat.
+- **Sammenlign med** [marry me chicken-suppen (SU1)](#su1-marry-me-chicken-suppe-med-gnocchi): den er tung og kremet, denne er først og fremst tomat.
 
 ---
 
@@ -13175,7 +13174,7 @@ Ferske tomater bakt på høy varme sammen med hvitløk, løk og rød paprika, og
 
 **Kilde:** Jeanine Donofrio / Love and Lemons (loveandlemons.com) · **Kjøkken:** Italiensk · **Tid:** 45 min (15 min forberedelse + 30 min koking) · **Porsjoner:** 4–6
 
-Vegetarisk grønnsakssuppe med bønner, pasta og tomat, bygget på en soffritto av løk, gulrot og selleri. Pastaen kokes rett i suppen, hvilket gir kraften fylde – og skaper ett problem, se notat.
+Vegetarisk grønnsakssuppe med bønner, pasta og tomat, bygget på en soffritto av løk, gulrot og selleri. Pastaen kokes rett i suppen, noe som gir kraften fylde – og skaper ett problem, se notat.
 
 ### Ingredienser
 
@@ -13215,7 +13214,6 @@ Vegetarisk grønnsakssuppe med bønner, pasta og tomat, bygget på en soffritto 
 - **Suppen er endeløst fleksibel**, og kilden lister sine egne bytter: fennikel i stedet for selleri, squash i stedet for grønne bønner, ferske plommetomater i stedet for hermetiske om sommeren, spinat eller grønnkål rørt inn mot slutten, og perlefarro eller bygg i stedet for pasta.
 - **Vegetarisk som skrevet, og vegansk uten parmesan.** Kilden foreslår en skje pesto i stedet for ost – også god med vanlig pesto, som samlingen har i [T13](#t13-pesto).
 - **15 g persille er mye**, og det er meningen: her er den en ingrediens, ikke pynt.
-- **Samlingens andre italienske suppe finnes ikke** – dette er den første, og den eneste vegetariske hovedretten blant supper i samlingen.
 
 ---
 
@@ -13283,7 +13281,7 @@ Tomater bakt i ovn og kokt sammen med langsomt stekt løk og hvitløk, mikset gl
 - **Basilikumen holdes utenfor hvis du lager på forhånd.** Suppen holder 3 dager i kjøleskap og 3 måneder i fryseren, men kilden anbefaler å tilsette basilikumen først ved oppvarming, så smaken holder seg frisk.
 - **Toast varmes i panne eller press**, aldri i mikro – kilden kaller det «a one-way ticket to soggy town».
 - **Vegetarisk** ved å bytte kyllingkraften mot grønnsakskraft.
-- **Samlingens andre tomatsuppe.** [SU6](#su6-tomatsuppe-av-ovnsbakte-tomater) baker tomatene på 230 °C med paprika og løk på samme brett; denne baker dem alene på 180 °C og bygger løkbunnen separat i kjelen. Denne blir rundere og fetere, den andre friskere.
+- **Sammenlign med** [SU6](#su6-tomatsuppe-av-ovnsbakte-tomater), som baker tomatene på 230 °C med paprika og løk på samme brett; denne baker dem alene på 180 °C og bygger løkbunnen separat i kjelen. Denne blir rundere og fetere, den andre friskere.
 
 ---
 
@@ -13395,7 +13393,7 @@ Løk karamellisert langsomt i opptil en time, kokt ut med cognac og hvitvin, jev
 - 3 ss cognac eller whisky
 - 1,2 dl tørr hvitvin
 - 1 liter kyllingkraft, eller oksekraft for den tradisjonelle versjonen
-- 1 liten urtebukett – timian, rosmarin, sar og laurbær, bundet med hyssing
+- 1 liten urtebukett – timian, rosmarin, bønneurt og laurbær, bundet med hyssing
 - Salt og pepper
 
 **Toppingen**
@@ -13416,11 +13414,11 @@ Løk karamellisert langsomt i opptil en time, kokt ut med cognac og hvitvin, jev
 
 ### Notater
 
-- **Denne løser det jeg flagget i** [SU5](#su5-fransk-løksuppe). Der svettes løken 30 minutter under lokk og blir lysegyllen; her stekes den **uten lokk i 40–60 minutter** til den er dypt karamellisert, og det er nettopp det som gir den mørke, søte klassikeren. Vil du ha den ordentlige varianten, er det denne. SU5 er den raske.
+- **Denne løser det som er flagget i** [SU5](#su5-fransk-løksuppe). Der svettes løken 30 minutter under lokk og blir lysegyllen; her stekes den **uten lokk i 40–60 minutter** til den er dypt karamellisert, og det er nettopp det som gir den mørke, søte klassikeren. Vil du ha den ordentlige varianten, er det denne. SU5 er den raske.
 - **Kildens «hemmelige ingrediens» mangler i oppskriften.** I tipsdelen skriver hun at en skvett balsamico – helst fra Modena – gir syre og mørkere farge, og at det balanserer sødmen fra løken. Den står verken i ingredienslisten eller i fremgangsmåten. Regn **1–2 ts, tilsatt sammen med kraften**. *(Lagt til.)*
 - **Jarlsberg er uttrykkelig godkjent** av kilden, ved siden av gruyère, comté og emmental. Det er sjeldent å se en fransk kilde si det, og gjør retten enklere å handle inn i Norge.
 - **Melet er forskjellen på tynn og fyldig suppe.** To spiseskjeer stekt ett minutt i løken gir kraften kropp. [SU5](#su5-fransk-løksuppe) har ingen jevning i det hele tatt.
-- **Rosmarin går igjen i begge løksuppene.** Jeg noterte i SU5 at det er uvanlig i en fransk urtebukett – når to uavhengige kilder har det med, er det verdt å behandle som en variant snarere enn en feil. Bruk likevel lite: én kvist.
+- **Rosmarin går igjen i begge løksuppene.** SU5-notatet påpeker at det er uvanlig i en fransk urtebukett – når to uavhengige kilder har det med, er det verdt å behandle som en variant snarere enn en feil. Bruk likevel lite: én kvist.
 - **Bollene må tåle ovnsgrilling.** Kilden bruker små støpejernsgryter eller ovnsfaste porsjonsformer.
 - **Brødet må ristes godt**, og gjerne være dagsgammelt – ellers blir det bløtt under osten i løpet av minutter.
 - **Cognac kan byttes med whisky**, sier kilden, og det er hennes eget alternativ når hun ikke har cognac.
@@ -13473,7 +13471,7 @@ Tomatbasert grønnsakssuppe med sopp, rødvin og røkt paprika, der tortellini o
 - **Røkt paprikapulver er kildens signatur** i vegetarretter: det gir en røykfylde som ellers ville kommet fra kjøtt. Vanlig paprikapulver fungerer, men da mister suppen dette draget.
 - **Hele hermetiske tomater**, ikke hakkede – de moses naturlig under de 20 minuttene og gir en grovere tekstur.
 - **Suppen er salt.** Kildens beregning viser 1837 mg natrium per porsjon, hovedsakelig fra kraften og de fylte pastaene. Bruk mildt saltet kraft og smak før du salter.
-- **Kildens bytter:** ravioli i stedet for tortellini, med hvilket fyll du vil; grønnkål eller mangold i stedet for spinat; vanlig paprikapulver for røkt. Stangsellerien kan sløyfes, men hun anbefaler den – den løfter helheten.
+- **Kildens bytter:** ravioli i stedet for tortellini, med det fyllet du vil; grønnkål eller mangold i stedet for spinat; vanlig paprikapulver for røkt. Stangsellerien kan sløyfes, men hun anbefaler den – den løfter helheten.
 - **Vegansk** med cashewkrem og vegansk tortellini; **glutenfritt** med glutenfri tortellini.
 - **Holdbarhet:** 3 dager i kjøleskap, men bare hvis den er ferdig laget – grunnsuppen alene holder lenger og fryser godt.
 - **Litt kulturhistorie fra kilden:** tortellini kommer fra Emilia-Romagna og ble tradisjonelt servert nettopp slik – i klar kraft. Denne versjonen er en rikere variant av den skikken.
