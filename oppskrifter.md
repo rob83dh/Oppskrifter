@@ -16396,7 +16396,7 @@ Småpoteter snittet nesten helt gjennom, sprøstekt i airfryer og vendt i et sm�
 1. **Snitt potetene.** Skjær dem to tredeler ned med kniv, uten å skjære helt igjennom. Vend dem i olivenolje og havsalt.
 2. **Rør hvitløkssmøret.** Bland det myke smøret med revet hvitløk og hakket persille i en bolle.
 3. **Stek dem.** Legg potetene i airfryer på **200 °C i 15 minutter**, til de er sprø.
-4. **Vend dem i smøret.** Tilsett 1 raus spiseskje av hvitløkssmøret og bland det inn i de varme potetene.
+4. **Vend dem i smøret.** Tilsett en raus spiseskje av hvitløkssmøret og bland det inn i de varme potetene.
 
 ### Notater
 
@@ -16438,17 +16438,17 @@ Fem ingredienser. Fløte, melk og revet brie blandes i en bolle, potetskivene ve
 
 ### Notater
 
-- **Skivetykkelsen er ikke oppgitt.** Bruk mandolin og skjær **2–3 mm**. Tykkere skiver blir ikke møre på halvannen time, og ujevne skiver gir en grateng som er rå noen steder og grøtet andre. *(Lagt til.)*
+- **Skivetykkelsen er ikke oppgitt.** Bruk mandolin og skjær **2–3 mm**. Tykkere skiver blir ikke møre på halvannen time, og ujevne skiver gir en grateng som er rå noen steder og grøtete andre. *(Lagt til.)*
 - **Potetene skal ikke skrelles etter kildens tekst**, men det står heller ikke at de skal. Skrell dem – skall i en fløtegrateng gir seige biter. *(Presisering lagt til.)*
 - **Å vende potetene i væsken før de legges i formen er hovedgrepet.** Hver skive blir dekket, og osten fordeler seg jevnt gjennom hele gratengen i stedet for bare på toppen. Det er raskere og mer pålitelig enn å helle væsken over etterpå, slik [gratin dauphinois (T27)](#t27-gratin-dauphinois) gjør.
 - **4,3 dl væske til 2 kg potet er lite.** [Gratin dauphinois (T27)](#t27-gratin-dauphinois) bruker 7,5 dl til 1,5 kg. Her kompenseres det delvis av at brien smelter og potetene selv avgir fuktighet under lokk – men gratengen blir tettere og mindre flytende. Vil du ha den kremere, øk melken til 2 dl. *(Sammenligning lagt til.)*
 - **Dekk formen de første 45 minuttene.** Kilden nevner ikke tildekking, men med så lite væske tørker toppen ut lenge før midten er ferdig. Folie eller bakepapir over, og av de siste 20–30 minuttene for å få farge. *(Lagt til.)*
 - **Melne poteter, ikke fastkokende.** Stivelsen er det som binder gratengen sammen. Beate, Kerrs Pink eller Pimpernel. Samme prinsipp som i [pommes Anna (T50)](#t50-pommes-anna).
 - **Brie er ikke et opplagt valg i en grateng.** Den smelter til en tykk, litt trådete masse i stedet for å binde jevnt slik gruyère gjør, og skorpen kan gi en tydelig ammoniakknote i store mengder. Kilden sier «any soft cheese will work» – camembert, taleggio eller norsk Snøfrisk fungerer. Vil du ha en mer forutsigbar grateng, bruk 150 g gruyère eller emmental i stedet. *(Bakgrunn lagt til.)*
-- **Trøffelbrie fås i ostediskar og delikatessebutikker.** Har du vanlig brie, gir noen dråper trøffelolje til slutt en tilnærming – men vær forsiktig, den blir fort kunstig.
-- **Osten skal rives eller rives i biter**, ikke skjæres i skiver. Kilden sier «torn brie», altså revet med hendene – da smelter den jevnere.
+- **Trøffelbrie fås i ostedisker og delikatessebutikker.** Har du vanlig brie, gir noen dråper trøffelolje til slutt en tilnærming – men vær forsiktig, den blir fort kunstig.
+- **Osten skal rives i biter med hendene**, ikke skjæres i skiver. Kilden sier «torn brie» – da smelter den jevnere.
 - **La gratengen hvile 10 minutter** før servering, så setter den seg og lar seg skjære.
-- **Kildens ramme er en konkurranse mot en annen kokk**, ikke en oppskriftsbeskrivelse – ta tittelen for det den er.
+- **Kilden er en konkurransevideo mot en annen kokk**, ikke en ren oppskriftsvideo – derfor er detaljene tynne.
 - **Beslektet:** [gratin dauphinois (T27)](#t27-gratin-dauphinois) er den klassiske franske versjonen med trukket fløte og valgfri ost, og [pommes Anna (T50)](#t50-pommes-anna) og [potetpavé (T18)](#t18-potetpavé) er variantene uten fløte i det hele tatt.
 
 ---
@@ -16485,12 +16485,12 @@ Den rikeste av potetgratengene i samlingen: nesten en liter fløte og melk til e
 
 ### Notater
 
-- **Fremgangsmåten er rekonstruert, ikke gjengitt.** Kilden består utelukkende av en ingrediensliste. Rekkefølgen følger standard dauphinois-teknikk og speiler [T27](#t27-gratin-dauphinois), som har fullstendig fremgangsmåte fra kilden. Verifiser gjerne mot videoen. *(Merknad lagt til.)*
+- **Fremgangsmåten er rekonstruert, ikke gjengitt.** Kilden består utelukkende av en ingrediensliste. Rekkefølgen følger standard dauphinois-teknikk og speiler [gratin dauphinois (T27)](#t27-gratin-dauphinois), som har fullstendig fremgangsmåte fra kilden. Verifiser gjerne mot videoen. *(Merknad lagt til.)*
 - **«200whole milk» i kilden er en skrivefeil** for 200 ml (2 dl) helmelk. *(Rettelse.)*
 - **9 dl væske til 1 kg potet er svært mye** – nesten dobbelt så høyt forhold som i [gratin dauphinois (T27)](#t27-gratin-dauphinois), som bruker 7,5 dl til 1,5 kg. Gratengen blir tilsvarende løs og rik, nærmest flytende rundt potetene. Det er et bevisst valg for en julerett, men vil du ha en fastere grateng som lar seg skjære i firkanter, kutt til 5 dl fløte og 1,5 dl melk. *(Sammenligning og justering lagt til.)*
 - **Med så mye væske må formen ha høye kanter.** En vid, lav form koker over. Bruk en dyp ildfast form og sett den på et stekebrett. *(Lagt til.)*
-- **Gruyère hører strengt tatt ikke hjemme i en dauphinois.** Den tradisjonelle franske versjonen inneholder ingen ost i det hele tatt – med ost blir det nærmere en *gratin savoyard*. Samme innvending gjelder [T27](#t27-gratin-dauphinois), der osten er valgfri. Her er de 150 g gruyère derimot en bærende del av retten. *(Bakgrunn lagt til.)*
-- **1 ts fersk revet muskat er raust.** [T27](#t27-gratin-dauphinois) bruker ¼ ts til halvannen ganger så mye potet. Muskat blir fort bitter og dominerende – start med ½ ts. *(Justering lagt til.)*
+- **Gruyère hører strengt tatt ikke hjemme i en dauphinois.** Den tradisjonelle franske versjonen inneholder ingen ost i det hele tatt – med ost blir det nærmere en *gratin savoyard*. Samme innvending gjelder [gratin dauphinois (T27)](#t27-gratin-dauphinois), der osten er valgfri. Her er de 150 g gruyère derimot en bærende del av retten. *(Bakgrunn lagt til.)*
+- **1 ts fersk revet muskat er raust.** [Gratin dauphinois (T27)](#t27-gratin-dauphinois) bruker ¼ ts til halvannen ganger så mye potet. Muskat blir fort bitter og dominerende – start med ½ ts. *(Justering lagt til.)*
 - **Hvitløkssmøret er ikke plassert i kilden.** Mest sannsynlig til å smøre formen, som er der det gjør mest nytte. Rører du det inn i fløten, får du i praksis bare mer fett og enda mer hvitløk oppå de tre feddene som allerede er der. *(Tolkning lagt til.)*
 - **Maris Piper er britisk.** Norske motsvarigheter er **Beate, Kerrs Pink eller Pimpernel** – melne sorter der stivelsen binder gratengen. Fastkokende poteter gir skiver som ligger løst i fløten.
 - **Osten skal på til slutt, ikke fra start.** En time under folie brenner osten. Kilden sier ingenting om rekkefølgen, men det er slik det må gjøres.
@@ -16503,7 +16503,7 @@ Den rikeste av potetgratengene i samlingen: nesten en liter fløte og melk til e
 
 **Kilde:** Chef Romain Avril (chefromainavril.com, 18. juli 2022) · **Kjøkken:** Fransk · **Tid:** 3 t + natten over i kjøleskap · **Porsjoner:** 8
 
-Kryssingen mellom de to potetkakene i samlingen: den tradisjonelle Pomme Anna og Thomas Kellers pavé. Bakes som en Anna med urter mellom lagene, og presses og friteres som en pavé. Kilden lar deg velge om du vil stoppe halvveis.
+En krysning mellom to klassiske potetkaker: den tradisjonelle Pomme Anna og Thomas Kellers pavé. Bakes som en Anna med urter mellom lagene, og presses og friteres som en pavé. Kilden lar deg velge om du vil stoppe halvveis.
 
 ### Ingredienser
 
@@ -16532,15 +16532,15 @@ Kryssingen mellom de to potetkakene i samlingen: den tradisjonelle Pomme Anna og
 ### Notater
 
 - **Dette er mellomformen mellom [pommes Anna (T50)](#t50-pommes-anna) og [potetpavé (T18)](#t18-potetpavé)**, og kilden sier det selv. Fra Anna henter den lagvis pensling med klaret smør og urter mellom lagene; fra pavéen henter den pressingen over natten og friteringen. Steg 9 er valgfritt – stopper du der, har du i praksis en Pomme Anna med urter.
-- **165 °C i 2½ time er lavere og lengre enn de to andre.** [T50](#t50-pommes-anna) kjører 180 °C i 2 timer, [T18](#t18-potetpavé) 170 °C varmluft i 2 timer. Den lave temperaturen her er tilpasset at blokken skal presses etterpå og holde formen – jo mer skånsomt potetene er kokt, jo mindre faller de fra hverandre under kniven. *(Sammenligning lagt til.)*
-- **Potetene skal ikke skylles etter skjæring.** Kilden vasker dem hele, før skjæring, og det er riktig – overflatestivelsen på skivene er limet som binder lagene. Se den lengre diskusjonen i [T18](#t18-potetpavé). *(Presisering.)*
+- **165 °C i 2½ time er lavere og lengre enn de to andre.** [Pommes Anna (T50)](#t50-pommes-anna) stekes på 180 °C i 2 timer, [potetpavéen (T18)](#t18-potetpavé) på 170 °C varmluft i 2 timer. Den lave temperaturen her er tilpasset at blokken skal presses etterpå og holde formen – jo mer skånsomt potetene er kokt, jo mindre faller de fra hverandre under kniven. *(Sammenligning lagt til.)*
+- **Potetene skal ikke skylles etter skjæring.** Kilden vasker dem hele, før skjæring, og det er riktig – overflatestivelsen på skivene er limet som binder lagene. Se den lengre diskusjonen i [potetpavéen (T18)](#t18-potetpavé). *(Presisering.)*
 - **Potetsorten er ikke oppgitt.** Bruk melne sorter – **Beate, Kerrs Pink eller Pimpernel**. Fastkokende poteter binder ikke, og blokken faller fra hverandre når du skjærer den. *(Erstatning lagt til.)*
 - **Fem poteter er upresist.** Til en form på 28 × 13 cm trenger du **ca. 1,2 kg**. *(Lagt til.)*
-- **Pensling lag for lag tar tid, men er mer presist** enn å vende alle skivene i smør slik [T18](#t18-potetpavé) gjør. Du bruker mindre smør og får jevnere fordeling – til gjengjeld står du lenger ved benken.
+- **Pensling lag for lag tar tid, men er mer presist** enn å vende alle skivene i smør slik [potetpavéen (T18)](#t18-potetpavé) gjør. Du bruker mindre smør og får jevnere fordeling – til gjengjeld står du lenger ved benken.
 - **Urter hvert annet lag, ikke i hvert.** Kilden er tydelig her. For mye urt gir bitterhet etter 2½ time i ovnen, og timian og rosmarin er begge kraftige. Ribb dem og hakk dem fint – hele nåler blir seige.
 - **Vekten under pressingen bør være jevn og tung.** En identisk form fylt med hermetikkbokser er det som fungerer best. Legger du bare noe tungt oppå midten, blir blokken ujevn.
-- **Klaret smør, ikke vanlig smør.** Melkeproteinene i vanlig smør svir seg i løpet av 2½ time og gir bitter smak. Ghee fungerer direkte. Vil du klare smøret selv, se metoden i [T50](#t50-pommes-anna).
-- **Fritering i klaret smør er dyrt og fungerer.** Smørfett har røykpunkt rundt 200 °C når melkeproteinene er fjernet, så det holder til denne bruken. Vil du spare, bruk nøytral olje på 160 °C, som i [T18](#t18-potetpavé) – smaken er allerede bygget inn i blokken.
+- **Klaret smør, ikke vanlig smør.** Melkeproteinene i vanlig smør svir seg i løpet av 2½ time og gir bitter smak. Ghee fungerer direkte. Vil du klare smøret selv, se metoden i [pommes Anna (T50)](#t50-pommes-anna).
+- **Fritering i klaret smør er dyrt og fungerer.** Smørfett har røykpunkt rundt 200 °C når melkeproteinene er fjernet, så det holder til denne bruken. Vil du spare, bruk nøytral olje på 160 °C, som i [potetpavéen (T18)](#t18-potetpavé) – smaken er allerede bygget inn i blokken.
 - **Kildens formmål er 11 × 5 tommer**, altså ca. 28 × 13 cm – en vanlig avlang brødform er litt smalere og gir en høyere blokk med færre, større stykker.
 - **Alt utenom siste steg gjøres dagen før.** Det er hele poenget med pressingen: på serveringsdagen tar det ti minutter.
 
@@ -16565,8 +16565,8 @@ Hasselbackpoteter i ovn, med skallet på. Smøret legges på først etter en hal
 
 ### Fremgangsmåte
 
-1. **Klargjør potetene.** Vask dem godt og tørk dem. Kilden skreller dem ikke. Skjær av litt av langsiden på hver potet.
-2. **Legg opp for snittingen.** Da står poteten stabilt når den skal stekes, og den blir lettere å skjære. Legg en spisepinne på hver side av poteten, så du ikke kan skjære helt igjennom.
+1. **Klargjør potetene.** Vask dem godt og tørk dem. Kilden skreller dem ikke. Skjær en tynn skive av den ene langsiden på hver potet, så den står stabilt i formen og blir lettere å skjære.
+2. **Legg opp for snittingen.** Legg en spisepinne på hver side av poteten, så du ikke kan skjære helt igjennom.
 3. **Snitt og forbered.** Skjær ned i poteten til kniven treffer pinnene. Ganske tynne skiver er best, men velg selv. Forvarm ovnen til **220 °C varmluft**. Legg potetene i en smurt ildfast form, pensle med litt god olivenolje og krydre med salt og pepper.
 4. **Første steking: 30 minutter.** Ta ut formen og legg på smør, urter og eventuelt hvitløk. Bruk **ostehøvel** til å skjære tynne smørskiver og legg én på hver potet – da fordeler smøret seg jevnt og renner ned i alle sprekkene.
 5. **Andre steking: 15 minutter.** Sett formen tilbake i ovnen. Øs over noe av det krydrede smøret til slutt.
@@ -16574,9 +16574,9 @@ Hasselbackpoteter i ovn, med skallet på. Smøret legges på først etter en hal
 ### Notater
 
 - **Ostehøvelen er kildens beste triks.** En tynn, bred smørskive smelter jevnt utover hele poteten og trekker ned mellom skivene. En klatt smør blir liggende på toppen og renner av på én side. Enkelt, og det merkes.
-- **Å skjære av langsiden er også godt tenkt.** Poteten vipper ikke under snittingen, og den ligger stabilt i formen. [T51](#t51-hasselbackpoteter-med-hvitløkssmør) hopper over dette.
+- **Å skjære av langsiden er også godt tenkt.** Poteten vipper ikke under snittingen, og den ligger stabilt i formen. [Hasselbackpotetene med hvitløkssmør (T51)](#t51-hasselbackpoteter-med-hvitløkssmør) hopper over dette.
 - **Smøret og hvitløken kommer først etter 30 minutter, og det er poenget.** Hvitløk brenner på 220 °C lenge før potetene er ferdige, og smør svir seg. Den samme feilen er lett å gjøre hvis man vil «forenkle» ved å ha alt på fra start. *(Verdt å merke seg.)*
-- **Spisepinnetrikset** er det samme som er ført inn i [T51](#t51-hasselbackpoteter-med-hvitløkssmør) – her er det kildens eget.
+- **Spisepinnetrikset** er det samme som er ført inn i [T51](#t51-hasselbackpoteter-med-hvitløkssmør) – her kommer det fra kilden selv.
 - **Potetsorten er ikke oppgitt.** Til hasselback vil du ha en potet som holder formen, men ikke er helt fast – **Beate** eller **Asterix** er trygge valg. Helt melne poteter faller fra hverandre i viften.
 - **Skallet beholdes.** Kilden skreller ikke, og det er riktig for denne retten – skallet holder poteten samlet og blir sprøtt.
 - **Smørmengden er liten.** Én ostehøvelskive er 5–8 g, altså rundt 25 g til fire personer. Vil du ha den rausere versjonen med hvitløkssmør rørt på forhånd, se [T51](#t51-hasselbackpoteter-med-hvitløkssmør), som bruker 100 g.
@@ -16610,11 +16610,11 @@ Potetskiver friteres to ganger og blåser seg opp til hule, sprø puter. Én ing
 ### Notater
 
 - **Slik virker det.** Den første, milde friteringen danner en tett hinne på overflaten av skiven uten å tørke den ut. I den andre, langt varmere friteringen fordamper fuktigheten inne i skiven momentant, og dampen har ingen vei ut – den blåser skiven opp som en ballong. Går noe galt med hinnen, kommer dampen ut og skiven forblir flat. *(Forklaring lagt til.)*
-- **Regn med at ikke alle skivene puffer.** Selv på profesjonelle kjøkken lykkes en god del under 100 %. Skjær flere enn du trenger, og sorter fra de som blåste seg opp etter første fritering – bare de går videre til den andre. Dette er en rett der du må godta svinn. *(Forventningsavklaring lagt til.)*
+- **Regn med at ikke alle skivene blåser seg opp.** Selv på profesjonelle kjøkken blir noen flate. Skjær flere enn du trenger – dette er en rett der du må godta svinn. *(Forventningsavklaring lagt til.)*
 - **Tykkelsen er alt.** 3–4 mm. Tynnere gir potetchips, tykkere gir vanlig pommes frites. Mandolin er praktisk talt påkrevd – ujevne skiver puffer ikke jevnt. *(Presisering lagt til.)*
-- **Trimmingen til ovaler er ikke pynt.** Like store skiver steker likt og puffer likt. Avskjæret kan brukes til [T43](#t43-kantarellsaus)-saus, suppe eller potetmos.
+- **Trimmingen til ovaler er ikke pynt.** Like store skiver steker likt og puffer likt. Avskjæret kan brukes i suppe eller potetmos.
 - **Potetsorten avgjør.** Du trenger høyt stivelsesinnhold, lavt vanninnhold og lite sukker – russet og King Edward er standardvalgene ute. Norske motsvarigheter er **Beate, Kerrs Pink og Pimpernel**. Fastkokende og nypoteter fungerer ikke; de mangler stivelsen som gir den tette hinnen. *(Erstatning lagt til.)*
-- **Tørk skivene helt.** Vann på overflaten hindrer hinnen i å danne seg, i tillegg til at det spruter i 150-gradig olje. Ikke bløtlegg dem – stivelsen på overflaten er en del av det som skal til. *(Lagt til.)*
+- **Tørk skivene helt.** Vann på overflaten hindrer hinnen i å danne seg, i tillegg til at det spruter i olje på 150 °C. Ikke bløtlegg dem – stivelsen på overflaten er en del av det som skal til. *(Lagt til.)*
 - **Beveg skivene under første fritering.** Rist pannen forsiktig eller skyv dem rundt med hullsleiv, så de ikke legger seg mot bunnen. Det er dette som får hinnen til å dannes jevnt. Regn **4–5 minutter**, til de er så vidt lyse. *(Tidsanslag lagt til.)*
 - **Skivene kan hvile mellom friteringene.** Etter første omgang kan de ligge avkjølt på bakepapir under et klede i flere timer før den siste. Praktisk hvis du lager mat til gjester. *(Lagt til.)*
 - **Andre fritering tar under et minutt.** 30–60 sekunder, med stadig bevegelse så de brunes jevnt.
@@ -16627,7 +16627,7 @@ Potetskiver friteres to ganger og blåser seg opp til hule, sprø puter. Én ing
 
 ## T57. Gratin dauphinois på 15 timer – Chef Romain Avril sin versjon
 
-**Kilde:** Chef Romain Avril (chefromainavril.com, 7. juni 2022) · **Kjøkken:** Fransk · **Tid:** ca. 5 t aktivt + natten over i kjøleskap · **Porsjoner:** 8
+**Kilde:** Chef Romain Avril (chefromainavril.com, 7. juni 2022) · **Kjøkken:** Fransk · **Tid:** ca. 5 t (ca. 45 min aktivt) + natten over i kjøleskap · **Porsjoner:** 8
 
 Dauphinois som ender som pavé: hårtynne potetlag med trukket fløte og emmental, bakt fire timer på lav varme, presset over natten, skåret i firkanter og brunet i smør. Kombinasjonen av grateng og pavé – de fleste stopper etter fire timer, og det er lov.
 
@@ -16677,14 +16677,14 @@ Dauphinois som ender som pavé: hårtynne potetlag med trukket fløte og emmenta
 - **Forfatteren presiserer skivetykkelsen i kommentarfeltet:** hårtynt, **0,5 mm** på mandolin. Det står ikke i selve oppskriften, og det er den viktigste opplysningen i hele retten – tykkere skiver gir ikke den tette, kompakte blokken som lar seg skjære i pavéer. *(Presisering hentet fra kommentarfeltet.)*
 - **Hvitløken i ferdigstillingen mangler i ingredienslisten.** Punkt 13 ber deg tilsette hvitløk sammen med smøret og urtene, men den er ikke oppført. Regn **2–3 fedd, knust med skallet på**. *(Rettelse lagt til.)*
 - **Ost og fløte bare hvert tredje lag** er kildens grep, og det er en balansegang: nok væske til at potetene blir møre, lite nok til at blokken holder sammen under kniven. Fyller du på for hvert lag, får du en løs grateng som ikke lar seg presse. Total væskemengde er bare 5 dl til 5 poteter – langt mindre enn i [Mr Grubworks sin versjon (T53)](#t53-gratin-dauphinois--mr-grubworks-sin-versjon), som bruker 9 dl til 1 kg.
-- **150 °C i fire timer er lenge og lavt med hensikt.** Potetene skal bli helt møre uten at fløten koker og skiller seg, og uten at kantene svir seg. Det er samme logikk som i [T54](#t54-pomme-anna-pavé--hybrid).
-- **Emmental smelter jevnere enn gruyère** og er mildere. 200 g til 5 poteter gir en tydelig osteaktig grateng – strengt tatt nærmere en *gratin savoyard* enn en dauphinois, som tradisjonelt ikke inneholder ost i det hele tatt. Samme innvending gjelder [T27](#t27-gratin-dauphinois) og [T53](#t53-gratin-dauphinois--mr-grubworks-sin-versjon). *(Bakgrunn lagt til.)*
+- **150 °C i fire timer er lenge og lavt med hensikt.** Potetene skal bli helt møre uten at fløten koker og skiller seg, og uten at kantene svir seg. Det er samme logikk som i [pomme Anna pavé (T54)](#t54-pomme-anna-pavé--hybrid).
+- **Emmental smelter jevnere enn gruyère** og er mildere. 200 g til 5 poteter gir en tydelig osteaktig grateng – strengt tatt nærmere en *gratin savoyard* enn en dauphinois, som tradisjonelt ikke inneholder ost i det hele tatt. Samme innvending gjelder [gratin dauphinois (T27)](#t27-gratin-dauphinois) og [Mr Grubworks sin versjon (T53)](#t53-gratin-dauphinois--mr-grubworks-sin-versjon). *(Bakgrunn lagt til.)*
 - **Potetsorten er russet.** Norske motsvarigheter er **Beate, Kerrs Pink eller Pimpernel** – melne sorter der stivelsen binder lagene. Fastkokende poteter gir en blokk som faller fra hverandre. *(Erstatning lagt til.)*
 - **1 ts muskat er raust**, og i tillegg skal hvert lag krydres med den. Start lavere – muskat blir bitter i for store mengder. *(Justering lagt til.)*
-- **Ikke skyll potetskivene.** Kilden legger de hele potetene i vann før skjæring, ikke skivene etterpå – riktig, siden stivelsen på skivene er det som binder. Se [T18](#t18-potetpavé).
-- **Vekten skal være lett**, ikke tung. Kilden sier «light weight, a couple cans» – for hardt press klemmer fløten ut og gir en tørr blokk. Til forskjell fra [T18](#t18-potetpavé), der målet er en tettere pavé.
+- **Ikke skyll potetskivene.** Kilden legger de hele potetene i vann før skjæring, ikke skivene etterpå – riktig, siden stivelsen på skivene er det som binder. Se [potetpavéen (T18)](#t18-potetpavé).
+- **Vekten skal være lett**, ikke tung. Kilden sier «light weight, a couple cans» – for hardt press klemmer fløten ut og gir en tørr blokk. Til forskjell fra [potetpavéen (T18)](#t18-potetpavé), der målet er en tettere pavé.
 - **«15 timer» er markedsføring.** Reell arbeidstid er 45 minutter; resten er fire timer i ovnen og en natt i kjøleskapet. Steg 1–10 kan gjøres på en ettermiddag.
-- **Samlingens fire dauphinois-varianter:** [den klassiske (T27)](#t27-gratin-dauphinois) er den enkleste, [med trøffelbrie (T52)](#t52-potetgrateng-med-trøffelbrie) den raskeste, [Mr Grubworks sin versjon (T53)](#t53-gratin-dauphinois--mr-grubworks-sin-versjon) den rikeste, og denne den mest arbeidskrevende. Se også [pomme Anna pavé (T54)](#t54-pomme-anna-pavé--hybrid), som bruker samme presseteknikk uten fløte.
+- **Dauphinois-variantene:** [den klassiske (T27)](#t27-gratin-dauphinois) er den enkleste, [med trøffelbrie (T52)](#t52-potetgrateng-med-trøffelbrie) den raskeste, [Mr Grubworks sin versjon (T53)](#t53-gratin-dauphinois--mr-grubworks-sin-versjon) den rikeste, og denne den mest arbeidskrevende. Se også [pomme Anna pavé (T54)](#t54-pomme-anna-pavé--hybrid), som bruker samme presseteknikk uten fløte.
 
 ---
 
