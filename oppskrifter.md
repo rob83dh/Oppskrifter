@@ -25166,7 +25166,7 @@ Havregryn som bløtlegges kaldt i stedet for å kokes. Fem minutters arbeid kvel
 - **Saltklypen betyr mer enn du tror.** Uten den smaker det flatt uansett hvor mye honning du har i.
 - **Havregryn, ikke havremel eller store gryn.** Lettkokte er riktig – store gryn blir seige uten koking.
 - **Holdbarhet:** 4 døgn kjøleskap. Lag hele uken på søndag i separate glass.
-- **Beslektet:** [F7](#f7-granola) er den ristede varianten, og kan strøs over.
+- **Beslektet:** [granola (F7)](#f7-granola) er den ristede varianten, og kan strøs over.
 
 ---
 
@@ -25241,7 +25241,7 @@ Sprøstekt bacon og speilegg mellom to skiver smurt brød. Ingen saus – bare b
 - **Baconet stekes i tørr panne.** Det avgir nok fett selv, og tilsatt olje gjør bare at det koker.
 - **Middels varme på baconet.** For sterk varme gir brent kant og seig midte.
 - **Holdbarhet:** ingen. Dette er en rett som spises umiddelbart.
-- **Beslektet:** [S24](#s24-eggesalat-med-sriracha-og-bacon) bruker samme to ingredienser kaldt.
+- **Beslektet:** [eggesalat med sriracha og bacon (S24)](#s24-eggesalat-med-sriracha-og-bacon) bruker samme to ingredienser kaldt.
 
 ---
 
@@ -25254,7 +25254,7 @@ Pannekaker med ricotta i røren og piskede eggehviter vendt inn. Resultatet er l
 ### Ingredienser
 
 - 250 g ricotta
-- 4 egg, delt
+- 4 egg, skilt
 - 2 dl melk
 - 150 g hvetemel
 - 2 ts bakepulver
@@ -25280,7 +25280,7 @@ Pannekaker med ricotta i røren og piskede eggehviter vendt inn. Resultatet er l
 - **Lavere varme enn vanlige pannekaker.** De er tykkere og fuktigere, og trenger tid til å bli stekt i midten.
 - **Sitronskallet er ikke valgfritt.** Ricotta er mild og litt fet, og syren er det som holder retten fra å bli tung.
 - **Holdbarhet:** spises nystekte. Røren tåler ikke oppbevaring.
-- **Beslektet:** [F2](#f2-amerikanske-pannekaker) er den enklere hverdagsvarianten, og [S13](#s13-pisket-ricotta-med-marinerte-oliven-chili-og-appelsin) bruker samme ost salt.
+- **Beslektet:** [amerikanske pannekaker (F2)](#f2-amerikanske-pannekaker) er den enklere hverdagsvarianten, og [pisket ricotta (S13)](#s13-pisket-ricotta-med-marinerte-oliven-chili-og-appelsin) bruker samme ost salt.
 
 ---
 
@@ -25317,7 +25317,7 @@ Eggerøre som skal ha konsistens som en luftig risgrøt. Fløte eller rømme rø
 - **Røres uten stans.** Står den i ro, setter det seg et fast lag mot bunnen, og da får du eggerøre med klumper i.
 - **«Luftig risgrøt» er målet**, ifølge kilden. Er den fast nok til å skjæres, har den kokt for lenge.
 - **Vannet i eggene** gir damp som løfter massen. To spiseskjeer på tre egg er mye, og det er meningen.
-- **Beslektet:** [F3](#f3-fransk-eggerøre) er samlingens andre franske eggerøre – sammenlign metodene, forskjellen ligger i hva som stopper varmen.
+- **Beslektet:** [fransk eggerøre (F3)](#f3-fransk-eggerøre) er en annen fransk eggerøre – sammenlign metodene, forskjellen ligger i hva som stopper varmen.
 
 ---
 
@@ -25366,11 +25366,11 @@ Spansk tortilla på snarveien: potetchips i stedet for konfiterte poteter. Chips
 - 2–3 ss vann
 - 2 ss olivenolje
 - 1 ss smør
-- 2 ss aioli, se [T15](#t15-aioli)
+- 2 ss aioli, se [aioli (T15)](#t15-aioli)
 - 25 g potetchips
 - 1 ts piment d'Espelette
 - Et dryss salt
-- 1 ss løkkompott *(se notat)*
+- 1 ss løkkompott, se [Hellstrøms løkkompott (T82)](#t82-hellstrøms-løkkompott)
 
 ### Fremgangsmåte
 
@@ -25385,8 +25385,8 @@ Spansk tortilla på snarveien: potetchips i stedet for konfiterte poteter. Chips
 
 - **Potetchipsen er hele poenget.** En ekte spansk tortilla krever poteter konfitert i olivenolje, som tar tre kvarter. Chips er allerede stekt i fett og gjennomkokt, så den trenger bare å suge til seg egg. Resultatet ligner overraskende mye.
 - **Chipsen skal i med det samme**, mens eggemassen er rå. Venter du til den begynner å stivne, får chipsen ikke tid til å mykne, og du sitter igjen med sprø biter i en ferdig omelett.
-- **Piment d'Espelette** er en mild, fruktig chili fra Baskerland. Har du den ikke, gir mild paprikapulver med en klype cayenne omtrent samme sted.
-- **Løkkompotten henviser til side 75 i boka**, som ikke er med her. Karamellisert løk kokt myk med litt eddik og sukker gjør samme nytte. *(Flagget – kildens egen oppskrift mangler.)*
+- **Piment d'Espelette** er en mild, fruktig chili fra Baskerland. Har du den ikke, gir mildt paprikapulver med en klype cayenne omtrent samme smak.
+- **Løkkompotten** er kildens egen fra samme bok, [Hellstrøms løkkompott (T82)](#t82-hellstrøms-løkkompott). Den holder seg i kjøleskapet, så lag gjerne en porsjon på forhånd.
 - **Beslektet:** [Hellstrøms franske omelett (F13)](#f13-hellstrøms-franske-omelett) er den franske motsatsen, [aioli (T15)](#t15-aioli) er aiolien, og [frittata i langpanne (S26)](#s26-frittata-i-langpanne) er den italienske slektningen.
 
 ---
@@ -25417,7 +25417,7 @@ Spansk tortilla på snarveien: potetchips i stedet for konfiterte poteter. Chips
 - **Tiden regnes fra ilegging**, presiserer kilden – ikke fra vannet koker opp igjen. Det er den vanligste kilden til feil, for vannet faller flere grader når kalde egg går i.
 - **Kalde egg fra kjøleskapet er forutsetningen** for at tabellen stemmer. Romtempererte egg blir ferdig raskere, og da er tre minutter allerede bløtkokt.
 - **Eddiken er en forsikring.** Sprekker skallet under kokingen, koagulerer eggehviten øyeblikkelig i det sure vannet og tetter sprekken, i stedet for å velte ut i kjelen.
-- **Beslektet:** [F16](#f16-hellstrøms-posjerte-egg) bruker samme eddikprinsipp, og [T8](#t8-ramenegg-ajitama) bygger videre på det bløtkokte egget.
+- **Beslektet:** [posjerte egg (F16)](#f16-hellstrøms-posjerte-egg) bruker samme eddikprinsipp, og [ramenegg (T8)](#t8-ramenegg-ajitama) bygger videre på det bløtkokte egget.
 
 ---
 
@@ -25450,7 +25450,9 @@ Eddik både i vannet og i koppen. Virvelen i vannet samler hviten rundt plommen,
 - **Virvelen gjør jobben mekanisk.** Vannet i bevegelse legger den løse hviten rundt plommen i stedet for å la den drive utover.
 - **Vid kjele, ikke dyp.** Eggene trenger gulvplass, ellers klistrer de seg sammen.
 - **Kaldt vann etterpå er ikke bare for oppbevaring.** Restvarmen koker videre i egget, og uten avkjøling er den bløte plommen borte innen du har dekket bordet. Posjerte egg kan lages på forhånd og varmes tilbake i varmt vann i et halvminutt.
-- **Beslektet:** [F15](#f15-hellstrøms-369-minutters-egg) er kokte egg etter samme skole, og [F4](#f4-eggs-benedict) er den klassiske bruken.
+- **Beslektet:** [3–6–9 minutters egg (F15)](#f15-hellstrøms-369-minutters-egg) er kokte egg etter samme skole, og [eggs Benedict (F4)](#f4-eggs-benedict) er den klassiske bruken.
+
+---
 
 ## F17. Tyrkiske egg (çılbır)
 
@@ -25465,8 +25467,8 @@ Posjerte egg over hvitløksyoghurt med tørket ramsløk og sitronskall, toppet m
 - 4 ss usaltet smør
 - 2½ ts pul biber (Aleppo-pepper)
 - 4 dl yoghurt (gresk eller tyrkisk)
-- 1 ts ramsløk (kan sløyfes – eventuelt hvitløk)
-- Zest av en halv sitron
+- 1 ts tørket ramsløk (kan sløyfes – eventuelt hvitløk)
+- Revet skall av ½ sitron
 - Mynte
 - Salt og pepper etter smak
 - Et godt brød til å dyppe med
@@ -25485,7 +25487,7 @@ Posjerte egg over hvitløksyoghurt med tørket ramsløk og sitronskall, toppet m
 - **Pul biber (Aleppo-pepper) er et mildt, litt syrlig chilipulver** – kilden nevner at røkt paprikapulver kan brukes som erstatning, men presiserer at det ikke gir samme smak.
 - **Ramsløken er tørket** i kildens versjon og røres inn i yoghurten kald, ikke stekt inn i chilismøret.
 - **Retten heter çılbır på tyrkisk** – en klassisk kombinasjon av posjerte egg og hvitløksyoghurt, ofte servert til frokost eller lunsj.
-- **Beslektet:** [F16. Hellstrøms posjerte egg](#f16-hellstrøms-posjerte-egg) bruker samme eddikprinsipp for posjeringen.
+- **Beslektet:** [Hellstrøms posjerte egg (F16)](#f16-hellstrøms-posjerte-egg) bruker samme eddikprinsipp for posjeringen.
 
 ---
 
