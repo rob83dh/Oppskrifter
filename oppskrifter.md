@@ -9671,7 +9671,7 @@ Paprika fylt med ris, urter, rosiner og pinjekjerner, bakt i ovn med olivenolje 
 - 1 ts kanel
 - 1 ts allehånde
 - 1 ts sukker
-- 1,5 ts salt
+- 1½ ts salt
 - 3 dl vann
 - Saft av 1 sitron
 
@@ -9898,7 +9898,7 @@ Kjøttsaus med chorizo, korianderfrø og fennikelfrø, lagt i lag med nachochips
 - 1 ts chilipulver *(eventuelt litt mer)*
 - 2 dl knuste hermetiske tomater
 - Salt og pepper
-- 15 g olje til steking *(mengde lagt til.)*
+- 1 ss olje til steking *(Lagt til.)*
 
 **Gratineringen**
 - 1 pose nachochips *(ca. 175–200 g – se notat)*
