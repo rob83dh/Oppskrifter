@@ -2068,7 +2068,7 @@ Kyllinglår surret i en kremet kokossaus med gochujang, sitrongress og limeblade
 - 1 sjalottløk, finhakket
 - 2 ss gochujang
 - 1 ss tomatpuré
-- 400 ml kokosmelk
+- 4 dl kokosmelk
 - 1 stilk sitrongress, banket
 - 4–5 kaffirlimeblader, revet i biter
 
@@ -2112,15 +2112,15 @@ Stekte kyllinglår i en fløtesaus med sopp, hvitløk og parmesan. Ingen asiatis
 - 3 kyllinglår med skinn, uten bein
 - Salt og pepper
 - Maisenna, til vending
-- 12 g olje, til steking *(mengde lagt til.)*
+- 1 ss nøytral olje, til steking *(Lagt til.)*
 
 **Soppsaus**
 - 2 ss smør
 - 1 sjalottløk, hakket
 - 6 hvitløksfedd, finhakket
 - 200 g sopp, i skiver
-- 240 ml kremfløte
-- 120 ml kyllingkraft
+- 2,5 dl kremfløte
+- 1,2 dl kyllingkraft
 - 2 ts italiensk krydderblanding
 - 1 ts hvitløkspulver
 - 1 ts løkpulver
@@ -2145,7 +2145,7 @@ Stekte kyllinglår i en fløtesaus med sopp, hvitløk og parmesan. Ingen asiatis
 ### Notater
 
 - **Motsigelse i originalen:** oppskriftskortet sier bare «stek til soppen mykner og sjalottløken blir blank», mens tipsdelen i samme artikkel er tydelig på at soppen *må* brunes til all væsken har dampet av før fløten går i. Følg tipsdelen — kortet gir vassen saus. Regn 8–10 minutter, ikke 3.
-- **90 g parmesan mot 240 ml fløte er mye ost.** Den tykner sausen kraftig og salter den godt. Smak før du salter mer.
+- **90 g parmesan mot 2,5 dl fløte er mye ost.** Den tykner sausen kraftig og salter den godt. Smak før du salter mer.
 - **Ikke la sausen fosskoke.** Fløte med så mye ost i kan skille seg på sterk varme. Små bobler.
 - **Kjernetemperatur 74 °C.**
 - **Skrap bunnen** når kraften går i. Stekesjyen etter kyllingen er det sausen bygger på.
@@ -2166,7 +2166,7 @@ Taiwansk klassiker der kylling koker inn i en blank, klebrig glasur av soya, ris
 ### Ingredienser
 
 - 450 g kyllinglårfilet uten bein, i passe store biter
-- 1½ ss sesamolje
+- 1 ss + 1½ ts sesamolje
 - 4 skiver ingefær
 - 8–10 hvitløksfedd, i skiver
 - 4 thaichili
@@ -2175,7 +2175,7 @@ Taiwansk klassiker der kylling koker inn i en blank, klebrig glasur av soya, ris
 - 1 ss lys soyasaus
 - 1 ss brunt sukker
 - ½ ts MSG
-- 1–2 dl thaibasilikumblader, godt pakket *(se notat om mengde)*
+- 15–20 g thaibasilikumblader *(se notat om mengde)*
 
 ### Fremgangsmåte
 
@@ -2188,8 +2188,8 @@ Taiwansk klassiker der kylling koker inn i en blank, klebrig glasur av soya, ris
 
 ### Notater
 
-- **Navnet stemmer ikke for denne versjonen.** «Tre kopper» viser til én kopp soyasaus, én kopp risvin og én kopp sesamolje. Denne oppskriften bruker 1½ ss sesamolje, 2 ss vin og drøyt 1 ss soya til sammen — altså ingenting i nærheten av like deler. Artikkelen forklarer navnet grundig og bryter så med det i selve oppskriften. Det er greit nok — like deler ville blitt uspiselig salt og fett — men ikke tro at du lager den klassiske proporsjonen.
-- **Mengden basilikum er uleselig i kilden** (tegnet er ødelagt på nettsiden). En god neve, 1–2 dl løst pakket, er standard for denne mengden kylling. Mer heller enn mindre.
+- **Navnet stemmer ikke for denne versjonen.** «Tre kopper» viser til én kopp soyasaus, én kopp risvin og én kopp sesamolje. Denne oppskriften bruker 1 ss + 1½ ts sesamolje, 2 ss vin og drøyt 1 ss soya til sammen — altså ingenting i nærheten av like deler. Artikkelen forklarer navnet grundig og bryter så med det i selve oppskriften. Det er greit nok — like deler ville blitt uspiselig salt og fett — men ikke tro at du lager den klassiske proporsjonen.
+- **Mengden basilikum er uleselig i kilden** (tegnet er ødelagt på nettsiden). En god neve, 15–20 g, er standard for denne mengden kylling. Mer heller enn mindre.
 - **Sesamolje tåler ikke sterk varme.** Oppskriften ber deg varme ristet sesamolje på full varme; den ryker og blir bitter. Bruk halvt nøytral olje og halvt sesamolje, eller skru ned til middels sterk.
 - **Basilikum helt til slutt, aldri før.** Varmen fra sausen skal så vidt falme bladene. Kokes den med, forsvinner hele anisaromaen.
 - **Ikke hopp over bruningen** i punkt 3. Det er den karamelliserte bunnen glasuren bygger på.
@@ -2258,8 +2258,8 @@ Tykke udonnudler i en fløtesaus med karamellisert sopp og hvit miso. Misoen gj�
 - 1 sjalottløk, finhakket
 - 2 hvitløksfedd, finhakket
 - 1 ts hvit misopasta
-- 250 ml kremfløte
-- 80 ml lys kyllingkraft, usaltet eller lettsaltet
+- 2,5 dl kremfløte
+- 80 g lys kyllingkraft, usaltet eller lettsaltet
 - 1 ts lys soyasaus
 - ½ ts MSG
 - ½ ts nykvernet hvit pepper
@@ -2310,7 +2310,7 @@ Stekt kyllinglår glasert i teriyakisaus, servert over varm ris med sesamfrø og
 - 2 kyllinglår uten bein, med skinn *(se notat)*
 - 3 ss soyasaus
 - 1 ss brunt sukker
-- Mirin *(mengde ikke oppgitt i kilden — se notat)*
+- 1 ss mirin *(Lagt til – se notat.)*
 - 1 hvitløksfedd, finhakket
 - 1 ts revet ingefær
 - 1 ss vann
@@ -2318,7 +2318,7 @@ Stekt kyllinglår glasert i teriyakisaus, servert over varm ris med sesamfrø og
 - 1 ss nøytral olje
 
 **Servering**
-- 2 dl ris
+- 170 g ris
 - 1 vårløk, i skiver
 - 1 ss sesamfrø
 
@@ -2357,10 +2357,10 @@ Rekedumplings i en kokosbasert rød karrisuppe kokt på fiskebuljong, toppet med
 
 - 1 stor løk, eller 2 vanlige
 - 5 hvitløksfedd
-- 1½ ss rød karripasta *(juster etter hvor sterkt du vil ha det)*
-- 400 ml kokosmelk
-- 800 ml fiskebuljong
-- 1½ ss palmesukker
+- 1 ss + 1½ ts rød karripasta *(juster etter hvor sterkt du vil ha det)*
+- 4 dl kokosmelk
+- 8 dl fiskebuljong
+- 1 ss + 1½ ts palmesukker
 - ca. 2 ss fiskesaus
 - 20 dumplings, gjerne rekefylte
 
@@ -2388,7 +2388,7 @@ Rekedumplings i en kokosbasert rød karrisuppe kokt på fiskebuljong, toppet med
 ### Notater
 
 - **Kilden oppgir ingen fremgangsmåte** — bare ingredienslisten, pluss parentesen om at suppen må småkoke i over 20 minutter. Trinnene over er standardmetoden for denne typen rett, ikke kildens egne ord.
-- **Innkokingen er poenget.** 400 ml kokosmelk mot 800 ml buljong er mye væske i utgangspunktet. Kutter du de 20 minuttene, får du en tynn suppe med karrismak i stedet for en samlet kraft.
+- **Innkokingen er poenget.** 4 dl kokosmelk mot 8 dl buljong er mye væske i utgangspunktet. Kutter du de 20 minuttene, får du en tynn suppe med karrismak i stedet for en samlet kraft.
 - **Fiskebuljongen er et bevisst valg** og det som skiller denne fra de fleste røde karrisuppene. Kylling- eller grønnsaksbuljong fungerer, men da er det en annen rett.
 - **Rød karripasta varierer kraftig i styrke** mellom merker. Maesri og Mae Ploy er vesentlig sterkere enn de vestlige. Bruker du et thaimerke første gang, start på 1 ss og juster opp.
 - **Retten er allerede godt saltet** fra buljong, fiskesaus og karripasta. Smak før du salter i det hele tatt, og legg fiskesausen i mot slutten så du kan styre den.
@@ -2444,7 +2444,7 @@ Lettere og mer aromatisk enn de øvrige karri-dumplingsuppene i samlingen: mindr
 ### Notater
 
 - **«3 runder soyasaus» er ikke et mål.** Det betyr en runde langs kanten av gryta, som i praksis blir 1–2 ss. Ført opp slik her. Smak deg fram — fiskesausen salter også.
-- **Kokosmelkmengden henger ikke sammen.** Kilden skriver «3 dl / 1 boks», men en standard norsk boks kokosmelk er 400 ml, ikke 300. Bruker du hele boksen, får du 4 dl og en fyldigere, mildere suppe. Begge deler fungerer — bare vit at de to angivelsene ikke er samme mengde.
+- **Kokosmelkmengden henger ikke sammen.** Kilden skriver «3 dl / 1 boks», men en standard norsk boks kokosmelk er 4 dl, ikke 3. Bruker du hele boksen, får du 4 dl og en fyldigere, mildere suppe. Begge deler fungerer — bare vit at de to angivelsene ikke er samme mengde.
 - **Gulroten er kildens eget usikkerhetsmoment.** Han skriver at den ikke er vanlig i retten, at den fungerte fint, og at han vil prøve fennikel neste gang. Fennikel ville passet godt til lime og urter.
 - **Porsjonsantall er ikke oppgitt.** 20 dumplings og 6 dl væske gir 2–3 porsjoner som hovedrett. Anslaget er mitt.
 - **Limen skal på til slutt, aldri i kokingen.** Syren forsvinner ved varme, og det er den som løfter kokosmelken.
@@ -2467,12 +2467,12 @@ Den kraftigste av karri-dumplingsuppene i samlingen: mest karripasta, mest væsk
 
 - 1 ss nøytral olje
 - ½ løk, hakket
-- ½ ss finhakket ingefær
-- 1½ ss finhakket hvitløk
+- 1½ ts finhakket ingefær
+- 1 ss + 1½ ts finhakket hvitløk
 - 4 ss rød karripasta *(kilden bruker Thai Kitchen — se notat)*
-- ca. 950 ml kyllingkraft
-- 400 ml kokosmelk *(kilden bruker Aroy-D)*
-- 1½ ss sukker
+- ca. 1 liter kyllingkraft
+- 4 dl kokosmelk *(kilden bruker Aroy-D)*
+- 1 ss + 1½ ts sukker
 - 1 ss fiskesaus
 - Saft av 1 lime
 - 24 wontons eller gyoza
@@ -2491,11 +2491,11 @@ Den kraftigste av karri-dumplingsuppene i samlingen: mest karripasta, mest væsk
 
 ### Notater
 
-- **Merkevalget på karripastaen er avgjørende her.** 4 ss er svært mye, og fungerer bare fordi Thai Kitchen er en mild vestlig pasta. Bruker du et thaimerke som Maesri eller Mae Ploy, blir samme mengde nesten uspiselig sterk — start på 1½ ss og juster opp. Dette er den vanligste måten å ødelegge oppskriften på.
+- **Merkevalget på karripastaen er avgjørende her.** 4 ss er svært mye, og fungerer bare fordi Thai Kitchen er en mild vestlig pasta. Bruker du et thaimerke som Maesri eller Mae Ploy, blir samme mengde nesten uspiselig sterk — start på 1–2 ss og juster opp. Dette er den vanligste måten å ødelegge oppskriften på.
 - **Kilden oppgir ingen fremgangsmåte i det hele tatt**, bare ingredienslisten og næringsinnholdet. Trinnene over er standard for denne typen suppe, ikke kildens egne ord.
 - **Ingen tid er oppgitt.** Emneknaggen sier 20-minuttersmiddag, og det er realistisk med ferdige dumplings fra fryseren.
-- **Limesaften skal i etter at gryta er tatt av varmen.** Syren koker bort, og det er den som balanserer 400 ml kokosmelk og 1½ ss sukker.
-- **Suppen er søtere enn de to andre** — 1½ ss sukker på fire porsjoner. Smak før du har i alt, særlig hvis karripastaen din allerede inneholder sukker.
+- **Limesaften skal i etter at gryta er tatt av varmen.** Syren koker bort, og det er den som balanserer kokosmelken og sukkeret.
+- **Suppen er søtere enn de to andre** — 1 ss + 1½ ts sukker på fire porsjoner. Smak før du har i alt, særlig hvis karripastaen din allerede inneholder sukker.
 - **Bruk kokosmelk på boks**, ikke kokosdrikk. Aroy-D er et godt merke og finnes i asiatiske butikker.
 - **Steker du dumplingene separat**, får du sprø bunn mot suppen. Kokt i suppen blir alt mykt.
 - **Næringsinnhold oppgitt i kilden**, per porsjon: 610 kcal, 18 g protein, 29 g fett, 50 g karbohydrat.
@@ -2518,7 +2518,7 @@ Kantonesisk festrett: sideflesk med knallsprø svor og saftig kjøtt. Metoden kr
 - 2 ts hvitløkspulver
 - 1 ts salt
 - 2 ss olje eller hvitvinseddik
-- ca. 1,5 dl grovt salt, til å dekke svoren
+- ca. 180 g grovt salt, til å dekke svoren
 
 **Saus**
 - 2 ss hoisinsaus
@@ -2581,7 +2581,7 @@ Syrlig tom yum-kraft rundet av med kokosmelk, med hjemmelagde svinedumplings i. 
 **Suppe** *(mengder foreslått)*
 - 2–3 ss tom yum-pasta
 - 7 dl vann
-- 200 ml kokosmelk
+- 2 dl kokosmelk
 
 **Topping**
 - Lime
