@@ -8312,8 +8312,8 @@ Risotto med carnaroliris, sopp stekt for seg og ristede hasselnøtter, avsluttet
 - 1 sjalottløk
 - 2 hvitløksfedd
 - 2 dl hvitvin
-- 2 l soppkraft, eller 3 hønsebuljongterninger og 1 ss soyasaus i 2 liter vann
-- 3 dl revet parmesan — ca. 90 g
+- 2 liter soppkraft, eller 3 hønsebuljongterninger og 1 ss soyasaus i 2 liter vann
+- 90 g revet parmesan
 - 50 g smør
 - 600 g valgfri sopp
 - 300–400 g salsiccia, gjerne farse *(mengde ikke oppgitt – se notat)*
@@ -8366,11 +8366,11 @@ Vegetarisk hovedrett bygget i lag: en glatt krem av geitost og mascarpone i bunn
 - 1 rund geitost
 - 100 g mascarpone
 - 100 g kantareller
-- Marconamandler *(mengde ikke oppgitt – se notat)*
+- 50 g marconamandler *(Lagt til – se notat.)*
 - 1 sitron, saft og skall
-- Honning *(mengde ikke oppgitt)*
+- 1 ss honning *(Lagt til.)*
 - Bladpersille, finhakket
-- 12 g smør *(mengde lagt til.)*
+- 1 ss smør *(Lagt til.)*
 - Olivenolje
 - Salt og pepper
 
@@ -8413,7 +8413,7 @@ Rask tomatpasta som får preg av kapers, oliven og fersk chili, avsluttet med mo
 - 2 hvitløksfedd
 - 1 chili
 - 2 ss kapers
-- 1 dl oliven
+- ca. 60 g oliven, uten stein
 - 600 g passata
 - 300 g cherrytomater
 - 2 ts tørket oregano
@@ -8457,18 +8457,18 @@ Kyllingterninger brunet raskt og lagt til side, risoni kokt i samme panne med so
 - 2 ss olivenolje
 - 2 hvitløksfedd
 - 1 gul løk
-- ½ ts chiliflak — 2 krm
+- ½ ts chiliflak *(Omregnet fra 2 krm.)*
 - 2 ss tomatpuré
-- 1 dl soltørkede tomater i olje
+- ca. 60 g soltørkede tomater i olje
 - 250 g cherrytomater
 - 2 ts italiensk krydderblanding
 - 2 ts oregano
-- 2,5 dl risoni
+- ca. 210 g risoni
 - 1 buljongterning
 - Ca. 5 dl vann *(mengde ikke oppgitt – se notat)*
 - 1 dl kremfløte
 - 1 neve fersk spinat
-- Ca. 1,75 dl revet parmesan
+- Ca. 60 g revet parmesan
 - Salt og pepper *(ikke oppført i kilden)*
 
 ### Fremgangsmåte
@@ -8483,13 +8483,13 @@ Kyllingterninger brunet raskt og lagt til side, risoni kokt i samme panne med so
 
 ### Notater
 
-- **Vannmengden mangler, og retten står og faller på den.** Kilden ber deg helle i vann uten å si hvor mye. 2,5 dl risoni trenger rundt **5 dl væske**; med fløten som kommer senere, treffer det bra. Ha ekstra varmt vann klart og spe hvis pannen går tørr før risonien er ferdig. *(Kritisk mangel – lagt til.)*
+- **Vannmengden mangler, og retten står og faller på den.** Kilden ber deg helle i vann uten å si hvor mye. 210 g risoni trenger rundt **5 dl væske**; med fløten som kommer senere, treffer det bra. Ha ekstra varmt vann klart og spe hvis pannen går tørr før risonien er ferdig. *(Kritisk mangel – lagt til.)*
 - **Kyllingen er ikke ferdigstekt i punkt 2, og skal ikke være det.** «Til kantene begynner å bli gjennomstekte» betyr at den bare brunes – men kilden legger den aldri tilbake i pannen. Den skal inn igjen sammen med fløten og spinaten i punkt 6, så den blir gjennomvarm uten å bli tørr. Kjernetemperatur 75 °C. *(Mangel i fremgangsmåten – lagt til.)*
 - **Løk og hvitløk er ikke oppdelt.** Kilden sier bare «vitlöken, löken». Finhakk begge – de skal smelte inn i sausen, ikke ligge som biter. *(Presisering lagt til.)*
 - **Salt og pepper er ikke nevnt noe sted.** Buljongterning, parmesan og soltørkede tomater bidrar alle, så smak til helt til slutt og salt bare hvis det trengs. Pepper bør du derimot ha. *(Lagt til.)*
 - **Bruk oljen fra de soltørkede tomatene.** Den er full av smak, og kan erstatte en del av de 2 ss olivenolje. *(Forslag lagt til.)*
 - **Risoni setter seg fast på sekunder.** Kildens råd om å røre annethvert minutt er godt, men bruk sleiv helt ned i bunnen og en vid panne med tykk bunn. Stivelsen risonien avgir er det som gjør retten kremet – men den samme stivelsen svir seg.
-- **«2 krm» er svensk kryddmått, altså 2 ml** – i overkant av en tredjedels teskje. Regn ½ ts. *(Omregning lagt til.)*
+- **Kilden oppgir «2 krm», svensk kryddmått på 2 ml** – litt under ½ ts. *(Omregnet.)*
 - **Både italiensk krydderblanding og oregano** er med, til sammen 4 ts. Blandinger inneholder allerede oregano, så dette er en dobling. Det er ikke feil, men vet du at blandingen din er oreganotung, kutt den separate oreganoen til 1 ts.
 - **Som matboks tykner retten kraftig over natten.** Risoni fortsetter å suge væske i kjøleskapet. Lag den løsere enn du ville servert den, og spe med en skvett vann ved oppvarming. *(Lagt til.)*
 - **Beslektet:** [one-pot risoni med reker og fetaost (nr. 144)](#144-one-pot-risoni-med-reker-og-fetaost) er samme metode med sjømat og uten fløte, [one-pot kylling med gul karri og ris (nr. 148)](#148-one-pot-kylling-med-gul-karri-og-ris) er den thailandske varianten med ris, og [marry me chicken-suppe med gnocchi (SU1)](#su1-marry-me-chicken-suppe-med-gnocchi) bruker samme kombinasjon av kylling, soltørket tomat og fløte.
@@ -8505,12 +8505,12 @@ Risotto alla milanese med sjømat: safran, carnaroliris og en gremolata av persi
 ### Ingredienser
 
 **Risotto**
-- 2 dl carnaroliris
+- ca. 170 g carnaroliris
 - 2 sjalottløk
 - 2 store hvitløksfedd
 - 1 chili
 - 3 dl tørr hvitvin
-- 2 pakker safran
+- 1 g safran (2 svenske pakker à 0,5 g)
 - 6 dl hønsekraft, buljongterninger fungerer fint
 - 200 g parmesan
 - 100 g smør
@@ -8518,13 +8518,13 @@ Risotto alla milanese med sjømat: safran, carnaroliris og en gremolata av persi
 - Salt og pepper *(lagt til)*
 
 **Reker og topping**
-- Vannameireker *(mengde ikke oppgitt – se notat)*
+- 400–500 g vannameireker *(Lagt til – se notat.)*
 - 100 g ristede pistasjnøtter
 - Fersk dill
 
 **Gremolata**
-- 1 dl bladpersille
-- 1 dl dill
+- ca. 10 g bladpersille
+- ca. 10 g dill
 - 1 hvitløksfedd
 - 1 sitron, saft og revet skall
 - 1 dl olivenolje
@@ -8547,8 +8547,8 @@ Risotto alla milanese med sjømat: safran, carnaroliris og en gremolata av persi
 - **Rekemengden mangler helt.** Regn **400–500 g** rå, pillede reker til fire porsjoner. Vannamei er den vanlige oppdrettsreken som selges frossen i norske butikker, ofte som «kongereker» eller «tigerreker». *(Lagt til.)*
 - **«2 pakker safran» er svensk mål.** Svenske safranposer er 0,5 g, altså **1 g totalt** – det er mye, og gir en kraftig gul risotto. Norske poser varierer; sjekk vekten. Halvparten holder godt. *(Omregning lagt til.)*
 - **Safranen må trekke i varm væske først.** Tørre tråder eller pulver rørt rett i risottoen gir ujevn farge og mindre aroma. Løs den i en øse varm kraft i minst 10 minutter før den går i. *(Lagt til.)*
-- **3 dl vin til 2 dl ris er svært mye.** Normalt brukes en drøy desiliter. Kokes den helt inn, blir risottoen syrlig og alkoholpreget. Bruk **1,5 dl** og øk kraften tilsvarende – eller kok vinen inn i to omganger. *(Justering lagt til.)*
-- **200 g parmesan og 100 g smør til 2 dl ris er også i overkant.** Klassisk mantecatura til denne rismengden er 50 g smør og 50–75 g parmesan. Kildens mengder gir en svært rik risotto. Start lavere og smak. *(Justering lagt til.)*
+- **3 dl vin til 170 g ris er svært mye.** Normalt brukes en drøy desiliter. Kokes den helt inn, blir risottoen syrlig og alkoholpreget. Bruk **1,5 dl** og øk kraften tilsvarende – eller kok vinen inn i to omganger. *(Justering lagt til.)*
+- **200 g parmesan og 100 g smør til 170 g ris er også i overkant.** Klassisk mantecatura til denne rismengden er 50 g smør og 50–75 g parmesan. Kildens mengder gir en svært rik risotto. Start lavere og smak. *(Justering lagt til.)*
 - **Parmesan hører tradisjonelt ikke sammen med sjømat** i italiensk kjøkken. Her er den likevel bærende – risottoen er i praksis en milanese med reker på toppen, ikke en sjømatrisotto. Vil du følge tradisjonen, hold parmesanen i risen og la rekene ligge urørt over. *(Bakgrunn lagt til.)*
 - **Rekene skal stekes for seg og legges på til slutt.** Rører du dem inn i risottoen, blir de gummiaktige av ettervarmen. Ett minutt per side på høy varme er nok.
 - **Dill i en italiensk risotto er nordisk frihet**, ikke tradisjon – men den kler både reker og sitron godt. Gremolataen her er dessuten en oljebasert variant; den klassiske er tørr og består bare av persille, sitronskall og hvitløk.
@@ -8568,10 +8568,10 @@ Kyllingbryst panert i panko og sesamfrø, fritert sprøtt, over romanosalat med 
 
 **Kylling**
 - 4 kyllingbrystfileter
-- 2 dl hvetemel
+- 120 g hvetemel
 - 2 egg
-- 2 dl panko
-- 0,5 dl sesamfrø
+- 50 g panko
+- 30 g sesamfrø
 - Salt og sort pepper
 - Rapsolje til fritering
 
@@ -8581,7 +8581,7 @@ Kyllingbryst panert i panko og sesamfrø, fritert sprøtt, over romanosalat med 
 - 1 stort hvitløksfedd, revet
 - 1 sitron, skall og saft
 - 1 ss dijonsennep
-- 1 dl revet parmesan
+- 30 g revet parmesan
 - 1 ss vann
 - Salt og pepper
 
@@ -8629,19 +8629,19 @@ Risotto satt med tandoorisaus, med et krisp av cashewnøtter, sesamfrø og karri
 - 2 hvitløksfedd
 - 4 ss olivenolje
 - 3 dl tørr hvitvin
-- 3 hønsebuljongterninger til ca. 2 l vann
+- 3 hønsebuljongterninger til ca. 2 liter vann
 - 50 g smør
 - 200 g parmesan
 - Tandoorisaus *(mengde og oppskrift mangler – se notat)*
 - Salt og pepper
 
 **Nøttekrisp**
-- Cashewnøtter *(mengde mangler)*
-- Sesamfrø *(mengde mangler)*
-- Koriander *(mengde mangler)*
-- Karri *(mengde mangler)*
+- 75 g cashewnøtter *(Lagt til.)*
+- 1 ss sesamfrø *(Lagt til.)*
+- ½ potte koriander *(Lagt til.)*
+- 1 ts karri *(Lagt til.)*
 - Saften av ½ sitron
-- Fiskesaus *(mengde mangler)*
+- 1 ts fiskesaus *(Lagt til.)*
 
 ### Fremgangsmåte *(rekonstruert – kilden oppgir ingen)*
 
