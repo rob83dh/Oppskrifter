@@ -24886,14 +24886,14 @@ Melken syrnes med sitronsaft til en erstatning for buttermilk, og røren har bå
 ### Ingredienser
 
 - 1 ts sitronsaft
-- 160 g melk
+- 1,6 dl melk
 - 150 g hvetemel
 - 20 g sukker
 - 1 klype salt
 - 1 ts bakepulver
 - ½ ts natron
 - 2 egg
-- 12 g smør til steking *(mengde lagt til.)*
+- 1 ss smør til steking *(mengde lagt til)*
 
 ### Fremgangsmåte
 
@@ -24902,7 +24902,7 @@ Melken syrnes med sitronsaft til en erstatning for buttermilk, og røren har bå
 3. **Visp eggene inn i den syrnede melken.**
 4. **Bland det våte og det tørre sammen**, men vær forsiktig med å røre for mye.
 5. **Varm en stekepanne med non-stick-belegg** på medium høy varme og ha i litt smør. Det trenger du bare å gjøre første runde.
-6. **Stek pannekakene i omtrent samme størrelse**, og ikke for mange i pannen om gangen. **Snu dem når du ser tydelige bobler på toppen, eller etter 2,5 minutter.** Undersiden trenger **ca. 1 minutt**.
+6. **Stek pannekakene i omtrent samme størrelse**, og ikke for mange i pannen om gangen. **Snu dem når du ser tydelige bobler på toppen, eller etter 2½ minutter.** Undersiden trenger **ca. 1 minutt**.
 7. **Server med lønnesirup og smør**, eller annen topping.
 
 ### Notater
