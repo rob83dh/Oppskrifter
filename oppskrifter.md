@@ -26093,7 +26093,7 @@ Tre ingredienser: maismel, vann og salt. Deigbollene veies til 20 gram hver og p
 
 **Kilde:** Spiselise (spiselise.no) · **Kjøkken:** Italiensk · **Tid:** ca. 1 time 40 min · **Gir:** ca. 500 g *(3 baller)*
 
-Fire liter melk blir til en halv kilo ost på under to timer. Løpen får melken til å skille seg, og deretter strekkes ostemassen varm til den er blank og elastisk – i mikrobølgeovn, eller i 80-graders vann hvis du ikke har en.
+Fire liter melk blir til en halv kilo ost på under to timer. Løpen får melken til å skille seg, og deretter strekkes ostemassen varm til den er blank og elastisk – i mikrobølgeovn, eller i vann på 80 °C hvis du ikke har en.
 
 ### Ingredienser
 
@@ -26137,7 +26137,7 @@ Fire liter melk blir til en halv kilo ost på under to timer. Løpen får melken
 - **Ett døgn på benken gir best smak** ifølge kilden, men osten kan brukes med en gang.
 - **Frysing gjør den lettere å rive.** Skal du bruke mozzarellaen på pizza, er frossen og revet enklere å håndtere enn fersk.
 - **Holdbarhet:** ca. 1 uke i kjøleskap. Tåler frysing.
-- **Beslektet:** [labneh (T133)](#t133-labneh) er samlingens andre ferskost, [pizzadeig med 48 timers heving (G8)](#g8-pizzadeig-med-48-timers-heving) og [pizzasaus (T128)](#t128-pizzasaus) er resten av pizzaen, og [melanzane alla parmigiana (nr. 176)](#176-melanzane-alla-parmigiana) bruker mozzarella i lag.
+- **Beslektet:** [labneh (T133)](#t133-labneh) er en annen ferskost, [pizzadeig med 48 timers heving (G8)](#g8-pizzadeig-med-48-timers-heving) og [pizzasaus (T128)](#t128-pizzasaus) er resten av pizzaen, og [melanzane alla parmigiana (nr. 176)](#176-melanzane-alla-parmigiana) bruker mozzarella i lag.
 
 ---
 
@@ -26170,7 +26170,7 @@ Japansk strøkrydder til ris, egg og grillet fisk. Nori, sesam, salt og litt suk
 - **Nori trekker fuktighet.** Blandingen mister sprøheten i løpet av noen uker. Lag små mengder heller enn ett stort glass.
 - **Bonittflak gjør den ikke-vegetarisk.** Sløyfes de, er furikake helt plantebasert.
 - **Holdbarhet:** 1 måned i tett glass i romtemperatur, mørkt.
-- **Brukes over** [T131](#t131-kokt-ris), [T8](#t8-ramenegg-ajitama) og grillet fisk.
+- **Brukes over** [kokt ris (T131)](#t131-kokt-ris), [ramenegg (T8)](#t8-ramenegg-ajitama) og grillet fisk.
 
 ---
 
@@ -26205,7 +26205,7 @@ Nordindisk krydderblanding som tilsettes mot slutten av tilberedningen, ikke i s
 - **Avkjøling før maling.** Varme frø avgir olje som klistrer kvernen igjen.
 - **Kvernen kan være en kaffekvern.** Kjør et par spiseskjeer ris gjennom etterpå for å rense den.
 - **Holdbarhet:** 3 måneder i tett glass, mørkt. Etter det er den fortsatt trygg, men mye svakere.
-- **Beslektet:** [G20](#g20-zaatar) og [G18](#g18-furikake) er samlingens andre krydderblandinger.
+- **Beslektet:** [za'atar (G20)](#g20-zaatar) og [furikake (G18)](#g18-furikake) er andre krydderblandinger.
 
 ---
 
@@ -26257,7 +26257,7 @@ Japansk grunnbuljong av tang og tørket bonitt. Den koker aldri, tar en halvtime
 1. **Legg kombuen i det kalde vannet** og la den trekke i **30 minutter**. Har du tid, la den stå i kjøleskap over natten.
 2. **Varm langsomt opp** til rundt **60 °C**, altså like før det begynner å dampe. Dette skal ta **10 minutter**.
 3. **Ta ut kombuen** rett før vannet koker. Blir den igjen, avgir den slim og en tydelig bitterhet.
-4. **Kok opp**, ta gryta av platen med en gang, og strø over katsuobushien.
+4. **Kok opp**, ta gryten av platen med en gang, og strø over katsuobushien.
 5. **La flakene synke** av seg selv, **2–3 minutter**. Ikke rør.
 6. **Sil gjennom en finmasket sil** eller et klede. Press ikke på flakene.
 
@@ -26266,7 +26266,7 @@ Japansk grunnbuljong av tang og tørket bonitt. Den koker aldri, tar en halvtime
 - **Kombuen må ut før kokepunktet.** Dette er hele kunsten. Koker den med, får du en glatt, bitter buljong i stedet for en klar med dyp umami.
 - **Ikke skyll eller skrap kombuen.** Det hvite pulveret på overflaten er mannitol, og det er smak. Tørk eventuelt av med tørt papir.
 - **Katsuobushien røres aldri.** Rører du, blir buljongen grumsete og får en tydelig fiskesmak i stedet for den rene røykaktige.
-- **Andregangs dashi (niban dashi)** lages av det samme kombuet og flakene, kokt i 10 minutter i ny liter vann. Den er svakere og brukes til å koke grønnsaker eller til miso.
+- **Andregangs dashi (niban dashi)** lages av den samme kombuen og flakene, kokt i 10 minutter i ny liter vann. Den er svakere og brukes til å koke grønnsaker eller til miso.
 - **Dashipulver er et fullgodt hverdagsalternativ.** Flere av oppskriftene i samlingen bruker det. Forskjellen merkes tydeligst i en klar suppe, minst i en kraftig ramen.
 - **Kombu og katsuobushi fås** i asiatiske butikker og i de større dagligvarekjedene.
 - **Holdbarhet:** 3 døgn kjøleskap, 3 måneder fryser. Best samme dag – aromaen er flyktig.
@@ -26301,7 +26301,7 @@ Grunnlaget for de fleste suppene i samlingen. Skrogene trekker i vann med rotgr�
 4. **Ha i grønnsaker, hvitløk, pepperkorn, laurbær og urter.**
 5. **La kraften trekke i 3–4 timer** på så svak varme at det bare kommer en boble opp av og til. Legg lokket på skrå.
 6. **Sil kraften** gjennom en finmasket sil. Press ikke på grønnsakene – da blir kraften grumsete.
-7. **Avkjøl raskt** ved å sette gryta i kaldt vann, og sett den kaldt over natten. Fettet stivner på toppen og løftes av dagen etter.
+7. **Avkjøl raskt** ved å sette gryten i kaldt vann, og sett den kaldt over natten. Fettet stivner på toppen og løftes av dagen etter.
 
 ### Notater
 
@@ -26311,7 +26311,7 @@ Grunnlaget for de fleste suppene i samlingen. Skrogene trekker i vann med rotgr�
 - **Skrog fås billig hos slakteren,** og vinger gir mest gelatin per krone. Har du stekt en kylling, går skroget rett i fryseren til neste gang.
 - **Frys i porsjoner på 5 dl.** Da har du én ramen eller én suppe per pose. Isbitbrett fungerer for de små mengdene du trenger i en saus.
 - **Holdbarhet:** 4 døgn kjøleskap, 6 måneder fryser.
-- **Brukes i** [nr. 1](#1-kremet-krydret-miso-ramen-med-kylling), [nr. 20](#20-klassisk-shoyu-ramen) og de fleste suppene i samlingen.
+- **Brukes i** [kremet krydret miso-ramen (nr. 1)](#1-kremet-krydret-miso-ramen-med-kylling), [klassisk shoyu-ramen (nr. 20)](#20-klassisk-shoyu-ramen) og de fleste suppene i samlingen.
 
 ---
 
@@ -26332,7 +26332,7 @@ Ingenting brunes. Vingene legges i kaldt vann, skummes underveis, og grønnsaken
 ### Fremgangsmåte
 
 1. **Legg kyllingvingene i en kjele** og hell på vann til det dekker. **Kok opp.**
-2. **Fjern skummet** som danner seg på overflaten, med hulløse eller vanlig øse.
+2. **Fjern skummet** som danner seg på overflaten, med hullsleiv eller øse.
 3. **Tilsett grønnsaker og urter.**
 4. **Småkok i minimum 1 time og maksimum 3 timer.**
 5. **Sil av** og bruk med det samme, eller avkjøl og sett i kjøleskapet.
@@ -26343,7 +26343,7 @@ Ingenting brunes. Vingene legges i kaldt vann, skummes underveis, og grønnsaken
 - **Skummingen skjer før grønnsakene går i.** Er de allerede i kjelen, blir det vanskelig å skille skum fra grønnsaker med øsen.
 - **Persillestilker, ikke blader.** Stilkene har mest smak og tåler koking; bladene blir grå og bitre.
 - **Kraften holder seg i 3–4 dager** i kjøleskap, oppgir kilden. Den fryser godt, og er praktisk i isbitform til småporsjoner. *(Lagt til.)*
-- **Beslektet:** [G22](#g22-kyllingkraft) er samlingens klassiske kyllingkraft med to kilo skrog og tre–fire timer på svakere varme – samme sjanger, større porsjon. [G24](#g24-hellstrøms-mørke-kyllingkraft) er den brunede versjonen.
+- **Beslektet:** [kyllingkraft (G22)](#g22-kyllingkraft) er den klassiske kyllingkraften med to kilo skrog og tre–fire timer på svakere varme – samme sjanger, større porsjon. [Hellstrøms mørke kyllingkraft (G24)](#g24-hellstrøms-mørke-kyllingkraft) er den brunede versjonen.
 
 ---
 
@@ -26358,7 +26358,7 @@ Vingene brunes hardt i olje og smør før vannet går på. Fennikel og tomat i t
 - 1 kg kyllingvinger, skrog eller avskjær
 - 2–3 ss olivenolje
 - 100 g smør
-- 8–10 hvitløkfedd, knuste
+- 8–10 hvitløksfedd, knuste
 - 1 gulrot
 - 1 løk
 - 1 fennikel
@@ -26370,17 +26370,17 @@ Vingene brunes hardt i olje og smør før vannet går på. Fennikel og tomat i t
 ### Fremgangsmåte
 
 1. **Brun kyllingvingene på sterk varme** i en kasserolle med olivenolje.
-2. **Tilsett knuste hvitløkfedd.** Brun godt på alle kanter og tilsett smøret.
+2. **Tilsett de knuste hvitløksfeddene.** Brun godt på alle kanter og tilsett smøret.
 3. **Skjær grønnsakene i små biter og tomatene i båter.** Bland inn.
 4. **Tilsett vann til det dekker**, tilsett urtene og kok i **ca. 1 time eller mer**.
 5. **Sil av og kok inn til ønsket styrke.**
 
 ### Notater
 
-- **Bruningen er hele forskjellen fra en lys kraft.** Maillard-reaksjonen på vingene gir farge, dybde og en kraft som kan brukes som saus i seg selv. Uten den har du [G23](#g23-hellstrøms-lyse-kyllingkraft).
+- **Bruningen er hele forskjellen fra en lys kraft.** Maillard-reaksjonen på vingene gir farge, dybde og en kraft som kan brukes som saus i seg selv. Uten den har du [lys kyllingkraft (G23)](#g23-hellstrøms-lyse-kyllingkraft).
 - **Smøret kommer etter bruningen.** Går det i for tidlig, svir melkeproteinene seg lenge før kyllingen har fått farge. Olje tåler varmen; smør gir smaken.
 - **Én time er kort for en kraft**, og det er fordi vinger er små og gir fra seg raskt. Kilden åpner for lengre tid – smaken blir kraftigere, men gelatinen er stort sett ute etter en time.
-- **Fennikel er kildens tilsetning.** Den gir en svak anistone som kler estragonen, og som skiller denne kraften fra en standard brun kylling.
+- **Fennikel er kildens tilsetning.** Den gir en svak anistone som kler estragonen, og som skiller denne kraften fra en vanlig brun kyllingkraft.
 - **Innkokingen etter silingen bestemmer bruken.** Tynn til suppe, halvert til saus, videre til glace.
 - **Beslektet:** [Hellstrøms lyse kyllingkraft (G23)](#g23-hellstrøms-lyse-kyllingkraft) er den ubrunede versjonen, [kyllingkraft (G22)](#g22-kyllingkraft) er den klassiske langtidskraften, og [Hellstrøms kalvekraft (G25)](#g25-hellstrøms-kalvekraft) er den store brune.
 
@@ -26404,7 +26404,7 @@ Fem kilo kalvebein trukket i seks timer, silt, og kokt inn på nytt med tomat og
 
 1. **Vask kalvebeina rene for blod** i kaldt, rennende vann. Skyll dem godt og legg dem i en stor kjele.
 2. **Dekk med kaldt vann, ca. 5–6 liter, og kok opp.**
-3. **Fjern skummet** som danner seg på overflaten, med hulløse eller vanlig øse.
+3. **Fjern skummet** som danner seg på overflaten, med hullsleiv eller øse.
 4. **Fyll på med mer vann underveis** så væskenivået holdes stabilt.
 5. **La kraften koke i ca. 6 timer** og sil av.
 6. **Skjær tomater og sjalottløk i terninger.** Tilsett dette og tomatpuréen i kraften og **kok inn til halvparten**.
@@ -26417,7 +26417,7 @@ Fem kilo kalvebein trukket i seks timer, silt, og kokt inn på nytt med tomat og
 - **Grønnsakene kommer først i andre runde.** Det er uvanlig – de fleste kraftoppskrifter koker alt sammen fra start. Her får beina seks timer alene, og tomaten tilsettes til den konsentrerte kraften, der den bidrar med syre og farge uten å ha kokt seg i stykker.
 - **Demi-glace er neste trinn.** Koker du videre til væsken er sirupsaktig og gelatinrik, har du grunnlaget for de klassiske brune sausene. Det tar flere timer til, men fryser utmerket i isbitform.
 - **Kalvebein framfor oksebein** gir mer gelatin og mildere smak. Kalvebein bestilles hos slakter; de er sjelden i butikkhyllen. *(Lagt til.)*
-- **Beslektet:** [T118](#t118-hellstrøms-brune-saus) er snarveien til brun saus uten kraft, og [G22](#g22-kyllingkraft) er samlingens kyllingversjon.
+- **Beslektet:** [Hellstrøms brune saus (T118)](#t118-hellstrøms-brune-saus) er snarveien til brun saus uten kraft, og [kyllingkraft (G22)](#g22-kyllingkraft) er kyllingversjonen.
 
 ---
 
@@ -26436,7 +26436,7 @@ Fem kilo kalvebein trukket i seks timer, silt, og kokt inn på nytt med tomat og
 1. **Kapp eller klipp fiskebeina i mindre stykker** og rens dem godt. Skyll godt i kaldt vann.
 2. **Legg fiskebein og hoder i en kjele.** Fyll på med kaldt vann så det dekker, og sett på varmen.
 3. **La det syde i ca. 1–2 timer, uten omrøring.**
-4. **Fjern skummet** som danner seg på overflaten, med hulløse eller vanlig øse.
+4. **Fjern skummet** som danner seg på overflaten, med hullsleiv eller øse.
 5. **Sil kraften forsiktig.**
 
 ### Notater
@@ -26444,9 +26444,9 @@ Fem kilo kalvebein trukket i seks timer, silt, og kokt inn på nytt med tomat og
 - **Gjeller og rogn må ut.** Gjellene holder på blod og bitterstoffer, rognen gjør kraften grumsete. Dette er det ene punktet kilden setter i parentes, og det er det viktigste.
 - **Én til to timer er lenge for fiskekraft.** Klassisk fransk fumet trekker i 20–30 minutter, fordi fiskebein gir fra seg alt de har raskt og deretter begynner å avgi bitterhet. Kilden går langt utover det. Vil du følge den franske skolen, sil av etter en halvtime og kok heller inn etterpå. *(Flagget.)*
 - **«Uten omrøring» og «sil forsiktig» handler om det samme.** Partikler som virvles opp gjør kraften uklar. Alt i denne oppskriften er innrettet mot en blank kraft.
-- **Piggvar, havabbor og skatevinger** er magre hvitfisker. Fet fisk som laks og makrell gir en tran-aktig kraft som ikke lar seg bruke til saus. Torsk og sei fungerer godt. *(Lagt til.)*
-- **«Superferske» er ikke overdrivelse.** Fiskebein eldes raskt, og en dag gammel bein gir en kraft som lukter fjære.
-- **Beslektet:** [G29](#g29-hellstrøms-kortbuljong--court-bouillon) er den raske vinbaserte varianten, og [G28](#g28-hellstrøms-skalldyrkraft) er skalldyrversjonen.
+- **Piggvar, havabbor og skatevinger** er magre hvitfisker. Fet fisk som laks og makrell gir en tranaktig kraft som ikke lar seg bruke til saus. Torsk og sei fungerer godt. *(Lagt til.)*
+- **«Superferske» er ikke overdrivelse.** Fiskebein eldes raskt, og en dag gamle bein gir en kraft som lukter fjære.
+- **Beslektet:** [kortbuljong (G29)](#g29-hellstrøms-kortbuljong--court-bouillon) er den raske vinbaserte varianten, og [skalldyrkraft (G28)](#g28-hellstrøms-skalldyrkraft) er skalldyrversjonen.
 
 ---
 
@@ -26461,7 +26461,7 @@ Skjellene damper åpne på to–tre minutter i sitt eget vann. Kraften er ferdig
 - 1–2 kg friske blåskjell
 - 2 stilker stangselleri
 - 1–2 løk
-- 2–3 hvitløkfedd
+- 2–3 hvitløksfedd
 
 ### Fremgangsmåte
 
@@ -26475,8 +26475,8 @@ Skjellene damper åpne på to–tre minutter i sitt eget vann. Kraften er ferdig
 - **Skjellene bringer med seg sitt eget vann.** Derfor bare «litt vann» – tilsetter du mer, tynner du ut kraften du er ute etter. En desiliter i bunnen er nok til å starte dampingen.
 - **Filtreringen er ikke valgfri.** Blåskjell inneholder sand uansett hvor godt de er skylt, og den samler seg i bunnen. Kaffefilter eller klede.
 - **Kraften er allerede salt.** Skjellene salter den selv, og salt tilsatt i en kraft som senere kokes inn blir raskt for mye.
-- **Byssustråden er «skjegget»** som skjellet fester seg med. Den dras ut mot smalenden av skjellet, ikke ut. *(Presisert.)*
-- **Kjøttet blir til overs.** Kilden nevner det ikke her, men det er selvfølgelig maten – se [SU20](#su20-hellstrøms-blåskjellsuppe), som bruker samme teknikk og serverer begge deler.
+- **Byssustråden er «skjegget»** som skjellet fester seg med. Den dras ut mot den spisse enden av skjellet. *(Presisert.)*
+- **Kjøttet blir til overs.** Kilden nevner det ikke her, men det er selvfølgelig maten – se [Hellstrøms blåskjellsuppe (SU20)](#su20-hellstrøms-blåskjellsuppe), som bruker samme teknikk og serverer begge deler.
 - **Holdbarhet:** ca. 3 døgn i kjøleskap.
 
 ---
@@ -26492,7 +26492,7 @@ Skallene freses i olje før tomat og urter går i. Tjue minutter koking og tjue 
 - 1 kg rekeskall, sjøkrepshoder eller hummerhoder
 - 1–2 stilker stangselleri
 - 2–3 sjalottløk
-- 2–3 hvitløkfedd
+- 2–3 hvitløksfedd
 - 300 g cherrytomater eller modne tomater
 - 30 g tomatpuré
 - 1–2 ss hakket frisk estragon
@@ -26515,7 +26515,7 @@ Skallene freses i olje før tomat og urter går i. Tjue minutter koking og tjue 
 - **Tomatpuré ved siden av friske tomater.** Puréen er konsentrert og gir farge og syre; de friske gir væske og sødme. Begge deler trengs.
 - **Hodene er mer verdt enn skallene.** Sjøkreps- og hummerhoder inneholder leveren, som er der mesteparten av smaken sitter. Har du valget, ta hodene. *(Lagt til.)*
 - **Kokes den videre inn**, er dette utgangspunktet for en bisque eller en skalldyrsaus.
-- **Beslektet:** [SJ1](#sj1-sjøkreps-med-cowboysmør) bruker sjøkreps, og [G26](#g26-hellstrøms-fiskekraft) er fiskeversjonen.
+- **Beslektet:** [sjøkreps med cowboysmør (SJ1)](#sj1-sjøkreps-med-cowboysmør) bruker sjøkreps, og [Hellstrøms fiskekraft (G26)](#g26-hellstrøms-fiskekraft) er fiskeversjonen.
 
 ---
 
