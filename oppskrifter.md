@@ -4746,7 +4746,7 @@ Kinesisk takeaway-stekt ris i sin enkleste form: dagsgammel ris, egg, løk og er
 - **Kortkornet eller klissete ris må forstekes i olje.** Varm et par spiseskjeer olje på middels varme, fres risen i 1–2 minutter til kornene er dekket av olje og så vidt begynner å bli varme, og skyv den så til siden mens du freser grønnsakene i den andre halvdelen av pannen. Kilden legger dette som eget tips, og det er det grepet som redder norsk rundkornet ris.
 - **Oljemengden er høyere enn du tror.** 2 ss til eggene, litt til grønnsakene og 1 ss til når risen går i – altså 3–4 ss for én porsjon. Det er nettopp dette som gir takeaway-smaken, men det er verdt å vite hva man får.
 - **Ingen hvitløk, og det er med vilje.** En leser spurte, og forfatteren svarer at kinesisk takeaway-eggestekt ris ikke inneholder hvitløk. Skal du ha det, er det en annen rett.
-- **Ingen salt heller.** All saltingen kommer fra soyasaus og østerssaus. Merk likevel at kildens egen næringsberegning viser 1667 mg natrium for én porsjon – det er mye. Bruk lettsaltet soyasaus, som kilden anbefaler, eller ta ned til 1 ss + 1½ ts vanlig.
+- **Heller ikke salt.** All saltingen kommer fra soyasaus og østerssaus. Merk likevel at kildens egen næringsberegning viser 1667 mg natrium for én porsjon – det er mye. Bruk lettsaltet soyasaus, som kilden anbefaler, eller ta ned til 1 ss + 1½ ts vanlig.
 - **Erstatninger for østerssaus**, alle fra kilden: 1½ ts søt soyasaus pluss 1 ss + 1½ ts vanlig soyasaus; eller 2 ss soyasaus totalt og et par klyper sukker; eller soppbasert «østerssaus», som er vegansk. Samlingen omtaler den siste også i [nr. 11](#11-dumplings-i-spicy-peanøtt-udonsuppe).
 - **Shaoxingvinen kan sløyfes helt**, sier forfatteren i kommentarfeltet – den gjør risen mer aromatisk, men er ikke nødvendig. Trenger du et glutenfritt alternativ, foreslår hun tørr sherry fortynnet med like deler vann.
 - **Oljen står feil i kildens ingrediensliste**, oppført som «oil as needed for garnish». Den brukes til steking, ikke pynt.
@@ -4804,14 +4804,14 @@ Kjøttdeigsalat med fiskesaus, limesaft, sjalottløk, friske urter og ristet ris
 
 - **Kilden motsier seg selv om urtene.** Den oppsummerende teksten sier at du skal ha i «vårløk, koriander og **sjalottløk**» til slutt – men sjalottløken gikk allerede i sammen med limesaften. Oppskriftskortet har det riktig: det er **mynten** som kommer til slutt sammen med vårløk og koriander.
 - **Kjøttdeigen stekes uten fett i kilden**, og det er egentlig riktig: larb skal ikke brunes. Kjøttet skal falle fra hverandre i små korn og forbli lyst og saftig. Men mager kyllingkjøttdeig setter seg lett i en tørr kjele – tilsett **2 ss vann** i starten og la kjøttet nærmest posjere seg ferdig. Det er slik det gjøres i Thailand og Laos, og det er lagt til her.
-- **Ristet rismel (khao khua) er ikke valgfritt i praksis.** Det gir nøttesmak, grov tekstur og suger opp kraften fra kjøttet og limen. Kilden bruker thailandsk klebrig ris, samme som [nr. 26](#26-yam-nua--thai-biffsalat) og [nr. 77](#77-yam-nua--andy-cooks-sin-versjon) i samlingen. Lag rikelig – det holder seg **2 måneder** i tett glass i romtemperatur, og du har nå tre oppskrifter som trenger det.
+- **Ristet rismel (khao khua) er ikke valgfritt i praksis.** Det gir nøttesmak, grov tekstur og suger opp kraften fra kjøttet og limen. Kilden bruker thailandsk klebrig ris, samme som [nr. 26](#26-yam-nua--thai-biffsalat) og [nr. 77](#77-yam-nua--andy-cooks-sin-versjon) i samlingen. Lag rikelig – det holder seg **2 måneder** i tett glass i romtemperatur, og flere oppskrifter i samlingen trenger det.
 - **Chiliflakene er ikke de riktige.** Kilden bruker vanlige knuste chiliflak av italiensk type. Tradisjonell larb bruker *prik pon* – tørkede, ristede thaichili malt til pulver, som er mildere og røykfullt heller enn bare skarpt. Har du gochugaru eller thailandsk chilipulver, ligger begge nærmere. Vanlige chiliflak fungerer, men gir mer ren varme og mindre aroma.
 - **Norsk kyllingkjøttdeig er som regel av bryst** og blir tørr. Svinekjøttdeig er kildens eget alternativ og et bedre valg her – men da skal fettet helles av **før** fiskesausen går i, slik kilden presiserer. Storfe, kalkun og lam fungerer også.
 - **Smak til helt til slutt.** Kilden er tydelig: larb smaker ikke ferdig før alt er i. Er den for salt, mer lime; for syrlig, mer fiskesaus. Feit kjøttdeig trenger mer lime enn mager.
 - **Salatblader er ikke autentisk.** Tradisjonelt spises larb med klebrig ris – du klyper opp litt kjøtt med en risklump. Salatwrapene kommer fra thailandske restauranter i Vesten. De smaker godt, men det er verdt å vite at det er en tilpasning.
 - **Uttalen:** skrivemåten «larb» er en engelsk transkripsjon. Det uttales *laap*, med kort a og ustemt p – ingen r-lyd.
 - **Serveres lunt eller romtemperert**, aldri kaldt fra kjøleskapet. Den varme klebrige risen mot kald agurk og salat er en del av poenget.
-- **Holdbarhet:** 3–4 dager i kjøleskap, avkjølt før den settes inn. Varmes den opp igjen, rør inn friske urter til slutt – de gamle har mistet seg.
+- **Holdbarhet:** 3–4 dager i kjøleskap, avkjølt før den settes inn. Varmes den opp igjen, rør inn friske urter til slutt – de gamle har mistet smaken.
 - **Samme forfatter står bak** [stekt ris med egg](#84-stekt-ris-med-egg-egg-fried-rice) og [mango sago](#d1-mango-sago) i samlingen.
 
 ---
@@ -5042,7 +5042,7 @@ Laks vendt i en marinade av miso, soya, mirin og hvitløk, og stekt i airfryer e
 - **Marineringstiden:** 30 minutter til en time er kildens anbefaling. Over natten går også an, men saltet trekker ut fuktighet og gjør fisken fastere – det opplyser forfatteren i kommentarfeltet.
 - **La laksen temperere litt** før steking, så stekes den jevnere. Marineringstiden kan brukes til nettopp det.
 - **Holdbarhet:** best nystekt, men holder 3 dager i kjøleskap.
-- **Samlingens femte lakserett.** De andre er [kokoskarri](#44-kokoskarri-med-laks), [mango- og kokoskarri](#51-mango--og-kokoskarri-med-laks), [pannestekt laks med tzatziki](#75-pannestekt-laks-med-tzatziki-og-ris-lavfodmap) og [honningglasert laks](#83-honningglasert-laks-med-hvitløk). Denne er den saltest smakende og den eneste som grilles.
+- **Andre lakseretter:** [kokoskarri](#44-kokoskarri-med-laks), [mango- og kokoskarri](#51-mango--og-kokoskarri-med-laks), [pannestekt laks med tzatziki](#75-pannestekt-laks-med-tzatziki-og-ris-lavfodmap) og [honningglasert laks](#83-honningglasert-laks-med-hvitløk). Denne er den saltest smakende og den eneste som grilles.
 
 ---
 
@@ -5097,7 +5097,7 @@ Kyllinglår i lett maisennarøre, friturstekt to ganger og vendt i en søt, blan
 - **Maisenna kan byttes med potetmel** i både røren og sausen, opplyser kilden – samme vare som i [karaage](#86-karaage--japansk-friturstekt-kylling).
 - **Marinering over natten er valgfritt, men gjør nytte.** Kilden er tydelig på at røren fester seg bedre til kyllingen da. Steker du med én gang, blir det like godt, men vær litt forsiktig når bitene går i oljen.
 - **Bruk en høy gryte og fyll den maks en tredel.** En leser fikk oljen til å koke over gang på gang. Røren inneholder mye vann, og det bruser kraftig når den treffer 190 °C.
-- **Airfryer:** forfatterens råd er å friturere første runde og airfryte den andre. Vil du lage på forhånd, stek første runde et par minutter lenger, hopp over den andre, frys bitene enkeltvis på brett og pakk dem så. Frosne biter airfrytes på **200 °C i 15–20 minutter**, tinte i 5–10. Frosne biter skal **ikke** i frityr.
+- **Airfryer:** forfatterens råd er å frityrsteke første runde og ta den andre i airfryer. Vil du lage på forhånd, stek første runde et par minutter lenger, hopp over den andre, frys bitene enkeltvis på brett og pakk dem så. Frosne biter stekes i airfryer på **200 °C i 15–20 minutter**, tinte i 5–10. Frosne biter skal **ikke** i frityr.
 - **Glutenfritt:** røren er allerede glutenfri siden den bruker maisenna. Bytt de to soyasausene mot en god klype salt, eller bruk glutenfri soya – soyaen bidrar mest med farge og litt salt.
 - **Sesamkylling er ikke General Tso's.** Kilden forklarer forskjellen: sesamkylling er søtere og uten styrke, mens General Tso's er syrligere, mindre søt og litt sterk. Vil du ha varme i denne, foreslår kilden chiliflak i pannen sammen med vårløken.
 - **Sukkertypen betyr noe.** Vanlig hvitt sukker er anbefalt. Rårørsukker går, men lys eller mørk farin endrer smaken på sausen merkbart.
