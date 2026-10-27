@@ -733,8 +733,8 @@ Ramen-restaurant hjemme på en halvtime. Usøtet soyamelk gir den kremete, hvite
 - 3 hvitløksfedd, finhakket
 - 3 ss misopasta
 - 1 ss krydret fermentert bønnepasta (doubanjiang)
-- 700 ml kyllingkraft
-- 240 ml usøtet soyamelk
+- 7 dl kyllingkraft
+- 2,5 dl usøtet soyamelk
 
 **Nudler og topping**
 - 2 porsjoner ramen-nudler
@@ -778,9 +778,9 @@ Sprøstekte kyllinglår i en klissete honning-soya-glasur med hvitløk og sitron
 - Maisenna eller hvetemel til panering
 
 **Saus**
-- 45 g smør (3 ss)
+- 45 g smør
 - 3 hvitløksfedd, finhakket
-- 2½ ss soyasaus
+- 2 ss + 1½ ts soyasaus
 - 2 ss honning
 - Revet skall av 1 sitron
 - 1 ss paprikapulver
@@ -822,7 +822,7 @@ Sprø kyllingbiter panert i knuste cornflakes, stekt i airfryer og vendt i en s�
 - 1 ss malt ingefær
 
 **Saus**
-- 1½ ss gochujang (koreansk chilipasta)
+- 1 ss + 1½ ts gochujang (koreansk chilipasta)
 - 2 ss soyasaus
 - 1 ts riseddik
 - 2 ts mirin
@@ -844,7 +844,7 @@ Sprø kyllingbiter panert i knuste cornflakes, stekt i airfryer og vendt i en s�
 
 ### Notater
 
-- **4 ss krydder til ett kyllingbryst er svært mye.** Halvér gjerne til ½ ss av hver – særlig malt ingefær, som fort blir dominerende. Vurder også salt, som originalen ikke nevner.
+- **4 ss krydder til ett kyllingbryst er svært mye.** Halvér gjerne til 1½ ts av hver – særlig malt ingefær, som fort blir dominerende. Vurder også salt, som originalen ikke nevner.
 - Cornflakes-mengden er ikke oppgitt i originalen. 80 g knuste flak dekker ett bryst.
 - Bruk usøtede cornflakes. Sausen er søt nok fra før.
 - **Uten airfryer:** stekeovn på 220 °C med varmluft i 18–20 minutter på rist med stekepapir under, snu halvveis. Spray eller pensle bitene med litt olje for farge.
@@ -870,8 +870,8 @@ Thailands mest folkelige hverdagsrett: karbonadedeig woket med masse hvitløk, c
 **Saus**
 - 3 ss mørk soyasaus
 - 3 ss østerssaus
-- 1½ ss fiskesaus
-- 1½ ss sukker
+- 1 ss + 1½ ts fiskesaus
+- 1 ss + 1½ ts sukker
 - En klype MSG (valgfritt)
 
 **Servering**
@@ -948,7 +948,7 @@ Så enkel som det blir, og utrolig trøstende. Fem ingredienser og under ti minu
 
 ### Ingredienser
 
-- 700 ml vann
+- 7 dl vann
 - 1 ts dashipulver (instant)
 - 3 ss misopasta
 - 2 ss tørket wakame (tang)
@@ -989,7 +989,7 @@ En strammere versjon av [Pad Kra Pao](#4-pad-kra-pao) lenger opp i dokumentet. H
 - 1 bunt hellig basilikum (thaibasilikum eller vanlig basilikum kan brukes)
 - 2 ss fiskesaus
 - 1½ ts sukker
-- 20 g olje til steking *(mengde lagt til.)*
+- 1 ss nøytral olje til steking *(Lagt til.)*
 
 **Prik nam pla (dipp)**
 - Saften av 1 lime
