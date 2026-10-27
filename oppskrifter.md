@@ -22003,7 +22003,7 @@ Enkle, sprø vårruller av rispapir med svinekjøttfarse, akkurat slik kilden sp
 
 **Kilde:** @fysenpaa (Instagram, 16. oktober 2025) · **Kjøkken:** Kinesisk-japansk fusjon · **Tid:** ca. 5–6 t (inkl. braisering og hviletid for deigen) · **Gir:** 40 dumplings
 
-Mjuke, saftige dumplings fylt med langtidsbraisert shortrib i miso-, soya- og sakesaus – braiseringskraften reduseres og deles i to, halvparten blandes tilbake i kjøttet, halvparten spares som dipp. Samme dumplingdeig og steke-/dampeteknikk som [S38. Lammedumplings med sitrusdipp](#s38-lammedumplings-med-sitrusdipp).
+Myke, saftige dumplings fylt med langtidsbraisert shortrib i miso-, soya- og sakesaus – braiseringskraften reduseres og deles i to, halvparten blandes tilbake i kjøttet, halvparten spares som dipp. Samme dumplingdeig og steke- og dampeteknikk som [lammedumplings med sitrusdipp (S38)](#s38-lammedumplings-med-sitrusdipp).
 
 ### Ingredienser
 
@@ -22017,7 +22017,7 @@ Mjuke, saftige dumplings fylt med langtidsbraisert shortrib i miso-, soya- og sa
 - 5 dl oksekraft
 - 1,5 dl honning
 - 1 stjerneanis
-- 4 fedd hvitløk, knust
+- 4 hvitløksfedd, knust
 - 1 bit ingefær (3–4 cm), skivet
 - 4 vårløk, grovt skivet
 
@@ -22034,10 +22034,10 @@ Mjuke, saftige dumplings fylt med langtidsbraisert shortrib i miso-, soya- og sa
 **Shortrib-fyll og dipp**
 1. Tørk kjøttet godt og krydre med salt.
 2. Varm olje i en gryte og brun shortribs på alle sider. Ta ut kjøttet.
-3. Fres hvitløk, ingefær og vårløk i gryta i 2–3 minutter.
+3. Fres hvitløk, ingefær og vårløk i gryten i 2–3 minutter.
 4. Ha i sake, kok opp og skrap bunnen. Reduser i 1–2 minutter.
 5. Rør inn miso, soyasaus, honning og stjerneanis. Bland til honningen og misoen er oppløst.
-6. Legg kjøttet tilbake i gryta. Hell over kraft så det dekker kjøttet. Kok opp, dekk til og sett i ovnen på 150–160 °C i 3–4 timer, til kjøttet er mørt. Skum gjerne av litt fett halvveis i braiseringen, så blir sausen renere og mer konsentrert.
+6. Legg kjøttet tilbake i gryten. Hell over kraft så det dekker kjøttet. Kok opp, dekk til og sett i ovnen på 150–160 °C i 3–4 timer, til kjøttet er mørt. Skum gjerne av litt fett halvveis i braiseringen, så blir sausen renere og mer konsentrert.
 7. Ta ut kjøttet forsiktig. Sil av væsken og reduser til en blank og litt tykk saus. Spar halvparten av sausen til dipp.
 8. Ha kjøttet tilbake i resten av sausen. Riv kjøttet med to gafler og bland godt.
 9. Sett kjøttet og dippen kaldt over natten. Varm opp sausen i vannbad før servering.
@@ -22046,19 +22046,22 @@ Mjuke, saftige dumplings fylt med langtidsbraisert shortrib i miso-, soya- og sa
 1. Bland mel og salt sammen i en bolle. Hell deretter kokende vann i bollen og rør rundt med en sleiv til deigen er kald nok til å ta på.
 2. Kna deigen i rundt 10 minutter til den er glatt og fin. La den hvile 1 time i romtemperatur.
 3. Del deigen i fire like deler. Rull hver del til en lang pølse og del hver pølse i ti biter.
-4. Press alle bitene flate til små pucker, og kjevle til dumplingwrapper. 40 stk totalt. Legg et vått tørkle over for å unngå at de tørker ut.
-5. Fyll og brett dumplingene (se [S38](#s38-lammedumplings-med-sitrusdipp) for teknikk), med en raus teskje shortrib-fyll i hver.
+4. Press alle bitene flate til små runde lapper, og kjevle dem ut til dumplingark, 40 i alt. Legg et fuktig kjøkkenhåndkle over så de ikke tørker ut.
+5. Fyll og brett dumplingene (se [lammedumplingene (S38)](#s38-lammedumplings-med-sitrusdipp) for teknikk), med en raus teskje shortrib-fyll i hver.
 
 **Varmebehandling**
-- **Bambussteamer:** Legg dumplingene i bambussteameren og damp over kokende vann. De er klare når de blir litt gjennomsiktige.
-- **Stekepanne:** Stek på medium varme til bunnen er gyllen. Hell i ca. 2 ss vann, ha på lokk og damp til vannet er borte. Snu og stek andre siden.
+- **Dampkurv:** Legg dumplingene i en dampkurv av bambus og damp over kokende vann. De er klare når de blir litt gjennomsiktige.
+- **Stekepanne:** Stek på middels varme til bunnen er gyllen. Hell i ca. 2 ss vann, ha på lokk og damp til vannet er borte. Snu og stek andre siden.
 - Topp med syltet rødløk.
 
 ### Notater
 
-- **Bretteinstruksjonen er ikke fullt fanget opp i kildeklippet** – teknikken antas å være den samme som i [S38. Lammedumplings med sitrusdipp](#s38-lammedumplings-med-sitrusdipp): fyll i midten av wrapperen, brett tett sammen, gjerne med en liten åpning øverst.
+- **Bretteinstruksjonen er ikke fullt fanget opp i kildeklippet** – teknikken antas å være den samme som i [lammedumplings med sitrusdipp (S38)](#s38-lammedumplings-med-sitrusdipp): fyll i midten av arket, brett tett sammen, gjerne med en liten åpning øverst.
 - **Kjøtt og dipp lages gjerne dagen før** og settes kaldt over natten – smakene setter seg, og sausen varmes opp i vannbad rett før servering.
 - **To varmemetoder tilbys**: bambusdamping (mykere, tradisjonell) eller potsticker-metoden i panne (sprø bunn). Begge fungerer med samme fyll og deig.
+
+---
+
 ## S41. Moo Ping – grillspyd av svin med Nam Jim Jaew (crack-sauce)
 
 **Kilde:** @fysenpaa (Instagram) · **Kjøkken:** Thai · **Tid:** ca. 45 min aktivt + 2–3 timers marinering (helst over natten) · **Gir:** 4 porsjoner som forrett/tilbehør
@@ -22069,7 +22072,7 @@ Thailandske grillspyd av marinert svinenakke (moo ping), servert med Nam Jim Jae
 
 **Grillspyd**
 - 1 kg nakkekoteletter, i skiver
-- 4 fedd hvitløk, revet
+- 4 hvitløksfedd, revet
 - ½ bunt koriander, finhakket
 - 2 ss brunt sukker
 - 2 ss fiskesaus
@@ -22081,8 +22084,8 @@ Thailandske grillspyd av marinert svinenakke (moo ping), servert med Nam Jim Jae
 
 **Crack-sauce (Nam Jim Jaew)**
 - 5 ss fiskesaus
-- 3 ss limejuice
-- 3 ss tamarind-paste
+- 3 ss limesaft
+- 3 ss tamarindpasta
 - 3–4 ss brunt sukker
 - 3 ss koriander, hakket
 - 2 ss vårløk, hakket
@@ -22106,7 +22109,7 @@ Thailandske grillspyd av marinert svinenakke (moo ping), servert med Nam Jim Jae
 
 **Crack-sauce**
 1. Lag rispulveret: stek 1 ss riskorn på middels varme til risen får en gyllen farge. Knus deretter til et fint pulver i en morter, eller blend det. Sett til side.
-2. Rør sammen limejuice, fiskesaus, tamarind-paste og brunt sukker i en bolle. Pass på at sukkeret er helt oppløst.
+2. Rør sammen limesaft, fiskesaus, tamarindpasta og brunt sukker i en bolle. Pass på at sukkeret er helt oppløst.
 3. Tilsett koriander, vårløk og sjalottløk, og topp med rispulveret.
 
 **Syltet thaisalat**
@@ -22114,9 +22117,11 @@ Thailandske grillspyd av marinert svinenakke (moo ping), servert med Nam Jim Jae
 
 ### Notater
 
-- **Rispulver av stekt, knust ris (khao khua)** er det som gjenkjenner Nam Jim Jaew fra andre thailandske dippsauser – den gir en nøtteaktig, lett sprø struktur. Sticky rice gir tradisjonelt best resultat, men jasminris fungerer også.
+- **Rispulver av stekt, knust ris (khao khua)** er det som skiller Nam Jim Jaew fra andre thailandske dippsauser – den gir en nøtteaktig, lett sprø struktur. Sticky rice gir tradisjonelt best resultat, men jasminris fungerer også.
 - **Ingen eksakt dato oppgitt** for publisering i skjermbildene som ble delt.
-- **Navnet «crack-sauce»** er kildens egen kallenavn for Nam Jim Jaew – ikke en offisiell thai-betegnelse, men beskrivende for hvor vanedannende den er.
+- **Navnet «crack-sauce»** er kildens eget kallenavn for Nam Jim Jaew – ikke en offisiell thai-betegnelse, men beskrivende for hvor vanedannende den er.
+
+---
 
 ## S42. Dipp med burrata, olivenolje og urter
 
@@ -22148,11 +22153,13 @@ En løs, «bland-etter-øyemål»-dipp av olivenolje, krema balsamico og friske 
 - **Krema balsamico** er den tykke, sirupsaktige balsamicoen (balsamicokrem/-glasur), ikke vanlig balsamicoeddik.
 - **Server med** ristet brød, focaccia eller grissini for dipping.
 
+---
+
 ## S43. Pannestekte biffdumplings
 
 **Kilde:** @fysenpaa (Instagram) · **Kjøkken:** Kinesisk · **Tid:** ca. 2 t (inkl. hviletid på deigen) · **Gir:** 40 dumplings
 
-Pot stickers med kvernet høyrygg og kinesisk gressløk, pannestekt til gyllen bunn og dampet ferdig med vann under lokk. Kilden testet oksekjøtt for første gang etter å vanligvis ha brukt kylling, og konkluderer med at «det blir ikkje siste gang».
+Potstickers med kvernet høyrygg og kinesisk gressløk, pannestekt til gyllen bunn og dampet ferdig med vann under lokk. Kilden testet oksekjøtt for første gang etter å vanligvis ha brukt kylling, og konkluderer med at «det blir ikkje siste gang».
 
 ### Ingredienser
 
@@ -22188,7 +22195,7 @@ Pot stickers med kvernet høyrygg og kinesisk gressløk, pannestekt til gyllen b
 **Deig**
 1. Bland mel og salt i en bolle. Hell deretter kokende vann i bollen og rør rundt med en sleiv til deigen er kald nok til å ta på.
 2. Kna deigen i rundt 10 minutter til den er glatt og fin. La den hvile 1 time i romtemperatur.
-3. Del deigen i fire like deler. Rull hver av delene til lange pølser og del hver pølse i ti deler. Press alle delene flate til små pucker, og kjevle til dumplingwrappers – 40 stk totalt. Legg et vått tørkle over for å unngå at de tørker ut.
+3. Del deigen i fire like deler. Rull hver av delene til lange pølser og del hver pølse i ti deler. Press alle delene flate til små runde lapper, og kjevle dem ut til dumplingark, 40 i alt. Legg et fuktig kjøkkenhåndkle over så de ikke tørker ut.
 
 **Fyll**
 1. Bland sammen alle ingrediensene til fyllet.
@@ -22197,10 +22204,10 @@ Pot stickers med kvernet høyrygg og kinesisk gressløk, pannestekt til gyllen b
 1. Bland soyasaus og riseddik sammen.
 
 **Bretting og steking**
-1. Fyll hver dumplingwrapper med en raus teskje fyll. Legg fyllet i midten.
+1. Fyll hvert dumplingark med en raus teskje fyll. Legg fyllet i midten.
 2. Brett dumplingen til en halvmåneform med rynkete kant. Ekstra fint om dumplingen får en liten åpning øverst, slik at sausen senere kan trekke inn.
 3. Legg de ferdigbrettede dumplingene på et brett med et vått kjøkkenhåndkle over, slik at de ikke tørker ut.
-4. Stek dem på medium varme i en panne til bunnen blir gyllen. Hell deretter ca. 2 ss vann i pannen og legg på lokk slik at de dampes ferdig.
+4. Stek dem på middels varme i en panne til bunnen blir gyllen. Hell deretter ca. 2 ss vann i pannen og legg på lokk slik at de dampes ferdig.
 5. Når vannet er fordampet, snur du dumplingene og steker den andre siden til den også er gyllen.
 6. Topp med vårløk, syltet rødløk og sausen.
 
@@ -22209,7 +22216,7 @@ Pot stickers med kvernet høyrygg og kinesisk gressløk, pannestekt til gyllen b
 - **Åpningen øverst i dumplingen** er et bevisst grep fra kilden – slik trekker sausen inn i dumplingen når den helles over, i stedet for å bare ligge rundt.
 - **Vannet i steke-trinnet** gjør at dumplingene både stekes og dampes samtidig (samme prinsipp som «potstickers») – bunnen blir sprø mens fyllet dampes gjennomkokt.
 - **Ingen eksakt tidsangivelse oppgitt i kilden** – ca. 2 timer er anslått ut fra 1 times deighvile pluss aktiv tid til fyll, bretting og steking. *(Anslått.)*
-- **Beslektet:** samlingen har flere dumplingoppskrifter med kylling og lam – se [S5. Kyllingdumplings](#s5-kyllingdumplings) og [S38. Lammedumplings med sitrusdipp](#s38-lammedumplings-med-sitrusdipp) – dette er den første med storfekjøtt.
+- **Beslektet:** [kyllingdumplings (S5)](#s5-kyllingdumplings) og [lammedumplings med sitrusdipp (S38)](#s38-lammedumplings-med-sitrusdipp) er samme teknikk med kylling og lam.
 
 
 ---
