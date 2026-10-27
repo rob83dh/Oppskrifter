@@ -14332,7 +14332,7 @@ Skallene ristes i ovnen i stedet for i panne, og suppen jevnes med maisenna i me
 - 4 laurbærblad, helst ferske
 
 **Væske og smakstilsetning**
-- 0,5 dl cognac
+- 3 ss cognac
 - 2 dl Noilly Prat, tørr sherry eller tørr hvitvin
 - ½ ts worcestershiresaus
 - 2 ss hvitvinseddik
@@ -14388,12 +14388,12 @@ Røde linser som koker seg i oppløsning til suppa blir tykk av seg selv, med ky
 - 450 g kyllinglårfilet, uten skinn og bein
 - 290 g røde linser, skylt
 - 1 ts malt gurkemeie
-- 1,9 liter vann
+- 2 liter vann
 - Salt og rikelig med sort pepper
 
 **Til slutt**
 - 1 potte blandede friske urter — persille, dill og mynte, ca. 30 g
-- 240 ml yoghurt naturell, gjerne gresk
+- 2,5 dl yoghurt naturell, gjerne gresk
 - 2 ss sitronsaft
 
 ### Fremgangsmåte
@@ -14414,7 +14414,7 @@ Røde linser som koker seg i oppløsning til suppa blir tykk av seg selv, med ky
 - **Gurkemeie trenger fett og varme.** Punkt 3 vender krydderet i den varme oljen før væsken kommer i. Slenger du det i vannet i stedet, blir smaken flat og litt bitter.
 - **Urtene helt til slutt.** Persille, dill og mynte mister både farge og aroma på minutter i kokende suppe. De skal røres inn etter at gryta er av varmen.
 - **Sitronyoghurten er syren retten mangler.** Linser og karamellisert løk er søtt og jordaktig hele veien. Uten den friske toppen blir suppa tung. Ikke hopp over den, og ikke rør den inn i gryta — den skal ligge som et lag du blander inn selv.
-- **Kilden oppgir ikke antall porsjoner.** 1,9 liter vann, 450 g kylling og 290 g linser gir rikelig til seks. *(Anslått.)*
+- **Kilden oppgir ikke antall porsjoner.** 2 liter vann, 450 g kylling og 290 g linser gir rikelig til seks. *(Anslått.)*
 - **Beslektet:** [vegetarisk linsegryte (SU13)](#su13-vegetarisk-linsegryte) er den kjøttfrie slektningen, [mujadara (nr. 175)](#175-mujadara) bruker samme karamelliserte løk som bærende smak, og [Hellstrøms grønne linser (T76)](#t76-hellstrøms-grønne-linser) viser hvordan linser oppfører seg når de skal holde formen.
 
 ---
@@ -14431,7 +14431,7 @@ Hjemmelaget kyllingkraft trukket med kanel, stjerneanis, nellik, kardemomme og f
 - 1 stk økologisk kylling
 - 1 stk løk
 - 1 stk hvitløk
-- 1 stor knoll ingefær
+- 1 stor bit ingefær (ca. 8 cm)
 - 1 kanelstang
 - 2 ts fennikelfrø
 - 2 ts korianderfrø
@@ -14439,15 +14439,15 @@ Hjemmelaget kyllingkraft trukket med kanel, stjerneanis, nellik, kardemomme og f
 - 5 stk nellik
 - 5 stk stjerneanis
 - 10 ss fiskesaus
-- 2 mellomstore rock sugar/kandissukker (eller 2 ss sukker)
+- 2 mellomstore biter kandissukker (eller 2 ss sukker)
 - 3 liter vann
 
 **Kylling-dipp**
-- 1 stk medium knoll ingefær
+- 1 middels bit ingefær (ca. 5 cm)
 - 2 fedd hvitløk
 - 4 ss thai fiskesaus
 - 4 ss sukker
-- 6 ss lime
+- 6 ss limesaft
 
 **Til servering**
 - Risnudler
@@ -14506,7 +14506,7 @@ Den skal smake salt, med et snev av sødme og en anelse syre.
 - 2–3 ss limejuice (ca. 1½ lime)
 - 2 ts sukker, juster etter smak
 - ½ ts MSG (valgfritt)
-- Thaichili, rikelig – 8–10 stk.
+- 8–10 thaichili *(Lagt til – se notat.)*
 - 3–4 hvitløksfedd
 - 1 sjalottløk
 
@@ -14573,7 +14573,7 @@ Rask, syrlig og sterk agurksalat som lages mens kyllingen står i ovnen. Blir ba
 - 1 agurk
 - 2 ss lys soyasaus
 - 1 ts riseddik eller hvitvinseddik
-- 10 g flytende honning
+- 1½ ts flytende honning
 - ½ ts chiliflak
 - ½ ts hvitløkspulver
 - 2 ss hakket gressløk
@@ -14664,11 +14664,11 @@ Sprø agurkbiter i gochugaru, hvitløk og sesam. Saltes og skylles først, slik 
 ### Ingredienser
 
 - ca. 700–800 g agurk *(7 persiske agurker — se notat)*
-- ½ ss salt
+- 1½ ts salt
 - 1 ss riseddik
 - 1 ss finhakket hvitløk (ca. 3 fedd)
 - 1 ss sesamolje
-- 1½ ss gochugaru
+- 1 ss + 1½ ts gochugaru
 - 1 ss soyasaus
 - 1 ss brunt sukker
 - 1 ts sesamfrø
