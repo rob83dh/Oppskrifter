@@ -17178,7 +17178,7 @@ Rå potetstrimler presses for væske, aldri skylles, og stekes til en tynn kake 
 - 2 bakepoteter
 - 1 bunt gressløk
 - 2 ss olje
-- 10 g litt smør *(mengde lagt til.)*
+- 2 ts smør *(mengde lagt til)*
 - Salt
 
 ### Fremgangsmåte
@@ -17211,7 +17211,7 @@ Potetpuré presset gjennom sikt, bygget ut til en røre med melk, mel, egg og eg
 ### Ingredienser
 
 - 500 g skrelte mandelpoteter
-- ½ dl melk
+- 3 ss + 1 ts melk *(Omregnet fra ½ dl.)*
 - 3 ss hvetemel
 - 3 egg
 - 4 eggehviter
