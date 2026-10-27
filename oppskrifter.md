@@ -3284,7 +3284,7 @@ Kyllingindrefilet i tredelt panering, frityrstekt to ganger og vendt i en søtst
 
 ### Notater
 
-- **Dobbelstekingen er ikke valgfri.** Første runde koker kyllingen gjennom, andre runde driver ut resten av fuktigheten i paneringen. Det er derfor koreansk friturkylling holder seg sprø under sausen, mens vanlig panering blir bløt.
+- **Dobbelstekingen er ikke valgfri.** Første runde koker kyllingen gjennom, andre runde driver ut resten av fuktigheten i paneringen. Det er derfor koreansk frityrstekt kylling holder seg sprø under sausen, mens vanlig panering blir bløt.
 - **Hold oljetemperaturen oppe.** Kilden er tydelig: den må ikke falle under 163–175 °C. Faller den, suger paneringen olje og blir bløt. Stek i små omganger, og bruk termometer.
 - **Sil ut løse paneringsbiter mellom de to stekingene**, ellers brenner de i andre runde og gir bitter smak.
 - **Klumpene i melet er poenget.** De 1–2 skjeene kullsyrevann som gnis inn i det krydrede melet i punkt 2, lager ujevn overflate som både blir sprøere og holder på mer saus. Steget må gjøres før kyllingen vendes.
@@ -3295,7 +3295,7 @@ Kyllingindrefilet i tredelt panering, frityrstekt to ganger og vendt i en søtst
 - **Kjernetemperatur 74 °C.**
 - **2 liter olje er mye.** Bruk en gryte med høye kanter, fyll den maks til en tredjedel, og sil oljen gjennom kaffefilter når den er avkjølt hvis du vil bruke den om igjen.
 - **Holdbarhet:** 3–4 dager i kjøleskap, men sprøheten forsvinner. Varm opp i airfryer på 175 °C i 6–8 minutter, eller i ovn på 190 °C på rist i 10 minutter.
-- **Riseddik kan byttes** med eplesidereddik.
+- **Riseddik kan byttes** med eplecidereddik.
 - Samlingens fjerde koreanske kyllingrett. Se også [koreansk popcorn-kylling](#3-koreansk-popcorn-kylling), [ovnsstekt koreansk kylling](#29-ovnsstekt-koreansk-kylling) og [koreansk kyllingburger](#53-koreansk-kyllingburger). Denne er den eneste med dobbelsteking i frityr.
 
 ---
@@ -3327,13 +3327,13 @@ Lammekoteletter i en marinade av gochujang, hvitløk og svart eddik, grillet på
 ### Notater
 
 - **Steketiden og forfatterens egen advarsel står i motstrid.** Han skriver selv at marinaden brenner lett på grunn av det høye sukkerinnholdet, men ber deg deretter grille 5–6 minutter per side på sterk varme. Tynne lammekoteletter er gjennomstekte på 2–3 minutter per side, og sukkeret i marinaden er svidd lenge før 5 minutter har gått. Stek etter tykkelse og farge, ikke etter klokka: **55–57 °C i kjernen for rosa, 60 °C for medium.** De 5–6 minuttene passer bare for tykke stykker, som en lammecarré i ett.
-- **Tørk av mesteparten av marinaden** før kjøttet legges på grillen. Det som blir liggende igjen som et tykt lag, brenner. Resten kan penslet på mot slutten.
+- **Tørk av mesteparten av marinaden** før kjøttet legges på grillen. Det som blir liggende igjen som et tykt lag, brenner. Resten kan pensles på mot slutten.
 - **Mengden lam er ikke oppgitt.** Marinaden holder til rundt 600–800 g koteletter, altså 2–4 porsjoner.
 - **Marinaden fungerer også på kylling**, ifølge forfatteren — men samme forbehold gjelder, og sukkeret brenner enda lettere når kyllingen trenger lengre steketid. Lavere varme og lengre tid, eller indirekte varme på grillen.
 - **Kinesisk svart eddik (chinkiang)** er den samme som brukes i [dumplingsausen](#t5-dumplingsaus). Riseddik kan brukes, men blir skarpere og mangler den malte dybden.
 - **Hviletiden på 5 minutter er ikke pynt.** Lam som skjæres med én gang, mister saften.
 - **Gochujang varierer i styrke** mellom merker. 2 ss er en moderat mengde til denne kjøttmengden.
-- Fra samme forfatter som [Andy Cooks sin Pad Kra Pao](#7-andy-cooks-sin-pad-kra-pao). Samlingens eneste lammerett.
+- Fra samme forfatter som [Andy Cooks sin Pad Kra Pao](#7-andy-cooks-sin-pad-kra-pao). Se også [krydrede lammekjøttboller (nr. 59)](#59-krydrede-lammekjøttboller-med-agurk--og-yoghurtsaus).
 
 ---
 
@@ -3341,7 +3341,7 @@ Lammekoteletter i en marinade av gochujang, hvitløk og svart eddik, grillet på
 
 **Kilde:** Gabriella Simonian / No Regretti Spaghetti (noregrettispaghetti.co) · **Kjøkken:** Østlig middelhav · **Tid:** 35 min · **Porsjoner:** 4 (16 kjøttboller)
 
-Lammekjøttboller med rikelig persille og sjukryddermiks, brunet i panne og ettersteka i ovnen. Serveres på en seng av kald agurk- og yoghurtsaus med tørket mynte.
+Lammekjøttboller med rikelig persille og sjukryddermiks, brunet i panne og etterstekt i ovnen. Serveres på en seng av kald agurk- og yoghurtsaus med tørket mynte.
 
 ### Ingredienser
 
@@ -3388,10 +3388,10 @@ Lammekjøttboller med rikelig persille og sjukryddermiks, brunet i panne og ette
 - **Griljermelet er ikke fyllstoff.** Forfatteren peker på det som nøkkelen til konsistensen, som skal minne om kibbeh. Ikke kutt det.
 - **Sjukrydder kan kjøpes ferdig som baharat.** Lager du selv, er kildens blanding like deler sort pepper, spisskummen, koriander, nellik, muskat, kanel og allehånde.
 - **Tørket mynte er det som løfter sausen**, ifølge forfatteren. Fersk mynte gir en annen, mildere effekt — bruk tørket hvis du har.
-- **Lebanesisk agurk** finnes ikke her. Snackagurk ligger nærmest; vanlig slangeagurk fungerer, men er vassnere, så vær ekstra nøye med punkt 1.
+- **Libanesisk agurk** finnes ikke her. Snackagurk ligger nærmest; vanlig slangeagurk fungerer, men er vassnere, så vær ekstra nøye med punkt 1.
 - **Kjøttdeig skal stekes gjennom.** Lam i kvernet form bør nå **70–75 °C** i kjernen. De 8–10 minuttene i ovnen etter bruningen holder for boller på denne størrelsen, men sjekk den største.
 - **Retten er ikke italiensk**, selv om den kommer fra et pastanettsted. Kilden fører den som østlig middelhav og beskriver den som midtøsten-inspirert, med den libanesiske agurksausen khyar bi laban som forbilde snarere enn gresk tzatziki.
-- Samlingens andre lammerett. Se også [Korean BBQ Lamb](#58-korean-bbq-lamb).
+- Se også [Korean BBQ Lamb (nr. 58)](#58-korean-bbq-lamb).
 
 ---
 
@@ -3674,7 +3674,7 @@ Oksekjøtt i store terninger brunes hardt, surrer i to og en halv time i tomat o
 5. **Tomatpuréen i**, og stek den i 2 minutter.
 6. **Rødvin og buljong.** Hell i vinen og den smuldrede terningen, rør godt og kok opp.
 7. **Resten i.** Tilsett hakkede tomater, oksekraft, timian, laurbærblad, basilikumstilker, Worcestershiresaus og det brunede kjøttet med all kjøttsaften. Rør godt og smak til.
-8. **La det surre.** Kok opp, skru ned til lav varme, legg på lokk og la det gå i **2–2½ time**, til kjøttet er helt mørt.
+8. **La det surre.** Kok opp, skru ned til lav varme, legg på lokk og la det gå i **2–2½ timer**, til kjøttet er helt mørt.
 9. **Trekk kjøttet fra hverandre.** Ta av lokket og fjern timian, basilikumstilker og laurbærblad. Del kjøttet opp med en skje i gryta, eller løft det ut, riv det med to gafler og legg det tilbake.
 10. **Kok inn.** La sausen småkoke **uten lokk i 10–15 minutter**, til den tykner. Smak til en siste gang.
 11. **Server** over eller blandet inn i pastaen, med parmesan, basilikum og sort pepper.
