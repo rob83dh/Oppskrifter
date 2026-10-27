@@ -15682,7 +15682,7 @@ Tynne potetskiver bakt i fløte og melk trukket med timian, rosmarin, laurbær o
 
 ### Notater
 - **Tre av ingrediensene mangler enhet i kilden.** Det står bare «1 garlic powder», «1 onion powder» og «1/2 black pepper». Teskjeer er den eneste rimelige lesningen, og er brukt her.
-- **Kjernemelk kan erstattes.** Norsk kulturmelk er nærmest; alternativt 4,8 dl melk med 1½ ss sitronsaft eller hvit eddik, som får stå ti minutter til den skiller seg.
+- **Kjernemelk kan erstattes.** Norsk kulturmelk er nærmest; alternativt 4,8 dl melk med 1 ss + 1½ ts sitronsaft eller hvit eddik, som får stå ti minutter til den skiller seg.
 - **Syren i kjernemelken mørner kjøttet** langsomt og skånsomt – dette er marinaden som faktisk tåler et døgn, i motsetning til [ananasmarinaden](#t29-ananasmarinade).
 - **Dette er en marinade for panert, fritert kylling**, ikke for grilling: melkeproteinene brenner seg over åpen ild.
 
@@ -15693,12 +15693,12 @@ Tynne potetskiver bakt i fløte og melk trukket med timian, rosmarin, laurbær o
 **Kilde:** gjengitt oppskrift *(opphavsperson ikke oppgitt)* · **Kjøkken:** Meksikansk-inspirert · **Tid:** 5 min + marinering · **Gir:** ca. 1,2 dl, nok til ca. 700 g kjøtt *(ikke oppgitt i kilden)*
 
 ### Ingredienser
-- 60 ml olivenolje
+- 4 ss olivenolje
 - 2 ss limesaft
 - 1 ts amerikansk chilipulver *(krydderblanding – se notat)*
 - 1 ts honning
 - ½ ts malt spisskummen
-- ⅛ ts røkt paprikapulver
+- ¼ ts røkt paprikapulver *(Presisert fra ⅛ ts.)*
 - 1 ts hvitløkspulver
 - 1 ts løkpulver
 - ¼ ts chilipulver *(står oppført to ganger i kilden – se notat)*
@@ -15712,7 +15712,7 @@ Tynne potetskiver bakt i fløte og melk trukket med timian, rosmarin, laurbær o
 ### Notater
 - **Chilipulver står oppført to ganger** i kildens liste – først 1 ts, så ¼ ts. Trolig er det ment som én mengde. Bruk 1 ts, eller 1¼ ts hvis du vil ha begge.
 - **«Chili powder» er en krydderblanding**, ikke ren chili. Norsk chilipulver er ren, malt chili og langt sterkere – samme felle som i [T23](#t23-potetbåter-i-airfryer) og [nr. 94](#94-fajitasalat-med-kylling).
-- **⅛ ts røkt paprika er svært lite** ved siden av teskjeer av alt annet. Øk til ½ ts om du vil merke røyken.
+- **Kilden oppgir bare ⅛ ts røkt paprika**, svært lite ved siden av teskjeer av alt annet. Øk til ½ ts om du vil merke røyken.
 
 ---
 
@@ -15722,8 +15722,8 @@ Tynne potetskiver bakt i fløte og melk trukket med timian, rosmarin, laurbær o
 
 ### Ingredienser
 - 1,2 dl BBQ-saus
-- 60 ml lønnesirup
-- 60 ml eplecidereddik
+- 4 ss lønnesirup
+- 4 ss eplecidereddik
 - 1 ss chilipulver
 - Salt
 
@@ -15744,7 +15744,7 @@ Tynne potetskiver bakt i fløte og melk trukket med timian, rosmarin, laurbær o
 **Kilde:** gjengitt oppskrift *(opphavsperson ikke oppgitt)* · **Kjøkken:** Vestlig · **Tid:** 5 min + marinering · **Gir:** ca. 1,5 dl, nok til ca. 700 g kjøtt *(ikke oppgitt i kilden)*
 
 ### Ingredienser
-- 60 ml appelsinjuice
+- 4 ss appelsinjuice
 - 2 ss sitronsaft
 - 1 ss limesaft
 - 1 ss revet appelsinskall *(se notat)*
@@ -15772,7 +15772,7 @@ Tynne potetskiver bakt i fløte og melk trukket med timian, rosmarin, laurbær o
 **Kilde:** gjengitt oppskrift *(opphavsperson ikke oppgitt)* · **Kjøkken:** Thai-inspirert · **Tid:** 5 min + marinering · **Gir:** ca. 1 dl, nok til ca. 500 g kjøtt *(ikke oppgitt i kilden)*
 
 ### Ingredienser
-- 60 ml sweet chilisaus
+- 4 ss sweet chilisaus
 - 2 ss olivenolje
 - 1 jalapeño, finhakket *(kilden sier ikke hvordan – se notat)*
 - 1 ts finhakket hvitløk
@@ -15801,7 +15801,7 @@ Tynne potetskiver bakt i fløte og melk trukket med timian, rosmarin, laurbær o
 - 1 liten løk
 - 3 vårløk
 - 1 ss fersk ingefær
-- 60 ml soyasaus
+- 4 ss soyasaus
 - 2 ss brunt sukker
 - 1 ss allehånde
 - 1 ts timian
@@ -15829,8 +15829,8 @@ Tynne potetskiver bakt i fløte og melk trukket med timian, rosmarin, laurbær o
 **Kilde:** gjengitt oppskrift *(opphavsperson ikke oppgitt)* · **Kjøkken:** Argentinsk-inspirert · **Tid:** 10 min + marinering · **Gir:** ca. 2,5 dl *(ikke oppgitt i kilden)*
 
 ### Ingredienser
-- 2,4 dl fersk persille
-- 1,2 dl fersk koriander
+- ca. 30 g fersk persille *(Omregnet fra 2,4 dl.)*
+- ca. 15 g fersk koriander *(Omregnet fra 1,2 dl.)*
 - 4 hvitløksfedd, finhakket
 - 1,2 dl olivenolje
 - 3 ss rødvinseddik, eller hvit eddik
@@ -15856,7 +15856,7 @@ Tynne potetskiver bakt i fløte og melk trukket med timian, rosmarin, laurbær o
 **Kilde:** gjengitt oppskrift *(opphavsperson ikke oppgitt)* · **Kjøkken:** Japansk-inspirert · **Tid:** 5 min + marinering · **Gir:** ca. 1,2 dl, nok til ca. 600 g kjøtt *(ikke oppgitt i kilden)*
 
 ### Ingredienser
-- 60 ml soyasaus
+- 4 ss soyasaus
 - 2 ss honning
 - 2 ss riseddik, eller hvit eddik
 - 1 ss sesamolje
@@ -15872,7 +15872,7 @@ Tynne potetskiver bakt i fløte og melk trukket med timian, rosmarin, laurbær o
 - **Dette er ikke tradisjonell teriyaki.** Ekte teriyaki bygger på soyasaus, mirin og sake, ikke honning og eddik. Denne er den forenklede, vestlige varianten – god, men et annet uttrykk.
 - **1 ss ristet sesamolje er mye** i under halvannen desiliter marinade. Den er kraftig og kan lett ta over; 1–2 ts er nok hvis du vil ha den mildere.
 - **Honningen brenner seg** over sterk varme. Middels varme, og pensle på det siste laget helt til slutt.
-- **Bruker du hvit eddik i stedet for riseddik**, husk at norsk husholdningseddik er sterkere – ta 1½ ss.
+- **Bruker du hvit eddik i stedet for riseddik**, husk at norsk husholdningseddik er sterkere – ta 1 ss + 1½ ts.
 
 ---
 
@@ -15971,10 +15971,10 @@ Paprika stekt til skallet er svart, flådd og vendt med tomat, basilikum, hvitl�
 - 2 gule paprika
 - En stor neve fersk basilikum, hakket
 - 3 hvitløksfedd, hakket
-- 240 ml cherrytomater, hakket — ca. 150 g
-- 180 ml bocconcini — ca. 150 g
+- ca. 150 g cherrytomater, hakket
+- ca. 150 g bocconcini
 - En god skvett olivenolje
-- Paprikaolje, maks 60 ml *(se notat – dette er ikke en kjøpevare)*
+- Paprikaolje, maks 4 ss *(se notat – dette er ikke en kjøpevare)*
 - Salt
 - Ferskt, varmt baguette
 
@@ -16018,9 +16018,9 @@ Hjemmelaget utgave av dippsausen fra den amerikanske kyllingkjeden Raising Cane'
 
 ### Ingredienser
 
-- 180 ml lettmajones
-- 80 ml gresk yoghurt
-- 60 ml ketchup med redusert sukker
+- 1,8 dl lettmajones
+- 80 g gresk yoghurt
+- 4 ss ketchup med redusert sukker
 - 2 ts worcestershiresaus
 - ½ ts hvitløkspulver
 - ½ ts paprikapulver
@@ -16037,7 +16037,7 @@ Hjemmelaget utgave av dippsausen fra den amerikanske kyllingkjeden Raising Cane'
 
 - **Sausen må hvile.** Dette er det viktigste kilden ikke sier: hvitløkspulveret trenger tid til å suge til seg væske, og sausen smaker tydelig flatere rett etter blanding enn etter et døgn i kjøleskapet. Lag den dagen før hvis du kan – minimum et par timer. *(Lagt til.)*
 - **Sort pepper er signaturen i originalen**, og «salt og pepper etter smak» underdriver kraftig. Regn **½–1 ts grovkvernet sort pepper** til denne mengden. Uten den smaker sausen som en helt vanlig ketchup-majones. *(Presisering lagt til.)*
-- **Lettmajones er tynnere enn vanlig majones**, og med yoghurt i tillegg kan sausen bli i tynneste laget til dipping. Vil du ha den tykkere uten å gå tilbake til full majones, bruk tykk gresk yoghurt på 10 % og la sausen stå kaldt – den setter seg noe. Alternativt: 120 ml vanlig majones og 140 ml yoghurt gir omtrent samme kaloriregnskap med bedre konsistens. *(Alternativ lagt til.)*
+- **Lettmajones er tynnere enn vanlig majones**, og med yoghurt i tillegg kan sausen bli i tynneste laget til dipping. Vil du ha den tykkere uten å gå tilbake til full majones, bruk tykk gresk yoghurt på 10 % og la sausen stå kaldt – den setter seg noe. Alternativt: 1,2 dl vanlig majones og 140 g yoghurt gir omtrent samme kaloriregnskap med bedre konsistens. *(Alternativ lagt til.)*
 - **Norsk ketchup er søtere enn den amerikanske utgaven** med redusert sukker. Finner du ikke en sukkerredusert variant, bruk vanlig og kutt eventuelt paprikapulveret litt, som også bidrar med sødme.
 - **Gresk yoghurt eller skyr?** Skyr er syrligere og tykkere og gir en spissere saus. Gresk yoghurt med 10 % fett ligger nærmest originalen. 0 % blir tynn og sur.
 - **Worcestershiresaus inneholder ansjos** og gjør sausen uegnet for vegetarianere. Det finnes vegetarvarianter i helsekostbutikker.
@@ -16062,7 +16062,7 @@ Fløtesaus med kantareller, kalvefond og en skje solbærgelé. Kildens eneste te
 - 1 ss solbærgelé
 - 1 bunt gressløk, finsnittet
 - Salt og pepper
-- 20 g smør til steking *(mengde lagt til.)*
+- 1 ss smør til steking *(mengde lagt til)*
 
 ### Fremgangsmåte *(rekonstruert – kilden oppgir ingen fremgangsmåte)*
 
