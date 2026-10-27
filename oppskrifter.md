@@ -281,7 +281,7 @@ Sist oppdatert: 27. oktober 2026 · **570 oppskrifter** · 193 hovedretter, 79 t
 | S30 | [Focacciasandwich](#s30-focacciasandwich) | Smårett | Italiensk | 15 min | 4 |
 | 176 | [Melanzane alla parmigiana](#176-melanzane-alla-parmigiana) | Hovedrett | Italiensk | ca. 2 t | 6 |
 | 182 | [Brokkoli på fat med chili, sitron og mandler](#182-brokkoli-på-fat-med-chili-sitron-og-mandler) | Hovedrett | Italiensk | 25 min | 4 |
-| 184 | [Hvit soppasagne](#184-hvit-soppasagne) | Hovedrett | Italiensk | 1½ t | 6 |
+| 184 | [Hvit sopplasagne](#184-hvit-sopplasagne) | Hovedrett | Italiensk | 1½ t | 6 |
 | D14 | [Tiramisù](#d14-tiramisù) | Dessert | Italiensk | 30 min + kjøling | 8 |
 | D20 | [Panna cotta med gelétopping](#d20-panna-cotta-med-gelétopping) | Dessert | Italiensk | 25 min + kjøling | 6 |
 | D24 | [Semifreddo med pistasj](#d24-semifreddo-med-pistasj) | Dessert | Italiensk | 30 min + frysing | 8 |
@@ -9629,13 +9629,13 @@ Spinat kokt ned til en tykk, mørkegrønn saus med paneer stekt gyllen. Paneeren
 
 ### Fremgangsmåte
 
-1. **Blancher spinaten** i kokende vann i **30 sekunder**, sil av, og kjøl den i iskaldt vann. Klem den helt tørr.
+1. **Blansjer spinaten** i kokende vann i **30 sekunder**, sil av, og kjøl den i iskaldt vann. Klem den helt tørr.
 2. **Kjør spinaten** til en grov puré med litt vann.
 3. **Stek paneerterningene** i ghee til de er gylne på flere sider, **4–5 minutter**. Ta dem opp.
 4. **Stek spisskummenfrøene** i samme panne til de spraker, **30 sekunder**.
 5. **Fres løken myk og gyllen**, **8 minutter**, og ha i hvitløk, ingefær og chili. Stek videre i **2 minutter**.
 6. **Rør inn koriander og gurkemeie**, og stek i **1 minutt**.
-7. **Ha i spinatpureen og salt**, og la det småkoke i **8 minutter**.
+7. **Ha i spinatpuréen og salt**, og la det småkoke i **8 minutter**.
 8. **Rør inn fløten**, legg paneeren tilbake, og varm gjennom i **2 minutter**.
 9. **Strø over garam masala** helt til slutt.
 
@@ -9789,7 +9789,7 @@ Brokkoli kokt akkurat mør, lagt utover et fat og dekket av hvitløksolje, chili
 
 **Kilde:** Klassisk standardversjon · **Kjøkken:** Fransk · **Tid:** 1½ time · **Porsjoner:** 6
 
-Purreterte. Purren surres i smør til den er helt myk og søt – et kvarter, ikke fem minutter – og bakes i en mørdeigbunn med eggestand.
+Purreterte. Purren surres i smør til den er helt myk og søt – et kvarter, ikke fem minutter – og bakes i en mørdeigbunn med eggestanning.
 
 ### Ingredienser
 
@@ -9829,11 +9829,11 @@ Purreterte. Purren surres i smør til den er helt myk og søt – et kvarter, ik
 - **Forbakingen er like nødvendig her** som i quiche lorraine, og av samme grunn.
 - **Gruyère kan byttes** med comté eller en godt lagret norsk hvitost. Ikke bruk mozzarella – den gir væske.
 - **Holdbarhet:** 3 døgn kjøleskap, god kald.
-- **Beslektet:** [S28](#s28-quiche-lorraine) bruker samme bunn og samme eggestand, og [S23](#s23-terte-med-geitost-og-karamellisert-løk) samme sjanger.
+- **Beslektet:** [S28](#s28-quiche-lorraine) bruker samme bunn og samme eggestanning, og [S23](#s23-terte-med-geitost-og-karamellisert-løk) samme sjanger.
 
 ---
 
-## 184. Hvit soppasagne
+## 184. Hvit sopplasagne
 
 **Kilde:** Klassisk standardversjon · **Kjøkken:** Italiensk · **Tid:** 1½ time · **Porsjoner:** 6
 
@@ -9939,7 +9939,7 @@ Kjøttsaus med chorizo, korianderfrø og fennikelfrø, lagt i lag med nachochips
 - **Toppingen er i praksis en pico de gallo** med avokado ved siden av. Se [T20](#t20-pico-de-gallo) hvis du vil lage den i større porsjon.
 - **Tiden er ikke oppgitt i kilden.** Regn 40 minutter. *(Lagt til.)*
 - **Holdbarhet:** ferdig nachos må spises med en gang – chipsen bløtner i løpet av minutter. Kjøttsausen holder 3 døgn i kjøleskap og 3 måneder i fryser, og er dermed verdt å lage dobbel porsjon av.
-- **Beslektet:** [pico de gallo (T20)](#t20-pico-de-gallo) og [guacamole (T47)](#t47-guacamole) hører til samme bord, [braiserte kyllingtacos (nr. 122)](#122-braiserte-kyllingtacos) og [big Mac tacos (nr. 160)](#160-big-mac-tacos) er samlingens andre tex-mex-retter, og [tortillas med gresk yoghurt (G14)](#g14-tortillas-med-gresk-yoghurt) er tortillaene.
+- **Beslektet:** [pico de gallo (T20)](#t20-pico-de-gallo) og [guacamole (T47)](#t47-guacamole) hører til samme bord, [braiserte kyllingtacos (nr. 122)](#122-braiserte-kyllingtacos) og [Big Mac tacos (nr. 160)](#160-big-mac-tacos) er andre tex-mex-retter, og [tortillas med gresk yoghurt (G14)](#g14-tortillas-med-gresk-yoghurt) er tortillaene.
 
 ---
 
@@ -11384,7 +11384,7 @@ Kilden kaller denne "verdens beste lasagne" – en klassisk kjøttsauslasagne me
 - **Mengder for pastaplater, fersk mozzarella og ricotta er ikke oppgitt i kilden** – bruk gjerne en standard eske pastaplater (ca. 250 g) og 200–250 g av hver ost, avhengig av formstørrelsen.
 - **Trekketiden på minst fire timer for kjøttsausen** er det kilden peker på som selve nøkkelen til smaken – ikke skynd deg forbi dette trinnet.
 - **"Tre boksemål vann"** betyr samme volum som de tomme tomatboksene ble målt opp med (typisk 3 × 400 ml).
-- **Beslektet:** samlingen har fra før [72. Lasagna](#72-lasagna), [142. Lasagne alla Norma med salsicciaragù](#142-lasagne-alla-norma-med-salsicciaragù), [167. Lasagne alla bolognese](#167-lasagne-alla-bolognese) og [184. Hvit soppasagne](#184-hvit-soppasagne) – denne skiller seg ut med pancetta i sausen og dobbel ost (fersk mozzarella + ricotta) i lagene.
+- **Beslektet:** samlingen har fra før [72. Lasagna](#72-lasagna), [142. Lasagne alla Norma med salsicciaragù](#142-lasagne-alla-norma-med-salsicciaragù), [167. Lasagne alla bolognese](#167-lasagne-alla-bolognese) og [184. Hvit sopplasagne](#184-hvit-sopplasagne) – denne skiller seg ut med pancetta i sausen og dobbel ost (fersk mozzarella + ricotta) i lagene.
 
 ## 212. Lammecarré med panang curry og urtetopping
 
