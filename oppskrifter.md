@@ -24492,10 +24492,10 @@ Focaccia uten kald heving over natten – to hevinger på halvannen time hver, o
 ### Ingredienser
 
 - 500 g sterkt hvetemel, 12 % protein eller mer
-- 390–420 ml lunkent vann *(se notat)*
-- 15 ml ekstra virgin olivenolje
+- 3,9–4,2 dl lunkent vann *(se notat)*
+- 1 ss ekstra virgin olivenolje
 - 6 g tørrgjær
-- 5 g honning, sukker eller agave
+- 1 ts honning, sukker eller agave
 - 10 g fint havsalt
 - Ekstra virgin olivenolje til formen og til drypping
 - Flaksalt
@@ -24515,10 +24515,10 @@ Focaccia uten kald heving over natten – to hevinger på halvannen time hver, o
 
 ### Notater
 
-- **Denne oppskriften finnes i to versjoner fra samme kokk.** Den eldre (mars 2023) er uten olivenolje i deigen og med fast 420 ml vann; den nyere (januar 2025, fra kokeboken) har 15 ml olje i deigen og oppgir 390–420 ml. Oljen gjør krummen litt mykere og smaken rundere. Begge fungerer. *(Sammenslått her.)*
-- **Start med 390 ml vann** og tilsett mer bare hvis deigen virker for fast. 390 ml gir 78 % hydrering, 420 ml gir 84 %.
+- **Denne oppskriften finnes i to versjoner fra samme kokk.** Den eldre (mars 2023) er uten olivenolje i deigen og med fast 4,2 dl vann; den nyere (januar 2025, fra kokeboken) har 1 ss olje i deigen og oppgir 3,9–4,2 dl. Oljen gjør krummen litt mykere og smaken rundere. Begge fungerer. *(Sammenslått her.)*
+- **Start med 3,9 dl vann** og tilsett mer bare hvis deigen virker for fast. 3,9 dl gir 78 % hydrering, 4,2 dl gir 84 %.
 - **Er deigen våtere enn i videoen, er det melet ditt.** Forfatteren bruker bakemel med **14 %** protein, som suger langt mer vann enn norsk hvetemel. En våtere deig er vanskeligere å håndtere, men blir bra likevel – ikke tilsett mer mel for å kompensere. *(Kildens eget svar.)*
-- **Med vanlig hvetemel: reduser vannet med 40 ml.** Norsk hvetemel ligger på 9–11 % protein, og focacciaen blir mindre luftig og holder på færre bobler. Vil du ha kildens resultat, bruk **Møllerens bakermel**, italiensk tipo 0 eller manitobamel. *(Kildens eget svar.)*
+- **Med vanlig hvetemel: reduser vannet med 4 ss.** Norsk hvetemel ligger på 9–11 % protein, og focacciaen blir mindre luftig og holder på færre bobler. Vil du ha kildens resultat, bruk **Møllerens bakermel**, italiensk tipo 0 eller manitobamel. *(Kildens eget svar.)*
 - **Vei ingrediensene.** Forfatteren nekter uttrykkelig å oppgi mål i kopper – det er for upresist til brødbaking, og en digital vekt koster lite.
 - **Glutenfritt fungerer ikke som direkte bytte.** Forfatteren har forsøkt og ikke lykkes, og fraråder 1:1-bytte med glutenfritt bakemel til denne metoden. *(Kildens eget svar.)*
 - **Metallform, ikke glass eller keramikk.** Metall leder varmen langt raskere og gir den friterte bunnen. 23 × 33 cm er kildens form; større form gir tynnere og sprøere focaccia.
@@ -24585,8 +24585,8 @@ Den minste ciabattaoppskriften i samlingen – 200 g mel og to rundstykker. Tre 
 ### Ingredienser
 
 - 200 g sterkt hvetemel
-- 150 ml vann, lunkent men ikke varmt
-- 20 ml olivenolje
+- 1,5 dl vann, lunkent men ikke varmt
+- 1 ss + 1 ts olivenolje
 - 4 g salt
 - 2 g tørrgjær
 
