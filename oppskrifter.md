@@ -19595,10 +19595,10 @@ Momofukus versjon av det japanske ramenegget, med to grep som skiller den fra or
 ### Ingredienser
 
 - 6 egg, størrelse M (se notat om eggstørrelse)
-- 90 ml varmt vann
+- 90 g varmt vann
 - 1 ss sukker
-- 30 ml sherryeddik
-- 180 ml lettsaltet soyasaus (se notat)
+- 2 ss sherryeddik
+- 1,8 dl lettsaltet soyasaus (se notat)
 
 **Til servering**
 - Flaksalt, gjerne Maldon
@@ -19637,7 +19637,7 @@ Meksikansk gatemais laget i ovn i stedet for på grill. **Kolbene ristes med bla
 ### Ingredienser
 
 - 4 maiskolber, med blader
-- 120 ml majones
+- 1,2 dl majones
 - 1 ts limesaft
 - 90 g nyrevet parmesan (se notat om cotija)
 - 1 potte koriander, grovhakket
@@ -19681,8 +19681,8 @@ Frisk, salt-syrlig urtesaus til kjøtt – kildens "vietnamesiske" vri på den a
 - 1 rød chili, finhakket
 - 1,5 dl nøytral olje
 - 4 ss fiskesaus
-- 4 ss sukker
-- 6 ss ferskpresset limejuice
+- 50 g sukker *(Omregnet fra 4 ss.)*
+- 90 g ferskpresset limesaft, ca. 3 lime *(Omregnet fra 6 ss.)*
 
 ### Fremgangsmåte
 
@@ -19706,7 +19706,7 @@ En béarnaise-variant med et skjeneste hvit miso ved siden av den klassiske estr
 ### Ingredienser
 
 - 1,2 dl tørr hvitvin
-- 0,6 dl hvitvinseddik
+- 4 ss hvitvinseddik
 - 1 stor sjalottløk, finhakket
 - 3–4 kvister estragon (stilker + noen blader til reduksjonen, resten finhakkes)
 - ½ ts hele sorte pepperkorn
@@ -19732,14 +19732,14 @@ En béarnaise-variant med et skjeneste hvit miso ved siden av den klassiske estr
 - **Uten estragon** blir dette i praksis en hollandaise – kilden til [T117](#t117-hellstrøms-béarnaisesaus) bekrefter samme prinsipp: utelat urtene, tilsett litt ekstra sitronsaft.
 ## T145. Kandiserte jalapeños (Cowboy Candy)
 
-**Kilde:** Chili Pepper Madness / Mike Hultquist (chilipeppermadness.com, 12. juni 2026) · **Kjøkken:** Amerikansk · **Tid:** 15 min (+ gjerne 1 ukes modning i kjøleskap) · **Gir:** ca. 8,5 dl (tre halv-pint-glass)
+**Kilde:** Chili Pepper Madness / Mike Hultquist (chilipeppermadness.com, 12. juni 2026) · **Kjøkken:** Amerikansk · **Tid:** 15 min (+ gjerne 1 ukes modning i kjøleskap) · **Gir:** ca. 4–5 dl *(Flagget – kilden oppgir tre glass à ca. 2,4 dl, som ikke stemmer med mengdene.)*
 
 Populært kalt «cowboy candy» i USA – jalapeñoskiver trukket i en krydret sukkerlake til de blir møre, blanke og klissete-søte, med en touch av chilihete. Fungerer som et søtt-sterkt tilbehør til burgere, cream cheese, cornbread og cocktailer, ikke som en dessert i seg selv, til tross for at kilden kategoriserer den som det.
 
 ### Ingredienser
 
-- 225 g jalapeños (ca. 10–12 middels store), i ¼-tommers skiver
-- 2 dl sukker
+- 225 g jalapeños (ca. 10–12 middels store), i ca. 6 mm tykke skiver
+- 170 g sukker *(Omregnet fra 2 dl.)*
 - 1,2 dl eplecidereddik
 - 1 ts chilipulver (valgfritt)
 - ½ ts gurkemeiepulver
@@ -19747,7 +19747,7 @@ Populært kalt «cowboy candy» i USA – jalapeñoskiver trukket i en krydret s
 
 ### Fremgangsmåte
 
-1. **Skjær jalapeñoene** i ¼-tommers (ca. 6 mm) tykke ringer. Kjernen kan fjernes for en mildere variant, men kilden lar den være i.
+1. **Skjær jalapeñoene** i ca. 6 mm tykke ringer. Kjernen kan fjernes for en mildere variant, men kilden lar den være i.
 2. **Lag laken.** Rør sammen sukker, eddik og krydderne i en kjele. Kok opp, skru så ned til svak varme og la det småkoke til sukkeret er løst opp i en blank, seig lake.
 3. **Ha i jalapeñoene** og rør rundt slik at skivene blir jevnt dekket av laken.
 4. **La det småkoke i ca. 4 minutter.** Skivene mørkner litt etter hvert som de trekker til seg noe av sukkeret.
