@@ -77,8 +77,7 @@
 "Fransk-asiatisk|Vestlig|": "asiatisk europeisk fransk fransk-asiatisk vestlig",
 "Fransk-italiensk|Italiensk|": "europeisk fransk fransk-italiensk italiensk middelhavs vestlig",
 "Persisk-inspirert|Østlig middelhav|": "middelhav middelhavs midtosten ostlig ostlig middelhav persisk persisk-inspirert",
-"Hainansk-amerikansk (Hainanese chicken rice, one-pot-versjon)|Asiatisk|Kinesisk": "amerikansk asiatisk hainansk hainansk-amerikansk hainansk-amerikansk (hainanese chicken rice, one-pot-versjon) kinesisk ostasiatisk vestlig",
-"Thai-inspirert (påskelam)|Asiatisk|Thai": "asiatisk sorostasiatisk thai thai-inspirert thai-inspirert (paskelam)",
+"Hainansk-amerikansk|Asiatisk|Kinesisk": "amerikansk asiatisk hainansk hainansk-amerikansk kinesisk ostasiatisk vestlig",
 "Italiensk-japansk fusjon|Italiensk|": "asiatisk europeisk fusjon italiensk italiensk-japansk italiensk-japansk fusjon japansk middelhavs ostasiatisk vestlig",
 "Kantonesisk-inspirert|Asiatisk|Kinesisk": "asiatisk kantonesisk kantonesisk-inspirert kinesisk ostasiatisk",
 "Norsk-japansk fusjon|Vestlig|": "asiatisk europeisk fusjon japansk nordisk norsk norsk-japansk norsk-japansk fusjon ostasiatisk vestlig",
@@ -86,7 +85,6 @@
 "Kinesisk (Sichuan)|Asiatisk|Kinesisk": "asiatisk kinesisk kinesisk (sichuan) ostasiatisk sichuan",
 "Norsk-thai|Asiatisk|Thai": "asiatisk europeisk nordisk norsk norsk-thai sorostasiatisk thai vestlig",
 "Fransk-japansk|Vestlig|": "asiatisk europeisk fransk fransk-japansk japansk ostasiatisk vestlig",
-"Kinesisk-japansk fusjon (påskelam)|Asiatisk|Kinesisk": "asiatisk fusjon japansk kinesisk kinesisk-japansk kinesisk-japansk fusjon (paskelam) ostasiatisk",
 "Kinesisk-japansk fusjon|Asiatisk|Kinesisk": "asiatisk fusjon japansk kinesisk kinesisk-japansk kinesisk-japansk fusjon ostasiatisk",
 "Baskisk-inspirert|Vestlig|": "baskisk baskisk-inspirert europeisk spansk vestlig"
 }

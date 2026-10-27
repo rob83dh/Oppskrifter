@@ -11241,7 +11241,7 @@ Hjemmelaget utgave av kjederetten: chipotlemarinert kylling, korianderris med li
 
 ## 209. One-pot hainansk kylling og ris
 
-**Kilde:** dougdoesdelicious (TikTok) · **Kjøkken:** Hainansk-amerikansk (Hainanese chicken rice, one-pot-versjon) · **Tid:** ca. 45 min *(ikke oppgitt i kilden)* · **Porsjoner:** 2
+**Kilde:** dougdoesdelicious (TikTok) · **Kjøkken:** Hainansk-amerikansk · **Tid:** ca. 45 min *(ikke oppgitt i kilden)* · **Porsjoner:** 2
 
 Forenklet, alt-i-én-gryte-utgave av hainansk kylling og ris: kylling og ris kokes sammen i samme gryte, og retten serveres med en ingefær-vårløksaus og en hvitløks-chilisaus. Kilden presenterer den som en «jukselapp» for en 19-personers one-pot-utfordring på Food Network.
 
@@ -11392,9 +11392,9 @@ Kilden kaller denne "verdens beste lasagne" – en klassisk kjøttsauslasagne me
 
 ## 212. Lammecarré med panang curry og urtetopping
 
-**Kilde:** @fysenpaa (Instagram, 28. mars 2026) · **Kjøkken:** Thai-inspirert (påskelam) · **Tid:** ca. 1 t 15 min · **Porsjoner:** 2–4 *(ikke oppgitt i kilden)*
+**Kilde:** @fysenpaa (Instagram, 28. mars 2026) · **Kjøkken:** Thai-inspirert · **Tid:** ca. 1 t 15 min · **Porsjoner:** 2–4 *(ikke oppgitt i kilden)*
 
-Kildens "take på panang curry" – en hjemmelaget currypaste fra bunnen av, brukt som saus til stekt lammecarré i stedet for den mer tradisjonelle proteinkilden (biff eller kylling). Servert med ris og en frisk topping av peanøtter, urter og lime.
+Kildens påskelam-rett og "take på panang curry" – en hjemmelaget currypaste fra bunnen av, brukt som saus til stekt lammecarré i stedet for den mer tradisjonelle proteinkilden (biff eller kylling). Servert med ris og en frisk topping av peanøtter, urter og lime.
 
 ### Ingredienser
 
@@ -21841,7 +21841,7 @@ Char siu-smakene — hoisin, honning, fem kryddere, Shaoxing — kokt inn i kjø
 - **Beslektet:** [char siu-kylling (nr. 35)](#35-char-siu-kylling) er samme smaksbilde på hel kylling, [Filips stekte bao-dumplings (nr. 18)](#18-filips-stekte-bao-dumplings) fylles rå og stekes, og [Hellstrøms bao-deig (G11)](#g11-hellstrøms-bao-deig) er deigen. Se også de øvrige bao-fyllene: [braisert svinesideflesk (S35)](#s35-gua-bao--braisert-svinesideflesk) og [med sprø kylling (S36)](#s36-bao-fyll-med-sprø-kylling).
 ## S38. Lammedumplings med sitrusdipp
 
-**Kilde:** @fysenpaa (Instagram) · **Kjøkken:** Kinesisk-japansk fusjon (påskelam) · **Tid:** ca. 2 t (inkl. hviletid for deigen) · **Gir:** 40 dumplings
+**Kilde:** @fysenpaa (Instagram) · **Kjøkken:** Kinesisk-japansk fusjon · **Tid:** ca. 2 t (inkl. hviletid for deigen) · **Gir:** 40 dumplings
 
 Kildens vri på påskelammet: dumplings med lammedeig, five spice og østerssaus, brettet i hjemmelagde wrappers og stekt på gyoza-vis (brunes i panne, dampes med vann under lokk). Serveres med en syrlig sitrusdipp med yuzu.
 
