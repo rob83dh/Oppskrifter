@@ -25523,7 +25523,7 @@ Eggpastadeig med høy plommeandel. Resultatet er en seig, læraktig deig som ikk
 - **For tørr deig:** hold hendene under springen og gå rett tilbake til eltingen uten å tørke dem. Det tilfører akkurat nok vann uten å gjøre deigen for våt.
 - **For klebrig deig:** dryss et lite dryss tipo 00 på benken og elt deigen direkte oppå, slik at den tar opp bare litt om gangen.
 - **Tipo 00** er finmalt italiensk hvetemel og gir den glatteste konsistensen. Vanlig hvetemel fungerer, men tar opp vann annerledes — du kan trenge en skvett ekstra væske.
-- **Kan lages inntil 24 timer i forveien** og hvile i kjøleskap, men må temperreres en time før kjevling. Merk at deigen oksiderer og kan bli gråaktig grønn av å stå lenge. Den er trygg å spise, men ser mindre appetittvekkende ut. **Se forbeholdet under [pasta ruvida](#g2-pasta-ruvida--teksturert-eggpasta)** — til den teknikken skal deigen *ikke* lages på forhånd.
+- **Kan lages inntil 24 timer i forveien** og hvile i kjøleskap, men må tempereres en time før kjevling. Merk at deigen oksiderer og kan bli gråaktig grønn av å stå lenge. Den er trygg å spise, men ser mindre appetittvekkende ut. **Se forbeholdet under [pasta ruvida](#g2-pasta-ruvida--teksturert-eggpasta)** — til den teknikken skal deigen *ikke* lages på forhånd.
 - **Den høye plommeandelen** er det som gir deigen farge, smidighet og den læraktige overflaten som ikke kleber i maskinen.
 
 ---
@@ -25553,7 +25553,7 @@ Teknikk, ikke rett. Pastaplatene tørkes delvis før andre gjennomkjøring, slik
 - **Tørketiden er hele teknikken.** For lite tørking gir glatt pasta, for mye gir plater som ryker i valsene. Prøven i punkt 3 — bøy platen og se etter sprekker — er den eneste pålitelige målestokken, siden tørketiden avhenger av luftfuktighet og om du bruker vifte.
 - **Kilden motsier seg selv om deigen kan lages på forhånd.** Grunndeigoppskriften sier inntil 24 timer i kjøleskap. Denne siden fraråder det uttrykkelig: jo lenger deigen hviler, desto mer hydrert blir den, og da blir den klebrig og lite egnet til nettopp denne teknikken. Til pasta ruvida bør du altså lage deigen samme dag.
 - **Trinnummereringen varierer mellom maskiner.** Hos forfatteren er 0 tykkest og høyere tall tynnere, slik Marcato Atlas er bygget. Noen maskiner teller motsatt vei. Sjekk din egen før du følger tallene — det er tykkelsen som betyr noe, ikke sifferet.
-- **Kjevle platen flat før andre gjennomkjøring.** Uten dette snerper den seg fast i valsene. Kilden trekker fram dette som et eget tips.
+- **Kjevle platen flat før andre gjennomkjøring.** Uten dette setter den seg fast i valsene. Kilden trekker fram dette som et eget tips.
 - **Deigen er tørrere og sprøere enn vanlig.** Den kan brukes til fylt pasta, men er langt mer lunefull. Lange båndformer er det den er best til.
 - **Vifte er ikke nødvendig**, men uten den tar tørkingen vesentlig lenger tid.
 - **Frysing:** form pastaen ferdig, legg den utover på et brett og frys i 20–30 minutter, og legg den så i tett boks. Kokes rett fra fryseren i godt saltet vann. Selve deigen bør derimot ikke lages på forhånd, jf. notatet over.
@@ -25589,7 +25589,7 @@ Pastadeig uten egg, av durumhvete og vann. Dette er sørens pasta – den som br
 - **Deigen skal føles for stiv.** Den mykner under hvilen, når vannet har fordelt seg gjennom melet.
 - **Denne tåler koking bedre enn eggpasta.** Uten egg er det bare gluten som holder formen, og resultatet er en pasta med tydelig tyggemotstand.
 - **Holdbarhet:** deigen 2 døgn i kjøleskap. Formet pasta tørkes helt og holder da måneder, eller fryses på brett før den samles i pose.
-- **Beslektet:** [G1](#g1-master-pasta-dough--grunndeig-til-fersk-eggpasta) og [G2](#g2-pasta-ruvida--teksturert-eggpasta) er eggvariantene til lange former.
+- **Beslektet:** [grunndeig til fersk eggpasta (G1)](#g1-master-pasta-dough--grunndeig-til-fersk-eggpasta) og [pasta ruvida (G2)](#g2-pasta-ruvida--teksturert-eggpasta) er eggvariantene til lange former.
 
 ---
 
@@ -25597,7 +25597,7 @@ Pastadeig uten egg, av durumhvete og vann. Dette er sørens pasta – den som br
 
 **Kilde:** Eyvind Hellstrøm, *Grunnboka* (Cappelen Damm, 2025) · **Kjøkken:** Italiensk · **Tid:** ca. 40 min · **Gir:** 2 porsjoner
 
-To ingredienser: mel og seks eggeplommer. Ingen hele egg, ingen væske, ingen salt.
+To ingredienser: mel og seks eggeplommer. Ingen hele egg, ingen væske og ikke salt.
 
 ### Ingredienser
 
@@ -25618,7 +25618,7 @@ To ingredienser: mel og seks eggeplommer. Ingen hele egg, ingen væske, ingen sa
 - **Hvilen slapper av glutenet.** Uten den trekker deigen seg tilbake hver gang du kjevler, og du kommer aldri ned i tykkelse. En halvtime er minimum, ikke et mål.
 - **Håndkjevle framfor maskin** gir deigen en litt ru overflate som saus fester seg til. Pastamaskin gir en glattere flate og en renere kant.
 - **Forholdet er ca. 100 g mel per 4 plommer.** Skalerer du opp, hold forholdet – det tåler ikke å justeres med vann. *(Presisert.)*
-- **Beslektet:** [Hellstrøms grønne pastadeig (G5)](#g5-hellstrøms-grønne-pastadeig) er samme deig med spinatpuré og fire plommer, og [master pasta dough – grunndeig til fersk eggpasta (G1)](#g1-master-pasta-dough--grunndeig-til-fersk-eggpasta), [pasta ruvida – teksturert eggpasta (G2)](#g2-pasta-ruvida--teksturert-eggpasta) og [semolinapasta (G3)](#g3-semolinapasta) er samlingens øvrige pastadeiger.
+- **Beslektet:** [Hellstrøms grønne pastadeig (G5)](#g5-hellstrøms-grønne-pastadeig) er samme deig med spinatpuré og fire plommer, og [master pasta dough – grunndeig til fersk eggpasta (G1)](#g1-master-pasta-dough--grunndeig-til-fersk-eggpasta), [pasta ruvida – teksturert eggpasta (G2)](#g2-pasta-ruvida--teksturert-eggpasta) og [semolinapasta (G3)](#g3-semolinapasta) er andre pastadeiger.
 
 ---
 
@@ -25646,7 +25646,7 @@ Spinatpuré i stedet for hele egg. Fire eggeplommer og puréen gir nok væske al
 - **Puréen må være godt avrent.** Er spinaten vannete, kollapser forholdet og du må kompensere med mel – som blekner fargen.
 - **Hvilen i kjøleskapet er ikke valgfri.** Glutennettverket slapper av, og deigen lar seg kjevle uten å trekke seg tilbake. Uten hvile kjemper du mot den hele veien.
 - **2 mm er tykt for pasta.** Til tagliatelle er det riktig; til ravioli vil mange gå tynnere, siden deigen dobles når den brettes.
-- **Beslektet:** [master pasta dough – grunndeig til fersk eggpasta (G1)](#g1-master-pasta-dough--grunndeig-til-fersk-eggpasta), [pasta ruvida – teksturert eggpasta (G2)](#g2-pasta-ruvida--teksturert-eggpasta) og [semolinapasta (G3)](#g3-semolinapasta) er samlingens øvrige pastadeiger.
+- **Beslektet:** [master pasta dough – grunndeig til fersk eggpasta (G1)](#g1-master-pasta-dough--grunndeig-til-fersk-eggpasta), [pasta ruvida – teksturert eggpasta (G2)](#g2-pasta-ruvida--teksturert-eggpasta) og [semolinapasta (G3)](#g3-semolinapasta) er andre pastadeiger.
 
 ---
 
@@ -25685,7 +25685,7 @@ Grunndeig til pizza, langpannepizza, pizzasnurrer og calzone. Saltet kommer i et
 - **Saltet inn etter eltingen** er et bevisst grep. Salt strammer glutennettverket og bremser gjæren, så deigen bygger struktur raskere uten det. Ti minutter er nok før det kommer i.
 - **Kald heving over natten gir bedre smak.** Sett deigen i kjøleskap i 12–24 timer i stedet for på benken i en time. Det er ikke kildens metode, men det er den enkleste forbedringen som finnes. *(Lagt til.)*
 - **Holdbarhet:** deigen holder 3 døgn i kjøleskap og 3 måneder i fryser, formet til baller.
-- **Beslektet:** [nr. 114](#114-proteinrik-pizza-med-yoghurtbunn) er hverdagsvarianten uten gjær, og [T125](#t125-marinara--tomatsausbase) er sausen.
+- **Beslektet:** [proteinrik pizza med yoghurtbunn (nr. 114)](#114-proteinrik-pizza-med-yoghurtbunn) er hverdagsvarianten uten gjær, og [marinara (T125)](#t125-marinara--tomatsausbase) er sausen.
 
 ---
 
@@ -25728,7 +25728,7 @@ Napolitansk deig på 62 % hydrering, hevet én time i bulk og to timer i ball. F
   - 24 °C – 5 g
 - **Iskaldt vann på 4–6 °C** er der fordi tjue minutters elting varmer deigen betydelig. Målet er en ferdig deig på 20–24 °C, og med romtemperert vann bommer du oppover.
 - **Fersk gjær, ikke tørrgjær.** Kilden begrunner det: fersk gjær kommer raskere i gang i første hevefase, og på tre og en halv time rekker ikke tørrgjæren å ta igjen.
-- **Salt og de siste to spiseskjeene vann holdes tilbake.** Salt strammer glutennettverket og bremser gjæren, så deigen bygger struktur raskere uten. Samme prinsipp som i [G6](#g6-pizzadeig).
+- **Salt og de siste to spiseskjeene vann holdes tilbake.** Salt strammer glutennettverket og bremser gjæren, så deigen bygger struktur raskere uten. Samme prinsipp som i [pizzadeigen (G6)](#g6-pizzadeig).
 - **Fire varianter av melet.** Kilden gir tre alternativer i tillegg til det rene hvetemelet, alle med samme mengde vann, salt og gjær:
   - 563 g hvetemel + 43 g sammalt fin emmer eller rug
   - 545 g hvetemel + 43 g emmer eller rug + 18 g Criscito eller Naturkraft
