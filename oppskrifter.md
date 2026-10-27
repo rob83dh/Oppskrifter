@@ -24431,11 +24431,11 @@ Baguetter uten elting og uten presisjon – kilden understreker selv at alle må
 - **«Svært varmt, men ikke for varmt» er risikabelt.** Gjær dør over 45 °C. Fingertesten kilden foreslår fungerer – vannet skal kjennes behagelig varmt, ikke ubehagelig. Sikt mot 35–40 °C. *(Presisering lagt til.)*
 - **Ovnen som hevekammer må være helt avslått og kald.** Kilden gjør det for å få jevn temperatur. Restvarme fra tidligere bruk kan drepe gjæren.
 - **Vridningen i punkt 11 er et utseendegrep**, ikke teknikk – det gir den vridde overflaten kilden er ute etter. Baguetten hever like godt uten.
-- **Ingen damp i ovnen**, og det merkes. En form med kokende vann i bunnen gir langt sprøere og blankere skorpe. Se [B9](#b9-ciabattabaguette-uten-elting), som gjør det riktig. *(Forslag lagt til.)*
+- **Ingen damp i ovnen**, og det merkes. En form med kokende vann i bunnen gir langt sprøere og blankere skorpe. Se [ciabattabaguetten (B9)](#b9-ciabattabaguette-uten-elting), som gjør det riktig. *(Forslag lagt til.)*
 - **Snitt baguettene med barberblad eller skarp kniv** før de går i ovnen – tre–fire skrå snitt. Uten snitt sprekker de tilfeldig. Kilden nevner det ikke. *(Lagt til.)*
 - **Dette er ikke en ekte baguette.** Fransk baguette har lang, kald heving og bare mel, vann, salt og gjær – sukkeret her er en snarvei for å få rask heving og brun skorpe. Resultatet er godt hverdagsbrød, men mykere og søtere enn originalen. *(Bakgrunn lagt til.)*
-- **Best samme dag.** Uten kald heving blir baguettene tørre allerede dagen etter. Frys dem heller og friskn opp 5 minutter på 200 °C.
-- **Beslektet:** [B9](#b9-ciabattabaguette-uten-elting) og [B10](#b10-ciabattarundstykker--andy-cooks-sin-versjon) er samlingens andre eltefrie brød, begge med høyere hydrering og mer struktur.
+- **Best samme dag.** Uten kald heving blir baguettene tørre allerede dagen etter. Frys dem heller og frisk dem opp 5 minutter på 200 °C.
+- **Beslektet:** [ciabattabaguette (B9)](#b9-ciabattabaguette-uten-elting) og [ciabattarundstykker (B10)](#b10-ciabattarundstykker--andy-cooks-sin-versjon) er andre eltefrie brød, begge med høyere hydrering og mer struktur.
 
 ---
 
@@ -24470,16 +24470,16 @@ Fire ingredienser, ingen elting. Fire runder strekk og brett i løpet av den fø
 ### Notater
 
 - **110 % hydrering er ikke mulig som skrevet.** 330 g vann til 300 g mel gir en deig som er tynn som røre og umulig å forme til baguetter. Sannsynligvis er melmengden feil – **500 g mel** til 330 g vann gir 66 %, som er riktig for baguett og passer med resten av oppskriften. Alternativt er det ment 330 g mel og 300 g vann. **Bruk 500 g mel**, eller mer forsiktig: start med 400 g og tilsett til deigen slipper bollen. *(Kritisk avvik – juster før du baker.)*
-- **Foliestrikken er et godt triks.** Uten baguetteform flyter deigen utover og du får to flate brød. Sammenkrøllet folie mellom og langs sidene tvinger deigen oppover. Enkelt, og løser det største problemet med hjemmelagde baguetter. *(Verdt å merke seg.)*
-- **Dampen i åtte minutter er nøkkelen til skorpen.** Damp holder overflaten myk mens brødet ekspanderer i ovnen, og skorpen setter seg først når vannet fjernes. Kildens rekkefølge – damp inn, damp ut, tørrvarme resten – er nøyaktig riktig. Se [B11](#b11-enkle-baguetter), som mangler dette steget.
+- **Folietrikset er verdt å huske.** Uten baguetteform flyter deigen utover og du får to flate brød. Sammenkrøllet folie mellom og langs sidene tvinger deigen oppover. Enkelt, og løser det største problemet med hjemmelagde baguetter. *(Verdt å merke seg.)*
+- **Dampen i åtte minutter er nøkkelen til skorpen.** Damp holder overflaten myk mens brødet ekspanderer i ovnen, og skorpen setter seg først når vannet fjernes. Kildens rekkefølge – damp inn, damp ut, tørrvarme resten – er nøyaktig riktig. Se [enkle baguetter (B11)](#b11-enkle-baguetter), som mangler dette steget.
 - **Vær forsiktig når du heller vannet i.** Kokende vann i en varm ovn gir kraftig dampsky. Bruk grillvott og hell fra siden, ikke rett foran ansiktet. *(Sikkerhetsmerknad lagt til.)*
 - **Baguettene skal snittes.** Kilden nevner det ikke, men tre–fire skrå snitt med barberblad eller svært skarp kniv rett før de går i ovnen styrer hvor de sprekker. Uten snitt sprekker de tilfeldig i siden. *(Lagt til.)*
-- **Fire runder strekk og brett erstatter eltingen.** Samme prinsipp som i [B10](#b10-ciabattarundstykker--andy-cooks-sin-versjon), som gjør nøyaktig det samme. Fukt hånden mellom hver runde – ikke bruk mer mel.
+- **Fire runder strekk og brett erstatter eltingen.** Samme prinsipp som i [ciabattarundstykkene (B10)](#b10-ciabattarundstykker--andy-cooks-sin-versjon). Fukt hånden mellom hver runde – ikke bruk mer mel.
 - **37 °C er riktig vanntemperatur** for rask gjæraktivitet. Over 45 °C dør gjæren.
 - **6 g tørrgjær er passe** til denne mengden med drøyt to timers total hevetid.
 - **Kjernetemperatur 96–98 °C**, eller bank på bunnen – den skal låte hul. 28 minutter totalt er et anslag som avhenger av tykkelsen. *(Lagt til.)*
 - **La dem avkjøles før du skjærer.** Innmaten er ikke ferdig før brødet er kaldt.
-- **Beslektet:** [enkle baguetter (B11)](#b11-enkle-baguetter) er den raskere og søtere varianten uten damp, og [ciabattabaguette uten elting (B9)](#b9-ciabattabaguette-uten-elting) og [Andy Cooks sin versjon (B10)](#b10-ciabattarundstykker--andy-cooks-sin-versjon) er samlingens ciabattaoppskrifter.
+- **Beslektet:** [enkle baguetter (B11)](#b11-enkle-baguetter) er den raskere og søtere varianten uten damp, og [ciabattabaguette uten elting (B9)](#b9-ciabattabaguette-uten-elting) og [Andy Cooks sin versjon (B10)](#b10-ciabattarundstykker--andy-cooks-sin-versjon) er ciabattaoppskriftene.
 
 ---
 
@@ -24572,7 +24572,7 @@ Brød uten mel, gjær og heving. Havregryn males til mel, blandes med cottage ch
 - **Kjøleskap er riktig her**, i motsetning til for vanlig brød. Brødet er fuktig og proteinrikt og mugner raskt i romtemperatur. Kilden anbefaler plastpose i kjøleskap, og å fryse det hvis det ikke spises i løpet av en uke.
 - **Skjær opp hele brødet før frysing** og legg papir mellom skivene – da tar du ut én om gangen. *(Lagt til.)*
 - **Formstørrelsen er ikke oppgitt.** Denne mengden passer en vanlig brødform på ca. 22 × 11 cm. Bruker du større form, blir brødet flatere og trenger kortere tid.
-- **Beslektet:** [B9](#b9-ciabattabaguette-uten-elting) til [B13](#b13-focaccia-på-én-dag) er samlingens gjærbakte brød – dette er det eneste uten gjær.
+- **Beslektet:** [ciabattabaguette (B9)](#b9-ciabattabaguette-uten-elting) og [focaccia på én dag (B13)](#b13-focaccia-på-én-dag) er gjærbakte brød; dette brødet har ingen gjær.
 
 ---
 
@@ -24596,13 +24596,13 @@ Den minste ciabattaoppskriften i samlingen – 200 g mel og to rundstykker. Tre 
 2. **Samle deigen** ved å dra sidene forsiktig inn mot midten. La den hvile **30 minutter** til.
 3. **Gjenta** forrige steg.
 4. **Del deigen i to** rundstykker og strø rikelig med mel på toppen. Legg dem på et stekebrett og la dem hvile en siste gang i **15–30 minutter**.
-5. **Forvarm ovnen** til **200 °C varmluft** og stek i **20 minutter**, eller til de er gyllne på toppen.
+5. **Forvarm ovnen** til **200 °C varmluft** og stek i **20 minutter**, eller til de er gylne på toppen.
 
 ### Notater
 
-- **75 % hydrering**, altså samme som [B9](#b9-ciabattabaguette-uten-elting), men i fjerdedels porsjon. Deigen er klissete – fukt hendene i stedet for å bruke mer mel når du samler den.
+- **75 % hydrering**, altså samme som [ciabattabaguetten (B9)](#b9-ciabattabaguette-uten-elting), men i fjerdedels porsjon. Deigen er klissete – fukt hendene i stedet for å bruke mer mel når du samler den.
 - **2 g tørrgjær er lite**, og hevetidene forutsetter et varmt kjøkken – kilden sier uttrykkelig «a warm area». Er det 19–20 °C hos deg, må hver hvileperiode forlenges til 45 minutter. Gå etter at deigen er tydelig boblete, ikke etter klokka. *(Presisering lagt til.)*
-- **Ingen damp i ovnen**, og det merkes på skorpen. Sett en form med kokende vann i bunnen under forvarming, og ta den ut etter 10 minutter. Se [B12](#b12-baguetter-med-damp), som gjør dette riktig. *(Forslag lagt til.)*
+- **Ingen damp i ovnen**, og det merkes på skorpen. Sett en form med kokende vann i bunnen under forvarming, og ta den ut etter 10 minutter. Se [baguetter med damp (B12)](#b12-baguetter-med-damp), som gjør dette riktig. *(Forslag lagt til.)*
 - **200 °C varmluft er lavt for ciabatta.** De fleste ciabattaoppskrifter kjører 220–230 °C for å få det siste hoppet i ovnen. Ved 200 °C blir rundstykkene mykere og lysere. Vil du ha sprøere skorpe, gå opp til 210 °C varmluft. *(Justering lagt til.)*
 - **Forvarm ovnen i god tid.** Kilden nevner forvarming først i siste punkt, etter at deigen har hevet ferdig – sett den på under den siste hvilen, ikke etter. *(Rettelse lagt til.)*
 - **Ikke press når du deler deigen.** Bruk deigskrape og ett bestemt kutt. Luftboblene du har brukt halvannen time på å bygge, forsvinner hvis du klemmer.
@@ -24610,7 +24610,7 @@ Den minste ciabattaoppskriften i samlingen – 200 g mel og to rundstykker. Tre 
 - **Kjernetemperatur 96–98 °C**, eller bank på bunnen. 20 minutter er kort for ciabatta – sjekk før du tar dem ut. *(Lagt til.)*
 - **La dem avkjøles før du deler dem.** Innmaten setter seg først når brødet er kaldt.
 - **Retten er vegansk** slik den står.
-- **Samlingens fire ciabattaoppskrifter:** denne er den minste og enkleste, [ciabattabaguette uten elting (B9)](#b9-ciabattabaguette-uten-elting) gir tre baguetter med damp, [ciabattarundstykker – Andy Cooks sin versjon (B10)](#b10-ciabattarundstykker--andy-cooks-sin-versjon) åtte rundstykker med fire runder strekk og brett, og [focaccia på én dag (B13)](#b13-focaccia-på-én-dag) er samme deigfamilie i langpanne.
+- **Ciabattaoppskriftene:** denne er den minste og enkleste, [ciabattabaguette uten elting (B9)](#b9-ciabattabaguette-uten-elting) gir tre baguetter med damp, [ciabattarundstykker – Andy Cooks sin versjon (B10)](#b10-ciabattarundstykker--andy-cooks-sin-versjon) åtte rundstykker med fire runder strekk og brett, og [focaccia på én dag (B13)](#b13-focaccia-på-én-dag) er samme deigfamilie i langpanne.
 
 ---
 
@@ -24681,23 +24681,23 @@ Deigen røres sammen med en sleiv på to minutter, hever over natten på benken,
 5. **Legg et bakepapir på benken og strø rikelig med hvetemel.** Ha deigen over – den er klissete og flyter delvis utover.
 6. **Brett deigen som en konvolutt:** brett fliken nærmest deg inn mot midten, roter deigen 90 grader, og brett igjen. Gjenta et par ganger, og strø over mer mel hvis den kleber. Dette kan også gjøres i bollen.
 7. **Legg deigen med brettsiden ned** på det melede papiret og hvelv bakebollen over. **Etterhev i ca. 2 timer.**
-8. **En halvtime før steking:** sett ovnen på **250 °C over- og undervarme**, og sett gryta med lokk inn samtidig.
-9. **Vipp brødet forsiktig ned i den glovarme gryta.** Rist litt på gryta for å få det på plass.
+8. **En halvtime før steking:** sett ovnen på **250 °C over- og undervarme**, og sett gryten med lokk inn samtidig.
+9. **Vipp brødet forsiktig ned i den glovarme gryten.** Rist litt på gryten for å få det på plass.
 10. **Legg på lokket** og stek på nederste rille i **ca. 30 minutter**.
 11. **Ta av lokket**, senk varmen til **225 °C**, og stek videre i **5–15 minutter** til brødet er gyllent. Bank på undersiden – er lyden hul, er det ferdig.
 12. **Hvelv brødet ut** og avkjøl det på rist.
 
 ### Notater
 
-- **Bruk mye mer mel på bakepapiret enn du tror.** Det er den vanligste feilen med denne oppskriften, og flere lesere melder om samme problem: deigen henger igjen i papiret og overflaten ødelegges. Et tynt dryss holder ikke. Alternativt kan du løfte deigen med bakepapir og alt ned i gryta og klippe vekk det som stikker opp. *(Lagt til.)*
-- **Gryta smøres ikke.** Forfatteren gjør det aldri. Sitter brødet likevel fast, hjelper et lag mel i bunnen, eller at gryta er varm nok – en lunken gryte limer.
+- **Bruk mye mer mel på bakepapiret enn du tror.** Det er den vanligste feilen med denne oppskriften, og flere lesere melder om samme problem: deigen henger igjen i papiret og overflaten ødelegges. Et tynt dryss holder ikke. Alternativt kan du løfte deigen med bakepapir og alt ned i gryten og klippe vekk det som stikker opp. *(Lagt til.)*
+- **Gryten smøres ikke.** Forfatteren gjør det aldri. Sitter brødet likevel fast, hjelper et lag mel i bunnen, eller at gryten er varm nok – en lunken gryte limer.
 - **Lokket er hele poenget.** Deigen avgir damp som holdes inne de første tretti minuttene, slik at brødet kan utvide seg før skorpen setter seg. Uten lokk får du et flatt brød med tykk skorpe.
 - **En kvart teskje tørrgjær er ikke en trykkfeil.** Den lange hevingen gjør jobben, og lite gjær er det som gir smaken. Er kjøkkenet varmt, kan deigen være overhevet før det har gått ti timer – da brettes den tidligere.
 - **84 % hydrering.** 4 dl vann til 475 g mel er en våt deig, og det er derfor den ikke lar seg elte. Den skal flyte litt.
 - **Enhver gryte med lokk som tåler 250 °C fungerer.** Støpejern gir best resultat ifølge kilden. Ildfast form dekket med dobbelt lag folie går også. Bruker du leirgryte av typen Rømertopf, må den vannes først.
 - **Kjøkkenhåndkle, ikke plastpose.** Pakk brødet i et rent håndkle etter avkjøling, så beholder skorpen sprøheten. I plast blir den myk i løpet av en time.
 - **Holdbarhet:** best første døgn. Tåler frysing – varm det opp i varmluftsovn hvis du vil ha skorpen sprø igjen.
-- **Beslektet:** [ciabattabaguette uten elting (B9)](#b9-ciabattabaguette-uten-elting) og [focaccia på én dag (B13)](#b13-focaccia-på-én-dag) bruker samme eltefrie prinsipp i andre former, og [baguettbrød med overnattsheving (B16)](#b16-baguettbrød-med-overnattsheving) er samlingens andre brød med overnattsheving.
+- **Beslektet:** [ciabattabaguette uten elting (B9)](#b9-ciabattabaguette-uten-elting) og [focaccia på én dag (B13)](#b13-focaccia-på-én-dag) bruker samme eltefrie prinsipp i andre former, og [baguettbrød med overnattsheving (B16)](#b16-baguettbrød-med-overnattsheving) er et annet brød med overnattsheving.
 
 ---
 
