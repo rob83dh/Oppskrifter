@@ -22567,13 +22567,13 @@ Bakt ostekake med bringebærsaus svøpt inn i midten og hvit sjokoladeganache p�
 - 800 g kremost
 - 125 g mascarpone
 - 150 g sukker
-- 8 g vaniljesukker
+- 2 ts vaniljesukker
 - 45 g hvetemel
 - 3 egg, middels store
 
 **Topping**
 - 100 g hvit sjokolade
-- 45 ml kremfløte
+- 3 ss kremfløte
 
 ### Fremgangsmåte
 
@@ -22623,7 +22623,7 @@ Fem ingredienser og ingen baking utover bunnen. Knust shortbread som bunn, et la
 - 100 g smeltet smør
 - 250 g saltkaramell
 - 360 g mørk sjokolade
-- 240 ml kremfløte
+- 2,4 dl kremfløte
 
 ### Fremgangsmåte
 
@@ -22638,7 +22638,7 @@ Fem ingredienser og ingen baking utover bunnen. Knust shortbread som bunn, et la
 - **Kilden sier bare «sides», men bunnen skal selvsagt også dekkes.** Press blandingen godt ned i bunnen først, og deretter opp langs kanten – bruk baksiden av en skje eller bunnen av et glass. *(Rettelse.)*
 - **100 g ekstra smør til 400 g shortbread er mye.** Shortbread inneholder allerede rundt 30 % smør, og bunnen kan bli fet og smuldrete. **60–70 g holder.** Bruker du digestive i stedet, som er magrere, er 100 g riktig. *(Justering lagt til.)*
 - **Ganachen bør ikke smeltes sammen.** Kildens metode – varme fløte og sjokolade i samme kjele – skiller seg lett og gir en kornete ganache. Riktig metode: hakk sjokoladen fint, varm fløten til den *nesten* koker, hell den over sjokoladen, la det stå **2 minutter** uten å røre, og rør deretter fra midten og utover til den er blank. *(Kritisk teknikknotat lagt til.)*
-- **360 g sjokolade til 240 ml fløte gir en svært fast ganache** – forholdet er 1,5 : 1. Det gjør at terten lar seg skjære i rene stykker, men med 70 % sjokolade blir den hard og litt sprø rett fra kjøleskapet. Vil du ha den mykere og mer trøffelaktig, gå ned til **300 g sjokolade** eller bruk 55–60 %. *(Justering lagt til.)*
+- **360 g sjokolade til 2,4 dl fløte gir en svært fast ganache** – forholdet er 1,5 : 1. Det gjør at terten lar seg skjære i rene stykker, men med 70 % sjokolade blir den hard og litt sprø rett fra kjøleskapet. Vil du ha den mykere og mer trøffelaktig, gå ned til **300 g sjokolade** eller bruk 55–60 %. *(Justering lagt til.)*
 - **Karamellen må være helt kald før ganachen helles på.** Er den lun, blander lagene seg og du mister det tydelige snittet. Sett formen i kjøleskapet 20 minutter etter punkt 3. *(Lagt til.)*
 - **Saltkaramellen kan lages selv** – se [T123](#t123-saltkaramellsaus), som gir ca. 300 g og dermed rikelig. Bruk den kald og fast; en tynn, varm karamellsaus renner ned i bunnen. Ferdigkjøpt saltkaramell på glass fungerer også.
 - **Shortbread fås i norske butikker** under samme navn, og i utenlandsavdelingen. Digestive er nærmeste alternativ, men mindre smørrik og litt saltere.
@@ -22669,7 +22669,7 @@ Restaurantfondant med en kjerne av saltkaramell i tillegg til den flytende sjoko
 - ¼ ts havsalt
 - 6 toppede ts saltkaramellsaus
 
-**Utstyr:** 6 metallformer à 175 ml
+**Utstyr:** 6 metallformer à 1,75 dl
 
 ### Fremgangsmåte
 
@@ -22707,13 +22707,13 @@ Britisk klassiker: daddelkake med natron, dynket i en toffeesaus av fløte, deme
 - 175 g strøsukker
 - 2 egg
 - 175 g dadler uten stein, hakket
-- 300 ml vann
+- 3 dl vann
 - 1 ts natron
 - 175 g selvhevende mel *(se notat)*
 - 1 ts vaniljeekstrakt
 
 **Toffeesaus**
-- 300 ml kremfløte
+- 3 dl kremfløte
 - 50 g demerarasukker
 - 1 ss mørk sirup
 
@@ -22733,7 +22733,7 @@ Britisk klassiker: daddelkake med natron, dynket i en toffeesaus av fløte, deme
 - **Natronen reagerer med syren i dadlene** og gir kaken både heving og den mørke fargen. Den skal i mens daddelblandingen er varm, som kilden gjør. Blandingen skummer opp – bruk en romslig kjele.
 - **La daddelblandingen kjøle seg litt** før den går i eggerøren, ellers koagulerer eggene. 10 minutter holder. *(Lagt til.)*
 - **Black treacle er ikke norsk mørk sirup.** Black treacle er nærmere melasse – mørkere, bitrere og mer lakriskaktig. Norsk mørk sirup er mildere og søtere. Finner du melasse i helsekost, ligger den nærmere; ellers fungerer mørk sirup fint, bare litt søtere. *(Presisering lagt til.)*
-- **Formstørrelsen er ikke oppgitt.** «Åtte pudding tins» er små porsjonsformer på ca. 150 ml. Bruk muffinsformer eller små ildfaste former. Lager du én stor form på 20 × 20 cm i stedet, regn **35–40 minutter**. *(Lagt til.)*
+- **Formstørrelsen er ikke oppgitt.** «Åtte pudding tins» er små porsjonsformer på ca. 1,5 dl. Bruk muffinsformer eller små ildfaste former. Lager du én stor form på 20 × 20 cm i stedet, regn **35–40 minutter**. *(Lagt til.)*
 - **Sausen tykner mye når den avkjøles.** Kok den bare til den så vidt dekker baksiden av en skje – den fortsetter å sette seg. Blir den for tykk, spe med en skvett fløte.
 - **Best varm.** Kaken kan lages dagen før og varmes i ovnen med litt saus over.
 - **Beslektet:** [saltkaramellsaus (T123)](#t123-saltkaramellsaus) er en beslektet, men helt annen saus – karamellisert sukker mot innkokt fløte og sirup her.
@@ -22764,7 +22764,7 @@ Usteikt ostekake der ostefromasjen settes med appelsingelé og toppes med et lok
 - 200 g rabarbra, renset vekt, i biter
 - 75 g jordbær, renset vekt
 - 2 dl vann
-- 0,5 dl sukker
+- 40 g sukker *(Omregnet fra 0,5 dl.)*
 - 3 plater gelatin
 
 ### Fremgangsmåte
@@ -22800,7 +22800,7 @@ Mørdeigsbunn, mandelkrem og rabarbra lagt i geometrisk mønster på toppen. Man
 ### Ingredienser
 
 **Paibunn**
-- 3 dl hvetemel — ca. 180 g
+- 180 g hvetemel *(Omregnet fra 3 dl.)*
 - 100 g kaldt smør, i terninger
 - 3 ss sukker
 - 2 ss kaldt vann
