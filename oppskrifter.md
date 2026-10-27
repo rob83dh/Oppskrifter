@@ -18443,13 +18443,13 @@ Fire ingredienser vispet sammen. Soyasaus i stedet for eddik som syre og salt.
 
 ## T108. Hellstrøms vinaigrette med balsamico
 
-**Kilde:** Eyvind Hellstrøm, *Grunnboka* (Cappelen Damm, 2025) · **Kjøkken:** Italiensk · **Tid:** 5 min · **Gir:** ca. ¾ dl
+**Kilde:** Eyvind Hellstrøm, *Grunnboka* (Cappelen Damm, 2025) · **Kjøkken:** Italiensk · **Tid:** 5 min · **Gir:** ca. 0,8 dl
 
 Tre ingredienser. Kvaliteten på eddiken er hele oppskriften.
 
 ### Ingredienser
 
-- ½ dl olivenolje
+- 3 ss + 1 ts olivenolje *(Omregnet fra ½ dl.)*
 - 2 ss balsamico vecchio
 - Salt
 
@@ -18461,7 +18461,7 @@ Tre ingredienser. Kvaliteten på eddiken er hele oppskriften.
 
 - **«Vecchio» betyr lagret**, og det er ikke en detalj. Ung industribalsamico er tynn, sur og tilsatt karamell; lagret balsamico er sirupsaktig og søt. Med bare tre ingredienser er det ingenting å gjemme en dårlig eddik bak.
 - **Ingen sennep, ingen løk.** Dette er en ren olje-og-syre-blanding som skal la balsamicoen komme fram.
-- **Forholdet er ca. tre til én**, som en klassisk vinaigrette – men balsamico er mildere enn vineddik, så den oppleves søtere enn tallene tilsier.
+- **Forholdet er knapt to til én**, langt syrligere på papiret enn en klassisk vinaigrette på tre til én. Men lagret balsamico er mild og søt, så den oppleves rundere enn tallene tilsier.
 - **Beslektet:** [T127](#t127-vinaigrette) er samlingens klassiske grunnvinaigrette, og [T107](#t107-hellstrøms-vinaigrette-med-soya) er den asiatiske varianten.
 
 ---
