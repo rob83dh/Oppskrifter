@@ -1,6 +1,6 @@
 # Oppskriftssamling
 
-Sist oppdatert: 9. august 2026 · **570 oppskrifter** · 192 hovedretter, 79 tilbehør, 68 saus/marinade, 59 supper, 44 småretter, 35 desserter, 32 grunnoppskrifter, 25 salater, 30 sjømat, 17 frokost, 13 brød, 7 bakverk
+Sist oppdatert: 9. august 2026 · **569 oppskrifter** · 192 hovedretter, 79 tilbehør, 68 saus/marinade, 59 supper, 43 småretter, 35 desserter, 32 grunnoppskrifter, 25 salater, 30 sjømat, 17 frokost, 13 brød, 7 bakverk
 
 ## Innhold
 
