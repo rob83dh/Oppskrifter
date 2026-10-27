@@ -26098,7 +26098,7 @@ Fire liter melk blir til en halv kilo ost på under to timer. Løpen får melken
 ### Ingredienser
 
 - 4 liter helmelk *(økologisk eller fersk melk fra kua er enda bedre – se notat)*
-- 1 tablett løpe, blandet ut i et halvfullt glass vann *(eller 2 ml flytende osteløpe)*
+- 1 tablett løpe, blandet ut i et halvfullt glass vann *(eller ca. ½ ts flytende osteløpe – omregnet fra 2 ml)*
 - 1½ ts sitronsyre
 - 1 ts salt uten jod
 
