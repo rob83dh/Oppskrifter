@@ -848,7 +848,7 @@ Sprø kyllingbiter panert i knuste cornflakes, stekt i airfryer og vendt i en s�
 - Cornflakes-mengden er ikke oppgitt i originalen. 80 g knuste flak dekker ett bryst.
 - Bruk usøtede cornflakes. Sausen er søt nok fra før.
 - **Uten airfryer:** stekeovn på 220 °C med varmluft i 18–20 minutter på rist med stekepapir under, snu halvveis. Spray eller pensle bitene med litt olje for farge.
-- Skalerer du opp, skal ikke egg og krydder dobles fullt ut – panering skalerer under-lineært. To bryst klarer seg fint med 2–3 egg.
+- Skalerer du opp, trenger ikke egg og krydder dobles fullt ut – paneringen strekker seg lenger enn man tror. To bryst klarer seg fint med 2–3 egg.
 
 ---
 
@@ -883,7 +883,7 @@ Thailands mest folkelige hverdagsrett: karbonadedeig woket med masse hvitløk, c
 1. **Rør sammen sausen.** Bland mørk soyasaus, østerssaus, fiskesaus, sukker og eventuelt MSG i en liten skål.
 2. **Knus smaksbunnen.** Finhakk eller støt hvitløk og chili sammen i en morter. Morter gir best resultat – da slipper de mer smak.
 3. **Fres hvitløk og chili.** Varm olje i en wok eller stor panne på god varme og fres hvitløk og chili i 2 minutter.
-4. **Stek kjøttdeigen.** Ha i kjøttdeigen og stek den.
+4. **Stek kjøttdeigen.** Ha i kjøttdeigen og del den opp med stekespaden mens den steker.
 5. **Tilsett sausen.** Når kjøttet er omtrent halvveis stekt, hell over sausen og la alt koke til væsken har redusert seg.
 6. **Rør inn basilikumen.** Ha i basilikumen og rør i et par minutter.
 7. **Stek eggene.** Stek eggene i rikelig olje til kantene er sprø og plommen fortsatt er rennende.
@@ -891,10 +891,10 @@ Thailands mest folkelige hverdagsrett: karbonadedeig woket med masse hvitløk, c
 
 ### Notater
 
-- **Hellig basilikum (bai kaprao) er det som gir retten navnet sitt** og smaker helt annerledes enn vanlig basilikum – peprete, nesten som nellik. Får du bare thaibasilikum, funker det, men det blir en annen rett. Vanlig italiensk basilikum er en dårlig erstatning.
+- **Hellig basilikum (bai kaprao) er det som gir retten navnet sitt** og smaker helt annerledes enn vanlig basilikum – peprete, nesten som nellik. Får du bare thaibasilikum, fungerer det, men det blir en annen rett. Vanlig italiensk basilikum er en dårlig erstatning.
 - **5 chili er sterkt** hvis du bruker thai bird's eye. Røde chili fra vanlig norsk butikk er mildere, så der kan 5 stk. være riktig. Med thaichili ville jeg startet på 2–3.
 - **Mørk soyasaus** her betyr den tykke, kinesiske typen (dark soy / lao chou), som er mer om farge enn salt. Bruker du vanlig japansk soyasaus i stedet, blir retten saltere – reduser da til ca. 2 ss.
-- 500 g kjøttdeig gir fire porsjoner og egner seg godt til matprepping. Stek eggene ferske hver dag i stedet for å prepare dem.
+- 500 g kjøttdeig gir fire porsjoner og egner seg godt til matprepping. Eggene tåler ikke å lages på forhånd – stek dem ferske hver dag.
 - Ingrediensene finnes på Grønland/Tøyen eller i asiatiske butikker.
 
 ---
@@ -927,15 +927,15 @@ Thailands mest kjente salat, opprinnelig fra Isan-regionen. Sprø, syrlig, salt,
 3. **Tilsett reke og peanøtter.** Ha i tørket reke og halvparten av peanøttene, og støt lett så de knuses grovt.
 4. **Bank tomater og bønner.** Ha i tomatene og bønnene og bank dem forsiktig så de sprekker og slipper væske.
 5. **Lag dressingen.** Tilsett fiskesaus, limejuice og palmesukker. Rør til sukkeret har løst seg opp.
-6. **Vend inn papayaen.** Ha i papaya og gulrot. Bank forsiktig mens du snur salaten med en skje, til alt er dekket av dressing. Målet er å blåslå strimlene lett, ikke mose dem.
+6. **Vend inn papayaen.** Ha i papaya og gulrot. Bank forsiktig mens du snur salaten med en skje, til alt er dekket av dressing. Strimlene skal knuses lett, ikke moses.
 7. **Smak til.** Juster balansen mellom salt, surt, søtt og sterkt. Dryss over resten av peanøttene og server med én gang.
 
 ### Notater
 
 - **Grønn papaya i Oslo:** sjekk asiatiske butikker på Grønland eller Tøyen. Får du ikke tak i det, er **kålrot** en overraskende god erstatning – den brukes av thailendere i Norden nettopp av denne grunn. Grønn mango fungerer også, men blir surere, så reduser limejuicen.
-- **Uten morter:** bland dressingen i en bolle, hakk hvitløk og chili fint, og press/vri strimlene lett med hendene i stedet. Konsistensen blir ikke helt lik, men det funker.
+- **Uten morter:** bland dressingen i en bolle, hakk hvitløk og chili fint, og press/vri strimlene lett med hendene i stedet. Konsistensen blir ikke helt lik, men det fungerer.
 - Palmesukker kan erstattes med brunt sukker. Litt mindre karamellpreg, ellers greit.
-- **Salaten holder seg dårlig.** Papayaen trekker seg og blir slapp etter et par timer. Vil du forberede, hold papaya, dressing og peanøtter hver for seg og bland rett før servering.
+- **Salaten holder seg dårlig.** Papayaen slipper vann og blir slapp etter et par timer. Vil du forberede, hold papaya, dressing og peanøtter hver for seg og bland rett før servering.
 - Serveres tradisjonelt med klebrig ris og grillet kylling.
 
 ---
@@ -956,7 +956,7 @@ Så enkel som det blir, og utrolig trøstende. Fem ingredienser og under ti minu
 
 ### Fremgangsmåte
 
-1. **Kok opp vannet.** Ha vannet i en kjele og varm det opp.
+1. **Kok opp vannet** i en kjele.
 2. **Rør inn dashien.** Tilsett dashipulveret og rør til det har løst seg opp.
 3. **Ha i tofu og tang.** Tilsett tofuterningene og den tørkede wakamen. La det trekke på svak varme i 2 minutter, til tangen har svellet opp.
 4. **Løs opp misoen.** Ta kjelen av varmen. Ha misopastaen i en øse, tilsett litt av den varme kraften og rør til pastaen er helt oppløst. Rør blandingen tilbake i kjelen.
@@ -977,7 +977,7 @@ Så enkel som det blir, og utrolig trøstende. Fem ingredienser og under ti minu
 
 **Kilde:** Andy Cooks (andy-cooks.com) · **Kjøkken:** Thai · **Tid:** 35 min (25 min forberedelse, 10 min steking) · **Porsjoner:** 4
 
-En strammere versjon av [Pad Kra Pao](#4-pad-kra-pao) lenger opp i dokumentet. Her er det kun fiskesaus og sukker som smakssetter – ingen mørk soyasaus eller østerssaus. Resultatet blir renere og mer chilidrevet. Serveres med egen prik nam pla.
+En strammere versjon av [Pad Kra Pao (nr. 4)](#4-pad-kra-pao). Her er det kun fiskesaus og sukker som smakssetter – ingen mørk soyasaus eller østerssaus. Resultatet blir renere og mer chilidrevet. Serveres med egen prik nam pla.
 
 ### Ingredienser
 
@@ -1045,7 +1045,7 @@ Japansk panert svinekotelett. Hemmeligheten ligger i lav frityrtemperatur og ste
 ### Fremgangsmåte
 
 1. **Krydre kjøttet.** Salt koteletten på begge sider, og tilsett litt hvit pepper om ønskelig. Sett til side.
-2. **Lag panko selv (valgfritt).** Riv eller riv i stykker loff eller et pølsebrød – pølsebrød er lettest fordi det har lite skorpe. La brødsmulene ligge udekket i kjøleskapet over natten så de tørker ut.
+2. **Lag panko selv (valgfritt).** Riv loff eller et pølsebrød på et grovt rivjern, eller nap det i små biter – pølsebrød er lettest fordi det har lite skorpe. La brødsmulene ligge udekket i kjøleskapet over natten så de tørker ut.
 3. **Panér.** Vend koteletten i mel eller potetmel så hele overflaten er dekket, og bank av overflødig mel. Dypp deretter i sammenpisket egg, og til slutt i panko. Press paneringen godt fast.
 4. **Stek.** Friter på 160 °C til kjernetemperaturen er 55 °C.
 5. **Hvil.** La koteletten hvile på en rist i 5 minutter. Ettervarmen løfter kjernetemperaturen til ca. 60 °C.
