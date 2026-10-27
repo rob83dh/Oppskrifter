@@ -5910,7 +5910,7 @@ Svinekam gnidd inn med dijon, hvitløk og eplecidereddik, bundet opp med rosmari
 - 4 hvitløksfedd, finhakket
 - 2 kvister fersk rosmarin, + mer til pynt
 - Salt og pepper
-- 2,4 dl epleskiver *(valgfritt)*
+- 1 eple, i skiver *(valgfritt)*
 - 2–3 gulrøtter, i biter
 - 1 løk, i skiver
 - Slaktersnor
@@ -6005,7 +6005,7 @@ Kylling marinert i rødvin over natten og braisert langsomt med bacon, gulrot og
 ### Ingredienser
 
 - 6 hele kyllinglår (ca. 1,8 kg), eller 6–8 lårfileter med bein og skinn, eller én hel kylling delt opp
-- 1 flaske tørr rødvin (750 ml) – Pinot Noir, Beaujolais eller Côtes du Rhône
+- 1 flaske tørr rødvin (7,5 dl) – Pinot Noir, Beaujolais eller Côtes du Rhône
 - 3 gulrøtter, i skiver
 - 1 løk, tynt skivet
 - 3 hvitløksfedd, hele og knuste
@@ -6015,7 +6015,7 @@ Kylling marinert i rødvin over natten og braisert langsomt med bacon, gulrot og
 - 1 ss tomatpuré
 - 3 ss cognac eller brandy
 - 2 ss hvetemel
-- 300 ml kyllingkraft *(enheten mangler i kilden – se notat)*
+- 3 dl kyllingkraft *(enheten mangler i kilden – se notat)*
 - Salt og pepper
 
 **Garnityr**
@@ -6048,7 +6048,7 @@ Kylling marinert i rødvin over natten og braisert langsomt med bacon, gulrot og
 
 ### Notater
 
-- **Enheten på kraften mangler i kilden.** Ingredienslisten sier «1 ½ chicken stock 300 ml» – tallet 1½ står uten mål, trolig cups. De 300 ml er entydige og brukt her.
+- **Enheten på kraften mangler i kilden.** Ingredienslisten sier «1 ½ chicken stock 300 ml» – tallet 1½ står uten mål, trolig cups. De 300 ml (3 dl) er entydige og brukt her.
 - **Kilden motsier seg selv om marineringstiden.** Oppskriftskortet oppgir «resting time 2 hours», mens selve fremgangsmåten sier 12–24 timer og forfatterens egne tips sier «minst 2 timer, helst over natten». Over natten er det hun faktisk gjør, og det er lagt til grunn her.
 - **Kyllingen må tørkes svært godt** etter marineringen. Vått kjøtt bruner ikke, og bruningen er hele grunnlaget for sausens dybde – kilden er ettertrykkelig på det punktet.
 - **Bruk lår, ikke bryst.** Kilden begrunner det godt: lårkjøtt har mer fett, tåler halvannen times braisering uten å bli trevlete, og passer til den kraftige vinsausen. En leser har brukt kyllingbryst med hell, men det er ikke det retten er bygget for.
@@ -6126,17 +6126,17 @@ Short ribs brunet og braisert i rødvin og oksekraft i tre timer, servert på po
 - 2 store gulrøtter, skrelt og hakket
 - 3 hvitløksfedd, finhakket
 - 2 ss tomatpuré
-- 2,4 dl tørr rødvin
-- 4,8 dl oksekraft
+- 2,5 dl tørr rødvin
+- 5 dl oksekraft
 - 2 kvister fersk timian
 - 2 kvister fersk rosmarin
 - 1 laurbærblad
 
 **Potetmosen**
 - 900 g bakepoteter, skrelt og delt
-- 1,2 dl hvitløkskonfit (ca. 8–10 fedd)
+- 8–10 fedd hvitløkskonfit
 - 2–3 ss olje fra konfiten
-- 80 ml gresk yoghurt eller lettrømme
+- 80 g gresk yoghurt eller lettrømme
 - Salt og pepper
 - 2 ss hakket persille
 
@@ -6240,18 +6240,18 @@ En hel tallerken i fire deler: oksehale braisert i tre timer, mac and cheese med
 - 2 gulrøtter, hakket
 - 3 hvitløksfedd, finhakket
 - 2 ss tomatpuré
-- 2,4 dl oksekraft
-- 2,4 dl vann
+- 2,5 dl oksekraft
+- 2,5 dl vann
 - 1 ss Worcestershiresaus
 - 1 ts timian
 - 1 laurbærblad
 
 **Mac and cheese**
 - 225 g proteinrik makaroni
-- 2,4 dl revet cheddar
-- 1,2 dl revet mozzarella
+- 90 g revet cheddar
+- 40 g revet mozzarella
 - 1,2 dl gresk yoghurt
-- 2,4 dl lettmelk
+- 2,5 dl lettmelk
 - 1 ss lett smør
 - ½ ts paprikapulver
 - Salt og pepper
@@ -6267,7 +6267,7 @@ En hel tallerken i fire deler: oksehale braisert i tre timer, mac and cheese med
 - 1 bunt grønnkål, stilkene fjernet, i strimler *(kilden bruker collard greens – se notat)*
 - 2 skiver kalkunbacon eller mager skinke, hakket
 - 2 hvitløksfedd, finhakket
-- 2,4 dl lettsaltet kyllingkraft
+- 2,5 dl lettsaltet kyllingkraft
 - Salt og pepper
 - 1 ss eplecidereddik
 
