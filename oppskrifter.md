@@ -15171,17 +15171,17 @@ Hårtynne potetskiver vendt i klaret smør, lagvis presset i en brødform og bak
 
 ### Notater
 
-- **«Brushed potatoes» betyr ingenting i Norge.** Det er australsk butikkspråk for poteter som er børstet fri for jord, og i praksis er det Sebago – en melen allroundpotet. Her er det **stivelsen som er limet**: den siver ut mellom skivene og binder lagene til én blokk. Bruk melne sorter som Beate, Kerrs Pink eller Pimpernel. Dette er stikk motsatt av [fondantpotetene i T17](#t17-fondantpoteter), der du nettopp vil ha fastkokende som holder formen.
+- **«Brushed potatoes» betyr ingenting i Norge.** Det er australsk butikkspråk for poteter som er børstet fri for jord, og i praksis er det Sebago – en melen allroundpotet. Her er det **stivelsen som er limet**: den siver ut mellom skivene og binder lagene til én blokk. Bruk melne sorter som Beate, Kerrs Pink eller Pimpernel. Dette er stikk motsatt av [fondantpotetene (T17)](#t17-fondantpoteter), der du nettopp vil ha fastkokende som holder formen.
 - **Bløtleggingen i steg 1 arbeider mot deg.** Kaldt vann hindrer skivene i å mørkne mens du jobber, men skyller samtidig bort overflatestivelsen som skal lime lagene sammen. Klassisk pavé skylles derfor ikke. Faller blokken fra hverandre når du skjærer den, er dette den mest sannsynlige årsaken. Bløtlegg kort – bare mens du skjærer ferdig – eller dropp det og jobb raskt.
 - **Kilden motsier seg selv om antall porsjoner.** Oppskriftskortet sier 4, mens steg 12 sier at blokken skal skjæres i 6 stykker. 6 er det som faktisk skjer; om det er 4 eller 6 porsjoner avhenger av hva du serverer ved siden av. Ett stykke per person er rikelig som tilbehør.
-- **Klaret smør er ikke fancy for fancyens skyld.** Vanlig smør inneholder melkeproteiner som svir seg i løpet av to timer på 190 grader og gir bitter smak. Ghee fås i asiatiske butikker og i større dagligvarer. Vil du klare smøret selv: smelt ca. 150 g smør sakte, skum av det hvite på toppen, og hell den klare gule fettfasen forsiktig av – la bunnfallet ligge igjen.
+- **Klaret smør er nødvendig her.** Vanlig smør inneholder melkeproteiner som svir seg i løpet av to timer på 190 °C og gir bitter smak. Ghee fås i asiatiske butikker og i større dagligvarer. Vil du klare smøret selv: smelt ca. 150 g smør sakte, skum av det hvite på toppen, og hell den klare gule fettfasen forsiktig av – la bunnfallet ligge igjen.
 - **Olivenolje til fritering er en dyr løsning.** Kilden oppgir ingen mengde, men en kjele trenger 1–1,5 liter, og det er mye penger i olivenolje. Ved 160 °C er røykpunktet uansett ikke problemet – bruk raps- eller solsikkeolje. Skal det være olivenolje, ta vanlig raffinert, ikke ekstra virgin.
 - **160 °C er lavt med vilje.** Poteten er allerede gjennomstekt; frityren skal bare gi skorpe og varme den gjennom. Høyere temperatur svartner overflaten før lagene i midten er varme.
 - **Formstørrelsen bestemmer tykkelsen.** 11 × 22 cm er en liten brødform. Norske former er ofte 12 × 25 cm eller større, og da blir blokken lavere, tørrere og vanskeligere å skjære i pene stykker. Finner du ikke riktig størrelse, reduser potetmengden proporsjonalt heller enn å bruke en stor form.
 - **Pressingen over natten er ikke valgfri.** Det er den som gjør en løs stabel om til en blokk som kan skjæres og friteres. Vekten skal være jevn over hele overflaten – derfor triksene med en identisk form fylt med hermetikk.
 - **Ovnstemperaturen er entydig.** Kilden oppgir både varmluft og over-/undervarme, så det er ingen tolkning her.
 - **Alt utenom fritering gjøres dagen før**, som kilden selv presiserer. Den ferdige blokken holder seg 2–3 dager i kjøleskap før den skjæres og friteres, så dette er en god rett å planlegge med.
-- **Samlingens tre potettilbehør** er nå denne, [fondantpotetene](#t17-fondantpoteter) og [gamja jorim](#t11-gamja-jorim--koreanske-soyabraiserte-poteter). Denne er den eneste som krever planlegging over to dager.
+- **Sammenlign med** [fondantpotetene (T17)](#t17-fondantpoteter) og [gamja jorim (T11)](#t11-gamja-jorim--koreanske-soyabraiserte-poteter). Pavéen er den eneste av dem som krever planlegging over to dager.
 - **Om navnet.** Kilden skriver «potato pavé». *Pavé* er fransk for brostein og viser til den firkantede formen. Den norske formen er brukt her; både «potato pavé» og «pommes pavé» forekommer.
 
 ---
@@ -15233,7 +15233,7 @@ Potetsalat der potetene ikke er bløte. De forkokes hele, halveres og presses me
 
 ### Notater
 
-- **Kipfler er mandelpotet.** Det er en liten, avlang, fastkokende potet av samme type som tyske Kipfler og Bamberger – altså nøyaktig det norske mandelpoteten er. Her er du for én gangs skyld heldig: originalpoteten finnes i norske butikker under et annet navn. Kilden er tydelig på hvorfor typen betyr noe: melne poteter faller fra hverandre i forkokingen og holder ikke fasongen mot en varm helle. Delikatesse- eller andre småpoteter fungerer også.
+- **Kipfler er mandelpotet.** Det er en liten, avlang, fastkokende potet av samme type som tyske Kipfler og Bamberger – altså nøyaktig det den norske mandelpoteten er. Her er du for én gangs skyld heldig: originalpoteten finnes i norske butikker under et annet navn. Kilden er tydelig på hvorfor typen betyr noe: melne poteter faller fra hverandre i forkokingen og holder ikke fasongen mot en varm helle. Delikatesse- eller andre småpoteter fungerer også.
 - **30–35 minutter gjelder ikke mandelpotet.** Kipfler er større enn norske mandelpoteter. Sjekk med kniv etter **15 minutter** og regn 15–25 minutter totalt. Kilden sier selv at småpoteter koker raskere og at tiden må justeres.
 - **Avkjølingen før vending er det viktigste steget i hele oppskriften.** Er potetene varme når majonesen går i, sprekker emulsjonen og sausen blir fet og oljete. De skal være lune, ikke dampende. Ventetiden gjør dessuten at skorpen setter seg, så potetene tåler å bli vendt.
 - **Hellen må være glovarm før potetene går på.** Er den for kald, damper potetene i stedet for å karamellisere, og du får ingen farge. Oljen skal skimre og bevege seg med én gang den treffer. Og når potetene først ligger med snittflaten ned: **ikke rør dem** på de 3–4 minuttene. Flytter du dem tidlig, river du av skorpen før den har rukket å danne seg.
@@ -15282,7 +15282,7 @@ Fersk meksikansk salsa av finhakket tomat, løk, chili, koriander og lime. Ingen
 - **Koriander deler folk.** Bladpersille er kildens erstatning for dem som ikke tåler den – salsaen smaker annerledes, men fungerer.
 - **Holdbarhet:** 3 dager i tett boks i kjøleskap, og den kan lages inntil et døgn i forveien. Kilden mener selv den blir bedre etter et par timer.
 - **Mengdeanslaget er optimistisk.** 1,5 cups er ca. 3,5 dl, men 2 romatomater og en halv løk gir realistisk nærmere 2,5 dl. Skal du servere til flere enn tre–fire, doble oppskriften.
-- **Samlingens andre ferske, hakkede saus** er [chimichurrien i T14](#t14-chimichurri) – samme prinsipp, samme forfatter: skarp kniv, ingen mikser, og en hviletid som gjør jobben.
+- **Sammenlign med** [chimichurrien (T14)](#t14-chimichurri) – samme prinsipp, samme forfatter: skarp kniv, ingen mikser, og en hviletid som gjør jobben.
 
 ---
 
@@ -15290,7 +15290,7 @@ Fersk meksikansk salsa av finhakket tomat, løk, chili, koriander og lime. Ingen
 
 **Kilde:** Karine / Karinecooks (karinecooks.com) · **Kjøkken:** Kinesisk-inspirert · **Tid:** 25 min (inkl. 15 min salting) · **Gir:** 2 porsjoner
 
-Trekkspillskårne agurker saltet og skylt, vendt i en dressing av riseddik, soya, sesamolje og hvitløkschiliolje. Samme grunnteknikk som [oi muchim i T6](#t6-koreansk-sterk-agurksalat-oi-muchim), men en helt annen dressing: eddikdrevet og chilioljebasert i stedet for gochugaru.
+Trekkspillskårne agurker saltet og skylt, vendt i en dressing av riseddik, soya, sesamolje og hvitløkschiliolje. Samme grunnteknikk som [oi muchim (T6)](#t6-koreansk-sterk-agurksalat-oi-muchim), men en helt annen dressing: eddikdrevet og chilioljebasert i stedet for gochugaru.
 
 ### Ingredienser
 
@@ -15324,8 +15324,8 @@ Trekkspillskårne agurker saltet og skylt, vendt i en dressing av riseddik, soya
 - **Tidsangivelsene går ikke helt opp heller** – 20 minutters forberedelse og 25 minutter totalt, mens saltingen alene tar 15. 25 minutter totalt er realistisk hvis du skjærer mens agurkene salter, altså ikke slik oppskriften er skrevet.
 - **Dressingen på først ved servering.** Kilden er tydelig i FAQ-en: du kan skjære agurkene og røre dressingen i forveien, men vender du dem sammen for tidlig, mister agurken spensten. Rester holder seg 2 dager, men blir vassere.
 - **Styrken justeres med chilioljen alene.** Vil du ha den mild, kutt ned eller sløyf den – resten av dressingen står støtt uten.
-- **Samlingen har nå tre agurktilbehør:** [soyamarinert agurk (T3)](#t3-soyamarinert-agurk) er mildest og raskest, [oi muchim (T6)](#t6-koreansk-sterk-agurksalat-oi-muchim) er koreansk og gochugarudrevet, og denne er eddiksterkest og chilioljebasert. Alle tre bygger på samme grep: salt, skyll, tørk.
-- **Samme forfatter anbefaler den selv** til [Korean beef bowl](#80-korean-beef-bowl--koreansk-kjøttdeig-med-gochujangsaus).
+- **Andre agurktilbehør:** [soyamarinert agurk (T3)](#t3-soyamarinert-agurk) er mildest og raskest, [oi muchim (T6)](#t6-koreansk-sterk-agurksalat-oi-muchim) er koreansk og gochugarudrevet, og denne er eddiksterkest og chilioljebasert. Alle bygger på samme grep: salt, skyll, tørk.
+- **Forfatteren anbefaler den selv** til [Korean beef bowl (nr. 80)](#80-korean-beef-bowl--koreansk-kjøttdeig-med-gochujangsaus).
 
 ---
 
@@ -15369,8 +15369,8 @@ Gai lan freses med skivet hvitløk, dampes kort under lokk og smakes til med sha
 - **Alt på planten kan spises** – blader, stilk og blomster.
 - **Vasking:** legg grønnsaken i en stor bolle med vann i noen minutter og rist den rundt som en malerkost. Gjenta én–to ganger med rent vann. Jorden sitter godt i bladfestene.
 - **Holdbarhet:** 3–4 dager i kjøleskap, avkjølt før den dekkes til. Som alle bladgrønnsaker taper den seg raskt på tekstur – dette er en rett å lage rett før servering.
-- **Samlingen har nå tre kinesiske grønnsakstilbehør:** denne, [hvitløks-bok choy (T2)](#t2-hvitløks-bok-choy) og [bok choy med østerssaus (T16)](#t16-bok-choy-med-østerssaus-og-sprø-hvitløk). Erstatningslisten i T2 nevnte gai lan – nå har den fått sin egen oppføring.
-- **Samme forfatter står bak** [beef and broccoli](#87-beef-and-broccoli--oksekjøtt-i-wok-med-brokkoli) og [karaage](#86-karaage--japansk-friturstekt-kylling) i samlingen.
+- **Andre kinesiske grønnsakstilbehør:** [hvitløks-bok choy (T2)](#t2-hvitløks-bok-choy) og [bok choy med østerssaus (T16)](#t16-bok-choy-med-østerssaus-og-sprø-hvitløk). Erstatningslisten i T2 nevner gai lan, som her har fått sin egen oppføring.
+- **Samme forfatter står bak** [beef and broccoli (nr. 87)](#87-beef-and-broccoli--oksekjøtt-i-wok-med-brokkoli) og [karaage (nr. 86)](#86-karaage--japansk-friturstekt-kylling).
 
 ---
 
@@ -15409,11 +15409,11 @@ Bakepoteter i båter, vendt i olje, krydder og revet parmesan, og stekt i airfry
 - **Kilden motsier seg selv om ristingen.** Oppskriftskortet sier at du skal riste kurven halvveis, mens den illustrerte fremgangsmåten ikke nevner det – og begge deler ber deg legge båtene med skinnsiden ned. Rister du, ryker den plasseringen. Velg: enten legger du dem pent med skinnsiden ned og lar dem ligge, eller så rister du og godtar ujevn farge. Skinnsiden ned gir jevnest resultat.
 - **Ekstratiden spriker også:** 3–5 minutter i brødteksten, 5 minutter i kortet. Uansett bør du følge med – parmesanen og krydderne bruner raskere enn poteten.
 - **Ingen bløtlegging her, og det er et valg.** Mange potetbåtoppskrifter skyller bort stivelse; denne gjør det motsatte og holder potetene helt tørre, så olje og krydder fester seg. Derfor er tørkingen i punkt 1 viktigere enn den ser ut.
-- **Uten airfryer:** stekeovn på **220 °C varmluft** i 25–30 minutter på rist med langpanne under, snu halvveis. Samme løsning som i [nr. 3](#3-koreansk-popcorn-kylling). *(Lagt til.)*
+- **Uten airfryer:** stekeovn på **220 °C varmluft** i 25–30 minutter på rist med langpanne under, snu halvveis. Samme løsning som i [koreansk popcorn-kylling (nr. 3)](#3-koreansk-popcorn-kylling). *(Lagt til.)*
 - **Parmesanen er valgfri**, men er det som gir båtene umami. Sløyfer du den, blir retten melkefri.
 - **Krydderblandingen er også valgfri.** Salt og pepper alene fungerer; resten er det som løfter dem.
 - **Holdbarhet:** 4 dager i kjøleskap. Varmes opp i airfryer på **175 °C i ca. 5 minutter**, men de blir aldri like sprø som nystekte.
-- **Samlingen har nå fire potettilbehør** med hver sin potettype: melen bakepotet her, fastkokende i [fondantpotetene](#t17-fondantpoteter), melen igjen i [potetpavéen](#t18-potetpavé) fordi stivelsen skal lime lagene, og koreanske [gamja jorim](#t11-gamja-jorim--koreanske-soyabraiserte-poteter). Potettypen er sjelden en detalj.
+- **Potettypen er sjelden en detalj.** Her er det melen bakepotet, i [fondantpotetene (T17)](#t17-fondantpoteter) fastkokende, og i [potetpavéen (T18)](#t18-potetpavé) melen igjen fordi stivelsen skal lime lagene. Se også [gamja jorim (T11)](#t11-gamja-jorim--koreanske-soyabraiserte-poteter).
 
 ---
 
@@ -15443,7 +15443,7 @@ Samme rett som [T9](#t9-hvitløksbønner-din-tai-fung-stil), men en langt letter
 
 - **Dette er den praktiske utgaven.** Der [T9](#t9-hvitløksbønner-din-tai-fung-stil) ber deg fylle wokken med olje og gå til 190 °C, klarer denne seg med 1,5 cm olje på 175 °C. Resultatet blir litt mindre blemmete, men vesentlig lettere å gjennomføre på en hverdag – og det var nettopp innvendingen mot T9. Bruk denne når du vil ha bønnene som tilbehør, T9 når du vil kopiere restaurantversjonen.
 - **Kilden spriker om steketiden.** Oppskriftskortet sier 30 sekunder til 1 minutt, den illustrerte teksten sier 30 sekunder til 2 minutter, og tipsdelen opplyser at forfatteren selv bruker rundt **45 sekunder** fordi hun vil ha dem sprø. 45 sekunder er et godt utgangspunkt.
-- **Bønnene må være knusktørre.** Kilden gjentar det tre ganger, og med god grunn: vann i 175 gradig olje spruter. Dette er samme advarsel som i T9, og den er like alvorlig her selv om oljelaget er tynnere. Frosne bønner fungerer ikke – de er altfor våte.
+- **Bønnene må være knusktørre.** Kilden gjentar det tre ganger, og med god grunn: vann i olje på 175 °C spruter. Dette er samme advarsel som i T9, og den er like alvorlig her selv om oljelaget er tynnere. Frosne bønner fungerer ikke – de er altfor våte.
 - **Ingen MSG og ingen hvit pepper her.** T9 smaker til med begge deler; denne bruker bare salt, og lar hvitløken og bønnene stå alene. Det er en renere, men også flatere versjon – en klype MSG løfter den om du har.
 - **Hvitløksmengden er halvert** i forhold til T9: 4–5 fedd mot 8–10. Vil du ha den hvitløksdrevne restaurantsmaken, øk.
 - **Temperaturen er omregnet fra fahrenheit:** 350 °F = 175 °C.
@@ -15490,14 +15490,14 @@ Fersk salsa av mango og avokado i terninger, med jalapeño, lime og koriander. I
 ### Notater
 
 - **Tajín fås ikke i vanlige norske butikker.** Det er en meksikansk krydderblanding av chili, tørket lime og salt, og finnes i meksikanske spesialbutikker og enkelte nettbutikker. Blander du selv: **¼ ts mildt chilipulver, ¼ ts salt og revet skall av ½ lime** treffer profilen godt. Det er valgfritt i kilden, men det er nettopp dette krydderet som gjør mango-og-chili-kombinasjonen meksikansk snarere enn bare fruktig.
-- **Mangoen avgjør alt.** To mangoer kan være alt fra 400 til 900 g, og norske butikker fører mest Tommy Atkins og Kent, som kan være trevlete. Den skal gi etter ved stilken. Umoden mango blir hard og sur og lar seg ikke skjære i pene terninger – samme problem som i [D3](#d3-mango-sticky-rice-ruller).
+- **Mangoen avgjør alt.** To mangoer kan være alt fra 400 til 900 g, og norske butikker fører mest Tommy Atkins og Kent, som kan være trevlete. Den skal gi etter ved stilken. Umoden mango blir hard og sur og lar seg ikke skjære i pene terninger – samme problem som i [mango sticky rice-rullene (D3)](#d3-mango-sticky-rice-ruller).
 - **En klype salt er for lite.** Mango og avokado er begge milde og fete, og trenger mer salt enn man skulle tro for at limen skal komme fram. Start med ¼ ts og smak.
 - **Ingen løk i denne salsaen.** Det er uvanlig – [pico de gallo (T20)](#t20-pico-de-gallo) og de fleste ferske salsaer bygger på løk. Vil du ha bitt og skarphet, er ½ finhakket rødløk et naturlig tilskudd.
 - **Olivenolje er heller ikke tradisjonelt** i en meksikansk salsa; den gjør retten mer til en salat. Sløyfer du den, blir salsaen friskere og lettere, men limen dominerer mer.
 - **Avokadoen mørkner.** Limesaften bremser det, men ikke mer enn et par timer. Lag salsaen samme dag, og vend gjerne avokadoen inn helt til slutt hvis du forbereder resten. *(Lagt til; kilden sier ingenting om oppbevaring.)*
 - **Urtemengden er ikke oppgitt.** Regn en god neve, ca. 10 g. Koriander deler folk – persille er kildens eget alternativ, som i [T20](#t20-pico-de-gallo).
 - **Chipsene er en egen liten oppskrift** gjemt inne i fremgangsmåten. Ovnstemperaturen er entydig oppgitt med både 400 °F og 200 °C. Bruker du norske hvetelefser, blir de tynnere enn amerikanske tortillaer og trenger nærmere 6–8 minutter – følg med fra 5.
-- **Samlingen etterspurte allerede denne.** [Mango- og kokoskarri med laks (nr. 51)](#51-mango--og-kokoskarri-med-laks) har «mangosalsa i terninger» som valgfritt tilbehør uten å oppgi noen oppskrift. Nå finnes den.
+- **Passer til** [mango- og kokoskarri med laks (nr. 51)](#51-mango--og-kokoskarri-med-laks), som har «mangosalsa i terninger» som valgfritt tilbehør uten egen oppskrift.
 
 ---
 
@@ -15580,7 +15580,7 @@ Tynne potetskiver bakt i fløte og melk trukket med timian, rosmarin, laurbær o
 - **Temperaturene er omregnet fra fahrenheit:** 390 °F = 200 °C varmluft, 320 °F = 160 °C ved oppvarming.
 - **Kan settes sammen på forhånd** – noen timer eller et helt døgn – og oppbevares dekket i kjøleskap til den skal stekes. Regn da med noen ekstra minutter i ovnen.
 - **Holdbarhet:** 3–4 dager i kjøleskap. Varmes dekket på 160 °C i 15–20 minutter. Kan fryses, men fløten kan skille seg ved tining – kilden anbefaler å lage den fersk.
-- **Samlingens femte potettilbehør**, ved siden av [gamja jorim (T11)](#t11-gamja-jorim--koreanske-soyabraiserte-poteter), [fondantpoteter (T17)](#t17-fondantpoteter), [potetpavé (T18)](#t18-potetpavé) og [potetbåter i airfryer (T23)](#t23-potetbåter-i-airfryer). Kilden foreslår den selv til [coq au vin (nr. 109)](#109-coq-au-vin).
+- **Andre potettilbehør:** [gamja jorim (T11)](#t11-gamja-jorim--koreanske-soyabraiserte-poteter), [fondantpoteter (T17)](#t17-fondantpoteter), [potetpavé (T18)](#t18-potetpavé) og [potetbåter i airfryer (T23)](#t23-potetbåter-i-airfryer). Kilden foreslår den selv til [coq au vin (nr. 109)](#109-coq-au-vin).
 
 ---
 
