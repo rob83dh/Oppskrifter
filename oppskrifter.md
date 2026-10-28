@@ -1,6 +1,6 @@
 # Oppskriftssamling
 
-Sist oppdatert: 28. oktober 2026 · **571 oppskrifter** · 193 hovedretter, 79 tilbehør, 68 saus/marinade, 61 supper, 43 småretter, 35 desserter, 32 grunnoppskrifter, 25 salater, 30 sjømat, 17 frokost, 13 brød, 7 bakverk
+Sist oppdatert: 28. oktober 2026 · **572 oppskrifter** · 194 hovedretter, 79 tilbehør, 68 saus/marinade, 61 supper, 43 småretter, 35 desserter, 32 grunnoppskrifter, 25 salater, 30 sjømat, 17 frokost, 13 brød, 7 bakverk
 
 ## Innhold
 
@@ -372,6 +372,7 @@ Sist oppdatert: 28. oktober 2026 · **571 oppskrifter** · 193 hovedretter, 79 t
 | 123 | [Hellstrøms kjøttboller i tomatsaus](#123-hellstrøms-kjøttboller-i-tomatsaus) | Hovedrett | Norsk | ca. 1½ t | 8–10 |
 | 124 | [Steak Diane](#124-steak-diane) | Hovedrett | Fransk | ca. 25 min | 2 |
 | 218 | [Entrecôte med umamisaus og pommes frites](#218-entrecôte-med-umamisaus-og-pommes-frites) | Hovedrett | Norsk-japansk fusjon | ca. 1 t 20 min | 2 |
+| 224 | [Kremet pasta med ovnskaramellisert løk og biffstrimler](#224-kremet-pasta-med-ovnskaramellisert-løk-og-biffstrimler) | Hovedrett | Vestlig | ca. 1 t | 2 |
 | 112 | [Hvitløks- og urtekylling med ovnsbakte gulrøtter og potetmos](#112-hvitløks--og-urtekylling-med-ovnsbakte-gulrøtter-og-potetmos) | Hovedrett | Amerikansk | ca. 40 min | 4 |
 | 113 | [Braisert oksehale med mac and cheese, søtpotet og grønnkål](#113-braisert-oksehale-med-mac-and-cheese-søtpotet-og-grønnkål) | Hovedrett | Amerikansk | ca. 3½ t | 4 |
 | 114 | [Proteinrik pizza med yoghurtbunn](#114-proteinrik-pizza-med-yoghurtbunn) | Hovedrett | Amerikansk | ca. 30 min | 4 |
@@ -11988,6 +11989,58 @@ Kremet soyamelkbuljong med ingefær, en tykk peanøttpasta rørt ut i bunnen av 
 
 
 
+
+
+## 224. Kremet pasta med ovnskaramellisert løk og biffstrimler
+
+**Kilde:** Ragne Tremoen / @ragne.tremoen (TikTok, 594 likes, 22. oktober 2026) · **Kjøkken:** Vestlig · **Tid:** ca. 1 t (15 min aktivt + 45 min i ovn) · **Porsjoner:** 2 *(ikke oppgitt i kilden)*
+
+Fire gule løk og et helt hvitløkshode karamelliseres i ovnen i tre kvarter, moses sammen med rømme, feta, sitron og soyasaus til en saus rett i formen, og vendes med pasta. Biffstrimler stekt med paprika og hoisin på toppen. Nesten all tiden går i ovnen.
+
+### Ingredienser
+
+**Løksausen**
+- 4 gule løk, i tynne skiver
+- 1 hvitløkshode
+- 3 ss olivenolje *(mengde lagt til)*
+- 1 ts paprikapulver *(mengde lagt til)*
+- Salt og pepper
+- 2 dl rømme *(mengde lagt til)*
+- 100 g fetaost *(mengde lagt til)*
+- Saften av ½ sitron *(mengde lagt til)*
+- 1 ss soyasaus *(mengde lagt til)*
+- 4 ss melk *(mengde lagt til – kilden sier «en skvett»)*
+
+**Pasta og kjøtt**
+- 250 g kort pasta, gjerne radiatori eller fusilli *(mengde lagt til)*
+- 400 g biffstrimler *(mengde lagt til)*
+- ½ ts paprikapulver
+- 2 ss hoisinsaus *(mengde lagt til)*
+- Salt og pepper
+
+### Fremgangsmåte
+
+1. **Sett ovnen på 180 °C varmluft.**
+2. **Løken i formen.** Legg løkskivene i en ildfast form og krydre godt med salt, pepper og paprikapulver.
+3. **Hvitløken i.** Skjær toppen av hvitløkshodet, legg det midt i løken, og drypp olivenolje over hvitløken og løken. Stek i **ca. 45 minutter**, og **rør i løken hvert 10.–15. minutt** så den ikke svir seg på toppen.
+4. **Stek biffstrimlene** mens løken står i ovnen. Krydre med salt, pepper og paprikapulver, og smak til med hoisinsaus mot slutten.
+5. **Kok pastaen** og ta vare på **1 dl av kokevannet** før du heller av.
+6. **Hvitløken ut av skallet.** Når løken er ferdig, klem de myke feddene ut av skallet og rør dem inn i løken. Klipp gjerne løken i mindre biter med saks rett i formen.
+7. **Lag sausen.** Rør inn rømme, smuldret feta, sitronsaft, soyasaus, litt av pastavannet og melken.
+8. **Pastaen i.** Vend pastaen inn i sausen og topp med biffstrimlene. Spe med mer pastavann hvis sausen er for tykk.
+
+### Notater
+
+- **Ingen mengder er oppgitt i kilden** utover fire løk. Alle andre mengder er anslag ut fra videoen og to porsjoner – juster rømme, feta og pastavann til du har den konsistensen du vil ha. *(Lagt til.)*
+- **Rør i løken underveis.** Kilden er tydelig: snu den hvert 10.–15. minutt, ellers svir toppen mens bunnen fortsatt er hvit. Den skal bli myk og gyllenbrun, med noen mørke kanter.
+- **Løk krymper kraftig**, som kilden påpeker – fire store løk blir til en beskjeden haug. Ikke reduser mengden.
+- **Sausen lages rett i den varme formen.** Restvarmen fra løken smelter fetaen og gjør sausen kremet uten at rømmen koker og skiller seg.
+- **Lettrømme går fint** hvis du vil ha retten lettere – kilden lager den som «comfort food som fortsatt føles bra». Seterrømme gir en rikere saus.
+- **Salt forsiktig.** Feta, soyasaus og hoisin er alle salte. Smak til helt til slutt.
+- **Biffstrimler** fås ferdig skåret i de fleste butikker. Svinestrimler eller kyllingstrimler fungerer like godt.
+- **Beslektet:** [pasta med hvitløkssmør (nr. 204)](#204-pasta-med-hvitløkssmør) er en annen enkel hverdagspasta, og [terte med geitost og karamellisert løk (S23)](#s23-terte-med-geitost-og-karamellisert-løk) bruker samme smak. Samme forfatter står bak [spicy peanøtt-ramen med crispy kjøttdeig (nr. 223)](#223-spicy-peanøtt-ramen-med-crispy-kjøttdeig) og [marry me chicken-suppe med gnocchi (SU35)](#su35-marry-me-chicken-suppe-med-gnocchi--ragne-tremoen-sin-versjon).
+
+---
 
 
 # Sjømat
