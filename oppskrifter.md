@@ -1,6 +1,6 @@
 # Oppskriftssamling
 
-Sist oppdatert: 28. oktober 2026 · **570 oppskrifter** · 193 hovedretter, 79 tilbehør, 68 saus/marinade, 60 supper, 43 småretter, 35 desserter, 32 grunnoppskrifter, 25 salater, 30 sjømat, 17 frokost, 13 brød, 7 bakverk
+Sist oppdatert: 28. oktober 2026 · **571 oppskrifter** · 193 hovedretter, 79 tilbehør, 68 saus/marinade, 61 supper, 43 småretter, 35 desserter, 32 grunnoppskrifter, 25 salater, 30 sjømat, 17 frokost, 13 brød, 7 bakverk
 
 ## Innhold
 
@@ -387,6 +387,7 @@ Sist oppdatert: 28. oktober 2026 · **570 oppskrifter** · 193 hovedretter, 79 t
 | SJ12 | [Quiche uten bunn med røkelaks og brokkoli](#sj12-quiche-uten-bunn-med-røkelaks-og-brokkoli) | Sjømat | Fransk | 50 min | 4 |
 | SJ13 | [Tunfisk- og tomatsuppe](#sj13-tunfisk--og-tomatsuppe) | Sjømat · Suppe | Middelhavs | 45 min | 4 |
 | SU1 | [Marry me chicken-suppe med gnocchi](#su1-marry-me-chicken-suppe-med-gnocchi) | Suppe | Amerikansk | ca. 35 min | 6 |
+| SU35 | [Marry me chicken-suppe med gnocchi – Ragne Tremoen sin versjon](#su35-marry-me-chicken-suppe-med-gnocchi--ragne-tremoen-sin-versjon) | Suppe | Amerikansk | ca. 1 t 15 min | 4–6 |
 | SU4 | [Eyvind Hellstrøms kyllingsuppe med karri](#su4-eyvind-hellstrøms-kyllingsuppe-med-karri) | Suppe | Norsk | ca. 30 min | 4 |
 | SU5 | [Fransk løksuppe](#su5-fransk-løksuppe) | Suppe | Fransk | ca. 1 t | 4 |
 | SU6 | [Tomatsuppe av ovnsbakte tomater](#su6-tomatsuppe-av-ovnsbakte-tomater) | Suppe | Amerikansk | 40 min | 6 |
@@ -12924,6 +12925,7 @@ Kremet suppe med soltørkede tomater, kylling og gnocchi, rundet av med kremost,
 - **Ingen tid er oppgitt for suppen totalt.** Med hakking av grønnsaker regner du rundt 35 minutter fra start til bords.
 - **Spinaten faller kraftig sammen.** 60 g fersk babyspinat blir til nesten ingenting – ikke bli overrasket, og ikke reduser mengden.
 - **Om navnet.** «Marry me chicken» er en amerikansk nettrett med kylling i kremet saus med soltørkede tomater og parmesan. Navnet er beholdt, siden retten er kjent under det.
+- **Sammenlign med** [Ragne Tremoen sin versjon (SU35)](#su35-marry-me-chicken-suppe-med-gnocchi--ragne-tremoen-sin-versjon), der rå kyllinglår stekes og kokes møre i kraften – mer arbeid, dypere smak.
 
 ---
 
@@ -14485,6 +14487,70 @@ Hjemmelaget kyllingkraft trukket med kanel, stjerneanis, nellik, kardemomme og f
 - **Kjernetemperatur på 65 °C** for kyllingen i punkt 4 sikrer at den ikke blir overkokt før den trekkes videre i kraften i beina.
 - **Risnudler er ikke spesifisert med mengde i kilden** – bruk vanlige phở-nudler (banh pho) etter pakningens anvisning, tilpasset antall porsjoner.
 - **Beslektet:** samlingen har fra før [12. Kyllingpho](#12-kyllingpho) og [15. Kyllingpho, Alissa Nguyen Won](#15-kyllingpho-alissa-nguyen-won) – denne varianten skiller seg med en egen ingefær-lime-dipp servert ved siden av kraften, i stedet for kun hoisin/sriracha på bordet.
+
+---
+
+## SU35. Marry me chicken-suppe med gnocchi – Ragne Tremoen sin versjon
+
+**Kilde:** Ragne Tremoen / @ragne.tremoen (TikTok, 296 likes, 15. oktober 2026) · **Kjøkken:** Amerikansk · **Tid:** ca. 1 t 15 min *(ikke oppgitt i kilden)* · **Porsjoner:** 4–6
+
+Kremet suppe der kyllinglårene stekes sprø med skinnet på og deretter kokes møre i kraften, så både stekesmaken og kraften fra beina havner i suppen. Soltørkede tomater, kremost og parmesan gir den kjente «marry me»-smaken, og gnocchi og spinat går i til slutt.
+
+### Ingredienser
+
+**Kyllingen**
+- 800 g kyllinglår med skinn og bein
+- 1 ts paprikapulver
+- 1 ts hvitløkspulver
+- ½ ts løkpulver
+- ½ ts tørket timian
+- Salt og pepper
+- 2 ss smør til steking
+
+**Suppebasen**
+- 2 ss smør
+- 1 gul løk
+- 3 gulrøtter
+- 2 stilker stangselleri
+- 4 hvitløksfedd
+- 100 g soltørkede tomater
+- 2 ss tomatpuré
+- 1 ts tørket oregano
+- ½ ts tørket timian
+- 1 ts paprikapulver
+- 1–1,2 liter kyllingkraft
+- 3 dl kremfløte
+- 150 g kremost naturell, romtemperert
+- 500 g gnocchi
+- 100 g fersk spinat
+- 100 g finrevet parmesan, pluss litt til servering
+- Salt og pepper
+
+**Jevning**
+- 2 ss hvetemel
+- 1 dl kald kyllingkraft
+
+### Fremgangsmåte
+
+1. **Krydre og stek kyllingen.** Krydre lårene med paprikapulver, hvitløkspulver, løkpulver, timian, salt og pepper. Smelt smøret i en stor gryte og legg kyllingen i med skinnsiden ned. Stek til skinnet er gyllent og sprøtt, snu, og stek den andre siden. Ta kyllingen ut, men la fettet og stekeskorpen bli igjen i gryten.
+2. **Lag grønnsaksbasen.** Ha i mer smør ved behov. Finhakk løk, gulrot og stangselleri, og fres til grønnsakene begynner å mykne. Tilsett finhakket hvitløk, hakkede soltørkede tomater, tomatpuré, oregano, timian og paprikapulver, og la det steke **et par minutter** under omrøring.
+3. **Kok kyllingen i kraften.** Hell i kraften og legg lårene tilbake. La dem småkoke til kjøttet er mørt og slipper beinet, **ca. 30 minutter** *(tid lagt til)*. Ta opp kyllingen, fjern skinn og bein, og riv kjøttet i biter.
+4. **Gjør suppen kremet.** Rør inn fløte og kremost til kremosten har smeltet helt. Visp melet klumpfritt ut i den kalde kraften, og hell jevningen gradvis i mens du rører. La suppen småkoke **noen minutter** til den tykner. Er den tykk nok før all jevningen er i, stopp der.
+5. **Gnocchi og kylling i.** Ha i gnocchien og det revne kjøttet, og kok til gnocchien er mør, etter anvisningen på pakken.
+6. **Avslutt med parmesan og spinat.** Rør inn parmesan og spinat til spinaten har falt sammen og osten har smeltet inn. Smak til med salt og pepper, eventuelt litt ekstra paprikapulver eller chiliflak. Server med ekstra parmesan over.
+
+### Notater
+
+- **Kyllinglår med skinn og bein er hele forskjellen fra** [marry me chicken-suppen (SU1)](#su1-marry-me-chicken-suppe-med-gnocchi). Den bruker ferdigkokt kylling og buljongpulver i vann; her steker du lårene sprø og koker dem i kraften, så bein og stekeskorpe gir suppen dybde. Det tar en halvtime lenger, og smaken viser det.
+- **Skinnet blir ikke sprøtt i suppen.** Det har gjort jobben sin i punkt 1 – fettet og stekesmaken ligger igjen i gryten. Kast det når kjøttet rives, eller stek det sprøtt i en panne og strø over som topping. *(Forslag.)*
+- **Koketiden er ikke oppgitt.** Lår på bein trenger ca. 30 minutter småkok for å bli møre nok til å rives. Kjøttet skal slippe beinet uten motstand. *(Lagt til.)*
+- **Jevningen må røres ut i kald kraft.** Mel rett i varm suppe klumper seg. Kilden ber deg også smake deg fram: tilsett den gradvis og stopp når konsistensen er riktig.
+- **Kremosten bør være romtemperert**, ellers klumper den seg i den varme suppen. Ta den ut en halvtime før. *(Lagt til.)*
+- **Salt helt til slutt.** Kraft, soltørkede tomater, kremost og 100 g parmesan bidrar alle med salt. Smak først etter punkt 6.
+- **Videoen viser også sjampinjong** i gryten sammen med grønnsakene, men den står ikke i oppskriften. Vil du ha den med, fres 150–200 g skivet sjampinjong sammen med løken. *(Fra videoen, ikke fra oppskriftsteksten.)*
+- **Gnocchien suger væske.** Suppen tykner mye når den står, og rester blir nærmest en grateng. Spe med kraft når du varmer opp. Skal du ha rester, kok gnocchien separat og ha den i hver porsjon.
+- **Holdbarhet:** 3 døgn i kjøleskap. Tåler dårlig frysing – fløten og kremosten kan skille seg.
+- **Beslektet:** [marry me chicken-suppe med gnocchi (SU1)](#su1-marry-me-chicken-suppe-med-gnocchi) er den raskere varianten, og [kremet kylling med gnocchi (nr. 131)](#131-kremet-kylling-med-gnocchi) er samme kombinasjon som middagsrett. Samme forfatter står bak [spicy peanøtt-ramen med crispy kjøttdeig (nr. 223)](#223-spicy-peanøtt-ramen-med-crispy-kjøttdeig).
 
 ---
 
