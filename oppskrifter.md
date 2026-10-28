@@ -1,6 +1,6 @@
 # Oppskriftssamling
 
-Sist oppdatert: 28. oktober 2026 · **572 oppskrifter** · 194 hovedretter, 79 tilbehør, 68 saus/marinade, 61 supper, 43 småretter, 35 desserter, 32 grunnoppskrifter, 25 salater, 30 sjømat, 17 frokost, 13 brød, 7 bakverk
+Sist oppdatert: 28. oktober 2026 · **573 oppskrifter** · 194 hovedretter, 79 tilbehør, 68 saus/marinade, 61 supper, 43 småretter, 35 desserter, 32 grunnoppskrifter, 25 salater, 31 sjømat, 17 frokost, 13 brød, 7 bakverk
 
 ## Innhold
 
@@ -373,6 +373,7 @@ Sist oppdatert: 28. oktober 2026 · **572 oppskrifter** · 194 hovedretter, 79 t
 | 124 | [Steak Diane](#124-steak-diane) | Hovedrett | Fransk | ca. 25 min | 2 |
 | 218 | [Entrecôte med umamisaus og pommes frites](#218-entrecôte-med-umamisaus-og-pommes-frites) | Hovedrett | Norsk-japansk fusjon | ca. 1 t 20 min | 2 |
 | 224 | [Kremet pasta med ovnskaramellisert løk og biffstrimler](#224-kremet-pasta-med-ovnskaramellisert-løk-og-biffstrimler) | Hovedrett | Vestlig | ca. 1 t | 2 |
+| SJ20 | [Hamachi med mango-, appelsin- og chilidressing](#sj20-hamachi-med-mango--appelsin--og-chilidressing) | Sjømat | Dansk | ca. 15 min | forrett til 2 |
 | 112 | [Hvitløks- og urtekylling med ovnsbakte gulrøtter og potetmos](#112-hvitløks--og-urtekylling-med-ovnsbakte-gulrøtter-og-potetmos) | Hovedrett | Amerikansk | ca. 40 min | 4 |
 | 113 | [Braisert oksehale med mac and cheese, søtpotet og grønnkål](#113-braisert-oksehale-med-mac-and-cheese-søtpotet-og-grønnkål) | Hovedrett | Amerikansk | ca. 3½ t | 4 |
 | 114 | [Proteinrik pizza med yoghurtbunn](#114-proteinrik-pizza-med-yoghurtbunn) | Hovedrett | Amerikansk | ca. 30 min | 4 |
@@ -12882,6 +12883,7 @@ Tynne skiver rå laks (Lerøy backloin) med en syrlig, søt-sterk thai-dressing 
 - **Bruk sashimi-/sushikvalitet laks** som er ferskvarefrosset eller merket for rått konsum – vanlig butikklaks er ikke nødvendigvis trygg å spise rå. Lerøy backloin, som kilden bruker, er markedsført for nettopp dette formålet.
 - **Sponset innhold:** dette er et betalt partnerskap med @leroynorge om produktet Lerøy backloin.
 - **Fjern frøene i chilien** for en mildere dipp – med frø blir den betydelig sterkere.
+- **Sammenlign med** [hamachi med mango-, appelsin- og chilidressing (SJ20)](#sj20-hamachi-med-mango--appelsin--og-chilidressing), som har en silt sitrus- og mangodressing.
 - **Sammenlign med:** [89. Miso-laks](#89-miso-laks) og [83. Honningglasert laks med hvitløk](#83-honningglasert-laks-med-hvitløk) for tilberedt laks med asiatiske smaker; denne er rå, i carpaccio-/ceviche-stil.
 
 ---
@@ -12917,8 +12919,55 @@ Tynne skiver rå laks (backloin) i en silt dressing av kokosmelk, hvit miso, soy
 - **Bruk sashimi-/sushikvalitet laks**, tilsvarende [SJ18. Rå laks med thai-dipp](#sj18-rå-laks-med-thai-dipp) – vanlig butikklaks er ikke nødvendigvis trygg å spise rå.
 - **Dressingen siles** for en glatt, jevn konsistens uten korianderbiter – ikke hopp over dette steget.
 - **Yuzu-sirup** kan være vanskelig å finne i vanlige norske butikker; asiatiske spesialbutikker eller nettbutikker fører den. Erstatningen med lime og ekstra honning gir en lignende søt-syrlig profil, men mangler yuzuens særegne aroma.
+- **Sammenlign med** [hamachi med mango-, appelsin- og chilidressing (SJ20)](#sj20-hamachi-med-mango--appelsin--og-chilidressing), som har en silt sitrus- og mangodressing.
 
+---
 
+## SJ20. Hamachi med mango-, appelsin- og chilidressing
+
+**Kilde:** Albert Korvell / @albertkorvell (TikTok, 4075 likes, 7. oktober 2026) · **Kjøkken:** Dansk · **Tid:** ca. 15 min · **Porsjoner:** forrett til 2
+
+Tynne skiver rå hamachi i en kald, silt dressing av appelsin, lime, mango, agurk, jalapeño og fiskesaus, toppet med appelsinmarinert sjalottløk, rød chili og revet limeskall. Kilden kaller den verdens raskeste forrett – det meste av jobben gjør blenderen.
+
+### Ingredienser
+
+**Fisken**
+- Ca. 200 g hamachi (yellowtail) av sashimikvalitet *(se notat)*
+- 1 sjalottløk
+- Litt appelsinsaft til marinering
+- 1 rød chili
+- Revet skall av 1 lime
+
+**Citrusdressing**
+- Saften av 2 appelsiner
+- Saften av 3 lime
+- 1 mango
+- ½ jalapeño
+- ½ rød chili
+- ½ agurk
+- 1 ts fiskesaus
+- 2–3 ss god olivenolje
+- Salt *(lagt til – se notat)*
+
+### Fremgangsmåte
+
+1. **Lag dressingen.** Press appelsinene og limene. Skrell og del mangoen, og grovhakk jalapeño, chili og agurk. Kjør alt i blender sammen med saften og fiskesausen til det er helt glatt.
+2. **Sil dressingen** gjennom en fin sil, og rør inn olivenoljen til slutt. Sett kaldt.
+3. **Mariner løken.** Skjær sjalottløken i hårtynne skiver og legg dem i litt appelsinsaft i **5–10 minutter**.
+4. **Skjær fisken** i middels tynne skiver.
+5. **Anrett.** Hell dressingen i bunnen av to dype tallerkener og legg fiskeskivene oppå.
+6. **Topp** med den marinerte sjalottløken, tynne skiver rød chili og finrevet limeskall. Server straks.
+
+### Notater
+
+- **Fisken må være beregnet på å spises rå.** Kilden sier det selv: si til fiskehandleren at fisken skal spises rå. Hamachi (japansk ravfisk, *yellowtail*) fås hos enkelte fiskehandlere og sushileverandører, ofte frossen. Sashimiklar laks eller kveite er gode norske alternativer. *(Lagt til.)*
+- **Dressingen blir mye.** Saften av fem sitrusfrukter, en hel mango og en halv agurk gir godt over 4 dl – langt mer enn to tallerkener trenger. Resten holder seg et par dager i kjøleskapet og fungerer som dressing til salat eller over grillet fisk. *(Lagt til.)*
+- **Silingen gjør hele forskjellen.** Fibrene fra mango og agurk gjør dressingen grumsete og tykk; silt blir den klar og frisk, nesten som en *aguachile*.
+- **Salt er ikke oppgitt**, men fiskesausen alene salter lite i denne mengden væske. Smak dressingen til med litt salt før den helles på. *(Lagt til.)*
+- **Mangoen må være moden.** Den er det eneste som gir sødme mot all syren. Umoden mango gir en skarp og flat dressing.
+- **Styrken styres med jalapeño og chili.** Fjern frøene for en mildere dressing.
+- **Server iskaldt.** Sett tallerkenene i kjøleskapet en halvtime før, og skjær fisken rett før servering.
+- **Beslektet:** [rå laks med thai-dipp (SJ18)](#sj18-rå-laks-med-thai-dipp) og [crudo med laks (SJ19)](#sj19-crudo-med-laks--kokos-miso-yuzu-dressing) er samme type forrett med andre dressinger.
 
 ---
 
