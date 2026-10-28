@@ -1,6 +1,6 @@
 # Oppskriftssamling
 
-Sist oppdatert: 27. oktober 2026 · **570 oppskrifter** · 193 hovedretter, 79 tilbehør, 68 saus/marinade, 60 supper, 43 småretter, 35 desserter, 32 grunnoppskrifter, 25 salater, 30 sjømat, 17 frokost, 13 brød, 7 bakverk
+Sist oppdatert: 28. oktober 2026 · **570 oppskrifter** · 193 hovedretter, 79 tilbehør, 68 saus/marinade, 60 supper, 43 småretter, 35 desserter, 32 grunnoppskrifter, 25 salater, 30 sjømat, 17 frokost, 13 brød, 7 bakverk
 
 ## Innhold
 
@@ -26,7 +26,7 @@ Sist oppdatert: 27. oktober 2026 · **570 oppskrifter** · 193 hovedretter, 79 t
 | 54 | [Teriyakikylling – Genius Eats sin versjon](#54-teriyakikylling--genius-eats-sin-versjon) | Hovedrett | Japansk | ca. 30 min | 3–4 |
 | 56 | [Katsu curry](#56-katsu-curry) | Hovedrett | Japansk | 25 min | 4 |
 | 79 | [Katsu curry – Andy Cooks sin versjon](#79-katsu-curry--andy-cooks-sin-versjon) | Hovedrett | Japansk | ca. 1 t | 4 |
-| 86 | [Karaage – japansk friturstekt kylling](#86-karaage--japansk-friturstekt-kylling) | Hovedrett | Japansk | 25 min + marinering | 3 |
+| 86 | [Karaage – japansk frityrstekt kylling](#86-karaage--japansk-frityrstekt-kylling) | Hovedrett | Japansk | 25 min + marinering | 3 |
 | 89 | [Miso-laks](#89-miso-laks) | Hovedrett · Sjømat | Japansk | 15 min | 2 |
 | 99 | [Misosuppe – CJ Eats sin versjon](#99-misosuppe--cj-eats-sin-versjon) | Suppe | Japansk | 15 min | 4 |
 | B1 | [Hot cross shokupan – krydret japansk melkebrød](#b1-hot-cross-shokupan--krydret-japansk-melkebrød) | Brød | Japansk-britisk | ca. 4½ t | 1 brød |
@@ -61,7 +61,7 @@ Sist oppdatert: 27. oktober 2026 · **570 oppskrifter** · 193 hovedretter, 79 t
 | 80 | [Korean beef bowl – koreansk kjøttdeig med gochujangsaus](#80-korean-beef-bowl--koreansk-kjøttdeig-med-gochujangsaus) | Hovedrett | Koreansk | 20 min | 2 |
 | 91 | [Koreansk tunfiskris](#91-koreansk-tunfiskris) | Hovedrett | Koreansk | 5 min | 1 |
 | 92 | [Sterk koreansk BBQ-kyllingbowl](#92-sterk-koreansk-bbq-kyllingbowl) | Hovedrett | Koreansk | 30 min | 4 |
-| 102 | [Koreansk friturstekt kylling](#102-koreansk-friturstekt-kylling) | Hovedrett | Koreansk | ca. 30 min | 2–3 |
+| 102 | [Koreansk frityrstekt kylling](#102-koreansk-frityrstekt-kylling) | Hovedrett | Koreansk | ca. 30 min | 2–3 |
 | SJ6 | [Koreanske laksebiter](#sj6-koreanske-laksebiter) | Sjømat | Koreansk-inspirert | ca. 15 min | 2–3 |
 | SJ10 | [Amok – kambodsjansk fiskekarri](#sj10-amok--kambodsjansk-fiskekarri) | Sjømat | Kambodsjansk | 45 min | 4 |
 | B2 | [Gochujang chocolate chip cookies](#b2-gochujang-chocolate-chip-cookies) | Bakverk | Koreansk-amerikansk fusjon | 55 min + hviletid | 24 stk |
@@ -587,7 +587,7 @@ Sist oppdatert: 27. oktober 2026 · **570 oppskrifter** · 193 hovedretter, 79 t
 | T105 | [Hellstrøms majones](#t105-hellstrøms-majones) | Saus/Marinade | Fransk | 10 min | ca. 3 dl |
 | T106 | [Hellstrøms grønne olje](#t106-hellstrøms-grønne-olje) | Saus/Marinade | Fransk | 15 min | ca. 2 dl |
 | T109 | [Hellstrøms franske vinaigrette med dijon](#t109-hellstrøms-franske-vinaigrette-med-dijon) | Saus/Marinade | Fransk | 5 min | ca. 1,2 dl |
-| T110 | [Hellstrøms franske vinaigrette med kajenne](#t110-hellstrøms-franske-vinaigrette-med-kajenne) | Saus/Marinade | Fransk | 5 min | ca. 4 dl |
+| T110 | [Hellstrøms franske vinaigrette med cayenne](#t110-hellstrøms-franske-vinaigrette-med-cayenne) | Saus/Marinade | Fransk | 5 min | ca. 4 dl |
 | T111 | [Hellstrøms persillesmør](#t111-hellstrøms-persillesmør) | Saus/Marinade | Fransk | 15 min + kjøling | ca. 300 g |
 | T112 | [Hellstrøms rødvinssmør](#t112-hellstrøms-rødvinssmør) | Saus/Marinade | Fransk | ca. 40 min + kjøling | ca. 350 g |
 | T113 | [Hellstrøms beurre noisette](#t113-hellstrøms-beurre-noisette) | Saus/Marinade | Fransk | 5 min | ca. 80 g |
@@ -613,7 +613,7 @@ Sist oppdatert: 27. oktober 2026 · **570 oppskrifter** · 193 hovedretter, 79 t
 | G27 | [Hellstrøms blåskjellkraft](#g27-hellstrøms-blåskjellkraft) | Grunnoppskrift | Fransk | ca. 15 min | ca. 5 dl |
 | G28 | [Hellstrøms skalldyrkraft](#g28-hellstrøms-skalldyrkraft) | Grunnoppskrift | Fransk | ca. 50 min | ca. 1 l |
 | G29 | [Hellstrøms kortbuljong – court bouillon](#g29-hellstrøms-kortbuljong--court-bouillon) | Grunnoppskrift | Fransk | ca. 30 min | ca. 1,2 l |
-| G31 | [Hellstrøms grønnsakkraft](#g31-hellstrøms-grønnsakkraft) | Grunnoppskrift | Vestlig | 1–2 t | ca. 2 l |
+| G31 | [Hellstrøms grønnsakskraft](#g31-hellstrøms-grønnsakskraft) | Grunnoppskrift | Vestlig | 1–2 t | ca. 2 l |
 | 199 | [Medisterkaker](#199-medisterkaker) | Hovedrett | Norsk | 40–60 min | 4–6 |
 | 200 | [Pinnekjøtt](#200-pinnekjøtt) | Hovedrett | Norsk | ca. 3 t + 30 t utvanning | 5 |
 | SU30 | [Kremet fiskesuppe](#su30-kremet-fiskesuppe) | Suppe · Sjømat | Norsk | 20–40 min | 4 |
@@ -683,7 +683,7 @@ Sist oppdatert: 27. oktober 2026 · **570 oppskrifter** · 193 hovedretter, 79 t
 | 127 | [Kremet hvitløkskylling – Simple Home Edit sin versjon](#127-kremet-hvitløkskylling--simple-home-edit-sin-versjon) | 600 | 38.7 g |
 | 78 | [Panang curry med svinefilet](#78-panang-curry-med-svinefilet) | 603 | 38.5 g |
 | S22 | [Spicy cæsarwrap med kylling](#s22-spicy-cæsarwrap-med-kylling) | 610 | 38.5 g |
-| 86 | [Karaage – japansk friturstekt kylling](#86-karaage--japansk-friturstekt-kylling) | 426 | 38.4 g |
+| 86 | [Karaage – japansk frityrstekt kylling](#86-karaage--japansk-frityrstekt-kylling) | 426 | 38.4 g |
 | SJ7 | [Ovnsbakt laks med purre](#sj7-ovnsbakt-laks-med-purre) | 685 | 37.0 g |
 | 54 | [Teriyakikylling – Genius Eats sin versjon](#54-teriyakikylling--genius-eats-sin-versjon) | 444 | 36.4 g |
 | 24 | [Sjømat-ramen](#24-sjømat-ramen) | 679 | 36.2 g |
@@ -3500,7 +3500,7 @@ Kremet tomatpasta der 'nduja gjør hele jobben — den smelter ut i olje og gir 
 - **Ta vare på litt av pastavannet.** *(Ikke nevnt i kilden.)* En skvett stivelsesrikt kokevann i punkt 6 binder sausen til pastaen og redder den hvis den er blitt for tykk.
 - **Porsjonsantall er ikke oppgitt.** 300–400 g pasta er 3–4 porsjoner. Merk at sausmengden er den samme uansett hvor du legger deg i spennet — 300 g gir en langt saftigere rett enn 400 g.
 - **Ricottaen skal ikke røres inn.** Den legges som kalde klatter oppå den varme pastaen, og kontrasten mot varmen fra 'nduja er hele poenget.
-- **Rørformet pasta er valgt med vilje.** Rigatoni og penne fanger den kremede sausen inni røret. Lange former fungerer dårligere her.
+- **Rørformet pasta er valgt med vilje.** Rigatoni og penne fanger den kremete sausen inni røret. Lange former fungerer dårligere her.
 - **Kilden er svensk.** «Grädde» er oversatt til fløte og «passerade tomater» til passata.
 - Samlingens andre italienske hovedrett. Se også [oksekjøttboller i tomatsaus](#60-oksekjøttboller-i-tomatsaus).
 
@@ -3631,7 +3631,7 @@ Kremet soppasta med bacon, sjalottløk og hvitvin. Sopp og bacon stekes til all 
 - **Ikke salt før du har smakt.** Bacon og parmesan er begge salte, og fløten koker inn og konsentrerer det ytterligere.
 - **Boscaiola betyr «skogshoggerens»** og viser til soppen. Tradisjonelt brukes pancetta framfor bacon — røyksmaken i norsk bacon gir en litt annen rett, men fungerer fint.
 - **Ta vare på litt pastavann.** *(Ikke nevnt i kilden.)* Sausen er fløtebasert og trenger det sjelden, men en skvett løser den opp igjen hvis den blir for tykk etter at parmesanen er i.
-- Samlingen har to andre kremede soppretter: [kremet soppkylling](#33-kremet-soppkylling) og [kremet soppudon](#36-kremet-soppudon). Alle tre står og faller på det samme steget — å brune soppen skikkelig før væsken går i.
+- Samlingen har to andre kremete soppretter: [kremet soppkylling](#33-kremet-soppkylling) og [kremet soppudon](#36-kremet-soppudon). Alle tre står og faller på det samme steget — å brune soppen skikkelig før væsken går i.
 
 ---
 
@@ -3954,7 +3954,7 @@ Svinefilet brunet, penslet med grovkornet sennep, rullet i salvie og rosmarin, o
 
 ### Notater
 
-- **Hvitløkskonfit er en forutsetning, men mangler oppskrift.** *(Lagt til:)* Legg skrelte hvitløksfedd i en liten form eller kjele og dekk dem helt med olivenolje. Stek på **90–95 °C i ovnen i 45–60 minutter**, eller la det stå på lavest mulig varme på platen, til feddene er myke og lyst gyllne. De skal ikke brune.
+- **Hvitløkskonfit er en forutsetning, men mangler oppskrift.** *(Lagt til:)* Legg skrelte hvitløksfedd i en liten form eller kjele og dekk dem helt med olivenolje. Stek på **90–95 °C i ovnen i 45–60 minutter**, eller la det stå på lavest mulig varme på platen, til feddene er myke og lyst gylne. De skal ikke brune.
 - **Hvitløk i olje må oppbevares i kjøleskap.** Konfit ved romtemperatur er et kjent miljø for botulisme. Hold feddene dekket av olje i et rent glass i kjøleskapet, og bruk innen to uker. Dette står ikke i kilden.
 - **63 °C er riktig for hel svinefilet**, ikke for kvernet kjøtt. Kjøttet blir saftig og svakt rosa. Hvilen på 10 minutter er en del av tilberedningen, ikke bare en pause.
 - **Ingen mengder er oppgitt** på sennep, urter, olje eller brød. Regn med rundt 2 ss sennep og en god neve friske urter per filet, og en baguette som er både lang og tykk nok til at kjøttet får plass.
@@ -4816,11 +4816,11 @@ Kjøttdeigsalat med fiskesaus, limesaft, sjalottløk, friske urter og ristet ris
 
 ---
 
-## 86. Karaage – japansk friturstekt kylling
+## 86. Karaage – japansk frityrstekt kylling
 
 **Kilde:** Mei / Two Plaid Aprons (twoplaidaprons.com) · **Kjøkken:** Japansk · **Tid:** ca. 25 min aktivt + minst 1 t marinering, helst natten over *(kilden regner feil – se notat)* · **Porsjoner:** 3
 
-Kyllinglår marinert i sake, soya og ingefær, vendt i potetmel og friturstekt to ganger. Den doble stekingen er det som gir den sprø, lette skorpen. Serveres med sitronbåt og kewpie-majones med togarashi.
+Kyllinglår marinert i sake, soya og ingefær, vendt i potetmel og frityrstekt to ganger. Den doble stekingen er det som gir den sprø, lette skorpen. Serveres med sitronbåt og kewpie-majones med togarashi.
 
 ### Ingredienser
 
@@ -4858,9 +4858,9 @@ Kyllinglår marinert i sake, soya og ingefær, vendt i potetmel og friturstekt t
 - **La marinaden dryppe av før panéringen.** Kilden er tydelig: for våt kylling gjør potetmelet klumpete, og løst mel som faller av, gjør frityroljen grumsete og kortlivet.
 - **Sake er ikke bare smak.** Kilden forklarer at den tar bort den rå kyllinglukten og holder kjøttet saftig gjennom stekingen. Har du den ikke: 1 del shaoxingvin til 3 deler vann, altså 1 ss shaoxing og 3 ss vann i stedet for de 4 ss sake. Alkoholfritt går også – bare vann – men da mister du en del av effekten.
 - **Kyllinglår, ikke bryst.** Låret tåler frityren og blir saftig; bryst blir tørt. Skjær bitene like store, ellers blir de ferdige til ulik tid.
-- **Karaage er ikke katsu.** Forskjellen, som kilden forklarer godt: karaage er protein vendt i mel eller stivelse og friturstekt, mens katsu er en flat kotelett panert i egg og panko. Samlingen har begge – se [tonkatsu](#8-tonkatsu) og [katsu curry](#56-katsu-curry).
+- **Karaage er ikke katsu.** Forskjellen, som kilden forklarer godt: karaage er protein vendt i mel eller stivelse og frityrstekt, mens katsu er en flat kotelett panert i egg og panko. Samlingen har begge – se [tonkatsu](#8-tonkatsu) og [katsu curry](#56-katsu-curry).
 - **Kewpie-majones er lagd på bare eggeplommer**, som majonesen i [T122](#t122-majones). Vil du komme nær den hjemme, bytt sitronsaften der mot riseddik. Ferdigkjøpt kewpie fås i asiatiske butikker, det samme gjelder shichimi togarashi.
-- **Næringsberegningen ser ut til å utelate frityroljen.** 6,4 g fett for friturstekt kylling er ikke troverdig. Karbohydrat- og natriumtallene er derimot rimelige.
+- **Næringsberegningen ser ut til å utelate frityroljen.** 6,4 g fett for frityrstekt kylling er ikke troverdig. Karbohydrat- og natriumtallene er derimot rimelige.
 - **Kilden spriker litt om oljedybden:** brødteksten sier 2–3 tommer, oppskriftskortet «omtrent 2 tommer». 5–7 cm er greit – bitene skal flyte fritt.
 - **Holdbarhet:** 3–4 dager i kjøleskap, helt avkjølt før den settes inn. Varmes best opp i frityr, airfryer eller ovn på rist – aldri i mikro.
 - **Om oljen:** sil den gjennom finmasket sil eller osteklede, oppbevar den mørkt og kjølig, og bruk den innen et par uker. Skal den kastes, hell den i en tett beholder og kast den i restavfallet – aldri i vasken.
@@ -4977,7 +4977,7 @@ Takeaway-wok med *velvetet* kyllingbryst og forvellede grønnsaker i en tykk, bl
 - **Forfatteren motsier seg selv i kommentarfeltet.** På et spørsmål om at retten ble for salt, svarer hun «vi anbefaler lettsaltet soyasaus, vanlig blir for salt» – stikk i strid med oppskriftens egen oppdaterte merknad. Svaret er trolig eldre enn oppdateringen. Følg oppskriften.
 - **Bruker du kraft i stedet for vann, må den være usaltet.** Forfatteren er tydelig: har du bare lettsaltet kraft, bland den halvt om halvt med vann. Ellers blir sausen for salt – kildens egen beregning viser allerede 1800 mg natrium per porsjon.
 - **Kyllingbryst er et bevisst valg her.** Forfatteren foretrekker normalt lår, men mener bryst gir en renere smak i en enkel wok som denne. Natronet i marinaden er det som gjør at brystet likevel holder på saften – ikke sløyf det.
-- **Maisenna kan byttes med potetmel** i samme mengde, opplyser kilden. Det er samme vare som i [karaage](#86-karaage--japansk-friturstekt-kylling).
+- **Maisenna kan byttes med potetmel** i samme mengde, opplyser kilden. Det er samme vare som i [karaage](#86-karaage--japansk-frityrstekt-kylling).
 - **Kyllingen setter seg lett fast.** En leser opplevde nettopp det, og svaret er enten høyere varme og mer olje, eller flashsteking i 1–2,5 cm olje slik [nr. 87](#87-beef-and-broccoli--oksekjøtt-i-wok-med-brokkoli) beskriver – da klistrer det seg garantert ikke.
 - **Rekkefølgen til slutt har en grunn.** Kyllingen vendes i sausen først, grønnsakene etterpå. Grønnsakene er store og klumpete og gjør vendingen vanskelig, og brokkolibuketter suger dessuten opp uforholdsmessig mye saus hvis de går i først.
 - **Ikke kok grønnsakene ferdig.** De skal forvelles etter hardhet – gulrot og brokkoli først, sukkererter de siste sekundene – og de ettersteker i sausen. Frosne grønnsaker skal også forvelles og rennes godt av.
@@ -5050,7 +5050,7 @@ Laks vendt i en marinade av miso, soya, mirin og hvitløk, og stekt i airfryer e
 
 **Kilde:** Mei / Two Plaid Aprons (twoplaidaprons.com) · **Kjøkken:** Kinesisk-amerikansk · **Tid:** 30 min (10 min forberedelse + 20 min steking) · **Porsjoner:** 4
 
-Kyllinglår i lett maisennarøre, friturstekt to ganger og vendt i en søt, blank ketchupbasert saus. En av de mest bestilte rettene på kinesiske takeawaysteder i USA – og betydelig søtere enn de fleste tror.
+Kyllinglår i lett maisennarøre, frityrstekt to ganger og vendt i en søt, blank ketchupbasert saus. En av de mest bestilte rettene på kinesiske takeawaysteder i USA – og betydelig søtere enn de fleste tror.
 
 ### Ingredienser
 
@@ -5094,7 +5094,7 @@ Kyllinglår i lett maisennarøre, friturstekt to ganger og vendt i en søt, blan
 - **Ingen sesamolje, og det er bevisst.** En leser spurte om det manglet, og forfatteren svarer at kinesisk takeaway-sesamkylling ikke bruker sesamolje – sesamsmaken kommer fra frøene på toppen. Vil du ha den likevel, går det fint, men da er det ikke lenger samme rett.
 - **Sausmengden er knapp.** Flere lesere melder at ikke alle bitene ble dekket. Doble gjerne sausen hvis du liker retten rikelig sausbelagt – kylling og saus er uansett skilt til siste steg.
 - **Natron og vann er samme grep som i** [nr. 87](#87-beef-and-broccoli--oksekjøtt-i-wok-med-brokkoli) **og** [nr. 88](#88-kyllingwok-med-blandede-grønnsaker): natronet mørner og hjelper kjøttet å holde på vannet. Her er det egg og maisenna i tillegg, så det blir en røre og ikke bare et belegg.
-- **Maisenna kan byttes med potetmel** i både røren og sausen, opplyser kilden – samme vare som i [karaage](#86-karaage--japansk-friturstekt-kylling).
+- **Maisenna kan byttes med potetmel** i både røren og sausen, opplyser kilden – samme vare som i [karaage](#86-karaage--japansk-frityrstekt-kylling).
 - **Marinering over natten er valgfritt, men gjør nytte.** Kilden er tydelig på at røren fester seg bedre til kyllingen da. Steker du med én gang, blir det like godt, men vær litt forsiktig når bitene går i oljen.
 - **Bruk en høy gryte og fyll den maks en tredel.** En leser fikk oljen til å koke over gang på gang. Røren inneholder mye vann, og det bruser kraftig når den treffer 190 °C.
 - **Airfryer:** forfatterens råd er å frityrsteke første runde og ta den andre i airfryer. Vil du lage på forhånd, stek første runde et par minutter lenger, hopp over den andre, frys bitene enkeltvis på brett og pakk dem så. Frosne biter stekes i airfryer på **200 °C i 15–20 minutter**, tinte i 5–10. Frosne biter skal **ikke** i frityr.
@@ -5102,7 +5102,7 @@ Kyllinglår i lett maisennarøre, friturstekt to ganger og vendt i en søt, blan
 - **Sesamkylling er ikke General Tso's.** Kilden forklarer forskjellen: sesamkylling er søtere og uten styrke, mens General Tso's er syrligere, mindre søt og litt sterk. Vil du ha varme i denne, foreslår kilden chiliflak i pannen sammen med vårløken.
 - **Sukkertypen betyr noe.** Vanlig hvitt sukker er anbefalt. Rårørsukker går, men lys eller mørk farin endrer smaken på sausen merkbart.
 - **Røren passer ikke til reker**, sier kilden – den er ment for kylling eller storfe. Sausen fungerer derimot fint til reker.
-- **Om oljen:** sil den og bruk den innen et par uker, eller kast den i tett beholder i restavfallet – aldri i vasken. Samme som i [karaage](#86-karaage--japansk-friturstekt-kylling).
+- **Om oljen:** sil den og bruk den innen et par uker, eller kast den i tett beholder i restavfallet – aldri i vasken. Samme som i [karaage](#86-karaage--japansk-frityrstekt-kylling).
 - **Holdbarhet:** 3–4 dager i kjøleskap. Ferdig sausvendt kylling blir aldri sprø igjen – varmes best i mikro.
 
 ---
@@ -5643,11 +5643,11 @@ Rød chimichurri kjørt av grillet paprika, persille og røkt paprikapulver, bru
 
 ---
 
-## 102. Koreansk friturstekt kylling
+## 102. Koreansk frityrstekt kylling
 
 **Kilde:** foodierandy (TikTok, 22. oktober 2025) · **Kjøkken:** Koreansk · **Tid:** ca. 30 min *(ikke oppgitt i kilden)* · **Porsjoner:** 2–3
 
-Kyllingbiter i en tykk røre av hvetemel og potetmel, friturstekt og vendt i en blank, søt gochujangsaus. Kilden lar deg velge mellom å vende kyllingen i sausen eller dryppe den over, alt etter hvor sprø du vil ha den.
+Kyllingbiter i en tykk røre av hvetemel og potetmel, frityrstekt og vendt i en blank, søt gochujangsaus. Kilden lar deg velge mellom å vende kyllingen i sausen eller dryppe den over, alt etter hvor sprø du vil ha den.
 
 ### Ingredienser
 
@@ -5687,10 +5687,10 @@ Kyllingbiter i en tykk røre av hvetemel og potetmel, friturstekt og vendt i en 
 
 ### Notater
 
-- **Kylling som friteres bare én gang, mister sprøheten under sausen.** Ekte koreansk friturstekt kylling stekes **to ganger** – én runde på lavere varme for å steke gjennom, og en kort runde på høyere varme for skorpen. Det er nettopp det som gjør at den holder seg sprø etter at sausen er på, og det er samme prinsipp som i [karaage (nr. 86)](#86-karaage--japansk-friturstekt-kylling). Vil du ha den koreanske restaurantfølelsen: stek 6 minutter på 165 °C, la bitene hvile 5 minutter, og gi dem 1–2 minutter til på 190 °C. *(Lagt til.)*
+- **Kylling som friteres bare én gang, mister sprøheten under sausen.** Ekte koreansk frityrstekt kylling stekes **to ganger** – én runde på lavere varme for å steke gjennom, og en kort runde på høyere varme for skorpen. Det er nettopp det som gjør at den holder seg sprø etter at sausen er på, og det er samme prinsipp som i [karaage (nr. 86)](#86-karaage--japansk-frityrstekt-kylling). Vil du ha den koreanske restaurantfølelsen: stek 6 minutter på 165 °C, la bitene hvile 5 minutter, og gi dem 1–2 minutter til på 190 °C. *(Lagt til.)*
 - **Kilden hopper over steg 2.** Nummereringen går fra 1 til 3. Ingenting mangler i innholdet.
 - **Kyllingen krydres ikke direkte.** Salt, pepper og hvitløkspulver går i røren, ikke på kjøttet, så selve kyllingen forblir usaltet. Salt bitene lett før de vendes i røren – da smaker de av noe også innenfor skorpen. *(Lagt til.)*
-- **Potetmel er nøyaktig riktig her, og det heter potetmel i norske butikker.** Det er stivelsen som gir den lette, glassaktige skorpen koreansk kylling er kjent for. Samme vare som i [karaage](#86-karaage--japansk-friturstekt-kylling) og [kyllingwoken i nr. 88](#88-kyllingwok-med-blandede-grønnsaker).
+- **Potetmel er nøyaktig riktig her, og det heter potetmel i norske butikker.** Det er stivelsen som gir den lette, glassaktige skorpen koreansk kylling er kjent for. Samme vare som i [karaage](#86-karaage--japansk-frityrstekt-kylling) og [kyllingwoken i nr. 88](#88-kyllingwok-med-blandede-grønnsaker).
 - **Sausen er svært søt.** 3 ss honning pluss 1 ss sukker pluss 2 ss ketchup til 450 g kylling gir en tydelig sukkerdominert glasur. Det er slik *yangnyeom*-kylling smaker, men vil du ha den mer balansert, dropp det hvite sukkeret og behold honningen.
 - **«Corn syrup» er lys sirup her.** Koreanske oppskrifter bruker ofte glukosesirup fordi den gir blankere glasur enn honning uten å tilføre smak. Lys sirup fra dagligvaren gjør samme nytte.
 - **Oljemengden er ikke oppgitt.** Til biter av denne størrelsen trenger du 5–7 cm i en høy gryte, og gryta bør ikke fylles mer enn en tredel – røren bruser når den treffer varm olje.
@@ -5931,7 +5931,7 @@ Svinekam gnidd inn med dijon, hvitløk og eplecidereddik, bundet opp med rosmari
 - **Sennepen brenner seg under bruningen.** Steg 1 legger på dijonsennep, og steg 3 bruner kjøttet på sterk varme – sennepsfaststoffene svir seg og blir bitre lenge før kjøttet får farge. **Brun kammen først**, og gni på sennep, hvitløk og eddik etterpå, før den går i ovnen. *(Endret rekkefølge foreslått.)*
 - **Lokket motvirker bruningen du nettopp gjorde.** Under lokk damper kjøttet i sin egen væske, og skorpen fra steg 3 mykner. Vil du beholde den, stek uten lokk – da bør du regne noe lengre tid og eventuelt pensle med sjyen underveis. Kildens metode gir saftigere kjøtt, men uten sprø overflate. Se motsatt valg i [nr. 104](#104-helstekt-kylling-med-urtesmør) og samme valg som i [nr. 105](#105-pot-roast--braisert-høyrygg-med-rotgrønnsaker).
 - **Eplene faller fra hverandre.** Selv på 45–60 minutter blir epleskiver til mos. Vil du ha dem hele, legg dem i de siste 20 minuttene; vil du ha dem som en slags saus, la dem gå hele veien – begge deler smaker godt, men kilden sier ikke hvilken den er ute etter.
-- **Hviletiden er kort, men riktig.** Ti minutter er nok for et stykke av denne størrelsen, og kjernetemperaturen stiger 3–5 grader til underveis. Regn med det når du tar kammen ut.
+- **Hviletiden er kort, men riktig.** Ti minutter er nok for et stykke av denne størrelsen, og kjernetemperaturen stiger 3–5 °C til underveis. Regn med det når du tar kammen ut.
 - **Rosmarin under hyssingen er et pent grep**, og fungerer bedre enn å legge kvistene løst i gryta: de holdes mot kjøttet og avgir olje direkte i overflaten.
 - **Temperaturene er omregnet fra fahrenheit:** 350 °F = 175 °C, 145 °F = 63 °C.
 - **Sammenlign med** [porchetta (nr. 74)](#74-porchetta), som bindes på samme måte, men rulles og stekes langt lenger på lavere varme.
@@ -6702,7 +6702,7 @@ Den franske klassikeren med førti hvitløksfedd: feddene trekkes møre i smør 
 
 ### Notater
 
-- **⚠️ Kildens steketid rekker ikke.** Den oppgir bruning i panne og «avslutt med 10 minutter i ovnen på 160 grader». En hel kylling på 2 kg blir ikke gjennomstekt av det – den vil være rå inn mot beinet. Grepet i seg selv er riktig fransk *poêlage*, men det tar **50–70 minutter i ovn**, ikke ti. **Mål kjernetemperaturen i den tykkeste delen av låret: 74 °C.** Fremgangsmåten over er justert; kildens ordlyd står her.
+- **⚠️ Kildens steketid rekker ikke.** Den oppgir bruning i panne og «avslutt med 10 minutter i ovnen på 160 °C». En hel kylling på 2 kg blir ikke gjennomstekt av det – den vil være rå inn mot beinet. Grepet i seg selv er riktig fransk *poêlage*, men det tar **50–70 minutter i ovn**, ikke ti. **Mål kjernetemperaturen i den tykkeste delen av låret: 74 °C.** Fremgangsmåten over er justert; kildens ordlyd står her.
 - **Tidsangivelsen i kilden er også tvetydig:** «stek kyllingen på alle sider i til sammen ca. 10 min. på hver side» kan leses som ti minutter totalt eller ti per side. Uansett lesning løser det ikke problemet over.
 - **Førti fedd er ikke en skrivefeil.** Dette er *poulet aux quarante gousses d'ail*, en fransk klassiker. Feddene blir milde og søte av den lange trekkingen i smør – de spises hele, ikke som krydder.
 - **Smøret må ikke ta farge** i punkt 1. Det er en konfitering på svak varme, ikke steking. Samme teknikk som hvitløkskonfiten i [nr. 111](#111-braiserte-short-ribs-med-hvitløkskonfit-potetmos), bare i smør i stedet for olivenolje.
@@ -6936,7 +6936,7 @@ Kyllingbiter vendt i en røre av egg, maisenna og krydder, stekt sprø i panne, 
 - **Airfryerversjonen krever en endring**: maisennaen skal ikke blandes inn i røren, men brukes som et separat lag. Uten den endringen blir belegget klumpete.
 - **Grønnsaker serveres ved siden av, ikke i pannen.** Forfatteren er tydelig på det – grønnsaker i sausen gjør kyllingen bløt. Dampet brokkoli, sukkererter eller agurk i skiver er hennes forslag.
 - **Rester holder 3 dager** i kjøleskap, men skorpen mykner ved oppvarming.
-- **Sammenlign med** [sesamkylling (nr. 90)](#90-sesamkylling-sesame-chicken) og [koreansk friturstekt kylling (nr. 102)](#102-koreansk-friturstekt-kylling). Denne er den klart enkleste, siden den verken krever frityr eller dobbeltsteking.
+- **Sammenlign med** [sesamkylling (nr. 90)](#90-sesamkylling-sesame-chicken) og [koreansk frityrstekt kylling (nr. 102)](#102-koreansk-frityrstekt-kylling). Denne er den klart enkleste, siden den verken krever frityr eller dobbeltsteking.
 
 ---
 
@@ -7307,7 +7307,7 @@ Dansk flæskesteg gjort i airfryer. *Flæskesteg* er en fellesbetegnelse for svi
 - **Vannbadet er poenget, ikke krydderet.** Fuktigheten får svoren til å svulme opp, slik at den spretter og blir sprø når tørrvarmen kommer etterpå. Laurbær, nellik og pepper gir litt aroma til kjøttet nedenfra, men det meste fordamper. Er du ikke glad i nellik, kutt ned – 8 hele nellikspiker er kraftig kost.
 - **Salt i snittene, ikke bare oppå.** Etter vannbadet er svoren myk og åpen; press saltet ned mellom stripene med fingrene. Det er der det gjør jobben.
 - **Steken må stå vannrett.** Heller den, renner fettet til den ene siden og svoren blir sprø i ene enden og seig i den andre. Krøll sammen aluminiumsfolie og legg under den lave siden. *(Lagt til.)*
-- **Kilden har rett om hvilingen.** Dekker du til med folie, dannes det damp under, og svoren du nettopp har brukt 70 minutter på blir bløt igjen. La den stå åpent og trekkfritt – kjernetemperaturen stiger 3–5 grader videre, og kjøttsaften fordeler seg.
+- **Kilden har rett om hvilingen.** Dekker du til med folie, dannes det damp under, og svoren du nettopp har brukt 70 minutter på blir bløt igjen. La den stå åpent og trekkfritt – kjernetemperaturen stiger 3–5 °C videre, og kjøttsaften fordeler seg.
 - **Er svoren ikke sprø når tiden er ute**, gi den 5–10 minutter til på 200 °C og hold øye med den hele tiden. Overgangen fra sprø til brent er kort. Samme utfordring som med [porchettaen i nr. 74](#74-porchetta), der løsningen er tørking i kjøleskap på forhånd – det kan du gjøre her også, over natten uten lokk.
 - **Svinestek med svor er ikke hyllevare i Norge.** Svoren fjernes som regel i norske kjøttdisker, så du må be om den eller bestille på forhånd. Rundt jul er juleribbe det enkleste tilgjengelige alternativet og fungerer godt til denne metoden. Se også [nr. 107](#107-ovnsstekt-svinekam-med-dijon-og-rosmarin) for svinekam i ovn.
 - **Dansk servering:** rødkål, brunede kartofler og brun saus. Sjyen i bunnen av airfryeren er for tynn og saltet til å bli saus alene, men kan siles og brukes som smakstilsetning.
@@ -7657,7 +7657,7 @@ Salat der kokt ris stekes tørr og sprø i ovnen og brukes som crunch i stedet f
 - **Fordel risen tynt og rør hvert tiende minutt.** Ligger den i en haug, blir kantene brune mens midten fortsatt er myk. Kildens «stir occasionally» er for vagt til å være til hjelp.
 - **Airfryer går raskere:** 180 °C i 12–15 minutter, med risting av kurven annethvert minutt. *(Alternativ lagt til.)* Se også [T23](#t23-potetbåter-i-airfryer) for prinsippet.
 - **125 g kokt ris er lite** – rundt 45 g tørr ris til to porsjoner. Det er med vilje: risen er crunch-elementet, ikke bunnen. Forvent en salat med sprø ris i, ikke en risbowl.
-- **De sprø kyllingfiletene er ferdigvare.** Kilden viser til pakken, altså frosne panerte fileter – i norske butikker fra Prior, Solvinge eller Den Stolte Hane. Vil du lage dem selv, se [nr. 96](#96-sprø-kyllingstrimler-i-airfryer) eller [karaage i nr. 86](#86-karaage--japansk-friturstekt-kylling), som begge gir et bedre resultat.
+- **De sprø kyllingfiletene er ferdigvare.** Kilden viser til pakken, altså frosne panerte fileter – i norske butikker fra Prior, Solvinge eller Den Stolte Hane. Vil du lage dem selv, se [nr. 96](#96-sprø-kyllingstrimler-i-airfryer) eller [karaage i nr. 86](#86-karaage--japansk-frityrstekt-kylling), som begge gir et bedre resultat.
 - **Punkt 5 og 6 motsier hverandre litt.** To store agurker avgir mye væske, og blander du alt sammen, er risen bløt før du er ferdig med å røre. **Bland salaten og dressingen først, og strø risen over på tallerkenen.** Vil du likevel blande alt, salt agurkterningene lett og la dem renne av i 10 minutter først. *(Lagt til.)*
 - **Tre kilder til styrke:** chiliolje, gochujang og 2 ss sriracha. Det siste er det som dominerer. Vil du ha mer koreansk karakter og mindre ren hete, snu forholdet – 1 ss gochujang og 1 ss sriracha.
 - **Søtningsmiddelet kan byttes mot sukker eller honning** i samme mengde hvis du ikke har behov for det kaloriregnskapet kilden legger opp til. Sødmen er der for å balansere syren i yoghurten og saltet i gochujangen, og bør ikke sløyfes helt.
@@ -7794,7 +7794,7 @@ En krysning mellom melanzane alla parmigiana og lasagne, med en ragù av salsicc
 **Auberginen**
 
 1. **Salt den.** Skjær auberginen i skiver på langs, ca. 1 cm tykke. Salt skivene rikelig og legg dem i et dørslag over en stor bolle. La dem ligge i **minst én time** så væsken trekkes ut. Skyll skivene og tørk dem svært godt med kjøkkenpapir.
-2. **Stek den.** Varm rikelig med olivenolje i en stor stekepanne og stek skivene gyllne på begge sider. Tilsett mer olje ved behov. La dem renne godt av på kjøkkenpapir.
+2. **Stek den.** Varm rikelig med olivenolje i en stor stekepanne og stek skivene gylne på begge sider. Tilsett mer olje ved behov. La dem renne godt av på kjøkkenpapir.
 
 **Salsicciaragù**
 
@@ -7858,7 +7858,7 @@ Squash kokt myk og mikset til en glatt, grønn krem som legger seg rundt pastaen
 **Squashkremen**
 
 4. **Fres smaksbunnen.** Skjær squashen i små biter. Varm litt olivenolje i en stor stekepanne og tilsett finhakket hvitløk, persille og chiliflak. Fres forsiktig uten at hvitløken brenner seg.
-5. **Squashen i.** Ha i squashbitene og kok på middels lav varme til de er myke og lett gyllne. Salt og pepre, og tilsett en skvett av den oppsparte skjellkraften.
+5. **Squashen i.** Ha i squashbitene og kok på middels lav varme til de er myke og lett gylne. Salt og pepre, og tilsett en skvett av den oppsparte skjellkraften.
 6. **Miks til krem.** Kjør squashen glatt, og sil kremen for et ekstra fint resultat. Smak til med salt og pepper, og sett til side.
 
 **Samling**
@@ -8980,7 +8980,7 @@ Pasta alla Norma uten pastaen: aubergine, tomat og hvitløk, med smørbønner i 
 
 ### Fremgangsmåte *(rekonstruert – kilden oppgir ingen)*
 
-1. **Stek auberginen.** Skjær den i terninger på ca. 2 cm, vend dem i rikelig olivenolje og salt, og stek dem på **220 °C i 20–25 minutter**, til de er gyllne og myke. Snu halvveis.
+1. **Stek auberginen.** Skjær den i terninger på ca. 2 cm, vend dem i rikelig olivenolje og salt, og stek dem på **220 °C i 20–25 minutter**, til de er gylne og myke. Snu halvveis.
 2. **Bygg sausen.** Fres løken myk i olivenolje i en vid panne på middels varme. Tilsett hvitløken i skiver og stek et minutt til, uten at den tar farge.
 3. **Tomatene i.** Ha i cherrytomatene og la dem koke til de sprekker og faller sammen til en grov saus, **10–15 minutter**. Press dem lett med en sleiv underveis.
 4. **Bønnene i.** Hell i bønnene sammen med laken og la det småkoke til sausen tykner, **8–10 minutter**.
@@ -9158,7 +9158,7 @@ Lammeskank melet og brunet, lagt i en smaksbunn av rotgrønnsaker, hvitvin og to
 - **Melet gir jevning, ikke bare skorpe.** Det følger med ned i gryta og tykner sausen underveis. Trenger du glutenfritt, dropp det og kok inn sausen til slutt i stedet.
 - **Væskenivået avgjør om det blir braisering eller koking.** To tredjedeler opp på kjøttet er riktig. Dekkes skankene helt, koker de, og du mister den stekte smaken fra bruningen.
 - **Gremolata lages samme dag.** Hvitløk og sitronskall taper seg raskt, og poenget med den er at den er rå og skarp mot tre timer med kokt kjøtt.
-- **Holdbarhet:** 3 døgn kjøleskap, 3 måneder fryser. Bedre dag to. Avkjøl skankene i sausen så de ikke tørker ut.
+- **Holdbarhet:** 3 døgn i kjøleskap, 3 måneder i fryseren. Bedre dag to. Avkjøl skankene i sausen så de ikke tørker ut.
 - **Beslektet:** [nr. 59](#59-krydrede-lammekjøttboller-med-agurk--og-yoghurtsaus) bruker samme krydderfamilie på lam, [nr. 105](#105-pot-roast--braisert-høyrygg-med-rotgrønnsaker) er samme braiseringsteknikk, og [hummus (T40)](#t40-hummus) passer ved siden av.
 
 ---
@@ -9220,7 +9220,7 @@ Kalveskank i tykke skiver, melet og brunet, braisert i hvitvin og tomat til kjø
 - **Beinet skal bli i.** Margen smelter ut i sausen underveis og gir den fylde som ingen jevning kan erstatte. Server en liten skje ved siden av så gjestene får ut resten.
 - **Kilden tilbyr eplejuice i stedet for vin.** Det fungerer, men gir en tydelig søtere saus. Vil du unngå alkohol og beholde syren, bruk buljong og en spiseskje hvitvinseddik i stedet. *(Lagt til.)*
 - **Gremolata lages rett før servering.** Rå hvitløk og revet sitronskall taper seg i løpet av en time.
-- **Holdbarhet:** 3 døgn kjøleskap, 3 måneder fryser. Bedre dag to. Avkjøl kjøttet i sausen.
+- **Holdbarhet:** 3 døgn i kjøleskap, 3 måneder i fryseren. Bedre dag to. Avkjøl kjøttet i sausen.
 - **Beslektet:** [braisert lammeskank med gremolata (nr. 169)](#169-braisert-lammeskank-med-gremolata) bruker samme teknikk og samme gremolata på lam, [pot roast – braisert høyrygg med rotgrønnsaker (nr. 105)](#105-pot-roast--braisert-høyrygg-med-rotgrønnsaker) er den amerikanske slektningen, og [sopprisotto med salsiccia og hasselnøtter (nr. 151)](#151-sopprisotto-med-salsiccia-og-hasselnøtter) viser risottoteknikken til tilbehøret.
 
 ---
@@ -9267,7 +9267,7 @@ Gulasj er en suppe, ikke en gryterett – kilden er ettertrykkelig på det punkt
 - **Karven knuses i morter,** ikke males. Hele frø blir sittende mellom tennene, malt karve forsvinner.
 - **Skum aldri av.** Kilden er tydelig på dette. Skummet inneholder smak, og i denne suppen skal alt bli med.
 - **Tomaten flås** ved å skjære et kryss i skinnet og dyppe den i kokende vann til skinnet løsner. Én tomat gir farge og syre, ikke tomatsmak – dette er ikke en tomatsuppe.
-- **Holdbarhet:** 4 døgn kjøleskap, 3 måneder fryser. Klart bedre dag to. Potetene blir litt bløtere ved frysing.
+- **Holdbarhet:** 4 døgn i kjøleskap, 3 måneder i fryseren. Klart bedre dag to. Potetene blir litt bløtere ved frysing.
 - **Beslektet:** [nr. 103](#103-chili-con-carne) bruker samme stykke kjøtt og samme lange koking i en helt annen krydderverden, og [nr. 168](#168-biff-stroganoff) er den andre østeuropeiske gryta i samlingen.
 
 ---
@@ -9316,7 +9316,7 @@ Tynt kjøtt marinert i lime, appelsin, hvitløk og koriander, stekt hardt og kor
 - **Flankestek fås hos slakter,** og heter av og til «bavette» eller «slakterens biff». Ytrefilet fungerer, men er magrere og tåler dårligere den harde steken.
 - **Pannen skal ryke.** Er den ikke varm nok, slipper kjøttet væske og koker. Stek i to omganger hvis pannen er liten.
 - **Hviletiden på 10 minutter** gjelder selv for tynt kjøtt. Skjærer du med en gang, renner saften ut på fjøla i stedet for å bli i kjøttet.
-- **Holdbarhet:** 2 døgn kjøleskap. Kjøttet blir seigt ved oppvarming – spis det heller kaldt i salat dagen etter.
+- **Holdbarhet:** 2 døgn i kjøleskap. Kjøttet blir seigt ved oppvarming – spis det heller kaldt i salat dagen etter.
 - **Beslektet:** [braiserte kyllingtacos (nr. 122)](#122-braiserte-kyllingtacos) er den langtidskokte motsatsen med samme servering, [pico de gallo (T20)](#t20-pico-de-gallo) og [guacamole (T47)](#t47-guacamole) hører til samme bord, og [tortillas med gresk yoghurt (G14)](#g14-tortillas-med-gresk-yoghurt) er tortillaene.
 
 ---
@@ -9372,7 +9372,7 @@ Fransk kalvefrikassé der kjøttet aldri brunes. Det trekkes i lys kraft med gr�
 - **Kalvebog er riktig stykke.** Bryst fungerer også. Ytrefilet og andre magre stykker blir tørre – det er bindevevet som gir sausen fylde.
 - **Sitronsaften til slutt** er nødvendig. Retten er fløte, smør og eggeplomme, og uten syre blir den kvalmende etter tre munnfuller.
 - **Nellikspikeren i løken** er en fransk konvensjon som gjør det lett å fiske løken opp igjen, samtidig som nelliken gir en svak sødme til kraften. To spiker er nok til halvannen liter.
-- **Holdbarhet:** 2 døgn kjøleskap. Tåler ikke frysing – legeringen skiller seg. Varmes forsiktig og aldri over 80 °C.
+- **Holdbarhet:** 2 døgn i kjøleskap. Tåler ikke frysing – legeringen skiller seg. Varmes forsiktig og aldri over 80 °C.
 - **Beslektet:** [T43](#t43-kantarellsaus) er samlingens andre lyse soppsaus på fløte, og [nr. 105](#105-pot-roast--braisert-høyrygg-med-rotgrønnsaker) er den mørke motsatsen der bruningen er poenget.
 
 ---
@@ -9471,7 +9471,7 @@ Linser og ris kokt sammen, med en stor mengde løk stekt så lenge at den blir m
 - **Brune eller grønne linser, ikke røde.** Røde linser koker helt i stykker og gir en grøt.
 - **Hvilen på 10 minutter uten lokk-løfting** er det som gjør risen luftig. Damper du ut varmen underveis, blir den klissete i bunnen.
 - **Yoghurten er ikke valgfri.** Retten er tørr og krydret av natur, og syren fra yoghurt og sitron er det som gjør den til et måltid.
-- **Holdbarhet:** 4 døgn kjøleskap. Bra kald. Den sprø løken mister sprøheten – stek litt ny hvis du serverer restene som egen rett.
+- **Holdbarhet:** 4 døgn i kjøleskap. Bra kald. Den sprø løken mister sprøheten – stek litt ny hvis du serverer restene som egen rett.
 - **Beslektet:** [T40](#t40-hummus) hører til samme bord, og [nr. 150](#150-sumakkylling-med-havrerissalat-og-hvitløksyoghurt) bruker samme kombinasjon av korn, yoghurt og sitron.
 
 ---
@@ -9511,7 +9511,7 @@ Aubergine i lag med tomatsaus, parmesan og basilikum. Den lange saltingen av aub
 - **Mozzarellaen må være tørr.** Fersk mozzarella i vann gjør retten rennende. Riv den og la den ligge på papir i 20 minutter, eller bruk fastere pizzamozzarella.
 - **Hvilen på 20 minutter** gjelder her som i lasagne. Skjæres den varm, sklir lagene fra hverandre.
 - **Ingen paneringsmel.** Den amerikanske versjonen paneres og friteres. Den italienske er bare aubergine, saus og ost.
-- **Holdbarhet:** 4 døgn kjøleskap, 3 måneder fryser. Klart bedre dag to.
+- **Holdbarhet:** 4 døgn i kjøleskap, 3 måneder i fryseren. Klart bedre dag to.
 - **Beslektet:** [lasagne alla Norma med salsicciaragù (nr. 142)](#142-lasagne-alla-norma-med-salsicciaragù) og [beans alla Norma – siciliansk aubergine- og bønnegryte (nr. 164)](#164-beans-alla-norma--siciliansk-aubergine--og-bønnegryte) bruker samme grønnsak i samme kjøkken, og [lasagne alla bolognese (nr. 167)](#167-lasagne-alla-bolognese) er samme lagteknikk.
 
 ---
@@ -9554,7 +9554,7 @@ Grønnsakene stekes hver for seg og settes sammen til slutt. Det er mer arbeid e
 - **Eddiken til slutt** løfter hele retten. Uten den smaker den bare søtt av kokte grønnsaker.
 - **Timian og laurbær tas ut** før servering hvis stilkene ikke har løst seg opp.
 - **Confit byaldi er noe annet.** Den tynne, viftede versjonen fra filmen er en oppfinnelse fra 1970-tallet av Michel Guérard. Denne er den rustikke originalen.
-- **Holdbarhet:** 5 døgn kjøleskap, og blir tydelig bedre etter et døgn. Fryser greit.
+- **Holdbarhet:** 5 døgn i kjøleskap, og blir tydelig bedre etter et døgn. Fryser greit.
 - **Beslektet:** [T41](#t41-ovnsbakt-paprika--og-tomatsalat-med-bocconcini) bruker samme grønnsaker kaldt, og [nr. 164](#164-beans-alla-norma--siciliansk-aubergine--og-bønnegryte) er den sicilianske slektningen.
 
 ---
@@ -9600,7 +9600,7 @@ Aubergine delt i to, snittet i rutemønster og bakt til den er kremet, med en gl
 - **Snittsiden ned først.** De tjue minuttene med skjæreflaten mot brettet er det som gjør innmaten myk. Glasuren tåler ikke den tiden – den brenner.
 - **220 °C, ikke lavere.** Aubergine trenger høy varme for å kollapse ordentlig. På 180 °C blir den seig.
 - **Gochujang varierer i styrke** mellom merker. Smak på glasuren før du pensler, og juster med honning.
-- **Holdbarhet:** 3 døgn kjøleskap. God kald, i en boks med ris.
+- **Holdbarhet:** 3 døgn i kjøleskap. God kald, i en boks med ris.
 - **Beslektet:** [nr. 141](#141-sprø-gochujang-kikerter) bruker samme glasurprinsipp, og [T12](#t12-yangnyeomjang--koreansk-dippsaus) er samme smaksbilde som saus.
 
 ---
@@ -9646,7 +9646,7 @@ Spinat kokt ned til en tykk, mørkegrønn saus med paneer stekt gyllen. Paneeren
 - **Garam masala helt til slutt.** Den skal ikke stekes – se [G19](#g19-garam-masala).
 - **Spinaten må klemmes tørr.** Fersk spinat er nesten bare vann, og blir det med, får du spinatsuppe.
 - **Paneer kan byttes med halloumi** eller fast tofu. Halloumi er saltere, så gå ned på saltet.
-- **Holdbarhet:** 3 døgn kjøleskap, 3 måneder fryser. Paneeren blir litt fastere ved frysing.
+- **Holdbarhet:** 3 døgn i kjøleskap, 3 måneder i fryseren. Paneeren blir litt fastere ved frysing.
 - **Beslektet:** [G19](#g19-garam-masala) er krydderblandingen, og [nr. 157](#157-tandoorirotto) er samlingens andre indiske vegetarrett.
 
 ---
@@ -9694,7 +9694,7 @@ Paprika fylt med ris, urter, rosiner og pinjekjerner, bakt i ovn med olivenolje 
 - **Paprikaene skal stå tett.** Står de med luft imellom, velter de og fyllet renner ut.
 - **Lunken, ikke varm.** Dette er en rett fra middelhavskjøkkenet som serveres ved romtemperatur, og smakene kommer tydeligere fram da.
 - **Kanel og allehånde i en grønnsakrett** er standard i regionen og det som skiller den fra en italiensk fylt paprika.
-- **Holdbarhet:** 4 døgn kjøleskap, og fint å spise kald.
+- **Holdbarhet:** 4 døgn i kjøleskap, og fint å spise kald.
 - **Beslektet:** [nr. 175](#175-mujadara) bruker samme kombinasjon av ris og løk, og [T61](#t61-kısır) samme urtemengde.
 
 ---
@@ -9741,7 +9741,7 @@ Gulrot, pastinakk og sellerirot bakt til kantene karamelliserer, vendt i et smø
 - **Lys miso, ikke mørk.** Mørk miso er langt saltere og dominerer grønnsakene.
 - **220 °C.** Rotgrønnsaker trenger høy varme for å få farge før de blir bløte innvendig.
 - **Resten av smøret inn rått** til slutt. Det gir en frisk misosmak ved siden av den bakte.
-- **Holdbarhet:** 4 døgn kjøleskap. Varmes best i panne, ikke mikro.
+- **Holdbarhet:** 4 døgn i kjøleskap. Varmes best i panne, ikke mikro.
 - **Beslektet:** [misosuppe (nr. 6)](#6-misosuppe) og [dashi (G21)](#g21-dashi) bruker samme spiskammer, og [potetbåter i airfryer (T23)](#t23-potetbåter-i-airfryer) er samme teknikk på potet.
 
 ---
@@ -9780,7 +9780,7 @@ Brokkoli kokt akkurat mør, lagt utover et fat og dekket av hvitløksolje, chili
 - **La den dampe tørr i sila** i et minutt. Våt brokkoli fortynner oljen og den renner av.
 - **Hvitløken skal være lysegyllen.** Brun hvitløk gjør hele retten bitter, og i en rett med seks ingredienser har den ingen steder å gjemme seg.
 - **Stilken er det beste stykket.** Skrell av det trevlete ytterlaget og skjær den i staver – den er søtere enn buketten.
-- **Holdbarhet:** 2 døgn kjøleskap, god kald som salat. Mandlene mister sprøheten.
+- **Holdbarhet:** 2 døgn i kjøleskap, god kald som salat. Mandlene mister sprøheten.
 - **Beslektet:** [T22](#t22-gai-lan--kinesisk-brokkoli-woket-med-hvitløk) er den kinesiske tilnærmingen til samme grønnsak.
 
 ---
@@ -9828,7 +9828,7 @@ Purreterte. Purren surres i smør til den er helt myk og søt – et kvarter, ik
 - **Jord mellom lagene.** Del purren på langs og skyll under rennende vann før du skjærer den i ringer.
 - **Forbakingen er like nødvendig her** som i quiche lorraine, og av samme grunn.
 - **Gruyère kan byttes** med comté eller en godt lagret norsk hvitost. Ikke bruk mozzarella – den gir væske.
-- **Holdbarhet:** 3 døgn kjøleskap, god kald.
+- **Holdbarhet:** 3 døgn i kjøleskap, god kald.
 - **Beslektet:** [S28](#s28-quiche-lorraine) bruker samme bunn og samme eggestanning, og [S23](#s23-terte-med-geitost-og-karamellisert-løk) samme sjanger.
 
 ---
@@ -9872,7 +9872,7 @@ Lasagne uten tomat. Sopp stekt i to omganger, bechamel og parmesan. Soppen må s
 - **Tørket steinsopp gjør jobben tomaten ellers ville gjort.** Den gir dybden en hvit lasagne trenger for ikke å smake bare fløte.
 - **Bløtvannet er kraft.** Sil det gjennom et papir for å fjerne sand, og bruk det.
 - **Bechamelen skal være løs.** Se [T124](#t124-bechamel) – platene trekker til seg mye væske.
-- **Holdbarhet:** 3 døgn kjøleskap, 3 måneder fryser.
+- **Holdbarhet:** 3 døgn i kjøleskap, 3 måneder i fryseren.
 - **Beslektet:** [lasagne alla bolognese (nr. 167)](#167-lasagne-alla-bolognese) er kjøttvarianten med samme teknikk, [bechamel (T124)](#t124-bechamel) er sausen, og [sopprisotto med salsiccia og hasselnøtter (nr. 151)](#151-sopprisotto-med-salsiccia-og-hasselnøtter) bruker samme soppbehandling.
 
 ---
@@ -10046,7 +10046,7 @@ Sju timer i ovnen, fra 170 ned til 90 og opp igjen til 210. Metoden bygger på e
 
 **Kilde:** Andreas Viestad, «Den store kjøttboka», via DN Smak · **Kjøkken:** Middelhavsinspirert · **Tid:** ca. 3½ time · **Porsjoner:** 4
 
-Skankene gnis inn med hele krydder knust i morter, brunes, og bakes tre timer på 120 grader. Væskemengden er påfallende liten – bare 2,5 dl vin – og det er med vilje: det fuktige miljøet i den lukkede gryta hindrer uttørring og gir jevnere varme enn en åpen form.
+Skankene gnis inn med hele krydder knust i morter, brunes, og bakes tre timer på 120 °C. Væskemengden er påfallende liten – bare 2,5 dl vin – og det er med vilje: det fuktige miljøet i den lukkede gryta hindrer uttørring og gir jevnere varme enn en åpen form.
 
 ### Ingredienser
 
@@ -10088,7 +10088,7 @@ Skankene gnis inn med hele krydder knust i morter, brunes, og bakes tre timer p�
 - **Brun én eller to av gangen.** En full gryte senker temperaturen, og da damper kjøttet i stedet for å brune seg.
 - **«1 tomat» er uklart i kilden.** Mengden står oppgitt uten enhet. Én fersk tomat er lite til fire skanker – én boks hermetiske tomater er også en rimelig lesning. Her er det ført som én fersk tomat, i tråd med at retten skal være tørr. *(Presisert.)*
 - **Tilbehør fra kilden:** bakte rotgrønnsaker, eller smørkokte gulrøtter.
-- **Holdbarhet:** 3 døgn kjøleskap, 3 måneder fryser. Braiserte retter blir bedre dag to.
+- **Holdbarhet:** 3 døgn i kjøleskap, 3 måneder i fryseren. Braiserte retter blir bedre dag to.
 - **Beslektet:** [braisert lammeskank med gremolata (nr. 169)](#169-braisert-lammeskank-med-gremolata) er en annen lammeskank, med gremolata i stedet for rødvin, [pot roast – braisert høyrygg med rotgrønnsaker (nr. 105)](#105-pot-roast--braisert-høyrygg-med-rotgrønnsaker) bruker samme teknikk på storfe, og [fondantpoteter (T17)](#t17-fondantpoteter) hører til bordet.
 
 ---
@@ -10206,7 +10206,7 @@ Tynnere enn en klassisk grønn curry – kilden kaller den selv en suppe – og 
 - **Sitrongresset spises ikke.** Det ligger i for smakens skyld og plukkes ut på tallerkenen, eller før servering.
 - **Uten fiskesaus:** øk soyasausen tilsvarende. Du mister noe dybde, men retten bærer det.
 - **Suppe eller curry?** Kilden kaller den suppe hele veien og har den under suppe på bloggen, selv om tittelen sier curry. Med 2,5 dl kraft i tillegg til kokosmelken er den tynnere enn en klassisk grønn curry. Den er derfor ført som begge deler her. *(Presisert.)*
-- **Holdbarhet:** 3 døgn kjøleskap. Fryser greit, men squashen blir bløt.
+- **Holdbarhet:** 3 døgn i kjøleskap. Fryser greit, men squashen blir bløt.
 - **Beslektet:** [green curry (nr. 76)](#76-green-curry-med-kylling) og [Zena's Kitchen sin versjon (nr. 100)](#100-green-curry-med-kylling--zenas-kitchen-sin-versjon) er andre grønne curryer med kylling i samlingen, [thai karri-kyllingnudelsuppe (SU3)](#su3-thai-karri-kyllingnudelsuppe) er samme kjøkken som suppe, og [kyllingkraft (G22)](#g22-kyllingkraft) er kraften.
 
 ---
@@ -10251,7 +10251,7 @@ Kyllinglår med skinn, melet bare på skinnsiden, stekt sprø og glasert i en sa
 - **Sausen tykner uten maisenna.** Sukkeret karamelliserer og melet fra skinnet løses ut i væsken. Det holder for denne mengden – ikke tilsett jevning.
 - **Skinnsiden ned først** og la den ligge i fred i tre–fire minutter. Snur du for tidlig, slipper skinnet ikke pannen og du river det av.
 - **Verken tid eller porsjoner er oppgitt i kilden.** 240 g kylling gir to porsjoner med ris ved siden av, og retten tar rundt tjue minutter. *(Lagt til.)*
-- **Holdbarhet:** 2 døgn kjøleskap. Skinnet mister sprøheten – skjær kyllingen i skiver og varm den i panne, ikke mikro.
+- **Holdbarhet:** 2 døgn i kjøleskap. Skinnet mister sprøheten – skjær kyllingen i skiver og varm den i panne, ikke mikro.
 - **Beslektet:** [bok choy med østerssaus og sprø hvitløk (T16)](#t16-bok-choy-med-østerssaus-og-sprø-hvitløk) bruker samme saus på grønnsaker, [kokt ris (T131)](#t131-kokt-ris) er risen, og [one-pot kylling med gul karri og ris (nr. 148)](#148-one-pot-kylling-med-gul-karri-og-ris) er samme hverdagsprinsipp i én panne.
 
 ---
@@ -10372,7 +10372,7 @@ Den eneste av de sprøstekte sidefleskene i samlingen som **forveller kjøttet f
 - **190 °C, så ned til 170 straks brettet er inne.** Den ekstra varmen kompenserer for temperaturfallet når ovnsdøren åpnes. Samme grep som i [nr. 186](#186-langtidsstekt-ribbe) og [B18](#b18-tangzhong-brød).
 - **Tretti minutters hvile, ikke ti.** Dette er den lengste hviletiden blant sideflesk-oppskriftene, og det er mulig her fordi svoren har fått en halvtime på 200 °C og tåler å stå. Kjøttet blir tydelig saftigere.
 - **Dype snitt i kjøttsiden, ikke i svoren.** Rutene er der for at krydderet skal komme til, og for at du skal ha noe å skjære etter til slutt.
-- **Holdbarhet:** 3 døgn kjøleskap. Varm skivene i panne eller airfryer – svoren tåler ikke mikrobølgeovn.
+- **Holdbarhet:** 3 døgn i kjøleskap. Varm skivene i panne eller airfryer – svoren tåler ikke mikrobølgeovn.
 - **Beslektet:** [siu yuk (nr. 42)](#42-sprøstekt-svinesideflesk-siu-yuk), [CJ Eats sin versjon (nr. 133)](#133-sprøstekt-svinesideflesk-i-airfryer-siu-yuk--cj-eats-sin-versjon) og [PattyPlates sin versjon (nr. 191)](#191-sprøstekt-svinesideflesk-i-airfryer-siu-yuk--pattyplates-sin-versjon) er de andre versjonene, og [langtidsstekt ribbe (nr. 186)](#186-langtidsstekt-ribbe) er den norske langtidsvarianten.
 
 ---
@@ -10420,7 +10420,7 @@ Kyllingbryst med skinn, stekt til det er nesten gjennomstekt fra skinnsiden alen
 - **Sitronsaften etter fløten**, ikke før. Syre i fløte som fortsatt koker kan få den til å skille seg.
 - **Banansjalottløk** er den lange, avlange typen. Vanlig sjalottløk fungerer like godt – regn 3–4 små.
 - **Verken tid eller porsjoner er oppgitt i kilden.** To kyllingbryst gir to porsjoner, og retten tar rundt tretti minutter. *(Lagt til.)*
-- **Holdbarhet:** 2 døgn kjøleskap. Skinnet mister sprøheten, så skjær kyllingen i skiver og varm den forsiktig i sausen.
+- **Holdbarhet:** 2 døgn i kjøleskap. Skinnet mister sprøheten, så skjær kyllingen i skiver og varm den forsiktig i sausen.
 - **Beslektet:** [kremet hvitløks- og sennepskylling – Chef Jack Ovens sin versjon (nr. 130)](#130-kremet-hvitløks--og-sennepskylling--chef-jack-ovens-sin-versjon) og [kremet kylling med gnocchi (nr. 131)](#131-kremet-kylling-med-gnocchi) er andre kremete kyllingretter i panne, og [fondantpoteter (T17)](#t17-fondantpoteter) er et alternativt tilbehør.
 
 ---
@@ -13904,7 +13904,7 @@ Forkokte rødbeter med tomat, ingefær og vineddik. Serveres med en dillrømme r
 - 3 ss vineddik
 - 1 ss revet frisk ingefær
 - 1 ts sukker
-- 3 dl grønnsakbuljong eller vann
+- 3 dl grønnsaksbuljong eller vann
 - Salt og pepper
 
 **Dillrømme**
@@ -13922,7 +13922,7 @@ Forkokte rødbeter med tomat, ingefær og vineddik. Serveres med en dillrømme r
 4. **Skrell og riv ingefæren.**
 5. **Varm olivenolje i en kasserolle** og fres løken til den er blank.
 6. **Tilsett tomatkjøttet, revet ingefær, sukker og vineddik.** Kok inn.
-7. **Tilsett rødbetene og grønnsakbuljong eller vann.** La småkoke i **ca. 40 minutter**.
+7. **Tilsett rødbetene og grønnsaksbuljong eller vann.** La småkoke i **ca. 40 minutter**.
 8. **Smak til med salt og pepper.**
 9. **Bland seterrømme, hakket dill, sitronsaft og salt** og server en god skje på toppen.
 
@@ -13985,7 +13985,7 @@ Halvparten av tomatene bakes i ovnen før alt kjøres kaldt. Vannmelon kan ersta
 
 - ½ kg klasetomater
 - ½ kg cherrytomater
-- 2–3 hvitløkfedd
+- 2–3 hvitløksfedd
 - 1 salatløk
 - 2 røde paprika
 - 1 agurk
@@ -13993,7 +13993,7 @@ Halvparten av tomatene bakes i ovnen før alt kjøres kaldt. Vannmelon kan ersta
 - 1 dl olivenolje
 - 2 dl vann, eller ¼ vannmelon uten skall
 - Salt
-- Kajennepepper
+- Cayennepepper
 
 ### Fremgangsmåte
 
@@ -14002,7 +14002,7 @@ Halvparten av tomatene bakes i ovnen før alt kjøres kaldt. Vannmelon kan ersta
 3. **Del klasetomatene i fire** og bland dem med de bakte cherrytomatene.
 4. **Del løken og agurken grovt.**
 5. **Kjør alt i blender** med vann eller vannmelon, brød og olivenolje til god konsistens.
-6. **Smak til med salt og kajennepepper.**
+6. **Smak til med salt og cayennepepper.**
 7. **Sil suppen og sett den kaldt.**
 
 ### Notater
@@ -14025,7 +14025,7 @@ Fem ingredienser. En fjerdedel av tomatene tørkes i ovnen og brukes som garnity
 ### Ingredienser
 
 - ca. 700 g cherrytomater eller andre modne tomater
-- 8–10 hvitløkfedd
+- 8–10 hvitløksfedd
 - 1 liter kyllingkraft, grønnsakskraft eller vann
 - 3 ss olivenolje
 - En klype salt
@@ -14033,7 +14033,7 @@ Fem ingredienser. En fjerdedel av tomatene tørkes i ovnen og brukes som garnity
 ### Fremgangsmåte
 
 1. **Del tomatene i to.** Ha **¼ av tomatene** i en stekepanne med litt olivenolje og et dryss salt, og tørk dem lett i varm ovn i **ca. 1 time**.
-2. **Skrell hvitløkfeddene**, del dem i to og fjern spiren. Kutt hvitløken fint og fres i olivenolje **uten at det blir brunt**.
+2. **Skrell hvitløksfeddene**, del dem i to og fjern spiren. Kutt hvitløken fint og fres i olivenolje **uten at det blir brunt**.
 3. **Kjør resten av tomatene med stavmikser eller blender til juice.**
 4. **Kok juicen sammen med hvitløken** og tilsett kraft eller vann. Kok til god konsistens.
 5. **Kjør med stavmikser eller blender** og smak til med salt.
@@ -14041,7 +14041,7 @@ Fem ingredienser. En fjerdedel av tomatene tørkes i ovnen og brukes som garnity
 
 ### Notater
 
-- **Åtte til ti hvitløkfedd i én suppe** er en enorm mengde, og det er hele karakteren. Freset forsiktig uten bruning blir hvitløken søt og nøtteaktig i stedet for skarp – bruner den seg, blir suppen bitter.
+- **Åtte til ti hvitløksfedd i én suppe** er en enorm mengde, og det er hele karakteren. Freset forsiktig uten bruning blir hvitløken søt og nøtteaktig i stedet for skarp – bruner den seg, blir suppen bitter.
 - **Tomatene kokes aldri hele.** De kjøres til juice først, som betyr at suppen koker inn på minutter i stedet for i en time. Konsistensen styres av innkokingen alene.
 - **De tørkede tomatene er garnityr, ikke ingrediens.** De går ikke i suppen; de legges på toppen som konsentrert smak og tekstur.
 - **Silingen mens den er varm** er lettere enn kald – væsken er tynnere og renner raskere gjennom sikten.
@@ -14065,7 +14065,7 @@ To skiver skjæres av blomkålen og stekes gyllenbrune som topping. Resten kokes
 - 2–3 ss olivenolje
 - 1–2 ss smør
 - Salt
-- En knivspiss kajennepepper
+- En knivspiss cayennepepper
 
 **Til servering**
 
@@ -14079,8 +14079,8 @@ To skiver skjæres av blomkålen og stekes gyllenbrune som topping. Resten kokes
 2. **Del blomkålen i to skiver på midten**, ca. 2 cm tykke, og stek lett på begge sider i olivenolje og smør til de er gyllenbrune.
 3. **Grovhakk resten av blomkålen** og fres i smør og olivenolje **uten at den tar farge**.
 4. **Tilsett revet parmesan, melk og kremfløte** og kok til det blir mørt.
-5. **Kjør massen i blender eller med stavmikser**, sil den gjennom en sikt og tilsett grønnsakbuljong eller vann til god konsistens.
-6. **Smak til med salt og kajennepepper.**
+5. **Kjør massen i blender eller med stavmikser**, sil den gjennom en sikt og tilsett grønnsaksbuljong eller vann til god konsistens.
+6. **Smak til med salt og cayennepepper.**
 7. **Hold suppen varm**, del de gyllenbrune blomkålskivene i fire og legg dem på toppen.
 8. **Dander med krutonger, sprøstekt guanciale og finhakket gressløk.**
 
@@ -14109,7 +14109,7 @@ Gulrot med ingefær og saften av fire–fem pasjonsfrukt. Like god kald som varm
 - 4–5 pasjonsfrukt
 - 4 ss crème fraîche
 - Salt
-- Kajennepepper
+- Cayennepepper
 
 ### Fremgangsmåte
 
@@ -14118,7 +14118,7 @@ Gulrot med ingefær og saften av fire–fem pasjonsfrukt. Like god kald som varm
 3. **Fres dem i olivenolje** i en kasserolle og tilsett vann så det dekker.
 4. **Kok i ca. 30 minutter.**
 5. **Tilsett revet frisk ingefær, saften av pasjonsfrukten og crème fraîche**, og kjør i blender til glatt konsistens.
-6. **Juster med vann** til riktig konsistens og smak til med salt og kajennepepper.
+6. **Juster med vann** til riktig konsistens og smak til med salt og cayennepepper.
 
 ### Notater
 
@@ -14147,16 +14147,16 @@ Et halvt kilo sopp i to sorter. En fjerdedel stekes for seg som garnityr, resten
 - Saften fra 1 sitron
 - Gressløk
 - Salt
-- Kajennepepper
+- Cayennepepper
 
 ### Fremgangsmåte
 
 1. **Skrell og hakk løk og sjalottløk**, og fres i varm olivenolje.
 2. **Rens soppen, del den i mindre biter** og fres opp **¼ av den** i olivenolje. Sett til side.
 3. **Finhakk resten av soppen** og kok den sammen med løken.
-4. **Tilsett sitronsaft og grønnsakbuljong**, og kok i **ca. 30 minutter**.
+4. **Tilsett sitronsaft og grønnsaksbuljong**, og kok i **ca. 30 minutter**.
 5. **Kjør suppen med stavmikser** til glatt konsistens.
-6. **Smak til med salt og kajennepepper.** Juster med litt vann hvis suppen er for tykk.
+6. **Smak til med salt og cayennepepper.** Juster med litt vann hvis suppen er for tykk.
 7. **Fordel i dype, varme tallerkener** og dander med den stekte soppen og finhakket gressløk.
 
 ### Notater
@@ -14182,11 +14182,11 @@ Aspargesen kokes hel og avkjøles i isvann. Toppene spares og legges i suppen ve
 - 1 purreløk
 - 1 løk
 - 100 g petits pois, frosne eller ferske
-- 1 liter grønnsakbuljong
+- 1 liter grønnsaksbuljong
 - 50 g parmesan
 - Olivenolje
 - Salt
-- Kajennepepper
+- Cayennepepper
 
 **Til servering**
 
@@ -14199,9 +14199,9 @@ Aspargesen kokes hel og avkjøles i isvann. Toppene spares og legges i suppen ve
 2. **Kok dem hele i ca. 6–7 minutter** i saltet vann.
 3. **Avkjøl i isvann.** Kutt dem fint, men **spar de hele toppene**.
 4. **Skrell poteter, løk og purreløk** og kutt fint. Fres i olivenolje til de er blanke og bløte.
-5. **Tilsett grønnsakbuljong og kok hurtig sammen.**
+5. **Tilsett grønnsaksbuljong og kok hurtig sammen.**
 6. **Når alt er gjennomkokt**, tilsett de grønne ertene, den kokte aspargesen og deretter parmesanen.
-7. **Kjør med stavmikser til glatt konsistens**, sil av og smak til med salt og kajennepepper.
+7. **Kjør med stavmikser til glatt konsistens**, sil av og smak til med salt og cayennepepper.
 8. **Server med krutonger og aspargestopper.**
 
 ### Notater
@@ -14210,7 +14210,7 @@ Aspargesen kokes hel og avkjøles i isvann. Toppene spares og legges i suppen ve
 - **«Kok hurtig sammen» er en fargeinstruks.** Jo lengre de grønne ingrediensene koker, desto mattere blir suppen. Poteten er der for å binde, ikke for å koke lenge.
 - **Ertene går i helt til slutt.** De trenger under et minutt og bidrar med både farge og sødme.
 - **Poteten er jevningen.** Uten mel eller fløte er det potetstivelsen som gir suppen kropp. To middels poteter til en liter buljong er forholdet.
-- **Aspargesskrellet kan kokes ut til kraft** i stedet for å kastes – det gir en langt kraftigere aspargessmak enn grønnsakbuljong. *(Lagt til.)*
+- **Aspargesskrellet kan kokes ut til kraft** i stedet for å kastes – det gir en langt kraftigere aspargessmak enn grønnsaksbuljong. *(Lagt til.)*
 - **Beslektet:** [T77](#t77-hellstrøms-grønne-ertepuré) bruker samme erter, og [nr. 145](#145-hvit-asparges-med-shiitake-og-brunet-hollandaise) er en annen aspargesrett, med hollandaise.
 
 ---
@@ -15370,7 +15370,7 @@ Gai lan freses med skivet hvitløk, dampes kort under lokk og smakes til med sha
 - **Vasking:** legg grønnsaken i en stor bolle med vann i noen minutter og rist den rundt som en malerkost. Gjenta én–to ganger med rent vann. Jorden sitter godt i bladfestene.
 - **Holdbarhet:** 3–4 dager i kjøleskap, avkjølt før den dekkes til. Som alle bladgrønnsaker taper den seg raskt på tekstur – dette er en rett å lage rett før servering.
 - **Andre kinesiske grønnsakstilbehør:** [hvitløks-bok choy (T2)](#t2-hvitløks-bok-choy) og [bok choy med østerssaus (T16)](#t16-bok-choy-med-østerssaus-og-sprø-hvitløk). Erstatningslisten i T2 nevner gai lan, som her har fått sin egen oppføring.
-- **Samme forfatter står bak** [beef and broccoli (nr. 87)](#87-beef-and-broccoli--oksekjøtt-i-wok-med-brokkoli) og [karaage (nr. 86)](#86-karaage--japansk-friturstekt-kylling).
+- **Samme forfatter står bak** [beef and broccoli (nr. 87)](#87-beef-and-broccoli--oksekjøtt-i-wok-med-brokkoli) og [karaage (nr. 86)](#86-karaage--japansk-frityrstekt-kylling).
 
 ---
 
@@ -15907,7 +15907,7 @@ Kremet sesamdressing av typen som følger med tonkatsu og katsu på japanske res
 - **Salt kålen først.** Strimle kålen tynt, dryss over ¼ ts salt, masser det inn og la den stå 5 minutter før du blander i dressingen. Da mykner den uten å bli vassen, og dressingen tynnes ikke ut på tallerkenen. Samme prinsipp som i [sesamcoleslawen (T4)](#t4-sesamcoleslaw), som er en ferdig kålsalat med sesam og litt annen dressing.
 - **For tykk?** Spe med 1–2 ts vann til ønsket konsistens.
 - **Holdbarhet:** 4–5 dager i kjøleskap i tett glass. Kjøpt Kewpie er pasteurisert, så den tåler mer enn hjemmelaget majones – se [T122](#t122-majones), som bare holder 3–4 dager.
-- **Passer til** [tonkatsu (nr. 8)](#8-tonkatsu), [Miwas tonkatsu (nr. 128)](#128-tonkatsu--miwa-sin-versjon), [karaage (nr. 86)](#86-karaage--japansk-friturstekt-kylling) og [katsu curry (nr. 56)](#56-katsu-curry) – alt som er fritert og trenger noe friskt og kremet ved siden av.
+- **Passer til** [tonkatsu (nr. 8)](#8-tonkatsu), [Miwas tonkatsu (nr. 128)](#128-tonkatsu--miwa-sin-versjon), [karaage (nr. 86)](#86-karaage--japansk-frityrstekt-kylling) og [katsu curry (nr. 56)](#56-katsu-curry) – alt som er fritert og trenger noe friskt og kremet ved siden av.
 
 ---
 
@@ -18494,12 +18494,12 @@ To spiseskjeer dijon emulgerer oljen inn i eddiken. Sjalottløken kommer i etter
 - **To spiseskjeer dijon er mye**, og det er derfor denne binder seg og holder seg bundet. Med så mye sennep er den nærmere en tynn majones enn en vinaigrette.
 - **Sjalottløken sist.** Går den i før oljen, hindrer bitene emulsjonen i å bygge seg. Etterpå er den bare tekstur og smak.
 - **Nøytral olje er valgt med hensikt.** Sennep og olivenolje sammen blir lett bittert; en smaksnøytral olje lar sennepen og eddiken stå alene.
-- **Boka kaller den «Fransk vinaigrette 1».** Navnet her beskriver forskjellen fra [vinaigretten med cayenne (T110)](#t110-hellstrøms-franske-vinaigrette-med-kajenne). *(Presisert.)*
-- **Beslektet:** [vinaigretten med cayenne (T110)](#t110-hellstrøms-franske-vinaigrette-med-kajenne) er storporsjonen uten sennep, og [vinaigrette (T127)](#t127-vinaigrette) er grunnversjonen.
+- **Boka kaller den «Fransk vinaigrette 1».** Navnet her beskriver forskjellen fra [vinaigretten med cayenne (T110)](#t110-hellstrøms-franske-vinaigrette-med-cayenne). *(Presisert.)*
+- **Beslektet:** [vinaigretten med cayenne (T110)](#t110-hellstrøms-franske-vinaigrette-med-cayenne) er storporsjonen uten sennep, og [vinaigrette (T127)](#t127-vinaigrette) er grunnversjonen.
 
 ---
 
-## T110. Hellstrøms franske vinaigrette med kajenne
+## T110. Hellstrøms franske vinaigrette med cayenne
 
 **Kilde:** Eyvind Hellstrøm, *Grunnboka* (Cappelen Damm, 2025) · **Kjøkken:** Fransk · **Tid:** 5 min · **Gir:** ca. 4 dl
 
@@ -21438,7 +21438,7 @@ Mørdeig, bacon og eggestand. Den originale har verken ost eller løk – bare b
 - **Deigen skal ikke eltes.** Elting utvikler gluten, og mørdeigen blir seig i stedet for smuldrende.
 - **Fyllet skal gynge litt i midten** når du tar den ut. Gjennomstekt eggestand blir kornete og slipper væske.
 - **175 °C for fyllet, 200 °C for bunnen.** To temperaturer, av to grunner: skorpe først, deretter forsiktig stivning.
-- **Holdbarhet:** 3 døgn kjøleskap, og god kald. Fryser greit ferdigstekt.
+- **Holdbarhet:** 3 døgn i kjøleskap, og god kald. Fryser greit ferdigstekt.
 - **Beslektet:** [frittata i langpanne (S26)](#s26-frittata-i-langpanne) er varianten uten deig, og [terte med geitost og karamellisert løk (S23)](#s23-terte-med-geitost-og-karamellisert-løk) er en raskere terte med butterdeig.
 
 ---
@@ -21488,7 +21488,7 @@ Fylte deigposer som tåler transport bedre enn de fleste småretter. Fyllet må 
 - **Ikke overfyll.** En spiseskje per sirkel. Mer, og de sprekker uansett hvor godt du lukker dem.
 - **Kanten må lukkes ordentlig.** Fukt kanten med litt vann hvis deigen er tørr, og press hardt. En empanada som åpner seg, mister alt fyllet.
 - **Oliven og egg er argentinsk signatur**, og de skal hakkes grovt så du kjenner dem.
-- **Holdbarhet:** 3 døgn kjøleskap, 3 måneder fryser. Frys dem ustekte på brett og stek fra frossen med 5 minutter ekstra.
+- **Holdbarhet:** 3 døgn i kjøleskap, 3 måneder i fryseren. Frys dem ustekte på brett og stek fra frossen med 5 minutter ekstra.
 - **Beslektet:** [friterte saltmandler (S12)](#s12-friterte-saltmandler-almendras-fritas) og [croquetas de jamón (S16)](#s16-croquetas-de-jamón--spanske-skinkekroketter) hører til samme spanske og latinamerikanske sjanger.
 
 ---
@@ -21527,7 +21527,7 @@ Focaccia delt på langs og fylt med mozzarella, tomat og basilikum. Focacciaen e
 - **Tomatene saltes og avrennes.** Samme grunn. Fem minutter på papir trekker ut overraskende mye.
 - **Pestoen er en barriere, ikke bare smak.** Fettet stenger brødporene.
 - **Den blir bedre av å ligge presset.** Til forskjell fra de fleste sandwicher tåler denne både tid og trykk – smakene setter seg.
-- **Holdbarhet:** 1 døgn kjøleskap, pakket stramt.
+- **Holdbarhet:** 1 døgn i kjøleskap, pakket stramt.
 - **Beslektet:** [focaccia på én dag (B13)](#b13-focaccia-på-én-dag) er brødet, og [pesto (T13)](#t13-pesto) er pestoen.
 
 ---
@@ -21592,7 +21592,7 @@ Mac and cheese med bacon, kjølt til den er fast, skåret i terninger, panert og
 - **Forberedelse:** macen kan lages tre døgn i forveien, eller panerte biter fryses i inntil én måned. Friter dem rett fra frossen med **1–2 minutter ekstra** – de skal ikke tines.
 - **Kilden fraråder å fritere på forhånd** og varme opp igjen; paneringen mister sprøheten og osten blir gummiaktig. Flere lesere melder likevel om godt resultat i airfryer fra frossen.
 - **156 kcal per bit** ifølge kilden.
-- **Holdbarhet:** friterte biter spises med en gang. Upanert blokk 3 døgn kjøleskap, panerte biter 1 måned i fryser.
+- **Holdbarhet:** friterte biter spises med en gang. Upanert blokk 3 døgn i kjøleskap, panerte biter 1 måned i fryser.
 - **Beslektet:** [mac and cheese (nr. 106)](#106-mac-and-cheese) er retten den bygger på, [trøffel-mac and cheese – Georgie Halfacree sin versjon (nr. 162)](#162-trøffel-mac-and-cheese--georgie-halfacree-sin-versjon) er den luksuriøse varianten, og [croquetas de jamón – spanske skinkekroketter (S16)](#s16-croquetas-de-jamón--spanske-skinkekroketter) er samme paneringsprinsipp med en annen fylling.
 
 ---
@@ -21692,7 +21692,7 @@ Pizzadeig rullet med pepperoni og mozzarella, skåret i skiver og penslet med hv
 - **Frysing:** forfatteren fryser dem helst ferdigstekte, men sier begge deler går. Fra fryser: 10 minutter på 180 °C.
 - **Fyllet er fritt.** Kilden foreslår pepper jack i stedet for mozzarella, eller å legge til stekt pølse, paprika, sopp eller oliven.
 - **Croissantdeig fungerer**, men er mykere og vanskeligere å jobbe med, ifølge forfatteren.
-- **Holdbarhet:** 3 døgn kjøleskap. Varmes best i ovn, ikke mikro.
+- **Holdbarhet:** 3 døgn i kjøleskap. Varmes best i ovn, ikke mikro.
 - **Beslektet:** [pizzadeig (G6)](#g6-pizzadeig), [korttidshevet pizzadeig (G7)](#g7-korttidshevet-pizzadeig) og [pizzadeig med 48 timers heving (G8)](#g8-pizzadeig-med-48-timers-heving) er deigene, [pizzasaus (T128)](#t128-pizzasaus) og [marinara – tomatsausbase (T125)](#t125-marinara--tomatsausbase) er sausene, og [proteinrik pizza med yoghurtbunn (nr. 114)](#114-proteinrik-pizza-med-yoghurtbunn) er pizzaen i vanlig form.
 
 ---
@@ -22786,7 +22786,7 @@ Ustekt ostekake der ostefromasjen settes med appelsingelé og toppes med et lokk
 - **Kjeksbunnen mangler mengder i kilden.** 200 g digestive og 100 g smør er riktig til en form på 24 cm. *(Lagt til.)*
 - **godt.no sperrer for automatisk lesing**, så oppskriften er hentet fra Kristine Ilstads egen publisering av samme oppskrift. Innholdet er identisk.
 - **Frosne jordbær fungerer.** De skal uansett varmes med rabarbraen.
-- **Holdbarhet:** 3 døgn kjøleskap. Tåler ikke frysing – gelatinen slipper vann ved tining.
+- **Holdbarhet:** 3 døgn i kjøleskap. Tåler ikke frysing – gelatinen slipper vann ved tining.
 - **Beslektet:** [ostekake i matboks (D7)](#d7-ostekake-i-matboks) og [ostekake med hvit sjokolade og bringebær (D8)](#d8-ostekake-med-hvit-sjokolade-og-bringebær) er andre ostekaker, og [panna cotta med gelétopping (D20)](#d20-panna-cotta-med-gelétopping) bruker samme prinsipp med gelé over en satt krem.
 
 ---
@@ -22875,7 +22875,7 @@ Savoiardikjeks dyppet i espresso, i lag med mascarponekrem. Ingen fløte, ingen 
 - **Mascarponen må være romtemperert.** Kald mascarpone klumper seg når den røres i eggekremen.
 - **Kakao først ved servering.** Siktes den på tidlig, trekker den fuktighet og blir til en våt, mørk skorpe.
 - **Ingen fløte i originalen.** Piskekrem gjør den lettere og mer stabil, men også tydelig mindre rik.
-- **Holdbarhet:** 3 døgn kjøleskap. Tåler ikke frysing.
+- **Holdbarhet:** 3 døgn i kjøleskap. Tåler ikke frysing.
 
 ---
 
@@ -22914,7 +22914,7 @@ Vaniljekrem bakt i vannbad og toppet med et lag brent sukker. Kremen skal skjelv
 - **Sukkeret brennes rett før servering.** Etter tjue minutter har lokket trukket fuktighet fra kremen og blitt klissete.
 - **Lave, vide former er riktig.** Dype former gir feil forhold mellom knasende lokk og krem.
 - **Grillelementet i ovnen fungerer** hvis du ikke har brenner, men kremen blir lunken. Sett formene i isvann mens du griller.
-- **Holdbarhet:** kremen 3 døgn kjøleskap uten sukkerlokk.
+- **Holdbarhet:** kremen 3 døgn i kjøleskap uten sukkerlokk.
 - **Beslektet:** [crème caramel (D16)](#d16-crème-caramel) bruker samme krem i motsatt rekkefølge.
 
 ---
@@ -22957,7 +22957,7 @@ Karamell i bunnen av formen, eggekrem over, bakt i vannbad og vendt ut på fatet
 - **Seks timer i kjøleskap er et minimum.** Det er tiden karamellen trenger for å løse seg opp til saus. Vendes den ut for tidlig, sitter halvparten fast i formen.
 - **Egg og plommer sammen** gir riktig fasthet: bare egg blir gummiaktig, bare plommer blir for løs til å vendes ut.
 - **Formene skal ikke smøres.** Karamellen gjør jobben.
-- **Holdbarhet:** 3 døgn kjøleskap i formen. Vend ut først ved servering.
+- **Holdbarhet:** 3 døgn i kjøleskap i formen. Vend ut først ved servering.
 - **Beslektet:** [crème brûlée (D15)](#d15-crème-brûlée) er samme krem med karamellen på toppen i stedet for i bunnen, og [saltkaramellsaus (T123)](#t123-saltkaramellsaus) er karamellen som egen komponent.
 
 ---
@@ -23033,7 +23033,7 @@ Tre ingredienser og ti minutters arbeid. Sitronsyren får fløten til å stivne 
 - **Sitronsaften inn etter kokingen.** Kokes syren med, kan fløten skille seg.
 - **Forholdet er 6 dl fløte til 1,2 dl sitronsaft.** Det er omtrent én sitron per 2 dl fløte. Mindre syre gir ikke stivning.
 - **Dette er en rik dessert.** Små glass er riktig – 1 dl per person holder.
-- **Holdbarhet:** 3 døgn kjøleskap, dekket. Tåler ikke frysing.
+- **Holdbarhet:** 3 døgn i kjøleskap, dekket. Tåler ikke frysing.
 - **Beslektet:** [pistasjpanna cotta (D4)](#d4-pistasjpanna-cotta-med-rømme-og-blåbær) og [panna cotta med gelétopping (D20)](#d20-panna-cotta-med-gelétopping) er samme sjanger med gelatin.
 
 ---
@@ -23073,7 +23073,7 @@ Noe mellom en pannekake og en eggestand, bakt over frukt. Fransk landkjøkken, l
 - **Formen må smøres godt.** Røren fester seg gjerne i kantene.
 - **Med annen frukt heter det flaugnarde,** ikke clafoutis. Plommer, aprikoser og bringebær fungerer alle.
 - **Serveres lunken**, ikke rykende varm og ikke kald. Kald clafoutis er tett og kjedelig.
-- **Holdbarhet:** best samme dag. 2 døgn kjøleskap, varmes 10 minutter på 160 °C.
+- **Holdbarhet:** best samme dag. 2 døgn i kjøleskap, varmes 10 minutter på 160 °C.
 
 ---
 
@@ -23115,7 +23115,7 @@ Kokt fløte satt med gelatin, med et klart gelélokk over. Gelatinmengden avgjø
 - **Geléen må være romtemperert.** Det vanligste feilgrepet er å helle varm gelé over, og da blander lagene seg til en grumsete overgang.
 - **Hell over en skje.** Da treffer ikke strålen overflaten direkte og lager ikke krater.
 - **Vil du vende den ut** av formen i stedet for å servere i glass, øk til 4 plater. Da tåler den å stå fritt.
-- **Holdbarhet:** 3 døgn kjøleskap. Tåler ikke frysing.
+- **Holdbarhet:** 3 døgn i kjøleskap. Tåler ikke frysing.
 - **Beslektet:** [pistasjpanna cotta (D4)](#d4-pistasjpanna-cotta-med-rømme-og-blåbær) er en annen panna cotta, og [lemon posset (D18)](#d18-lemon-posset) setter fløte uten gelatin.
 
 ---
@@ -23155,7 +23155,7 @@ Kokt sjokoladekrem jevnet med maisenna, ikke bakt og ikke pisket. Den er tettere
 - **Sjokoladen inn etter varmen.** Kokes den med, kan den skille seg og bli grynete.
 - **Silen fanger det som likevel klumpet seg.** Ti sekunders arbeid som redder konsistensen.
 - **Snerk eller ikke** er en smakssak. Uten plastfolie får du et fast lag på toppen som mange regner som halve poenget.
-- **Holdbarhet:** 4 døgn kjøleskap. Tåler ikke frysing.
+- **Holdbarhet:** 4 døgn i kjøleskap. Tåler ikke frysing.
 - **Beslektet:** [sjokoladefondant (D2)](#d2-sjokoladefondant), [mousse au chocolat (D6)](#d6-mousse-au-chocolat) og [saltkaramell- og sjokoladeterte (D9)](#d9-saltkaramell--og-sjokoladeterte) er andre mørke sjokoladedesserter.
 
 ---
@@ -23201,7 +23201,7 @@ Kjeksbunn, karamell, banan og krem. Navnet er banan og toffee slått sammen, og 
 - **Bananene skives sent.** De mørkner i løpet av en time. Er kaken laget på forhånd, legg dem på rett før kremen.
 - **Kremen skal være løst pisket.** Stivpisket krem blir tung og smørete ved siden av karamellen.
 - **Flaksaltet i karamellen** er ikke tradisjonelt, men to bokser kondensert melk er svært søtt, og saltet er det som gjør kaken spiselig i mer enn to munnfuller.
-- **Holdbarhet:** 2 døgn kjøleskap. Bunnen bløtner etter det.
+- **Holdbarhet:** 2 døgn i kjøleskap. Bunnen bløtner etter det.
 - **Beslektet:** [saltkaramellsaus (T123)](#t123-saltkaramellsaus) er en annen karamell, og [ostekake med rabarbra og jordbær (D12)](#d12-ostekake-med-rabarbra-og-jordbær) bruker samme kjeksbunn.
 
 ---
@@ -23253,7 +23253,7 @@ Sukkerbrød gjennomtrukket av tre typer melk. Kaken skal se drivende våt ut nå
 - **Det skal se ut som for mye.** Alle blir usikre her. Kaken tar opp alt sammen i løpet av åtte timer.
 - **Evaporert melk er ikke det samme som kondensert melk.** Den første er usøtet og inndampet, den andre er søtet. Begge trengs.
 - **Natten over, ikke to timer.** Dette er ikke en dessert man improviserer samme dag.
-- **Holdbarhet:** 4 døgn kjøleskap, og blir bedre dag to. Tåler ikke frysing.
+- **Holdbarhet:** 4 døgn i kjøleskap, og blir bedre dag to. Tåler ikke frysing.
 
 ---
 
@@ -23484,7 +23484,7 @@ Kald risgrøt vendt sammen med pisket krem, servert med rød saus. Norsk juledes
 - **Kremen piskes ikke stiv.** Den skal kunne vendes inn uten at du slår ut luften.
 - **Potetmelsausen må ikke koke lenge.** Gir du den mer enn et raskt oppkok, mister potetmelet bindeevnen og sausen blir tynn igjen.
 - **Mandelen i bollen** er tradisjonen. Den som får den, får marsipangrisen.
-- **Holdbarhet:** 2 døgn kjøleskap. Sausen holder 5 døgn.
+- **Holdbarhet:** 2 døgn i kjøleskap. Sausen holder 5 døgn.
 
 ---
 
@@ -23662,7 +23662,7 @@ Fem ingredienser, ingen ovn og ingen pisket krem. Fyllet er kremost, kjekssmør 
 - **Mengdene er regnet om fra amerikanske mål.** Kilden oppgir ¼ cup smør, ½ cup + 1 ss kjekssmør til fyllet, 1 cup melis og ¾ cup til toppingen, samt en form på 8 × 8 tommer. *(Omregnet.)*
 - **Vegansk variant:** kilden opplyser at både smøret og kremosten kan byttes med plantebaserte alternativer.
 - **392 kcal per porsjon** ifølge kilden, fordelt på 16 ruter.
-- **Holdbarhet:** 5 døgn kjøleskap i tett boks, 2 måneder fryser.
+- **Holdbarhet:** 5 døgn i kjøleskap i tett boks, 2 måneder i fryseren.
 - **Beslektet:** [mini-ostekaker med Biscoff (D32)](#d32-mini-ostekaker-med-biscoff) er porsjonsvarianten med luftig fyll, og [ostekake i matboks (D7)](#d7-ostekake-i-matboks), [ostekake med hvit sjokolade og bringebær (D8)](#d8-ostekake-med-hvit-sjokolade-og-bringebær) og [ostekake med rabarbra og jordbær (D12)](#d12-ostekake-med-rabarbra-og-jordbær) er andre ostekaker.
 
 ---
@@ -24872,7 +24872,7 @@ Egg pochert rett i en tykk saus av tomat, paprika og spisskummen. Alt lages i é
 - **Lokket steker eggene ovenfra.** Uten lokk stivner bunnen lenge før toppen. Følg med fra seks minutter – overgangen fra rennende til hardkokt tar under et minutt.
 - **Groper med skjeen, ikke bare slippe eggene oppå.** Egget skal ligge nede i sausen, ikke flyte på den.
 - **Fetaen kommer på til slutt.** Kokes den med, smelter den ut i sausen og forsvinner.
-- **Holdbarhet:** sausen alene holder 4 døgn kjøleskap og 3 måneder fryser. Egg pocheres i den ferske sausen hver gang – oppvarmet shakshuka med egg blir gummiaktig.
+- **Holdbarhet:** sausen alene holder 4 døgn i kjøleskap og 3 måneder i fryseren. Egg pocheres i den ferske sausen hver gang – oppvarmet shakshuka med egg blir gummiaktig.
 - **Beslektet:** [baba ganoush (T60)](#t60-baba-ganoush) og [hummus (T40)](#t40-hummus) hører til samme bord, og [za'atar (G20)](#g20-zaatar) over brødet ved siden av.
 
 ---
@@ -25043,7 +25043,7 @@ Tortillachips vendt i varm salsa til de er halvveis myke, med egg over. Meksikan
 - **Salsaen stekes før den spes.** De fem minuttene der den freser i olje er det som gir dybde. Hopper du over det, smaker retten av oppvarmet tomat.
 - **Chipotle er røkt jalapeño** og gir både røyk og styrke. Fås som tørket, i adobo på boks, eller som pasta.
 - **Grønne chilaquiles** lages med samme metode, men salsaen byttes med tomatillo, jalapeño og koriander.
-- **Holdbarhet:** salsaen 5 døgn kjøleskap. Ferdig rett spises med en gang.
+- **Holdbarhet:** salsaen 5 døgn i kjøleskap. Ferdig rett spises med en gang.
 - **Beslektet:** [pico de gallo (T20)](#t20-pico-de-gallo) og [guacamole (T47)](#t47-guacamole) hører til samme bord, og [tortillas med gresk yoghurt (G14)](#g14-tortillas-med-gresk-yoghurt) er tortillaene.
 
 ---
@@ -25084,7 +25084,7 @@ Egg, potet, ost og bacon rullet i en stor tortilla og stekt til den er sprø ute
 - **Skjøten ned i pannen først.** Varmen forsegler den, og burritoen holder seg lukket.
 - **Ikke overfyll.** Den vanligste feilen. En rull som ikke lar seg lukke, faller fra hverandre i pannen.
 - **Frysing:** pakk ferdige, avkjølte burritoer enkeltvis i folie. Fra fryser: 2 minutter i mikro, deretter 3 minutter i panne for å få sprøheten tilbake.
-- **Holdbarhet:** 2 døgn kjøleskap, 3 måneder fryser.
+- **Holdbarhet:** 2 døgn i kjøleskap, 3 måneder i fryseren.
 - **Beslektet:** [chilaquiles (F5)](#f5-chilaquiles) bruker samme spiskammer, og [braiserte kyllingtacos (nr. 122)](#122-braiserte-kyllingtacos) samme tortillaer.
 
 ---
@@ -25165,7 +25165,7 @@ Havregryn som bløtlegges kaldt i stedet for å kokes. Fem minutters arbeid kvel
 - **Chiafrøene er ikke pynt.** De trekker til seg væske og gir konsistensen. Uten dem blir blandingen rennende.
 - **Saltklypen betyr mer enn du tror.** Uten den smaker det flatt uansett hvor mye honning du har i.
 - **Havregryn, ikke havremel eller store gryn.** Lettkokte er riktig – store gryn blir seige uten koking.
-- **Holdbarhet:** 4 døgn kjøleskap. Lag hele uken på søndag i separate glass.
+- **Holdbarhet:** 4 døgn i kjøleskap. Lag hele uken på søndag i separate glass.
 - **Beslektet:** [granola (F7)](#f7-granola) er den ristede varianten, og kan strøs over.
 
 ---
@@ -25971,7 +25971,7 @@ To ingredienser: mel og sodavann. Kullsyren er det som gjør røren lett, og kon
 - **Sodavannet må være kaldt og nyåpnet.** Har flasken stått åpen, er kullsyren borte og du har i praksis brukt vann.
 - **«Som vaffelrøre» er en presis referanse.** Tynnere gir hull i belegget, tykkere gir en tung skorpe som sluker olje.
 - **Rør så lite som mulig.** Gluten gjør røren seig, og en seig tempurarøre blir hard og ikke sprø.
-- **Beslektet:** [karaage (nr. 86)](#86-karaage--japansk-friturstekt-kylling) og [jalapeño-poppers (S32)](#s32-jalapeño-poppers) bruker beslektede røre- og panerteknikker.
+- **Beslektet:** [karaage (nr. 86)](#86-karaage--japansk-frityrstekt-kylling) og [jalapeño-poppers (S32)](#s32-jalapeño-poppers) bruker beslektede røre- og panerteknikker.
 
 ---
 
@@ -26269,7 +26269,7 @@ Japansk grunnbuljong av tang og tørket bonitt. Den koker aldri, tar en halvtime
 - **Andregangs dashi (niban dashi)** lages av den samme kombuen og flakene, kokt i 10 minutter i ny liter vann. Den er svakere og brukes til å koke grønnsaker eller til miso.
 - **Dashipulver er et fullgodt hverdagsalternativ.** Flere av oppskriftene i samlingen bruker det. Forskjellen merkes tydeligst i en klar suppe, minst i en kraftig ramen.
 - **Kombu og katsuobushi fås** i asiatiske butikker og i de større dagligvarekjedene.
-- **Holdbarhet:** 3 døgn kjøleskap, 3 måneder fryser. Best samme dag – aromaen er flyktig.
+- **Holdbarhet:** 3 døgn i kjøleskap, 3 måneder i fryseren. Best samme dag – aromaen er flyktig.
 - **Brukes i** [misosuppe (nr. 6)](#6-misosuppe), [shio-ramen (nr. 21)](#21-shio-ramen) og [ramenegg (ajitama) (T8)](#t8-ramenegg-ajitama).
 
 ---
@@ -26310,7 +26310,7 @@ Grunnlaget for de fleste suppene i samlingen. Skrogene trekker i vann med rotgr�
 - **Salt hører ikke hjemme her.** Kraften kokes ofte inn senere i en rett, og salter du nå, ender du med noe uspiselig når den reduseres. Salt til slutt, i retten.
 - **Skrog fås billig hos slakteren,** og vinger gir mest gelatin per krone. Har du stekt en kylling, går skroget rett i fryseren til neste gang.
 - **Frys i porsjoner på 5 dl.** Da har du én ramen eller én suppe per pose. Isbitbrett fungerer for de små mengdene du trenger i en saus.
-- **Holdbarhet:** 4 døgn kjøleskap, 6 måneder fryser.
+- **Holdbarhet:** 4 døgn i kjøleskap, 6 måneder i fryseren.
 - **Brukes i** [kremet krydret miso-ramen (nr. 1)](#1-kremet-krydret-miso-ramen-med-kylling), [klassisk shoyu-ramen (nr. 20)](#20-klassisk-shoyu-ramen) og de fleste suppene i samlingen.
 
 ---
@@ -26584,12 +26584,12 @@ Kraft på grønnsaker alene. Den koker langt kortere enn kjøttkraft, fordi grø
 - **Sopp gir umami.** Uten den smaker grønnsakskraft tynt. Soppstilker du ellers ville kastet, er perfekte her.
 - **Ikke bruk kål, brokkoli eller rosenkål.** De gir en svovelaktig smak som overdøver alt annet.
 - **Ikke salt.** Samme grunn som i [kyllingkraften (G22)](#g22-kyllingkraft) – kraften kokes ofte inn senere.
-- **Holdbarhet:** 4 døgn kjøleskap, 6 måneder fryser.
+- **Holdbarhet:** 4 døgn i kjøleskap, 6 måneder i fryseren.
 - **Beslektet:** [kyllingkraft (G22)](#g22-kyllingkraft) er kjøttvarianten, og [dashi (G21)](#g21-dashi) er den japanske.
 
 ---
 
-## G31. Hellstrøms grønnsakkraft
+## G31. Hellstrøms grønnsakskraft
 
 **Kilde:** Eyvind Hellstrøm, *Grunnboka* (Cappelen Damm, 2025) · **Kjøkken:** Vestlig · **Tid:** 1–2 timer · **Gir:** ca. 2 liter *(ikke oppgitt i kilden)*
 
@@ -26650,7 +26650,7 @@ Enkle, tynne hvetepannekaker laget med bare tre ingredienser. Den klassiske føl
 - **Kilden hopper over trinn 5 i sin egen nummerering** (går fra trinn 4 rett til trinn 6). Det mangler trolig et kort hviletrinn for de sammenlagte lappene før kjevling – vanlig praksis for denne teknikken er å la dem hvile 10–15 minutter tildekket, slik at gluten slapper av og pannekakene blir lettere å kjevle tynt. *(Flagget – ikke oppgitt i kilden.)*
 - **Teknikken med to og to sammenlagte lapper** (oljede sider mot hverandre) er det som gir den karakteristiske myke, todelte teksturen: hver «pannekake» skilles i to tynne lag rett etter steking.
 - **Kilden bruker denne pannekaketypen også som tortilla** til tacos og enchiladas, ikke bare til asiatiske retter som pekingand.
-- **Oppbevaring:** hold ferdige pannekaker varme og fuktige i et fuktig kjøkkenhåndkle eller under plastfolie til servering, ellers tørker de raskt ut og sprekker når de brettes.
+- **Oppbevaring:** hold ferdige pannekaker varme og myke i et fuktig kjøkkenhåndkle eller under plastfolie til servering, ellers tørker de raskt ut og sprekker når de brettes.
 
 
 ---
