@@ -1,6 +1,6 @@
 # Oppskriftssamling
 
-Sist oppdatert: 28. oktober 2026 · **574 oppskrifter** · 194 hovedretter, 80 tilbehør, 68 saus/marinade, 61 supper, 43 småretter, 35 desserter, 32 grunnoppskrifter, 25 salater, 31 sjømat, 17 frokost, 13 brød, 7 bakverk
+Sist oppdatert: 28. oktober 2026 · **575 oppskrifter** · 195 hovedretter, 80 tilbehør, 68 saus/marinade, 61 supper, 43 småretter, 35 desserter, 32 grunnoppskrifter, 25 salater, 31 sjømat, 17 frokost, 13 brød, 7 bakverk
 
 ## Innhold
 
@@ -66,6 +66,7 @@ Sist oppdatert: 28. oktober 2026 · **574 oppskrifter** · 194 hovedretter, 80 t
 | SJ10 | [Amok – kambodsjansk fiskekarri](#sj10-amok--kambodsjansk-fiskekarri) | Sjømat | Kambodsjansk | 45 min | 4 |
 | B2 | [Gochujang chocolate chip cookies](#b2-gochujang-chocolate-chip-cookies) | Bakverk | Koreansk-amerikansk fusjon | 55 min + hviletid | 24 stk |
 | 50 | [Samgyeopsal – koreansk grillet svinesideflesk med kimchiris](#50-samgyeopsal--koreansk-grillet-svinesideflesk-med-kimchiris) | Hovedrett | Koreansk | ca. 30 min | 2–3 |
+| 225 | [Langtidsstekt svinenakke med glaze og ingefær- og vårløkdipp](#225-langtidsstekt-svinenakke-med-glaze-og-ingefær--og-vårløkdipp) | Hovedrett | Koreansk-amerikansk fusjon | ca. 5½ t + salting | 6–8 |
 | 53 | [Koreansk kyllingburger](#53-koreansk-kyllingburger) | Hovedrett | Koreansk-inspirert | ca. 40 min | 4 burgere |
 | 57 | [Korean fried chicken](#57-korean-fried-chicken) | Hovedrett | Koreansk | 1 t 20 min | 4 |
 | 58 | [Korean BBQ Lamb](#58-korean-bbq-lamb) | Hovedrett | Koreansk-inspirert | 15 min + 2–24 t marinering | 2–4 |
@@ -12041,6 +12042,69 @@ Fire gule løk og et helt hvitløkshode karamelliseres i ovnen i tre kvarter, mo
 - **Salt forsiktig.** Feta, soyasaus og hoisin er alle salte. Smak til helt til slutt.
 - **Biffstrimler** fås ferdig skåret i de fleste butikker. Svinestrimler eller kyllingstrimler fungerer like godt.
 - **Beslektet:** [pasta med hvitløkssmør (nr. 204)](#204-pasta-med-hvitløkssmør) er en annen enkel hverdagspasta, og [terte med geitost og karamellisert løk (S23)](#s23-terte-med-geitost-og-karamellisert-løk) bruker samme smak. Samme forfatter står bak [spicy peanøtt-ramen med crispy kjøttdeig (nr. 223)](#223-spicy-peanøtt-ramen-med-crispy-kjøttdeig) og [marry me chicken-suppe med gnocchi (SU35)](#su35-marry-me-chicken-suppe-med-gnocchi--ragne-tremoen-sin-versjon).
+
+---
+
+## 225. Langtidsstekt svinenakke med glaze og ingefær- og vårløkdipp
+
+**Kilde:** @fysenpaa (TikTok, 813 likes, 13. september 2026) · **Kjøkken:** Koreansk-amerikansk fusjon · **Tid:** ca. 5½ t + minst 6 timer i kjøleskap · **Porsjoner:** 6–8 *(ikke oppgitt i kilden)*
+
+Svinenakke tørrsaltet med salt og sukker over natten, stekt mør under folie i fire–fem timer og glasert blank og sprø på høy varme til slutt. Kjøttet rives og serveres med tynne mandarin-pannekaker og en dipp av ingefær og vårløk skåldet med varm olje – i samme ånd som Momofukus *bo ssäm*.
+
+### Ingredienser
+
+**Svinenakken**
+- 2 kg svinenakke uten bein
+- 4 ss sukker
+- 4 ss flaksalt, pluss litt til servering
+- 2–3 ss vann
+
+**Glaze**
+- 4 ss brunt sukker
+- 2 ss honning
+- 1 dl stekesjy fra formen, pluss litt til servering
+
+**Ingefær- og vårløkdipp**
+- 6 vårløk, finhakket
+- 4 ss revet fersk ingefær
+- 1,2 dl nøytral olje *(Omregnet fra 8 ss.)*
+- 2 ts soyasaus
+- 2 ts riseddik eller hvitvinseddik
+- Salt
+
+**Til servering**
+- 12 [mandarin-pannekaker (G32)](#g32-mandarin-pannekaker--asiatiske-3-ingrediens-pannekaker)
+
+### Fremgangsmåte
+
+**Svinenakken**
+
+1. **Tørrsalt kjøttet.** Bland sukker og salt og gni det godt inn i hele svinenakken. Dekk til og sett i kjøleskapet i **minst 6 timer**, gjerne over natten.
+2. **Forvarm ovnen til 150 °C**, og ta kjøttet ut **30 minutter** før steking. Tørk lett av overflødig væske, men la saltet og sukkeret sitte.
+3. **Stek under folie.** Legg kjøttet i en form med 2–3 ss vann i bunnen, dekk med aluminiumsfolie og stek midt i ovnen i **4–5 timer**, til kjøttet er mørt nok til å rives med en gaffel. Øs gjerne litt av kraften over underveis, og fjern folien den siste halvtimen så overflaten får farge.
+4. **Glaser.** Ta ut kjøttet og skru ovnen opp til **250 °C**. Kok brunt sukker, honning og 1 dl stekesjy til en tykk glaze, og pensle den over kjøttet. Stek videre i **8–10 minutter**, til skorpen er blank og sprø.
+5. **Server.** Strø over litt flaksalt, riv kjøttet og hell over litt ekstra stekesjy.
+
+**Ingefær- og vårløkdippen**
+
+6. **Ha vårløk og ingefær i en varmebestandig skål** sammen med soyasaus og riseddik.
+7. **Varm oljen til ca. 180 °C** og hell den over. Det skal frese. Rør rundt og smak til med salt.
+
+**Pannekakene**
+
+8. **Lag mandarin-pannekakene** etter [G32](#g32-mandarin-pannekaker--asiatiske-3-ingrediens-pannekaker) mens kjøttet står i ovnen – kilden bruker nøyaktig den oppskriften.
+
+### Notater
+
+- **Tørrsaltingen er hele hemmeligheten.** Salt og sukker trekker inn i kjøttet over natten, krydrer det hele veien gjennom og gir en skorpe som karamelliserer i glazen. Seks timer er minimum.
+- **Mørt nok til å rives** betyr en kjernetemperatur på **90–95 °C**. Ved 70 °C er nakken stekt, men fortsatt seig – det er bindevevet som må smelte, og det tar tid. *(Lagt til.)*
+- **Svinenakke er riktig stykke.** Den er marmorert og tåler lang steking uten å bli tørr. Indrefilet eller kam blir tørr.
+- **Stekesjyen kommer fra formen.** Hell den av etter punkt 3 og skum av fettet. Den er salt og kraftig – bruk den både i glazen og over det revne kjøttet.
+- **Følg med på glazen.** Sukker og honning på 250 °C går fra blank til brent på få minutter.
+- **Oljen til dippen skal være varm, ikke røykende.** Rundt 180 °C får vårløk og ingefær til å frese og slippe aromaen; varmere svir den dem. Bruk en skål som tåler varmen.
+- **Kilden nevner også «gullsmøret»** sitt som tilbehør. Den oppskriften er ikke med her.
+- **Samme stil som Momofukus bo ssäm**, der langtidsstekt svinenakke rives og spises i salatblader eller pannekaker med sterke, friske dipper. Salatblader av hjertesalat er et godt alternativ til pannekakene. *(Bakgrunn lagt til.)*
+- **Beslektet:** [gua bao med braisert svinesideflesk (S35)](#s35-gua-bao--braisert-svinesideflesk) serverer svin i bao på samme måte, og [hoisinsvin med chilimajones (nr. 108)](#108-hoisinsvin-med-chilimajones) er en raskere svinerett med søt glaze.
 
 ---
 
@@ -26859,6 +26923,7 @@ Enkle, tynne hvetepannekaker laget med bare tre ingredienser. Den klassiske føl
 
 - **Kilden hopper over trinn 5 i sin egen nummerering** (går fra trinn 4 rett til trinn 6). Det mangler trolig et kort hviletrinn for de sammenlagte lappene før kjevling – vanlig praksis for denne teknikken er å la dem hvile 10–15 minutter tildekket, slik at gluten slapper av og pannekakene blir lettere å kjevle tynt. *(Flagget – ikke oppgitt i kilden.)*
 - **Teknikken med to og to sammenlagte lapper** (oljede sider mot hverandre) er det som gir den karakteristiske myke, todelte teksturen: hver «pannekake» skilles i to tynne lag rett etter steking.
+- **Brukes til** [langtidsstekt svinenakke med glaze (nr. 225)](#225-langtidsstekt-svinenakke-med-glaze-og-ingefær--og-vårløkdipp), fra samme kilde.
 - **Kilden bruker denne pannekaketypen også som tortilla** til tacos og enchiladas, ikke bare til asiatiske retter som pekingand.
 - **Oppbevaring:** hold ferdige pannekaker varme og myke i et fuktig kjøkkenhåndkle eller under plastfolie til servering, ellers tørker de raskt ut og sprekker når de brettes.
 
