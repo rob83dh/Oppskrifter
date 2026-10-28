@@ -1,6 +1,6 @@
 # Oppskriftssamling
 
-Sist oppdatert: 28. oktober 2026 · **573 oppskrifter** · 194 hovedretter, 79 tilbehør, 68 saus/marinade, 61 supper, 43 småretter, 35 desserter, 32 grunnoppskrifter, 25 salater, 31 sjømat, 17 frokost, 13 brød, 7 bakverk
+Sist oppdatert: 28. oktober 2026 · **574 oppskrifter** · 194 hovedretter, 80 tilbehør, 68 saus/marinade, 61 supper, 43 småretter, 35 desserter, 32 grunnoppskrifter, 25 salater, 31 sjømat, 17 frokost, 13 brød, 7 bakverk
 
 ## Innhold
 
@@ -374,6 +374,7 @@ Sist oppdatert: 28. oktober 2026 · **573 oppskrifter** · 194 hovedretter, 79 t
 | 218 | [Entrecôte med umamisaus og pommes frites](#218-entrecôte-med-umamisaus-og-pommes-frites) | Hovedrett | Norsk-japansk fusjon | ca. 1 t 20 min | 2 |
 | 224 | [Kremet pasta med ovnskaramellisert løk og biffstrimler](#224-kremet-pasta-med-ovnskaramellisert-løk-og-biffstrimler) | Hovedrett | Vestlig | ca. 1 t | 2 |
 | SJ20 | [Hamachi med mango-, appelsin- og chilidressing](#sj20-hamachi-med-mango--appelsin--og-chilidressing) | Sjømat | Dansk | ca. 15 min | forrett til 2 |
+| T146 | [Hvitløksbrød med persille, chili og havarti](#t146-hvitløksbrød-med-persille-chili-og-havarti) | Tilbehør | Dansk | ca. 20 min | 4 |
 | 112 | [Hvitløks- og urtekylling med ovnsbakte gulrøtter og potetmos](#112-hvitløks--og-urtekylling-med-ovnsbakte-gulrøtter-og-potetmos) | Hovedrett | Amerikansk | ca. 40 min | 4 |
 | 113 | [Braisert oksehale med mac and cheese, søtpotet og grønnkål](#113-braisert-oksehale-med-mac-and-cheese-søtpotet-og-grønnkål) | Hovedrett | Amerikansk | ca. 3½ t | 4 |
 | 114 | [Proteinrik pizza med yoghurtbunn](#114-proteinrik-pizza-med-yoghurtbunn) | Hovedrett | Amerikansk | ca. 30 min | 4 |
@@ -16940,6 +16941,7 @@ Hvitløksbrød der smøret er satt med achar masala – den indiske krydderbland
 - **Honningen er ikke en fjollete detalj.** Sødme mot salt og syrlig krydder er samme prinsipp som hot honey på pizza – den binder achar-krydderet og osten sammen. Prøv den før du avfeier den.
 - **Smøret rekker til langt mer enn én baguette.** 200 g smør pluss to hvitløkshoder gir rundt 300 g. Rull resten i plastfolie som en pølse og frys – det holder flere måneder og er utmerket på biff, poteter eller i pasta. *(Lagt til.)*
 - **Ovnsbak hvitløken i god tid.** De 45 minuttene pluss avkjøling er mesteparten av tiden i oppskriften. Bak gjerne flere hoder samtidig når ovnen først er på.
+- **Sammenlign med** [hvitløksbrød med persille, chili og havarti (T146)](#t146-hvitløksbrød-med-persille-chili-og-havarti), den klassiske grønne varianten.
 - **Bak baguetten selv:** se [ciabattabaguette uten elting (B9)](#b9-ciabattabaguette-uten-elting), [enkle baguetter (B11)](#b11-enkle-baguetter) eller [baguetter med damp (B12)](#b12-baguetter-med-damp).
 - **Beslektet:** [hasselbackpoteter med hvitløkssmør (T51)](#t51-hasselbackpoteter-med-hvitløkssmør) bruker et lignende hvitløkssmør, og persillepastaen i [puttanesca-torsk med hvitløksbrød (SJ14)](#sj14-puttanesca-torsk-med-hvitløksbrød) er den enkle varianten av samme idé.
 
@@ -19941,6 +19943,46 @@ Populært kalt «cowboy candy» i USA – jalapeñoskiver trukket i en krydret s
 - **Næringsinnhold per porsjon (av 12):** 80 kcal, 19 g karbohydrater, 18 g sukker, 1 g fiber.
 
 
+
+---
+
+## T146. Hvitløksbrød med persille, chili og havarti
+
+**Kilde:** Albert Korvell / @albertkorvell (TikTok, annonse for Castello, 11 800 likes, 29. september 2026) · **Kjøkken:** Dansk · **Tid:** ca. 20 min *(45 min med konfitert hvitløk)* · **Porsjoner:** 4 som tilbehør
+
+Grønt hvitløkssmør blendet med persille og en grønn chili, smurt rikelig på en baguette delt på langs og dekket med revet lagret havarti. Ti minutter i ovnen, og brødet er sprøtt i kantene med smeltet, gyllen ost på toppen.
+
+### Ingredienser
+
+**Hvitløkssmør**
+- 200 g mykt smør
+- 4–5 hvitløksfedd, ferske eller konfiterte *(se notat)*
+- 1 grønn chili
+- 1 bunt bladpersille, pluss litt til servering
+- Salt
+
+**Brødet**
+- 1 baguette eller fransk loff fra bakeren
+- Ca. 150 g lagret havarti, revet *(mengde lagt til – kilden sier «masse»)*
+
+### Fremgangsmåte
+
+1. **Sett ovnen på 200 °C.**
+2. **Lag hvitløkssmøret.** Kjør smør, hvitløk, chili og persille i en blender eller foodprosessor til smøret er jevnt og grønt. Smak til med salt.
+3. **Del brødet** på langs og smør begge halvdelene rikelig med hvitløkssmøret.
+4. **Riv osten** over i et tykt lag.
+5. **Stek i ca. 10 minutter**, til osten er smeltet og gyllen og brødet sprøtt i kantene.
+6. **Strø over persille**, skjær i stykker og server varmt.
+
+### Notater
+
+- **Konfitert eller fersk hvitløk.** Kilden bruker konfitert: dekk de skrelte feddene med olivenolje og bak dem i **30 minutter på 180 °C**. Det gir et mildt, søtt smør. Fersk hvitløk gir et skarpere og mer klassisk hvitløksbrød. For en skånsommere, langsommere metode, se [konfitert hvitløk (T132)](#t132-konfitert-hvitløk).
+- **Smøret må være mykt**, ellers blander det seg ikke med persillen og blir klumpete i blenderen.
+- **Chilien gir varme, ikke styrke.** Fjern frøene hvis du vil ha den mild.
+- **Lagret havarti** er kildens ost og gir en kraftig, nøtteaktig smak. Norvegia, Jarlsberg eller en lagret gouda fungerer også.
+- **Smøret blir til overs.** 200 g er mer enn én baguette trenger. Rull resten i plastfolie og frys det – det holder seg i flere måneder og er godt på biff, poteter og grillet fisk. *(Lagt til.)*
+- **Sponset innhold:** videoen er en annonse for Castello.
+- **Beslektet:** [achari hvitløksbrød med mozzarella og honning (T59)](#t59-achari-hvitløksbrød-med-mozzarella-og-honning) er den krydrede indiske varianten, og [puttanesca-torsk med hvitløksbrød (SJ14)](#sj14-puttanesca-torsk-med-hvitløksbrød) serverer hvitløksbrød til fisk.
 
 ---
 
