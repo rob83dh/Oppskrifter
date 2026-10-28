@@ -2343,7 +2343,7 @@ Stekt kyllinglår glasert i teriyakisaus, servert over varm ris med sesamfrø og
 - **Maisennaen ligger i sausblandingen fra start.** Rør om rett før du heller den i pannen — den legger seg i bunnen av bollen mens den står.
 - **«1 garlic» i kilden er uklart.** Bildet viser en hel hvitløk, men mengden gir bare mening som ett fedd. Ett fedd er ført opp her.
 - **Dette er en illustrert karusell, ikke en gjennomtestet oppskrift.** Forholdene er fornuftige, men mangelen på tider, temperaturer og mirinmengde tyder på at den ikke er skrevet av noen som har målt seg gjennom den. Bruk den som utgangspunkt, smak underveis.
-- Samlingens andre teriyakikylling er [nr. 54](#54-teriyakikylling--genius-eats-sin-versjon), som har både sake i sausen og fullstendige tider og temperaturer. Beslektet med [char siu-kylling](#35-char-siu-kylling) i metode: brun kyllingen først, kok sausen inn til glasur i samme panne.
+- **Sammenlign med** [teriyakikylling – Genius Eats sin versjon (nr. 54)](#54-teriyakikylling--genius-eats-sin-versjon), som har både sake i sausen og fullstendige tider og temperaturer. Beslektet med [char siu-kylling](#35-char-siu-kylling) i metode: brun kyllingen først, kok sausen inn til glasur i samme panne.
 
 ---
 
@@ -2670,7 +2670,7 @@ Fiskebiter posjert i kokosmelk med en frisk karripasta laget fra bunnen av hvitl
 - **Gurkemeie farger av** på både fingre og lyse skjærebrett.
 - **Sprøstekt løk** finnes i asiatiske butikker. Ristet løk fra dagligvaren er ikke det samme, men fungerer i nøden.
 - **Tidsangivelse mangler i kilden.** Regn 10 minutter på pastaen og et kvarter på selve karrien.
-- Samlingens andre kokoskarri med laks er [nr. 51](#51-mango--og-kokoskarri-med-laks), som er thai-inspirert med mango og sitrongress. Se også [rekelaksa](#19-rekelaksa) og [sjømat-ramen](#24-sjømat-ramen).
+- **Sammenlign med** [mango- og kokoskarri med laks (nr. 51)](#51-mango--og-kokoskarri-med-laks), som er thai-inspirert med mango og sitrongress. Se også [rekelaksa](#19-rekelaksa) og [sjømat-ramen](#24-sjømat-ramen).
 
 ---
 
@@ -2772,7 +2772,7 @@ Kremet nudelbolle bygget på eggeplomme, japansk majones og krydderpakken fra nu
 - **Japansk majones (Kewpie) er ikke det samme som norsk.** Den er lagd på bare eggeplommer og har riseddik i, noe som gir mer syre og umami. Finnes i asiatiske butikker. Vanlig majones fungerer, men blir flatere.
 - **Stek kyllingen med skinnsiden ned først** og la den ligge i fred til skinnet slipper av seg selv. Marinaden inneholder sukker, så pensle først mot slutten — ellers svir det seg.
 - **Chili crisp og sesamolje til slutt**, aldri i varmen.
-- Samlingens andre ramen med kylling. Se også [nr. 1](#1-kremet-krydret-miso-ramen-med-kylling), som er en ekte suppevariant med miso.
+- **Se også** [kremet krydret miso-ramen (nr. 1)](#1-kremet-krydret-miso-ramen-med-kylling), som er en ekte suppevariant med miso.
 
 ---
 
@@ -2816,7 +2816,7 @@ Tykke udonnudler i en japansk karrikraft laget på ferdige karriterninger og das
 - **Kyllingbryst blir fort tørt.** Punkt 3 sier bevisst «halvveis gjennomstekt» — resten skjer i kraften. Følg det, ellers er kyllingen overstekt før nudlene er ferdige.
 - **Kjernetemperatur 74 °C.**
 - **Innkjøp:** Golden Curry og dashipulver (hondashi) finnes i asiatiske butikker, og karriterningene av og til i større dagligvarebutikker. Fersk eller frossen udon er bedre enn den vakuumpakkede holdbare typen.
-- Samlingens tredje udonrett. Se også [kremet soppudon](#36-kremet-soppudon) og [dumplings i spicy peanøtt-udonsuppe](#11-dumplings-i-spicy-peanøtt-udonsuppe).
+- **Andre udonretter:** [kremet soppudon (nr. 36)](#36-kremet-soppudon) og [dumplings i spicy peanøtt-udonsuppe (nr. 11)](#11-dumplings-i-spicy-peanøtt-udonsuppe).
 
 ---
 
@@ -2861,7 +2861,7 @@ Sideflesk i store terninger, braisert langsomt i sake, soya og dashi til kjøtte
 - **Sake kan byttes med tørr sherry.** Dashi inneholder fisk, så retten er ikke vegetarisk.
 - **Porsjoner er ikke oppgitt.** 450 g sideflesk er 2–3 porsjoner som hovedrett over ris, flere hvis det inngår i et større måltid.
 - **Serveres tradisjonelt med bløtkokt egg** som har trukket i kraften, og med en klatt japansk karashi-sennep ved siden av. [Ramenegg](#t8-ramenegg-ajitama) passer rett inn her.
-- Samlingens andre rett på svinesideflesk, men med motsatt teknikk av [siu yuk](#42-sprøstekt-svinesideflesk-siu-yuk): der tørr svor og høy varme, her fuktig braisering på lav.
+- **Motsatt teknikk av** [siu yuk (nr. 42)](#42-sprøstekt-svinesideflesk-siu-yuk): der tørr svor og høy varme, her fuktig braisering på lav.
 
 ---
 
@@ -2905,7 +2905,7 @@ Sideflesk i skiver stekes i panna, spises som ssam i salatblader med hvitløk og
 - **Perillablader (kkaennip)** finnes i koreanske og større asiatiske butikker, ofte frosne eller på glass. Salatblader alene fungerer fint.
 - **Tangpulver (gimgaru)** er malt nori og selges ferdig. Har du ikke det, kan du knuse noriark i en pose.
 - **Sesamolje helt til slutt**, etter at panna er tatt av varmen. Den tåler ikke steking.
-- Samlingens tredje rett på svinesideflesk, men den enkleste. Se også [siu yuk](#42-sprøstekt-svinesideflesk-siu-yuk) og [buta no kakuni](#49-buta-no-kakuni--japansk-braisert-svinesideflesk).
+- **Den enkleste av sideflesk-rettene.** Se også [siu yuk (nr. 42)](#42-sprøstekt-svinesideflesk-siu-yuk) og [buta no kakuni (nr. 49)](#49-buta-no-kakuni--japansk-braisert-svinesideflesk).
 
 ---
 
@@ -2966,7 +2966,7 @@ Stekt laks over jasminris med en silkeglatt karrisaus der mango er most inn i ko
 - **Kilden bruker «monk fruit» som alternativ til sukker.** Det er en sukkererstatter som knapt selges i Norge — bruk vanlig sukker.
 - **Pandanblad i riskokeren** er valgfritt, men gir jasminrisen en tydelig vaniljeaktig duft. Finnes frosne i asiatiske butikker.
 - **Ingen tid er oppgitt i kilden.** Marineringen er 2 timer eller over natten, selve tilberedningen tar rundt en halvtime.
-- Samlingens andre kokoskarri med laks. Se også [kokoskarri med laks](#44-kokoskarri-med-laks), som er indisk-inspirert med sennepsfrø og gurkemeie i stedet for mango og sitrongress.
+- **Sammenlign med** [kokoskarri med laks (nr. 44)](#44-kokoskarri-med-laks), som er indisk-inspirert med sennepsfrø og gurkemeie i stedet for mango og sitrongress.
 
 ---
 
@@ -3125,7 +3125,7 @@ Kyllinglår i terninger, brunet og vendt i en teriyakisaus som tyknes ved innkok
 - **Porsjonsantall er ikke oppgitt.** 500 g kylling er 3–4 porsjoner servert over ris.
 - **Kjernetemperatur 74 °C.**
 - **Kyllinglår framfor bryst** er et bevisst valg her — låret tåler den kraftige innkokingen uten å bli tørt.
-- Samlingens andre teriyakikylling. [Nr. 38](#38-teriyakikylling-med-ris--cozy-nom-studio-sin-versjon) bruker hele lår med skinn og tyknes med maisenna, men mangler sake og oppgir hverken tider eller temperaturer. Denne er den mer komplette av de to.
+- **Sammenlign med** [teriyakikylling med ris – Cozy Nom Studio sin versjon (nr. 38)](#38-teriyakikylling-med-ris--cozy-nom-studio-sin-versjon), som bruker hele lår med skinn og tyknes med maisenna, men mangler sake og oppgir verken tider eller temperaturer. Denne er den mer komplette av de to.
 
 ---
 
@@ -3221,7 +3221,7 @@ Japansk karri av ferdige karriterninger, med løk, potet og gulrot, servert ved 
 - **Retten er kaloririk** — kilden oppgir 945 kcal per porsjon og anbefaler tørt å spise grønnsaker resten av dagen.
 - **Karrien kan lages på forhånd:** noen dager i kjøleskap, en måned i fryseren. **Ikke frys den med potet i** — potetene blir svampete etter tining. Spe med vann ved oppvarming, siden sausen tykner når den er kald.
 - **Innkjøp:** japanske karriterninger finnes i asiatiske butikker. Fukujinzuke, den røde syltede grønnsaksblandingen, er vanskeligere å oppdrive og er valgfri.
-- Samlingens andre rett på japanske karriterninger. Se også [japansk karri-udon med kylling](#48-japansk-karri-udon-med-kylling), som bruker samme type blokk i en tynnere nudelkraft.
+- **Se også** [japansk karri-udon med kylling (nr. 48)](#48-japansk-karri-udon-med-kylling), som bruker samme type blokk i en tynnere nudelkraft.
 
 ---
 
@@ -3296,7 +3296,7 @@ Kyllingindrefilet i tredelt panering, frityrstekt to ganger og vendt i en søtst
 - **2 liter olje er mye.** Bruk en gryte med høye kanter, fyll den maks til en tredjedel, og sil oljen gjennom kaffefilter når den er avkjølt hvis du vil bruke den om igjen.
 - **Holdbarhet:** 3–4 dager i kjøleskap, men sprøheten forsvinner. Varm opp i airfryer på 175 °C i 6–8 minutter, eller i ovn på 190 °C på rist i 10 minutter.
 - **Riseddik kan byttes** med eplecidereddik.
-- Samlingens fjerde koreanske kyllingrett. Se også [koreansk popcorn-kylling](#3-koreansk-popcorn-kylling), [ovnsstekt koreansk kylling](#29-ovnsstekt-koreansk-kylling) og [koreansk kyllingburger](#53-koreansk-kyllingburger). Denne er den eneste med dobbelsteking i frityr.
+- **Andre koreanske kyllingretter:** [koreansk popcorn-kylling (nr. 3)](#3-koreansk-popcorn-kylling), [ovnsstekt koreansk kylling (nr. 29)](#29-ovnsstekt-koreansk-kylling) og [koreansk kyllingburger (nr. 53)](#53-koreansk-kyllingburger). Denne er den eneste med dobbelsteking i frityr.
 
 ---
 
@@ -3455,7 +3455,7 @@ Små kjøttboller der brød, løk og persille kjøres til en pasta i foodprosess
 - **Bruk innmaten av brødet**, ikke skorpen, og la det gjerne være litt tørt. 80 g brødkrumme er mye i volum.
 - **Kjernetemperatur 70–75 °C** for kvernet storfekjøtt, men med boller på ni gram som trekker 10–20 minutter i saus, er det ikke noe problem.
 - **Forfatteren serverer dette med tagliatelle ruvida.** Du har begge delene i samlingen: [grunndeigen](#g1-master-pasta-dough--grunndeig-til-fersk-eggpasta) og [pasta ruvida](#g2-pasta-ruvida--teksturert-eggpasta).
-- Samlingens andre kjøttbollerett. Se også [krydrede lammekjøttboller](#59-krydrede-lammekjøttboller-med-agurk--og-yoghurtsaus), som er østlig middelhav med griljermel og yoghurtsaus i stedet.
+- **Se også** [krydrede lammekjøttboller (nr. 59)](#59-krydrede-lammekjøttboller-med-agurk--og-yoghurtsaus), som er østlig middelhav med griljermel og yoghurtsaus i stedet.
 
 ---
 
@@ -3502,7 +3502,7 @@ Kremet tomatpasta der 'nduja gjør hele jobben — den smelter ut i olje og gir 
 - **Ricottaen skal ikke røres inn.** Den legges som kalde klatter oppå den varme pastaen, og kontrasten mot varmen fra 'nduja er hele poenget.
 - **Rørformet pasta er valgt med vilje.** Rigatoni og penne fanger den kremete sausen inni røret. Lange former fungerer dårligere her.
 - **Kilden er svensk.** «Grädde» er oversatt til fløte og «passerade tomater» til passata.
-- Samlingens andre italienske hovedrett. Se også [oksekjøttboller i tomatsaus](#60-oksekjøttboller-i-tomatsaus).
+- **Se også** [oksekjøttboller i tomatsaus (nr. 60)](#60-oksekjøttboller-i-tomatsaus).
 
 ---
 
@@ -3546,7 +3546,7 @@ Romersk klassiker av bare tre ting: pasta, pecorino romano og sort pepper. Kreme
 - **Spaghettone quadrato** er tykk, firkantet spaghetti. Vanlig spaghetti eller tonnarelli fungerer fint — det viktige er en form med nok overflate.
 - **Mengden er én porsjon.** 125 g pasta og 75 g ost dobles rett opp.
 - **Pecorino romano** finnes i ostedisken hos større dagligvarebutikker og i italienske butikker. Parmesan er ikke det samme — pecorino er sauemelksost, skarpere og saltere, og det er den syrligheten retten bygger på.
-- Samlingens tredje italienske hovedrett. Se også [ndujapasta](#61-ndujapasta) og [oksekjøttboller i tomatsaus](#60-oksekjøttboller-i-tomatsaus).
+- **Se også** [ndujapasta (nr. 61)](#61-ndujapasta) og [oksekjøttboller i tomatsaus (nr. 60)](#60-oksekjøttboller-i-tomatsaus).
 
 ---
 
@@ -3631,7 +3631,7 @@ Kremet soppasta med bacon, sjalottløk og hvitvin. Sopp og bacon stekes til all 
 - **Ikke salt før du har smakt.** Bacon og parmesan er begge salte, og fløten koker inn og konsentrerer det ytterligere.
 - **Boscaiola betyr «skogshoggerens»** og viser til soppen. Tradisjonelt brukes pancetta framfor bacon — røyksmaken i norsk bacon gir en litt annen rett, men fungerer fint.
 - **Ta vare på litt pastavann.** *(Ikke nevnt i kilden.)* Sausen er fløtebasert og trenger det sjelden, men en skvett løser den opp igjen hvis den blir for tykk etter at parmesanen er i.
-- Samlingen har to andre kremete soppretter: [kremet soppkylling](#33-kremet-soppkylling) og [kremet soppudon](#36-kremet-soppudon). Alle tre står og faller på det samme steget — å brune soppen skikkelig før væsken går i.
+- **Andre kremete soppretter:** [kremet soppkylling (nr. 33)](#33-kremet-soppkylling) og [kremet soppudon (nr. 36)](#36-kremet-soppudon). Alle tre står og faller på det samme steget — å brune soppen skikkelig før væsken går i.
 
 ---
 
@@ -3690,7 +3690,7 @@ Oksekjøtt i store terninger brunes hardt, surrer i to og en halv time i tomat o
 - **Retten blir bedre dagen etter** og fryser godt. *(Ikke nevnt i kilden.)* Lag gjerne dobbel porsjon — arbeidet er det samme.
 - **Porsjonsantall er ikke oppgitt.** 1 kg kjøtt og 500 g pasta gir rundt 6 porsjoner.
 - **Ingen kjernetemperatur her.** Kjøttet er ferdig når det faller fra hverandre under skjeen, ikke ved et bestemt tall. Er det seigt etter 2½ time, trenger det mer tid, ikke mer varme.
-- Samlingens femte italienske hovedrett. Se også [oksekjøttboller i tomatsaus](#60-oksekjøttboller-i-tomatsaus), som bruker samme type tomatbase på kortere tid.
+- **Se også** [oksekjøttboller i tomatsaus (nr. 60)](#60-oksekjøttboller-i-tomatsaus), som bruker samme type tomatbase på kortere tid.
 
 ---
 
@@ -8441,7 +8441,7 @@ Rask tomatpasta som får preg av kapers, oliven og fersk chili, avsluttet med mo
 - **900 g tomat til 400 g pasta er rikelig.** Det gir en tydelig saus-tung rett, mer napolitansk enn romersk. Vil du ha den strammere, bruk 400 g passata og behold cherrytomatene.
 - **Chilitypen er ikke oppgitt.** Én fersk rød chili med frø gir tydelig, men ikke sterk hete. Tørkede chiliflak fungerer – ½ ts – men mangler den friske fruktigheten.
 - **De to desiliterne pastavann er nøkkelen til kremet saus.** Stivelsen binder olje og tomat til en emulsjon. Ha alltid mer klart enn du tror du trenger.
-- **Beslektet:** [ndujapasta (nr. 61)](#61-ndujapasta) og [spicy vodka pasta (nr. 97)](#97-spicy-vodka-pasta) er samlingens andre sterke tomatpastaer, og [spaghetti med kremet squashsaus og blåskjell (nr. 143)](#143-spaghetti-med-kremet-squashsaus-og-blåskjell) bruker samme teknikk med å fullføre pastaen i sausen.
+- **Beslektet:** [ndujapasta (nr. 61)](#61-ndujapasta) og [spicy vodka pasta (nr. 97)](#97-spicy-vodka-pasta) er andre sterke tomatpastaer, og [spaghetti med kremet squashsaus og blåskjell (nr. 143)](#143-spaghetti-med-kremet-squashsaus-og-blåskjell) bruker samme teknikk med å fullføre pastaen i sausen.
 
 ---
 
@@ -8554,7 +8554,7 @@ Risotto alla milanese med sjømat: safran, carnaroliris og en gremolata av persi
 - **Dill i en italiensk risotto er nordisk frihet**, ikke tradisjon – men den kler både reker og sitron godt. Gremolataen her er dessuten en oljebasert variant; den klassiske er tørr og består bare av persille, sitronskall og hvitløk.
 - **Salt sist.** Buljongterninger og parmesan gjør retten salt av seg selv.
 - **Rist pistasjnøttene** i tørr panne før hakking hvis de ikke allerede er ristede.
-- **Beslektet:** [sopprisotto (nr. 151)](#151-sopprisotto-med-salsiccia-og-hasselnøtter) og [risotto med asparges, spinat og sitron (nr. 67)](#67-risotto-med-asparges-spinat-og-sitron) er samlingens andre risottoer, og [chimichurri (T14)](#t14-chimichurri) er den argentinske slektningen til gremolataen.
+- **Beslektet:** [sopprisotto (nr. 151)](#151-sopprisotto-med-salsiccia-og-hasselnøtter) og [risotto med asparges, spinat og sitron (nr. 67)](#67-risotto-med-asparges-spinat-og-sitron) er andre risottoer, og [chimichurri (T14)](#t14-chimichurri) er den argentinske slektningen til gremolataen.
 
 ---
 
@@ -8821,7 +8821,7 @@ Kjøttdeig presset tynt utover en tortilla og stekt til den blir en kjøttskorpe
 - **Salaten skal på til slutt, aldri i pannen.** Isbergsalat mister sprøheten på sekunder mot varm ost. Strimle den tynt og hold den kald.
 - **Finhakket løk mangler.** En ekte Big Mac har rehydrert tørket løk mellom kjøtt og saus. Løkpulveret i sausen dekker delvis, men 2 ss finhakket rå løk gir det siste. *(Forslag lagt til.)*
 - **Sausen blir bedre av å hvile.** Løk- og hvitløkspulver trenger tid til å suge til seg væske – lag den først, gjerne en time før. Samme poeng som i [Chicken tender dip (T42)](#t42-chicken-tender-dip-canes-saus).
-- **Beslektet:** [kyllingquesadillas (nr. 126)](#126-kyllingquesadillas) bruker samme panneteknikk med tortilla og smeltet ost, og [chicken tender dip (Cane's-saus) (T42)](#t42-chicken-tender-dip-canes-saus) er samlingens andre amerikanske majonessaus.
+- **Beslektet:** [kyllingquesadillas (nr. 126)](#126-kyllingquesadillas) bruker samme panneteknikk med tortilla og smeltet ost, og [chicken tender dip (Cane's-saus) (T42)](#t42-chicken-tender-dip-canes-saus) er en annen amerikansk majonessaus.
 
 ---
 
@@ -9373,7 +9373,7 @@ Fransk kalvefrikassé der kjøttet aldri brunes. Det trekkes i lys kraft med gr�
 - **Sitronsaften til slutt** er nødvendig. Retten er fløte, smør og eggeplomme, og uten syre blir den kvalmende etter tre munnfuller.
 - **Nellikspikeren i løken** er en fransk konvensjon som gjør det lett å fiske løken opp igjen, samtidig som nelliken gir en svak sødme til kraften. To spiker er nok til halvannen liter.
 - **Holdbarhet:** 2 døgn i kjøleskap. Tåler ikke frysing – legeringen skiller seg. Varmes forsiktig og aldri over 80 °C.
-- **Beslektet:** [T43](#t43-kantarellsaus) er samlingens andre lyse soppsaus på fløte, og [nr. 105](#105-pot-roast--braisert-høyrygg-med-rotgrønnsaker) er den mørke motsatsen der bruningen er poenget.
+- **Beslektet:** [kantarellsaus (T43)](#t43-kantarellsaus) er en annen lys soppsaus på fløte, og [pot roast (nr. 105)](#105-pot-roast--braisert-høyrygg-med-rotgrønnsaker) er den mørke motsatsen der bruningen er poenget.
 
 ---
 
@@ -9647,7 +9647,7 @@ Spinat kokt ned til en tykk, mørkegrønn saus med paneer stekt gyllen. Paneeren
 - **Spinaten må klemmes tørr.** Fersk spinat er nesten bare vann, og blir det med, får du spinatsuppe.
 - **Paneer kan byttes med halloumi** eller fast tofu. Halloumi er saltere, så gå ned på saltet.
 - **Holdbarhet:** 3 døgn i kjøleskap, 3 måneder i fryseren. Paneeren blir litt fastere ved frysing.
-- **Beslektet:** [G19](#g19-garam-masala) er krydderblandingen, og [nr. 157](#157-tandoorirotto) er samlingens andre indiske vegetarrett.
+- **Beslektet:** [garam masala (G19)](#g19-garam-masala) er krydderblandingen, og [tandoorirotto (nr. 157)](#157-tandoorirotto) er en annen indisk vegetarrett.
 
 ---
 
@@ -11736,7 +11736,7 @@ Stekt entrecôte med en saus av karamellisert løk, mirin, soya og hvit miso –
 
 - **Dobbel frityr er nøkkelen til sprøhet.** Første runde koker potetene gjennom uten å ta farge, andre runde like før servering gir den sprø skorpen. Kilden presiserer at pommes fritesen godt kan være lysere i fargen enn på bildet – de ble fritert litt for lenge i originalvideoen.
 - **Kjøttet trekker smak fra sausen, ikke omvendt.** Biffen legges i løkblandingen etter steking (punkt 4), slik at sausen får kjøttsjy og stekesmør inn i seg før servering.
-- **Fettøsing («basting») med smør** i punkt 3 er samme teknikk som brukes i flere av samlingens andre biffretter – se [124. Steak Diane](#124-steak-diane).
+- **Fettøsing («basting») med smør** i punkt 3 er samme teknikk som brukes i flere andre biffretter – se [Steak Diane (nr. 124)](#124-steak-diane).
 - **Ingen eksakt tidsangivelse oppgitt i kilden** – ca. 1 t 20 min er anslått ut fra kaldtvannsbløtlegging, koking og dobbel frityr av potetene, samt tilberedning av saus og kjøtt. *(Anslått.)*
 
 ---
