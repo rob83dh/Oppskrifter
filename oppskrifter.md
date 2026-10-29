@@ -6168,7 +6168,7 @@ Short ribs brunet og braisert i rødvin og oksekraft i tre timer, servert på po
 - **Bakepoteter, altså melne**, er riktig her. Fastkokende gir klissete mos.
 - **Temperaturene er omregnet fra fahrenheit:** 325 °F = 165 °C, 250 °F = 120 °C.
 - **Kjøttet kan lages dagen før**, og blir bedre av det. La ribbene avkjøles i sausen og sett gryten med lokk i kjøleskapet. Neste dag har fettet stivnet på toppen og kan løftes av med en skje.
-- **Oppvarming:** sett gryten med lokk i ovnen på **150–160 °C i ca. 45 minutter**, til kjøttet holder minst **75 °C** i kjernen. Ta ut ribbene og kok sausen blank og litt tykk på platen, og spe med litt kraft hvis den er blitt for tykk. Potetmosen lages fersk samme dag.
+- **Oppvarming:** sett gryten med lokk i ovnen på **150–160 °C i ca. 45 minutter**, til kjøttet holder minst **75 °C** i kjernen. Ta ut ribbene og kok sausen inn uten lokk på middels sterk varme i **5–10 minutter**, til den er blank og legger seg som et tynt lag på baksiden av en skje. Smak til med salt først da – sausen blir saltere når den koker inn. Blir den for tykk, spe med litt kraft. Potetmosen lages fersk samme dag.
 - **Se også de andre braiseringene:** [chili con carne](#103-chili-con-carne), [pot roast](#105-pot-roast--braisert-høyrygg-med-rotgrønnsaker) og [coq au vin](#109-coq-au-vin).
 
 ---
