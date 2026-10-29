@@ -1,6 +1,6 @@
 # Oppskriftssamling
 
-Sist oppdatert: 28. oktober 2026 · **575 oppskrifter** · 195 hovedretter, 80 tilbehør, 68 saus/marinade, 61 supper, 43 småretter, 35 desserter, 32 grunnoppskrifter, 25 salater, 31 sjømat, 17 frokost, 13 brød, 7 bakverk
+Sist oppdatert: 29. oktober 2026 · **576 oppskrifter** · 196 hovedretter, 80 tilbehør, 68 saus/marinade, 61 supper, 43 småretter, 35 desserter, 32 grunnoppskrifter, 25 salater, 31 sjømat, 17 frokost, 13 brød, 7 bakverk
 
 ## Innhold
 
@@ -27,6 +27,7 @@ Sist oppdatert: 28. oktober 2026 · **575 oppskrifter** · 195 hovedretter, 80 t
 | 56 | [Katsu curry](#56-katsu-curry) | Hovedrett | Japansk | 25 min | 4 |
 | 79 | [Katsu curry – Andy Cooks sin versjon](#79-katsu-curry--andy-cooks-sin-versjon) | Hovedrett | Japansk | ca. 1 t | 4 |
 | 86 | [Karaage – japansk frityrstekt kylling](#86-karaage--japansk-frityrstekt-kylling) | Hovedrett | Japansk | 25 min + marinering | 3 |
+| 226 | [Japansk stekt ris med sideflesk og sprø hvitløk](#226-japansk-stekt-ris-med-sideflesk-og-sprø-hvitløk) | Hovedrett | Japansk | 30 min | 2 |
 | 89 | [Miso-laks](#89-miso-laks) | Hovedrett · Sjømat | Japansk | 15 min | 2 |
 | 99 | [Misosuppe – CJ Eats sin versjon](#99-misosuppe--cj-eats-sin-versjon) | Suppe | Japansk | 15 min | 4 |
 | B1 | [Hot cross shokupan – krydret japansk melkebrød](#b1-hot-cross-shokupan--krydret-japansk-melkebrød) | Brød | Japansk-britisk | ca. 4½ t | 1 brød |
@@ -12105,6 +12106,48 @@ Svinenakke tørrsaltet med salt og sukker over natten, stekt mør under folie i 
 - **Kilden nevner også «gullsmøret»** sitt som tilbehør. Den oppskriften er ikke med her.
 - **Samme stil som Momofukus bo ssäm**, der langtidsstekt svinenakke rives og spises i salatblader eller pannekaker med sterke, friske dipper. Salatblader av hjertesalat er et godt alternativ til pannekakene. *(Bakgrunn lagt til.)*
 - **Beslektet:** [gua bao med braisert svinesideflesk (S35)](#s35-gua-bao--braisert-svinesideflesk) serverer svin i bao på samme måte, og [hoisinsvin med chilimajones (nr. 108)](#108-hoisinsvin-med-chilimajones) er en raskere svinerett med søt glaze.
+
+---
+
+## 226. Japansk stekt ris med sideflesk og sprø hvitløk
+
+**Kilde:** Andy Cooks (andy-cooks.com; video på Facebook, 20. september 2026) · **Kjøkken:** Japansk · **Tid:** 30 min (20 min forberedelse + 10 min steking) · **Porsjoner:** 2
+
+Stekt ris i japansk stil der alt fett gjør dobbel jobb: hvitløken stekes sprø i oljen først, sideflesket stekes i hvitløksoljen, og risen stekes til slutt i fettet fra flesket. Den sprø hvitløken går tilbake i helt til slutt, så den holder seg sprø.
+
+### Ingredienser
+
+- 200 g sideflesk uten svor, i små terninger
+- 6 hvitløksfedd, finhakket
+- 2 vårløk, finskåret
+- 1 liten bit ingefær, finrevet
+- 2 egg, sammenvispet
+- 3 ss peanøttolje
+- En klype salt
+- En liten klype hvit pepper
+- En klype MSG
+- 2 ss soyasaus
+- 475 g kokt, kald ris av middels kornstørrelse *(se notat)*
+
+### Fremgangsmåte
+
+1. **Stek hvitløken.** Varm oljen i en wok eller stor stekepanne på middels varme. Stek hvitløken til den er gyllen og sprø, og ta den opp med hullsleiv. La oljen bli igjen i woken.
+2. **Stek flesket.** Stek sideflesket i hvitløksoljen med en klype salt til det er gyllenbrunt. Ta det opp, men la fettet bli igjen.
+3. **Stek eggene.** Rør eggene raskt sammen i woken og ta dem opp mens de fortsatt er myke.
+4. **Stek risen.** Skru opp til sterk varme. Ha i litt av fettet, vårløk, ingefær og ris, og stek i **ca. 1 minutt** under stadig omrøring så risen ikke setter seg fast. Ha i mer fett ved behov.
+5. **Alt sammen.** Ha flesk og egg tilbake og stek i **ca. 2 minutter**.
+6. **Smak til** med salt, hvit pepper, MSG og soyasaus, og stek **ca. 1 minutt** til.
+7. **Hvitløken til slutt.** Vend inn den sprø hvitløken og server med en gang.
+
+### Notater
+
+- **Hvitløken brenner fort.** Ta den opp i det den er lys gyllen – den mørkner videre av ettervarmen og blir bitter hvis den går for langt. Lavere varme og lengre tid er tryggere enn høy varme. *(Lagt til.)*
+- **Risen må være kald og dagsgammel.** Fersk ris er for fuktig og blir klissete i woken. 475 g kokt ris tilsvarer ca. 200 g tørr ris. Middels kornstørrelse, som calrose eller sushiris, er det kilden bruker.
+- **Fettet fra flesket er smaken.** Hell det ikke av – risen skal stekes i det.
+- **Sterk varme i punkt 4–7.** Det er det som gir risen det lett røkte, stekte preget i stedet for at den damper.
+- **MSG** fås i asiatiske butikker som *Ajinomoto*. Sløyfer du det, smak til med litt ekstra soyasaus og salt.
+- **Andy Cooks har en annen versjon** på nettsiden, «japanese style fried rice», med sake og et helt hvitløkshode, men uten ingefær og MSG. Videoen følger versjonen over.
+- **Beslektet:** [stekt ris med egg (nr. 84)](#84-stekt-ris-med-egg-egg-fried-rice) er den kinesiske takeaway-varianten, og [fried rice med marinert kylling (nr. 216)](#216-fried-rice-med-marinert-kylling) er en matigere variant med kylling.
 
 ---
 
