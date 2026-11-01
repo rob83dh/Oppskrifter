@@ -1,6 +1,6 @@
 # Oppskriftssamling
 
-Sist oppdatert: 29. oktober 2026 · **576 oppskrifter** · 196 hovedretter, 80 tilbehør, 68 saus/marinade, 61 supper, 43 småretter, 35 desserter, 32 grunnoppskrifter, 25 salater, 31 sjømat, 17 frokost, 13 brød, 7 bakverk
+Sist oppdatert: 1. november 2026 · **577 oppskrifter** · 197 hovedretter, 80 tilbehør, 68 saus/marinade, 61 supper, 43 småretter, 35 desserter, 32 grunnoppskrifter, 25 salater, 31 sjømat, 17 frokost, 13 brød, 7 bakverk
 
 ## Innhold
 
@@ -321,6 +321,7 @@ Sist oppdatert: 29. oktober 2026 · **576 oppskrifter** · 196 hovedretter, 80 t
 | 59 | [Krydrede lammekjøttboller med agurk- og yoghurtsaus](#59-krydrede-lammekjøttboller-med-agurk--og-yoghurtsaus) | Hovedrett | Østlig middelhav | 35 min | 4 |
 | 95 | [Cottage cheese-salat med finhakkede grønnsaker](#95-cottage-cheese-salat-med-finhakkede-grønnsaker) | Salat | Middelhavsinspirert | under 10 min | 1 |
 | 140 | [Kuru fasulye yahni – tyrkisk hvitbønnegryte](#140-kuru-fasulye-yahni--tyrkisk-hvitbønnegryte) | Hovedrett | Tyrkisk | ca. 1 t | 4 |
+| 227 | [Tyrkisk-inspirert kjøttdeig med sprø poteter og hvitløksyoghurt](#227-tyrkisk-inspirert-kjøttdeig-med-sprø-poteter-og-hvitløksyoghurt) | Hovedrett | Tyrkisk-inspirert | ca. 40 min | 2 |
 | 146 | [Harissakylling med kremete bønner](#146-harissakylling-med-kremete-bønner) | Hovedrett | Nordafrikansk-inspirert | ca. 30 min + marinering | 3 |
 | 150 | [Sumakkylling med havrerissalat og hvitløksyoghurt](#150-sumakkylling-med-havrerissalat-og-hvitløksyoghurt) | Hovedrett | Østlig middelhav | ca. 40 min | 4 |
 | T40 | [Hummus](#t40-hummus) | Tilbehør | Østlig middelhav | ca. 35 min | ca. 6 dl |
@@ -11336,6 +11337,7 @@ Enkel proteinrik bowl bygget på airfryer-poteter, brunet kjøttdeig, cottage ch
 - **Ingen porsjonsangivelse i kilden** – ut fra mengden (350 g poteter, 170 g kjøttdeig) er dette regnet som én stor porsjon.
 - **Fett på cottage cheese:** kilden bruker 2 % fett-variant; en annen fettprosent vil endre næringstallene noe.
 
+- **Sammenlign med** [tyrkisk-inspirert kjøttdeig med sprø poteter (nr. 227)](#227-tyrkisk-inspirert-kjøttdeig-med-sprø-poteter-og-hvitløksyoghurt), med yoghurt og tyrkisk krydder.
 ---
 
 ## 211. Verdens beste lasagne
@@ -12150,6 +12152,70 @@ Stekt ris i japansk stil der alt fett gjør dobbel jobb: hvitløken stekes sprø
 - **MSG** fås i asiatiske butikker som *Ajinomoto*. Sløyfer du det, smak til med litt ekstra soyasaus og salt.
 - **Andy Cooks har en annen versjon** på nettsiden, «japanese style fried rice», med sake og et helt hvitløkshode, men uten ingefær og MSG. Videoen følger versjonen over.
 - **Beslektet:** [stekt ris med egg (nr. 84)](#84-stekt-ris-med-egg-egg-fried-rice) er den kinesiske takeaway-varianten, og [fried rice med marinert kylling (nr. 216)](#216-fried-rice-med-marinert-kylling) er en matigere variant med kylling.
+
+---
+
+## 227. Tyrkisk-inspirert kjøttdeig med sprø poteter og hvitløksyoghurt
+
+**Kilde:** Ragne Tremoen / @ragne.tremoen (TikTok, 141 likes, 30. oktober 2026) · **Kjøkken:** Tyrkisk-inspirert · **Tid:** ca. 40 min · **Porsjoner:** 2
+
+Ovnsstekte potetterninger med spisskummen og paprika, krydret kjøttdeig med tomatpuré, friske cherrytomater og en kald yoghurt med hvitløk og persille. Bygget som en tallerken der alt legges lagvis, med masse persille over til slutt.
+
+### Ingredienser
+
+**Sprø poteter**
+- 500–600 g poteter
+- 1–2 ss olivenolje
+- 1½ ts paprikapulver
+- 1 ts spisskummen
+- 1 ts hvitløkspulver
+- 1 ts tørket oregano
+- ½ ts chilipulver
+- Salt og pepper
+
+**Krydret kjøttdeig**
+- 300–350 g kjøttdeig
+- 1 gul løk
+- 2 ss tomatpuré
+- 1–2 ts hvitløkspasta, eller 2 hvitløksfedd, revet
+- 1½ ts paprikapulver
+- 1 ts spisskummen
+- 1 ts tørket oregano
+- ½–1 ts chilipulver
+- ½ ts løkpulver
+- Salt og pepper
+- Litt olivenolje
+
+**Tomater**
+- 150–200 g cherrytomater
+- Litt olivenolje
+- Salt og pepper
+
+**Yoghurtdressing**
+- 200 g gresk yoghurt
+- 1–2 ts hvitløkspasta, eller 1 hvitløksfedd, revet
+- 1–2 ss finhakket persille
+- Salt og pepper
+
+**Topping**
+- 1 potte bladpersille, grovhakket
+
+### Fremgangsmåte
+
+1. **Stek potetene.** Skjær potetene i små terninger og bland dem med olje og krydder. Stek på **220 °C varmluft i 25–35 minutter**, til de er gylne og sprø.
+2. **Tomatene.** Del cherrytomatene i to eller fire og bland med litt olivenolje, salt og pepper.
+3. **Yoghurtdressingen.** Rør sammen yoghurt, hvitløk, persille, salt og pepper.
+4. **Kjøttdeigen.** Finhakk løken og stek den i litt olje. Ha i kjøttdeigen og brun den godt. Rør inn tomatpuré, hvitløk og krydder, og la det steke sammen i **noen minutter**.
+5. **Anrett.** Legg potetene på tallerkenen, og topp med kjøttdeig, tomater og yoghurtdressing. Avslutt med rikelig persille.
+
+### Notater
+
+- **Potetene må ligge i ett lag** på brettet med god plass rundt, ellers damper de i stedet for å bli sprø. Skjær terningene små og like store, ca. 1,5 cm. *(Lagt til.)*
+- **Brun kjøttdeigen skikkelig** før tomatpuréen går i. Den skal få stekeskorpe og ikke bare bli grå, og det er der smaken kommer fra.
+- **Krydderet går igjen** i potetene og kjøttet, så spisskummen, paprika og oregano binder retten sammen. Styrken justeres med chilipulveret.
+- **Yoghurten bør stå litt** mens potetene steker, så hvitløken får satt seg i den.
+- **Retten minner om tyrkisk mat** med kjøtt, yoghurt og tomat, som *iskender* og *kıymalı*, men er en hverdagsvariant og ikke en tradisjonell rett.
+- **Beslektet:** [proteinbowl med airfryer-poteter og kjøttdeig (nr. 210)](#210-proteinbowl-med-airfryer-poteter-kjøttdeig-og-cottage-cheese) er samme idé med cottage cheese, og [tyrkiske egg (F17)](#f17-tyrkiske-egg-çılbır) bruker samme hvitløksyoghurt. Samme forfatter står bak [spicy peanøtt-ramen (nr. 223)](#223-spicy-peanøtt-ramen-med-crispy-kjøttdeig) og [kremet pasta med ovnskaramellisert løk (nr. 224)](#224-kremet-pasta-med-ovnskaramellisert-løk-og-biffstrimler).
 
 ---
 
