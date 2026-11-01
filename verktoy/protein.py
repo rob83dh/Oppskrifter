@@ -36,6 +36,13 @@ TA_MED = {
     '12': 'kyllingpho – risnudlene løfter anslaget til ca. 710 kcal',
 }
 
+# Ingredienser uten mengde i oppskriften som likevel betyr mye – anslag per
+# porsjon (kcal, protein) som legges til beregningen.
+TILLEGG = {
+    '14': (360, 7, 'ca. 100 g risnudler per porsjon'),
+    '15': (360, 7, 'ca. 100 g risnudler per porsjon'),
+}
+
 # Kilden oppgir selv næringsinnhold per porsjon, og det er sikrere enn anslaget.
 KILDETALL = {
     '210': (575, 51.0),
@@ -50,7 +57,8 @@ def beregn_alle(data):
         if not p:
             continue
         k, pr, _ = naering.beregn(r)
-        ut[r['id']] = (k / p, pr / p)
+        tk, tp, _ = TILLEGG.get(r['id'], (0, 0, ''))
+        ut[r['id']] = (k / p + tk, pr / p + tp)
     ut.update(KILDETALL)
     return ut
 

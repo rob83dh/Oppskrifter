@@ -97,6 +97,19 @@ N = {
  'karripasta':(180,4),'fiskekraft':(5,1),'dashi':(5,1),'harissa':(180,4),
  'sumak':(0,0),'galangal':(80,2),'søtningsmiddel':(0,0),'bein':(0,0),
  'buljongterning':(0,0),'sriracha-majones':(600,1),'lettmajones':(300,1),
+ # --- lagt til ved gjennomgangen november 2026 ---
+ 'hoisinsaus':(220,3),'hoisin':(220,3),'miso':(200,12),'ponzu':(60,4),
+ 'pesto':(450,5),'aioli':(700,1),'wontonark':(290,9),'dumplingark':(290,9),
+ 'dumplings':(220,9),'gyoza':(220,9),'grillkylling':(190,27),
+ 'timian':(100,6),'rosmarin':(130,3),'salvie':(0,0),
+ # krydder og smakssetting som ikke betyr noe for kcal – føres opp så de
+ # ikke telles som «uleste» linjer
+ 'laurbærblad':(0,0),'laurbær':(0,0),'oregano':(0,0),'spisskummen':(0,0),
+ 'kanel':(0,0),'stjerneanis':(0,0),'fennikelfrø':(0,0),'msg':(0,0),
+ 'nellik':(0,0),'kardemomme':(0,0),'garam masala':(0,0),'five spice':(0,0),
+ 'fem kryddere':(0,0),'vaniljeekstrakt':(0,0),'krydderblanding':(0,0),
+ 'gurkemeie':(0,0),'karri':(0,0),'sitrongress':(0,0),'kaffirlimeblad':(0,0),
+ 'makrut':(0,0),
 }
 
 # gram per stykk
@@ -110,6 +123,8 @@ STK = {
  'brød':35,'baguette':250,'tortilla':45,'skalotteløk':30,'mango':200,
  'kvister':2,'kvist':2,'bunt':30,'stilk':50,'boks':400,'pakke':400,
  'mais':180,'pak choi':100,'svinesideflesk':2500,
+ 'mozzarella':125,'ansjos':4,'reker':15,'sjøkreps':60,'grillkylling':700,
+ 'blader':1,'aspargesstenger':20,'eple':180,'dumplings':20,'gyoza':20,
 }
 # egne standardvekter der oppskriften bruker «porsjoner» e.l.
 SPESIAL = {
@@ -177,7 +192,9 @@ SYNONYM = [('gulrøtter','gulrot'),('kyllingschnitzler','kyllingschnitzel'),
            ('agurker','agurk'),('limer','lime'),('sitroner','sitron'),
            ('avokadoer','avokado'),('bok choy','pak choi'),('ketsjup','ketchup'),
            ('farin','sukker'),('karriblanding','karripasta'),('sake','vin'),
-           ('squashen','squash'),('eggene','egg'),('nudlene','nudler')]
+           ('squashen','squash'),('eggene','egg'),('nudlene','nudler'),
+           ('shortribs','short ribs'),('mushroom soy sauce','soyasaus'),
+           ('dark soy sauce','soyasaus'),('ansjosfileter','ansjos'),('ansjosfilet','ansjos')]
 
 HERMETISK = {'bønner':(90,6),'kikerter':(120,7),'linser':(100,8),
              'mais':(86,3),'tomat':(20,1)}
@@ -256,18 +273,23 @@ def vekt(linje):
 
 
 def porsjoner(r):
-    p = r['p']
+    """Tolker «4», «3–4», «ca. 6» og «forrett til 2». Mengder som «ca. 200 g»
+    eller «ca. 1 kg» er ikke porsjoner og gir None."""
+    p = r['p'].lower()
     m = re.search(r'(\d+)\s*[–-]\s*(\d+)', p)
-    if m:
+    if m:                                    # «4 som tilbehør, 2–3 som hovedrett» → 2,5
         return (int(m.group(1)) + int(m.group(2))) / 2
-    m = re.match(r'\s*(\d+)', p)
-    return float(m.group(1)) if m else None
+    m = re.search(r'(\d+)\s*([a-zæøå]*)', p)
+    if not m or m.group(2) in ('g', 'kg', 'dl', 'l', 'ml', 'liter'):
+        return None
+    return float(m.group(1))
 
 
 def beregn(r):
     kcal = prot = 0.0
     mangler = []
     for l in r['ing']:
+        l = re.sub(r'^[\\*\s]+', '', l)   # «\*300 g …» – markering foran mengden
         if not re.search(r'\d|\bsalt\b|pepper|krydder', l.lower()):
             continue
         g = vekt(l)
