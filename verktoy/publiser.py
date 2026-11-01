@@ -13,7 +13,8 @@ Stopper ved første feil, før noe er pushet.
 
 Hva skriptet gjør:
   1. Sjekker at du står på main og ikke ligger bak GitHub.
-  2. Oppdaterer topplinjen i oppskrifter.md (antall og dato) automatisk.
+  2. Oppdaterer topplinjen i oppskrifter.md (antall og dato) og listen
+     «Lett og proteinrik» (protein.py) automatisk.
   3. Kontrollerer innholdsfortegnelse, lenker, ID-er og kjøkkentabell.
   4. Bygger data og injiserer i index.html og oppskrifter.html.
   5. Bumper sw.js bare hvis selve appen (utenom data) er endret.
@@ -26,6 +27,7 @@ HER = os.path.dirname(os.path.abspath(__file__))
 ROT = os.path.dirname(HER)
 sys.path.insert(0, HER)
 import build  # noqa: E402
+import protein  # noqa: E402
 
 MD = 'oppskrifter.md'
 HTML = ['index.html', 'oppskrifter.html']
@@ -237,7 +239,11 @@ def main():
     print('2. Bygger data fra %s' % MD)
     md = les(MD)
     data = build.parse(md)
-    md_ny = oppdater_topplinje(md, data)
+    md_ny = protein.oppdater(md, data)
+    if md_ny != md:
+        print('  Lett og proteinrik: listen er beregnet på nytt')
+        data = build.parse(md_ny)
+    md_ny = oppdater_topplinje(md_ny, data)
     print('  %d oppskrifter' % len(data['R']))
 
     print('3. Kontrollerer innhold')
