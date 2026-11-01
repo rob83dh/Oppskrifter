@@ -649,73 +649,89 @@ Sist oppdatert: 1. november 2026 · **577 oppskrifter** · 197 hovedretter, 80 t
 
 ## Lett og proteinrik
 
-63 retter under 700 kcal med minst 30 g protein per porsjon. Beregnet fra ingredienslistene med `naering.py` – listen genereres på nytt, ikke vedlikeholdes for hånd. Tallene er anslag med rundt 15 % usikkerhet, siden kokesvinn, merkevarer og uveide ingredienser slår inn. **314 av samlingens 509 oppskrifter lar seg beregne**; av de øvrige mangler 101 porsjonsangivelse (mest sauser og tilbehør), 53 har ingen proteinkilde, og 41 har en ingrediens `naering.py` ikke kjenner. 95 er tatt med selv om den ligger like under proteingrensen.
+79 retter under 700 kcal med minst 30 g protein per porsjon, beregnet fra ingredienslistene med `naering.py` (ny beregning november 2026). Tallene er anslag med rundt 15 % usikkerhet, siden kokesvinn, merkevarer og uveide ingredienser slår inn. 469 av samlingens oppskrifter har porsjonsantall og lar seg beregne. Noen retter er tatt med selv om de ligger like under proteingrensen (28–30 g) eller like over 700 kcal (kyllingpho og sumakkylling). For proteinbowlen (nr. 210) er kildens egne tall brukt. Retter der viktige ingredienser mangler mengde, er holdt utenfor.
 
 | # | Rett | kcal | Protein |
 |---|------|------|---------|
-| 96 | [Sprø kyllingstrimler i airfryer](#96-sprø-kyllingstrimler-i-airfryer) | 620 | 77.1 g |
-| 107 | [Ovnsstekt svinekam med dijon og rosmarin](#107-ovnsstekt-svinekam-med-dijon-og-rosmarin) | 676 | 76.8 g |
+| 107 | [Ovnsstekt svinekam med dijon og rosmarin](#107-ovnsstekt-svinekam-med-dijon-og-rosmarin) | 651 | 76.8 g |
+| 96 | [Sprø kyllingstrimler i airfryer](#96-sprø-kyllingstrimler-i-airfryer) | 556 | 74.4 g |
 | 116 | [Birria – meksikansk braisert oksekjøtt](#116-birria--meksikansk-braisert-oksekjøtt) | 674 | 68.3 g |
-| 139 | [Sprø rissalat med kylling og gochujangmajones](#139-sprø-rissalat-med-kylling-og-gochujangmajones) | 553 | 66.7 g |
-| 134 | [Poulet à la moutarde – kremet dijonkylling](#134-poulet-à-la-moutarde--kremet-dijonkylling) | 539 | 65.6 g |
-| 193 | [Estragonkylling](#193-estragonkylling) | 580 | 64.2 g |
-| 34 | [Sanbeiji-kylling](#34-sanbeiji-kylling) | 596 | 61.5 g |
-| 88 | [Kyllingwok med blandede grønnsaker](#88-kyllingwok-med-blandede-grønnsaker) | 566 | 61.4 g |
-| 150 | [Sumakkylling med havrerissalat og hvitløksyoghurt](#150-sumakkylling-med-havrerissalat-og-hvitløksyoghurt) | 650 | 60.5 g |
+| 139 | [Sprø rissalat med kylling og gochujangmajones](#139-sprø-rissalat-med-kylling-og-gochujangmajones) | 561 | 66.8 g |
+| 134 | [Poulet à la moutarde – kremet dijonkylling](#134-poulet-à-la-moutarde--kremet-dijonkylling) | 595 | 65.7 g |
+| 193 | [Estragonkylling](#193-estragonkylling) | 645 | 64.2 g |
+| 150 | [Sumakkylling med havrerissalat og hvitløksyoghurt](#150-sumakkylling-med-havrerissalat-og-hvitløksyoghurt) | 703 | 63.6 g |
+| 29 | [Ovnsstekt koreansk kylling](#29-ovnsstekt-koreansk-kylling) | 651 | 62.4 g |
+| 88 | [Kyllingwok med blandede grønnsaker](#88-kyllingwok-med-blandede-grønnsaker) | 687 | 61.2 g |
+| 90 | [Sesamkylling (sesame chicken)](#90-sesamkylling-sesame-chicken) | 617 | 61.1 g |
+| 94 | [Fajitasalat med kylling](#94-fajitasalat-med-kylling) | 698 | 59.8 g |
+| 34 | [Sanbeiji-kylling](#34-sanbeiji-kylling) | 542 | 58.8 g |
 | 170 | [Ossobuco alla milanese](#170-ossobuco-alla-milanese) | 650 | 57.7 g |
-| 81 | [Yuk sung – kinesiske salatwraps med kyllingkjøttdeig](#81-yuk-sung--kinesiske-salatwraps-med-kyllingkjøttdeig) | 574 | 57.4 g |
+| 81 | [Yuk sung – kinesiske salatwraps med kyllingkjøttdeig](#81-yuk-sung--kinesiske-salatwraps-med-kyllingkjøttdeig) | 660 | 57.4 g |
 | 89 | [Miso-laks](#89-miso-laks) | 579 | 52.6 g |
-| 77 | [Yam Nua – Andy Cooks sin versjon](#77-yam-nua--andy-cooks-sin-versjon) | 547 | 51.4 g |
-| 125 | [Sprø kylling i sweet chili-saus](#125-sprø-kylling-i-sweet-chili-saus) | 384 | 50.5 g |
+| 77 | [Yam Nua – Andy Cooks sin versjon](#77-yam-nua--andy-cooks-sin-versjon) | 613 | 51.4 g |
+| 210 | [Proteinbowl med airfryer-poteter, kjøttdeig og cottage cheese](#210-proteinbowl-med-airfryer-poteter-kjøttdeig-og-cottage-cheese) | 575 | 51.0 g |
+| 125 | [Sprø kylling i sweet chili-saus](#125-sprø-kylling-i-sweet-chili-saus) | 381 | 50.4 g |
 | 126 | [Kyllingquesadillas](#126-kyllingquesadillas) | 644 | 49.0 g |
-| 146 | [Harissakylling med kremete bønner](#146-harissakylling-med-kremete-bønner) | 617 | 48.0 g |
+| 146 | [Harissakylling med kremete bønner](#146-harissakylling-med-kremete-bønner) | 622 | 48.1 g |
 | 55 | [Kyllingstrimler i chili- og sesamsaus](#55-kyllingstrimler-i-chili--og-sesamsaus) | 537 | 47.7 g |
+| 144 | [One-pot risoni med reker og fetaost](#144-one-pot-risoni-med-reker-og-fetaost) | 657 | 47.5 g |
 | 171 | [Ungarsk gulasj](#171-ungarsk-gulasj) | 602 | 47.2 g |
 | 174 | [Bulgogi](#174-bulgogi) | 475 | 47.1 g |
 | SJ6 | [Koreanske laksebiter](#sj6-koreanske-laksebiter) | 493 | 46.6 g |
-| 117 | [Kremet hvitløks- og paprikakylling](#117-kremet-hvitløks--og-paprikakylling) | 496 | 46.1 g |
-| 144 | [One-pot risoni med reker og fetaost](#144-one-pot-risoni-med-reker-og-fetaost) | 646 | 46.0 g |
+| 117 | [Kremet hvitløks- og paprikakylling](#117-kremet-hvitløks--og-paprikakylling) | 562 | 46.1 g |
 | 137 | [Chili con carne – Andy Cooks sin versjon](#137-chili-con-carne--andy-cooks-sin-versjon) | 669 | 44.8 g |
 | 48 | [Japansk karri-udon med kylling](#48-japansk-karri-udon-med-kylling) | 614 | 44.1 g |
-| 75 | [Pannestekt laks med tzatziki og ris (lavFODMAP)](#75-pannestekt-laks-med-tzatziki-og-ris-lavfodmap) | 608 | 43.9 g |
+| 75 | [Pannestekt laks med tzatziki og ris (lavFODMAP)](#75-pannestekt-laks-med-tzatziki-og-ris-lavfodmap) | 663 | 43.9 g |
 | 189 | [Grønn kyllingcurry med paprika og squash](#189-grønn-kyllingcurry-med-paprika-og-squash) | 454 | 43.8 g |
 | 85 | [Larb gai – laotisk-thailandsk kyllingsalat](#85-larb-gai--laotisk-thailandsk-kyllingsalat) | 355 | 42.2 g |
 | 57 | [Korean fried chicken](#57-korean-fried-chicken) | 619 | 41.5 g |
-| 7 | [Andy Cooks sin Pad Kra Pao](#7-andy-cooks-sin-pad-kra-pao) | 537 | 40.8 g |
-| 53 | [Koreansk kyllingburger](#53-koreansk-kyllingburger) | 504 | 40.6 g |
+| 53 | [Koreansk kyllingburger](#53-koreansk-kyllingburger) | 500 | 40.5 g |
 | 190 | [Pannestekt kylling i soyasaus](#190-pannestekt-kylling-i-soyasaus) | 490 | 40.3 g |
+| 12 | [Kyllingpho](#12-kyllingpho) | 712 | 39.5 g |
 | SJ16 | [Ovnsbakt laks med poteter, grønnsaker og pesto](#sj16-ovnsbakt-laks-med-poteter-grønnsaker-og-pesto) | 620 | 39.4 g |
 | 35 | [Char siu-kylling](#35-char-siu-kylling) | 374 | 39.2 g |
-| 26 | [Yam Nua – thai biffsalat](#26-yam-nua--thai-biffsalat) | 386 | 38.8 g |
+| 26 | [Yam Nua – thai biffsalat](#26-yam-nua--thai-biffsalat) | 452 | 38.8 g |
 | 127 | [Kremet hvitløkskylling – Simple Home Edit sin versjon](#127-kremet-hvitløkskylling--simple-home-edit-sin-versjon) | 600 | 38.7 g |
-| 78 | [Panang curry med svinefilet](#78-panang-curry-med-svinefilet) | 603 | 38.5 g |
 | S22 | [Spicy cæsarwrap med kylling](#s22-spicy-cæsarwrap-med-kylling) | 610 | 38.5 g |
+| 78 | [Panang curry med svinefilet](#78-panang-curry-med-svinefilet) | 603 | 38.5 g |
 | 86 | [Karaage – japansk frityrstekt kylling](#86-karaage--japansk-frityrstekt-kylling) | 426 | 38.4 g |
 | SJ7 | [Ovnsbakt laks med purre](#sj7-ovnsbakt-laks-med-purre) | 685 | 37.0 g |
-| 54 | [Teriyakikylling – Genius Eats sin versjon](#54-teriyakikylling--genius-eats-sin-versjon) | 444 | 36.4 g |
-| 24 | [Sjømat-ramen](#24-sjømat-ramen) | 679 | 36.2 g |
-| 122 | [Braiserte kyllingtacos](#122-braiserte-kyllingtacos) | 298 | 36.1 g |
-| 103 | [Chili con carne](#103-chili-con-carne) | 382 | 35.8 g |
-| 93 | [Taco-salatbowl med kylling](#93-taco-salatbowl-med-kylling) | 436 | 35.3 g |
-| 87 | [Beef and broccoli – oksekjøtt i wok med brokkoli](#87-beef-and-broccoli--oksekjøtt-i-wok-med-brokkoli) | 385 | 33.6 g |
+| 54 | [Teriyakikylling – Genius Eats sin versjon](#54-teriyakikylling--genius-eats-sin-versjon) | 445 | 36.6 g |
+| 206 | [Smashed beef kabob med agurkyoghurt](#206-smashed-beef-kabob-med-agurkyoghurt) | 443 | 36.0 g |
+| 122 | [Braiserte kyllingtacos](#122-braiserte-kyllingtacos) | 292 | 35.9 g |
+| 103 | [Chili con carne](#103-chili-con-carne) | 420 | 35.8 g |
+| 7 | [Andy Cooks sin Pad Kra Pao](#7-andy-cooks-sin-pad-kra-pao) | 320 | 35.8 g |
+| 163 | [Chicken pie](#163-chicken-pie) | 695 | 35.6 g |
+| 93 | [Taco-salatbowl med kylling](#93-taco-salatbowl-med-kylling) | 432 | 35.1 g |
+| 219 | [Bang bang-kylling](#219-bang-bang-kylling) | 469 | 34.4 g |
+| 87 | [Beef and broccoli – oksekjøtt i wok med brokkoli](#87-beef-and-broccoli--oksekjøtt-i-wok-med-brokkoli) | 484 | 33.6 g |
 | 135 | [Kylling- og pølsegryte med bønner og grønnsaker](#135-kylling--og-pølsegryte-med-bønner-og-grønnsaker) | 440 | 33.6 g |
 | 140 | [Kuru fasulye yahni – tyrkisk hvitbønnegryte](#140-kuru-fasulye-yahni--tyrkisk-hvitbønnegryte) | 639 | 33.3 g |
-| 44 | [Kokoskarri med laks](#44-kokoskarri-med-laks) | 517 | 33.2 g |
-| SJ11 | [Lohikeitto – finsk laksesuppe](#sj11-lohikeitto--finsk-laksesuppe) | 615 | 33.1 g |
+| SU33 | [Kylling- og linsesuppe med sitronyoghurt](#su33-kylling--og-linsesuppe-med-sitronyoghurt) | 415 | 33.3 g |
+| 44 | [Kokoskarri med laks](#44-kokoskarri-med-laks) | 524 | 33.2 g |
 | 43 | [Tom yum-suppe med hjemmelagde dumplings](#43-tom-yum-suppe-med-hjemmelagde-dumplings) | 648 | 32.7 g |
-| 12 | [Kyllingpho](#12-kyllingpho) | 300 | 32.6 g |
-| 76 | [Green curry med kylling](#76-green-curry-med-kylling) | 528 | 32.4 g |
+| SJ11 | [Lohikeitto – finsk laksesuppe](#sj11-lohikeitto--finsk-laksesuppe) | 641 | 32.5 g |
 | SJ8 | [Tunfisk- og hvitbønnesalat](#sj8-tunfisk--og-hvitbønnesalat) | 556 | 32.3 g |
+| 149 | [Sprø honning- og hvitløkskylling – Rajjekost sin versjon](#149-sprø-honning--og-hvitløkskylling--rajjekost-sin-versjon) | 468 | 32.3 g |
 | SJ10 | [Amok – kambodsjansk fiskekarri](#sj10-amok--kambodsjansk-fiskekarri) | 388 | 32.1 g |
-| 51 | [Mango- og kokoskarri med laks](#51-mango--og-kokoskarri-med-laks) | 554 | 32.0 g |
-| 149 | [Sprø honning- og hvitløkskylling – Rajjekost sin versjon](#149-sprø-honning--og-hvitløkskylling--rajjekost-sin-versjon) | 407 | 31.8 g |
-| 10 | [Chilinudler med peanøttsmør og kjøttdeig](#10-chilinudler-med-peanøttsmør-og-kjøttdeig) | 632 | 31.2 g |
+| 51 | [Mango- og kokoskarri med laks](#51-mango--og-kokoskarri-med-laks) | 569 | 32.0 g |
+| 76 | [Green curry med kylling](#76-green-curry-med-kylling) | 514 | 32.0 g |
+| 24 | [Sjømat-ramen](#24-sjømat-ramen) | 655 | 31.5 g |
+| 95 | [Cottage cheese-salat med finhakkede grønnsaker](#95-cottage-cheese-salat-med-finhakkede-grønnsaker) | 319 | 31.4 g |
+| 10 | [Chilinudler med peanøttsmør og kjøttdeig](#10-chilinudler-med-peanøttsmør-og-kjøttdeig) | 644 | 31.0 g |
+| 222 | [Creamy bolognese rigatoni](#222-creamy-bolognese-rigatoni) | 582 | 31.0 g |
 | SJ4 | [Krydret marinert laks](#sj4-krydret-marinert-laks) | 441 | 31.0 g |
-| 114 | [Proteinrik pizza med yoghurtbunn](#114-proteinrik-pizza-med-yoghurtbunn) | 317 | 30.7 g |
-| 112 | [Hvitløks- og urtekylling med ovnsbakte gulrøtter og potetmos](#112-hvitløks--og-urtekylling-med-ovnsbakte-gulrøtter-og-potetmos) | 437 | 30.2 g |
+| 114 | [Proteinrik pizza med yoghurtbunn](#114-proteinrik-pizza-med-yoghurtbunn) | 322 | 31.0 g |
+| 59 | [Krydrede lammekjøttboller med agurk- og yoghurtsaus](#59-krydrede-lammekjøttboller-med-agurk--og-yoghurtsaus) | 522 | 30.3 g |
+| S15 | [Tuna melt med avokadodressing](#s15-tuna-melt-med-avokadodressing) | 504 | 30.3 g |
 | 142 | [Lasagne alla Norma med salsicciaragù](#142-lasagne-alla-norma-med-salsicciaragù) | 609 | 30.2 g |
-| S15 | [Tuna melt med avokadodressing](#s15-tuna-melt-med-avokadodressing) | 476 | 30.2 g |
-| 95 | [Cottage cheese-salat med finhakkede grønnsaker](#95-cottage-cheese-salat-med-finhakkede-grønnsaker) | 301 | 28.8 g |
+| 112 | [Hvitløks- og urtekylling med ovnsbakte gulrøtter og potetmos](#112-hvitløks--og-urtekylling-med-ovnsbakte-gulrøtter-og-potetmos) | 437 | 30.2 g |
+| 100 | [Green curry med kylling – Zena's Kitchen sin versjon](#100-green-curry-med-kylling--zenas-kitchen-sin-versjon) | 347 | 29.2 g |
+| 108 | [Hoisinsvin med chilimajones](#108-hoisinsvin-med-chilimajones) | 625 | 29.1 g |
+| 32 | [Kremet gochujang-kokoskylling](#32-kremet-gochujang-kokoskylling) | 413 | 28.9 g |
+| 123 | [Hellstrøms kjøttboller i tomatsaus](#123-hellstrøms-kjøttboller-i-tomatsaus) | 324 | 28.9 g |
+| SJ2 | [Laksetartar](#sj2-laksetartar) | 415 | 28.3 g |
+| 60 | [Oksekjøttboller i tomatsaus](#60-oksekjøttboller-i-tomatsaus) | 586 | 28.1 g |
 
 ## 1. Kremet krydret miso-ramen med kylling
 
