@@ -649,7 +649,7 @@ Sist oppdatert: 1. november 2026 · **577 oppskrifter** · 197 hovedretter, 80 t
 
 ## Lett og proteinrik
 
-79 retter under 700 kcal med minst 30 g protein per porsjon, beregnet fra ingredienslistene med `naering.py` (ny beregning november 2026). Tallene er anslag med rundt 15 % usikkerhet, siden kokesvinn, merkevarer og uveide ingredienser slår inn. 469 av samlingens oppskrifter har porsjonsantall og lar seg beregne. Noen retter er tatt med selv om de ligger like under proteingrensen (28–30 g) eller like over 700 kcal (kyllingpho og sumakkylling). For proteinbowlen (nr. 210) er kildens egne tall brukt. Retter der viktige ingredienser mangler mengde, er holdt utenfor.
+79 retter med minst 30 g protein og under 700 kcal per porsjon. Listen lages på nytt automatisk hver gang samlingen publiseres, beregnet fra ingredienslistene med `naering.py`. Tallene er anslag med rundt 15 % usikkerhet, siden kokesvinn, merkevarer og uveide ingredienser slår inn. Retter like under proteingrensen (28–30 g) eller like over 700 kcal er tatt med. Der kilden selv oppgir næringsinnhold, brukes kildens tall. Retter der viktige ingredienser mangler mengde, er holdt utenfor. 469 av samlingens oppskrifter har porsjonsantall og kan beregnes.
 
 | # | Rett | kcal | Protein |
 |---|------|------|---------|
@@ -692,20 +692,20 @@ Sist oppdatert: 1. november 2026 · **577 oppskrifter** · 197 hovedretter, 80 t
 | 35 | [Char siu-kylling](#35-char-siu-kylling) | 374 | 39.2 g |
 | 26 | [Yam Nua – thai biffsalat](#26-yam-nua--thai-biffsalat) | 452 | 38.8 g |
 | 127 | [Kremet hvitløkskylling – Simple Home Edit sin versjon](#127-kremet-hvitløkskylling--simple-home-edit-sin-versjon) | 600 | 38.7 g |
-| S22 | [Spicy cæsarwrap med kylling](#s22-spicy-cæsarwrap-med-kylling) | 610 | 38.5 g |
 | 78 | [Panang curry med svinefilet](#78-panang-curry-med-svinefilet) | 603 | 38.5 g |
+| S22 | [Spicy cæsarwrap med kylling](#s22-spicy-cæsarwrap-med-kylling) | 610 | 38.5 g |
 | 86 | [Karaage – japansk frityrstekt kylling](#86-karaage--japansk-frityrstekt-kylling) | 426 | 38.4 g |
 | SJ7 | [Ovnsbakt laks med purre](#sj7-ovnsbakt-laks-med-purre) | 685 | 37.0 g |
 | 54 | [Teriyakikylling – Genius Eats sin versjon](#54-teriyakikylling--genius-eats-sin-versjon) | 445 | 36.6 g |
 | 206 | [Smashed beef kabob med agurkyoghurt](#206-smashed-beef-kabob-med-agurkyoghurt) | 443 | 36.0 g |
 | 122 | [Braiserte kyllingtacos](#122-braiserte-kyllingtacos) | 292 | 35.9 g |
-| 103 | [Chili con carne](#103-chili-con-carne) | 420 | 35.8 g |
 | 7 | [Andy Cooks sin Pad Kra Pao](#7-andy-cooks-sin-pad-kra-pao) | 320 | 35.8 g |
+| 103 | [Chili con carne](#103-chili-con-carne) | 420 | 35.8 g |
 | 163 | [Chicken pie](#163-chicken-pie) | 695 | 35.6 g |
 | 93 | [Taco-salatbowl med kylling](#93-taco-salatbowl-med-kylling) | 432 | 35.1 g |
 | 219 | [Bang bang-kylling](#219-bang-bang-kylling) | 469 | 34.4 g |
-| 87 | [Beef and broccoli – oksekjøtt i wok med brokkoli](#87-beef-and-broccoli--oksekjøtt-i-wok-med-brokkoli) | 484 | 33.6 g |
 | 135 | [Kylling- og pølsegryte med bønner og grønnsaker](#135-kylling--og-pølsegryte-med-bønner-og-grønnsaker) | 440 | 33.6 g |
+| 87 | [Beef and broccoli – oksekjøtt i wok med brokkoli](#87-beef-and-broccoli--oksekjøtt-i-wok-med-brokkoli) | 484 | 33.6 g |
 | 140 | [Kuru fasulye yahni – tyrkisk hvitbønnegryte](#140-kuru-fasulye-yahni--tyrkisk-hvitbønnegryte) | 639 | 33.3 g |
 | SU33 | [Kylling- og linsesuppe med sitronyoghurt](#su33-kylling--og-linsesuppe-med-sitronyoghurt) | 415 | 33.3 g |
 | 44 | [Kokoskarri med laks](#44-kokoskarri-med-laks) | 524 | 33.2 g |
@@ -714,18 +714,18 @@ Sist oppdatert: 1. november 2026 · **577 oppskrifter** · 197 hovedretter, 80 t
 | SJ8 | [Tunfisk- og hvitbønnesalat](#sj8-tunfisk--og-hvitbønnesalat) | 556 | 32.3 g |
 | 149 | [Sprø honning- og hvitløkskylling – Rajjekost sin versjon](#149-sprø-honning--og-hvitløkskylling--rajjekost-sin-versjon) | 468 | 32.3 g |
 | SJ10 | [Amok – kambodsjansk fiskekarri](#sj10-amok--kambodsjansk-fiskekarri) | 388 | 32.1 g |
-| 51 | [Mango- og kokoskarri med laks](#51-mango--og-kokoskarri-med-laks) | 569 | 32.0 g |
 | 76 | [Green curry med kylling](#76-green-curry-med-kylling) | 514 | 32.0 g |
+| 51 | [Mango- og kokoskarri med laks](#51-mango--og-kokoskarri-med-laks) | 569 | 32.0 g |
 | 24 | [Sjømat-ramen](#24-sjømat-ramen) | 655 | 31.5 g |
 | 95 | [Cottage cheese-salat med finhakkede grønnsaker](#95-cottage-cheese-salat-med-finhakkede-grønnsaker) | 319 | 31.4 g |
 | 10 | [Chilinudler med peanøttsmør og kjøttdeig](#10-chilinudler-med-peanøttsmør-og-kjøttdeig) | 644 | 31.0 g |
-| 222 | [Creamy bolognese rigatoni](#222-creamy-bolognese-rigatoni) | 582 | 31.0 g |
-| SJ4 | [Krydret marinert laks](#sj4-krydret-marinert-laks) | 441 | 31.0 g |
 | 114 | [Proteinrik pizza med yoghurtbunn](#114-proteinrik-pizza-med-yoghurtbunn) | 322 | 31.0 g |
+| SJ4 | [Krydret marinert laks](#sj4-krydret-marinert-laks) | 441 | 31.0 g |
+| 222 | [Creamy bolognese rigatoni](#222-creamy-bolognese-rigatoni) | 582 | 31.0 g |
 | 59 | [Krydrede lammekjøttboller med agurk- og yoghurtsaus](#59-krydrede-lammekjøttboller-med-agurk--og-yoghurtsaus) | 522 | 30.3 g |
 | S15 | [Tuna melt med avokadodressing](#s15-tuna-melt-med-avokadodressing) | 504 | 30.3 g |
-| 142 | [Lasagne alla Norma med salsicciaragù](#142-lasagne-alla-norma-med-salsicciaragù) | 609 | 30.2 g |
 | 112 | [Hvitløks- og urtekylling med ovnsbakte gulrøtter og potetmos](#112-hvitløks--og-urtekylling-med-ovnsbakte-gulrøtter-og-potetmos) | 437 | 30.2 g |
+| 142 | [Lasagne alla Norma med salsicciaragù](#142-lasagne-alla-norma-med-salsicciaragù) | 609 | 30.2 g |
 | 100 | [Green curry med kylling – Zena's Kitchen sin versjon](#100-green-curry-med-kylling--zenas-kitchen-sin-versjon) | 347 | 29.2 g |
 | 108 | [Hoisinsvin med chilimajones](#108-hoisinsvin-med-chilimajones) | 625 | 29.1 g |
 | 32 | [Kremet gochujang-kokoskylling](#32-kremet-gochujang-kokoskylling) | 413 | 28.9 g |
