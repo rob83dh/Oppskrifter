@@ -1,6 +1,6 @@
 # Oppskriftssamling
 
-Sist oppdatert: 1. november 2026 · **577 oppskrifter** · 197 hovedretter, 80 tilbehør, 68 saus/marinade, 61 supper, 43 småretter, 35 desserter, 32 grunnoppskrifter, 25 salater, 31 sjømat, 17 frokost, 13 brød, 7 bakverk
+Sist oppdatert: 2. november 2026 · **578 oppskrifter** · 198 hovedretter, 80 tilbehør, 68 saus/marinade, 61 supper, 43 småretter, 35 desserter, 32 grunnoppskrifter, 25 salater, 31 sjømat, 17 frokost, 13 brød, 7 bakverk
 
 ## Innhold
 
@@ -322,6 +322,7 @@ Sist oppdatert: 1. november 2026 · **577 oppskrifter** · 197 hovedretter, 80 t
 | 95 | [Cottage cheese-salat med finhakkede grønnsaker](#95-cottage-cheese-salat-med-finhakkede-grønnsaker) | Salat | Middelhavsinspirert | under 10 min | 1 |
 | 140 | [Kuru fasulye yahni – tyrkisk hvitbønnegryte](#140-kuru-fasulye-yahni--tyrkisk-hvitbønnegryte) | Hovedrett | Tyrkisk | ca. 1 t | 4 |
 | 227 | [Tyrkisk-inspirert kjøttdeig med sprø poteter og hvitløksyoghurt](#227-tyrkisk-inspirert-kjøttdeig-med-sprø-poteter-og-hvitløksyoghurt) | Hovedrett | Tyrkisk-inspirert | ca. 40 min | 2 |
+| 228 | [Lam på aubergineyoghurt – Ali nazik-inspirert](#228-lam-på-aubergineyoghurt--ali-nazik-inspirert) | Hovedrett | Tyrkisk-inspirert | ca. 2 t | 3–4 |
 | 146 | [Harissakylling med kremete bønner](#146-harissakylling-med-kremete-bønner) | Hovedrett | Nordafrikansk-inspirert | ca. 30 min + marinering | 3 |
 | 150 | [Sumakkylling med havrerissalat og hvitløksyoghurt](#150-sumakkylling-med-havrerissalat-og-hvitløksyoghurt) | Hovedrett | Østlig middelhav | ca. 40 min | 4 |
 | T40 | [Hummus](#t40-hummus) | Tilbehør | Østlig middelhav | ca. 35 min | ca. 6 dl |
@@ -649,7 +650,7 @@ Sist oppdatert: 1. november 2026 · **577 oppskrifter** · 197 hovedretter, 80 t
 
 ## Lett og proteinrik
 
-81 retter med minst 30 g protein og under 700 kcal per porsjon. Listen lages på nytt automatisk hver gang samlingen publiseres, beregnet fra ingredienslistene med `naering.py`. Tallene er anslag med rundt 15 % usikkerhet, siden kokesvinn, merkevarer og uveide ingredienser slår inn. Retter like under proteingrensen (28–30 g) eller like over 700 kcal er tatt med. Der kilden selv oppgir næringsinnhold, brukes kildens tall. Retter der viktige ingredienser mangler mengde, er holdt utenfor. 504 av samlingens oppskrifter har porsjonsantall og kan beregnes.
+81 retter med minst 30 g protein og under 700 kcal per porsjon. Listen lages på nytt automatisk hver gang samlingen publiseres, beregnet fra ingredienslistene med `naering.py`. Tallene er anslag med rundt 15 % usikkerhet, siden kokesvinn, merkevarer og uveide ingredienser slår inn. Retter like under proteingrensen (28–30 g) eller like over 700 kcal er tatt med. Der kilden selv oppgir næringsinnhold, brukes kildens tall. Retter der viktige ingredienser mangler mengde, er holdt utenfor. 505 av samlingens oppskrifter har porsjonsantall og kan beregnes.
 
 | # | Rett | kcal | Protein |
 |---|------|------|---------|
@@ -12233,7 +12234,71 @@ Ovnsstekte potetterninger med spisskummen og paprika, krydret kjøttdeig med tom
 - **Krydderet går igjen** i potetene og kjøttet, så spisskummen, paprika og oregano binder retten sammen. Styrken justeres med chilipulveret.
 - **Yoghurten bør stå litt** mens potetene steker, så hvitløken får satt seg i den.
 - **Retten minner om tyrkisk mat** med kjøtt, yoghurt og tomat, som *iskender* og *kıymalı*, men er en hverdagsvariant og ikke en tradisjonell rett.
-- **Beslektet:** [proteinbowl med airfryer-poteter og kjøttdeig (nr. 210)](#210-proteinbowl-med-airfryer-poteter-kjøttdeig-og-cottage-cheese) er samme idé med cottage cheese, og [tyrkiske egg (F17)](#f17-tyrkiske-egg-çılbır) bruker samme hvitløksyoghurt. Samme forfatter står bak [spicy peanøtt-ramen (nr. 223)](#223-spicy-peanøtt-ramen-med-crispy-kjøttdeig) og [kremet pasta med ovnskaramellisert løk (nr. 224)](#224-kremet-pasta-med-ovnskaramellisert-løk-og-biffstrimler).
+- **Beslektet:** [proteinbowl med airfryer-poteter og kjøttdeig (nr. 210)](#210-proteinbowl-med-airfryer-poteter-kjøttdeig-og-cottage-cheese) er samme idé med cottage cheese, og [tyrkiske egg (F17)](#f17-tyrkiske-egg-çılbır) bruker samme hvitløksyoghurt. Samme forfatter står bak [spicy peanøtt-ramen (nr. 223)](#223-spicy-peanøtt-ramen-med-crispy-kjøttdeig) og [kremet pasta med ovnskaramellisert løk (nr. 224)](#224-kremet-pasta-med-ovnskaramellisert-løk-og-biffstrimler). [Lam på aubergineyoghurt (nr. 228)](#228-lam-på-aubergineyoghurt--ali-nazik-inspirert) er samme kjøtt-og-yoghurt-idé med braisert lam.
+
+---
+
+## 228. Lam på aubergineyoghurt – Ali nazik-inspirert
+
+**Kilde:** Ragne Tremoen / @ragne.tremoen (TikTok, 211 likes, 4. oktober 2026) · **Kjøkken:** Tyrkisk-inspirert · **Tid:** ca. 2 t (20 min aktivt) *(anslag – kilden oppgir bare tid for auberginene)* · **Porsjoner:** 3–4
+
+Krydret lam brunet hardt og kokt mørt i en tomat- og kraftsaus med tørket chili, servert på en kald, røykfylt yoghurt av ovnsbakt aubergine og hvitløk. Sausen helles varm over til slutt.
+
+### Ingredienser
+
+**Aubergineyoghurt**
+- 2 store auberginer
+- 300–400 g gresk yoghurt
+- 1–2 hvitløksfedd, finrevet
+- Salt og pepper
+
+**Lam**
+- 500–600 g lammekjøtt i terninger *(de brukte fårikålkjøtt med bein)*
+- 1 ts salt
+- 1 ts paprikapulver
+- 1 ts hvitløkspulver
+- ½ ts spisskummen
+- ½ ts sort pepper
+- ½–1 ts tørket chili
+- Olje til steking
+
+**Tomat- og kraftsaus**
+- 1 løk, grovhakket
+- 5 hvitløksfedd, finhakket
+- 1–2 ss tomatpuré
+- 1 boks (400 g) hakkede tomater
+- 4–5 dl kraft *(typen er ikke oppgitt – lammekraft eller kyllingkraft)*
+- 1–2 tørkede chili
+- 1 ss eddik *(styrke ikke oppgitt – 7 % eddik eller rødvinseddik)* *(Flagget.)*
+- 1 ss soyasaus
+- ½–1 ts hele pepperkorn *(valgfritt)*
+- ½–1 ts korianderfrø *(valgfritt)*
+- 1–2 laurbærblad *(valgfritt)*
+- Salt og pepper
+
+**Til servering** *(valgfritt)*
+- Libabrød
+- [Syltet rødløk (T129)](#t129-syltet-rødløk)
+
+### Fremgangsmåte
+
+1. **Bak auberginene.** Del dem i to på langs, stikk hull i skallet med en gaffel og legg dem på en rist eller et brett med snittflaten ned. Bak på **220 °C i 30–40 minutter**, til de er helt myke og gjerne litt svidde.
+2. **Krydre lammet.** Bland kjøttet med salt, paprikapulver, hvitløkspulver, spisskummen, pepper og tørket chili.
+3. **Brun kjøttet.** Varm litt olje i en gryte og stek kjøttet raskt på høy varme til det får god stekeskorpe.
+4. **Kok gryten.** Hell over kraften og ha i løk, hvitløk, tomatpuré, hakkede tomater, tørket chili, eddik og soyasaus, og eventuelt pepperkorn, korianderfrø og laurbærblad. La det småkoke under lokk til kjøttet er mørt, ca. **1½ time** for fårikålkjøtt med bein *(Lagt til.)*.
+5. **Lag aubergineyoghurten** mens gryten koker. Skrap innmaten ut av skallet og hakk den fint. Bland med yoghurt, revet hvitløk, salt og pepper.
+6. **Ta ut kjøttet** når det er mørt. Smak sausen til med salt og pepper.
+7. **Server.** Fordel aubergineyoghurten på tallerkener, legg lammet oppå og hell den varme sausen over.
+
+### Notater
+
+- **Tiden står ikke i kilden.** «Til kjøttet er mørt» betyr ca. 1½ time for fårikålkjøtt med bein, og 1–1¼ time for beinfrie terninger av lammelår eller -bog. Kjøttet skal slippe beinet lett. *(Lagt til.)*
+- **Video og oppskrift er ikke helt like.** I videoen går løken i store båter og hvitløken i hele fedd, mens teksten sier grovhakket og finhakket. Begge deler fungerer. Store biter kan fiskes ut før servering. Hakket løk og hvitløk koker inn i sausen og gir den mer kropp.
+- **Sausen er tynn i videoen.** Vil du ha den tykkere, kok den inn uten lokk i **10–15 minutter** etter at kjøttet er tatt ut, til den legger seg lett på en skje. *(Lagt til.)*
+- **Auberginene må bli helt myke**, gjerne med svidde flekker. Det er røyksmaken fra skallet som gjør yoghurten. Hakk innmaten fint med kniv, så blir den ikke trådete.
+- **Fårikålkjøtt er et godt og billig valg** fordi beina gir smak til sausen, men det gir en del bein på tallerkenen. Lammebog i terninger gir samme smak uten bein.
+- **Ali nazik** er en rett fra Gaziantep i Tyrkia. Originalen er grillet eller stekt lam på røykfylt aubergineyoghurt med tomatsmør over. Dette er en braisert hverdagsvariant.
+- **Beslektet:** [tyrkisk-inspirert kjøttdeig med sprø poteter og hvitløksyoghurt (nr. 227)](#227-tyrkisk-inspirert-kjøttdeig-med-sprø-poteter-og-hvitløksyoghurt) er samme forfatter og samme kjøtt-og-yoghurt-idé, og [Hellstrøms auberginekompott (T84)](#t84-hellstrøms-auberginekompott) er en annen bruk av ovnsbakt aubergine. Til braisert lam, se [lammeskank i rødvin (nr. 187)](#187-lammeskank-i-rødvin).
 
 ---
 
