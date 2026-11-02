@@ -20,7 +20,7 @@ N = {
  'svinesideflesk':(500,10),'sideflesk':(500,10),'ribbe':(400,15),
  'bacon':(400,13),'pancetta':(400,20),'guanciale':(650,10),'chorizo':(450,24),
  'pepperoni':(450,20),'kalkunpepperoni':(200,17),'skinke':(110,18),
- 'lammekjøttdeig':(280,17),'lammeskank':(200,25),'lammebog':(240,19),
+ 'lammekjøttdeig':(280,17),'lammekjøtt':(220,19),'fårikålkjøtt':(200,17),'lammeskank':(200,25),'lammebog':(240,19),
  # --- fisk og skalldyr ---
  'laksefilet':(210,22),'laks':(210,22),'røkelaks':(180,22),'torsk':(82,18),
  'tunfisk i olje':(190,25),'tunfisk':(110,25),'reker':(85,20),'blåskjell':(86,12),
