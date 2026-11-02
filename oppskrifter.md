@@ -650,7 +650,7 @@ Sist oppdatert: 2. november 2026 · **578 oppskrifter** · 198 hovedretter, 80 t
 
 ## Lett og proteinrik
 
-81 retter med minst 30 g protein og under 700 kcal per porsjon. Listen lages på nytt automatisk hver gang samlingen publiseres, beregnet fra ingredienslistene med `naering.py`. Tallene er anslag med rundt 15 % usikkerhet, siden kokesvinn, merkevarer og uveide ingredienser slår inn. Retter like under proteingrensen (28–30 g) eller like over 700 kcal er tatt med. Der kilden selv oppgir næringsinnhold, brukes kildens tall. Retter der viktige ingredienser mangler mengde, er holdt utenfor. 505 av samlingens oppskrifter har porsjonsantall og kan beregnes.
+82 retter med minst 30 g protein og under 700 kcal per porsjon. Listen lages på nytt automatisk hver gang samlingen publiseres, beregnet fra ingredienslistene med `naering.py`. Tallene er anslag med rundt 15 % usikkerhet, siden kokesvinn, merkevarer og uveide ingredienser slår inn. Retter like under proteingrensen (28–30 g) eller like over 700 kcal er tatt med. Der kilden selv oppgir næringsinnhold, brukes kildens tall. Retter der viktige ingredienser mangler mengde, er holdt utenfor. 505 av samlingens oppskrifter har porsjonsantall og kan beregnes.
 
 | # | Rett | kcal | Protein |
 |---|------|------|---------|
@@ -672,6 +672,7 @@ Sist oppdatert: 2. november 2026 · **578 oppskrifter** · 198 hovedretter, 80 t
 | 210 | [Proteinbowl med airfryer-poteter, kjøttdeig og cottage cheese](#210-proteinbowl-med-airfryer-poteter-kjøttdeig-og-cottage-cheese) | 575 | 51.0 g |
 | 77 | [Yam Nua – Andy Cooks sin versjon](#77-yam-nua--andy-cooks-sin-versjon) | 595 | 50.8 g |
 | 125 | [Sprø kylling i sweet chili-saus](#125-sprø-kylling-i-sweet-chili-saus) | 381 | 50.4 g |
+| 228 | [Lam på aubergineyoghurt – Ali nazik-inspirert](#228-lam-på-aubergineyoghurt--ali-nazik-inspirert) | 555 | 49.9 g |
 | 126 | [Kyllingquesadillas](#126-kyllingquesadillas) | 644 | 49.0 g |
 | 146 | [Harissakylling med kremete bønner](#146-harissakylling-med-kremete-bønner) | 622 | 48.1 g |
 | 55 | [Kyllingstrimler i chili- og sesamsaus](#55-kyllingstrimler-i-chili--og-sesamsaus) | 537 | 47.7 g |
