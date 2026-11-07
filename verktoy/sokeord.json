@@ -1,4 +1,5 @@
 {
   "_forklaring": "Ekstra søkeord for Matrett-feltet. Nøkkelen er en del av tittelen (små bokstaver), verdien er ord som også skal gi treff.",
-  "gratin dauphinois": "fløtegratinerte poteter fløtegratinert potetgrateng fløtepoteter grateng"
+  "gratin dauphinois": "fløtegratinerte poteter fløtegratinert potetgrateng fløtepoteter grateng",
+  "potetgrateng": "fløtegratinerte poteter fløtegratinert fløtepoteter gratin"
 }
