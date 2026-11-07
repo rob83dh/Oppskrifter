@@ -15,6 +15,9 @@ PLURAL = {'Frokost':'Frokost','Salat':'Salater','Hovedrett':'Hovedretter','Suppe
 
 HER = os.path.dirname(os.path.abspath(__file__))
 NK = json.load(open(os.path.join(HER, 'nk_tabell.json'), encoding='utf-8'))
+# ekstra søkeord for Matrett-feltet, slått opp på deler av tittelen
+SOK = {k: v for k, v in json.load(open(os.path.join(HER, 'sokeord.json'), encoding='utf-8')).items()
+       if not k.startswith('_')}
 
 ENHETER = {'dl','liter','l','g','kg','ss','ts','stykker','biter','boller','brød',
            'baguetter','burgere','deigballer','dumplings','pizzaer','rundstykker',
@@ -246,7 +249,8 @@ def bygg(rid, tittel, body, typ, mac, grp, anchors, tocfelt):
          'kc': mac[0], 'pr': mac[1],
          'b': b, 'u': u, 'pb': pb, 'st': st, 'mi': tid_min(ti), 'tt': tid_total(ti),
          'ing': ing, 'h': h}
-    r['nt'] = norm(tittel + ' ' + rid)
+    ekstra = ' '.join(v for k, v in SOK.items() if k in tittel.lower())
+    r['nt'] = norm(tittel + ' ' + rid + (' ' + ekstra if ekstra else ''))
     r['ni'] = norm(' ¦ '.join(ing))
     r['nk'] = NK.get('%s|%s|%s' % (kj, grp[0], grp[1]), norm(kj))
     return r

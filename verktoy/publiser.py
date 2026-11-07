@@ -33,6 +33,7 @@ MD = 'oppskrifter.md'
 HTML = ['index.html', 'oppskrifter.html']
 SW = 'sw.js'
 NK = 'verktoy/nk_tabell.json'  # redigeres for hånd, men følger med i commiten
+SOK = 'verktoy/sokeord.json'   # ekstra søkeord, redigeres for hånd
 DATA_RE = re.compile(r'(<script id="data" type="application/json">)(.*?)(</script>)', re.S)
 SIDE = 'https://rob83dh.github.io/Oppskrifter/'
 
@@ -274,12 +275,12 @@ def main():
         if r.returncode:
             sys.exit('\nTesten feilet. Filene er bygget, men ingenting er pushet.')
 
-    endret = git('status', '--porcelain', '--', MD, SW, NK, *HTML).strip()
+    endret = git('status', '--porcelain', '--', MD, SW, NK, SOK, *HTML).strip()
     if not endret:
         print('\nIngen endringer å publisere.')
         return
     print('\nEndringer:')
-    print(git('diff', '--stat', '--', MD, SW, NK, *HTML))
+    print(git('diff', '--stat', '--', MD, SW, NK, SOK, *HTML))
     if a.ikke_push:
         print('Bygget, men ikke pushet (--ikke-push).')
         return
@@ -287,7 +288,7 @@ def main():
     nye = nye_ider(data)
     melding = a.melding or ('Nye oppskrifter: %s' % ', '.join(nye) if nye else 'Oppdaterte oppskrifter')
     print('6. Commit og push: %s' % melding)
-    git('add', MD, SW, NK, *HTML)
+    git('add', MD, SW, NK, SOK, *HTML)
     git('commit', '--quiet', '-m', melding)
     git('push', '--quiet', 'origin', 'main')
     print('\nPublisert. %s er oppdatert om ca. ett minutt.' % SIDE)
