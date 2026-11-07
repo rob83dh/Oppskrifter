@@ -1208,8 +1208,8 @@ function skaler(tekst, f){
       fra = sm[0].length;
     }
   }
-  if (fra) return forst + skalerResten(tekst, f, fra);
-  return skalerResten(tekst, f, 0);
+  if (fra) return bøyFrukt(forst + skalerResten(tekst, f, fra));
+  return bøyFrukt(skalerResten(tekst, f, 0));
 }
 
 function skalerResten(tekst, f, fra){
@@ -1219,15 +1219,40 @@ function skalerResten(tekst, f, fra){
     var foran = hele.slice(0, off);
     var bak = hele.slice(off + m.length).replace(/^\s*/, '');
     if (IKKE.test(bak)) return m;
-    /* hopp over tall inne i parentes, f.eks. "1 boks (400 g)" */
+    /* tall inne i parentes er som regel pakningsstørrelse, «1 boks (400 g)»,
+       og står fast – unntatt omregninger merket ca.: «(ca. 1,2 dl saft)» */
+    /* størrelse per stykk og mål står fast: «à ca. 400 g», «ca. 225 g hver», «10 × 10 cm» */
+    if (/(^|[\s(])à\s*(ca\.\s*)?$/i.test(foran)) return m;
+    if (/^\S+\s+(hver|per stk|stykket)\b/i.test(bak) || /^[×x]\s/.test(bak)) return m;
     var apen = (foran.match(/\(/g) || []).length - (foran.match(/\)/g) || []).length;
-    if (apen > 0) return m;
-    if (!(START.test(foran) || ENHET.test(bak))) return m;
-    var ut = skrivTall(lesTall(a) * f);
-    if (b) ut += '\u2013' + skrivTall(lesTall(b) * f);
+    var ca = /ca\.\s*$/i.test(foran);
+    if (apen > 0 && !ca) return m;
+    /* «saften av 1 lime», «skall og saft fra 2 sitroner» */
+    var avFra = /(^|\s)(av|fra)\s+(ca\.\s*)?$/i.test(foran);
+    if (!(START.test(foran) || ENHET.test(bak) || avFra || apen > 0)) return m;
+    var ut = tallMedEnhet(lesTall(a) * f, bak);
+    if (b) ut += '\u2013' + tallMedEnhet(lesTall(b) * f, bak);
     return ut;
   });
   return ut.slice(fra);
+}
+
+/* tall midt i linjen skrives etter enheten bak, men enheten byttes ikke */
+function tallMedEnhet(v, bak){
+  var e = (bak.match(/^(g|kg|dl|l)(?=\s|\)|,|$)/i) || [''])[0].toLowerCase();
+  if (e === 'g') return String(g_rund(v));
+  if (e === 'dl' || e === 'l' || e === 'kg') return String(Math.max(0.1, Math.round(v * 10) / 10)).replace('.', ',');
+  return skrivTall(v);
+}
+
+/* «saften av 2 sitron» → «saften av 2 sitroner», og omvendt */
+var FLERTALL = {sitron:'sitroner', appelsin:'appelsiner', grapefrukt:'grapefrukter', kvist:'kvister', bunt:'bunter'};
+function bøyFrukt(tekst){
+  return tekst.replace(/(^|\s)((?:av|fra)\s+(?:ca\.\s*)?)(\S+)\s+(sitron|appelsin|grapefrukt|kvist|bunt)(er)?(?=[\s,).]|$)/gi,
+    function(m, s, pre, tall, ord, er){
+      var n = lesTall(tall.split('\u2013').pop());
+      return s + pre + tall + ' ' + (n > 1 ? FLERTALL[ord.toLowerCase()] : ord);
+    });
 }
 
 /* ---------- porsjonsvelger ---------- */
