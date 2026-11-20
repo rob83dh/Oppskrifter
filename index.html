@@ -1151,13 +1151,20 @@ function skrivTall(v){
      dl  → nærmeste ½ dl; under 1 dl blir hele ss (opptil 6 ss)
      l   → under 1 l blir dl
      g   → 5/10/50 g-steg etter størrelse; kg under 1 blir g
-     egg og eggeplommer → hele, minst 1 */
+     egg og eggeplommer → hele, minst 1
+     hvitløksfedd → hele, minst 1
+     andre ting som telles (sitron, løk, pakke, potte) → nærmeste ½,
+     minst ½; fra 3 og oppover hele */
 var STARTMGD = null;
 function g_rund(v){
   if (v < 10)  return Math.max(1, Math.round(v));
   if (v < 100) return Math.round(v / 5) * 5;
   if (v < 500) return Math.round(v / 10) * 10;
   return Math.round(v / 50) * 50;
+}
+function halv(v){
+  if (v >= 2.75) return String(Math.round(v));
+  return skrivTall(Math.max(0.5, Math.round(v * 2) / 2));
 }
 function dlTekst(v){
   var r = Math.max(0.5, Math.round(v * 2) / 2);
@@ -1166,7 +1173,11 @@ function dlTekst(v){
 function iEnhet(a, b, e, navn){
   /* a og b er allerede ganget opp; b kan mangle. Returnerer [tekst, enhet] */
   var maks = b || a, E = e.toLowerCase();
-  function to(fn, x, y){ return fn(x) + (y ? '–' + fn(y) : ''); }
+  if (E === 'liter'){ E = 'l'; e = 'l'; }
+  function to(fn, x, y){
+    var u = fn(x), v = y ? fn(y) : '';
+    return (v && v !== u) ? u + '–' + v : (v || u);
+  }
   function hel(v){ return String(Math.max(1, Math.round(v))); }
   function kvart(v){ return skrivTall(Math.max(0.25, Math.round(v * 4) / 4)); }
   if (E === 'ss'){
@@ -1192,13 +1203,15 @@ function iEnhet(a, b, e, navn){
   }
   if (E === 'g') return [to(g_rund, a, b), e];
   if (!E && /^(egg|eggeplomm|eggehvit|plomm)/i.test(navn)) return [to(hel, a, b), e];
+  if (!E && /^\S*fedd\b/i.test(navn)) return [to(hel, a, b), e];
+  if (!E) return [to(halv, a, b), e];
   return null;
 }
 
 function skaler(tekst, f){
   if (f === 1) return tekst;
   if (!STARTMGD) STARTMGD = new RegExp('^((?:ca\\.?\\s*|omtrent\\s*)?)(' + Q + ')(?:\\s*[–—-]\\s*(' + Q + '))?'
-                                     + '(\\s+)(?:(ss|ts|dl|l|g|kg)(?=\\s|$))?', 'i');
+                                     + '(\\s+)(?:(ss|ts|dl|liter|l|g|kg)(?=\\s|$))?', 'i');
   var forst = '', fra = 0, sm = tekst.match(STARTMGD);
   if (sm){
     var navn = tekst.slice(sm[0].length).replace(/^\s*/, '');
@@ -1242,7 +1255,9 @@ function tallMedEnhet(v, bak){
   var e = (bak.match(/^(g|kg|dl|l)(?=\s|\)|,|$)/i) || [''])[0].toLowerCase();
   if (e === 'g') return String(g_rund(v));
   if (e === 'dl' || e === 'l' || e === 'kg') return String(Math.max(0.1, Math.round(v * 10) / 10)).replace('.', ',');
-  return skrivTall(v);
+  if (/^(ss|ts|ml|cl)\b/i.test(bak)) return skrivTall(v);
+  if (/^\S*fedd\b/i.test(bak)) return String(Math.max(1, Math.round(v)));
+  return halv(v);
 }
 
 /* «saften av 2 sitron» → «saften av 2 sitroner», og omvendt */
