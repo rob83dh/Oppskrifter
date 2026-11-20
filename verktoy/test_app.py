@@ -8,9 +8,10 @@ oppfører seg som på GitHub Pages.
 Sjekker: antall retter, de tre søkefeltene, gruppenedtrekket,
 åpning av en oppskrift, porsjonsskalering og konsollfeil.
 
-Omregningen kontrolleres for ALLE oppskrifter på alle porsjonsvalg fra
-minste antall til dobbelt: ingen mengde skal få brøker som ⅜ eller ⅝,
-spenn som «1–1», eller bli 0. Pluss noen kjente fasitsvar.
+Omregningen kontrolleres for ALLE oppskrifter på alle porsjonsvalg appen
+tilbyr, opp til fire ganger oppskriften (minst 12): ingen mengde skal få
+brøker som ⅜ eller ⅝, ¾, «1¼», «½ ss», spenn som «1–1», eller bli 0.
+Pluss noen kjente fasitsvar.
 """
 import json, re, sys, threading, functools, http.server, socketserver, os
 from playwright.sync_api import sync_playwright
@@ -86,6 +87,10 @@ def test_fil(page, url, n):
 RAR = re.compile(r'[⅛⅜⅝⅞⅓⅔⅕⅖⅗⅘⅙⅚]')
 LIKT_SPENN = re.compile(r'(?<![\d,½¼¾])(\d+(?:,\d+)?[½¼¾]?|[½¼¾])–\1(?![\d,½¼¾])')
 NULL = re.compile(r'(?<![\d,])0(?=\s|–)(?!\s*(?:eller|tipo))')
+# Robs skjeregler: ikke ¾, ikke 1¼/2¼ osv., ikke halve ss
+TREKVART = re.compile(r'¾')
+KVART_ETTER_TALL = re.compile(r'\d¼')
+HALV_SS = re.compile(r'½\s*ss\b')
 
 # (id, porsjoner, ingredienslinje som må finnes)
 FASIT = [
@@ -93,6 +98,7 @@ FASIT = [
     ('142', 2, '½ sjalottløk'),
     ('142', 2, '1 hvitløksfedd (bare 3 brukes – se notat)'),
     ('142', 2, '½ sitron'),
+    ('D18', 4, '100 g sukker'),
 ]
 
 
@@ -105,10 +111,13 @@ def test_skalering(b, fil):
     for r in data['R']:
         if not r['b']:
             continue
-        lav = max(1, int(r['st'] or 1))
-        for n in range(lav, int(max(r['b'] * 2, lav + 1)) + 1):
+        # samme steg som + og − i appen
+        st, k = r['st'] or 1, 1
+        while k * st <= max(4 * r['b'], 12) + 1e-9:
+            n = round(k * st, 2)
             if n != r['b']:
                 jobber.append([r['id'], n, n / r['b'], r['ing']])
+            k += 1
     page = b.new_page()
     page.set_content('<html></html>')
     page.add_script_tag(content=js)
@@ -117,13 +126,14 @@ def test_skalering(b, fil):
     feil = []
     for (rid, n, _, ing), res in zip(jobber, ut):
         for o, l in zip(ing, res):
-            for rx, navn in ((RAR, 'brøk'), (LIKT_SPENN, 'likt spenn'), (NULL, 'null')):
+            for rx, navn in ((RAR, 'brøk'), (LIKT_SPENN, 'likt spenn'), (NULL, 'null'),
+                             (TREKVART, '¾'), (KVART_ETTER_TALL, '1¼ e.l.'), (HALV_SS, '½ ss')):
                 if len(rx.findall(l)) > len(rx.findall(o)):
-                    feil.append('%s til %d (%s): «%s» → «%s»' % (rid, n, navn, o, l))
+                    feil.append('%s til %s (%s): «%s» → «%s»' % (rid, n, navn, o, l))
     svar = {(rid, n): res for (rid, n, _, _), res in zip(jobber, ut)}
     for rid, n, linje in FASIT:
         if linje not in svar.get((rid, n), []):
-            feil.append('%s til %d: fant ikke «%s»' % (rid, n, linje))
+            feil.append('%s til %s: fant ikke «%s»' % (rid, n, linje))
     return feil, len(jobber)
 
 
