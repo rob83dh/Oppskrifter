@@ -1206,6 +1206,15 @@ function skaler(tekst, f){
   if (!STARTMGD) STARTMGD = new RegExp('^((?:ca\\.?\\s*|omtrent\\s*)?)(' + Q + ')(?:\\s*[–—-]\\s*(' + Q + '))?'
                                      + '(\\s+)(?:(ss|ts|dl|liter|l|g|kg)(?=\\s|$))?', 'i');
   var forst = '', fra = 0, sm = tekst.match(STARTMGD);
+  /* «1 ss + 1½ ts» og «½ ts + ¼ ts» slås sammen til én mengde i ts først */
+  var sam = tekst.match(new RegExp('^((?:ca\\.?\\s*)?)(' + Q + ')\\s+(ss|ts)\\s*\\+\\s*(' + Q + ')\\s+ts(?=\\s|$)', 'i'));
+  if (sam){
+    var tsum = lesTall(sam[2]) * (sam[3].toLowerCase() === 'ss' ? 3 : 1) + lesTall(sam[4]);
+    var nys = iEnhet(tsum * f, 0, 'ts', '');
+    forst = sam[1] + nys[0] + ' ' + nys[1];
+    fra = sam[0].length;
+    sm = null;
+  }
   if (sm){
     var navn = tekst.slice(sm[0].length).replace(/^\s*/, '');
     var ny = iEnhet(lesTall(sm[2]) * f, sm[3] ? lesTall(sm[3]) * f : 0, sm[5] || '', navn);
@@ -1236,16 +1245,35 @@ function skalerResten(tekst, f, fra){
     /* «saften av 1 lime», «skall og saft fra 2 sitroner» */
     var avFra = /(^|\s)(av|fra)\s+(ca\.\s*)?$/i.test(foran);
     if (!(START.test(foran) || ENHET.test(bak) || avFra || apen > 0)) return m;
-    var ut = tallMedEnhet(lesTall(a) * f, bak);
-    if (b) ut += '\u2013' + tallMedEnhet(lesTall(b) * f, bak);
-    return ut;
+    var maks = lesTall(b || a) * f;
+    var ny = midtEnhet(maks, bak);
+    var ut = tallMedEnhet(lesTall(a) * f, bak, ny);
+    if (b){
+      var ut2 = tallMedEnhet(lesTall(b) * f, bak, ny);
+      if (ut2 !== ut) ut += '\u2013' + ut2;
+    }
+    /* enhetsbytte (ss ↔ ts) merkes og gjøres etter erstatningen */
+    return ny ? ut + '\u0001' + ny + '\u0002' : ut;
   });
+  ut = ut.replace(/\u0001(\w+)\u0002(\s+)(ss|ts)\b/gi, '$2$1').replace(/\u0001\w+\u0002/g, '');
   return ut.slice(fra);
 }
 
+/* ss under 1 blir ts, ts fra 3 og oppover blir ss – også midt i linjen */
+function midtEnhet(maks, bak){
+  var e = (bak.match(/^(ss|ts)\b/i) || [''])[0].toLowerCase();
+  if (e === 'ss' && maks < 0.875) return 'ts';
+  if (e === 'ts' && maks >= 3) return 'ss';
+  return '';
+}
+
 /* tall midt i linjen skrives etter enheten bak, men enheten byttes ikke */
-function tallMedEnhet(v, bak){
+function tallMedEnhet(v, bak, ny){
   var e = (bak.match(/^(g|kg|dl|l)(?=\s|\)|,|$)/i) || [''])[0].toLowerCase();
+  var sp = (bak.match(/^(ss|ts)\b/i) || [''])[0].toLowerCase();
+  function kvart(x){ return skrivTall(Math.max(0.25, Math.round(x * 4) / 4)); }
+  if (sp === 'ss') return ny === 'ts' ? kvart(v * 3) : String(Math.max(1, Math.round(v)));
+  if (sp === 'ts') return ny === 'ss' ? String(Math.round(v / 3)) : kvart(v);
   if (e === 'g') return String(g_rund(v));
   if (e === 'dl' || e === 'l' || e === 'kg') return String(Math.max(0.1, Math.round(v * 10) / 10)).replace('.', ',');
   if (/^(ss|ts|ml|cl)\b/i.test(bak)) return skrivTall(v);
