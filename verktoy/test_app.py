@@ -7,6 +7,10 @@ oppfører seg som på GitHub Pages.
 
 Sjekker: antall retter, de tre søkefeltene, gruppenedtrekket,
 åpning av en oppskrift, porsjonsskalering og konsollfeil.
+
+Omregningen kontrolleres for ALLE oppskrifter på alle porsjonsvalg fra
+minste antall til dobbelt: ingen mengde skal få brøker som ⅜ eller ⅝,
+spenn som «1–1», eller bli 0. Pluss noen kjente fasitsvar.
 """
 import json, re, sys, threading, functools, http.server, socketserver, os
 from playwright.sync_api import sync_playwright
@@ -79,6 +83,50 @@ def test_fil(page, url, n):
     return feil
 
 
+RAR = re.compile(r'[⅛⅜⅝⅞⅓⅔⅕⅖⅗⅘⅙⅚]')
+LIKT_SPENN = re.compile(r'(?<![\d,½¼¾])(\d+(?:,\d+)?[½¼¾]?|[½¼¾])–\1(?![\d,½¼¾])')
+NULL = re.compile(r'(?<![\d,])0(?=\s|–)(?!\s*(?:eller|tipo))')
+
+# (id, porsjoner, ingredienslinje som må finnes)
+FASIT = [
+    ('D18', 4, 'Revet skall og saft av 2 sitroner (ca. 0,8 dl saft)'),
+    ('142', 2, '½ sjalottløk'),
+    ('142', 2, '1 hvitløksfedd (bare 3 brukes – se notat)'),
+    ('142', 2, '½ sitron'),
+]
+
+
+def test_skalering(b, fil):
+    """Kjører appens egne omregningsfunksjoner på alle oppskrifter."""
+    s = open(os.path.join(ROT, fil), encoding='utf-8').read()
+    data = json.loads(re.search(r'<script id="data" type="application/json">(.*?)</script>', s, re.S).group(1))
+    js = s[s.index('var FRAC'):s.index('/* ---------- porsjonsvelger')]
+    jobber = []
+    for r in data['R']:
+        if not r['b']:
+            continue
+        lav = max(1, int(r['st'] or 1))
+        for n in range(lav, int(max(r['b'] * 2, lav + 1)) + 1):
+            if n != r['b']:
+                jobber.append([r['id'], n, n / r['b'], r['ing']])
+    page = b.new_page()
+    page.set_content('<html></html>')
+    page.add_script_tag(content=js)
+    ut = page.evaluate('(J) => J.map(j => j[3].map(l => skaler(l, j[2])))', jobber)
+    page.close()
+    feil = []
+    for (rid, n, _, ing), res in zip(jobber, ut):
+        for o, l in zip(ing, res):
+            for rx, navn in ((RAR, 'brøk'), (LIKT_SPENN, 'likt spenn'), (NULL, 'null')):
+                if len(rx.findall(l)) > len(rx.findall(o)):
+                    feil.append('%s til %d (%s): «%s» → «%s»' % (rid, n, navn, o, l))
+    svar = {(rid, n): res for (rid, n, _, _), res in zip(jobber, ut)}
+    for rid, n, linje in FASIT:
+        if linje not in svar.get((rid, n), []):
+            feil.append('%s til %d: fant ikke «%s»' % (rid, n, linje))
+    return feil, len(jobber)
+
+
 def main():
     srv, port = start_server()
     alt_ok = True
@@ -99,6 +147,12 @@ def main():
                 print('   ', x)
             alt_ok &= not harde
             page.close()
+            sk, antall = test_skalering(b, f)
+            print('%-18s %s' % ('  omregning', 'OK (%d porsjonsvalg)' % antall if not sk
+                                else 'FEILET (%d linjer)' % len(sk)))
+            for x in sk[:15]:
+                print('   ', x)
+            alt_ok &= not sk
         b.close()
     srv.shutdown()
     sys.exit(0 if alt_ok else 1)
