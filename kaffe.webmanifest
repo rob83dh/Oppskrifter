@@ -1,0 +1,14 @@
+{
+  "name": "Kaffe",
+  "short_name": "Kaffe",
+  "id": "./kaffe.html",
+  "lang": "no",
+  "start_url": "./kaffe.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#16100C",
+  "theme_color": "#16100C",
+  "icons": [
+    { "src": "kaffe-ikon.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}

@@ -1,0 +1,433 @@
+<!DOCTYPE html>
+<html lang="no">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no, viewport-fit=cover">
+<meta name="robots" content="noindex, nofollow, noarchive">
+<meta name="theme-color" content="#16100C">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<meta name="apple-mobile-web-app-title" content="Kaffe">
+<link rel="manifest" href="kaffe.webmanifest">
+<link rel="apple-touch-icon" href="kaffe-ikon.png">
+<link rel="icon" href="kaffe-ikon.png">
+<title>Kaffe</title>
+<style>
+:root{
+  --bunn:#16100C; --flate:#211812; --flate2:#2A1F17; --linje:#3A2B20;
+  --ink:#F1E6DA; --muted:#BFA894; --svak:#8A7461;
+  --crema:#E3A35B;   /* aksent */
+  --gronn:#8DB38A;   /* ferdig */
+  --disp:"Avenir Next Condensed","Oswald","Roboto Condensed",-apple-system,BlinkMacSystemFont,sans-serif;
+  --sans:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Arial,sans-serif;
+  --mono:ui-monospace,"SF Mono",Menlo,Consolas,monospace;
+}
+*{box-sizing:border-box}
+html,body{margin:0;padding:0}
+body{background:var(--bunn);color:var(--ink);font-family:var(--sans);font-size:16px;line-height:1.5;
+ -webkit-text-size-adjust:100%;touch-action:manipulation;
+ padding-bottom:calc(40px + env(safe-area-inset-bottom));
+ background-image:radial-gradient(120% 55% at 50% -10%,#2A1C12 0%,var(--bunn) 60%);background-attachment:fixed}
+.wrap{max-width:640px;margin:0 auto;padding:0 16px}
+button{font:inherit;color:inherit}
+button:focus-visible{outline:1px solid var(--crema);outline-offset:3px}
+.skjult{display:none!important}
+
+/* topp */
+header{display:flex;align-items:center;gap:12px;padding:calc(16px + env(safe-area-inset-top,0px)) 0 14px;
+ border-bottom:1px solid var(--linje)}
+header h1{flex:1;margin:0;font-family:var(--disp);font-size:28px;font-weight:600;letter-spacing:.08em;
+ text-transform:uppercase;line-height:1}
+.tilbake{width:38px;height:38px;border:1px solid var(--linje);background:var(--flate);border-radius:50%;
+ cursor:pointer;font-size:18px;line-height:1;color:var(--muted)}
+.vaken{display:flex;align-items:center;gap:7px;border:1px solid var(--linje);background:var(--flate);
+ border-radius:20px;padding:8px 13px;cursor:pointer;font-family:var(--mono);font-size:10.5px;
+ letter-spacing:.12em;text-transform:uppercase;color:var(--muted)}
+.vaken .prikk{width:8px;height:8px;border-radius:50%;background:var(--svak)}
+.vaken[aria-pressed="true"]{border-color:var(--crema);color:var(--crema)}
+.vaken[aria-pressed="true"] .prikk{background:var(--crema);box-shadow:0 0 8px var(--crema)}
+
+/* faner */
+.faner{display:flex;gap:24px;margin-top:18px;border-bottom:1px solid var(--linje)}
+.faner button{background:none;border:0;padding:0 0 11px;cursor:pointer;font-family:var(--mono);font-size:11px;
+ letter-spacing:.15em;text-transform:uppercase;color:var(--svak);border-bottom:1px solid transparent;margin-bottom:-1px}
+.faner button.på{color:var(--crema);border-bottom-color:var(--crema)}
+
+/* liste */
+.kort{display:block;width:100%;text-align:left;background:var(--flate);border:1px solid var(--linje);
+ border-radius:4px;padding:15px 16px;margin-top:12px;cursor:pointer}
+.kort .tit{font-family:var(--disp);font-size:21px;font-weight:600;letter-spacing:.03em;text-transform:uppercase;line-height:1.15}
+.kort .und{font-family:var(--mono);font-size:11px;letter-spacing:.06em;color:var(--svak);margin-top:6px}
+.tom{color:var(--svak);font-size:14px;padding:26px 2px}
+
+/* detalj */
+.tittel{font-family:var(--disp);font-size:30px;font-weight:600;letter-spacing:.03em;text-transform:uppercase;
+ line-height:1.1;margin:20px 0 4px}
+.kilde{font-family:var(--mono);font-size:11px;color:var(--svak);letter-spacing:.04em}
+.kilde a{color:var(--muted)}
+.tall{display:grid;grid-template-columns:repeat(3,1fr);gap:1px;background:var(--linje);border:1px solid var(--linje);
+ border-radius:4px;overflow:hidden;margin-top:18px}
+.t{background:var(--flate);padding:11px 12px}
+.t i{display:block;font-style:normal;font-family:var(--mono);font-size:9px;letter-spacing:.15em;text-transform:uppercase;color:var(--svak)}
+.t b{display:block;font-family:var(--disp);font-size:22px;font-weight:600;letter-spacing:.02em;margin-top:2px}
+.dose{display:flex;align-items:center;gap:10px;margin-top:14px;font-family:var(--mono);font-size:11px;
+ letter-spacing:.1em;text-transform:uppercase;color:var(--svak)}
+.dose button{width:34px;height:34px;border-radius:50%;border:1px solid var(--linje);background:var(--flate);
+ cursor:pointer;font-size:18px;line-height:1;color:var(--muted)}
+.dose b{font-family:var(--disp);font-size:22px;color:var(--ink);text-transform:none;min-width:58px;text-align:center;letter-spacing:.02em}
+.dose .nullstill{width:auto;border-radius:16px;padding:0 11px;font-family:var(--mono);font-size:10px;letter-spacing:.1em}
+.kvern{margin-top:12px;font-size:14px;color:var(--muted)}
+.kvern b{color:var(--ink);font-weight:600}
+h2{font-family:var(--mono);font-size:10.5px;font-weight:400;letter-spacing:.2em;text-transform:uppercase;
+ color:var(--svak);margin:26px 0 8px}
+ul.utstyr{margin:0;padding-left:18px;color:var(--muted);font-size:14.5px}
+
+/* tidslinje */
+ol.steg{list-style:none;margin:0;padding:0;position:relative}
+ol.steg::before{content:"";position:absolute;left:52px;top:8px;bottom:8px;width:1px;background:var(--linje)}
+ol.steg li{display:flex;gap:14px;padding:10px 0;position:relative;transition:opacity .2s}
+.tid{flex:0 0 40px;text-align:right;font-family:var(--mono);font-size:13px;color:var(--crema);padding-top:2px}
+.node{flex:0 0 11px;height:11px;border-radius:50%;border:1px solid var(--svak);background:var(--bunn);margin-top:6px;z-index:1}
+.stegtekst{flex:1;font-size:15px;color:var(--muted)}
+.stegtekst b{color:var(--ink);font-weight:600}
+.stegtekst .meta{display:block;font-family:var(--mono);font-size:11px;color:var(--svak);margin-top:3px;letter-spacing:.03em}
+ol.steg li.na .node{background:var(--crema);border-color:var(--crema);box-shadow:0 0 10px var(--crema)}
+ol.steg li.na .stegtekst{color:var(--ink)}
+ol.steg li.gjort{opacity:.42}
+ol.steg li.gjort .node{background:var(--gronn);border-color:var(--gronn)}
+
+.notat{border-left:1px solid var(--crema);padding:2px 0 2px 13px;color:var(--muted);font-size:14px;margin:0 0 10px}
+.flagg{color:var(--crema)}
+
+/* bryggepanel */
+.panel{position:sticky;bottom:0;margin:22px -16px 0;padding:14px 16px calc(14px + env(safe-area-inset-bottom));
+ background:rgba(22,16,12,.94);backdrop-filter:blur(8px);-webkit-backdrop-filter:blur(8px);border-top:1px solid var(--linje)}
+.klokke{display:flex;align-items:baseline;justify-content:space-between;gap:12px}
+.klokke .ur{font-family:var(--mono);font-size:44px;font-weight:300;letter-spacing:.02em;line-height:1;font-variant-numeric:tabular-nums}
+.mal{text-align:right}
+.mal i{display:block;font-style:normal;font-family:var(--mono);font-size:9px;letter-spacing:.15em;text-transform:uppercase;color:var(--svak)}
+.mal b{display:block;font-family:var(--disp);font-size:34px;font-weight:600;color:var(--crema);line-height:1.05;font-variant-numeric:tabular-nums}
+.beskjed{font-size:15px;margin-top:8px;min-height:22px}
+.beskjed s{text-decoration:none;font-family:var(--mono);font-size:12px;color:var(--svak);margin-left:6px}
+.fremdrift{height:3px;background:var(--linje);border-radius:2px;margin-top:10px;overflow:hidden}
+.fremdrift div{height:100%;width:0;background:var(--crema);transition:width .25s linear}
+.knapper{display:flex;gap:10px;margin-top:12px}
+.knapper button{flex:1;padding:13px;border-radius:4px;border:1px solid var(--linje);background:var(--flate2);cursor:pointer;
+ font-family:var(--mono);font-size:12px;letter-spacing:.14em;text-transform:uppercase}
+.knapper .start{background:var(--crema);border-color:var(--crema);color:#1A120C;font-weight:700}
+.klar{font-size:15px;color:var(--muted)}
+.klar b{color:var(--crema);font-family:var(--disp);font-size:24px;letter-spacing:.02em}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header>
+    <button class="tilbake skjult" id="tilbake" type="button" aria-label="Tilbake">←</button>
+    <h1 id="topp">Kaffe</h1>
+    <button class="vaken" id="vaken" type="button" aria-pressed="false">
+      <span class="prikk"></span><span id="vaken-tx">Skjerm på</span>
+    </button>
+  </header>
+
+  <section id="liste">
+    <nav class="faner" id="faner"></nav>
+    <div id="kortene"></div>
+  </section>
+
+  <section id="detalj" class="skjult"></section>
+</div>
+
+<script>
+/* ============================================================
+   OPPSKRIFTENE
+   Vekter er totalvekt på vekta (g), tider i sekunder fra start.
+   Et steg uten «t» er forberedelse og vises før tidslinjen.
+   ============================================================ */
+var METODER = [
+  {id:'pourover', navn:'Pour over'},
+  {id:'aeropress', navn:'AeroPress'},
+  {id:'coldbrew', navn:'Cold brew'}
+];
+
+var OPPSKRIFTER = [
+  {
+    id: 'v60-for-to',
+    metode: 'pourover',
+    navn: 'V60 for to – «Two and Through»',
+    kort: 'Stor dose i V60, fire hellinger, ferdig på 2:10',
+    kilde: 'Instagram-reel (14. nov. 2026, 3 likes), etter Lance Hedricks «Two and Through»',
+    lenke: 'https://www.instagram.com/reel/Dfti8SHxEdm/',
+    kaffe: 30, vann: 450, temp: '85 °C',
+    kvern: '<b>Middels grov.</b> 1Zpresso ZP6: 58 klikk (ca. 760 µm) – tre klikk grovere enn en vanlig tokopps.',
+    utstyr: ['Hario V60 (02) med papirfilter', 'Karaffe ca. 600 ml', 'Vekt med tidtaker', 'Svanehalskanne'],
+    forbered: [
+      'Varm vannet til <b>85 °C</b>. Hold det under 88 °C – varmere tar de blomstrete smakene først.',
+      'Skyll papirfilteret med varmt vann og tøm karaffen.',
+      'Mal <b>{k} g</b> kaffe, ha den i filteret, rist det jevnt og nullstill vekta.'
+    ],
+    steg: [
+      {t: 0,   til: 90,  tekst: '1. helling', hvordan: 'Sakte spiraler, fukt all kaffen.'},
+      {t: 20,  til: 150, tekst: '2. helling', hvordan: 'Rolige spiraler.'},
+      {t: 40,  til: 200, tekst: '3. helling', hvordan: 'Rolige spiraler.'},
+      {t: 60,  til: 450, tekst: '4. helling', hvordan: 'Raskt, rett i midten. Så la det renne.'},
+      {t: 130, slutt: true, tekst: 'Gjennomrent', hvordan: 'Ta av trakten, rør rundt i karaffen og server.'}
+    ],
+    notat: [
+      'Med 30 g blir kaffesengen så dyp at én blooming gir tørre lommer, derfor fuktes den i tre små hellinger. Den siste store hellingen kommer på få sekunder og står med kaffen mens den renner – det er der sødmen kommer fra.',
+      'Grovere kvern enn vanlig fordi finere gir bitterhet i en så dyp seng.',
+      '<span class="flagg">Merk:</span> videoteksten sier at siste helling er 240 g, men fra 200 til 450 g er 250 g. Skjermteksten og vekta i videoen viser 450 g, så det er brukt her.',
+      'Kaffen i videoen: Hambela fra Haru Roasters (Guji, Etiopia, anaerob natural) – drue, plomme, ananas.'
+    ]
+  }
+];
+
+/* ============================================================ */
+var $ = function(id){ return document.getElementById(id); };
+var aktivMetode = 'pourover', aktiv = null, dose = null;
+
+function mmss(s){
+  s = Math.max(0, Math.round(s));
+  return Math.floor(s / 60) + ':' + ('0' + s % 60).slice(-2);
+}
+function varighet(s){
+  if (s >= 3600){ var h = s / 3600; return (h % 1 ? h.toFixed(1).replace('.', ',') : h) + ' t'; }
+  if (s >= 60 && s % 60 === 0) return (s / 60) + ' min';
+  return s >= 60 ? mmss(s) : s + ' s';
+}
+function lang(o){ return o.steg[o.steg.length - 1].t >= 3600; }  /* cold brew o.l.: ingen stoppeklokke */
+function g(v){ return Math.round(v * dose / aktiv.kaffe); }
+function ratio(o){ return '1:' + (Math.round(o.vann / o.kaffe * 10) / 10).toString().replace('.', ','); }
+
+/* ---------- liste ---------- */
+function tegnListe(){
+  $('faner').innerHTML = METODER.map(function(m){
+    var n = OPPSKRIFTER.filter(function(o){ return o.metode === m.id; }).length;
+    return '<button type="button" data-m="' + m.id + '" class="' + (m.id === aktivMetode ? 'på' : '') + '">' +
+      m.navn + ' · ' + n + '</button>';
+  }).join('');
+  var liste = OPPSKRIFTER.filter(function(o){ return o.metode === aktivMetode; });
+  $('kortene').innerHTML = liste.length ? liste.map(function(o){
+    return '<button class="kort" type="button" data-id="' + o.id + '"><div class="tit">' + o.navn + '</div>' +
+      '<div class="und">' + o.kaffe + ' g · ' + o.vann + ' g vann · ' + ratio(o) + ' · ' + o.temp +
+      ' · ' + (lang(o) ? varighet(o.steg[o.steg.length - 1].t) : mmss(o.steg[o.steg.length - 1].t)) + '</div></button>';
+  }).join('') : '<div class="tom">Ingen oppskrifter her ennå.</div>';
+}
+$('faner').onclick = function(e){
+  var b = e.target.closest('button'); if (!b) return;
+  aktivMetode = b.dataset.m; tegnListe();
+};
+$('kortene').onclick = function(e){
+  var b = e.target.closest('.kort'); if (b) location.hash = b.dataset.id;
+};
+
+/* ---------- detalj ---------- */
+function tegnDetalj(){
+  var o = aktiv, siste = o.steg[o.steg.length - 1];
+  var stegHtml = o.steg.map(function(s, i){
+    var neste = o.steg[i + 1], forrige = 0;
+    for (var j = i - 1; j >= 0; j--) if (o.steg[j].til != null){ forrige = o.steg[j].til; break; }
+    var meta = [];
+    if (s.til != null) meta.push('+' + g(s.til - forrige) + ' g');
+    if (neste) meta.push(varighet(neste.t - s.t) + (s.til != null ? ' til neste' : ''));
+    return '<li data-i="' + i + '"><span class="tid">' + (lang(o) ? varighet(s.t) : mmss(s.t)) + '</span>' +
+      '<span class="node"></span><span class="stegtekst"><b>' + s.tekst +
+      (s.til != null ? ' → ' + g(s.til) + ' g' : '') + '</b> ' + (s.hvordan || '') +
+      (meta.length ? '<span class="meta">' + meta.join(' · ') + '</span>' : '') + '</span></li>';
+  }).join('');
+
+  $('detalj').innerHTML =
+    '<div class="tittel">' + o.navn + '</div>' +
+    '<div class="kilde">' + (o.lenke ? '<a href="' + o.lenke + '" target="_blank" rel="noopener">' + o.kilde + '</a>' : o.kilde) + '</div>' +
+    '<div class="tall">' +
+      '<div class="t"><i>Kaffe</i><b>' + dose + ' g</b></div>' +
+      '<div class="t"><i>Vann</i><b>' + g(o.vann) + ' g</b></div>' +
+      '<div class="t"><i>Forhold</i><b>' + ratio(o) + '</b></div>' +
+      '<div class="t"><i>Temp</i><b>' + o.temp + '</b></div>' +
+      '<div class="t"><i>Hellinger</i><b>' + o.steg.filter(function(s){ return s.til != null; }).length + '</b></div>' +
+      '<div class="t"><i>Total tid</i><b>' + (lang(o) ? varighet(siste.t) : mmss(siste.t)) + '</b></div>' +
+    '</div>' +
+    '<div class="dose">Dose <button type="button" id="mindre" aria-label="Mindre kaffe">−</button><b>' + dose +
+      ' g</b><button type="button" id="mer" aria-label="Mer kaffe">+</button>' +
+      (dose !== o.kaffe ? '<button type="button" class="nullstill" id="nullstill">Original</button>' : '') + '</div>' +
+    (o.kvern ? '<div class="kvern">Kvern: ' + o.kvern + '</div>' : '') +
+    (o.utstyr ? '<h2>Utstyr</h2><ul class="utstyr"><li>' + o.utstyr.join('</li><li>') + '</li></ul>' : '') +
+    '<h2>Forbered</h2><ol class="steg forb">' + o.forbered.map(function(f){
+      return '<li><span class="tid">–</span><span class="node"></span><span class="stegtekst">' +
+        f.replace('{k}', dose) + '</span></li>';
+    }).join('') + '</ol>' +
+    '<h2>Fremgangsmåte</h2><ol class="steg" id="tidslinje">' + stegHtml + '</ol>' +
+    (o.notat ? '<h2>Notater</h2>' + o.notat.map(function(n){ return '<p class="notat">' + n + '</p>'; }).join('') : '') +
+    panelHtml();
+
+  $('mindre').onclick = function(){ endreDose(-1); };
+  $('mer').onclick = function(){ endreDose(1); };
+  if ($('nullstill')) $('nullstill').onclick = function(){ dose = o.kaffe; tegnDetalj(); };
+  kobleKnapper();
+  oppdater();
+}
+function endreDose(d){
+  if (start || pauset) return;            /* ikke endre midt i en brygging */
+  dose = Math.max(5, dose + d); tegnDetalj();
+}
+
+/* ---------- bryggepanel ---------- */
+var start = 0, pauset = 0, tikk = null, sistSteg = -1, kaldStart = 0;
+
+function panelHtml(){
+  if (lang(aktiv)) return '<div class="panel"><div class="klar" id="klar"></div>' +
+    '<div class="knapper"><button type="button" class="start" id="kaldstart">Satt i gang nå</button></div></div>';
+  return '<div class="panel">' +
+    '<div class="klokke"><span class="ur" id="ur">0:00</span>' +
+    '<span class="mal"><i id="mal-i">Hell til</i><b id="mal">' + g(aktiv.steg[0].til) + ' g</b></span></div>' +
+    '<div class="beskjed" id="beskjed">Trykk start når du begynner å helle.</div>' +
+    '<div class="fremdrift"><div id="fremdrift"></div></div>' +
+    '<div class="knapper"><button type="button" class="start" id="startknapp">Start</button>' +
+    '<button type="button" id="nullknapp">Nullstill</button></div></div>';
+}
+function kobleKnapper(){
+  if ($('startknapp')){
+    $('startknapp').onclick = function(){
+      if (start){ pauset = Date.now() - start; start = 0; stoppTikk(); }
+      else { start = Date.now() - pauset; pauset = 0; if (!vOnsket) slaVaken(true); lyd(0); startTikk(); }
+      oppdater();
+    };
+    $('nullknapp').onclick = nullstill;
+  }
+  if ($('kaldstart')){
+    $('kaldstart').onclick = function(){
+      kaldStart = Date.now();
+      try { localStorage.setItem('kaffe-kald-' + aktiv.id, kaldStart); } catch(e){}
+      oppdater();
+    };
+  }
+}
+function nullstill(){ start = 0; pauset = 0; sistSteg = -1; stoppTikk(); oppdater(); }
+function startTikk(){ stoppTikk(); tikk = setInterval(oppdater, 200); }
+function stoppTikk(){ if (tikk){ clearInterval(tikk); tikk = null; } }
+
+function oppdater(){
+  if (!aktiv) return;
+  var o = aktiv, li = document.querySelectorAll('#tidslinje li');
+
+  if (lang(o)){
+    var ks = kaldStart;
+    if (!ks){ try { ks = +localStorage.getItem('kaffe-kald-' + o.id) || 0; } catch(e){} }
+    var klar = $('klar'); if (!klar) return;
+    if (ks){
+      var ferdig = new Date(ks + o.steg[o.steg.length - 1].t * 1000);
+      klar.innerHTML = 'Klar <b>' + ferdig.toLocaleString('no', {weekday:'long', hour:'2-digit', minute:'2-digit'}) + '</b>';
+    } else klar.textContent = 'Trykk når kaffen er satt i kjøleskapet, så regner jeg ut når den er klar.';
+    return;
+  }
+
+  var tid = start ? (Date.now() - start) / 1000 : pauset / 1000;
+  var i = -1;
+  for (var k = 0; k < o.steg.length; k++) if (tid >= o.steg[k].t && (start || pauset)) i = k;
+  var siste = o.steg[o.steg.length - 1], ferdig = i === o.steg.length - 1;
+
+  $('ur').textContent = mmss(tid);
+  $('startknapp').textContent = start ? 'Pause' : (pauset ? 'Fortsett' : 'Start');
+  $('fremdrift').style.width = Math.min(100, tid / siste.t * 100) + '%';
+
+  li.forEach(function(el, n){
+    el.classList.toggle('na', n === i);
+    el.classList.toggle('gjort', n < i);
+  });
+
+  if (i !== sistSteg && start){
+    if (i > 0) lyd(ferdig ? 2 : 1);
+    sistSteg = i;
+    if (li[i]) li[i].scrollIntoView({block:'center', behavior:'smooth'});
+  }
+
+  var s = o.steg[i], neste = o.steg[i + 1];
+  if (i < 0){
+    $('mal-i').textContent = 'Hell til'; $('mal').textContent = g(o.steg[0].til) + ' g';
+    $('beskjed').innerHTML = 'Trykk start når du begynner å helle.';
+  } else if (ferdig){
+    $('mal-i').textContent = 'Ferdig'; $('mal').textContent = g(o.vann) + ' g';
+    $('beskjed').innerHTML = '<b>' + s.tekst + '.</b> ' + s.hvordan;
+    if (start){ start = 0; pauset = siste.t * 1000; stoppTikk(); $('startknapp').textContent = 'Start'; }
+  } else {
+    var tilSiste = 0;
+    for (var j = i; j >= 0; j--) if (o.steg[j].til != null){ tilSiste = o.steg[j].til; break; }
+    $('mal-i').textContent = s.til != null ? 'Hell til' : 'Vekt';
+    $('mal').textContent = g(tilSiste) + ' g';
+    $('beskjed').innerHTML = '<b>' + s.tekst + '.</b> ' + (s.hvordan || '') +
+      (neste ? '<s>' + (neste.slutt ? 'ferdig' : neste.tekst) + ' om ' + mmss(neste.t - tid) + '</s>' : '');
+  }
+}
+
+/* kort pip og vibrasjon ved hvert nytt steg (0 = start, 1 = ny helling, 2 = ferdig) */
+var lydKtx = null;
+function lyd(type){
+  try {
+    if (!lydKtx) lydKtx = new (window.AudioContext || window.webkitAudioContext)();
+    if (lydKtx.state === 'suspended') lydKtx.resume();
+    if (type === 0) return;               /* bare lås opp lyden på første trykk */
+    var toner = type === 2 ? [660, 880] : [880];
+    toner.forEach(function(f, n){
+      var osc = lydKtx.createOscillator(), gain = lydKtx.createGain(), t0 = lydKtx.currentTime + n * 0.18;
+      osc.frequency.value = f; osc.connect(gain); gain.connect(lydKtx.destination);
+      gain.gain.setValueAtTime(0.0001, t0);
+      gain.gain.exponentialRampToValueAtTime(0.25, t0 + 0.02);
+      gain.gain.exponentialRampToValueAtTime(0.0001, t0 + 0.16);
+      osc.start(t0); osc.stop(t0 + 0.17);
+    });
+  } catch(e){}
+  if (navigator.vibrate) navigator.vibrate(type === 2 ? [120, 80, 120] : 150);
+}
+
+/* ---------- hold skjermen våken ---------- */
+var vBtn = $('vaken'), vTxt = $('vaken-tx'), vLock = null, vOnsket = false;
+if (!('wakeLock' in navigator)) vBtn.classList.add('skjult');
+function tegnVaken(){
+  vBtn.setAttribute('aria-pressed', vOnsket ? 'true' : 'false');
+  vTxt.textContent = vOnsket ? 'Skjerm holdes på' : 'Skjerm på';
+}
+function taVaken(){
+  if (!('wakeLock' in navigator) || vLock) return;
+  navigator.wakeLock.request('screen').then(function(l){
+    vLock = l;
+    l.addEventListener('release', function(){ vLock = null; });
+  }).catch(function(){ vOnsket = false; tegnVaken(); });
+}
+function slaVaken(på){
+  vOnsket = på; tegnVaken();
+  if (på) taVaken();
+  else if (vLock){ vLock.release().catch(function(){}); vLock = null; }
+}
+vBtn.onclick = function(){ slaVaken(!vOnsket); };
+/* låsen slippes når appen går i bakgrunnen; ta den igjen når du kommer tilbake */
+document.addEventListener('visibilitychange', function(){
+  if (document.visibilityState === 'visible' && vOnsket) taVaken();
+});
+
+/* ---------- navigasjon ---------- */
+function rute(){
+  var id = decodeURIComponent(location.hash.slice(1));
+  var o = OPPSKRIFTER.filter(function(x){ return x.id === id; })[0];
+  stoppTikk(); start = 0; pauset = 0; sistSteg = -1; kaldStart = 0;
+  if (o){
+    aktiv = o; dose = o.kaffe; aktivMetode = o.metode;
+    $('liste').classList.add('skjult'); $('detalj').classList.remove('skjult');
+    $('tilbake').classList.remove('skjult');
+    $('topp').textContent = METODER.filter(function(m){ return m.id === o.metode; })[0].navn;
+    tegnDetalj(); window.scrollTo(0, 0);
+  } else {
+    aktiv = null;
+    $('detalj').classList.add('skjult'); $('liste').classList.remove('skjult');
+    $('tilbake').classList.add('skjult'); $('topp').textContent = 'Kaffe';
+    tegnListe();
+  }
+}
+$('tilbake').onclick = function(){ location.hash = ''; };
+window.addEventListener('hashchange', rute);
+rute();
+
+if ('serviceWorker' in navigator){
+  window.addEventListener('load', function(){ navigator.serviceWorker.register('sw.js').catch(function(){}); });
+}
+</script>
+</body>
+</html>
