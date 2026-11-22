@@ -390,6 +390,87 @@ var OPPSKRIFTER = [
     ]
   },
   {
+    id: 'april-100-100',
+    metode: 'pourover',
+    navn: 'April 100 + 100 – én kopp',
+    kort: 'April Coffee Roasters sin grunnoppskrift: 12 g, to hellinger',
+    kilde: 'April Coffee Roasters (via Google-oppsummering)',
+    lenke: 'https://www.aprilcoffeeroasters.com/',
+    kaffe: 12, vann: 200, temp: '92 °C',
+    kvern: '<b>Middels grov.</b> Fellow Opus: <b>ca. 6</b> <span class="flagg">(anslag – April oppgir 11,5–12,5 uten å si hvilken kvern)</span>.',
+    utstyr: ['April Brewer med April-filter (flatbunnet)', 'Karaffe', 'Vekt med tidtaker', 'Svanehalskanne'],
+    forbered: [
+      'Varm vannet til <b>92 °C</b>.',
+      'Skyll filteret og varm karaffen. Tøm.',
+      'Mal <b>{k} g</b> kaffe, ha den i filteret, rist den flat og nullstill vekta.'
+    ],
+    steg: [
+      {t: 0,   til: 100, tekst: '1. helling', hvordan: 'I ett strekk på ca. 10 s: først 60 g i sirkler, så 40 g rett i midten. La det synke.'},
+      {t: 30,  til: 200, tekst: '2. helling', hvordan: 'Samme mønster: 60 g i sirkler, så 40 g i midten.'},
+      {t: 140, slutt: true, tekst: 'Gjennomrent', hvordan: 'Stopp når det slutter å dryppe.'}
+    ],
+    notat: [
+      'Ingen blooming – første helling er på 100 g.',
+      'April oppgir bryggetid 2:20–3:00 (Google-oppsummeringen sier «rundt 2 minutter»). 2:20 er brukt i timeren.',
+      'Andre helling ved 0:30 er fra April sin profil for samme oppskrift; skjermbildet oppgir ikke tidspunkt.'
+    ]
+  },
+  {
+    id: 'april-puls',
+    metode: 'pourover',
+    navn: 'April klassisk puls – 15 g',
+    kort: 'Blooming og fire små spiralhellinger à 50 g',
+    kilde: 'April Coffee Roasters (via Google-oppsummering)',
+    lenke: 'https://www.aprilcoffeeroasters.com/',
+    kaffe: 15, vann: 250, temp: '92 °C',
+    kvern: '<b>Middels.</b> Fellow Opus: <b>ca. 5½</b> <span class="flagg">(anslag)</span>.',
+    utstyr: ['April Brewer med April-filter (flatbunnet)', 'Karaffe', 'Vekt med tidtaker', 'Svanehalskanne'],
+    forbered: [
+      'Varm vannet til <b>92 °C</b> <span class="flagg">(lagt til – ikke oppgitt)</span>.',
+      'Skyll filteret og varm karaffen. Tøm.',
+      'Mal <b>{k} g</b> kaffe, ha den i filteret og nullstill vekta.'
+    ],
+    steg: [
+      {t: 0,   til: 50,  tekst: 'Blooming', hvordan: 'Spiral til 50 g og la den boble.'},
+      {t: 30,  til: 100, tekst: '2. helling', hvordan: 'Liten spiral.'},
+      {t: 60,  til: 150, tekst: '3. helling', hvordan: 'Liten spiral.'},
+      {t: 90,  til: 200, tekst: '4. helling', hvordan: 'Liten spiral.'},
+      {t: 120, til: 250, tekst: '5. helling', hvordan: 'Liten spiral. Så la det renne.'},
+      {t: 180, slutt: true, tekst: 'Gjennomrent', hvordan: 'Når det slutter å dryppe, ca. 3 minutter.'}
+    ],
+    notat: [
+      'Små spiralhellinger skal få fram sødme og klarhet i lysbrent kaffe.',
+      '<span class="flagg">Merk:</span> kilden oppgir verken temperatur eller når hver helling skal starte. 92 °C og 30 sekunder mellom hellingene er lagt til.'
+    ]
+  },
+  {
+    id: 'april-24-400',
+    metode: 'pourover',
+    navn: 'April stor porsjon – 24 g',
+    kort: 'Fire hellinger à 100 g, 60 g i sirkler og 40 g i midten',
+    kilde: 'April Coffee Roasters (via Google-oppsummering)',
+    lenke: 'https://www.aprilcoffeeroasters.com/',
+    kaffe: 24, vann: 400, temp: '92 °C',
+    kvern: '<b>Middels grov</b>, litt grovere enn til én kopp. Fellow Opus: <b>ca. 6½</b> <span class="flagg">(anslag)</span>.',
+    utstyr: ['April Brewer med April-filter (flatbunnet)', 'Karaffe', 'Vekt med tidtaker', 'Svanehalskanne'],
+    forbered: [
+      'Varm vannet til <b>92 °C</b>.',
+      'Skyll filteret og varm karaffen. Tøm.',
+      'Mal <b>{k} g</b> kaffe, ha den i filteret, rist den flat og nullstill vekta.'
+    ],
+    steg: [
+      {t: 0,   til: 100, tekst: '1. helling', hvordan: '60 g i spiral, så 40 g rett i midten.'},
+      {t: 35,  til: 200, tekst: '2. helling', hvordan: '60 g i spiral, så 40 g i midten.'},
+      {t: 65,  til: 300, tekst: '3. helling', hvordan: '60 g i spiral, så 40 g i midten.'},
+      {t: 110, til: 400, tekst: '4. helling', hvordan: '60 g i spiral, så 40 g i midten. Så la det renne.'},
+      {t: 210, slutt: true, tekst: 'Gjennomrent', hvordan: 'Rør rundt i karaffen og server.'}
+    ],
+    notat: [
+      'Samme mønster som April 100 + 100, bare doblet: hver helling er 100 g, delt i 60 g i sirkler og 40 g i midten.',
+      '<span class="flagg">Merk:</span> kilden sier ikke når den skal være gjennomrent. 3:30 er et anslag.'
+    ]
+  },
+  {
     id: 'islatte-pa-melk',
     metode: 'iskaffe',
     navn: 'Islatte trukket på melk',
