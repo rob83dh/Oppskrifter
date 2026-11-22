@@ -197,6 +197,12 @@ function varighet(s){
 }
 function lang(o){ return o.steg[o.steg.length - 1].t >= 3600; }  /* cold brew o.l.: ingen stoppeklokke */
 function g(v){ return Math.round(v * dose / aktiv.kaffe); }
+/* vannet som helles i steg i – forskjellen fra forrige vektmål, ikke vekta totalt */
+function mengde(i){
+  var forrige = 0;
+  for (var j = i - 1; j >= 0; j--) if (aktiv.steg[j].til != null){ forrige = aktiv.steg[j].til; break; }
+  return g(aktiv.steg[i].til) - g(forrige);
+}
 function ratio(o){ return '1:' + (Math.round(o.vann / o.kaffe * 10) / 10).toString().replace('.', ','); }
 
 /* ---------- liste ---------- */
@@ -225,14 +231,12 @@ $('kortene').onclick = function(e){
 function tegnDetalj(){
   var o = aktiv, siste = o.steg[o.steg.length - 1];
   var stegHtml = o.steg.map(function(s, i){
-    var neste = o.steg[i + 1], forrige = 0;
-    for (var j = i - 1; j >= 0; j--) if (o.steg[j].til != null){ forrige = o.steg[j].til; break; }
-    var meta = [];
-    if (s.til != null) meta.push('+' + g(s.til - forrige) + ' g');
+    var neste = o.steg[i + 1], meta = [];
+    if (s.til != null) meta.push('til vekta viser ' + g(s.til) + ' g totalt');
     if (neste) meta.push(varighet(neste.t - s.t) + (s.til != null ? ' til neste' : ''));
     return '<li data-i="' + i + '"><span class="tid">' + (lang(o) ? varighet(s.t) : mmss(s.t)) + '</span>' +
       '<span class="node"></span><span class="stegtekst"><b>' + s.tekst +
-      (s.til != null ? ' → ' + g(s.til) + ' g' : '') + '</b> ' + (s.hvordan || '') +
+      (s.til != null ? ': hell ' + mengde(i) + ' g' : '') + '</b> ' + (s.hvordan || '') +
       (meta.length ? '<span class="meta">' + meta.join(' · ') + '</span>' : '') + '</span></li>';
   }).join('');
 
@@ -279,7 +283,7 @@ function panelHtml(){
     '<div class="knapper"><button type="button" class="start" id="kaldstart">Satt i gang nå</button></div></div>';
   return '<div class="panel">' +
     '<div class="klokke"><span class="ur" id="ur">0:00</span>' +
-    '<span class="mal"><i id="mal-i">Hell til</i><b id="mal">' + g(aktiv.steg[0].til) + ' g</b></span></div>' +
+    '<span class="mal"><i id="mal-i">Vekta skal vise</i><b id="mal">' + g(aktiv.steg[0].til) + ' g</b></span></div>' +
     '<div class="beskjed" id="beskjed">Trykk start når du begynner å helle.</div>' +
     '<div class="fremdrift"><div id="fremdrift"></div></div>' +
     '<div class="knapper"><button type="button" class="start" id="startknapp">Start</button>' +
@@ -343,7 +347,7 @@ function oppdater(){
 
   var s = o.steg[i], neste = o.steg[i + 1];
   if (i < 0){
-    $('mal-i').textContent = 'Hell til'; $('mal').textContent = g(o.steg[0].til) + ' g';
+    $('mal-i').textContent = 'Vekta skal vise'; $('mal').textContent = g(o.steg[0].til) + ' g';
     $('beskjed').innerHTML = 'Trykk start når du begynner å helle.';
   } else if (ferdig){
     $('mal-i').textContent = 'Ferdig'; $('mal').textContent = g(o.vann) + ' g';
@@ -352,9 +356,9 @@ function oppdater(){
   } else {
     var tilSiste = 0;
     for (var j = i; j >= 0; j--) if (o.steg[j].til != null){ tilSiste = o.steg[j].til; break; }
-    $('mal-i').textContent = s.til != null ? 'Hell til' : 'Vekt';
+    $('mal-i').textContent = 'Vekta skal vise';
     $('mal').textContent = g(tilSiste) + ' g';
-    $('beskjed').innerHTML = '<b>' + s.tekst + '.</b> ' + (s.hvordan || '') +
+    $('beskjed').innerHTML = '<b>' + s.tekst + (s.til != null ? ': hell ' + mengde(i) + ' g' : '') + '.</b> ' + (s.hvordan || '') +
       (neste ? '<s>' + (neste.slutt ? 'ferdig' : neste.tekst) + ' om ' + mmss(neste.t - tid) + '</s>' : '');
   }
 }
