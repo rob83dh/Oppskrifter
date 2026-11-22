@@ -274,6 +274,94 @@ var OPPSKRIFTER = [
     ]
   },
   {
+    id: 'hverdags-v60',
+    metode: 'pourover',
+    navn: 'Hverdags-V60 – lys og fruktig',
+    kort: 'Hans daglige kopp: 15 g, blooming og tre hellinger',
+    kilde: 'Facebook-video «Kaffenerding» del 1 (6. aug. 2026)',
+    lenke: 'https://www.facebook.com/watch/?v=2227369524726092',
+    kaffe: 15, vann: 250, temp: '94 °C',
+    kvern: '<b>Middels grov</b> – grovt for afrikansk kaffe, så det renner rimelig raskt. Fellow Opus: <b>ca. 6</b> ' +
+           '<span class="flagg">(anslag – innstillingen vises ikke i videoen)</span>. Finere gir lengre tid og mer bitterhet.',
+    utstyr: ['Hario V60 med papirfilter', 'Karaffe', 'Vekt med tidtaker', 'Svanehalskanne'],
+    forbered: [
+      'Varm vannet til <b>94 °C</b>.',
+      'Skyll filteret og varm karaffen med nesten kokende vann. Tøm.',
+      'Mal <b>{k} g</b> kaffe (et par sprut vann på bønnene mot statisk elektrisitet), ha den i filteret og nullstill vekta.'
+    ],
+    steg: [
+      {t: 0,  til: 45,  tekst: 'Blooming', hvordan: 'Fukt all kaffen og la den boble.'},
+      {t: 45, til: 115, tekst: '2. helling', hvordan: 'Ca. 5 g i sekundet, så alt blir vått like raskt. La det synke ca. 10 s.'},
+      {t: 70, til: 180, tekst: '3. helling', hvordan: 'Samme tempo. La det synke ca. 10 s.'},
+      {t: 95, til: 250, tekst: '4. helling', hvordan: 'Samme tempo. Så la det renne.'},
+      {t: 210, slutt: true, tekst: 'Gjennomrent', hvordan: 'Server. Smaken kommer bedre fram når den har kjølt seg litt.'}
+    ],
+    notat: [
+      '<span class="flagg">Merk:</span> han sier bloomingen er «omtrent dobbelt så mye vann som kaffe», men vekta viser forholdstall 3,2 – altså ca. 45 g. Vekta er fulgt. Han sier både 30–40 og 45 sekunder; her er 45 brukt.',
+      'Tidene for de tre hellingene er regnet ut fra hans beskrivelse (5 g/s og ca. 10 s pause), ikke lest av vekta. Vekta viste 235 g ved 2:05, og den var gjennomrent på «ganske nøyaktig 3:30».',
+      'I videoen ble det 14,1 g kaffe og ca. 235 g vann – samme forhold, 60 g kaffe per liter. Målet er gjennomrent på 3–3:30.',
+      'Bruk bønner brent for 7–14 dager siden. Mer agitasjon (helle hardere, fra høyere) gir lengre tid gjennom.'
+    ]
+  },
+  {
+    id: 'hario-switch',
+    metode: 'pourover',
+    navn: 'Hario Switch – åpen, lukket, åpen',
+    kort: '30 g til 500 g: halvparten gjennom, resten trekker lukket',
+    kilde: 'Facebook-video «Kaffenerding» del 2 (9. aug. 2026)',
+    lenke: 'https://www.facebook.com/watch/?v=2067895341268562',
+    kaffe: 30, vann: 500, temp: '93 °C',
+    kvern: '<b>Ganske grov.</b> Fellow Opus: <b>ca. 7</b> <span class="flagg">(anslag – innstillingen vises ikke i videoen)</span>. ' +
+           'Går det for fort (alt gjennom på et par minutter): finere. For sakte: grovere.',
+    utstyr: ['Hario Switch med papirfilter', 'Karaffe', 'Vekt med tidtaker', 'Svanehalskanne'],
+    forbered: [
+      'Varm vannet til <b>93 °C</b>. Litt lavere for mørkere brent kaffe, litt høyere for lys.',
+      'Skyll filteret og varm karaffen i samme slengen. Tøm.',
+      'Mal <b>{k} g</b> kaffe, ha den i filteret, rist toppen flat og nullstill vekta.',
+      'Sett switchen i <b>åpen</b> stilling.'
+    ],
+    steg: [
+      {t: 0,   til: 250, tekst: 'Åpen helling', hvordan: 'Ingen blooming. Rolige sirkler, 5–8 g i sekundet – 250 g på 45 sekunder.'},
+      {t: 45,  tekst: 'Lukk switchen', hvordan: 'Nå trekker kaffen i 1½ minutt.'},
+      {t: 60,  til: 500, tekst: 'Resten av vannet', hvordan: 'Hell resten mens den er lukket.'},
+      {t: 135, tekst: 'Åpne switchen', hvordan: 'La det renne gjennom.'},
+      {t: 240, slutt: true, tekst: 'Gjennomrent', hvordan: 'Kaffegruten skal ligge flat og jevn. Lukk switchen igjen før du løfter den av, så det ikke drypper.'}
+    ],
+    notat: [
+      'Vekta viste 249 g ved 0:46, akkurat som målet.',
+      'Når den lukkede hellingen starter, er ikke vist (ca. 1:00 er anslått). Gjennomrenning ved ca. 4:00 er anslått fra videoen.',
+      'Kaffen i videoen: Solberg & Hansen, hans hverdagskaffe. Han liker grov kvern og heller heller agitasjon enn fin kvern, fordi fin kvern gir mer bitterhet.'
+    ]
+  },
+  {
+    id: 'aeropress-invertert',
+    metode: 'aeropress',
+    navn: 'AeroPress invertert – mørk og fyldig',
+    kort: '12 g til 200 g, 97 °C, ingen blooming, press etter ca. 2 min',
+    kilde: 'Facebook-video «Kaffenerding» episode 3 (16. aug. 2026)',
+    lenke: 'https://www.facebook.com/watch/?v=1691521202973938',
+    kaffe: 12, vann: 200, temp: '97 °C',
+    kvern: '<b>Middels fin – litt finere enn vanlig</b>, så du slipper å røre. Fellow Opus: <b>ca. 4</b> ' +
+           '<span class="flagg">(anslag – innstillingen vises ikke i videoen)</span>.',
+    utstyr: ['AeroPress', 'AeroPress-filter (eller vanlig filter klippet til en sirkel)', 'Vekt med tidtaker', 'Kanne', 'Solid kopp'],
+    forbered: [
+      'Varm vannet til <b>97 °C</b> – varmere gir mer fylde og brent smak.',
+      'Sett stempelet litt inn i røret og stå AeroPressen <b>opp ned</b> på vekta.',
+      'Mal <b>{k} g</b> kaffe, ha den i røret og nullstill vekta.'
+    ],
+    steg: [
+      {t: 0,   til: 200, tekst: 'Alt vannet', hvordan: 'Hardt og raskt, ingen blooming. Rør et par runder hvis du vil ha mer smak.'},
+      {t: 90,  tekst: 'Filter på', hvordan: 'Legg filteret i lokket og skru det på.'},
+      {t: 120, tekst: 'Snu og press', hvordan: 'Sett koppen opp ned over, snu alt rundt og press rolig ned.'},
+      {t: 165, slutt: true, tekst: 'Ferdig', hvordan: 'Du er ferdig når det sier «pss». Skru av lokket, skyv ut kaffekaka og skyll.'}
+    ],
+    notat: [
+      'Vekta viste 186 g etter 12 sekunder – vannet går inn på 15 s.',
+      'Han sier 2–4 minutter før du presser, avhengig av hvor mye fylde og bitterhet du vil ha. I videoen snudde han etter ca. 2 minutter; tidene for filter og press er anslått derfra.',
+      'Kaffen i videoen: Kenya fra Tim Wendelbo. Velg kaffe med brennedato på posen, ikke bare holdbarhetsdato.'
+    ]
+  },
+  {
     id: 'islatte-pa-melk',
     metode: 'iskaffe',
     navn: 'Islatte trukket på melk',
@@ -352,7 +440,7 @@ function tegnDetalj(){
   var stegHtml = o.steg.map(function(s, i){
     var neste = o.steg[i + 1], meta = [];
     if (s.til != null) meta.push('til vekta viser ' + g(s.til) + ' g totalt');
-    if (neste) meta.push(varighet(neste.t - s.t) + (s.til != null ? (neste.slutt ? ' til ferdig' : ' til neste') : ''));
+    if (neste) meta.push(varighet(neste.t - s.t) + (neste.slutt ? ' til ferdig' : ' til neste'));
     return '<li data-i="' + i + '"><span class="tid">' + (lang(o) ? (s.t ? varighet(s.t) : 'Start') : mmss(s.t)) + '</span>' +
       '<span class="node"></span><span class="stegtekst"><b>' + s.tekst +
       (s.til != null ? ': hell ' + mengde(i) + ' g' : '') + '</b> ' + (s.hvordan || '') +
