@@ -146,7 +146,7 @@ ol.steg li.gjort .node{background:var(--gronn);border-color:var(--gronn)}
 var METODER = [
   {id:'pourover', navn:'Pour over'},
   {id:'aeropress', navn:'AeroPress'},
-  {id:'coldbrew', navn:'Cold brew'}
+  {id:'iskaffe', navn:'Iskaffe'}
 ];
 
 var OPPSKRIFTER = [
@@ -211,6 +211,32 @@ var OPPSKRIFTER = [
       'Flatbunnet filter gjør at mindre vann renner forbi langs sidene, og alt kaffepulveret får møte vannet.',
       'Kaffen i videoen: Geisha fra Kaffebrenneriet. 15–20 g holder til én stor kopp.'
     ]
+  },
+  {
+    id: 'islatte-pa-melk',
+    metode: 'iskaffe',
+    navn: 'Islatte trukket på melk',
+    kort: 'Grovmalt kaffe rett i kald melk, et døgn i kjøleskapet',
+    kilde: 'Facebook-video «Kaffenerding» (11. okt. 2026)',
+    lenke: 'https://www.facebook.com/watch/?v=1120042567652627',
+    kaffe: 40, vann: 600, vaeske: 'Melk', temp: 'Kald',
+    kvern: '<b>Grov.</b> Fellow Opus: <b>ca. 9</b> <span class="flagg">(anslag – innstillingen vises ikke i videoen)</span>. ' +
+           'Finere kvern (Opus ca. 6) er klar på 8–10 timer, men gir mer bitterhet.',
+    utstyr: ['Glasskrukke med lokk, ca. 1 liter', 'Vekt', 'Grov sil', 'Trakt med papirfilter (f.eks. V60) og karaffe', 'Glass med is'],
+    forbered: [
+      'Sett krukka på vekta og nullstill.',
+      'Mal <b>{k} g</b> kaffe grovt, rett før bruk, og ha den i krukka.'
+    ],
+    steg: [
+      {t: 0, til: 600, tekst: 'Melk', hvordan: 'Hell kald melk over kaffen og rør forsiktig til alt er fuktet. Lokk på og sett i kjøleskapet.'},
+      {t: 86400, slutt: true, tekst: 'Klar', hvordan: 'Sil først gjennom en grov sil for de største klumpene, så gjennom papirfilter. Det renner sakte – gi det god tid. Server i et glass med is.'}
+    ],
+    notat: [
+      'Han sier «600 ml melk på 40 gram vann», men teksten på skjermen retter til «40 gram kaffe». Vekta viser 40 g kaffe og 640 g til sammen, altså 600 g melk.',
+      'Melken trekker ut kaffen omtrent som vann, men kaldt tar det tid: et døgn med grov kvern, 8–10 timer med finere kvern.',
+      'Smaken blir rund og nesten dessertaktig søt.',
+      'Bonustips fra videoen: havremelk gir søtere islatte, helmelk gir mer fylde, og den er like god etter 72 timer i kjøleskapet.'
+    ]
   }
 ];
 
@@ -247,7 +273,7 @@ function tegnListe(){
   var liste = OPPSKRIFTER.filter(function(o){ return o.metode === aktivMetode; });
   $('kortene').innerHTML = liste.length ? liste.map(function(o){
     return '<button class="kort" type="button" data-id="' + o.id + '"><div class="tit">' + o.navn + '</div>' +
-      '<div class="und">' + o.kaffe + ' g · ' + o.vann + ' g vann · ' + ratio(o) + ' · ' + o.temp +
+      '<div class="und">' + o.kaffe + ' g · ' + o.vann + ' g ' + (o.vaeske || 'vann').toLowerCase() + ' · ' + ratio(o) + ' · ' + o.temp +
       ' · ' + (lang(o) ? varighet(o.steg[o.steg.length - 1].t) : mmss(o.steg[o.steg.length - 1].t)) + '</div></button>';
   }).join('') : '<div class="tom">Ingen oppskrifter her ennå.</div>';
 }
@@ -265,8 +291,8 @@ function tegnDetalj(){
   var stegHtml = o.steg.map(function(s, i){
     var neste = o.steg[i + 1], meta = [];
     if (s.til != null) meta.push('til vekta viser ' + g(s.til) + ' g totalt');
-    if (neste) meta.push(varighet(neste.t - s.t) + (s.til != null ? ' til neste' : ''));
-    return '<li data-i="' + i + '"><span class="tid">' + (lang(o) ? varighet(s.t) : mmss(s.t)) + '</span>' +
+    if (neste) meta.push(varighet(neste.t - s.t) + (s.til != null ? (neste.slutt ? ' til ferdig' : ' til neste') : ''));
+    return '<li data-i="' + i + '"><span class="tid">' + (lang(o) ? (s.t ? varighet(s.t) : 'Start') : mmss(s.t)) + '</span>' +
       '<span class="node"></span><span class="stegtekst"><b>' + s.tekst +
       (s.til != null ? ': hell ' + mengde(i) + ' g' : '') + '</b> ' + (s.hvordan || '') +
       (meta.length ? '<span class="meta">' + meta.join(' · ') + '</span>' : '') + '</span></li>';
@@ -277,10 +303,11 @@ function tegnDetalj(){
     '<div class="kilde">' + (o.lenke ? '<a href="' + o.lenke + '" target="_blank" rel="noopener">' + o.kilde + '</a>' : o.kilde) + '</div>' +
     '<div class="tall">' +
       '<div class="t"><i>Kaffe</i><b>' + dose + ' g</b></div>' +
-      '<div class="t"><i>Vann</i><b>' + g(o.vann) + ' g</b></div>' +
+      '<div class="t"><i>' + (o.vaeske || 'Vann') + '</i><b>' + g(o.vann) + ' g</b></div>' +
       '<div class="t"><i>Forhold</i><b>' + ratio(o) + '</b></div>' +
       '<div class="t"><i>Temp</i><b>' + o.temp + '</b></div>' +
-      '<div class="t"><i>Hellinger</i><b>' + o.steg.filter(function(s){ return s.til != null; }).length + '</b></div>' +
+      (lang(o) ? '<div class="t"><i>Trekker</i><b>Kjøleskap</b></div>' :
+      '<div class="t"><i>Hellinger</i><b>' + o.steg.filter(function(s){ return s.til != null; }).length + '</b></div>') +
       '<div class="t"><i>Total tid</i><b>' + (lang(o) ? varighet(siste.t) : mmss(siste.t)) + '</b></div>' +
     '</div>' +
     '<div class="dose">Dose <button type="button" id="mindre" aria-label="Mindre kaffe">−</button><b>' + dose +
