@@ -65,8 +65,10 @@ header h1{flex:1;margin:0;font-family:var(--disp);font-size:28px;font-weight:600
  font-size:22px;line-height:1;color:var(--svak);padding:0}
 .stjerne[aria-pressed="true"]{color:var(--crema)}
 .tittelrad{display:flex;align-items:flex-start;gap:10px;margin:20px 0 4px}
-.tittelrad .tittel{flex:1;margin:0}
+.tittelrad > div{flex:1}
+.tittelrad .tittel{margin:0}
 .tittelrad .stjerne{margin-top:0}
+.fra{font-family:var(--mono);font-size:10px;letter-spacing:.14em;text-transform:uppercase;color:var(--crema);margin-bottom:4px}
 .kort .tit{font-family:var(--disp);font-size:21px;font-weight:600;letter-spacing:.03em;text-transform:uppercase;line-height:1.15}
 .kort .und{font-family:var(--mono);font-size:11px;letter-spacing:.06em;color:var(--svak);margin-top:6px}
 .tom{color:var(--svak);font-size:14px;padding:26px 2px}
@@ -111,7 +113,7 @@ ol.steg li.gjort .node{background:var(--gronn);border-color:var(--gronn)}
 .flagg{color:var(--crema)}
 
 /* bryggepanel */
-.panel{position:sticky;bottom:0;margin:22px -16px 0;padding:14px 16px calc(14px + env(safe-area-inset-bottom));
+.panel{position:sticky;bottom:0;z-index:5;margin:22px -16px 0;padding:14px 16px calc(14px + env(safe-area-inset-bottom));
  background:rgba(22,16,12,.94);backdrop-filter:blur(8px);-webkit-backdrop-filter:blur(8px);border-top:1px solid var(--linje)}
 .klokke{display:flex;align-items:baseline;justify-content:space-between;gap:12px}
 .klokke .ur{font-family:var(--mono);font-size:44px;font-weight:300;letter-spacing:.02em;line-height:1;font-variant-numeric:tabular-nums}
@@ -164,7 +166,8 @@ var OPPSKRIFTER = [
   {
     id: 'v60-for-to',
     metode: 'pourover',
-    navn: 'V60 for to – «Two and Through»',
+    navn: 'V60 for to',
+    fra: 'Lance Hedrick',
     kort: 'Stor dose i V60, fire hellinger, ferdig på 2:10',
     kilde: 'Instagram-reel (14. nov. 2026, 3 likes), etter Lance Hedricks «Two and Through»',
     lenke: 'https://www.instagram.com/reel/Dfti8SHxEdm/',
@@ -194,7 +197,8 @@ var OPPSKRIFTER = [
   {
     id: 'april-en-kopp',
     metode: 'pourover',
-    navn: 'April-brygger – én kopp',
+    navn: 'April-brygger med blooming',
+    fra: 'Kaffenerding',
     kort: 'Flatbunnet trakt, blooming og tre hellinger, ferdig på 2:30',
     kilde: 'Facebook-video «Kaffenerding» (8. nov. 2026)',
     lenke: 'https://www.facebook.com/watch/?v=1175801388172446',
@@ -226,7 +230,8 @@ var OPPSKRIFTER = [
   {
     id: 'chemex',
     metode: 'pourover',
-    navn: 'Chemex – ren og lys kopp',
+    navn: 'Chemex',
+    fra: 'Kaffenerding',
     kort: 'Grov kvern, blooming og tre hellinger, ca. 3 min',
     kilde: 'Facebook-video «Kaffenerding» episode 10 (4. okt. 2026)',
     lenke: 'https://www.facebook.com/watch/?v=28220681587573904',
@@ -259,7 +264,8 @@ var OPPSKRIFTER = [
   {
     id: 'hverdags-v60',
     metode: 'pourover',
-    navn: 'Hverdags-V60 – lys og fruktig',
+    navn: 'V60 – lys og fruktig',
+    fra: 'Kaffenerding',
     kort: 'Hans daglige kopp: 15 g, blooming og tre hellinger',
     kilde: 'Facebook-video «Kaffenerding» del 1 (6. aug. 2026)',
     lenke: 'https://www.facebook.com/watch/?v=2227369524726092',
@@ -289,7 +295,8 @@ var OPPSKRIFTER = [
   {
     id: 'v60-tilgivende',
     metode: 'pourover',
-    navn: 'Tilgivende V60 – lav temperatur',
+    navn: 'V60 med lav temperatur',
+    fra: 'Arthur, Cupsight',
     kort: 'Blooming og to hellinger, 15 g til 230 g på 86 °C',
     kilde: 'Instagram-reel av Arthur (Cupsight), 31. okt. 2026, 1 148 likes',
     lenke: 'https://www.instagram.com/reel/DfKxmbzB52t/',
@@ -309,7 +316,7 @@ var OPPSKRIFTER = [
       {t: 135, slutt: true, tekst: 'Gjennomrent', hvordan: 'Målet er gjennomrent mellom 1:45 og 2:30.'}
     ],
     notat: [
-      'Han kaller den veldig tilgivende: to hellinger etter bloomingen gir nok kontakttid uten at du må kverne fint.',
+      'Han kaller den «forgiving»: den tåler at kverna ikke er helt riktig innstilt, fordi to hellinger etter bloomingen gir nok kontakttid uten at du må kverne fint.',
       '<span class="flagg">Merk:</span> siste helling starter når det slutter å dryppe tett, ikke på et fast tidspunkt. 1:15 og gjennomrent ved 2:15 er anslag – vekta vises ikke i videoen.',
       'Lav temperatur (85–88 °C) passer særlig godt til vaskede kaffer.'
     ]
@@ -317,7 +324,8 @@ var OPPSKRIFTER = [
   {
     id: 'hario-switch',
     metode: 'pourover',
-    navn: 'Hario Switch – åpen, lukket, åpen',
+    navn: 'Hario Switch',
+    fra: 'Kaffenerding',
     kort: '30 g til 500 g: halvparten gjennom, resten trekker lukket',
     kilde: 'Facebook-video «Kaffenerding» del 2 (9. aug. 2026)',
     lenke: 'https://www.facebook.com/watch/?v=2067895341268562',
@@ -347,7 +355,8 @@ var OPPSKRIFTER = [
   {
     id: 'aeropress-invertert',
     metode: 'aeropress',
-    navn: 'AeroPress invertert – mørk og fyldig',
+    navn: 'AeroPress opp ned',
+    fra: 'Kaffenerding',
     kort: '12 g til 200 g, 97 °C, ingen blooming, press etter ca. 2 min',
     kilde: 'Facebook-video «Kaffenerding» episode 3 (16. aug. 2026)',
     lenke: 'https://www.facebook.com/watch/?v=1691521202973938',
@@ -375,7 +384,8 @@ var OPPSKRIFTER = [
   {
     id: 'april-100-100',
     metode: 'pourover',
-    navn: 'April 100 + 100 – én kopp',
+    navn: 'April-brygger – én kopp',
+    fra: 'April Coffee Roasters',
     kort: 'April Coffee Roasters sin grunnoppskrift: 12 g, to hellinger',
     kilde: 'April Coffee Roasters (via Google-oppsummering)',
     lenke: 'https://www.aprilcoffeeroasters.com/',
@@ -401,7 +411,8 @@ var OPPSKRIFTER = [
   {
     id: 'april-puls',
     metode: 'pourover',
-    navn: 'April klassisk puls – 15 g',
+    navn: 'April-brygger – små hellinger',
+    fra: 'April Coffee Roasters',
     kort: 'Blooming og fire små spiralhellinger à 50 g',
     kilde: 'April Coffee Roasters (via Google-oppsummering)',
     lenke: 'https://www.aprilcoffeeroasters.com/',
@@ -429,7 +440,8 @@ var OPPSKRIFTER = [
   {
     id: 'april-24-400',
     metode: 'pourover',
-    navn: 'April stor porsjon – 24 g',
+    navn: 'April-brygger – stor porsjon',
+    fra: 'April Coffee Roasters',
     kort: 'Fire hellinger à 100 g, 60 g i sirkler og 40 g i midten',
     kilde: 'April Coffee Roasters (via Google-oppsummering)',
     lenke: 'https://www.aprilcoffeeroasters.com/',
@@ -456,7 +468,8 @@ var OPPSKRIFTER = [
   {
     id: 'japansk-iskaffe',
     metode: 'iskaffe',
-    navn: 'Japansk iskaffe – X Coffee',
+    navn: 'Iskaffe rett på is',
+    fra: 'X Coffee, Japan',
     kort: 'Sterk pour over rett på is: 17 g, 150 g vann, ferdig på 2:30',
     kilde: 'Oppskriftskort fra X Coffee, Japan',
     kaffe: 17, vann: 150, temp: '85–90 °C',
@@ -484,7 +497,8 @@ var OPPSKRIFTER = [
   {
     id: 'tim-wendelboe-iskaffe',
     metode: 'iskaffe',
-    navn: 'Iskaffe – Tim Wendelboe',
+    navn: 'Iskaffe kjølt i kjøleskap',
+    fra: 'Tim Wendelboe',
     kort: 'Varm V60 med litt sukker, kjølt i kjøleskapet og servert i vinglass',
     kilde: 'Tim Wendelboe, «How to make iced coffee»',
     lenke: 'https://timwendelboe.no/pages/how-to-make-iced-coffee',
@@ -512,7 +526,8 @@ var OPPSKRIFTER = [
   {
     id: 'hario-cold-brew',
     metode: 'iskaffe',
-    navn: 'Cold brew – Hario Filter-in Bottle',
+    navn: 'Cold brew i flaske',
+    fra: 'Hario',
     kort: 'Standard cold brew: 55 g til 700 g vann, 8 timer i kjøleskapet',
     kilde: 'Hario Europe, «Standard Cold Brew Coffee» (2022)',
     lenke: 'https://www.hario-europe.com/blogs/hario-community/cold-brew-recipes',
@@ -537,6 +552,7 @@ var OPPSKRIFTER = [
     id: 'islatte-pa-melk',
     metode: 'iskaffe',
     navn: 'Islatte trukket på melk',
+    fra: 'Kaffenerding',
     kort: 'Grovmalt kaffe rett i kald melk, et døgn i kjøleskapet',
     kilde: 'Facebook-video «Kaffenerding» (11. okt. 2026)',
     lenke: 'https://www.facebook.com/watch/?v=1120042567652627',
@@ -594,7 +610,7 @@ function tegnListe(){
   var liste = OPPSKRIFTER.filter(function(o){ return o.metode === aktivMetode; });
   $('kortene').innerHTML = liste.length ? liste.map(function(o){
     return '<div class="kort' + (erFav(o.id) ? ' fav' : '') + '" role="link" tabindex="0" data-id="' + o.id + '">' +
-      '<div class="midt"><div class="tit">' + o.navn + '</div>' +
+      '<div class="midt">' + (o.fra ? '<div class="fra">' + o.fra + '</div>' : '') + '<div class="tit">' + o.navn + '</div>' +
       '<div class="und">' + o.kaffe + ' g · ' + o.vann + ' g ' + (o.vaeske || 'vann').toLowerCase() + ' · ' + ratio(o) + ' · ' + o.temp +
       ' · ' + (lang(o) ? varighet(o.steg[o.steg.length - 1].t) : mmss(o.steg[o.steg.length - 1].t)) + '</div></div>' +
       stjerneHtml(o.id) + '</div>';
@@ -643,7 +659,7 @@ function tegnDetalj(){
   }).join('');
 
   $('detalj').innerHTML =
-    '<div class="tittelrad"><div class="tittel">' + o.navn + '</div>' + stjerneHtml(o.id) + '</div>' +
+    '<div class="tittelrad"><div><div class="fra">' + (o.fra || '') + '</div><div class="tittel">' + o.navn + '</div></div>' + stjerneHtml(o.id) + '</div>' +
     '<div class="kilde">' + (o.lenke ? '<a href="' + o.lenke + '" target="_blank" rel="noopener">' + o.kilde + '</a>' : o.kilde) + '</div>' +
     '<div class="tall">' +
       '<div class="t"><i>Kaffe</i><b>' + dose + ' g</b></div>' +
