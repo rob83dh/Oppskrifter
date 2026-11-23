@@ -48,14 +48,25 @@ header h1{flex:1;margin:0;font-family:var(--disp);font-size:28px;font-weight:600
 .vaken[aria-pressed="true"] .prikk{background:var(--crema);box-shadow:0 0 8px var(--crema)}
 
 /* faner */
-.faner{display:flex;gap:24px;margin-top:18px;border-bottom:1px solid var(--linje)}
+.faner{display:flex;gap:20px;margin-top:18px;border-bottom:1px solid var(--linje);overflow-x:auto;scrollbar-width:none}
+.faner::-webkit-scrollbar{display:none}
+.faner button{white-space:nowrap;flex:0 0 auto}
 .faner button{background:none;border:0;padding:0 0 11px;cursor:pointer;font-family:var(--mono);font-size:11px;
  letter-spacing:.15em;text-transform:uppercase;color:var(--svak);border-bottom:1px solid transparent;margin-bottom:-1px}
 .faner button.på{color:var(--crema);border-bottom-color:var(--crema)}
 
 /* liste */
-.kort{display:block;width:100%;text-align:left;background:var(--flate);border:1px solid var(--linje);
- border-radius:4px;padding:15px 16px;margin-top:12px;cursor:pointer}
+.kort{display:flex;align-items:flex-start;gap:12px;width:100%;text-align:left;background:var(--flate);border:1px solid var(--linje);
+ border-radius:4px;padding:15px 12px 15px 16px;margin-top:12px;cursor:pointer}
+.kort:focus-visible{outline:1px solid var(--crema);outline-offset:3px}
+.kort .midt{flex:1;min-width:0}
+.kort.fav{border-color:#5A4126}
+.stjerne{flex:0 0 36px;height:36px;margin:-6px -2px -6px 0;border:0;background:none;cursor:pointer;
+ font-size:22px;line-height:1;color:var(--svak);padding:0}
+.stjerne[aria-pressed="true"]{color:var(--crema)}
+.tittelrad{display:flex;align-items:flex-start;gap:10px;margin:20px 0 4px}
+.tittelrad .tittel{flex:1;margin:0}
+.tittelrad .stjerne{margin-top:0}
 .kort .tit{font-family:var(--disp);font-size:21px;font-weight:600;letter-spacing:.03em;text-transform:uppercase;line-height:1.15}
 .kort .und{font-family:var(--mono);font-size:11px;letter-spacing:.06em;color:var(--svak);margin-top:6px}
 .tom{color:var(--svak);font-size:14px;padding:26px 2px}
@@ -610,9 +621,11 @@ function tegnListe(){
   }).join('');
   var liste = OPPSKRIFTER.filter(function(o){ return o.metode === aktivMetode; });
   $('kortene').innerHTML = liste.length ? liste.map(function(o){
-    return '<button class="kort" type="button" data-id="' + o.id + '"><div class="tit">' + o.navn + '</div>' +
+    return '<div class="kort' + (erFav(o.id) ? ' fav' : '') + '" role="link" tabindex="0" data-id="' + o.id + '">' +
+      '<div class="midt"><div class="tit">' + o.navn + '</div>' +
       '<div class="und">' + o.kaffe + ' g · ' + o.vann + ' g ' + (o.vaeske || 'vann').toLowerCase() + ' · ' + ratio(o) + ' · ' + o.temp +
-      ' · ' + (lang(o) ? varighet(o.steg[o.steg.length - 1].t) : mmss(o.steg[o.steg.length - 1].t)) + '</div></button>';
+      ' · ' + (lang(o) ? varighet(o.steg[o.steg.length - 1].t) : mmss(o.steg[o.steg.length - 1].t)) + '</div></div>' +
+      stjerneHtml(o.id) + '</div>';
   }).join('') : '<div class="tom">Ingen oppskrifter her ennå.</div>';
 }
 $('faner').onclick = function(e){
@@ -620,8 +633,29 @@ $('faner').onclick = function(e){
   aktivMetode = b.dataset.m; tegnListe();
 };
 $('kortene').onclick = function(e){
+  var st = e.target.closest('.stjerne');
+  if (st){ byttFav(st.dataset.id); tegnListe(); return; }
   var b = e.target.closest('.kort'); if (b) location.hash = b.dataset.id;
 };
+$('kortene').onkeydown = function(e){
+  if ((e.key === 'Enter' || e.key === ' ') && e.target.classList.contains('kort')){
+    e.preventDefault(); location.hash = e.target.dataset.id;
+  }
+};
+
+/* ---------- favoritter: stjerne lagres på enheten ---------- */
+function hentFav(){ try { return JSON.parse(localStorage.getItem('kaffe-favoritter')) || []; } catch(e){ return []; } }
+function erFav(id){ return hentFav().indexOf(id) >= 0; }
+function byttFav(id){
+  var f = hentFav(), i = f.indexOf(id);
+  if (i >= 0) f.splice(i, 1); else f.push(id);
+  try { localStorage.setItem('kaffe-favoritter', JSON.stringify(f)); } catch(e){}
+}
+function stjerneHtml(id){
+  var på = erFav(id);
+  return '<button type="button" class="stjerne" data-id="' + id + '" aria-pressed="' + på + '" aria-label="' +
+    (på ? 'Fjern stjerne' : 'Gi stjerne') + '">' + (på ? '★' : '☆') + '</button>';
+}
 
 /* ---------- detalj ---------- */
 function tegnDetalj(){
@@ -637,7 +671,7 @@ function tegnDetalj(){
   }).join('');
 
   $('detalj').innerHTML =
-    '<div class="tittel">' + o.navn + '</div>' +
+    '<div class="tittelrad"><div class="tittel">' + o.navn + '</div>' + stjerneHtml(o.id) + '</div>' +
     '<div class="kilde">' + (o.lenke ? '<a href="' + o.lenke + '" target="_blank" rel="noopener">' + o.kilde + '</a>' : o.kilde) + '</div>' +
     '<div class="tall">' +
       '<div class="t"><i>Kaffe</i><b>' + dose + ' g</b></div>' +
@@ -661,6 +695,11 @@ function tegnDetalj(){
     (o.notat ? '<h2>Notater</h2>' + o.notat.map(function(n){ return '<p class="notat">' + n + '</p>'; }).join('') : '') +
     panelHtml();
 
+  $('detalj').querySelector('.tittelrad').onclick = function(e){
+    var st = e.target.closest('.stjerne'); if (!st) return;
+    byttFav(o.id);
+    st.outerHTML = stjerneHtml(o.id);
+  };
   $('mindre').onclick = function(){ endreDose(-1); };
   $('mer').onclick = function(){ endreDose(1); };
   if ($('nullstill')) $('nullstill').onclick = function(){ dose = o.kaffe; tegnDetalj(); };
